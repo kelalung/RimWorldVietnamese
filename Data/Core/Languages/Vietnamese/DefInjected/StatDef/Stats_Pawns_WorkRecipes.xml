@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ButcheryFleshEfficiency.label>Hiệu quả mổ thịt</ButcheryFleshEfficiency.label>
+	<ButcheryFleshEfficiency.description>Hệ số sản lượng thịt thu được khi mổ xác động vật.\n\nSố lượng thực tế cũng phụ thuộc vào kích thước cơ thể của động vật.</ButcheryFleshEfficiency.description>
+	<ButcheryFleshSpeed.label>Tốc độ mổ thịt</ButcheryFleshSpeed.label>
+	<ButcheryFleshSpeed.description>Tốc độ khi mổ xác động vật.</ButcheryFleshSpeed.description>
+	<ButcheryMechanoidEfficiency.label>Hiệu quả tháo dỡ cơ khí</ButcheryMechanoidEfficiency.label>
+	<ButcheryMechanoidEfficiency.description>Hệ số sản lượng vật liệu thu được khi tháo dỡ xác cơ khí.\n\nSố lượng thực tế cũng phụ thuộc vào kích thước cơ thể của cơ khí.</ButcheryMechanoidEfficiency.description>
+	<ButcheryMechanoidSpeed.label>Tốc độ tháo dỡ cơ khí</ButcheryMechanoidSpeed.label>
+	<ButcheryMechanoidSpeed.description>Tốc độ khi tháo dỡ xác cơ khí.</ButcheryMechanoidSpeed.description>
+	<CookSpeed.label>Tốc độ nấu ăn</CookSpeed.label>
+	<CookSpeed.description>Tốc độ khi nấu thức ăn.</CookSpeed.description>
+	<DrugCookingSpeed.label>Tốc độ nấu bia</DrugCookingSpeed.label>
+	<DrugCookingSpeed.description>Tốc độ khi nấu bia và làm các chất gây nghiện đơn giản, như thuốc lá.</DrugCookingSpeed.description>
+	<DrugSynthesisSpeed.label>Tốc độ tổng hợp thuốc</DrugSynthesisSpeed.label>
+	<DrugSynthesisSpeed.description>Tốc độ khi sản xuất thuốc và các chất gây nghiện phức tạp.</DrugSynthesisSpeed.description>
+	<FoodPoisonChance.label>Tỷ lệ thực phẩm độc hại</FoodPoisonChance.label>
+	<FoodPoisonChance.description>Xác suất khiến thực phẩm bị độc hại khi nấu ăn.\n\nBất kỳ ai ăn thực phẩm độc hại sẽ bị suy nhược tạm thời do không thoải mái, mệt mỏi và nôn mửa.</FoodPoisonChance.description>
+	<FoodPoisonChance.labelForFullStatList>Tỷ lệ ngộ độc thực phẩm (mỗi bữa ăn)</FoodPoisonChance.labelForFullStatList>
+	<GeneralLaborSpeed.label>Tốc độ lao động chung</GeneralLaborSpeed.label>
+	<GeneralLaborSpeed.description>Tốc độ làm việc chung của người này, ví dụ như cắt gạch, tinh chế nhiên liệu, đốt vật phẩm, may quần áo, sáng tác nghệ thuật, rèn giáp hoặc vũ khí. Khả năng này áp dụng cho cả công việc không liên quan đến kỹ năng và công việc mà kỹ năng ảnh hưởng đến chất lượng sản phẩm nhưng không ảnh hưởng đến tốc độ.</GeneralLaborSpeed.description>
+	<SmeltingSpeed.label>Tốc độ nấu chảy</SmeltingSpeed.label>
+	<SmeltingSpeed.description>Tốc độ nấu chảy vật phẩm.\n\nLưu ý: Do đây là công việc nặng nhọc, tốc độ sẽ không bị ảnh hưởng bởi kỹ năng.</SmeltingSpeed.description>
+</LanguageData>

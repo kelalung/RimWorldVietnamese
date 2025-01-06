@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EnslaveAttempt.label>Cố gắng nô lệ hóa</EnslaveAttempt.label>
+	<EnslaveAttempt.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải làm việc cho thuộc địa.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] thông báo cho [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải tuân lệnh và làm việc.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] ra lệnh cho [RECIPIENT_nameDef] chuẩn bị tâm lý cho cuộc sống lao động cưỡng bức.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] giải thích cho [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải làm việc hoặc sẽ phải chịu phạt.</li>
+	</EnslaveAttempt.logRulesInitiator.rulesStrings>
+	<ReduceWill.label>Cố gắng giảm bớt ý chí</ReduceWill.label>
+	<ReduceWill.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun][negative].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] giải thích cho [RECIPIENT_nameDef] rằng [negative].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đe dọa [RECIPIENT_nameDef] rằng nếu [RECIPIENT_pronoun][refused], sẽ phải đối mặt với [threat].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] thông báo cho [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun][disillusionment].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] yêu cầu [RECIPIENT_nameDef] phải [givein] cho thuộc địa.</li>
+		<li>negative-&gt;Không có tương lai</li>
+		<li>negative-&gt;Không còn lối thoát</li>
+		<li>negative-&gt;Không có tương lai bên ngoài thuộc địa</li>
+		<li>negative-&gt;Không thể trốn thoát</li>
+		<li>negative-&gt;Phải ngay lập tức tuân lệnh</li>
+		<li>negative-&gt;Phải quên đi mong muốn của [RECIPIENT_possessive]</li>
+		<li>negative-&gt;Phải đầu hàng thuộc địa</li>
+		<li>threat-&gt;Tra tấn</li>
+		<li>threat-&gt;Hình phạt</li>
+		<li>threat-&gt;Giam cầm</li>
+		<li>threat-&gt;Đói khát</li>
+		<li>threat-&gt;Giam giữ suốt đời</li>
+		<li>threat-&gt;Tử vong</li>
+		<li>threat-&gt;Cô lập</li>
+		<li>threat-&gt;Tháo rời</li>
+		<li>threat-&gt;Đánh đập</li>
+		<li>threat-&gt;Xé xác</li>
+		<li>threat-&gt;Chia sẻ thịt</li>
+		<li>threat-&gt;Thu hoạch nội tạng</li>
+		<li>threat-&gt;Giam giữ lâu dài</li>
+		<li>refused-&gt;Cố gắng trốn chạy</li>
+		<li>refused-&gt;Thể hiện sự vô lễ với thuộc địa</li>
+		<li>refused-&gt;Không làm việc</li>
+		<li>refused-&gt;Không nghe lệnh</li>
+		<li>refused-&gt;Từ chối đầu hàng</li>
+		<li>refused-&gt;Từ chối tuân lệnh</li>
+		<li>refused-&gt;Có hành vi vô lễ</li>
+		<li>disillusionment-&gt;Phải nhận thức rõ tình hình của [RECIPIENT_possessive]</li>
+		<li>disillusionment-&gt;Không nên hy vọng vào một tương lai khác</li>
+		<li>disillusionment-&gt;Tốt nhất là nên đầu hàng</li>
+		<li>disillusionment-&gt;Không có hy vọng sống sót cho [RECIPIENT_possessive]</li>
+		<li>disillusionment-&gt;Không còn lựa chọn nào khác ngoài việc đầu hàng</li>
+		<li>givein-&gt;Phải ngoan ngoãn tuân theo</li>
+		<li>givein-&gt;Đầu hàng [RECIPIENT_objective]</li>
+		<li>givein-&gt;Đầu hàng [RECIPIENT_objective]</li>
+		<li>givein-&gt;Dâng hiến cho [RECIPIENT_objective]</li>
+	</ReduceWill.logRulesInitiator.rulesStrings>
+</LanguageData>

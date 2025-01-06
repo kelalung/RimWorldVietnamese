@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AcidBurn.label>Ăn mòn axit</AcidBurn.label>
+	<AcidBurn.deathMessage>{0} đã chết do ăn mòn axit.</AcidBurn.deathMessage>
+	<Bomb.label>Bị nổ</Bomb.label>
+	<Bomb.deathMessage>{0} đã chết do nổ.</Bomb.deathMessage>
+	<BombSuper.label>Bị nổ lớn</BombSuper.label>
+	<BombSuper.deathMessage>{0} đã chết do nổ lớn.</BombSuper.deathMessage>
+	<Decayed.label>Suy giảm cơ quan</Decayed.label>
+	<Decayed.deathMessage>{0} đã chết do rối loạn chuyển hóa do suy giảm cơ quan.</Decayed.deathMessage>
+	<Deterioration.label>Lão hóa</Deterioration.label>
+	<Deterioration.deathMessage>{0} đã bị giết chết.</Deterioration.deathMessage>
+	<Extinguish.label>Ngắt</Extinguish.label>
+	<Extinguish.deathMessage>{0} đã bị giết chết.</Extinguish.deathMessage>
+	<Mining.label>Khai thác</Mining.label>
+	<Mining.deathMessage>{0} đã bị giết chết.</Mining.deathMessage>
+	<Rotting.label>Thối rữa</Rotting.label>
+	<Rotting.deathMessage>{0} đã bị giết chết.</Rotting.deathMessage>
+	<Smoke.label>Khói</Smoke.label>
+	<Smoke.deathMessage>{0} đã bị giết chết.</Smoke.deathMessage>
+	<Thump.label>Rung động</Thump.label>
+	<Thump.deathMessage>{0} đã bị bắn chết.</Thump.deathMessage>
+	<Vaporize.label>Thăng hoa</Vaporize.label>
+	<Vaporize.deathMessage>{0} đã bị bay hơi do nhiệt độ cực cao.</Vaporize.deathMessage>
+</LanguageData>

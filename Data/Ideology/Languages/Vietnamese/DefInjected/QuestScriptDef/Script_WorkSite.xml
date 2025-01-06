@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+   <li>questDescription-&gt;Bạn phát hiện một [siteLabel] bị kiểm soát bởi [faction_name] gần đó.\n\nNếu bạn muốn, bạn có thể đột kích vào trại để cướp chiến lợi phẩm ([loot]). [raidConsequences]\n\nHọ sẽ dọn dẹp trại trong vòng [timeout_duration].</li>
+    <li>raidConsequences(faction_temporary==false)-&gt;Nếu bạn làm như vậy, [faction_name] sẽ trở thành kẻ thù của bạn.</li>
+    <li>raidConsequences(faction_temporary==true)-&gt;Do [faction_name] chỉ là một nhóm độc lập yếu ớt, việc tấn công họ sẽ không gây ra tiếng xấu lớn cho ngoại giao của bạn.</li>
+  </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings>
+   <li>questName-&gt;[detected][site_label]</li>
+    <li>detected-&gt; Phát hiện</li>
+    <li>detected-&gt; Tìm thấy</li>
+    <li>detected-&gt; Gần đây</li>
+    <li>detected-&gt; Xác nhận</li>
+    <li>detected-&gt; Chú ý</li>
+    <li>detected-&gt; Quan sát</li>
+    <li>detected-&gt; Tiết lộ</li>
+	 <li>detected-&gt; Lộ ra</li>
+    <li>detected-&gt; Bộc lộ</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
+</LanguageData>

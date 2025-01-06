@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Deathrest.label>Ngủ chết</Deathrest.label>
+<Deathrest.description>Những người có gen ngủ chết phải ngủ chết mỗi vài ngày hoặc vài giờ. Ngủ chết có nghĩa là vào trạng thái hôn mê có thể tái sinh, kéo dài vài ngày. Trong thời gian này, người ngủ chết trông như đã mất mạng.\n\nNhiều thiết bị đặc biệt có thể được kết nối với người đang ngủ chết và mang lại hiệu ứng có lợi khi họ tỉnh dậy.\n\nKhông ngủ chết quá lâu sẽ gây ra hội chứng kiệt sức ngủ chết, làm giảm khả năng thể chất của một người.</Deathrest.description>
+<KillThirst.label>Khao khát giết chóc</KillThirst.label>
+<KillThirst.description>Khao khát giết chóc thỏa mãn mong muốn bạo lực đối với nạn nhân con người. Nếu không được thỏa mãn, người này sẽ trở nên rất không vui.</KillThirst.description>
+<Learning.label>Học tập</Learning.label>
+<Learning.description>Trẻ em cần các khóa học và kinh nghiệm mới để phát triển tốt, nếu không có những khóa học và kinh nghiệm này, chúng sẽ trở nên không vui.\n\nChỉ khi lịch trình của trẻ em được thiết lập cho việc giải trí hoặc bất kỳ điều gì khác, chúng mới tham gia vào các hoạt động học tập.\n\nCác hoạt động đáp ứng mong muốn học tập của trẻ em bao gồm:\n{ACTIVITIES}\n\nĐáp ứng nhu cầu học tập giúp trẻ em nhanh chóng đạt được xếp hạng phát triển, cho phép chúng có nhiều sự quan tâm và lựa chọn hơn trong giai đoạn phát triển.</Learning.description>
+<MechEnergy.label>Năng lượng</MechEnergy.label>
+<MechEnergy.description>Giá trị năng lượng cho biết cơ khí đã dự trữ bao nhiêu năng lượng sinh học để duy trì hoạt động của nó. Có thể bổ sung năng lượng tại trạm sạc. Nếu giá trị năng lượng đạt 0, cơ khí sẽ vào trạng thái ngủ đông tự động. Trong trạng thái này, tốc độ bổ sung năng lượng sẽ chậm hơn nhiều so với ở trạm sạc.</MechEnergy.description>
+<Play.label>Chơi đùa</Play.label>
+<Play.description>Trẻ sơ sinh cần người lớn đi kèm để chơi. Nếu không chơi cùng chúng, chúng sẽ không vui.</Play.description>
+</LanguageData>

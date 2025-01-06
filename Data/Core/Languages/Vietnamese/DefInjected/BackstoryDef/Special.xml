@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Child27.description>[PAWN_nameDef] là một đứa trẻ, câu chuyện tuổi thơ của [PAWN_possessive] vẫn đang được viết tiếp.</Child27.description>
+  <Child27.baseDesc>[PAWN_nameDef] là một đứa trẻ, câu chuyện tuổi thơ của [PAWN_possessive] vẫn đang được viết tiếp.</Child27.baseDesc>
+  <Child27.title>Trẻ em</Child27.title>
+  <Child27.titleShort>Trẻ em</Child27.titleShort>
+  <ChildTribal.description>[PAWN_nameDef] là một đứa trẻ, câu chuyện tuổi thơ của [PAWN_possessive] vẫn đang được viết tiếp.</ChildTribal.description>
+  <ChildTribal.baseDesc>[PAWN_nameDef] là một đứa trẻ, câu chuyện tuổi thơ của [PAWN_possessive] vẫn đang được viết tiếp.</ChildTribal.baseDesc>
+  <ChildTribal.title>Trẻ em</ChildTribal.title>
+  <ChildTribal.titleShort>Trẻ em</ChildTribal.titleShort>
+  <Colonist97.description>[PAWN_nameDef] lớn lên trong thuộc địa của chúng ta, câu chuyện của [PAWN_possessive] vẫn đang được viết tiếp.</Colonist97.description>
+  <Colonist97.baseDesc>[PAWN_nameDef] lớn lên trong thuộc địa của chúng ta, câu chuyện của [PAWN_possessive] vẫn đang được viết tiếp.</Colonist97.baseDesc>
+  <Colonist97.title>Người định cư</Colonist97.title>
+  <Colonist97.titleShort>Người định cư</Colonist97.titleShort>
+  <ColonyChild59.description>[PAWN_nameDef] lớn lên trong thuộc địa của chúng ta.</ColonyChild59.description>
+  <ColonyChild59.baseDesc>[PAWN_nameDef] lớn lên trong thuộc địa của chúng ta.</ColonyChild59.baseDesc>
+  <ColonyChild59.title>Trẻ em thuộc địa</ColonyChild59.title>
+  <ColonyChild59.titleShort>Người định cư</ColonyChild59.titleShort>
+  <Newborn79.description>[PAWN_nameDef] là một em bé, cuộc sống của [PAWN_possessive] xoay quanh việc bú sữa và ngủ.</Newborn79.description>
+  <Newborn79.baseDesc>[PAWN_nameDef] là một em bé, cuộc sống của [PAWN_possessive] xoay quanh việc bú sữa và ngủ.</Newborn79.baseDesc>
+  <Newborn79.title>Trẻ sơ sinh</Newborn79.title>
+  <Newborn79.titleShort>Trẻ sơ sinh</Newborn79.titleShort>
+  <TribeChild19.description>[PAWN_nameDef] lớn lên trong bộ lạc của chúng ta.</TribeChild19.description>
+  <TribeChild19.baseDesc>[PAWN_nameDef] lớn lên trong bộ lạc của chúng ta.</TribeChild19.baseDesc>
+  <TribeChild19.title>Trẻ em bộ lạc</TribeChild19.title>
+  <TribeChild19.titleShort>Người bộ lạc</TribeChild19.titleShort>
+  <TribeMember57.description>[PAWN_nameDef] lớn lên trong bộ lạc của chúng ta, câu chuyện của [PAWN_possessive] vẫn đang được viết tiếp.</TribeMember57.description>
+  <TribeMember57.baseDesc>[PAWN_nameDef] lớn lên trong bộ lạc của chúng ta, câu chuyện của [PAWN_possessive] vẫn đang được viết tiếp.</TribeMember57.baseDesc>
+  <TribeMember57.title>Người bộ lạc</TribeMember57.title>
+  <TribeMember57.titleShort>Người bộ lạc</TribeMember57.titleShort>
+  <VatgrownChild11.description>[PAWN_nameDef] đã trải qua phần lớn thời gian tuổi thơ trong buồng nuôi cấy.</VatgrownChild11.description>
+  <VatgrownChild11.baseDesc>[PAWN_nameDef] đã trải qua phần lớn thời gian tuổi thơ trong buồng nuôi cấy.</VatgrownChild11.baseDesc>
+  <VatgrownChild11.title>Trẻ em nuôi cấy</VatgrownChild11.title>
+  <VatgrownChild11.titleShort>Trẻ em</VatgrownChild11.titleShort>
+</LanguageData>

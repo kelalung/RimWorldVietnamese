@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings>
+    <li>r_deityType-&gt;[memeConcept] của [god]</li>
+    <li>god(p=7, gender!=Female)-&gt;Thần</li>
+    <li>god(p=7, gender==Female)-&gt;Nữ thần</li>
+    <li>god(p=4)-&gt;[memeGod]</li>
+    <li>god(p=3)-&gt;Linh</li>
+    <li>god-&gt;Chúa</li>
+    <li>god-&gt;Chúa</li>
+  </DeityTypeMakerGlobal.rulePack.rulesStrings>
+</LanguageData>

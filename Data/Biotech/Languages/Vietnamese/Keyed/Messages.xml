@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort} đã chuyển từ giai đoạn đầu sang giai đoạn hai của thai kỳ.</MessageColonistReaching2ndTrimesterPregnancy>
+<MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort} đã chuyển từ giai đoạn hai sang giai đoạn ba của thai kỳ.</MessageColonistReaching3rdTrimesterPregnancy>
+<MessageColonistInFinalStagesOfLabor>{PAWN_labelShort} đã đến giai đoạn sinh nở.</MessageColonistInFinalStagesOfLabor>
+<MessageMechChargerDestroyedMechGoesBerserk>Trạm sạc mà {PAWN_nameDef} đang sử dụng đã bị phá hủy! Việc truyền năng lượng bị gián đoạn đã làm rối loạn hệ thống nhận diện kẻ thù, khiến nó rơi vào trạng thái hoảng loạn.</MessageMechChargerDestroyedMechGoesBerserk>
+<MessageCantUseOnResistingPerson>Không thể sử dụng {ABILITY_label} trên bất kỳ ai đang kháng cự.</MessageCantUseOnResistingPerson>
+<MessageCannotUseOnSameXenotype>{0_labelShort} đã là “{0_xenotype}”.</MessageCannotUseOnSameXenotype>
+<MessagePawnHasNoXenogenes>{0_labelShort} không có gen ngoại lai để cấy ghép.</MessagePawnHasNoXenogenes>
+<MessageCanOnlyTargetColonistsPrisonersAndSlaves>Phôi ngoại lai chỉ có thể được cấy ghép vào thuộc địa, tù nhân và nô lệ.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+<MessageCannotImplantInTempFactionMembers>Không thể cấy ghép cho các thành viên tạm thời của phe.</MessageCannotImplantInTempFactionMembers>
+<MessageXenogermCompleted>Một phôi ngoại lai đã được lắp ráp hoàn tất.</MessageXenogermCompleted>
+<MessageXenogermCancelledMissingPack>Quá trình lắp ráp phôi ngoại lai của {0_labelShort} đã bị hủy: thiếu gen cần thiết.</MessageXenogermCancelledMissingPack>
+<MessageAbsorbingXenogermWillAngerFaction>Hấp thụ phôi ngoại lai của {PAWN_nameDef} sẽ làm phẫn nộ {0}.</MessageAbsorbingXenogermWillAngerFaction>
+<MessageCannotUseOnOtherFactions>{ABILITY_label} chỉ có thể được sử dụng trên thuộc địa, tù nhân và nô lệ.</MessageCannotUseOnOtherFactions>
+<MessageCannotBecomeNonPreferredXenotype>{0_labelShort} từ chối trở thành một xenotype không được yêu thích.</MessageCannotBecomeNonPreferredXenotype>
+<MessageCaravanAddingEscortingMech>Tự động thêm {MECH_nameDef} vào đoàn vì nó đang bảo vệ {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech>
+<MessageCaravanRemovingEscortingMech>Tự động loại bỏ {MECH_nameDef} khỏi đoàn vì nó đang bảo vệ {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
+<MessageMechanitorCasketOpened>{0} là một kỹ sư máy móc. Bạn có thể lấy {0_possessive}{1_label} và sử dụng nó cho thuộc địa.</MessageMechanitorCasketOpened>
+<MessageNoBloodfeedersPrisonerInteractionReset>Một số tù nhân cần có người hút máu. Do không có người hút máu trong thuộc địa, chế độ tương tác của họ đã được đặt lại thành “Duy trì sự sống”.</MessageNoBloodfeedersPrisonerInteractionReset>
+<MessagePregnancyTerminated>Thai kỳ của {PAWN_nameDef} đã kết thúc thành công.</MessagePregnancyTerminated>
+<MessageAngeredPollutedCell>{0} đã bị kích thích (điểm {1})</MessageAngeredPollutedCell>
+<MessageWarningPollutedCell>Cần có địa hình chưa bị ô nhiễm.</MessageWarningPollutedCell>
+<MessageWarningNotPollutedCell>Cần có địa hình đã bị ô nhiễm.</MessageWarningNotPollutedCell>
+<MessagePlantDiedOfPollution>{0} đã chết vì ô nhiễm.</MessagePlantDiedOfPollution>
+<MessagePlantDiedOfNoPollution>{0} đã chết vì thiếu ô nhiễm.</MessagePlantDiedOfNoPollution>
+<MessageWorldTilePollutionChanged>Ô nhiễm đã tăng lên {0} tại {1}.</MessageWorldTilePollutionChanged>
+<MessageCocoonDisturbed>Một cái kén đã bị quấy rối, và những sinh vật bên trong đang bò ra!</MessageCocoonDisturbed>
+<MessageCocoonDisturbedPlural>Nhiều cái kén đã bị quấy rối, và những sinh vật bên trong đang bò ra!</MessageCocoonDisturbedPlural>
+<MessagePlantDiedOfRot_PollutedTerrain>{0} đã héo và mục nát do địa hình ô nhiễm.</MessagePlantDiedOfRot_PollutedTerrain>
+<MessageTargetMustBeDownedToForceReimplant>Để cưỡng chế cấy ghép phôi ngoại lai của {PAWN_nameDef} vào người khác, {PAWN_objective} phải bị hạ gục trước.</MessageTargetMustBeDownedToForceReimplant>
+<MessageWorkTypeDisabledAge>{0_nameDef} chỉ mới {1} tuổi. Công việc {2} chỉ có thể bắt đầu khi {3} tuổi.</MessageWorkTypeDisabledAge>
+<MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef} hiện có thể tỉnh dậy an toàn từ trạng thái ngủ chết.</MessageDeathrestingPawnCanWakeSafely>
+<MessageMechanitorLostControlOfMech>{0_nameDef} đã mất quyền kiểm soát một {1_kindBase}.</MessageMechanitorLostControlOfMech>
+<MessageMechanitorDisconnectedFromMech>{0_nameDef} đã mất kết nối với {1_nameDef}.</MessageMechanitorDisconnectedFromMech>
+<MetabolismTooLowToCreateXenogerm>Hiệu suất trao đổi chất tổng thể của gen đã chọn không được thấp hơn {MIN}, nhưng hiện tại chỉ có {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
+<ComplexityTooHighToCreateXenogerm>Hiệu suất trao đổi chất tổng thể của gen đã chọn không được cao hơn {MAX}, nhưng hiện tại có {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
+<MessageNoSelectedGenepacks>Không thể tạo phôi ngoại lai mà không có gen.</MessageNoSelectedGenepacks>
+<MessageNoSelectedGenes>Không thể tạo phôi ngoại lai mà không có gen.</MessageNoSelectedGenes>
+<CanOnlyStoreNumGenepacks>{0_label} chỉ có thể lưu trữ {1}x gen.</CanOnlyStoreNumGenepacks>
+<XenotypeNameCannotBeEmpty>Tên xenotype không thể để trống.</XenotypeNameCannotBeEmpty>
+<MessageGeneMissingPrerequisite>{0} thiếu gen tiền đề</MessageGeneMissingPrerequisite>
+<MessageDeathrestCapacityChanged>{PAWN_nameDef} đã tăng khả năng ngủ chết từ {OLD} lên {NEW}.</MessageDeathrestCapacityChanged>
+<SanguophagesArrivingSoon>Các đồng loại máu sẽ đến trong vài giờ tới và bắt đầu cuộc họp.</SanguophagesArrivingSoon>
+<SanguophagesBegunMeeting>Các đồng loại máu đã bắt đầu cuộc họp.</SanguophagesBegunMeeting>
+<SanguophagesLeavingTemperature>Các đồng loại máu đang chuẩn bị rời khỏi bản đồ do nhiệt độ nguy hiểm.</SanguophagesLeavingTemperature>
+<MessagePawnWokenFromSunlight>{PAWN_nameDef} đã tỉnh dậy từ trạng thái ngủ chết do ánh sáng mặt trời chiếu vào.</MessagePawnWokenFromSunlight>
+<MessageBedExposedToSunlight>Địa điểm mà {BED_labelShort} {PAWN_nameDef} được phân công để ngủ chết đã bị ánh sáng mặt trời chiếu vào. {PAWN_nameDef} không thể ngủ chết ở đó.</MessageBedExposedToSunlight>
+<GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} đã bị đẩy ra do máy trích xuất gen mất điện.</GeneExtractorNoPowerEjectedMessage>
+<MessagePawnKilledRipscanner>{PAWN_nameDef} đã bị máy quét rãnh phá hủy não.</MessagePawnKilledRipscanner>
+<MessageSubcoreSoftscannerCompleted>Quá trình quét khác biệt của {PAWN_nameDef} đã hoàn tất.</MessageSubcoreSoftscannerCompleted>
+<MessageCannotResurrectDessicatedCorpse>Không thể hồi sinh xác chết khô.</MessageCannotResurrectDessicatedCorpse>
+<MessageAboutToExplode>{0} sắp nổ!</MessageAboutToExplode>
+<MessageChildcareDisabled>{FEEDER_labelShort} không thể thực hiện công việc “chăm sóc trẻ em”.</MessageChildcareDisabled>
+<MessageChildcareNotAssigned>{FEEDER_labelShort} chưa được phân công công việc “chăm sóc trẻ em”.</MessageChildcareNotAssigned>
+<MessageTooManyCustomXenotypes>Bạn đã đạt giới hạn số lượng xenotype tùy chỉnh mà bạn có thể lưu. Nếu muốn tạo thêm, bạn phải xóa một số.</MessageTooManyCustomXenotypes>
+<MessageConflictingGenesPresent>Không thể lưu xenotype: có nhiều gen xung đột.</MessageConflictingGenesPresent>
+<MessageDeathrestBuildingBound>{BUILDING_labelShort} đã liên kết với {PAWN_nameDef} (khả năng ngủ chết {CUR}/{MAX}).</MessageDeathrestBuildingBound>
+<MessageDevelopmentalStageSelectionDisabledByScenario>Việc chọn giai đoạn sống bị vô hiệu hóa do kịch bản.</MessageDevelopmentalStageSelectionDisabledByScenario>
+<MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef} không có đủ máu để sản xuất gói máu.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+<MessageCannotStartHemogenExtraction>{PAWN_nameDef} không có đủ máu để sản xuất gói máu.</MessageCannotStartHemogenExtraction>
+<MessageCannotPostponeGrowthMoment>Hiện tại phải chọn cách phát triển cho {PAWN_nameDef}.</MessageCannotPostponeGrowthMoment>
+<MessageDraftedPawnCarryingBaby>Cảnh báo: {0_labelShort} đang mang một em bé khi bị triệu tập.</MessageDraftedPawnCarryingBaby>
+<MessageTakingBabyToSafeTemperature>{ADULT_nameDef} đang đưa {BABY_nameDef} đến một môi trường an toàn hơn về nhiệt độ.</MessageTakingBabyToSafeTemperature>
+<MessagePregnancyFailed>Thai kỳ của {MOTHER_nameDef} và {FATHER_nameDef} đã thất bại.</MessagePregnancyFailed>
+<MessageFerilizeFailed>{PAWN_nameDef} đã không thành công trong việc thụ tinh trứng.</MessageFerilizeFailed>
+<CombinedGenesExceedMetabolismLimits>Các gen kết hợp vượt quá giới hạn trao đổi chất.</CombinedGenesExceedMetabolismLimits>
+</LanguageData>

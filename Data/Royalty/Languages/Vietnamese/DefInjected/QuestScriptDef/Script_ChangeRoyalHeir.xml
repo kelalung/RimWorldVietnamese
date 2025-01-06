@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+<li>questDescription-&gt;\nĐể [titleHeir_nameFull] có thể hợp pháp thừa kế danh hiệu của [titleHolder_nameFull], bạn phải xây dựng một kỷ niệm.\n\nXây dựng cái kỷ niệm [monumentSize] này cần những tài nguyên sau (tổng giá trị: [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nNếu bạn không hoàn thành công việc này trong vòng 20 ngày, sẽ bị coi là một sự xúc phạm đối với nghi lễ này. Mối quan hệ với [asker_factionName] sẽ giảm 25, và người thừa kế sẽ không có bất kỳ thay đổi nào.\n\nNếu kỷ niệm bị phá hủy trong vòng [keepMonumentTicks_duration] sau khi hoàn thành, mối quan hệ của bạn với [asker_factionName] sẽ giảm [goodwillChangeIfMonumentDestroyed].</li>
+</ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+<ChangeRoyalHeir.questNameRules.rulesStrings>
+<li>questName-&gt;Di sản của [titleHeir_nameDef]</li>
+</ChangeRoyalHeir.questNameRules.rulesStrings>
+<ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Thời gian còn lại: {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
+<ChangeRoyalHeir.LetterTextAskerOffended.slateRef>Thay đổi di sản của [titleHolder_nameDef] thất bại</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
+<ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[asker_nameDef] đã tỏ ra phẫn nộ vì bạn không xây dựng kỷ niệm trong thời gian quy định, dẫn đến việc không thể thực hiện di sản thần thánh.\n\nMối quan hệ của bạn với [asker_faction_name] đã giảm 25.</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
+<ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>Người giữ danh hiệu {SUBJECT_definite} đã chết.</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
+<ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>Vì người thừa kế đã thay đổi, {SUBJECT_definite} đã chết.</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
+<ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>Người thừa kế được chỉ định {SUBJECT_definite} đã chết.</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
+<ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>Người đáng lẽ trở thành người thừa kế danh hiệu {SUBJECT_definite} đã chết.</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
+<ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>Kỷ niệm bị phá hủy</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
+<ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>Bạn đã phá hủy kỷ niệm quá nhanh sau khi hoàn thành, điều này đã làm phật lòng [asker_nameDef].\n\nMối quan hệ của bạn với [asker_faction_name] đã giảm [goodwillChangeIfMonumentDestroyed].</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
+<ChangeRoyalHeir.LetterLabelNewHeir.slateRef>Người thừa kế mới: [titleHeir_nameDef]</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
+<ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef] là người thừa kế mới của [titleHolder_nameDef].</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+<ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>Đừng phá hủy kỷ niệm {0}</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
+<ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>Đừng phá hủy kỷ niệm {0}</ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>
+<ChangeRoyalHeir.KeepMonument.slateRef>Bảo vệ kỷ niệm {0}</ChangeRoyalHeir.KeepMonument.slateRef>
+</LanguageData>

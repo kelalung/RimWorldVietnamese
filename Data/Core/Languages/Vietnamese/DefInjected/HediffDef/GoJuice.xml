@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GoJuiceAddiction.label>Nghiện nước năng lượng</GoJuiceAddiction.label>
+	<GoJuiceAddiction.description>Việc tiêu thụ nước năng lượng quá mức trong thời gian dài đã dẫn đến sự thích nghi của hệ thần kinh.\n\nNếu không tiêu thụ đủ lượng nước năng lượng thường xuyên, các triệu chứng cai nghiện sẽ bắt đầu xuất hiện. Thời gian cai nghiện kéo dài sẽ buộc não bộ thích nghi và trở về trạng thái bình thường, từ đó giúp bỏ nghiện nước năng lượng.</GoJuiceAddiction.description>
+	<GoJuiceAddiction.stages.withdrawal.label>Triệu chứng cai nghiện</GoJuiceAddiction.stages.withdrawal.label>
+	<GoJuiceHigh.label>Cảm giác hưng phấn từ nước năng lượng</GoJuiceHigh.label>
+	<GoJuiceHigh.description>Các hợp chất trong nước năng lượng chảy trong máu có thể tăng cường khả năng chiến đấu. Nó có thể nâng cao khả năng chiến đấu và ngay lập tức tăng cường tinh thần khi uống.</GoJuiceHigh.description>
+	<GoJuiceHigh.labelNoun>Cảm giác hưng phấn từ nước năng lượng</GoJuiceHigh.labelNoun>
+	<GoJuiceTolerance.label>Khả năng chịu đựng nước năng lượng</GoJuiceTolerance.label>
+	<GoJuiceTolerance.description>Khả năng chịu đựng nước năng lượng lâu dài. Sự thích nghi càng nghiêm trọng, càng cần nhiều nước năng lượng để đạt được hiệu ứng tương tự như trước đây.</GoJuiceTolerance.description>
+	<GoJuiceTolerance.stages.small.label>Nhẹ</GoJuiceTolerance.stages.small.label>
+	<GoJuiceTolerance.stages.large.label>Mạnh</GoJuiceTolerance.stages.large.label>
+	<GoJuiceTolerance.stages.massive.label>Cực mạnh</GoJuiceTolerance.stages.massive.label>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallBionicArm.label>Cài đặt cánh tay sinh học</InstallBionicArm.label>
+	<InstallBionicArm.description>Cài đặt cánh tay sinh học.</InstallBionicArm.description>
+	<InstallBionicArm.jobString>Đang cài đặt cánh tay sinh học.</InstallBionicArm.jobString>
+	<InstallBionicEar.label>Cài đặt tai sinh học</InstallBionicEar.label>
+	<InstallBionicEar.description>Cài đặt tai sinh học.</InstallBionicEar.description>
+	<InstallBionicEar.jobString>Đang cài đặt tai sinh học.</InstallBionicEar.jobString>
+	<InstallBionicEye.label>Cài đặt mắt sinh học</InstallBionicEye.label>
+	<InstallBionicEye.description>Cài đặt mắt sinh học.</InstallBionicEye.description>
+	<InstallBionicEye.jobString>Đang cài đặt mắt sinh học.</InstallBionicEye.jobString>
+	<InstallBionicHeart.label>Cài đặt tim sinh học</InstallBionicHeart.label>
+	<InstallBionicHeart.description>Cài đặt tim sinh học.</InstallBionicHeart.description>
+	<InstallBionicHeart.jobString>Đang cài đặt tim sinh học.</InstallBionicHeart.jobString>
+	<InstallBionicJaw.label>Cài đặt hàm sinh học</InstallBionicJaw.label>
+	<InstallBionicJaw.description>Cài đặt hàm sinh học.</InstallBionicJaw.description>
+	<InstallBionicJaw.jobString>Đang cài đặt hàm sinh học.</InstallBionicJaw.jobString>
+	<InstallBionicLeg.label>Cài đặt chân sinh học</InstallBionicLeg.label>
+	<InstallBionicLeg.description>Cài đặt chân sinh học.</InstallBionicLeg.description>
+	<InstallBionicLeg.jobString>Đang cài đặt chân sinh học.</InstallBionicLeg.jobString>
+	<InstallBionicSpine.label>Cài đặt cột sống sinh học</InstallBionicSpine.label>
+	<InstallBionicSpine.description>Cài đặt cột sống sinh học.</InstallBionicSpine.description>
+	<InstallBionicSpine.jobString>Đang cài đặt cột sống sinh học.</InstallBionicSpine.jobString>
+	<InstallBionicStomach.label>Cài đặt dạ dày sinh học</InstallBionicStomach.label>
+	<InstallBionicStomach.description>Cài đặt dạ dày sinh học.</InstallBionicStomach.description>
+	<InstallBionicStomach.jobString>Đang cài đặt dạ dày sinh học.</InstallBionicStomach.jobString>
+	<InstallBionicTongue.label>Cài đặt lưỡi sinh học</InstallBionicTongue.label>
+	<InstallBionicTongue.description>Cài đặt lưỡi sinh học.</InstallBionicTongue.description>
+	<InstallBionicTongue.jobString>Đang cài đặt lưỡi sinh học.</InstallBionicTongue.jobString>
+	<InstallDeathAcidifier.label>Cài đặt chất hòa tan</InstallDeathAcidifier.label>
+	<InstallDeathAcidifier.description>Cài đặt chất hòa tan.</InstallDeathAcidifier.description>
+	<InstallDeathAcidifier.jobString>Đang cài đặt chất hòa tan.</InstallDeathAcidifier.jobString>
+</LanguageData>

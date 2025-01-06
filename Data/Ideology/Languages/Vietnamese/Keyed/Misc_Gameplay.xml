@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CustomizeIdeoligion>Tùy chỉnh văn hóa</CustomizeIdeoligion>
+	<ChooseYourIdeoligion>Chọn hình thức văn hóa của bạn</ChooseYourIdeoligion>
+	<RandomStructureTip>Sẽ áp dụng một cấu trúc ngẫu nhiên cho văn hóa của bạn.</RandomStructureTip>
+	<RandomStyleTip>Sẽ áp dụng một phong cách ngẫu nhiên cho văn hóa của bạn.</RandomStyleTip>
+	<PlayClassic>Chế độ cổ điển\nThế giới biên giới</PlayClassic>
+	<CreateCustomFluid>Tùy chỉnh\nChế độ tiến hóa</CreateCustomFluid>
+	<CreateCustomFixed>Tùy chỉnh\nChế độ cố định</CreateCustomFixed>
+	<CustomIdeoligions>Tùy chỉnh văn hóa</CustomIdeoligions>
+	<LoadSaved>Tải cài đặt đã lưu</LoadSaved>
+	<Structure>Cấu trúc</Structure>
+	<ChooseYourIdeoligionDesc>Văn hóa của những người thuộc địa khởi đầu của bạn là gì? Những văn hóa này sẽ ảnh hưởng đến lối chơi và hình ảnh, bạn có thể tuyển dụng người khác tham gia văn hóa của bạn hoặc chấp nhận văn hóa của họ.</ChooseYourIdeoligionDesc>
+	<CreateCustom>Tạo tùy chỉnh</CreateCustom>
+	<DeleteCustom>Xóa tùy chỉnh</DeleteCustom>
+	<CreateNew>Tạo mới</CreateNew>
+	<CreateFluid>Tạo mới</CreateFluid>
+	<LoadExisting>Tải cài đặt đã lưu</LoadExisting>
+	<CreateCustomIdeoligion>Tạo hình thức văn hóa tùy chỉnh</CreateCustomIdeoligion>
+	<CustomIdeoligionSectionHeader>Tùy chỉnh văn hóa</CustomIdeoligionSectionHeader>
+	<FactionIdeoligionSectionHeader>Văn hóa phái</FactionIdeoligionSectionHeader>
+	<LoadExistingIdeoligion>Tải hình thức văn hóa đã lưu</LoadExistingIdeoligion>
+	<SelectAnIdeo>Chọn hình thức văn hóa cho phái của bạn ở bên trái, hoặc</SelectAnIdeo>
+	<Ideo>Văn hóa</Ideo>
+	<RandomizeAll>Tất cả ngẫu nhiên</RandomizeAll>
+	<Appearance>Diện mạo</Appearance>
+	<DoneButton>Hoàn tất</DoneButton>
+	<BeliefInIdeo>Tín ngưỡng</BeliefInIdeo>
+	<Reward_RelicInfo>Thông tin về {0}</Reward_RelicInfo>
+	<Reward_RelicInfoLabel>Thông tin về {0}</Reward_RelicInfoLabel>
+	<RelicOf>Thánh vật của {IDEO_name}</RelicOf>
+	<Altar>Đền thờ</Altar>
+	<Base>Cơ sở</Base>
+	<MinExpectation>Kỳ vọng tối thiểu</MinExpectation>
+	<PreceptThoughtMoodRange>Từ {0} đến {1}</PreceptThoughtMoodRange>
+	<ComesFromIdeo>Xuất phát từ văn hóa</ComesFromIdeo>
+	<CurrentTotalAnimalBodySizePerColonist>Tổng kích thước cơ thể động vật cần thiết cho mỗi thuộc địa hiện tại</CurrentTotalAnimalBodySizePerColonist>
+	<AnimalsBodySizePerColonist>Kích thước cơ thể động vật cho mỗi thuộc địa</AnimalsBodySizePerColonist>
+	<VeneratedAnimalsBodySizePerColonist>Kích thước cơ thể của các thần thú gần mỗi thuộc địa hiện tại</VeneratedAnimalsBodySizePerColonist>
+	<MinAnimalBodySizePerColonist>Mỗi thuộc địa cần ít nhất kích thước động vật là {0} (tổng kích thước cơ thể của động vật liên quan).</MinAnimalBodySizePerColonist>
+	<Disables>Vô hiệu hóa</Disables>
+	<RequiresOnePrecept>Cần một trong các quy tắc sau đây</RequiresOnePrecept>
+	<RequiredPrecepts>Các quy tắc cần thiết</RequiredPrecepts>
+	<RequiredRituals>Các nghi lễ cần thiết</RequiredRituals>
+	<PreventsPrecepts>Miễn trừ quy tắc</PreventsPrecepts>
+	<Styles>Phong cách</Styles>
+	<ChanceToHavePrecept>Các quy tắc có thể chọn</ChanceToHavePrecept>
+	<FavoriteColorTooltip>Màu sắc yêu thích của {PAWN_labelShort}. Nếu trang phục mặc trên {PERCENTAGE} có màu này hoặc {ORIDEO}, sẽ khiến {PAWN_objective} cảm thấy vui vẻ.\n\nBạn có thể sử dụng thuốc nhuộm tại bàn trang điểm để điều chỉnh màu sắc trang phục.</FavoriteColorTooltip>
+	<OrIdeoColor>, hoặc màu đại diện cho văn hóa của {PAWN_possessive}</OrIdeoColor>
+	<SetIdeoColor>Đặt màu đại diện cho văn hóa</SetIdeoColor>
+	<SetFavoriteColor>Đặt thành màu yêu thích</SetFavoriteColor>
+	<FavoriteColorPickerTip>Màu sắc yêu thích của {PAWN_nameDef}. Nếu trang phục mặc trên 60% có màu này hoặc màu đại diện cho văn hóa của {PAWN_possessive}, sẽ khiến {PAWN_objective} cảm thấy vui vẻ.</FavoriteColorPickerTip>
+	<IdeoColorPickerTip>Màu đại diện cho văn hóa của {PAWN_nameDef}. Nếu trang phục mặc trên 60% có màu này hoặc màu yêu thích của {PAWN_possessive}, sẽ khiến {PAWN_objective} cảm thấy vui vẻ.</IdeoColorPickerTip>
+	<ConfigureIdeoligion>Cấu hình văn hóa cho phái của bạn</ConfigureIdeoligion>
+	<NotEnoughDye>Không đủ thuốc nhuộm.</NotEnoughDye>
+	<ApparelLockedCannotRecolor>{PAWN_nameDef} không muốn thay đổi màu sắc cho {PAWN_possessive} {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
+	<NotEnoughDyeWillRecolorApparel>Thuộc địa sẽ thay đổi màu sắc cho trang phục khi có đủ thuốc nhuộm.</NotEnoughDyeWillRecolorApparel>
+	<NotEnoughDyeWillRecolorHair>Thuộc địa sẽ thay đổi màu sắc cho tóc của họ khi có đủ thuốc nhuộm.</NotEnoughDyeWillRecolorHair>
+	<IdeoCertaintyTooltip>Độ công nhận của {PAWN_labelShort} đối với {IDEO} là {PERCENTAGE}</IdeoCertaintyTooltip>
+	<DisabledByPrecept>Bị vô hiệu hóa bởi quy tắc {0}</DisabledByPrecept>
+	<Everyone>Tất cả mọi người</Everyone>
+	<Narrative>Câu chuyện</Narrative>
+	<NarrativeLower>Câu chuyện</NarrativeLower>
+	<PreceptName>Tên quy tắc</PreceptName>
+	<PreceptNameLower>Tên quy tắc</PreceptNameLower>
+	<Changing>Đang sửa đổi {0}</Changing>
+	<StructuresLower>Cấu trúc</StructuresLower>
+	<MemesLower>Meme</MemesLower>
+	<Reward_DevelopmentPointsLabel>Điểm phát triển</Reward_DevelopmentPointsLabel>
+	<Reward_DevelopmentPoints>Điểm phát triển của {0} sẽ tăng lên {1}.\n\nBạn hiện có {2} điểm phát triển, và khi bạn có {3} điểm phát triển, bạn có thể thực hiện cải cách văn hóa.\n\nKiếm thêm điểm phát triển bằng cách hoàn thành các nhiệm vụ và nghi lễ khác.</Reward_DevelopmentPoints>
+	<CurrentDevelopmentPoints>Điểm hiện tại</CurrentDevelopmentPoints>
+	<ReformDevelopmentPoints>Điểm cần thiết để cải cách</ReformDevelopmentPoints>
+	<QuestLower>Nhiệm vụ</QuestLower>
+	<MealKindVegetarian>Chay</MealKindVegetarian>
+	<MealKindMeat>Có thịt</MealKindMeat>
+	<MealKindAny>Không kiêng khem</MealKindAny>
+	<WearingDesiredApparelMulti>Trang phục này</WearingDesiredApparelMulti>
+	<UnableToLoadIdeoTitle>Không thể tải văn hóa</UnableToLoadIdeoTitle>
+	<UnableToLoadIdeoDescription>Không thể tải hình thức văn hóa đã chọn do yêu cầu của phái đối với hình thức văn hóa. Các yêu cầu vi phạm như sau:</UnableToLoadIdeoDescription>
+	<UnableToLoadIdeoMemeNotAllowed>Meme {MEME} không cho phép cho phái {FACTIONTYPE}</UnableToLoadIdeoMemeNotAllowed>
+	<UnableToLoadIdeoMemeRequired>Meme {MEME} là bắt buộc cho phái {FACTIONTYPE}</UnableToLoadIdeoMemeRequired>
+	<UnableToLoadIdeoPreceptNotAllowed>Quy tắc {PRECEPT} không được phép sử dụng cho các phái không phải người chơi</UnableToLoadIdeoPreceptNotAllowed>
+	<RitualTargetGraveInfo>Mồ chứa {PAWN_labelShort}</RitualTargetGraveInfo>
+	<RitualTargetEmptyGraveInfo>Mồ trống để tưởng nhớ sự ra đi của {PAWN_labelShort}.</RitualTargetEmptyGraveInfo>
+	<RitualTargetGraveInfoAbstract>Mồ chứa {IDEO_memberNameIndef}</RitualTargetGraveInfoAbstract>
+	<RitualTargetGraveInfoAbstractNoIdeo>Một ngôi mộ có thi thể.</RitualTargetGraveInfoAbstractNoIdeo>
+	<RitualTargetEmptyGraveInfoAbstract>Một mồ trống để tưởng nhớ sự ra đi của {IDEO_memberNameIndef}.</RitualTargetEmptyGraveInfoAbstract>
+	<RitualTargetGraveInfoMustBeBuried>Thi thể của {PAWN_labelShort} phải được chôn trước</RitualTargetGraveInfoMustBeBuried>
+	<RitualTargetGatherSpotInfo>Điểm tụ tập bất kỳ, chẳng hạn như bàn</RitualTargetGatherSpotInfo>
+	<RitualTargetGatherAltarOrRitualSpotInfo>Bàn thờ hoặc bất kỳ điểm nghi lễ nào.</RitualTargetGatherAltarOrRitualSpotInfo>
+	<RitualTargetGatherAltarIdeogramOrRitualSpotInfo>Bàn thờ, hình ảnh biểu tượng hoặc bất kỳ điểm nghi lễ nào.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
+	<RitualTargetLightBallIsNotPowered>Bóng đèn chưa được cấp điện.</RitualTargetLightBallIsNotPowered>
+	<RitualTargetNoPoweredSpeakers>Không có loa đã được cấp điện.</RitualTargetNoPoweredSpeakers>
+	<RitualTargetCampfireNoFuel>Lửa trại không có nhiên liệu.</RitualTargetCampfireNoFuel>
+	<RitualTargetCampfireMustBeUnroofed>Lửa trại phải ở ngoài trời.</RitualTargetCampfireMustBeUnroofed>
+	<RitualTargetNoDrum>Không tìm thấy trống gần đó.</RitualTargetNoDrum>
+	<RitualTargetNeedUnroofedCells>Cần ít nhất {0} ô không có mái che gần đó.</RitualTargetNeedUnroofedCells>
+	<RitualTargetCampfirePartyInfo>Một lửa trại đã được thắp sáng hoặc điểm nghi lễ.</RitualTargetCampfirePartyInfo>
+	<RitualTargetUnconnectedGaruanlenTreeInfo>Một cây mẹ chưa giao hưởng.</RitualTargetUnconnectedGaruanlenTreeInfo>
+	<RitualTargetConnectedGauranlenTree>Đã giao hưởng với {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+	<RitualTargetConnectionTornGauranlenTree>Giao hưởng của {TREE_definite} đã bị gián đoạn. Nó có thể giao hưởng lại sau {1}.</RitualTargetConnectionTornGauranlenTree>
+	<RitualTargetWoodInfo>Bạn cần chuẩn bị {0} khúc gỗ cho mỗi người tham gia ({1} người).</RitualTargetWoodInfo>
+	<RitualTargetWoodInfoAppend>Một người tham gia không thể đến kho gỗ.</RitualTargetWoodInfoAppend>
+	<RitualTargetWoodInfoAppendMultiple>{0} người tham gia không thể đến kho gỗ.</RitualTargetWoodInfoAppendMultiple>
+	<RitualTargetWoodInfoWarning>{PAWN_labelShort} không thể đến kho gỗ.</RitualTargetWoodInfoWarning>
+	<RitualTargetUnreachable>{0} phải có thể đến vị trí nghi lễ.</RitualTargetUnreachable>
+	<Accuse>Buộc tội</Accuse>
+	<RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} không đồng ý với hành vi hy sinh của văn hóa này, vì vậy không muốn trở thành vật tế.</RitualScarificationWarnNonScarificationIdeo>
+	<RitualScarificationWarnWimp>{PAWN_labelShort} từ chối trở thành vật tế vì tính cách yếu đuối của mình.</RitualScarificationWarnWimp>
+	<RitualBlindingWarnWimp>{PAWN_labelShort} từ chối bị mù vì tính cách yếu đuối của mình.</RitualBlindingWarnWimp>
+	<RitualScarificationTriggerExtraDesc>Các thuộc địa {IDEOMEMBERPLURAL} sẽ khao khát nghi lễ khắc sẹo khi số lượng {IDEOMEMBERPLURAL} bị khắc sẹo thấp hơn {0}.</RitualScarificationTriggerExtraDesc>
+	<RitualBlindingTriggerExtraDesc>Mỗi thuộc địa tham gia {IDEOMEMBER} sẽ khao khát bị mù.</RitualBlindingTriggerExtraDesc>
+	<RitualOutcomeExtraDesc_DancePartyWorkFocus>Mỗi người tham gia nghi lễ này sẽ nhận được một ngày làm việc hăng say (tăng {PERCENTAGE} tốc độ làm việc toàn cầu!)</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+	<RitualOutcomeExtraDesc_BlindingPsylink>Nhờ nghi lễ hy sinh mù thành công, {PAWN_labelShort} đã nhận được một cấp độ tâm linh!</RitualOutcomeExtraDesc_BlindingPsylink>
+	<RitualOutcomeExtraDesc_BlindingPsylinkAbility>{PAWN_pronoun} dựa trên cấp độ tâm linh mới của mình, đã nhận được khả năng tâm linh {0}.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+	<RitualOutcomeExtraDesc_ConsumableInspiration>Nhờ nghi lễ {RITUAL} thành công, {PAWN_labelShort} đã nhận được {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+	<RitualOutcomeExtraDesc_SkylanternWanderers>Đèn trời của bạn đã thu hút một số du khách thân thiện, họ sẽ đến thăm thuộc địa của bạn và để lại quà tặng.</RitualOutcomeExtraDesc_SkylanternWanderers>
+	<RitualOutcomeExtraDesc_Execution>Tất cả nô lệ tham gia nghi lễ này đều bị sốc trước cái chết, giá trị đàn áp của họ đã được lấp đầy.</RitualOutcomeExtraDesc_Execution>
+	<RitualOutcomeExtraDesc_DevelopmentPointsAwarded>Do hiệu ứng của nghi lễ, điểm phát triển của bạn đã tăng {2} ({0} -&gt; {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+	<RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>Không thể cấp điểm phát triển vượt quá {0}.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
+	<RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Do hiệu ứng của nghi lễ, không có điểm phát triển nào được cấp.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
+	<RitualAttachedReward>Phần thưởng bổ sung</RitualAttachedReward>
+	<RitualAttachedRewardChoose>Chọn</RitualAttachedRewardChoose>
+	<RitualAttachedRewardCantUseWithRitual>Không thể sử dụng {0} cùng với {1}.</RitualAttachedRewardCantUseWithRitual>
+	<RitualAttachedRewardRequiredMemeAny>Cần một trong các meme sau đây</RitualAttachedRewardRequiredMemeAny>
+	<RitualAttachedRewardRequiredFaction>Cần phái {0}</RitualAttachedRewardRequiredFaction>
+	<RitualAttachedOutcomes_Positive>Tích cực</RitualAttachedOutcomes_Positive>
+	<RitualAttachedOutcomes_Negative>Tiêu cực</RitualAttachedOutcomes_Negative>
+	<RitualAttachedOutcomesInfo>Nếu {0} là {1}</RitualAttachedOutcomesInfo>
+	<RitualAttachedApplliesForOutcome>Trong kết quả {0}</RitualAttachedApplliesForOutcome>
+	<RitualAttachedApplliesForOutcomes>Trong các kết quả {0}</RitualAttachedApplliesForOutcomes>
+	<RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>Sự náo động từ {0} đã thu hút một số động vật tò mò!\n\nChúng có vẻ đã quen sống cùng con người, vì vậy sẽ trực tiếp tham gia vào thuộc địa.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+	<RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0} đã khiến cây mẹ gần đó phát triển một quả cây.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+	<RitualAttachedOutcomeCantApply>Phần thưởng không hợp lệ</RitualAttachedOutcomeCantApply>
+	<RitualAttachedOutcomeCantApply_NoValidSpot>Không có địa điểm nào khả dụng</RitualAttachedOutcomeCantApply_NoValidSpot>
+	<RitualAttachedOutcomeCantApply_ExtremeBiome>Hệ sinh thái quá khắc nghiệt</RitualAttachedOutcomeCantApply_ExtremeBiome>
+	<RitualAttachedOutcomeCantApply_AncientComplexIsPresent>Bạn đã phát hiện một khu phức hợp cổ đại chưa được khám phá</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+	<RitualAttachedOutcomeCantApply_NotAvailableRightNow>Hiện tại không khả dụng.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+	<IdeoBuildingVariationOf>Biến thể nguồn gốc</IdeoBuildingVariationOf>
+	<IdeoBuildingMinimumExpectations>Kỳ vọng tối thiểu</IdeoBuildingMinimumExpectations>
+	<Optional>Tùy chọn</Optional>
+	<Expectations>Kỳ vọng</Expectations>
+	<RitualRepeatPenaltyTip>Việc lặp lại một nghi lễ trong {0} ngày sẽ làm giảm chất lượng của nó, thời gian đã trôi qua từ khi nghi lễ trước kết thúc là {1} ngày, mức giảm chất lượng hiện tại là {2}, và sau {3} ngày từ bây giờ sẽ xóa bỏ mức giảm này.</RitualRepeatPenaltyTip>
+	<RitualOutcomeCompTip_RitualTargetDefsPart1>Để đạt chất lượng tối ưu, nên bắt đầu {0} vào {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+	<RitualOutcomeCompTip_RitualTargetDefsPart2>Hiện đang bắt đầu {0} tại {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+	<RitualDevelopmentPoints>Điểm phát triển</RitualDevelopmentPoints>
+	<RitualDevelopmentPointsTip>Điểm phát triển có thể nhận được khi hoàn thành nghi lễ này phụ thuộc vào hiệu ứng của nghi lễ ({0}~{1}).</RitualDevelopmentPointsTip>
+	<RitualOutcomeBlockedNoPower>{0} cần được cấp điện.</RitualOutcomeBlockedNoPower>
+	<ForSlaveUse>Dành cho nô lệ</ForSlaveUse>
+	<SellingAsSlave>Nếu bạn bán ai đó cho phái không phải của họ, họ sẽ trở thành nô lệ.</SellingAsSlave>
+	<SellingAsRansom>Nếu bán ai đó về phái của họ, họ sẽ được coi là đã được chuộc lại chứ không phải bị nô lệ hóa.</SellingAsRansom>
+	<MemeGoodwillImpact_Player>Chúng tôi là {0}</MemeGoodwillImpact_Player>
+	<MemeGoodwillImpact_Other>Họ là {0}</MemeGoodwillImpact_Other>
+	<TextMote_SuppressionIncreased>Giá trị đàn áp: {0}</TextMote_SuppressionIncreased>
+	<RoleRequirementsLabel>Yêu cầu</RoleRequirementsLabel>
+	<RoleEffectsLabel>Hiệu ứng</RoleEffectsLabel>
+	<RoleRequirementLabelSameIdeo>Phải là {0}</RoleRequirementLabelSameIdeo>
+	<RoleRequirementLabelSupremeGender>Phải là {0}</RoleRequirementLabelSupremeGender>
+	<RoleRequirementCannotBe>Không thể là trẻ em.</RoleRequirementCannotBe>
+	<RoleGrantedAbilitiesLabel>Các khả năng</RoleGrantedAbilitiesLabel>
+	<RoleRequiredApparelLabel>Yêu cầu trang phục</RoleRequiredApparelLabel>
+	<RoleRitualsLabel>Nghi lễ cho vị trí này</RoleRitualsLabel>
+	<RoleBelieverCountDesc>Vai trò này sẽ khả dụng khi phái của bạn có {1}{0}, và sẽ không khả dụng khi phái của bạn chỉ có {3}{2}.</RoleBelieverCountDesc>
+	<RoleExpectationOffset>Đã dịch chuyển {0} cấp.</RoleExpectationOffset>
+	<RoleRaisedExpectation>{0} có kỳ vọng cao hơn.</RoleRaisedExpectation>
+	<RoleRaisedExpectationGracePeriod>{0} sẽ có kỳ vọng cao hơn vào {1}.</RoleRaisedExpectationGracePeriod>
+	<IdeoLeaderDifferentIdeoThoughtLabel>Được dẫn dắt bởi {0}</IdeoLeaderDifferentIdeoThoughtLabel>
+	<AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} sẽ không làm công việc {1}.</AbilityDisabled_IncapableOfWorkTag>
+	<AbilityDisabledNoAltarOrRitualsSpot>Không có bàn thờ hoặc điểm nghi lễ nào có thể đến được.</AbilityDisabledNoAltarOrRitualsSpot>
+	<AbilityDisabledNoAltarIdeogramOrRitualsSpot>Không có bàn thờ, hình ảnh biểu tượng hoặc điểm nghi lễ nào có thể đến được.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+	<AbilityDisabledNoRitualSpot>Không có điểm nghi lễ nào có thể đến được.</AbilityDisabledNoRitualSpot>
+	<TextMote_WillReduced>Ý chí: {0} đến {1}</TextMote_WillReduced>
+	<ConfirmationCharityJoiner>Chấp nhận yêu cầu gia nhập này là một hành động từ thiện, nếu bạn từ chối, những người này sẽ không hài lòng vì niềm tin từ thiện của họ:\n{0}\n\nBạn có chắc chắn muốn từ chối yêu cầu gia nhập này không?</ConfirmationCharityJoiner>
+	<BelieversIn>Những tín đồ tin vào {0} ({1})</BelieversIn>
+	<AddPrecept>Thêm {0}</AddPrecept>
+	<Precept>Quy tắc</Precept>
+	<IdeoBuilding>Công trình</IdeoBuilding>
+	<IdeoRelic>Thánh vật</IdeoRelic>
+	<GiveItemsTo>Cho {0} cho {1_nameDef}</GiveItemsTo>
+	<CannotGiveItemsTo>Không thể cho {0} cho {1_nameDef}</CannotGiveItemsTo>
+	<NoItemFound>Không tìm thấy vật phẩm</NoItemFound>
+	<OutfitSlave>Nô lệ</OutfitSlave>
+	<HackProgress>Tiến độ hack</HackProgress>
+	<HackingSpeed>Tốc độ hack</HackingSpeed>
+	<HackingLastUser>Của {0}</HackingLastUser>
+	<Hacked>Đã hack</Hacked>
+	<TerminalsHacked>Các terminal đã bị hack</TerminalsHacked>
+	<RelicInfoFound>Tìm thấy thông tin về thánh vật</RelicInfoFound>
+	<InactiveRoleRequiresMoreBelievers>Vai trò hiện tại chưa được kích hoạt, cần ít nhất {0} {1} (bạn hiện có {2} người)</InactiveRoleRequiresMoreBelievers>
+	<Certainty>Độ công nhận</Certainty>
+	<EmancipateNonCololonistWithFactionTooltip>Nô lệ sẽ đi bộ rời khỏi bản đồ hiện tại và quay trở về phái ban đầu của họ {0}</EmancipateNonCololonistWithFactionTooltip>
+	<EmancipateNonCololonistWithoutFactionTooltip>Nô lệ sẽ đi bộ rời khỏi bản đồ hiện tại</EmancipateNonCololonistWithoutFactionTooltip>
+	<EmancipateCololonistTooltip>Nô lệ sẽ quay lại dưới dạng thuộc địa</EmancipateCololonistTooltip>
+	<WorshippedTerminalFactionBecameHostileTimed>Bạn đã ở trong làng của {FACTION_name} quá lâu! Họ đang tấn công bạn!</WorshippedTerminalFactionBecameHostileTimed>
+	<WorshippedTerminalRaidIncoming>Cư dân đang quay về từ bốn phía để bảo vệ terminal mà họ tôn thờ!</WorshippedTerminalRaidIncoming>
+	<RelicHuntFoundRelicSite>Thánh vật được đặt trong một cấu trúc cổ xưa với nhiều đơn vị an ninh, bạn có thể tách rời và tiêu diệt, hoặc xông vào lấy đồ và chạy trước khi bị phát hiện.</RelicHuntFoundRelicSite>
+	<RelicHuntFoundRelicSitePeaceful>Thánh vật nằm trong một cấu trúc cổ xưa gần đó</RelicHuntFoundRelicSitePeaceful>
+	<Relic>Thánh vật</Relic>
+	<RitualSeat>Chỗ ngồi nghi lễ</RitualSeat>
+	<RitualPredictedOutcomeDescNumActiveLoudspeakers>Loa đã được cấp điện</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+	<RitualPredictedOutcomeDescNumDrums>Trống</RitualPredictedOutcomeDescNumDrums>
+	<RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>Sử dụng điểm nghi lễ sẽ mang lại mức giảm tâm trạng {0} cho tất cả người tham gia</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+	<RitualOutcomeLabelAnyOfThese>Bất kỳ cái nào trong số này</RitualOutcomeLabelAnyOfThese>
+	<PreceptReplaceWith>Thay thế bằng</PreceptReplaceWith>
+	<RitualSeatOf>Chỗ ngồi nghi lễ của {IDEOS}</RitualSeatOf>
+	<StartingQuality>Chất lượng khởi đầu</StartingQuality>
+	<ExpectedConvictionChance>Cơ hội kết án</ExpectedConvictionChance>
+	<MustBePlacedIndoors>Phải được đặt trong nhà</MustBePlacedIndoors>
+	<ConnectedPawn>Giao hưởng</ConnectedPawn>
+	<Nobody>Không ai</Nobody>
+	<ConnectedPawnDesc>Người giao hưởng của cây {TREE_label} này, nếu người giao hưởng này chết, cây {TREE_label} sẽ không thể giao hưởng với người tiếp theo trong {DURATION}.</ConnectedPawnDesc>
+	<ConnectionTorn>Giao hưởng bị gián đoạn. Để phục hồi giao hưởng cần {0}</ConnectionTorn>
+	<ConnectedPawnAway>{PAWN_nameDef} quá xa!</ConnectedPawnAway>
+	<TreeBlockedByNearbyBuildingsDesc>Trồng {PLANT_definite} gần các công trình nhân tạo sẽ dẫn đến giảm cường độ giao hưởng theo thời gian, cường độ giao hưởng quyết định số lượng tinh linh cây mà {PLANT_definite} này có thể hỗ trợ. \n\nBạn có chắc chắn muốn trồng nó ở đây không?</TreeBlockedByNearbyBuildingsDesc>
+	<GauranlenModeChangeDescFull>Thay đổi giống tinh linh cây của {TREE_definite} sẽ tiêu tốn thời gian và sức lực.\n\nKhi người giao hưởng tương tác với cây, tất cả tinh linh sẽ trải qua {DURATION} ngày trong kén để chuyển đổi thành nhân vật mục tiêu. \n\nCác kén hiện có sẽ hủy bỏ hình dạng để chuyển đổi thành giống đã được thiết lập hiện tại.</GauranlenModeChangeDescFull>
+	<ChangeModeDesc>Thay đổi loại tinh linh cây do {TREE_definite} tạo ra</ChangeModeDesc>
+	<ConnectionStrengthFall>Cường độ giao hưởng giảm</ConnectionStrengthFall>
+	<ConnectionStrength>Cường độ giao hưởng</ConnectionStrength>
+	<ConnectionStrengthDisplay>Cường độ giao hưởng {0}</ConnectionStrengthDisplay>
+	<ConnectionStrengthDesc>Quyết định số lượng tinh linh cây mà cây mẹ này có thể hỗ trợ</ConnectionStrengthDesc>
+	<MaximumDryads>Số lượng tinh linh cây tối đa</MaximumDryads>
+	<MaximumDryadsDesc>Số lượng tinh linh cây tối đa mà cây mẹ này có thể hỗ trợ</MaximumDryadsDesc>
+	<MaxDryadsBasedOnConnectionStrength>Số lượng tinh linh cây tối đa dựa trên cường độ giao hưởng</MaxDryadsBasedOnConnectionStrength>
+	<PruningConnectionStrength>Tăng cường cường độ giao hưởng từ việc cắt tỉa cây</PruningConnectionStrength>
+	<PruningHoursToMaintain>Thời gian cần thiết để duy trì việc cắt tỉa mỗi ngày</PruningHoursToMaintain>
+	<DesiredConnectionStrength>Cường độ mong muốn</DesiredConnectionStrength>
+	<DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} sẽ duy trì việc cắt tỉa {TREE_definite} để giữ cường độ giao hưởng trên mức này.\n\nCường độ giao hưởng cao hơn có thể hỗ trợ nhiều tinh linh hơn, nhưng sẽ giảm nhanh hơn, do đó cần cắt tỉa và bảo trì thường xuyên hơn. Nhấp vào thanh trượt để thay đổi cường độ mục tiêu.\n\nGiảm hàng ngày: {FALL}\n\nCường độ giao hưởng sẽ bị ảnh hưởng bởi các công trình gần đó.</DesiredConnectionStrengthDesc>
+	<WaitingForConnectorToChangeCaste>Đang chờ {CONNECTEDPAWN_nameDef} thay đổi giống tinh linh cây.</WaitingForConnectorToChangeCaste>
+	<GauranlenTreeMode>Giống tinh linh cây</GauranlenTreeMode>
+	<NoCaste>Chưa đặt giống</NoCaste>
+	<GauranlenTreeModeDesc>Quyết định giống tinh linh cây hiện đang được tạo ra.</GauranlenTreeModeDesc>
+	<SpawningDryadIn>Đang tạo {DRYAD_label} trong {TIME}</SpawningDryadIn>
+	<ChangingDryadIntoType>Đang biến đổi {DRYAD_labelShort} thành {TYPE_label}.</ChangingDryadIntoType>
+	<HoursEveryDay>Mỗi ngày {0} giờ</HoursEveryDay>
+	<HoursEveryOtherDay>Mỗi ngày cách một {0} giờ</HoursEveryOtherDay>
+	<DryadProducesResourcesDesc>{DRYAD_labelPlural} sẽ sản xuất {RESOURCES} sau mỗi {DURATION}.</DryadProducesResourcesDesc>
+	<DryadCannotChangeMaster>{ANIMAL_nameDef} đã giao hưởng với {MASTER_nameDef} thông qua cây mẹ của {ANIMAL_possessive}. Chủ của {ANIMAL_possessive} không thể thay đổi.</DryadCannotChangeMaster>
+	<ConnectionStrengthTooWeakForGaumakerPod>Cường độ giao hưởng không đủ để tạo ra cây kén.</ConnectionStrengthTooWeakForGaumakerPod>
+	<Unconnected>Chưa giao hưởng</Unconnected>
+	<DryadPlural>Tinh linh cây</DryadPlural>
+	<ConnectionStrengthAffectedBy>Cường độ giao hưởng bị ảnh hưởng bởi:</ConnectionStrengthAffectedBy>
+	<CurrentlyAffectedBy>Hiện tại bị ảnh hưởng bởi:</CurrentlyAffectedBy>
+	<NotEnoughConnectionStrengthForSingleDryad>Cần {0} cường độ để hỗ trợ một tinh linh cây.</NotEnoughConnectionStrengthForSingleDryad>
+	<CannotAssignAllowedAreaToDryad>Không thể chỉ định khu vực</CannotAssignAllowedAreaToDryad>
+	<TargetNightOutdoors>Mục tiêu ở ngoài trời vào ban đêm</TargetNightOutdoors>
+	<TargetDarkIndoors>Mục tiêu ở trong nhà tối</TargetDarkIndoors>
+	<TargetDayOutdoors>Mục tiêu ở ngoài trời vào ban ngày</TargetDayOutdoors>
+	<TargetLitIndoors>Mục tiêu ở trong nhà sáng</TargetLitIndoors>
+	<RechargeableCharging>Đang sạc</RechargeableCharging>
+	<RechargeableReady>Sẵn sàng</RechargeableReady>
+	<RoleRequirementSkill>Kỹ năng</RoleRequirementSkill>
+	<RoleRequirementSkillAny>Kỹ năng bất kỳ</RoleRequirementSkillAny>
+	<RoleEffectWontUseRangedWeapons>Sẽ không sử dụng vũ khí tầm xa</RoleEffectWontUseRangedWeapons>
+	<RoleEffectWontUseMeleeWeapons>Sẽ không sử dụng vũ khí cận chiến</RoleEffectWontUseMeleeWeapons>
+	<RoleEffectProductionQualityOffset>Có {0} độ lệch chất lượng trong sản xuất và xây dựng</RoleEffectProductionQualityOffset>
+	<RoleEffectHuntingRevengeChance>Tỷ lệ trả thù khi săn bắn {0}</RoleEffectHuntingRevengeChance>
+	<RoleEffectGiveThoughtOnTended>Cung cấp suy nghĩ</RoleEffectGiveThoughtOnTended>
+	<AssignColonists>Chỉ định thuộc địa tham gia văn hóa của bạn</AssignColonists>
+	<RemoveNewIdeoligion>Xóa văn hóa</RemoveNewIdeoligion>
+	<MakeIdeoligionPrimary>Đặt văn hóa này làm văn hóa chính</MakeIdeoligionPrimary>
+	<GameOverArchotechInvokedIntro>Bạn đã kích hoạt lõi siêu phàm. Thế giới bị ánh sáng chói mắt lấp đầy, thời gian dường như chậm lại...</GameOverArchotechInvokedIntro>
+	<GameOverArchotechInvokedEnding>Thần máy móc đã chú ý đến bạn, không ai có thể đoán trước điều gì sẽ xảy ra tiếp theo. Nó có thể tiêu diệt bạn, có thể giao tiếp trực tiếp với bạn, hoặc chuyển ý thức của bạn đến một thực tại khác.\n\nBạn thấy một cấu trúc phức tạp không người, không biên giới, không thể tưởng tượng tràn vào ý thức của bạn, thời gian và kích thước dường như tan chảy, điều này thật kinh khủng. Nó cũng thật đẹp.</GameOverArchotechInvokedEnding>
+	<GameOverColonistsTranscended>Các thuộc địa sau đã được thăng cấp:\n\n{0}</GameOverColonistsTranscended>
+	<Reward_ArchonexusMapPart>Một phần bản đồ của siêu phàm</Reward_ArchonexusMapPart>
+	<Reward_ArchonexusMapPartLabel>Hoàn thành bản đồ siêu phàm: {0}/{1}</Reward_ArchonexusMapPartLabel>
+	<RelicsLower>Thánh vật</RelicsLower>
+	<RelicLower>Thánh vật</RelicLower>
+	<LinkedTo>Đã kết nối</LinkedTo>
+	<SupplySatellite>Vệ tinh hỗ trợ</SupplySatellite>
+	<CannotExtractSkull>Thuộc địa không muốn lấy sọ từ thi thể (thiếu quy tắc liên quan)</CannotExtractSkull>
+	<TipPreviewRitualAmbienceSound>Xem trước âm thanh môi trường nghi lễ</TipPreviewRitualAmbienceSound>
+	<ChooseStuffForRelic>Chọn</ChooseStuffForRelic>
+	<RelicStuff>Nguyên liệu</RelicStuff>
+	<BiosculpterPodCycleLabel>Chu kỳ</BiosculpterPodCycleLabel>
+	<BiosculpterPodCycleLabelLoading>Đang tải</BiosculpterPodCycleLabelLoading>
+	<BiosculpterPodCycleWillBiotune>(và điều chỉnh)</BiosculpterPodCycleWillBiotune>
+	<BiosculpterPodCycleCommand>Bắt đầu chu kỳ {0}</BiosculpterPodCycleCommand>
+	<BiosculpterPodCycleDuration>Thời gian</BiosculpterPodCycleDuration>
+	<BiosculpterPodCycleDurationTranshumanists>Thời gian (hợp nhất công nghệ)</BiosculpterPodCycleDurationTranshumanists>
+	<BiosculpterPodCycleSelection>Chuẩn bị chọn lựa</BiosculpterPodCycleSelection>
+	<BiosculpterPodCycleStandby>{PAWN_labelShort} đang chờ chu kỳ {CYCLE}</BiosculpterPodCycleStandby>
+	<BiosculpterPodCycleSelectionNoPower>Đã nạp dinh dưỡng, chưa có điện</BiosculpterPodCycleSelectionNoPower>
+	<BiosculpterCycleTimeRemaining>Còn lại</BiosculpterCycleTimeRemaining>
+	<BiosculpterCycleAccelerated>Tăng tốc hợp nhất công nghệ</BiosculpterCycleAccelerated>
+	<BiosculpterCycleNoPowerInterrupt>Tạm dừng: Không có điện (thời gian giới hạn {TIME})</BiosculpterCycleNoPowerInterrupt>
+	<BiosculpterBiotunedTo>Đã điều chỉnh</BiosculpterBiotunedTo>
+	<BiosculpterInteruptCycle>Ngừng chu kỳ</BiosculpterInteruptCycle>
+	<BiosculpterInteruptCycleDesc>Ngừng chu kỳ hiện tại, người sử dụng sẽ bị đẩy ra ngoài, không chịu ảnh hưởng của bất kỳ hiệu ứng chu kỳ nào trong khi bị yếu đuối tạm thời do thoát khỏi buồng hình dạng.</BiosculpterInteruptCycleDesc>
+	<BiosculpterEnteringMessage>{PAWN_labelShort} sẽ vào buồng hình dạng và bắt đầu chu kỳ {CYCLE}.</BiosculpterEnteringMessage>
+	<BiosculpterLoadingStartedMessage>{PAWN_labelShort} sẽ thu thập {INGREDIENTS} và bắt đầu một chu kỳ {CYCLE}.</BiosculpterLoadingStartedMessage>
+	<BiosculpterCarryStartedMessage>{PAWN_labelShort} sẽ thu thập {INGREDIENTS}, đặt {DOWNED_labelShort} vào buồng hình dạng, và bắt đầu một chu kỳ {CYCLE}.</BiosculpterCarryStartedMessage>
+	<NumNutrition>{0} giá trị dinh dưỡng</NumNutrition>
+	<BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} đã bị đẩy ra khỏi buồng hình dạng do thiếu điện.</BiosculpterNoPowerEjectedMessage>
+	<BiosculpterHealCompletedMessage>{PAWN_labelShort} đã hoàn thành chu kỳ điều trị của mình.</BiosculpterHealCompletedMessage>
+	<BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} đã hoàn thành chu kỳ điều trị và đã chữa khỏi {PAWN_possessive}{HEDIFF_label}.</BiosculpterHealCompletedWithCureMessage>
+	<BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} đã hoàn thành chu kỳ đảo ngược tuổi tác.</BiosculpterAgeReversalCompletedMessage>
+	<AgeReversalExpectationDeadline>{PAWN_pronoun} kỳ vọng chu kỳ đảo ngược tuổi tác tiếp theo sẽ diễn ra trong {DEADLINE} ngày.</AgeReversalExpectationDeadline>
+	<BiosculpterPleasureCompletedMessage>{PAWN_labelShort} đã hoàn thành chu kỳ vui vẻ.</BiosculpterPleasureCompletedMessage>
+	<BiosculpterCleanlinessSpeedFactor>Hệ số tốc độ làm sạch</BiosculpterCleanlinessSpeedFactor>
+	<BiosculpterBiotunedSpeedFactor>Hệ số tốc độ điều chỉnh</BiosculpterBiotunedSpeedFactor>
+	<HealingCycleWillHeal>Điều trị</HealingCycleWillHeal>
+	<HealingCycleOneWillHeal>Điều trị một người</HealingCycleOneWillHeal>
+	<MissingRequiredResearch>Thiếu nghiên cứu cần thiết</MissingRequiredResearch>
+	<BiosculpterRequiresIngredients>Cần</BiosculpterRequiresIngredients>
+	<OnCompletionOfCycle>Sau khi hoàn thành chu kỳ {CYCLE}, sẽ</OnCompletionOfCycle>
+	<BiosculpterNoCoditionsToHeal>{PAWN_nameDef} không có bất kỳ trạng thái nào có thể được điều trị bằng {CYCLE}.\n\nBạn có muốn tiếp tục không?</BiosculpterNoCoditionsToHeal>
+	<Basic>Cơ bản</Basic>
+	<ChangeStyleDesc>Thay đổi phong cách của vật thể sẽ được xây dựng. Điều này hoàn toàn là về mặt hình thức, không ảnh hưởng đến trò chơi.</ChangeStyleDesc>
+	<ChangeStyleDisabledNoCategories>Không có phong cách khả dụng.</ChangeStyleDisabledNoCategories>
+	<!-- <RitualTargeWoodInfo>Bạn cần chuẩn bị {0} số gỗ cho mỗi người tham gia (tối đa {2} người), hiện tại bạn có {1} gỗ.</RitualTargeWoodInfo> -->
+</LanguageData>

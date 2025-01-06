@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lastOrNot(lodgerCount==1)-&gt;</li>
+    <li>lastOrNot(lodgerCount&gt;=2)-&gt;Cuối cùng</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>lodgersArriveLetterLabel-&gt;[lodgersLabelSingularOrPlural] đã đến</li>
+    <li>lodgersArriveLetterText-&gt;[lodgersSingularOrPluralDef] [hasHave] đã đến. [lodgersPronoun] sẽ ở lại với bạn trong [questDurationTicks_duration] để phục hồi.</li>
+    <li>hasHave(lodgerCount==1)-&gt;đã</li>
+    <li>hasHave(lodgerCount&gt;=2)-&gt;đã</li>
+    <li>appalledButNoAction-&gt;{PAWNSALIVECOUNT_multiple ? Những người khác có vẻ : Cuối cùng [lodgersLabel]} cảm thấy sốc nhưng không có hành động nào đối với bạn.</li>
+    <li>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ? Những người khác : Cuối cùng [lodgersLabel]} không muốn chấp nhận</li>
+    <li>turnedViolent-&gt;[othersWillNotAccept], và rất tức giận với bạn.</li>
+    <li>decidedToLeave-&gt;[othersWillNotAccept], và quyết định rời đi.</li>
+    <li>whoAskedToStay-&gt;người đã yêu cầu ở lại với bạn</li>
+    <li>oneOfThe-&gt;Một trong những [whoAskedToStay] tuyệt vọng</li>
+    <li>questOver-&gt;Nhiệm vụ '[resolvedQuestName]' đã kết thúc.</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] đã chết.</li>
+    <li>lodgerDiedMemoryThoughtLetterLabel-&gt;[lodgersLabel] đã chết: Giận dữ</li>
+    <li>lodgerDiedMemoryThoughtLetterText-&gt;[letterIntroDeath]\n\n[appalledButNoAction]</li>
+    <li>lodgerDiedAttackPlayerLetterLabel-&gt;[lodgersLabel] đã chết: Báo thù</li>
+    <li>lodgerDiedAttackPlayerLetterText-&gt;[letterIntroDeath]\n\n[turnedViolent]</li>
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] đã chết: Rời đi</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>lodgersAllDiedLetterLabel-&gt;Nhiệm vụ thất bại</li>
+    <li>lodgersAllDiedLetterText-&gt;{SUBJECT_definite}, [lastOrNot] những [faction_pawnSingular] tuyệt vọng ([whoAskedToStay]), đã chết.\n\n[questOver]</li>
+    <li>letterIntroArrested-&gt;Bạn đã bắt giữ {SUBJECT_definite} ([oneOfThe]).</li>
+    <li>lodgerArrestedMemoryThoughtLetterLabel-&gt;[lodgersLabel] bị bắt: Giận dữ</li>
+    <li>lodgerArrestedMemoryThoughtLetterText-&gt;[letterIntroArrested]\n\n[appalledButNoAction]</li>
+    <li>lodgerArrestedAttackPlayerLetterLabel-&gt;[lodgersLabel] bị bắt: Báo thù</li>
+    <li>lodgerArrestedAttackPlayerLetterText-&gt;[letterIntroArrested]\n\n[turnedViolent]</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] bị bắt: Rời đi</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>lodgersAllArrestedLetterLabel-&gt;Nhiệm vụ thất bại</li>
+    <li>lodgersAllArrestedLetterText-&gt;Bạn đã bắt giữ {SUBJECT_definite}, [lastOrNot] những [faction_pawnSingular] tuyệt vọng ([whoAskedToStay]).\n\n[questOver]</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, ([oneOfThe]), đã bị thực hiện phẫu thuật trái phép.</li>
+    <li>lodgerViolatedMemoryThoughtLetterLabel-&gt;[lodgersLabel] vi phạm: Giận dữ</li>
+    <li>lodgerViolatedMemoryThoughtLetterText-&gt;[letterIntroViolated]\n\n[appalledButNoAction]</li>
+    <li>lodgerViolatedAttackPlayerLetterLabel-&gt;[lodgersLabel] vi phạm: Báo thù</li>
+    <li>lodgerViolatedAttackPlayerLetterText-&gt;[letterIntroViolated]\n\n[turnedViolent]</li>
+    <li>lodgerViolatedLeaveMapLetterLabel-&gt;[lodgersLabel] vi phạm: Rời đi</li>
+    <li>lodgerViolatedLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], đã trở thành vật tế cho nghi lễ tâm linh.</li>
+    <li>lodgerPsychicRitualTargetMemoryThoughtLetterLabel-&gt;[lodgersLabel] vi phạm: Giận dữ</li>
+    <li>lodgerPsychicRitualTargetMemoryThoughtLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[appalledButNoAction]</li>
+    <li>lodgerPsychicRitualTargetAttackPlayerLetterLabel-&gt;[lodgersLabel] vi phạm: Báo thù</li>
+    <li>lodgerPsychicRitualTargetAttackPlayerLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[turnedViolent]</li>
+    <li>lodgerPsychicRitualTargetLeaveMapLetterLabel-&gt;[lodgersLabel] vi phạm: Rời đi</li>
+    <li>lodgerPsychicRitualTargetLeaveMapLetterText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>lodgerViolatedLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>mutinyLetterLabel-&gt;Phản bội</li>
+    <li>mutinyLetterText-&gt;[lodgersSingularOrPluralDef] ([whoAskedToStay]) đã trở thành kẻ thù của bạn!\n\nCó vẻ như [lodgersPronoun] đã lên kế hoạch cho cuộc phản bội này từ lâu.</li>
+    <li>areIs(lodgerCount==1)-&gt;đang</li>
+    <li>areIs(lodgerCount&gt;=2)-&gt;đang</li>
+    <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] rời đi</li>
+    <li>lodgersLeavingLetterText-&gt;{FACTION_leaderNameDef} cảm ơn bạn đã cho phép {FACTION_leaderObjective} ở lại [questDurationTicks_duration] tại [map_definite]. {FACTION_leaderPronoun} hiện đang tiến về phía trước cùng với {FACTION_leaderPossessive}.\n\n{FACTION_leaderNameDef} nói rằng {FACTION_leaderPronoun} sẽ không bao giờ quên những gì bạn đã làm.</li>
+</Hospitality_Refugee.questContentRules.rulesStrings>
+<Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel-&gt;Người tị nạn</li>
+    <li>lodgersLabelPlural-&gt;Người tị nạn</li>
+</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+<Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)-&gt;Đề nghị</li>
+    <li>offer(lodgerCount&gt;=2)-&gt;Đề nghị</li>
+    <li>lodgersPronoun(lodgerCount==1)-&gt;[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount&gt;=2)-&gt;Họ</li>
+    <li>lodgersPreposition(lodgerCount==1)-&gt;[asker_objective] của chính mình</li>
+    <li>lodgersPreposition(lodgerCount&gt;=2)-&gt;Của họ</li>
+    <li>lodgersObjective(lodgerCount==1)-&gt;[asker_objective]</li>
+    <li>lodgersObjective(lodgerCount&gt;=2)-&gt;Họ</li>
+    <li>lodgersPossessive(lodgerCount==1)-&gt;[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount&gt;=2)-&gt;Của họ</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount==1)-&gt;[asker_nameDef]</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>questDescription-&gt;[approachInfo][claimInfo][asker_nameDef] yêu cầu bạn cho phép ở lại [map_definite] trong [questDurationTicks_duration] để [lodgersPronoun] có thể phục hồi.\n\nĐổi lại, [lodgersPronoun] [offer] miễn phí cho bạn trong thời gian này.\n\n[joinInfo][lodgersPronoun] có thể sẽ trả ơn bạn vì đã giúp đỡ [lodgersObjective] — nhưng bạn không thể biết được ý định thực sự của [lodgersPossessive].\n\n[travelerInfo] không thuộc bất kỳ phe phái nào. Nếu bạn muốn, bạn có thể giết, bắt giữ, bán hoặc thu hoạch [lodgersObjective] mà không có bất kỳ hậu quả ngoại giao nào.</li>
+    <li>approachInfo(lodgerCount==1)-&gt;Một [asker_nameDef] tuyệt vọng đang tiến đến gần.</li>
+    <li>approachInfo(lodgerCount==2)-&gt;[asker_nameDef] và một người tuyệt vọng khác đang tiến đến gần.</li>
+    <li>approachInfo(lodgerCount==2,childCount==1,priority=1)-&gt;[asker_nameDef] đang dẫn theo một đứa trẻ.</li>
+    <li>approachInfo(lodgerCount&gt;=3)-&gt;[lodgerCount] người tuyệt vọng đang tiến đến gần, người lãnh đạo của họ là [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,childCount==1,priority=1)-&gt;[lodgerCount] người tuyệt vọng đang dẫn theo một đứa trẻ. Người lãnh đạo của họ là [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,childCount&gt;=2,priority=1)-&gt;[lodgerCount] người tuyệt vọng đang dẫn theo một số trẻ em. Người lãnh đạo của họ là [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount&gt;=3,allButOneChildren==true,priority=2)-&gt;[asker_nameDef] đang dẫn theo [lodgersCountMinusOne] đứa trẻ.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] khẳng định rằng [asker_possessive] đã mất nhà cửa trong một cuộc tấn công gần đây.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] khẳng định rằng [asker_possessive] vừa tỉnh dậy từ một buồng đông lạnh.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] khẳng định rằng [asker_possessive] đã bị đuổi khỏi nhà bởi người tình cũ.</li>
+    <li>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] khẳng định rằng [asker_possessive] đã bị đuổi khỏi nhà sau một cuộc tranh cãi với lãnh đạo cộng đồng.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ khẳng định rằng họ đã mất nhà cửa trong một cuộc tấn công gần đây.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ khẳng định rằng họ đã trốn thoát khỏi một cuộc phẫu thuật thu hoạch nội tạng.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ nói rằng họ đã trốn thoát khỏi một đoàn buôn nô lệ.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ nói rằng một căn bệnh đã khiến họ không thể sống sót trong cộng đồng.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ nói rằng một cơn bão lớn đã phá hủy nhà cửa của họ.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ nói rằng đoàn thương mại của họ đã bị tấn công và tất cả hàng hóa đã bị cướp.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;Họ nói rằng họ đã bị đuổi khỏi thị trấn vì quan điểm đạo đức khác nhau.</li>
+    <li>joinInfo(lodgerCount==1)-&gt;Nếu bạn có thể làm cho [asker_objective] hạnh phúc, [asker_pronoun] có thể đề nghị tham gia cùng bạn.</li>
+    <li>joinInfo(lodgerCount&gt;=2)-&gt;Nếu bạn có thể làm cho họ hạnh phúc, một số trong số họ có thể đề nghị tham gia cùng bạn.</li>
+    <li>travelerInfo(lodgerCount==1)-&gt;Người [faction_pawnSingular] này</li>
+    <li>travelerInfo(lodgerCount&gt;=2)-&gt;Những [faction_pawnsPlural] này</li>
+</Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)-&gt;[lodgerAdj][asker_nameDef]</li>
+    <li>questName(lodgerCount==1)-&gt;[athe][lodgerAdj][lodgerSingle]</li>
+    <li>questName(p=2,lodgerCount&gt;=2)-&gt;[lodgerAdj][lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef] [lodgerAdj][lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef] [lodgerPlural]</li>
+    <li>athe-&gt;Một</li>
+<li>athe-&gt;Cái này</li>
+<li>lodgerAdj-&gt;Mệt mỏi</li>
+<li>lodgerAdj-&gt;Lạc lối</li>
+<li>lodgerAdj-&gt;Nghèo khổ</li>
+<li>lodgerAdj-&gt;Cùng cực</li>
+<li>lodgerAdj-&gt;Tuyệt vọng</li>
+<li>lodgerAdj-&gt;Buồn bã</li>
+<li>lodgerAdj-&gt;Mệt mỏi và bụi bặm</li>
+<li>lodgerAdj-&gt;Bất lực</li>
+<li>lodgerAdj-&gt;Vô danh</li>
+<li>lodgerAdj-&gt;Thê lương</li>
+<li>lodgerAdj-&gt;Bị bỏ rơi</li>
+<li>lodgerSingle-&gt;Người du lịch</li>
+<li>lodgerSingle-&gt;Người tị nạn</li>
+<li>lodgerSingle-&gt;Kẻ lang thang</li>
+<li>lodgerSingle-&gt;Người sống sót</li>
+<li>lodgerSingle-&gt;Người du mục</li>
+<li>lodgerSingle-&gt;Kẻ vô gia cư</li>
+<li>lodgerPlural-&gt;Những người du lịch</li>
+<li>lodgerPlural-&gt;Những người tị nạn</li>
+<li>lodgerPlural-&gt;Những kẻ lang thang</li>
+<li>lodgerPlural-&gt;Những người sống sót</li>
+<li>lodgerPlural-&gt;Những người du mục</li>
+<li>lodgerPlural-&gt;Những kẻ vô gia cư</li>
+</Hospitality_Refugee.questNameRules.rulesStrings>
+<RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>betrayalOfferRewardLetterLabel-&gt;Phần thưởng phản bội: [factionOpponent_nameDef]</li>
+    <li>betrayalOfferRewardLetterText-&gt;[factionOpponent_nameDef] đã hứa rằng nếu bạn giết [asker_nameDef][otherMembers] bạn sẽ nhận được phần thưởng. [factionOpponent_pronoun] đã nghe nói rằng bạn đã hoàn thành việc này và đã gửi cho bạn những vật phẩm sau (tổng giá trị: [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferFailedLetterLabel-&gt;Phần thưởng phản bội đã bị thu hồi</li>
+    <li>betrayalOfferFailedLetterText-&gt;[factionOpponent_nameDef] đã biết rằng một thành viên của [faction_name] đã rời khỏi [map_definite]. [factionOpponent_nameDef] muốn tất cả các thành viên của [faction_name] chết, vì vậy đã thu hồi đề nghị của [factionOpponent_possessive].</li>
+    <li>otherLodgers(lodgerCount==1)-&gt;</li>
+    <li>otherLodgers(lodgerCount==2)-&gt;và những [lodgersLabel] khác</li>
+    <li>otherLodgers(lodgerCount&gt;=3)-&gt;và một số [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-&gt;</li>
+    <li>otherMembers(lodgerCount&gt;=2)-&gt;và tất cả các thành viên của [faction_name]</li>
+    <li>questOver-&gt;Nhiệm vụ '[resolvedQuestName]' đã kết thúc.</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterLabel-&gt;Phần thưởng phản bội đã bị thu hồi</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterText-&gt;[factionOpponent_nameDef] đã biết rằng tất cả những người sống sót từ [faction_name] đã gia nhập phe của bạn! [factionOpponent_nameDef] muốn tất cả các thành viên của [faction_name] chết, vì vậy đã thu hồi đề nghị của [factionOpponent_possessive].</li>
+</RefugeeBetrayal.questContentRules.rulesStrings>
+<RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel-&gt;Người tị nạn</li>
+    <li>lodgersLabelPlural-&gt;Những người tị nạn</li>
+</RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+<RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[factionOpponent_nameDef], một [factionOpponent_faction_name] [factionOpponent_faction_pawnSingular], đã biết rằng [asker_nameDef][otherLodgers][areIs] đang ở [map_definite]. [factionOpponent_pronoun] và [asker_nameDef] là kẻ thù, muốn thấy [asker_objective] chết.\n\nNếu bạn giết tất cả các thành viên của [faction_name], [factionOpponent_pronoun] sẽ trao cho bạn phần thưởng sau (tổng giá trị: [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>otherLodgers(lodgerCount==1)-&gt;</li>
+    <li>otherLodgers(lodgerCount==2)-&gt;và những [lodgersLabel] khác</li>
+    <li>otherLodgers(lodgerCount&gt;=3)-&gt;và một số [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-&gt;</li>
+    <li>otherMembers(lodgerCount&gt;=2)-&gt;và tất cả các thành viên của [faction_name]</li>
+    <li>areIs(lodgerCount==1)-&gt;đang</li>
+    <li>areIs(lodgerCount&gt;=2)-&gt;đang</li>
+</RefugeeBetrayal.questDescriptionRules.rulesStrings>
+<RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName-&gt;Đề nghị phản bội: [factionOpponent_nameDef]</li>
+</RefugeeBetrayal.questNameRules.rulesStrings>
+<RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel-&gt;Phần thưởng từ người tị nạn</li>
+    <li>rewardLetterText-&gt;[rewardGiver_nameDef] đã liên lạc với bạn. [rewardDelayTicks_duration] trước, bạn đã giúp [rewardGiver_objective] trong lúc rất tuyệt vọng.\n\nSau đó, [rewardGiver_pronoun] đã đứng dậy trên đôi chân của mình và giờ đây [rewardGiver_pronoun] muốn đền đáp sự giúp đỡ của bạn. [rewardGiver_pronoun] đã gửi cho bạn những vật phẩm sau qua tàu vận chuyển:\n\n[listOfRewards]</li>
+</RefugeeDelayedReward.questContentRules.rulesStrings>
+<RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Một phần thưởng muộn — Nhiệm vụ người tị nạn</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+   <li>questName-&gt;Phần thưởng muộn cho người tị nạn</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
+</LanguageData>

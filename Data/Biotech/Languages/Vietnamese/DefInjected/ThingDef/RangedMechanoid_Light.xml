@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_MiniShotgun.label>Đạn shotgun mini</Bullet_MiniShotgun.label>
+<Bullet_Slugthrower.label>Đạn mảnh</Bullet_Slugthrower.label>
+<Bullet_Spiner.label>Đạn gai</Bullet_Spiner.label>
+<Gun_MiniFlameblaster.label>Súng phun lửa mini</Gun_MiniFlameblaster.label>
+<Gun_MiniFlameblaster.description>Một khẩu súng phun lửa nhỏ được sử dụng bởi cơ giới.</Gun_MiniFlameblaster.description>
+<Gun_MiniFlameblaster.tools.barrel.label>Ống súng</Gun_MiniFlameblaster.tools.barrel.label>
+<Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>Súng phun lửa mini</Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>
+
+<Gun_MiniShotgun.label>Súng shotgun mini</Gun_MiniShotgun.label>
+<Gun_MiniShotgun.description>Một khẩu shotgun nhỏ gọn được sử dụng bởi cơ giới chiến đấu hạng nhẹ. Tầm bắn rất ngắn.</Gun_MiniShotgun.description>
+<Gun_MiniShotgun.tools.barrel.label>Ống súng</Gun_MiniShotgun.tools.barrel.label>
+<Gun_MiniShotgun.verbs.Verb_Shoot.label>Súng shotgun mini</Gun_MiniShotgun.verbs.Verb_Shoot.label>
+
+<Gun_Slugthrower.label>Súng bắn đạn</Gun_Slugthrower.label>
+<Gun_Slugthrower.description>Một khẩu súng bắn đạn đơn được sử dụng bởi cơ giới chiến đấu hạng nhẹ.</Gun_Slugthrower.description>
+<Gun_Slugthrower.tools.barrel-0.label>Ống súng</Gun_Slugthrower.tools.barrel-0.label>
+<Gun_Slugthrower.tools.barrel-1.label>Ống súng</Gun_Slugthrower.tools.barrel-1.label>
+<Gun_Slugthrower.verbs.Verb_Shoot.label>Súng bắn đạn</Gun_Slugthrower.verbs.Verb_Shoot.label>
+
+<Gun_Spiner.label>Súng bắn gai</Gun_Spiner.label>
+<Gun_Spiner.description>Vũ khí mini chuyên dụng cho cơ giới chiến tranh. Có thể bắn ra đạn gai có sức mạnh khá tốt, nhưng tầm bắn rất ngắn.</Gun_Spiner.description>
+<Gun_Spiner.tools.barrel.label>Ống súng</Gun_Spiner.tools.barrel.label>
+<Gun_Spiner.verbs.Verb_Shoot.label>Súng bắn gai</Gun_Spiner.verbs.Verb_Shoot.label>
+</LanguageData>

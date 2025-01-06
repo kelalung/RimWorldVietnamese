@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AdvancedFabrication.label>Gia công chính xác cao</AdvancedFabrication.label>
+	<AdvancedFabrication.description>Mở khóa sản xuất "linh kiện cao cấp" từ các bộ phận và vật liệu khác.</AdvancedFabrication.description>
+	<AdvancedFabrication.generalRules.rulesStrings>
+		<li>subject->Gia công linh kiện cao cấp</li>
+		<li>subject_story->Bán linh kiện cao cấp cho những người ở các thế giới biên giới tuyệt vọng.</li>
+		<li>subject_story->Học được bí mật sản xuất linh kiện cao cấp, nhưng không bao giờ tiết lộ.</li>
+		<li>subject_story->Trước chi phí cao khi sản xuất linh kiện cao cấp, đã chọn một lối sống đơn giản hơn.</li>
+		<li>subject_gerund->Gia công linh kiện cao cấp</li>
+	</AdvancedFabrication.generalRules.rulesStrings>
+	<Bionics.label>Chế tạo sinh học</Bionics.label>
+	<Bionics.description>Mở khóa sản xuất các bộ phận sinh học công nghệ cao để thay thế cho các chi và cơ quan bị mất. Cần có bác sĩ có tay nghề để lắp đặt.</Bionics.description>
+	<Bionics.generalRules.rulesStrings>
+		<li>subject->Bộ phận sinh học giả</li>
+		<li>subject_story->Chủ yếu làm việc với các binh sĩ bị biến dạng, tạo ra khuôn mặt sinh học tùy chỉnh để họ có thể trở về bên gia đình.</li>
+		<li>subject_story->Nghiên cứu video chuyển động của con người để sản xuất bộ phận sinh học tốt hơn.</li>
+		<li>subject_story->Tình nguyện cấy ghép các mẫu sinh học khác nhau, cuối cùng trở nên giống máy móc hơn là con người.</li>
+		<li>subject_gerund->Sản xuất bộ phận sinh học giả</li>
+		<li>subject_gerund->Sử dụng bộ phận sinh học</li>
+	</Bionics.generalRules.rulesStrings>
+	<ChargedShot.label>Đạn nạp điện</ChargedShot.label>
+	<ChargedShot.description>Mở khóa sản xuất "súng điện" và "mũi tên điện" bắn ra đạn nạp điện gây sát thương cao. Lưu ý: Cần linh kiện cao cấp để sản xuất.</ChargedShot.description>
+	<ChargedShot.generalRules.rulesStrings>
+		<li>subject->Đạn nạp điện</li>
+		<li>subject_story->Nghiên cứu hệ thống đơn trục của thế giới lấp lánh, cải tiến công nghệ vũ khí.</li>
+		<li>subject_story->Giết chết nó bằng mũi tên điện do cơ thể máy của mình tạo ra.</li>
+		<li>subject_story->Học cách nạp điện cho đạn súng, tăng đáng kể sức sát thương.</li>
+		<li>subject_gerund->Sản xuất đạn nạp điện</li>
+		<li>subject_gerund->Sử dụng đạn nạp điện</li>
+	</ChargedShot.generalRules.rulesStrings>
+	<Cryptosleep.label>Buồng ngủ đông lạnh</Cryptosleep.label>
+	<Cryptosleep.description>Mở khóa xây dựng "buồng ngủ đông lạnh", giúp sinh vật bên trong vào trạng thái ngừng hoạt động sinh lý.</Cryptosleep.description>
+	<Cryptosleep.generalRules.rulesStrings>
+		<li>subject->Ngủ đông lạnh</li>
+		<li>subject_story->Dự định thử nghiệm một nguyên mẫu buồng ngủ đông lạnh và tỉnh dậy một thế hệ sau đó.</li>
+		<li>subject_story->Bị kết án bằng hình phạt nghiêm trọng nhất trong thiên hà - ngủ đông lạnh vô thời hạn, thay vì án tử hình đơn giản.</li>
+		<li>subject_story->Sử dụng một viên nang ngủ đông lạnh để tạm thời đưa bệnh nhân mắc bệnh hiểm nghèo vào trạng thái ngủ, để họ có thể gặp lại con cái khi lớn lên.</li>
+		<li>subject_gerund->Xây dựng buồng ngủ đông lạnh</li>
+		<li>subject_gerund->Kích thích ngủ đông lạnh</li>
+	</Cryptosleep.generalRules.rulesStrings>
+	<Fabrication.label>Gia công chính xác</Fabrication.label>
+	<Fabrication.description>Mở khóa xây dựng "bàn gia công chính xác", có khả năng thực hiện các dự án công nghệ cao từ sản xuất "linh kiện" cơ bản đến lắp ráp áo giáp động lực.</Fabrication.description>
+	<Fabrication.discoveredLetterText>Bây giờ bạn có thể xây dựng bàn gia công chính xác, nhưng còn thiếu một số linh kiện cao cấp. Bạn có thể nhận được chúng qua các cách sau:\n\n- Tất cả các khu định cư của người ngoài hành tinh đều có linh kiện cao cấp để bán. Có thể cử đội đi xa để mua.\n- Đoàn thương nhân đến thăm đôi khi cũng mang theo linh kiện cao cấp. Mời họ hoặc chờ họ đến thăm.\n- Một số nhiệm vụ sẽ thưởng cho bạn linh kiện cao cấp.</Fabrication.discoveredLetterText>
+	<Fabrication.discoveredLetterTitle>Về: Cách nhận linh kiện cao cấp</Fabrication.discoveredLetterTitle>
+	<Fabrication.generalRules.rulesStrings>
+		<li>subject->Bàn gia công chính xác</li>
+		<li>subject_story->Đã dành nhiều năm để sản xuất linh kiện cao cấp để xây dựng bàn gia công chính xác nhằm sản xuất thêm linh kiện cao cấp.</li>
+		<li>subject_story->Bán tất cả mọi thứ để đổi lấy tài nguyên xây dựng bàn gia công chính xác.</li>
+		<li>subject_story->Sản xuất kỳ quan công nghệ được bộ lạc hoang dã coi là phép thuật.</li>
+		<li>subject_gerund->Sản xuất hàng công nghệ cao</li>
+		<li>subject_gerund->Xây dựng bàn gia công chính xác</li>
+	</Fabrication.generalRules.rulesStrings>
+	<MultiAnalyzer.label>Máy phân tích đa năng</MultiAnalyzer.label>
+	<MultiAnalyzer.description>Mở khóa xây dựng "máy phân tích đa năng", giúp tăng tốc độ nghiên cứu và mở khóa các dự án nghiên cứu cao cấp hơn. Cần đặt gần bàn nghiên cứu cao cấp.</MultiAnalyzer.description>
+	<MultiAnalyzer.generalRules.rulesStrings>
+		<li>subject->Phân tích đa năng</li>
+		<li>subject_story->Tự động hóa một phòng thí nghiệm nghiên cứu.</li>
+		<li>subject_story->Khám phá bí mật của phổ ánh sáng vũ trụ.</li>
+		<li>subject_story->Giúp phát hiện đồng vị ổn định mới.</li>
+		<li>subject_gerund->Xây dựng máy phân tích đa năng</li>
+	</MultiAnalyzer.generalRules.rulesStrings>
+	<PoweredArmor.label>Áo giáp động lực hải quân</PoweredArmor.label>
+	<PoweredArmor.description>Mở khóa sản xuất "áo giáp động lực hải quân", loại áo giáp đa năng thường được lực lượng đặc nhiệm công nghệ cao sử dụng. Lưu ý: Cần linh kiện cao cấp để sản xuất.</PoweredArmor.description>
+	<PoweredArmor.generalRules.rulesStrings>
+		<li>subject->Áo giáp hải quân</li>
+		<li>subject_story->Được lực lượng đặc nhiệm thuê để bảo trì áo giáp của họ.</li>
+		<li>subject_story->Để kiểm tra áo giáp của mình, đã đi bộ qua một bộ lạc man rợ đầy thù địch mà không bị thương.</li>
+		<li>subject_story->Ban đầu chỉ định sử dụng áo giáp để chống lại thời tiết khắc nghiệt của hành tinh, nhưng nó cũng rất hiệu quả trong việc chống lại cướp biển.</li>
+		<li>subject_gerund->Sản xuất áo giáp lực lượng đặc nhiệm</li>
+		<li>subject_gerund->Sản xuất áo giáp hải quân</li>
+		<li>subject_gerund->Sản xuất áo giáp cao cấp đa năng</li>
+	</PoweredArmor.generalRules.rulesStrings>
+	<ReconArmor.label>Áo giáp trinh sát</ReconArmor.label>
+	<ReconArmor.description>Mở khóa sản xuất "áo giáp trinh sát", loại áo giáp nhẹ cung cấp bảo vệ cho lực lượng trinh sát. Lưu ý: Cần linh kiện cao cấp để sản xuất.</ReconArmor.description>
+	<ReconArmor.generalRules.rulesStrings>
+		<li>subject->Áo giáp trinh sát</li>
+		<li>subject_story->Lãnh đạo lực lượng trinh sát nổi dậy chống lại quân đội đế quốc cho đến khi bị bắt.</li>
+		<li>subject_story->Áo giáp động lực được chế tạo tinh xảo, nhẹ và bền, đủ để cho người sử dụng tiếp cận kẻ thù.</li>
+		<li>subject_story->Ban đầu dự định thiết kế áo giáp trinh sát cho thợ săn thay vì lính, nhưng vẫn bán rất chạy.</li>
+		<li>subject_gerund->Sản xuất áo giáp trinh sát</li>
+		<li>subject_gerund->Giảm trọng lượng áo giáp</li>
+	</ReconArmor.generalRules.rulesStrings>
+	<RocketswarmLauncher.label>Máy phóng tên lửa bão</RocketswarmLauncher.label>
+	<RocketswarmLauncher.description>Mở khóa xây dựng "máy phóng tên lửa bão", một loại tháp có khả năng tấn công diện rộng trong những thời điểm quan trọng trong trận chiến. Cần người định cư kích hoạt bằng tay. Sau một loạt phóng, sẽ vào thời gian làm mát kéo dài hàng giờ.</RocketswarmLauncher.description>
+	<RocketswarmLauncher.generalRules.rulesStrings>
+		<li>subject->Tháp phóng tên lửa</li>
+		<li>subject_story->Làm chứng về việc sử dụng máy phóng tên lửa bão để tấn công mục tiêu dân sự.</li>
+		<li>subject_story->Xây dựng tuyến phòng thủ cuối cùng, bao gồm bẫy và máy phóng, để bảo vệ khu định cư khỏi bị đe dọa.</li>
+		<li>subject_story->Ban đầu định xây dựng tên lửa thô sơ để phóng vào không gian, nhưng tỷ lệ thất bại quá cao khiến chúng cuối cùng được sử dụng làm vũ khí.</li>
+		<li>subject_gerund->Xây dựng tháp phóng tên lửa</li>
+	</RocketswarmLauncher.generalRules.rulesStrings>
+	<SniperTurret.label>Tháp pháo bắn tỉa</SniperTurret.label>
+	<SniperTurret.description>Mở khóa xây dựng "tháp pháo bắn tỉa". Bắn đạn uranium có sức mạnh lớn và khả năng xuyên thấu cao, có thể dễ dàng phá vỡ các vật liệu phòng thủ cao cấp như sợi thủy tinh, nhưng hiệu quả gần không tốt.</SniperTurret.description>
+	<SniperTurret.generalRules.rulesStrings>
+		<li>subject->Tháp pháo bắn tỉa</li>
+		<li>subject_story->Lãnh đạo công việc dọn dẹp sau chiến tranh, thu thập đạn uranium phóng xạ từ tiền tuyến.</li>
+		<li>subject_story->Thấy một tháp pháo bắn xuyên qua một cơ thể máy tấn công, bắt đầu tìm hiểu cách nó làm được.</li>
+		<li>subject_story->Nghiên cứu ảnh hưởng của mật độ đạn đến áo giáp.</li>
+		<li>subject_gerund->Xây dựng tháp pháo bắn tỉa</li>
+	</SniperTurret.generalRules.rulesStrings>
+	<VitalsMonitor.label>Máy theo dõi dấu hiệu sinh tồn</VitalsMonitor.label>
+	<VitalsMonitor.description>Mở khóa xây dựng "máy theo dõi dấu hiệu sinh tồn", khi đặt bên cạnh giường bệnh sẽ nâng cao chất lượng điều trị.</VitalsMonitor.description>
+	<VitalsMonitor.generalRules.rulesStrings>
+		<li>subject->Theo dõi dấu hiệu sinh tồn</li>
+		<li>subject_story->Cố gắng làm việc trong một bệnh viện đông đúc, thề sẽ thay đổi tình hình này.</li>
+		<li>subject_story->Chăm sóc một người sống sót từ thế giới thủy tinh hồi phục sức khỏe.</li>
+		<li>subject_story->Giám sát từ xa phòng bệnh cách ly, cử cơ thể máy vào điều trị.</li>
+		<li>subject_gerund->Theo dõi dấu hiệu sinh tồn</li>
+		<li>subject_gerund->Xây dựng máy theo dõi dấu hiệu sinh tồn</li>
+	</VitalsMonitor.generalRules.rulesStrings>
+</LanguageData>

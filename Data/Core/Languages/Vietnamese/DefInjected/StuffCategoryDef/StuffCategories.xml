@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Fabric.label>Vải</Fabric.label>
+	<Fabric.noun>Vải</Fabric.noun>
+	<Leathery.label>Da</Leathery.label>
+	<Leathery.noun>Da</Leathery.noun>
+	<Metallic.label>Kim loại</Metallic.label>
+	<Metallic.noun>Kim loại</Metallic.noun>
+	<Stony.label>Đá</Stony.label>
+	<Stony.noun>Đá</Stony.noun>
+	<Woody.label>Gỗ</Woody.label>
+	<Woody.noun>Gỗ</Woody.noun>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;[gameConditionDescriptionFuture]。</li>
+</Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+<Util_Infestation.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;(*Threat) [hivesCount] tổ côn trùng (/Threat) sẽ xuất hiện từ mặt đất.</li>
+</Util_Infestation.questDescriptionRules.rulesStrings>
+<Util_ManhunterPack.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;(*Threat) một bầy khoảng [animalCount] con [animalKind_labelPlural] đang điên cuồng săn lùng con người (/Threat) sắp đến gần.</li>
+</Util_ManhunterPack.questDescriptionRules.rulesStrings>
+<Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+    <li>threatDescription-&gt;Một địa điểm mới sẽ xuất hiện gần đây. Trừ khi bạn đi tiêu diệt nó, nếu không [allSitePartsDescriptions] sẽ luôn tồn tại.</li>
+    <li>defaultSiteAppearedLetterText-&gt;Một địa điểm mới sẽ xuất hiện gần đây.\n\n[allSitePartsDescriptions]</li>
+    <li>defaultSiteAppearedLetterLabel-&gt;Địa điểm [site_label] đã xuất hiện.</li>
+</Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+</LanguageData>

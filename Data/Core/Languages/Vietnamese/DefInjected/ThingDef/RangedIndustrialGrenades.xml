@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Proj_GrenadeEMP.label>Lựu đạn EMP</Proj_GrenadeEMP.label>
+<Proj_GrenadeFrag.label>Lựu đạn mảnh</Proj_GrenadeFrag.label>
+<Proj_GrenadeMolotov.label>Chai cháy</Proj_GrenadeMolotov.label>
+<Weapon_GrenadeEMP.label>Lựu đạn EMP</Weapon_GrenadeEMP.label>
+<Weapon_GrenadeEMP.description>Lựu đạn điện từ (EMP) có thể tạm thời vô hiệu hóa các máy móc, tháp và súng cối xung quanh sau khi phát nổ, đồng thời làm cạn kiệt năng lượng của lá chắn ngay lập tức.</Weapon_GrenadeEMP.description>
+<Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>Ném Lựu đạn EMP</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+<Weapon_GrenadeFrag.label>Lựu đạn mảnh</Weapon_GrenadeFrag.label>
+<Weapon_GrenadeFrag.description>Lựu đạn mảnh cổ điển. Có thể ném đi không xa, khi phát nổ sẽ gây thương tích cho bất kỳ ai và vật thể nào gần đó.</Weapon_GrenadeFrag.description>
+<Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>Ném Lựu đạn mảnh</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+<Weapon_GrenadeMolotov.label>Chai cháy</Weapon_GrenadeMolotov.label>
+<Weapon_GrenadeMolotov.description>Chai thủy tinh chứa chất lỏng dễ cháy, với một miếng vải đang cháy ở miệng chai. Được ưa chuộng bởi những kẻ xấu và chiến binh liều mạng ở các thế giới biên giới.</Weapon_GrenadeMolotov.description>
+<Weapon_GrenadeMolotov.verbs.throw_molotov.label>Ném chai cháy</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+</LanguageData>

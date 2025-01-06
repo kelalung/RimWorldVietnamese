@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AllowCannibal.label>Cho phép ăn thịt người</AllowCannibal.label>
+<AllowCannibal.description>Cho phép thực phẩm được công nhận bởi những kẻ ăn thịt người (nghĩa là có thành phần thịt người). Điều này phụ thuộc vào thành phần của thực phẩm có chứa thịt người hay không.</AllowCannibal.description>
+<AllowCarnivore.label>Cho phép thịt động vật</AllowCarnivore.label>
+<AllowCarnivore.description>Cho phép thực phẩm mà các loài ăn thịt chấp nhận nhưng người ăn chay không thể chấp nhận. Điều này phụ thuộc vào việc thực phẩm có chứa thành phần thịt hay không. Tùy chọn này không phân biệt giữa thịt người và thịt côn trùng.</AllowCarnivore.description>
+<AllowCorpsesSlave.label>Cho phép xác nô lệ</AllowCorpsesSlave.label>
+<AllowCorpsesSlave.description>Cho phép xác nô lệ.</AllowCorpsesSlave.description>
+<AllowInsectMeat.label>Cho phép thịt côn trùng</AllowInsectMeat.label>
+<AllowInsectMeat.description>Cho phép thực phẩm chứa thịt côn trùng. Điều này phụ thuộc vào việc thực phẩm có chứa thành phần thịt côn trùng hay không.</AllowInsectMeat.description>
+<AllowVegetarian.label>Cho phép ăn chay</AllowVegetarian.label>
+<AllowVegetarian.description>Cho phép thực phẩm chay và cấm thực phẩm có thành phần thịt. Điều này phụ thuộc vào thành phần thực phẩm có thịt hay không.</AllowVegetarian.description>
+</LanguageData>

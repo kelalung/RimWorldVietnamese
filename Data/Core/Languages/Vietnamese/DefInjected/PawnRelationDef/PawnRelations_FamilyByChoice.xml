@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ChildInLaw.label>Con rể</ChildInLaw.label>
+	<ChildInLaw.labelFemale>Con dâu</ChildInLaw.labelFemale>
+	<ExLover.label>Tình cũ</ExLover.label>
+	<ExLover.labelFemale>Tình cũ</ExLover.labelFemale>
+	<ExSpouse.label>Chồng cũ</ExSpouse.label>
+	<ExSpouse.labelFemale>Vợ cũ</ExSpouse.labelFemale>
+	<Fiance.label>Vị hôn phu</Fiance.label>
+	<Fiance.labelFemale>Vị hôn thê</Fiance.labelFemale>
+	<Lover.label>Người yêu</Lover.label>
+	<Lover.labelFemale>Người yêu</Lover.labelFemale>
+	<ParentInLaw.label>Cha vợ</ParentInLaw.label>
+	<ParentInLaw.labelFemale>Mẹ vợ</ParentInLaw.labelFemale>
+	<Spouse.label>Chồng</Spouse.label>
+	<Spouse.labelFemale>Vợ</Spouse.labelFemale>
+	<Stepchild.label>Con riêng</Stepchild.label>
+	<Stepchild.labelFemale>Con gái riêng</Stepchild.labelFemale>
+	<Stepparent.label>Cha dượng</Stepparent.label>
+	<Stepparent.labelFemale>Mẹ kế</Stepparent.labelFemale>
+</LanguageData>

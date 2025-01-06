@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>Ăn thịt thú thiêng</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>
+<AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>Tôi đã ăn thịt thú thiêng, tôi đã vi phạm những quy tắc đạo đức cơ bản.</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>
+<TameVeneratedAnimalDied.stages.venerated_died.label>Thú thiêng {ANIMALKIND} đã qua đời</TameVeneratedAnimalDied.stages.venerated_died.label>
+<TameVeneratedAnimalDied.stages.venerated_died.description>Một con {ANIMALKIND} đã thuần hóa đã qua đời, sự ra đi của một sinh vật cao quý như vậy thật đáng buồn.</TameVeneratedAnimalDied.stages.venerated_died.description>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>Thú thiêng {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.description>Tôi có thú thiêng bên cạnh.</VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.description>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.label>Thú thiêng {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.label>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.description>Tôi có nhiều thú thiêng bên cạnh.</VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.description>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.label>Thú thiêng {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.label>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.description>Tôi có một số thú thiêng bên cạnh.</VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.description>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.label>Thú thiêng {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.label>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.description>Tôi có rất nhiều thú thiêng bên cạnh!</VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.description>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.label>Thú thiêng {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.label>
+<VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.description>Tôi có rất nhiều thú thiêng bên cạnh!</VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.description>
+</LanguageData>

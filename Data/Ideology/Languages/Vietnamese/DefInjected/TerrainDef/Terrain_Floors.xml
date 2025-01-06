@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Boards_Totemic.label>Sàn tôn thờ</Boards_Totemic.label>
+<Boards_Totemic.description>Sàn gỗ tinh tế trang trí bằng họa tiết tôn thờ.</Boards_Totemic.description>
+<Carpet_MindbendA.label>Thảm méo mó (kim cương)</Carpet_MindbendA.label>
+<Carpet_MindbendA.description>Thảm tinh tế, phong cách trang trí thường liên quan đến việc sử dụng ma túy, gây khó hiểu.</Carpet_MindbendA.description>
+<Carpet_MindbendB.label>Thảm méo mó (tím)</Carpet_MindbendB.label>
+<Carpet_MindbendB.description>Thảm tinh tế, phong cách trang trí thường liên quan đến việc sử dụng ma túy, gây khó hiểu.</Carpet_MindbendB.description>
+<Carpet_MindbendC.label>Thảm méo mó (xanh lá)</Carpet_MindbendC.label>
+<Carpet_MindbendC.description>Thảm tinh tế, phong cách trang trí thường liên quan đến việc sử dụng ma túy, gây khó hiểu.</Carpet_MindbendC.description>
+<Carpet_MindbendD.label>Thảm méo mó (xanh dương)</Carpet_MindbendD.label>
+<Carpet_MindbendD.description>Thảm tinh tế, phong cách trang trí thường liên quan đến việc sử dụng ma túy, gây khó hiểu.</Carpet_MindbendD.description>
+<Carpet_MindbendE.label>Thảm méo mó (vàng)</Carpet_MindbendE.label>
+<Carpet_MindbendE.description>Thảm tinh tế, phong cách trang trí thường liên quan đến việc sử dụng ma túy, gây khó hiểu.</Carpet_MindbendE.description>
+<Plates_Spikecore.label>Sàn gai nhọn</Plates_Spikecore.label>
+<Plates_Spikecore.description>Thép tinh tế trang trí theo phong cách gai nhọn.</Plates_Spikecore.description>
+<Tile_MorbidGranite.label>Gạch bệnh lý (đá hoa cương)</Tile_MorbidGranite.label>
+<Tile_MorbidGranite.description>Gạch tinh tế theo phong cách bệnh lý.</Tile_MorbidGranite.description>
+<Tile_MorbidLimestone.label>Gạch bệnh lý (đá vôi)</Tile_MorbidLimestone.label>
+<Tile_MorbidLimestone.description>Gạch tinh tế theo phong cách bệnh lý.</Tile_MorbidLimestone.description>
+<Tile_MorbidMarble.label>Gạch bệnh lý (đá cẩm thạch)</Tile_MorbidMarble.label>
+<Tile_MorbidMarble.description>Gạch tinh tế theo phong cách bệnh lý.</Tile_MorbidMarble.description>
+<Tile_MorbidSandstone.label>Gạch bệnh lý (cát)</Tile_MorbidSandstone.label>
+<Tile_MorbidSandstone.description>Gạch tinh tế theo phong cách bệnh lý.</Tile_MorbidSandstone.description>
+<Tile_MorbidSlate.label>Gạch bệnh lý (đá phiến)</Tile_MorbidSlate.label>
+<Tile_MorbidSlate.description>Gạch tinh tế theo phong cách bệnh lý.</Tile_MorbidSlate.description>
+<Tile_SpikecoreGranite.label>Gạch gai nhọn (đá hoa cương)</Tile_SpikecoreGranite.label>
+<Tile_SpikecoreGranite.description>Gạch tinh tế theo phong cách gai nhọn.</Tile_SpikecoreGranite.description>
+<Tile_SpikecoreLimestone.label>Gạch gai nhọn (đá vôi)</Tile_SpikecoreLimestone.label>
+<Tile_SpikecoreLimestone.description>Gạch tinh tế theo phong cách gai nhọn.</Tile_SpikecoreLimestone.description>
+<Tile_SpikecoreMarble.label>Gạch gai nhọn (đá cẩm thạch)</Tile_SpikecoreMarble.label>
+<Tile_SpikecoreMarble.description>Gạch tinh tế theo phong cách gai nhọn.</Tile_SpikecoreMarble.description>
+<Tile_SpikecoreSandstone.label>Gạch gai nhọn (cát)</Tile_SpikecoreSandstone.label>
+<Tile_SpikecoreSandstone.description>Gạch tinh tế theo phong cách gai nhọn.</Tile_SpikecoreSandstone.description>
+<Tile_SpikecoreSlate.label>Gạch gai nhọn (đá phiến)</Tile_SpikecoreSlate.label>
+<Tile_SpikecoreSlate.description>Gạch tinh tế theo phong cách gai nhọn.</Tile_SpikecoreSlate.description>
+<Tile_TotemicGranite.label>Gạch tôn thờ (đá hoa cương)</Tile_TotemicGranite.label>
+<Tile_TotemicGranite.description>Gạch tinh tế theo phong cách tôn thờ.</Tile_TotemicGranite.description>
+<Tile_TotemicLimestone.label>Gạch tôn thờ (đá vôi)</Tile_TotemicLimestone.label>
+<Tile_TotemicLimestone.description>Gạch tinh tế theo phong cách tôn thờ.</Tile_TotemicLimestone.description>
+<Tile_TotemicMarble.label>Gạch tôn thờ (đá cẩm thạch)</Tile_TotemicMarble.label>
+<Tile_TotemicMarble.description>Gạch tinh tế theo phong cách tôn thờ.</Tile_TotemicMarble.description>
+<Tile_TotemicSandstone.label>Gạch tôn thờ (cát)</Tile_TotemicSandstone.label>
+<Tile_TotemicSandstone.description>Gạch tinh tế theo phong cách tôn thờ.</Tile_TotemicSandstone.description>
+<Tile_TotemicSlate.label>Gạch tôn thờ (đá phiến)</Tile_TotemicSlate.label>
+<Tile_TotemicSlate.description>Gạch tinh tế theo phong cách tôn thờ.</Tile_TotemicSlate.description>
+<Tile_Transhumanist.label>Gạch lục giác</Tile_Transhumanist.label>
+<Tile_Transhumanist.description>Thép hình lục giác tinh tế, mang phong cách công nghệ tối tân.</Tile_Transhumanist.description>
+</LanguageData>

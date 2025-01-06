@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[enemiesLabel] đã thiết lập một căn cứ gần đó để quấy rối đoàn thương mại của [asker_faction_name]. [asker_nameDef] đang lên kế hoạch cho một cuộc không kích vào căn cứ đó. [asker_pronoun] muốn bạn cung cấp [soldiers] cho cuộc tấn công này.\n\n[asker_pronoun] sẽ cử một tàu không gian đến đón các thuộc địa của bạn, đưa họ đến mục tiêu tấn công, họ sẽ được cung cấp thực phẩm và chăm sóc y tế trên đường đi, và sẽ được đưa trở lại sau khi hoàn thành.\n\nKhi bắt đầu cuộc tấn công, bạn phải đánh bại tất cả kẻ thù và tháp pháo trong [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount&gt;1)-&gt;[requiredPawnCount] chiến binh</li>
+    <li>soldiers(requiredPawnCount==1)-&gt;[requiredPawnCount] chiến binh</li>
+</Mission_BanditCamp.questDescriptionRules.rulesStrings>
+<Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>questName-&gt;[questNameInner]</li>
+    <li>questName-&gt;Cuộc tấn công của [asker_nameDef]</li>
+    <li>questNameInner-&gt;[aerial][attack]</li>
+    <li>questNameInner-&gt;[target][attack]</li>
+    <li>questNameInner-&gt;[attack][work]</li>
+    <li>target-&gt;Căn cứ</li>
+    <li>target-&gt;Căn cứ</li>
+    <li>target-&gt;Pháo đài</li>
+    <li>aerial-&gt;Hạ cánh từ trên trời</li>
+    <li>aerial-&gt;Trên không</li>
+    <li>aerial-&gt;Tàu không gian</li>
+    <li>attack-&gt;Tấn công</li>
+    <li>attack-&gt;Đột kích</li>
+    <li>work-&gt;Hoạt động</li>
+    <li>work-&gt;Công việc</li>
+</Mission_BanditCamp.questNameRules.rulesStrings>
+</LanguageData>

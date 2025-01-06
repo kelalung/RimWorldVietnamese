@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CollapseDodged.label>Tránh né sự sụp đổ</CollapseDodged.label>
+<CollapseDodged.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] tránh né sự sụp đổ</li>
+    <li>tale_noun->[PAWN_nameDef] suýt bị vật rơi từ trên cao đè trúng</li>
+    <li>image->[PAWN_nameFull] tránh xa các mảnh vỡ đang sụp đổ, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] vừa kịp tránh né sự sụp đổ, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tránh né trần nhà rơi xuống, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đã tránh được viên đá rơi chết người, [circumstance_group]</li>
+    <li>circumstance_phrase->Vật rơi sau đó biến mất trong đống đổ nát và bụi bặm</li>
+    <li>circumstance_phrase->Sức mạnh đó đủ để nghiền nát mọi thứ</li>
+    <li>circumstance_phrase->Đó thật sự là một sức mạnh khó tin</li>
+    <li>desc_sentence->[PAWN_pronoun] mồ hôi đầm đìa.</li>
+    <li>desc_sentence->[PAWN_pronoun] trông rất sợ hãi.</li>
+    <li>desc_sentence->[PAWN_pronoun] bị trầy xước, đang chảy máu.</li>
+    <li>desc_sentence->[PAWN_pronoun] mất thăng bằng.</li>
+</CollapseDodged.rulePack.rulesStrings>
+<LaunchedShip.label>Phóng tàu vũ trụ</LaunchedShip.label>
+<LaunchedShip.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] rời khỏi hành tinh</li>
+    <li>tale_noun->Tàu vũ trụ của [PAWN_nameDef] cất cánh</li>
+    <li>image->[circumstance_group], [PAWN_nameFull] hướng tới hệ sao mục tiêu</li>
+    <li>image->[circumstance_group], [PAWN_nameFull] bay lên bầu trời</li>
+    <li>image->[circumstance_group], [PAWN_nameFull] đang tăng tốc đến tốc độ thoát</li>
+    <li>image->[circumstance_group], [PAWN_nameFull] lái tên lửa bay lên</li>
+    <li>circumstance_phrase->Trước một [TerrainFeature]</li>
+    <li>circumstance_phrase->Thông qua sức mạnh không thể tưởng tượng nổi</li>
+    <li>circumstance_phrase->Trong môi trường đầy bụi và đá</li>
+    <li>circumstance_phrase->Kèm theo ngọn lửa phun ra từ tên lửa</li>
+    <li>circumstance_phrase->Sau những tính toán chính xác</li>
+    <li>desc_sentence->[PAWN_pronoun] tập trung điều khiển.</li>
+    <li>desc_sentence->[PAWN_pronoun] nhắm mắt lại, trông rất tự tin.</li>
+    <li>desc_sentence->[PAWN_pronoun] yên tâm nhắm mắt, ngủ thiếp đi.</li>
+    <li>desc_sentence->Nụ cười của [PAWN_pronoun] khiến người khác lạnh gáy.</li>
+    <li>desc_sentence->Trông như mọi thứ đều nằm trong tầm kiểm soát của [PAWN_pronoun].</li>
+    <li>desc_sentence->Đuôi tàu vũ trụ kéo theo ngọn lửa.</li>
+    <li>desc_sentence->Một con [Animal] gần đó ngẩng đầu lên, cảm thấy kinh ngạc trước cảnh tượng này.</li>
+    <li>desc_sentence->Một con [Animal] vì sợ hãi mà chạy trốn khỏi hiện trường phóng.</li>
+    <li>desc_sentence->Phía sau là một [TerrainFeature].</li>
+    <li>desc_sentence->Một [PersonJob] đứng xa xa chứng kiến tất cả.</li>
+</LaunchedShip.rulePack.rulesStrings>
+<SocialFight.label>Đánh nhau</SocialFight.label>
+<SocialFight.rulePack.rulesStrings>
+    <li>tale_noun->[INITIATOR_nameDef] và [RESPONDER_nameDef] [fight_name_present]</li>
+    <li>image->[INITIATOR_nameFull] đang xúc phạm [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang mắng chửi [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang đe dọa [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang hăm dọa [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang tấn công [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang đánh đập [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang đuổi đánh [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] đang đá [RESPONDER_nameFull] một cách dữ dội, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] bị [RESPONDER_nameFull] làm cho sợ hãi, [circumstance_group]</li>
+    <li>fight_name_present->Đánh nhau</li>
+    <li>fight_name_present->Đánh nhau</li>
+    <li>fight_name_present->Đánh nhau</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang xúc phạm [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang mắng chửi [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang đe dọa [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang hăm dọa [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang tấn công [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang đánh đập [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang đuổi đánh [INITIATOR_objective]</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] đang đá [INITIATOR_objective] một cách dữ dội</li>
+    <li>circumstance_phrase->Trong khi [RESPONDER_nameDef] bị [INITIATOR_objective] làm cho sợ hãi</li>
+    <li>desc_sentence->[target] không có ý định hối lỗi.</li>
+    <li>desc_sentence->[target] đang tức giận.</li>
+    <li>desc_sentence->[target] không biểu lộ cảm xúc.</li>
+    <li>desc_sentence->[target] toàn thân đầy [Gore].</li>
+    <li>desc_sentence->[target] đang la hét điên cuồng.</li>
+    <li>desc_sentence->[target] rõ ràng đã bị thương.</li>
+    <li>desc_sentence->Đôi mắt của [target] phát ra ánh sáng [Color].</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+</SocialFight.rulePack.rulesStrings>
+</LanguageData>

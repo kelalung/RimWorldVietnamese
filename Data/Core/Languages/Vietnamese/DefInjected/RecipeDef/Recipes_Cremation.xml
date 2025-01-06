@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BurnApparel.label>Thiêu hủy quần áo</BurnApparel.label>
+	<BurnApparel.description>Hoàn toàn thiêu hủy quần áo không cần thiết.</BurnApparel.description>
+	<BurnApparel.jobString>Đang thiêu hủy quần áo.</BurnApparel.jobString>
+	<BurnDrugs.label>Thiêu hủy chất gây nghiện</BurnDrugs.label>
+	<BurnDrugs.description>Hoàn toàn thiêu hủy chất gây nghiện không cần thiết.</BurnDrugs.description>
+	<BurnDrugs.jobString>Đang thiêu hủy chất gây nghiện.</BurnDrugs.jobString>
+	<BurnWeapon.label>Thiêu hủy vũ khí</BurnWeapon.label>
+	<BurnWeapon.description>Hoàn toàn thiêu hủy vũ khí không cần thiết.</BurnWeapon.description>
+	<BurnWeapon.jobString>Đang thiêu hủy vũ khí.</BurnWeapon.jobString>
+	<CremateCorpse.label>Hỏa táng xác chết</CremateCorpse.label>
+	<CremateCorpse.description>Hoàn toàn hỏa táng xác chết.</CremateCorpse.description>
+	<CremateCorpse.jobString>Đang hỏa táng.</CremateCorpse.jobString>
+</LanguageData>

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerArchipelago.rulePack.rulesStrings>
+		<li>r_name(p=0.2)->[narrative_name]quần đảo</li>
+		<li>terrain_word(p=4)->quần đảo</li>
+		<li>terrain_word(p=3)->quần đảo</li>
+		<li>terrain_word(p=3)->dãy đảo</li>
+		<li>terrain_word->rạn san hô</li>
+		<li>terrain_word->đảo vòng</li>
+		<li>terrain_word->quần đảo</li>
+		<li>terrain_word->quần đảo</li>
+		<li>terrain_word->rạn vòng</li>
+		<li>terrain_word->quần đảo</li>
+	</NamerArchipelago.rulePack.rulesStrings>
+	<NamerAridShrubland.rulePack.rulesStrings>
+		<li>terrain_word(p=4)->thảo nguyên</li>
+		<li>terrain_word(p=4)->bình nguyên khô cằn</li>
+		<li>terrain_word(p=2)->đại thảo nguyên</li>
+		<li>terrain_word(p=2)->thảo nguyên bụi rậm</li>
+		<li>terrain_word->bình nguyên bụi rậm</li>
+		<li>terrain_word->đất bụi khô</li>
+		<li>terrain_word->khu gai</li>
+		<li>terrain_word->hoang mạc bụi rậm</li>
+	</NamerAridShrubland.rulePack.rulesStrings>
+	<NamerBay.rulePack.rulesStrings>
+		<li>r_name(p=0.2)->[narrative_name]vịnh</li>
+		<li>terrain_word(p=6)->vịnh</li>
+		<li>terrain_word->vịnh</li>
+		<li>terrain_word->vịnh</li>
+		<li>terrain_word->bến cảng</li>
+		<li>terrain_word->vịnh</li>
+	</NamerBay.rulePack.rulesStrings>
+	<NamerBorealForest.rulePack.rulesStrings>
+		<li>terrain_word(p=6)->rừng</li>
+		<li>terrain_word(p=3)->khu rừng</li>
+		<li>terrain_word->khu rừng lạnh</li>
+		<li>terrain_word->khu rừng lạnh</li>
+		<li>terrain_word->rừng lạnh</li>
+		<li>terrain_word->bình nguyên lạnh</li>
+		<li>terrain_word->bình nguyên lạnh</li>
+	</NamerBorealForest.rulePack.rulesStrings>
+	<NamerDesert.rulePack.rulesStrings>
+		<li>r_name(p=0.4)->[desert_adjective][narrative_name]</li>
+		<li>desert_adjective->bằng phẳng</li>
+		<li>desert_adjective->trắng</li>
+		<li>desert_adjective->mênh mông</li>
+		<li>desert_adjective->tàn nhẫn</li>
+		<li>desert_adjective->nóng bỏng</li>
+		<li>desert_adjective->khô cằn</li>
+		<li>desert_adjective->trải dài</li>
+		<li>desert_adjective->nắng gắt</li>
+		<li>desert_adjective->trời trong</li>
+		<li>desert_adjective->rực rỡ</li>
+		<li>desert_adjective->nóng bức</li>
+		<li>desert_adjective->bỏng rát</li>
+		<li>desert_adjective->cát</li>
+		<li>desert_adjective->đá</li>
+		<li>terrain_word(p=6)->sa mạc</li>
+		<li>terrain_word->sa mạc</li>
+		<li>terrain_word->hoang mạc</li>
+		<li>terrain_word->thung lũng sa mạc</li>
+		<li>terrain_word->hoang mạc</li>
+		<li>terrain_word->gobi</li>
+		<li>terrain_word->gobi</li>
+	</NamerDesert.rulePack.rulesStrings>
+	<NamerForest.rulePack.rulesStrings>
+		<li>terrain_word(p=6)->bình nguyên</li>
+		<li>terrain_word->khu rừng ôn đới</li>
+		<li>terrain_word->khu rừng ôn đới</li>
+		<li>terrain_word->bình nguyên ôn đới</li>
+	</NamerForest.rulePack.rulesStrings>
+	<NamerIceSheet.rulePack.rulesStrings>
+		<li>terrain_word->băng nguyên</li>
+		<li>terrain_word->tuyết nguyên</li>
+		<li>terrain_word(p=0.5)->cực địa</li>
+		<li>terrain_word(p=0.3)->tuyết nguyên</li>
+		<li>terrain_word(p=0.3)->cực địa</li>
+		<li>terrain_word(p=0.3)->băng nguyên</li>
+		<li>terrain_word(p=0.3)->đại băng nguyên</li>
+		<li>terrain_word(p=0.3)->cực địa</li>
+	</NamerIceSheet.rulePack.rulesStrings>
+	<NamerIsland.rulePack.rulesStrings>
+		<li>r_name(p=0.2)->[narrative_name]đảo</li>
+		<li>terrain_word(p=4)->đảo</li>
+		<li>terrain_word(p=2)->đảo</li>
+		<li>terrain_word->rạn</li>
+		<li>terrain_word->đảo vòng</li>
+		<li>terrain_word->đảo</li>
+		<li>terrain_word->hòn đảo</li>
+		<li>terrain_word->đảo san hô</li>
+	</NamerIsland.rulePack.rulesStrings>
+	<NamerLake.rulePack.rulesStrings>
+		<li>r_name->[narrative_name]hồ</li>
+		<li>terrain_word(p=6)->hồ</li>
+		<li>terrain_word->hồ nội địa</li>
+		<li>terrain_word->hồ</li>
+		<li>terrain_word->hồ</li>
+		<li>terrain_word->hồ</li>
+		<li>terrain_word(p=0.3)->vũng nước</li>
+		<li>terrain_word(p=0.3)->đầm phá</li>
+		<li>terrain_word(p=0.3)->hồ</li>
+	</NamerLake.rulePack.rulesStrings>
+	<NamerMountainRange.rulePack.rulesStrings>
+		<li>r_name(p=0.2)->[narrative_name]núi</li>
+		<li>terrain_word(p=5)->dãy núi</li>
+		<li>terrain_word(p=2)->núi</li>
+		<li>terrain_word->đỉnh</li>
+		<li>terrain_word->địa hình núi</li>
+		<li>terrain_word->khu vực núi</li>
+	</NamerMountainRange.rulePack.rulesStrings>
+	<NamerOcean.rulePack.rulesStrings>
+		<li>r_name(p=0.4)->[ocean_adjective][narrative_name]</li>
+		<li>ocean_adjective->màu xanh</li>
+		<li>ocean_adjective->màu trắng</li>
+		<li>ocean_adjective->màu xám</li>
+		<li>ocean_adjective->trong suốt</li>
+		<li>ocean_adjective->gió mạnh</li>
+		<li>ocean_adjective->dữ dội</li>
+		<li>ocean_adjective->yên bình</li>
+		<li>ocean_adjective->bao la</li>
+		<li>ocean_adjective->vô tận</li>
+		<li>ocean_adjective->yên tĩnh</li>
+		<li>ocean_adjective->tĩnh lặng</li>
+		<li>ocean_adjective->sóng lớn</li>
+		<li>ocean_adjective->ôn hòa</li>
+		<li>terrain_word(p=6)->đại dương</li>
+		<li>terrain_word(p=3)->biển</li>
+		<li>terrain_word->đại dương</li>
+	</NamerOcean.rulePack.rulesStrings>
+	<NamerPeninsula.rulePack.rulesStrings>
+		<li>r_name(p=0.2)->[narrative_name]mũi</li>
+		<li>r_name(p=0.2)->[narrative_name]bán đảo</li>
+		<li>terrain_word(p=5)->bán đảo</li>
+		<li>terrain_word(p=2)->mũi</li>
+		<li>terrain_word->mũi biển</li>
+		<li>terrain_word->mũi</li>
+		<li>terrain_word->mũi</li>
+	</NamerPeninsula.rulePack.rulesStrings>
+	<NamerSea.rulePack.rulesStrings>
+		<li>r_name(p=0.1)->[narrative_name]hồ</li>
+		<li>terrain_word(p=6)->hồ</li>
+		<li>terrain_word->hồ</li>
+		<li>terrain_word->hồ</li>
+	</NamerSea.rulePack.rulesStrings>
+	<NamerSwamp.rulePack.rulesStrings>
+		<li>r_name(p=0.1)->[narrative_name]đầm lầy</li>
+		<li>r_name(p=0.3)->[swamp_adjective][narrative_name]</li>
+		<li>swamp_adjective->ẩm ướt</li>
+		<li>swamp_adjective->nóng ẩm</li>
+		<li>swamp_adjective->ngột ngạt</li>
+		<li>swamp_adjective->hôi thối</li>
+		<li>swamp_adjective->thối rữa</li>
+		<li>swamp_adjective->lộn xộn</li>
+		<li>swamp_adjective->mê cung</li>
+		<li>swamp_adjective->với dây leo</li>
+		<li>swamp_adjective->gai góc</li>
+		<li>terrain_word(p=6)->đầm lầy</li>
+		<li>terrain_word->thung lũng đầm lầy</li>
+		<li>terrain_word->đất ngập nước</li>
+		<li>terrain_word->đầm lầy</li>
+		<li>terrain_word->đầm lầy</li>
+		<li>terrain_word->đất ngập nước</li>
+		<li>terrain_word->đầm lầy</li>
+	</NamerSwamp.rulePack.rulesStrings>
+	<NamerTropicalRainforest.rulePack.rulesStrings>
+		<li>r_name(p=0.3)->[rainforest_adjective][narrative_name]</li>
+		<li>rainforest_adjective->ẩm ướt</li>
+		<li>rainforest_adjective->nóng ẩm</li>
+		<li>rainforest_adjective->ngột ngạt</li>
+		<li>rainforest_adjective->lộn xộn</li>
+		<li>rainforest_adjective->mê cung</li>
+		<li>rainforest_adjective->với dây leo</li>
+		<li>rainforest_adjective->mọc đầy gai</li>
+		<li>terrain_word(p=6)->rừng mưa</li>
+		<li>terrain_word(p=3)->rừng rậm</li>
+		<li>terrain_word->khu rừng nhiệt đới</li>
+		<li>terrain_word->rừng mưa</li>
+		<li>terrain_word->khu rừng mưa</li>
+		<li>terrain_word->rừng mưa nhiệt đới</li>
+	</NamerTropicalRainforest.rulePack.rulesStrings>
+	<NamerTundra.rulePack.rulesStrings>
+		<li>terrain_word(p=4)->Lãnh nguyên</li>
+		<li>terrain_word(p=4)->Rêu nguyên</li>
+		<li>terrain_word(p=2)->Đất đông cứng cánh rừng</li>
+		<li>terrain_word->Cây bụi rêu nguyên</li>
+		<li>terrain_word->Hoang nguyên</li>
+		<li>terrain_word->Vùng đất thấp rêu nguyên</li>
+		<li>terrain_word->Cây bụi rêu nguyên</li>
+		<li>terrain_word->Cây bụi rêu nguyên</li>
+		<li>terrain_word->Hoang nguyên</li>
+		<li>terrain_word->Rêu nguyên</li>
+		<li>terrain_word->Rêu nguyên</li>
+		<li>terrain_word->Lãnh nguyên</li>
+	</NamerTundra.rulePack.rulesStrings>
+	<WorldFeatureNamerCommon.rulePack.rulesStrings>
+		<li>r_name->[narrative_name][terrain_word]</li>
+		<li>r_name(p=0.05)->[storyname][terrain_word]</li>
+		<li>narrative_name(p=12)->[WordTribal]</li>
+		<li>narrative_name(p=12)->[PlaceOutlander]</li>
+		<li>narrative_name->[Color][NaturalObject]</li>
+		<li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+		<li>narrative_name->[Animal]</li>
+		<li>narrative_name->[Color]</li>
+		<li>narrative_name->[Color][Animal]</li>
+		<li>narrative_name->[AdjectiveNatural][Animal]</li>
+		<li>narrative_name->[Animal][BodyPart]</li>
+		<li>narrative_name->[Color][Animal]</li>
+		<li>narrative_name->[AdjectiveNatural][Animal]</li>
+		<li>narrative_name->[Animal][BodyPart]</li>
+		<li>storyname(p=50)->[subject] [story_result]</li>
+		<li>storyname(p=2)->[subject] [BodyPart]</li>
+		<li>storyname->[subject] [Gore]</li>
+		<li>subject(p=5)->[NamePerson]</li>
+		<li>subject->[Animal]</li>
+		<li>subject->[WordTribal]</li>
+		<li>subject->[PlaceOutlander]</li>
+		<li>story_result->ngu ngốc</li>
+		<li>story_result->sa ngã</li>
+		<li>story_result->điên cuồng</li>
+		<li>story_result->sai lầm</li>
+		<li>story_result->hỏng hóc</li>
+		<li>story_result->lỗi lầm</li>
+		<li>story_result->ảo tưởng</li>
+		<li>story_result->vui mừng</li>
+		<li>story_result->thích thú</li>
+		<li>story_result->ngạc nhiên</li>
+		<li>story_result->tự hào</li>
+		<li>story_result->ngọc ngà</li>
+		<li>story_result->thưởng</li>
+		<li>story_result->tiền thưởng</li>
+		<li>story_result->vinh quang</li>
+		<li>story_result->huy chương đầu tiên</li>
+		<li>story_result->cúp</li>
+		<li>story_result->tự mãn</li>
+		<li>story_result->kiêu ngạo</li>
+		<li>story_result->chịu đựng</li>
+		<li>story_result->mất mát</li>
+		<li>story_result->ân huệ</li>
+		<li>story_result->sụp đổ</li>
+		<li>story_result->hủy diệt</li>
+		<li>story_result->rối loạn</li>
+		<li>story_result->tàn tích</li>
+		<li>story_result->hư hại</li>
+		<li>story_result->gốc rễ của vấn đề</li>
+		<li>story_result->suy tàn</li>
+		<li>story_result->cái kết</li>
+		<li>story_result->nghỉ hưu</li>
+		<li>story_result->thành tích</li>
+		<li>story_result->kết thúc</li>
+		<li>story_result->khoe khoang</li>
+		<li>story_result->mưu mẹo</li>
+		<li>story_result->lừa dối</li>
+		<li>story_result->bề ngoài</li>
+		<li>story_result->lừa đảo</li>
+	</WorldFeatureNamerCommon.rulePack.rulesStrings>
+</LanguageData>

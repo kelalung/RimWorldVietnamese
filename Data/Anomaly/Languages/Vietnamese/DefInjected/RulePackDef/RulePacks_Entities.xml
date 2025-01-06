@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Event_DevourerConsumeLeap.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] lao vào [SUBJECT_definite] và bắt đầu tiêu hóa [SUBJECT_objective].</li>
+	</Event_DevourerConsumeLeap.rulePack.rulesStrings>
+	<Event_DevourerDigestionAborted.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] đã nhả [SUBJECT_definite] ra.</li>
+	</Event_DevourerDigestionAborted.rulePack.rulesStrings>
+	<Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] đã hoàn toàn tiêu hóa [SUBJECT_definite].</li>
+	</Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+	<Event_Hypnotized.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] đã thôi miên [SUBJECT_definite].</li>
+	</Event_Hypnotized.rulePack.rulesStrings>
+	<Event_MetalhorrorEmerged.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] đã từ [SUBJECT_definite] chui ra.</li>
+	</Event_MetalhorrorEmerged.rulePack.rulesStrings>
+	<Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite] đã sử dụng năng lực tâm linh làm hỏng não của [SUBJECT_definite].</li>
+	</Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+	<RevenantNoises.rulePack.rulesStrings>
+		<li>verb-&gt;Thở hổn hển</li>
+		<li>verb-&gt;Rùng mình</li>
+		<li>verb-&gt;Run rẩy</li>
+		<li>verb-&gt;Kêu răng rắc</li>
+		<li>verb-&gt;Tiếng thét chói tai</li>
+		<li>verb-&gt;Tiếng cào</li>
+		<li>verb-&gt;Hú hét</li>
+		<li>verb-&gt;Rên rỉ</li>
+		<li>verb-&gt;Rì rầm</li>
+		<li>verb-&gt;Nói lảm nhảm</li>
+		<li>verb-&gt;Tiếng tích tắc</li>
+		<li>verb-&gt;Thở gấp</li>
+		<li>verb-&gt;Kêu cọt kẹt</li>
+		<li>verb-&gt;Co giật</li>
+		<li>verb-&gt;Nghiến răng</li>
+		<li>verb-&gt;Ho</li>
+	</RevenantNoises.rulePack.rulesStrings>
+</LanguageData>

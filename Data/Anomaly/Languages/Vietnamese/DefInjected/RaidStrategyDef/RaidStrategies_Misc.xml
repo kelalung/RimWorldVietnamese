@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PsychicRitualSiege.arrivalTextEnemy>Họ dự định thực hiện nghi lễ {RITUAL_definite}. Ngăn chặn họ trước khi họ hoàn thành nghi lễ. Nếu không ngăn chặn, họ có thể thực hiện nghi lễ nhiều lần.</PsychicRitualSiege.arrivalTextEnemy>
+	<PsychicRitualSiege.letterLabelEnemy>Cuộc tấn công: Tín đồ Horax</PsychicRitualSiege.letterLabelEnemy>
+	<ShamblerAssault.arrivalTextEnemy>Một sức mạnh bất thường đã làm cho những xác chết đã mất đi sự sống này hồi sinh, và giờ chúng chỉ muốn tấn công thuộc địa của bạn. Tuy nhiên, sức mạnh này sẽ cạn kiệt sau vài giờ, và chúng sẽ ngã xuống.</ShamblerAssault.arrivalTextEnemy>
+	<ShamblerAssault.letterLabelEnemy>Cuộc tấn công của quái vật lê bước</ShamblerAssault.letterLabelEnemy>
+</LanguageData>

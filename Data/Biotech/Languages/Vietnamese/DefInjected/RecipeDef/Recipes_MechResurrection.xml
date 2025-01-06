@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ResurrectHeavyMech.label>Hồi sinh máy móc hạng nặng</ResurrectHeavyMech.label>
+<ResurrectHeavyMech.description>Hồi sinh một máy móc hạng nặng của đồng minh. Điều kiện là cơ thể máy móc chưa bị phá hủy hoàn toàn.</ResurrectHeavyMech.description>
+<ResurrectHeavyMech.jobString>Đang hồi sinh máy móc.</ResurrectHeavyMech.jobString>
+<ResurrectLightMech.label>Hồi sinh máy móc hạng nhẹ</ResurrectLightMech.label>
+<ResurrectLightMech.description>Hồi sinh một máy móc hạng nhẹ của đồng minh. Điều kiện là cơ thể máy móc chưa bị phá hủy hoàn toàn.</ResurrectLightMech.description>
+<ResurrectLightMech.jobString>Đang hồi sinh máy móc.</ResurrectLightMech.jobString>
+<ResurrectMediumMech.label>Hồi sinh máy móc hạng trung</ResurrectMediumMech.label>
+<ResurrectMediumMech.description>Hồi sinh một máy móc hạng trung của đồng minh. Điều kiện là cơ thể máy móc chưa bị phá hủy hoàn toàn.</ResurrectMediumMech.description>
+<ResurrectMediumMech.jobString>Đang hồi sinh máy móc.</ResurrectMediumMech.jobString>
+<ResurrectUltraheavyMech.label>Hồi sinh máy móc siêu hạng nặng</ResurrectUltraheavyMech.label>
+<ResurrectUltraheavyMech.description>Hồi sinh một máy móc siêu hạng nặng của đồng minh. Điều kiện là cơ thể máy móc chưa bị phá hủy hoàn toàn.</ResurrectUltraheavyMech.description>
+<ResurrectUltraheavyMech.jobString>Đang hồi sinh máy móc.</ResurrectUltraheavyMech.jobString>
+</LanguageData>

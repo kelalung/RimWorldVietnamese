@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ClosedTheVoid.label>closed the void node</ClosedTheVoid.label>
+<ClosedTheVoid.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] closing the void node.</ClosedTheVoid.rulePack.rulesStrings.0>
+<ClosedTheVoid.rulePack.rulesStrings.1>image->[PAWN_nameFull] sealing the connection to the void, ensuring the safety of the colony [circumstance_group]</ClosedTheVoid.rulePack.rulesStrings.1>
+<ClosedTheVoid.rulePack.rulesStrings.2>image->[PAWN_nameFull] standing defiantly before the void node, determined to protect the colony [circumstance_group]</ClosedTheVoid.rulePack.rulesStrings.2>
+<ClosedTheVoid.rulePack.rulesStrings.3>circumstance_phrase->amidst crackling energy</ClosedTheVoid.rulePack.rulesStrings.3>
+<ClosedTheVoid.rulePack.rulesStrings.4>circumstance_phrase->as the void node emits a haunting glow</ClosedTheVoid.rulePack.rulesStrings.4>
+<ClosedTheVoid.rulePack.rulesStrings.5>circumstance_phrase->while the void whispers in the background</ClosedTheVoid.rulePack.rulesStrings.5>
+<ClosedTheVoid.rulePack.rulesStrings.6>desc_sentence->The gray metal presses in from all sides.</ClosedTheVoid.rulePack.rulesStrings.6>
+<ClosedTheVoid.rulePack.rulesStrings.7>desc_sentence->The other colonists are shown [side_position], anxiously awaiting [PAWN_nameDef]'s return.</ClosedTheVoid.rulePack.rulesStrings.7>
+<ClosedTheVoid.rulePack.rulesStrings.8>desc_sentence->[PAWN_nameDef]'s face betrays that [PAWN_pronoun] is agonising over the choice before [PAWN_objective].</ClosedTheVoid.rulePack.rulesStrings.8>
+<EmbracedTheVoid.label>embraced the void</EmbracedTheVoid.label>
+<EmbracedTheVoid.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] embracing the void</EmbracedTheVoid.rulePack.rulesStrings.0>
+<EmbracedTheVoid.rulePack.rulesStrings.1>image->[PAWN_nameFull] harnessing the forbidden knowledge of the void, transcending mortal limitations, [circumstance_group]</EmbracedTheVoid.rulePack.rulesStrings.1>
+<EmbracedTheVoid.rulePack.rulesStrings.2>image->[PAWN_nameFull] surrendering to the allure of the void [circumstance_group]</EmbracedTheVoid.rulePack.rulesStrings.2>
+<EmbracedTheVoid.rulePack.rulesStrings.3>image->[PAWN_nameFull] giving in to the sinister whispers of the void [circumstance_group]</EmbracedTheVoid.rulePack.rulesStrings.3>
+<EmbracedTheVoid.rulePack.rulesStrings.4>circumstance_phrase->as tendrils of dark energy coil around [PAWN_possessive] limbs</EmbracedTheVoid.rulePack.rulesStrings.4>
+<EmbracedTheVoid.rulePack.rulesStrings.5>circumstance_phrase->amidst a swirling vortex of energy</EmbracedTheVoid.rulePack.rulesStrings.5>
+<EmbracedTheVoid.rulePack.rulesStrings.6>circumstance_phrase->with an unsettling smile</EmbracedTheVoid.rulePack.rulesStrings.6>
+<EmbracedTheVoid.rulePack.rulesStrings.7>desc_sentence->[PAWN_nameDef] radiates an aura of ominous power, a testament to [PAWN_possessive] pact with the void.</EmbracedTheVoid.rulePack.rulesStrings.7>
+<EmbracedTheVoid.rulePack.rulesStrings.8>desc_sentence->[PAWN_nameDef]'s eyes begin to gleam with an otherworldly glow.</EmbracedTheVoid.rulePack.rulesStrings.8>
+<EmbracedTheVoid.rulePack.rulesStrings.9>desc_sentence->The other colonists are shown [side_position], questioning the wisdom of [PAWN_nameDef]'s choice.</EmbracedTheVoid.rulePack.rulesStrings.9>
+<PerformedPsychicRitual.label>performed a psychic ritual</PerformedPsychicRitual.label>
+<PerformedPsychicRitual.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] leading a psychic ritual</PerformedPsychicRitual.rulePack.rulesStrings.0>
+<PerformedPsychicRitual.rulePack.rulesStrings.1>image->[PAWN_nameFull] channeling energy that dances around [PAWN_objective] as [PAWN_pronoun] weaves a potent psychic ritual, [circumstance_group]</PerformedPsychicRitual.rulePack.rulesStrings.1>
+<PerformedPsychicRitual.rulePack.rulesStrings.2>image->[PAWN_nameFull] reciting dark incantations and tapping into mysterious forces to perform a psychic ritual, [circumstance_group]</PerformedPsychicRitual.rulePack.rulesStrings.2>
+<PerformedPsychicRitual.rulePack.rulesStrings.3>image->[PAWN_nameFull] focusing [PAWN_possessive] gaze as [PAWN_pronoun] performs a psychic ritual, [circumstance_group]</PerformedPsychicRitual.rulePack.rulesStrings.3>
+<PerformedPsychicRitual.rulePack.rulesStrings.4>image->[PAWN_nameFull] tracing intricate symbols in the air, harnessing hidden energies to manifest a psychic ritual, [circumstance_group]</PerformedPsychicRitual.rulePack.rulesStrings.4>
+<PerformedPsychicRitual.rulePack.rulesStrings.5>circumstance_phrase->while focusing intently on the tome in front of [PAWN_objective]</PerformedPsychicRitual.rulePack.rulesStrings.5>
+<PerformedPsychicRitual.rulePack.rulesStrings.6>circumstance_phrase->with focused determination, showcasing [PAWN_possessive] mastery of the psychic arts</PerformedPsychicRitual.rulePack.rulesStrings.6>
+<PerformedPsychicRitual.rulePack.rulesStrings.7>circumstance_phrase->with a cruel smile</PerformedPsychicRitual.rulePack.rulesStrings.7>
+<PerformedPsychicRitual.rulePack.rulesStrings.8>circumstance_phrase->while [PAWN_possessive] voice fights to be heard over the roar of energy</PerformedPsychicRitual.rulePack.rulesStrings.8>
+<PerformedPsychicRitual.rulePack.rulesStrings.9>desc_sentence->The chanters can be seen [side_position] lending their support.</PerformedPsychicRitual.rulePack.rulesStrings.9>
+<PerformedPsychicRitual.rulePack.rulesStrings.10>desc_sentence->The air shimmers as [PAWN_nameDef] completes the psychic ritual.</PerformedPsychicRitual.rulePack.rulesStrings.10>
+<PerformedPsychicRitual.rulePack.rulesStrings.11>desc_sentence->The monolith shimmers in the background.</PerformedPsychicRitual.rulePack.rulesStrings.11>
+<PerformedPsychicRitual.rulePack.rulesStrings.12>desc_sentence->The surrounding candles flicker and sputter in the swirling energy.</PerformedPsychicRitual.rulePack.rulesStrings.12>
+</LanguageData>

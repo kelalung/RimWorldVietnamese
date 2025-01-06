@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodRain.label>Mưa máu</BloodRain.label>
+	<BloodRain.description>Tiến hành một nghi lễ để cho dòng chất lỏng giống như máu từ trên trời rơi xuống. Chất lỏng này sẽ khiến những người và động vật tiếp xúc với nó dần rơi vào trạng thái cuồng loạn. Hiệu ứng phụ thuộc vào đặc tính sinh học và độ nhạy cảm tâm linh.</BloodRain.description>
+	<BloodRain.outcomeDescription>Với chất lượng nghi lễ hiện tại, mưa máu sẽ kéo dài {0}.</BloodRain.outcomeDescription>
+	<Brainwipe.label>Rửa não</Brainwipe.label>
+	<Brainwipe.description>Xóa bỏ ký ức của một người. Người bị rửa não sẽ quên đi các sự kiện chấn thương. Ngay cả những tù nhân có ý chí mạnh mẽ cũng sẽ quên đi đối tượng trung thành của mình, dễ dàng hơn để được tuyển dụng. Những người đã mất nhân tính cũng sẽ quên đi mối liên hệ của mình với hư không. Nhưng không may, tác động phá hủy của nghi lễ này có thể gây ra hôn mê, và tình trạng này có thể kéo dài rất lâu, đặc biệt là trong trường hợp chất lượng nghi lễ kém.</Brainwipe.description>
+	<Brainwipe.outcomeDescription>Với chất lượng nghi lễ hiện tại, mục tiêu sẽ hôn mê {0}.</Brainwipe.outcomeDescription>
+	<Chronophagy.label>Nuốt thời gian</Chronophagy.label>
+	<Chronophagy.description>Kích thích thiết bị siêu phàm xa xôi, chuyển giao entropy từ một người sang người khác. Điều này sẽ khiến mục tiêu nhanh chóng lão hóa, trong khi người khởi xướng có thể hồi xuân, và có khả năng chữa lành sẹo cùng các bệnh do tuổi tác gây ra. Mục tiêu cũng sẽ chịu tổn thương não và hôn mê trong vài ngày.</Chronophagy.description>
+	<Chronophagy.outcomeDescription>Với chất lượng nghi lễ hiện tại, người khởi xướng sẽ trẻ lại {0} tuổi, trong khi mục tiêu sẽ lão hóa {1} tuổi.</Chronophagy.outcomeDescription>
+	<ImbueDeathRefusal.label>Truyền đạt sự từ chối cái chết</ImbueDeathRefusal.label>
+	<ImbueDeathRefusal.description>Kết nối mục tiêu với động cơ siêu phàm xa xôi, cho phép họ hồi sinh trong vòng vài giây. Nhưng quá trình này sẽ gây ra tác dụng phụ.</ImbueDeathRefusal.description>
+	<ImbueDeathRefusal.outcomeDescription>Mục tiêu sẽ nhận được hiệu ứng “tránh cái chết”.\n\nVới chất lượng nghi lễ hiện tại, tất cả kỹ năng của mục tiêu sẽ giảm {0}.</ImbueDeathRefusal.outcomeDescription>
+	<NeurosisPulse.label>Puls tâm lý</NeurosisPulse.label>
+	<NeurosisPulse.description>Phát ra một xung tâm linh mạnh mẽ, nâng cao hiệu suất làm việc của tất cả những người nhạy cảm tâm linh trong khu vực, nhưng cũng làm cho họ trở nên khó chịu hơn. Những người bị ảnh hưởng sẽ ít cần giải trí hơn, nhưng cũng sẽ không vui vẻ hơn, dễ dàng dẫn đến sự sụp đổ tinh thần. Hiệu ứng này sẽ thay thế hiệu ứng của các xung đã được kích hoạt khác.</NeurosisPulse.description>
+	<NeurosisPulse.outcomeDescription>Với chất lượng nghi lễ hiện tại, hiệu ứng này sẽ kéo dài {0}.</NeurosisPulse.outcomeDescription>
+	<Philophagy.label>Học thức hấp thụ</Philophagy.label>
+	<Philophagy.description>Hấp thụ kinh nghiệm từ tâm trí của nạn nhân và truyền đạt cho người khởi xướng, chỉ áp dụng cho kỹ năng cao nhất của nạn nhân. Mục tiêu sẽ bị tổn thương não và hôn mê trong vài ngày.</Philophagy.description>
+	<Philophagy.outcomeDescription>Với chất lượng nghi lễ hiện tại, người khởi xướng sẽ hấp thụ {0} kinh nghiệm từ kỹ năng cao nhất của mục tiêu.</Philophagy.outcomeDescription>
+	<PleasurePulse.label>Puls vui vẻ</PleasurePulse.label>
+	<PleasurePulse.description>Phát ra một xung tâm linh mạnh mẽ, khiến tất cả những người nhạy cảm tâm linh trong khu vực cảm thấy vui vẻ hơn, nhưng cũng làm giảm mong muốn làm việc của họ. Hiệu ứng này sẽ thay thế hiệu ứng của các xung đã được kích hoạt khác.</PleasurePulse.description>
+	<PleasurePulse.outcomeDescription>Với chất lượng nghi lễ hiện tại, hiệu ứng này sẽ kéo dài {0}.</PleasurePulse.outcomeDescription>
+	<Psychophagy.label>Phản ứng tâm linh</Psychophagy.label>
+	<Psychophagy.description>Bằng cách tiêu thụ độ nhạy cảm tâm linh của mục tiêu, nâng cao độ nhạy cảm tâm linh của người khởi xướng trong một khoảng thời gian. Hiệu ứng này không thể tích lũy. Mục tiêu sẽ bị tổn thương não, dẫn đến hôn mê trong vài ngày.</Psychophagy.description>
+	<Psychophagy.outcomeDescription>Với chất lượng nghi lễ hiện tại, hiệu ứng này sẽ kéo dài {0}.</Psychophagy.outcomeDescription>
+	<SkipAbduction.label>Bắt cóc nhảy cóc</SkipAbduction.label>
+	<SkipAbduction.description>Ngẫu nhiên chuyển một thành viên của phe đối địch đến địa điểm nghi lễ và làm cho họ hôn mê.</SkipAbduction.description>
+	<SkipAbduction.letterAIArrivedText>Họ định sử dụng nghi lễ tâm linh để bắt cóc một người định cư bằng cách chuyển vị trí.</SkipAbduction.letterAIArrivedText>
+	<SkipAbduction.letterAICompleteLabel>Bắt cóc nhảy cóc</SkipAbduction.letterAICompleteLabel>
+	<SkipAbduction.letterAICompleteText>{PAWN_nameDef} đã bị giáo phái bắt cóc!</SkipAbduction.letterAICompleteText>
+	<SkipAbduction.outcomeDescription>Mục tiêu sẽ được chuyển đến vị trí của người khởi xướng và hôn mê.</SkipAbduction.outcomeDescription>
+	<SkipAbductionPlayer.label>Bắt cóc nhảy cóc</SkipAbductionPlayer.label>
+	<SkipAbductionPlayer.description>Ngẫu nhiên bắt cóc một thành viên của phe đối địch ở bất kỳ vị trí nào trên thế giới, ưu tiên những người gần nhất. Nghi lễ sẽ kích thích công nghệ siêu phàm tăm tối và biến dạng không gian, chuyển những thành viên đối địch ở xa về trung tâm vòng nghi lễ. Quá trình này sẽ khiến mục tiêu hôn mê trong thời gian ngắn.</SkipAbductionPlayer.description>
+	<SkipAbductionPlayer.outcomeDescription>Với chất lượng nghi lễ hiện tại, mục tiêu sẽ hôn mê {0}.</SkipAbductionPlayer.outcomeDescription>
+	<SummonAnimals.label>Gọi động vật</SummonAnimals.label>
+	<SummonAnimals.description>Phát ra xung tâm linh, thu hút bầy động vật từ xa đến khu vực này. Bạn có thể săn bắn hoặc sử dụng chúng theo ý muốn. Nếu thao tác không đúng, có thể khiến động vật rơi vào trạng thái săn người.</SummonAnimals.description>
+	<SummonAnimals.outcomeDescription>Với chất lượng nghi lễ hiện tại, động vật có {0} khả năng rơi vào trạng thái săn người.</SummonAnimals.outcomeDescription>
+	<SummonFleshbeasts.label>Gọi quái thú thịt</SummonFleshbeasts.label>
+	<SummonFleshbeasts.description>Phát ra xung tâm linh, thu hút quái thú thịt đào bới lên và xuất hiện gần kẻ thù. Chúng sẽ tấn công bất kỳ ai mà không phân biệt. Quái thú thịt có thể bị bắt và điều tra, hoặc có thể bị giết để thu hoạch thịt biến dạng.</SummonFleshbeasts.description>
+	<SummonFleshbeasts.letterAIArrivedText>Họ dự định sử dụng nghi lễ tâm linh để triệu hồi một bầy quái thú thịt đáng sợ để tấn công bạn.</SummonFleshbeasts.letterAIArrivedText>
+	<SummonFleshbeasts.letterAICompleteLabel>Quái thú thịt xuất hiện</SummonFleshbeasts.letterAICompleteLabel>
+	<SummonFleshbeasts.letterAICompleteText>Quái thú thịt đang trồi lên từ mặt đất, sẵn sàng chiến đấu!</SummonFleshbeasts.letterAICompleteText>
+	<SummonFleshbeasts.outcomeDescription>Phát ra xung tâm linh, thu hút một bầy quái thú thịt.</SummonFleshbeasts.outcomeDescription>
+	<SummonFleshbeastsPlayer.label>Gọi quái thú thịt</SummonFleshbeastsPlayer.label>
+	<SummonFleshbeastsPlayer.description>Phát ra xung tâm linh, thu hút quái thú thịt đào bới lên và xuất hiện gần kẻ thù. Chúng sẽ tấn công bất kỳ ai mà không phân biệt. Quái thú thịt có thể bị bắt và điều tra, hoặc có thể bị giết để thu hoạch thịt biến dạng.</SummonFleshbeastsPlayer.description>
+	<SummonFleshbeastsPlayer.outcomeDescription>Chất lượng nghi lễ càng cao, số lượng quái thú thịt thu hút càng nhiều.</SummonFleshbeastsPlayer.outcomeDescription>
+	<SummonPitGate.label>Gọi hố khổng lồ</SummonPitGate.label>
+	<SummonPitGate.description>Phát ra xung tâm linh để làm tức giận quái thú thịt dưới lòng đất, khiến chúng đào một cái hố khổng lồ ở đâu đó trong khu vực. Hố khổng lồ sẽ dẫn đến các hang động nơi quái thú thịt thường xuất hiện, có thể khám phá và thu thập tài nguyên ở đó.</SummonPitGate.description>
+	<SummonPitGate.outcomeDescription>Chất lượng nghi lễ càng cao, số lượng quái thú thịt thu hút càng nhiều. Quái thú thịt có thể bị bắt và điều tra, hoặc có thể bị giết để thu hoạch thịt biến dạng.</SummonPitGate.outcomeDescription>
+	<SummonShamblers.label>Gọi quái vật lê bước</SummonShamblers.label>
+	<SummonShamblers.description>Phát ra xung tâm linh, thu hút một bầy quái vật lê bước từ xa đến khu vực bạn. Chúng sẽ tấn công bất kỳ ai mà chúng thấy, nhưng sẽ không tấn công trực tiếp vào thuộc địa. Có thể bắt và điều tra chúng.</SummonShamblers.description>
+	<SummonShamblers.outcomeDescription>Chất lượng nghi lễ càng cao, số lượng quái vật lê bước thu hút càng nhiều.</SummonShamblers.outcomeDescription>
+	<VoidProvocation.label>Kích thích hư không</VoidProvocation.label>
+	<VoidProvocation.description>Giao tiếp tâm linh với hư không, thu hút một thực thể có thể bị bắt và điều tra. Người khởi xướng có thể hôn mê trong vài giờ.</VoidProvocation.description>
+	<VoidProvocation.outcomeDescription>Với chất lượng nghi lễ hiện tại, người khởi xướng có {0} khả năng rơi vào trạng thái va chạm tâm linh tăm tối.</VoidProvocation.outcomeDescription>
+</LanguageData>

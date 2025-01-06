@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Administer_Ambrosia.label>Áp dụng Ambrosia</Administer_Ambrosia.label>
+	<Administer_Ambrosia.jobString>Đang áp dụng Ambrosia.</Administer_Ambrosia.jobString>
+	<Administer_Beer.label>Áp dụng bia</Administer_Beer.label>
+	<Administer_Beer.jobString>Đang áp dụng bia.</Administer_Beer.jobString>
+	<Administer_Flake.label>Áp dụng mảnh vụn</Administer_Flake.label>
+	<Administer_Flake.jobString>Đang áp dụng mảnh vụn.</Administer_Flake.jobString>
+	<Administer_GoJuice.label>Áp dụng nước tăng lực</Administer_GoJuice.label>
+	<Administer_GoJuice.jobString>Đang áp dụng nước tăng lực.</Administer_GoJuice.jobString>
+	<Administer_Luciferium.label>Áp dụng Luciferium</Administer_Luciferium.label>
+	<Administer_Luciferium.jobString>Đang áp dụng Luciferium.</Administer_Luciferium.jobString>
+	<Administer_Penoxycyline.label>Áp dụng Penoxycyline</Administer_Penoxycyline.label>
+	<Administer_Penoxycyline.jobString>Đang áp dụng Penoxycyline.</Administer_Penoxycyline.jobString>
+	<Administer_SmokeleafJoint.label>Áp dụng thuốc lá</Administer_SmokeleafJoint.label>
+	<Administer_SmokeleafJoint.jobString>Đang áp dụng thuốc lá.</Administer_SmokeleafJoint.jobString>
+	<Administer_WakeUp.label>Áp dụng viên thuốc tỉnh táo</Administer_WakeUp.label>
+	<Administer_WakeUp.jobString>Đang áp dụng viên thuốc tỉnh táo.</Administer_WakeUp.jobString>
+	<Administer_Yayo.label>Áp dụng Yayo</Administer_Yayo.label>
+	<Administer_Yayo.jobString>Đang áp dụng Yayo.</Administer_Yayo.jobString>
+	<Make_Apparel_AdvancedHelmet.label>Chế tạo mũ bảo hiểm chống đạn</Make_Apparel_AdvancedHelmet.label>
+	<Make_Apparel_AdvancedHelmet.description>Chế tạo mũ bảo hiểm chống đạn.</Make_Apparel_AdvancedHelmet.description>
+	<Make_Apparel_AdvancedHelmet.jobString>Đang chế tạo mũ bảo hiểm chống đạn.</Make_Apparel_AdvancedHelmet.jobString>
+	<Make_Apparel_BasicShirt.label>May áo phông</Make_Apparel_BasicShirt.label>
+	<Make_Apparel_BasicShirt.description>May áo phông.</Make_Apparel_BasicShirt.description>
+	<Make_Apparel_BasicShirt.jobString>Đang may áo phông.</Make_Apparel_BasicShirt.jobString>
+	<Make_Apparel_BowlerHat.label>May mũ tròn</Make_Apparel_BowlerHat.label>
+	<Make_Apparel_BowlerHat.description>May mũ tròn.</Make_Apparel_BowlerHat.description>
+	<Make_Apparel_BowlerHat.jobString>Đang may mũ tròn.</Make_Apparel_BowlerHat.jobString>
+	<Make_Apparel_CollarShirt.label>May áo có cổ</Make_Apparel_CollarShirt.label>
+	<Make_Apparel_CollarShirt.description>May áo có cổ.</Make_Apparel_CollarShirt.description>
+	<Make_Apparel_CollarShirt.jobString>Đang may áo có cổ.</Make_Apparel_CollarShirt.jobString>
+	<Make_Apparel_CowboyHat.label>May mũ cao bồi</Make_Apparel_CowboyHat.label>
+	<Make_Apparel_CowboyHat.description>May mũ cao bồi.</Make_Apparel_CowboyHat.description>
+	<Make_Apparel_CowboyHat.jobString>Đang may mũ cao bồi.</Make_Apparel_CowboyHat.jobString>
+	<Make_Apparel_Duster.label>May áo khoác chống bụi</Make_Apparel_Duster.label>
+	<Make_Apparel_Duster.description>May áo khoác chống bụi.</Make_Apparel_Duster.description>
+	<Make_Apparel_Duster.jobString>Đang may áo khoác chống bụi.</Make_Apparel_Duster.jobString>
+	<Make_Apparel_FlakPants.label>Chế tạo quần chống đạn</Make_Apparel_FlakPants.label>
+	<Make_Apparel_FlakPants.description>Chế tạo quần chống đạn.</Make_Apparel_FlakPants.description>
+	<Make_Apparel_FlakPants.jobString>Đang chế tạo quần chống đạn.</Make_Apparel_FlakPants.jobString>
+	<Make_Apparel_FlakVest.label>Chế tạo áo giáp chống đạn</Make_Apparel_FlakVest.label>
+	<Make_Apparel_FlakVest.description>Chế tạo áo giáp chống đạn.</Make_Apparel_FlakVest.description>
+	<Make_Apparel_FlakVest.jobString>Đang chế tạo áo giáp chống đạn.</Make_Apparel_FlakVest.jobString>
+	<Make_Apparel_Jacket.label>May áo khoác</Make_Apparel_Jacket.label>
+	<Make_Apparel_Jacket.description>May áo khoác.</Make_Apparel_Jacket.description>
+	<Make_Apparel_Jacket.jobString>Đang may áo khoác.</Make_Apparel_Jacket.jobString>
+	<Make_Apparel_Pants.label>May quần</Make_Apparel_Pants.label>
+	<Make_Apparel_Pants.description>May quần.</Make_Apparel_Pants.description>
+	<Make_Apparel_Pants.jobString>Đang may quần.</Make_Apparel_Pants.jobString>
+	<Make_Apparel_Parka.label>May áo mưa</Make_Apparel_Parka.label>
+	<Make_Apparel_Parka.description>May áo mưa.</Make_Apparel_Parka.description>
+	<Make_Apparel_Parka.jobString>Đang may áo mưa.</Make_Apparel_Parka.jobString>
+	<Make_Apparel_PlateArmor.label>Chế tạo giáp plate</Make_Apparel_PlateArmor.label>
+	<Make_Apparel_PlateArmor.description>Chế tạo giáp plate.</Make_Apparel_PlateArmor.description>
+	<Make_Apparel_PlateArmor.jobString>Đang chế tạo giáp plate.</Make_Apparel_PlateArmor.jobString>
+	<Make_Apparel_PowerArmor.label>Chế tạo giáp năng lượng</Make_Apparel_PowerArmor.label>
+	<Make_Apparel_PowerArmor.description>Chế tạo giáp năng lượng.</Make_Apparel_PowerArmor.description>
+	<Make_Apparel_PowerArmor.jobString>Đang chế tạo giáp năng lượng.</Make_Apparel_PowerArmor.jobString>
+	<Make_Apparel_PowerArmorHelmet.label>Chế tạo mũ giáp năng lượng</Make_Apparel_PowerArmorHelmet.label>
+	<Make_Apparel_PowerArmorHelmet.description>Chế tạo mũ giáp năng lượng.</Make_Apparel_PowerArmorHelmet.description>
+	<Make_Apparel_PowerArmorHelmet.jobString>Đang chế tạo mũ giáp năng lượng.</Make_Apparel_PowerArmorHelmet.jobString>
+	<Make_Apparel_ShieldBelt.label>Chế tạo thắt lưng bảo vệ</Make_Apparel_ShieldBelt.label>
+	<Make_Apparel_ShieldBelt.description>Chế tạo thắt lưng bảo vệ.</Make_Apparel_ShieldBelt.description>
+	<Make_Apparel_ShieldBelt.jobString>Đang chế tạo thắt lưng bảo vệ.</Make_Apparel_ShieldBelt.jobString>
+	<Make_Apparel_SimpleHelmet.label>Chế tạo mũ bảo hiểm đơn giản</Make_Apparel_SimpleHelmet.label>
+	<Make_Apparel_SimpleHelmet.description>Chế tạo mũ bảo hiểm đơn giản.</Make_Apparel_SimpleHelmet.description>
+	<Make_Apparel_SimpleHelmet.jobString>Đang chế tạo mũ bảo hiểm đơn giản.</Make_Apparel_SimpleHelmet.jobString>
+	<Make_Apparel_SmokepopBelt.label>Chế tạo thắt lưng khói</Make_Apparel_SmokepopBelt.label>
+	<Make_Apparel_SmokepopBelt.description>Chế tạo thắt lưng khói.</Make_Apparel_SmokepopBelt.description>
+	<Make_Apparel_SmokepopBelt.jobString>Đang chế tạo thắt lưng khói.</Make_Apparel_SmokepopBelt.jobString>
+	<Make_Apparel_TribalA.label>May trang phục bộ lạc</Make_Apparel_TribalA.label>
+	<Make_Apparel_TribalA.description>May trang phục bộ lạc.</Make_Apparel_TribalA.description>
+	<Make_Apparel_TribalA.jobString>Đang may trang phục bộ lạc.</Make_Apparel_TribalA.jobString>
+	<Make_Apparel_TribalHeaddress.label>May mũ đội đầu bộ lạc</Make_Apparel_TribalHeaddress.label>
+	<Make_Apparel_TribalHeaddress.description>May mũ đội đầu bộ lạc.</Make_Apparel_TribalHeaddress.description>
+	<Make_Apparel_TribalHeaddress.jobString>Đang may mũ đội đầu bộ lạc.</Make_Apparel_TribalHeaddress.jobString>
+	<Make_Apparel_Tuque.label>May mũ giữ ấm</Make_Apparel_Tuque.label>
+	<Make_Apparel_Tuque.description>May mũ giữ ấm.</Make_Apparel_Tuque.description>
+	<Make_Apparel_Tuque.jobString>Đang may mũ giữ ấm.</Make_Apparel_Tuque.jobString>
+	<Make_Apparel_WarMask.label>Chế tạo mặt nạ chiến tranh</Make_Apparel_WarMask.label>
+	<Make_Apparel_WarMask.description>Chế tạo mặt nạ chiến tranh.</Make_Apparel_WarMask.description>
+	<Make_Apparel_WarMask.jobString>Đang chế tạo mặt nạ chiến tranh.</Make_Apparel_WarMask.jobString>
+	<Make_Apparel_WarVeil.label>May khăn che mặt</Make_Apparel_WarVeil.label>
+	<Make_Apparel_WarVeil.description>May khăn che mặt.</Make_Apparel_WarVeil.description>
+	<Make_Apparel_WarVeil.jobString>Đang may khăn che mặt.</Make_Apparel_WarVeil.jobString>
+	<Make_BionicArm.label>Chế tạo cánh tay sinh học</Make_BionicArm.label>
+	<Make_BionicArm.description>Chế tạo cánh tay sinh học.</Make_BionicArm.description>
+	<Make_BionicArm.jobString>Đang chế tạo cánh tay sinh học.</Make_BionicArm.jobString>
+	<Make_BionicEar.label>Chế tạo tai sinh học</Make_BionicEar.label>
+	<Make_BionicEar.description>Chế tạo tai sinh học.</Make_BionicEar.description>
+	<Make_BionicEar.jobString>Đang chế tạo tai sinh học.</Make_BionicEar.jobString>
+	<Make_BionicEye.label>Chế tạo mắt sinh học</Make_BionicEye.label>
+	<Make_BionicEye.description>Chế tạo mắt sinh học.</Make_BionicEye.description>
+	<Make_BionicEye.jobString>Đang chế tạo mắt sinh học.</Make_BionicEye.jobString>
+	<Make_BionicHeart.label>Chế tạo tim sinh học</Make_BionicHeart.label>
+	<Make_BionicHeart.description>Chế tạo tim sinh học.</Make_BionicHeart.description>
+	<Make_BionicHeart.jobString>Đang chế tạo tim sinh học.</Make_BionicHeart.jobString>
+	<Make_BionicLeg.label>Chế tạo chân sinh học</Make_BionicLeg.label>
+	<Make_BionicLeg.description>Chế tạo chân sinh học.</Make_BionicLeg.description>
+	<Make_BionicLeg.jobString>Đang chế tạo chân sinh học.</Make_BionicLeg.jobString>
+	<Make_BionicSpine.label>Chế tạo cột sống sinh học</Make_BionicSpine.label>
+	<Make_BionicSpine.description>Chế tạo cột sống sinh học.</Make_BionicSpine.description>
+	<Make_BionicSpine.jobString>Đang chế tạo cột sống sinh học.</Make_BionicSpine.jobString>
+	<Make_BionicStomach.label>Chế tạo dạ dày sinh học</Make_BionicStomach.label>
+	<Make_BionicStomach.description>Chế tạo dạ dày sinh học.</Make_BionicStomach.description>
+	<Make_BionicStomach.jobString>Đang chế tạo dạ dày sinh học.</Make_BionicStomach.jobString>
+	<Make_Bow_Great.label>Chế tạo cung lớn</Make_Bow_Great.label>
+	<Make_Bow_Great.description>Chế tạo cung lớn.</Make_Bow_Great.description>
+	<Make_Bow_Great.jobString>Đang chế tạo cung lớn.</Make_Bow_Great.jobString>
+	<Make_Bow_Recurve.label>Chế tạo cung cong</Make_Bow_Recurve.label>
+	<Make_Bow_Recurve.description>Chế tạo cung cong.</Make_Bow_Recurve.description>
+	<Make_Bow_Recurve.jobString>Đang chế tạo cung cong.</Make_Bow_Recurve.jobString>
+	<Make_Bow_Short.label>Chế tạo cung ngắn</Make_Bow_Short.label>
+	<Make_Bow_Short.description>Chế tạo cung ngắn.</Make_Bow_Short.description>
+	<Make_Bow_Short.jobString>Đang chế tạo cung ngắn.</Make_Bow_Short.jobString>
+	<Make_CochlearImplant.label>Chế tạo ốc tai nhân tạo</Make_CochlearImplant.label>
+	<Make_CochlearImplant.description>Chế tạo ốc tai nhân tạo.</Make_CochlearImplant.description>
+	<Make_CochlearImplant.jobString>Đang chế tạo ốc tai nhân tạo.</Make_CochlearImplant.jobString>
+	<Make_Flake.label>Chế tạo mảnh vụn</Make_Flake.label>
+	<Make_Flake.description>Chế tạo mảnh vụn.</Make_Flake.description>
+	<Make_Flake.jobString>Đang chế tạo mảnh vụn.</Make_Flake.jobString>
+	<Make_GoJuice.label>Chế tạo nước tăng lực</Make_GoJuice.label>
+	<Make_GoJuice.description>Chế tạo nước tăng lực.</Make_GoJuice.description>
+	<Make_GoJuice.jobString>Đang chế tạo nước tăng lực.</Make_GoJuice.jobString>
+	<Make_Gun_AssaultRifle.label>Chế tạo súng trường tấn công</Make_Gun_AssaultRifle.label>
+	<Make_Gun_AssaultRifle.description>Chế tạo súng trường tấn công.</Make_Gun_AssaultRifle.description>
+	<Make_Gun_AssaultRifle.jobString>Đang chế tạo.</Make_Gun_AssaultRifle.jobString>
+	<Make_Gun_Autopistol.label>Chế tạo súng ngắn tự động</Make_Gun_Autopistol.label>
+	<Make_Gun_Autopistol.description>Chế tạo súng ngắn tự động.</Make_Gun_Autopistol.description>
+	<Make_Gun_Autopistol.jobString>Đang chế tạo.</Make_Gun_Autopistol.jobString>
+	<Make_Gun_BoltActionRifle.label>Chế tạo súng trường khóa</Make_Gun_BoltActionRifle.label>
+	<Make_Gun_BoltActionRifle.description>Chế tạo súng trường khóa.</Make_Gun_BoltActionRifle.description>
+	<Make_Gun_BoltActionRifle.jobString>Đang chế tạo.</Make_Gun_BoltActionRifle.jobString>
+	<Make_Gun_ChainShotgun.label>Chế tạo shotgun liên hoàn</Make_Gun_ChainShotgun.label>
+	<Make_Gun_ChainShotgun.description>Chế tạo shotgun liên hoàn.</Make_Gun_ChainShotgun.description>
+	<Make_Gun_ChainShotgun.jobString>Đang chế tạo.</Make_Gun_ChainShotgun.jobString>
+	<Make_Gun_ChargeLance.label>Chế tạo giáo điện</Make_Gun_ChargeLance.label>
+	<Make_Gun_ChargeLance.description>Chế tạo giáo điện.</Make_Gun_ChargeLance.description>
+	<Make_Gun_ChargeLance.jobString>Đang chế tạo giáo điện.</Make_Gun_ChargeLance.jobString>
+	<Make_Gun_ChargeRifle.label>Chế tạo súng trường điện</Make_Gun_ChargeRifle.label>
+	<Make_Gun_ChargeRifle.description>Chế tạo súng trường điện.</Make_Gun_ChargeRifle.description>
+	<Make_Gun_ChargeRifle.jobString>Đang chế tạo súng trường điện.</Make_Gun_ChargeRifle.jobString>
+	<Make_Gun_HeavySMG.label>Chế tạo súng máy hạng nặng</Make_Gun_HeavySMG.label>
+	<Make_Gun_HeavySMG.description>Chế tạo súng máy hạng nặng.</Make_Gun_HeavySMG.description>
+	<Make_Gun_HeavySMG.jobString>Đang chế tạo.</Make_Gun_HeavySMG.jobString>
+	<Make_Gun_IncendiaryLauncher.label>Chế tạo máy phóng bom cháy</Make_Gun_IncendiaryLauncher.label>
+	<Make_Gun_IncendiaryLauncher.description>Chế tạo máy phóng bom cháy.</Make_Gun_IncendiaryLauncher.description>
+	<Make_Gun_IncendiaryLauncher.jobString>Đang chế tạo.</Make_Gun_IncendiaryLauncher.jobString>
+	<Make_Gun_LMG.label>Chế tạo súng máy nhẹ</Make_Gun_LMG.label>
+	<Make_Gun_LMG.description>Chế tạo súng máy nhẹ.</Make_Gun_LMG.description>
+	<Make_Gun_LMG.jobString>Đang chế tạo.</Make_Gun_LMG.jobString>
+	<Make_Gun_MachinePistol.label>Chế tạo súng ngắn máy</Make_Gun_MachinePistol.label>
+	<Make_Gun_MachinePistol.description>Chế tạo súng ngắn máy.</Make_Gun_MachinePistol.description>
+	<Make_Gun_MachinePistol.jobString>Đang chế tạo.</Make_Gun_MachinePistol.jobString>
+	<Make_Gun_Minigun.label>Chế tạo súng máy mini</Make_Gun_Minigun.label>
+	<Make_Gun_Minigun.description>Chế tạo súng máy mini.</Make_Gun_Minigun.description>
+	<Make_Gun_Minigun.jobString>Đang chế tạo.</Make_Gun_Minigun.jobString>
+	<Make_Gun_PumpShotgun.label>Chế tạo shotgun bơm</Make_Gun_PumpShotgun.label>
+	<Make_Gun_PumpShotgun.description>Chế tạo shotgun bơm.</Make_Gun_PumpShotgun.description>
+	<Make_Gun_PumpShotgun.jobString>Đang chế tạo.</Make_Gun_PumpShotgun.jobString>
+	<Make_Gun_Revolver.label>Chế tạo súng lục</Make_Gun_Revolver.label>
+	<Make_Gun_Revolver.description>Chế tạo súng lục.</Make_Gun_Revolver.description>
+	<Make_Gun_Revolver.jobString>Đang chế tạo.</Make_Gun_Revolver.jobString>
+	<Make_Gun_SniperRifle.label>Chế tạo súng bắn tỉa</Make_Gun_SniperRifle.label>
+	<Make_Gun_SniperRifle.description>Chế tạo súng bắn tỉa.</Make_Gun_SniperRifle.description>
+	<Make_Gun_SniperRifle.jobString>Đang chế tạo.</Make_Gun_SniperRifle.jobString>
+	<Make_MedicineIndustrial.label>Chế tạo thuốc công nghiệp</Make_MedicineIndustrial.label>
+	<Make_MedicineIndustrial.description>Chế tạo thuốc công nghiệp.</Make_MedicineIndustrial.description>
+	<Make_MedicineIndustrial.jobString>Đang chế tạo thuốc công nghiệp.</Make_MedicineIndustrial.jobString>
+	<Make_MeleeWeapon_Club.label>Chế tạo gậy</Make_MeleeWeapon_Club.label>
+	<Make_MeleeWeapon_Club.description>Chế tạo gậy.</Make_MeleeWeapon_Club.description>
+	<Make_MeleeWeapon_Club.jobString>Đang chế tạo.</Make_MeleeWeapon_Club.jobString>
+	<Make_MeleeWeapon_Gladius.label>Chế tạo kiếm ngắn</Make_MeleeWeapon_Gladius.label>
+	<Make_MeleeWeapon_Gladius.description>Chế tạo kiếm ngắn.</Make_MeleeWeapon_Gladius.description>
+	<Make_MeleeWeapon_Gladius.jobString>Đang chế tạo.</Make_MeleeWeapon_Gladius.jobString>
+	<Make_MeleeWeapon_Ikwa.label>Chế tạo giáo ngắn</Make_MeleeWeapon_Ikwa.label>
+	<Make_MeleeWeapon_Ikwa.description>Chế tạo giáo ngắn.</Make_MeleeWeapon_Ikwa.description>
+	<Make_MeleeWeapon_Ikwa.jobString>Đang chế tạo.</Make_MeleeWeapon_Ikwa.jobString>
+	<Make_MeleeWeapon_Knife.label>Chế tạo dao găm</Make_MeleeWeapon_Knife.label>
+	<Make_MeleeWeapon_Knife.description>Chế tạo dao găm.</Make_MeleeWeapon_Knife.description>
+	<Make_MeleeWeapon_Knife.jobString>Đang chế tạo.</Make_MeleeWeapon_Knife.jobString>
+	<Make_MeleeWeapon_LongSword.label>Chế tạo kiếm dài</Make_MeleeWeapon_LongSword.label>
+	<Make_MeleeWeapon_LongSword.description>Chế tạo kiếm dài.</Make_MeleeWeapon_LongSword.description>
+	<Make_MeleeWeapon_LongSword.jobString>Đang chế tạo.</Make_MeleeWeapon_LongSword.jobString>
+	<Make_MeleeWeapon_Mace.label>Chế tạo búa</Make_MeleeWeapon_Mace.label>
+	<Make_MeleeWeapon_Mace.description>Chế tạo búa.</Make_MeleeWeapon_Mace.description>
+	<Make_MeleeWeapon_Mace.jobString>Đang chế tạo.</Make_MeleeWeapon_Mace.jobString>
+	<Make_MeleeWeapon_Spear.label>Chế tạo giáo dài</Make_MeleeWeapon_Spear.label>
+	<Make_MeleeWeapon_Spear.description>Chế tạo giáo dài.</Make_MeleeWeapon_Spear.description>
+	<Make_MeleeWeapon_Spear.jobString>Đang chế tạo.</Make_MeleeWeapon_Spear.jobString>
+	<Make_Penoxycyline.label>Chế tạo Penoxycyline</Make_Penoxycyline.label>
+	<Make_Penoxycyline.description>Chế tạo Penoxycyline.</Make_Penoxycyline.description>
+	<Make_Penoxycyline.jobString>Đang chế tạo Penoxycyline.</Make_Penoxycyline.jobString>
+	<Make_Pila.label>Chế tạo giáo nặng</Make_Pila.label>
+	<Make_Pila.description>Chế tạo giáo nặng.</Make_Pila.description>
+	<Make_Pila.jobString>Đang chế tạo.</Make_Pila.jobString>
+	<Make_SculptureGrand.label>Chế tạo điêu khắc lớn</Make_SculptureGrand.label>
+	<Make_SculptureGrand.description>Chế tạo điêu khắc lớn.</Make_SculptureGrand.description>
+	<Make_SculptureGrand.jobString>Đang điêu khắc.</Make_SculptureGrand.jobString>
+	<Make_SculptureLarge.label>Chế tạo điêu khắc lớn</Make_SculptureLarge.label>
+	<Make_SculptureLarge.description>Chế tạo điêu khắc lớn.</Make_SculptureLarge.description>
+	<Make_SculptureLarge.jobString>Đang điêu khắc.</Make_SculptureLarge.jobString>
+	<Make_SculptureSmall.label>Chế tạo điêu khắc nhỏ</Make_SculptureSmall.label>
+	<Make_SculptureSmall.description>Chế tạo điêu khắc nhỏ.</Make_SculptureSmall.description>
+	<Make_SculptureSmall.jobString>Đang điêu khắc.</Make_SculptureSmall.jobString>
+	<Make_Shell_EMP.label>Chế tạo đạn EMP</Make_Shell_EMP.label>
+	<Make_Shell_EMP.description>Chế tạo đạn EMP.</Make_Shell_EMP.description>
+	<Make_Shell_EMP.jobString>Đang chế tạo đạn EMP.</Make_Shell_EMP.jobString>
+	<Make_Shell_Firefoam.label>Chế tạo đạn dập lửa</Make_Shell_Firefoam.label>
+	<Make_Shell_Firefoam.description>Chế tạo đạn dập lửa.</Make_Shell_Firefoam.description>
+	<Make_Shell_Firefoam.jobString>Đang chế tạo đạn dập lửa.</Make_Shell_Firefoam.jobString>
+	<Make_Shell_HighExplosive.label>Chế tạo đạn nổ mạnh</Make_Shell_HighExplosive.label>
+	<Make_Shell_HighExplosive.description>Chế tạo đạn nổ mạnh.</Make_Shell_HighExplosive.description>
+	<Make_Shell_HighExplosive.jobString>Đang chế tạo đạn nổ mạnh.</Make_Shell_HighExplosive.jobString>
+	<Make_Shell_Incendiary.label>Chế tạo đạn cháy</Make_Shell_Incendiary.label>
+	<Make_Shell_Incendiary.description>Chế tạo đạn cháy.</Make_Shell_Incendiary.description>
+	<Make_Shell_Incendiary.jobString>Đang chế tạo đạn cháy.</Make_Shell_Incendiary.jobString>
+	<Make_SimpleProstheticArm.label>Chế tạo cánh tay giả đơn giản</Make_SimpleProstheticArm.label>
+	<Make_SimpleProstheticArm.description>Chế tạo cánh tay giả đơn giản.</Make_SimpleProstheticArm.description>
+	<Make_SimpleProstheticArm.jobString>Đang chế tạo cánh tay giả đơn giản.</Make_SimpleProstheticArm.jobString>
+	<Make_SimpleProstheticHeart.label>Chế tạo tim nhân tạo đơn giản</Make_SimpleProstheticHeart.label>
+	<Make_SimpleProstheticHeart.description>Chế tạo tim nhân tạo đơn giản.</Make_SimpleProstheticHeart.description>
+	<Make_SimpleProstheticHeart.jobString>Đang chế tạo tim nhân tạo đơn giản.</Make_SimpleProstheticHeart.jobString>
+	<Make_SimpleProstheticLeg.label>Chế tạo chân giả đơn giản</Make_SimpleProstheticLeg.label>
+	<Make_SimpleProstheticLeg.description>Chế tạo chân giả đơn giản.</Make_SimpleProstheticLeg.description>
+	<Make_SimpleProstheticLeg.jobString>Đang chế tạo chân giả đơn giản.</Make_SimpleProstheticLeg.jobString>
+	<Make_SmokeleafJoint.label>Chế tạo thuốc lá</Make_SmokeleafJoint.label>
+	<Make_SmokeleafJoint.description>Chế tạo thuốc lá.</Make_SmokeleafJoint.description>
+	<Make_SmokeleafJoint.jobString>Đang chế tạo thuốc lá.</Make_SmokeleafJoint.jobString>
+	<Make_WakeUp.label>Chế tạo viên thuốc tỉnh táo</Make_WakeUp.label>
+	<Make_WakeUp.description>Chế tạo viên thuốc tỉnh táo.</Make_WakeUp.description>
+	<Make_WakeUp.jobString>Đang chế tạo viên thuốc tỉnh táo.</Make_WakeUp.jobString>
+	<Make_Weapon_GrenadeEMP.label>Chế tạo lựu đạn EMP</Make_Weapon_GrenadeEMP.label>
+	<Make_Weapon_GrenadeEMP.description>Chế tạo lựu đạn EMP.</Make_Weapon_GrenadeEMP.description>
+	<Make_Weapon_GrenadeEMP.jobString>Đang chế tạo lựu đạn EMP.</Make_Weapon_GrenadeEMP.jobString>
+	<Make_Weapon_GrenadeFrag.label>Chế tạo lựu đạn mảnh</Make_Weapon_GrenadeFrag.label>
+	<Make_Weapon_GrenadeFrag.description>Chế tạo lựu đạn mảnh.</Make_Weapon_GrenadeFrag.description>
+	<Make_Weapon_GrenadeFrag.jobString>Đang chế tạo lựu đạn mảnh.</Make_Weapon_GrenadeFrag.jobString>
+	<Make_Weapon_GrenadeMolotov.label>Chế tạo chai xăng</Make_Weapon_GrenadeMolotov.label>
+	<Make_Weapon_GrenadeMolotov.description>Chế tạo chai xăng.</Make_Weapon_GrenadeMolotov.description>
+	<Make_Weapon_GrenadeMolotov.jobString>Đang chế tạo chai xăng.</Make_Weapon_GrenadeMolotov.jobString>
+	<Make_Yayo.label>Chế tạo Yayo</Make_Yayo.label>
+	<Make_Yayo.description>Chế tạo Yayo.</Make_Yayo.description>
+	<Make_Yayo.jobString>Đang chế tạo Yayo.</Make_Yayo.jobString>
+</LanguageData>

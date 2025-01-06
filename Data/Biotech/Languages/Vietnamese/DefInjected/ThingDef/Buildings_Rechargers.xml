@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BasicRecharger.label>Trạm sạc cơ giới cơ bản</BasicRecharger.label>
+<BasicRecharger.description>Một thiết bị dùng để sạc cho các cơ giới nhẹ. Trong quá trình sạc, nó sẽ liên tục sản xuất rác thải độc hại. Cần cử người vận chuyển để dọn dẹp định kỳ.</BasicRecharger.description>
+<StandardRecharger.label>Trạm sạc cơ giới tiêu chuẩn</StandardRecharger.label>
+<StandardRecharger.description>Một thiết bị dùng để sạc cho các cơ giới cỡ trung, nặng và siêu nặng. Trong quá trình sạc, nó sẽ liên tục sản xuất rác thải độc hại. Cần cử người vận chuyển để dọn dẹp định kỳ.</StandardRecharger.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Alpaca.label>Lạc đà Alpaca</Alpaca.label>
+<Alpaca.description>Loài động vật có móng trung bình gần gũi với alpaca lớn, thường được nuôi để lấy lông rất mềm mại.</Alpaca.description>
+<Alpaca.tools.left_hoof.label>Móng trái</Alpaca.tools.left_hoof.label>
+<Alpaca.tools.left_hoof.labelNoLocation>Móng</Alpaca.tools.left_hoof.labelNoLocation>
+<Alpaca.tools.right_hoof.label>Móng phải</Alpaca.tools.right_hoof.label>
+<Alpaca.tools.right_hoof.labelNoLocation>Móng</Alpaca.tools.right_hoof.labelNoLocation>
+<Alpaca.tools.head.label>Đầu</Alpaca.tools.head.label>
+<Capybara.label>Chuột lang nước</Capybara.label>
+<Capybara.description>Loài gặm nhấm lớn nhất tự nhiên, nó thích nghi sống trong những khu rừng nóng ẩm.</Capybara.description>
+<Capybara.tools.left_claw.label>Móng trái</Capybara.tools.left_claw.label>
+<Capybara.tools.left_claw.labelNoLocation>Móng</Capybara.tools.left_claw.labelNoLocation>
+<Capybara.tools.right_claw.label>Móng phải</Capybara.tools.right_claw.label>
+<Capybara.tools.right_claw.labelNoLocation>Móng</Capybara.tools.right_claw.labelNoLocation>
+<Capybara.tools.head.label>Đầu</Capybara.tools.head.label>
+<Megasloth.label>Con Lười khổng lồ</Megasloth.label>
+<Megasloth.description>Loài động vật ăn cỏ lớn sống đơn độc. Nó đã được phục sinh bằng công nghệ nhân bản và thụ tinh nhân tạo sau khi bị tuyệt chủng từ lâu.</Megasloth.description>
+<Megasloth.tools.left_claw.label>Móng trái</Megasloth.tools.left_claw.label>
+<Megasloth.tools.left_claw.labelNoLocation>Móng</Megasloth.tools.left_claw.labelNoLocation>
+<Megasloth.tools.right_claw.label>Móng phải</Megasloth.tools.right_claw.label>
+<Megasloth.tools.right_claw.labelNoLocation>Móng</Megasloth.tools.right_claw.labelNoLocation>
+<Megasloth.tools.head.label>Đầu</Megasloth.tools.head.label>
+<Sheep.label>Cừu</Sheep.label>
+<Sheep.description>Cừu nhà là động vật ăn cỏ cỡ nhỏ, thường có lông màu vàng nhạt và sừng vừa phải.</Sheep.description>
+<Sheep.tools.head.label>Đầu</Sheep.tools.head.label>
+<Sheep.tools.left_hoof.label>Móng trái</Sheep.tools.left_hoof.label>
+<Sheep.tools.left_hoof.labelNoLocation>Móng</Sheep.tools.left_hoof.labelNoLocation>
+<Sheep.tools.right_hoof.label>Móng phải</Sheep.tools.right_hoof.label>
+<Sheep.tools.right_hoof.labelNoLocation>Móng</Sheep.tools.right_hoof.labelNoLocation>
+</LanguageData>

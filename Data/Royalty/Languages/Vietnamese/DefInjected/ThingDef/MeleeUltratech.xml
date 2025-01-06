@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeleeWeapon_MonoSword.label>Kiếm Đơn Phân Tử</MeleeWeapon_MonoSword.label>
+<MeleeWeapon_MonoSword.description>Một thanh kiếm dài làm từ tinh thể đơn phân tử, lưỡi đơn phân tử của nó được duy trì nhờ vào máy nano đi kèm. Có thể dễ dàng xuyên thủng bất kỳ giáp nặng nào, đồng thời nhẹ và linh hoạt, tốc độ tấn công rất nhanh.</MeleeWeapon_MonoSword.description>
+<MeleeWeapon_MonoSword.tools.handle.label>Cán Kiếm</MeleeWeapon_MonoSword.tools.handle.label>
+<MeleeWeapon_MonoSword.tools.point.label>Đầu Kiếm</MeleeWeapon_MonoSword.tools.point.label>
+<MeleeWeapon_MonoSword.tools.edge.label>Lưỡi Kiếm</MeleeWeapon_MonoSword.tools.edge.label>
+<MeleeWeapon_PlasmaSword.label>Kiếm Plasma</MeleeWeapon_PlasmaSword.label>
+<MeleeWeapon_PlasmaSword.description>Đây là một thanh kiếm kim loại sắc bén, lưỡi kiếm được bọc bởi plasma bị ràng buộc bởi trường năng lượng. Khi tấn công mục tiêu, đối phương không chỉ chịu tổn thương từ lưỡi kiếm mà còn bị plasma thiêu đốt hoặc đốt cháy.</MeleeWeapon_PlasmaSword.description>
+<MeleeWeapon_PlasmaSword.tools.handle.label>Cán Kiếm</MeleeWeapon_PlasmaSword.tools.handle.label>
+<MeleeWeapon_PlasmaSword.tools.point.label>Đầu Kiếm</MeleeWeapon_PlasmaSword.tools.point.label>
+<MeleeWeapon_PlasmaSword.tools.edge.label>Lưỡi Kiếm</MeleeWeapon_PlasmaSword.tools.edge.label>
+<MeleeWeapon_Zeushammer.label>Búa Zeus</MeleeWeapon_Zeushammer.label>
+<MeleeWeapon_Zeushammer.description>Một chiếc búa chiến có thiết bị EMP tích hợp, khi bị đánh trúng, không chỉ chịu tổn thương vật lý mà còn kèm theo cú sốc EMP.</MeleeWeapon_Zeushammer.description>
+<MeleeWeapon_Zeushammer.tools.handle.label>Cán Búa</MeleeWeapon_Zeushammer.tools.handle.label>
+<MeleeWeapon_Zeushammer.tools.head.label>Đầu Búa</MeleeWeapon_Zeushammer.tools.head.label>
+</LanguageData>

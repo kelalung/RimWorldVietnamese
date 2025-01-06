@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AdministeredDrug.label>Đã sử dụng chất gây nghiện</AdministeredDrug.label>
+	<AdministeredHardDrug.label>Đã sử dụng chất gây nghiện mạnh</AdministeredHardDrug.label>
+	<AdministeredRecreationalDrug.label>Đã sử dụng chất gây nghiện giải trí</AdministeredRecreationalDrug.label>
+	<AteHumanMeat.label>Đã ăn thịt người</AteHumanMeat.label>
+	<BuildSpecificDef.label>Xây dựng công trình</BuildSpecificDef.label>
+	<CharityRefused_ThreatReward_Joiner.label>Đã từ chối yêu cầu gia nhập</CharityRefused_ThreatReward_Joiner.label>
+	<CutTree.label>Đã chặt cây</CutTree.label>
+	<DestroyedMineable.label>Đã phá hủy mỏ</DestroyedMineable.label>
+	<IngestedDrug.label>Đã sử dụng chất gây nghiện</IngestedDrug.label>
+	<IngestedHardDrug.label>Đã sử dụng chất gây nghiện mạnh</IngestedHardDrug.label>
+	<IngestedRecreationalDrug.label>Đã sử dụng chất gây nghiện giải trí</IngestedRecreationalDrug.label>
+	<InstalledProsthetic.label>Đã lắp đặt bộ phận giả</InstalledProsthetic.label>
+	<Mined.label>Đã khai thác</Mined.label>
+	<MinifiedTreeDied.label>Cây đã chết</MinifiedTreeDied.label>
+	<Researching.label>Đang nghiên cứu</Researching.label>
+	<SowedHumanFoodPlant.label>Đã trồng cây thực phẩm</SowedHumanFoodPlant.label>
+	<SowedPlant.label>Đã trồng cây</SowedPlant.label>
+</LanguageData>

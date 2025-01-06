@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EMP.label>Xung điện từ</EMP.label>
+	<EMP.deathMessage>{0} đã chết do xung điện từ.</EMP.deathMessage>
+	<Stun.label>Ngất xỉu</Stun.label>
+	<Stun.deathMessage>{0} đã chết do ngất xỉu.</Stun.deathMessage>
+</LanguageData>

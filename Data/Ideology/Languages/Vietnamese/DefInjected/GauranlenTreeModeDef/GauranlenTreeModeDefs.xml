@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Barkskin.label>Cây tinh thể khiên</Barkskin.label>
+<Barkskin.description>Một loài cây tinh thể chuyên chịu đựng sát thương trong chiến đấu. Cây tinh thể khiên được bao bọc bởi lớp vỏ cây dày, một phần được hình thành từ cây mẹ. Dưới sự kiểm soát của con người, nó có thể đóng vai trò là đơn vị chiến đấu hấp thụ sát thương.</Barkskin.description>
+<Berrymaker.label>Cây tinh thể trái ngọt</Berrymaker.label>
+<Berrymaker.description>Một loài cây tinh thể chuyên sản xuất thực phẩm. Cùng với cây mẹ của nó, cây tinh thể có thể liên tục sản xuất ra những quả mọng bổ dưỡng. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô dụng.</Berrymaker.description>
+<Carrier.label>Cây tinh thể vận chuyển</Carrier.label>
+<Carrier.description>Một loài cây tinh thể chuyên trách việc vận chuyển đồ vật. Dưới sự kiểm soát của con người, nó có thể giúp kéo đồ đến nơi cần thiết.</Carrier.description>
+<Clawer.label>Cây tinh thể móng vuốt</Clawer.label>
+<Clawer.description>Một loài cây tinh thể có móng vuốt khổng lồ, chuyên về khả năng chiến đấu và gây sát thương. Mặc dù nó có thể gây ra sát thương lớn, nhưng bản thân nó lại dễ bị tấn công.</Clawer.description>
+<Gaumaker.label>Cây tinh thể cộng sinh</Gaumaker.label>
+<Gaumaker.description>Một loài cây tinh thể có khả năng độc đáo để sản xuất ra các túi cây mẹ và sinh sản ra cộng sinh của cây mẹ - nữ hoàng cây tinh thể. Để làm điều này, cần có ba cây tinh thể cộng sinh để thực hiện sự hợp nhất chậm chạp.</Gaumaker.description>
+<Medicinemaker.label>Cây tinh thể dược sư</Medicinemaker.label>
+<Medicinemaker.description>Một loài cây tinh thể chuyên sản xuất thuốc. Cùng với cây mẹ của nó, cây tinh thể này có thể liên tục sản xuất ra thảo dược. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô dụng.</Medicinemaker.description>
+<Woodmaker.label>Cây tinh thể cung cấp gỗ</Woodmaker.label>
+<Woodmaker.description>Một loài cây tinh thể chậm chạp và vụng về, chuyên sản xuất gỗ. Cùng với cây mẹ của nó, cây tinh thể này có thể liên tục tạo ra một loại vật liệu giống như gỗ. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô dụng.</Woodmaker.description>
+</LanguageData>

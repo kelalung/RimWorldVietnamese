@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Interrogate.label>Thẩm vấn</Interrogate.label>
+	<Interrogate.description>Người gác tù sẽ thẩm vấn tù nhân và quan sát phản ứng của họ để xác định xem họ có giấu diếm bí mật nào không. Khả năng xã hội của người gác tù càng mạnh, khả năng để nghi phạm lộ tẩy càng cao. Nhưng cũng có thể gặp phải những nghi phạm không tiết lộ gì dù trong bất kỳ hoàn cảnh nào.</Interrogate.description>
+	<Study.label>Nghiên cứu</Study.label>
+	<Study.description>Các nhà nghiên cứu thu thập kiến thức về hiện tượng thông qua việc tương tác với chúng.</Study.description>
+</LanguageData>

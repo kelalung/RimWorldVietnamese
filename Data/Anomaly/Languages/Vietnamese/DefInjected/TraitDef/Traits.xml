@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BodyMastery.degreeDatas.body_mastery.label>Thể lực tối thượng</BodyMastery.degreeDatas.body_mastery.label>
+<BodyMastery.degreeDatas.body_mastery.description>{PAWN_nameDef} không cần ăn uống và ngủ nghỉ, cũng không quan tâm đến sự thoải mái, cơ thể được điều khiển bởi một chức năng chưa biết nào đó. Mắt của {PAWN_possessive} vì thế hoàn toàn trở nên trắng bệch.</BodyMastery.degreeDatas.body_mastery.description>
+<Disturbing.degreeDatas.disturbing.label>Kỳ quái</Disturbing.degreeDatas.disturbing.label>
+<Disturbing.degreeDatas.disturbing.description>{PAWN_nameDef} là một người có phần kỳ quái, dường như luôn đầy những suy nghĩ đáng sợ. Nói chuyện với {PAWN_objective} thường chỉ khiến người ta cảm thấy khó chịu.</Disturbing.degreeDatas.disturbing.description>
+<Joyous.degreeDatas.joyous.label>Sự hiện diện vui vẻ</Joyous.degreeDatas.joyous.label>
+<Joyous.degreeDatas.joyous.description>{PAWN_nameDef} có khả năng làm mọi người phấn chấn và khuyến khích họ trở thành phiên bản tốt nhất của chính mình.</Joyous.degreeDatas.joyous.description>
+<Occultist.degreeDatas.occultist.label>Nhà huyền bí học</Occultist.degreeDatas.occultist.label>
+<Occultist.degreeDatas.occultist.description>{PAWN_nameDef} có hiểu biết sâu sắc về những năng lượng tâm linh đen tối. {PAWN_pronoun} có thể điều tra các thực thể bất thường nhanh hơn người khác. Nếu có cơ hội, {PAWN_pronoun} thậm chí còn thường xuyên truyền đạt những kiến thức phi nhân này cho người khác.</Occultist.degreeDatas.occultist.description>
+<PerfectMemory.degreeDatas.perfect_memory.label>Ký ức hoàn hảo</PerfectMemory.degreeDatas.perfect_memory.label>
+<PerfectMemory.degreeDatas.perfect_memory.description>{PAWN_nameDef} có trí nhớ xuất sắc, không chỉ não có thể lưu trữ thông tin mà còn có trí nhớ cơ bắp hoàn hảo. Kỹ năng của {PAWN_possessive} sẽ không bao giờ bị lãng quên.</PerfectMemory.degreeDatas.perfect_memory.description>
+<VoidFascination.degreeDatas.void_fascination.label>Đam mê hư không</VoidFascination.degreeDatas.void_fascination.label>
+<VoidFascination.degreeDatas.void_fascination.description>{PAWN_nameDef} có sự quan tâm kỳ diệu đối với các thực thể bất thường, dễ dàng bị chúng mê hoặc.</VoidFascination.degreeDatas.void_fascination.description>
+</LanguageData>

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Namer_Tome.rulePack.rulesStrings>
+		<li>title-&gt;[maybeThe][nounEvilUncountable] của [bookEvil]</li>
+		<li>title-&gt;[maybeThe][nounEvilCountable] của [bookEvil]</li>
+		<li>title-&gt;[maybeThe][nounEvilCountable] của [bookEvil]</li>
+		<li>title-&gt;[maybeThe][placeEvil] trong [nounEvilCountable]</li>
+		<li>title-&gt;[maybeThe][ANYPAWN_nameIndef] của [bookEvil]</li>
+		<li>title-&gt;[maybeThe][placeEvil] trong [nounEvilAny]</li>
+		<li>title-&gt;[maybeThe][ANYPAWN_nameIndef] của [nounEvilAny]</li>
+		<li>title-&gt;[maybeThe][adjectiveEvil][nounEvilAny]</li>
+		<li>title-&gt;[ANYPAWN_nameIndef] của [bookEvil]</li>
+		<li>title-&gt;[maybeThe][bookCompound]</li>
+		<li>title-&gt;[ANYPAWN_nameIndef] của [bookCompound]</li>
+		<li>title(p=0.5)-&gt;[firstHalfEvil][connector][nounEvilCountable]</li>
+		<li>title(p=0.5)-&gt;[firstHalfEvil][connector][nounEvilUncountable]</li>
+		<li>title(p=0.5)-&gt;[nounEvilCountable][suffixEvil]</li>
+		<li>title(p=0.5)-&gt;[nounEvilUncountable][suffixEvil]</li>
+		<li>bookCompound(p=2)-&gt;[firstHalfEvil][suffixEvil]</li>
+		<li>bookCompound-&gt;[firstHalfEvil][connector][suffixEvil]</li>
+		<li>connector-&gt;</li>
+		<li>connector-&gt;</li>
+		<li>maybeThe-&gt;</li>
+		<li>maybeThe-&gt;</li>
+		<li>bookEvil(p=2)-&gt;Sách</li>
+		<li>bookEvil(p=2)-&gt;[firstHalfEvil][suffixEvil]</li>
+		<li>bookEvil-&gt;Ma kinh</li>
+		<li>bookEvil-&gt;Luật lệ</li>
+		<li>bookEvil-&gt;Chương</li>
+		<li>bookEvil-&gt;Ghi chép</li>
+		<li>bookEvil-&gt;Bí mật</li>
+		<li>bookEvil-&gt;Biên niên sử</li>
+		<li>bookEvil-&gt;Mật mã</li>
+		<li>bookEvil-&gt;Lời thì thầm</li>
+		<li>bookEvil-&gt;Lời chứng</li>
+		<li>bookEvil-&gt;Khúc bi thương</li>
+		<li>bookEvil-&gt;Sách ma</li>
+		<li>bookEvil-&gt;Niên giám</li>
+		<li>bookEvil-&gt;Bản thảo</li>
+		<li>bookEvil-&gt;Niên giám</li>
+		<li>bookEvil-&gt;Phù chú</li>
+		<li>bookEvil-&gt;Khải huyền</li>
+		<li>bookEvil-&gt;Tuyên ngôn</li>
+		<li>bookEvil-&gt;Di chúc</li>
+		<li>bookEvil-&gt;Đoạn còn lại</li>
+		<li>bookEvil-&gt;Mảnh vỡ</li>
+		<li>inThe-&gt;trong</li>
+		<li>inThe-&gt;trong</li>
+		<li>inThe-&gt;dưới</li>
+		<li>inThe-&gt;dưới</li>
+		<li>inThe-&gt;bên cạnh</li>
+		<li>inThe-&gt;trên</li>
+		<li>inThe-&gt;trên</li>
+		<li>adjectiveEvil(p=3)-&gt;Hư vô</li>
+		<li>adjectiveEvil-&gt;Vàng</li>
+		<li>adjectiveEvil-&gt;Bất thường</li>
+		<li>adjectiveEvil-&gt;Tối tăm</li>
+		<li>adjectiveEvil-&gt;Đen</li>
+		<li>adjectiveEvil-&gt;Sâu thẳm</li>
+		<li>adjectiveEvil-&gt;Cổ xưa</li>
+		<li>adjectiveEvil-&gt;Thối rữa</li>
+		<li>adjectiveEvil-&gt;Máu</li>
+		<li>adjectiveEvil-&gt;Hỗn loạn</li>
+		<li>adjectiveEvil-&gt;Đáy sâu</li>
+		<li>adjectiveEvil-&gt;Kinh hoàng</li>
+		<li>adjectiveEvil-&gt;Ảo ảnh</li>
+		<li>adjectiveEvil-&gt;Bí ẩn</li>
+		<li>adjectiveEvil-&gt;Lời thì thầm</li>
+		<li>adjectiveEvil-&gt;Bị lãng quên</li>
+		<li>adjectiveEvil-&gt;Mờ ảo</li>
+		<li>adjectiveEvil-&gt;Cấm kỵ</li>
+		<li>adjectiveEvil-&gt;Dưới lòng đất</li>
+		<li>adjectiveEvil-&gt;Hình rắn</li>
+		<li>nounEvilAny-&gt;[nounEvilCountable]</li>
+		<li>nounEvilAny-&gt;[nounEvilUncountable]</li>
+		<li>nounEvilUncountable-&gt;Thịt và máu</li>
+		<li>nounEvilUncountable-&gt;Sắt sống</li>
+		<li>nounEvilUncountable-&gt;Xác sống</li>
+		<li>nounEvilUncountable-&gt;Công nghệ siêu phàm</li>
+		<li>nounEvilUncountable-&gt;Công nghệ xác sống</li>
+		<li>nounEvilUncountable-&gt;Horax</li>
+		<li>nounEvilUncountable-&gt;Máu</li>
+		<li>nounEvilUncountable-&gt;Bất tử</li>
+		<li>nounEvilUncountable-&gt;Quyền lực</li>
+		<li>nounEvilUncountable-&gt;Lời thì thầm</li>
+		<li>nounEvilUncountable-&gt;Kiến thức</li>
+		<li>nounEvilUncountable-&gt;Kinh hoàng</li>
+		<li>nounEvilUncountable-&gt;Nấm</li>
+		<li>nounEvilUncountable-&gt;Thối rữa</li>
+		<li>nounEvilUncountable-&gt;Nghi lễ</li>
+		<li>nounEvilUncountable-&gt;Giết chóc</li>
+		<li>nounEvilUncountable-&gt;Bóng đêm</li>
+		<li>nounEvilUncountable-&gt;Điên cuồng</li>
+		<li>nounEvilUncountable-&gt;Hỗn loạn</li>
+		<li>nounEvilUncountable-&gt;Sự tuyệt vọng</li>
+		<li>nounEvilUncountable-&gt;Đau đớn</li>
+		<li>nounEvilUncountable-&gt;Cơn ác mộng</li>
+		<li>nounEvilUncountable-&gt;Sa ngã</li>
+		<li>nounEvilUncountable-&gt;Số phận xấu</li>
+		<li>nounEvilUncountable-&gt;Nỗi sợ hãi</li>
+		<li>nounEvilUncountable-&gt;Oán hận</li>
+		<li>nounEvilUncountable-&gt;Bóng tối</li>
+		<li>nounEvilUncountable-&gt;Hư vô</li>
+		<li>nounEvilUncountable-&gt;Vàng</li>
+		<li>nounEvilCountable-&gt;Xác sống</li>
+		<li>nounEvilCountable-&gt;Người khổng lồ máu</li>
+		<li>nounEvilCountable-&gt;Cơn ác mộng</li>
+		<li>nounEvilCountable-&gt;Quái vật lê bước</li>
+		<li>nounEvilCountable-&gt;Thú thịt</li>
+		<li>nounEvilCountable-&gt;Quả cầu đau đớn</li>
+		<li>nounEvilCountable-&gt;Xác chết</li>
+		<li>nounEvilCountable-&gt;Khối lập phương ma</li>
+		<li>nounEvilCountable-&gt;Hồn ma</li>
+		<li>nounEvilCountable-&gt;Quái vật kim loại</li>
+		<li>nounEvilCountable-&gt;Kẻ bắt cóc</li>
+		<li>nounEvilCountable-&gt;Người sao chép</li>
+		<li>nounEvilCountable-&gt;Kẻ biến dạng</li>
+		<li>nounEvilCountable-&gt;Người tiên phong</li>
+		<li>nounEvilCountable-&gt;Ma quái vô hình</li>
+		<li>nounEvilCountable-&gt;Thú ghép</li>
+		<li>nounEvilCountable-&gt;Thú nuốt chửng</li>
+		<li>nounEvilCountable-&gt;Mảnh vỡ</li>
+		<li>nounEvilCountable-&gt;Tượng điêu khắc</li>
+		<li>nounEvilCountable-&gt;Huyết thanh</li>
+		<li>nounEvilCountable-&gt;Giáo hội</li>
+		<li>nounEvilCountable-&gt;Tín đồ tà giáo</li>
+		<li>nounEvilCountable-&gt;Con dê</li>
+		<li>nounEvilCountable-&gt;Bóng tối</li>
+		<li>nounEvilCountable-&gt;Kẻ tiềm phục</li>
+		<li>nounEvilCountable-&gt;Nghi lễ</li>
+		<li>nounEvilCountable-&gt;Hình lục giác</li>
+		<li>nounEvilCountable-&gt;Rắn độc</li>
+		<li>nounEvilCountable-&gt;Người tham dự tiệc</li>
+		<li>placeEvil-&gt;Đại dương</li>
+		<li>placeEvil-&gt;Hư vô</li>
+		<li>placeEvil-&gt;Đáy sâu</li>
+		<li>placeEvil-&gt;Biển sâu</li>
+		<li>placeEvil-&gt;Bóng tối</li>
+		<li>placeEvil-&gt;Mộ</li>
+		<li>placeEvil-&gt;Tối tăm</li>
+		<li>placeEvil-&gt;Núi</li>
+		<li>placeEvil-&gt;Phòng kín</li>
+		<li>placeEvil-&gt;Ngục tối</li>
+		<li>placeEvil-&gt;Thánh địa</li>
+		<li>placeEvil-&gt;Rừng rậm</li>
+		<li>placeEvil-&gt;Trái đất</li>
+		<li>placeEvil-&gt;Các vì sao</li>
+		<li>placeEvil-&gt;Đại dương</li>
+		<li>placeEvil-&gt;Đáy sâu</li>
+		<li>placeEvil-&gt;Thế giới dưới</li>
+		<li>placeEvil-&gt;Hang động</li>
+		<li>firstHalfEvil-&gt;Rung động</li>
+		<li>firstHalfEvil-&gt;Ngủ say</li>
+		<li>firstHalfEvil-&gt;Xác sống</li>
+		<li>firstHalfEvil-&gt;Biên niên</li>
+		<li>firstHalfEvil-&gt;Rồng khổng lồ</li>
+		<li>firstHalfEvil-&gt;Tội lỗi</li>
+		<li>firstHalfEvil-&gt;Cuồng loạn</li>
+		<li>firstHalfEvil-&gt;Kinh hoàng</li>
+		<li>firstHalfEvil-&gt;Độc ác</li>
+		<li>firstHalfEvil-&gt;Ngoại tinh</li>
+		<li>firstHalfEvil-&gt;Điên cuồng</li>
+		<li>firstHalfEvil-&gt;Cấm kỵ</li>
+		<li>firstHalfEvil-&gt;Tàn bạo</li>
+		<li>firstHalfEvil-&gt;Địa ngục</li>
+		<li>firstHalfEvil-&gt;Sợ hãi</li>
+		<li>firstHalfEvil-&gt;Vỡ vụn</li>
+		<li>suffixEvil-&gt;cuốn sách</li>
+		<li>suffixEvil-&gt;Cư dân</li>
+		<li>suffixEvil-&gt;Đại dương</li>
+		<li>suffixEvil-&gt;Luật pháp</li>
+		<li>suffixEvil-&gt;Bóng tối</li>
+		<li>suffixEvil-&gt;Phép thuật</li>
+		<li>suffixEvil-&gt;Nữ quái</li>
+		<li>suffixEvil-&gt;Thần chết</li>
+		<li>suffixEvil-&gt;Mật mã</li>
+		<li>suffixEvil-&gt;Lo lắng</li>
+		<li>suffixEvil-&gt;Vortex</li>
+		<li>suffixEvil-&gt;Đêm</li>
+		<li>suffixEvil-&gt;Đoạn văn</li>
+		<li>suffixEvil-&gt;Núi</li>
+		<li>suffixEvil-&gt;Chuyện kỳ lạ</li>
+		<li>suffixEvil-&gt;Trừng phạt</li>
+		<li>suffixEvil-&gt;Sức mạnh</li>
+		<li>suffixEvil-&gt;Lời gọi</li>
+		<li>suffixEvil-&gt;Kinh điển</li>
+		<li>suffixEvil-&gt;Hỗn loạn</li>
+		<li>suffixEvil-&gt;Linh hồn</li>
+		<li>suffixEvil-&gt;Lời nguyền</li>
+	</Namer_Tome.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioferriteGenerator.stages.Bioferrite_generator.label>Máy phát điện sinh học</BioferriteGenerator.stages.Bioferrite_generator.label>
+<BioferriteGenerator.stages.Bioferrite_generator.description>Âm thanh vo ve của cái máy quái quỷ đó khiến tôi phát điên, nghe như móng tay cào lên bảng đen.</BioferriteGenerator.stages.Bioferrite_generator.description>
+<BloodRage.stages.blood_rage-0.label>Giận dữ</BloodRage.stages.blood_rage-0.label>
+<BloodRage.stages.blood_rage-1.label>Ngọn lửa cuồng nộ</BloodRage.stages.blood_rage-1.label>
+<BloodRage.stages.blood_rage-1.description>Tôi đang tức giận. Cảm giác như không thể kìm nén muốn đấm ai đó.</BloodRage.stages.blood_rage-1.description>
+<BloodRage.stages.blood_rage-2.label>Khát vọng hủy diệt</BloodRage.stages.blood_rage-2.label>
+<BloodRage.stages.blood_rage-2.description>Tôi muốn phá hủy mọi thứ. Thực sự không thể chịu nổi nữa.</BloodRage.stages.blood_rage-2.description>
+<BloodRage.stages.blood_rage-3.label>Giận dữ tột độ</BloodRage.stages.blood_rage-3.label>
+<BloodRage.stages.blood_rage-3.description>Tôi muốn xé nát mọi thứ! Tất cả mọi người! Đáng đời!</BloodRage.stages.blood_rage-3.description>
+<BloodRage.stages.blood_rage-4.label>Ngọn lửa giận dữ khủng khiếp</BloodRage.stages.blood_rage-4.label>
+<BloodRage.stages.blood_rage-4.description>Tôi sẽ giết bạn! Đánh bạn thành tro!</BloodRage.stages.blood_rage-4.description>
+<CubeSculptures.stages.cube_sculpture.label>Điêu khắc khối lập phương</CubeSculptures.stages.cube_sculpture.label>
+<CubeSculptures.stages.cube_sculpture.description>Điêu khắc của tôi... một tác phẩm nghệ thuật tuyệt đẹp!</CubeSculptures.stages.cube_sculpture.description>
+<CubeWithdrawl.stages.cube_withdrawal-0.label>Thèm khối lập phương (nhẹ)</CubeWithdrawl.stages.cube_withdrawal-0.label>
+<CubeWithdrawl.stages.cube_withdrawal-0.description>Tôi chỉ muốn nhìn thấy khối lập phương vàng một lần nữa. Xin bạn.</CubeWithdrawl.stages.cube_withdrawal-0.description>
+<CubeWithdrawl.stages.cube_withdrawal-1.label>Thèm khối lập phương (vừa)</CubeWithdrawl.stages.cube_withdrawal-1.label>
+<CubeWithdrawl.stages.cube_withdrawal-1.description>Ai đã thấy khối lập phương? Tôi nhớ nó. Tôi cần nó ngay bây giờ!</CubeWithdrawl.stages.cube_withdrawal-1.description>
+<CubeWithdrawl.stages.cube_withdrawal-2.label>Thèm khối lập phương (nặng)</CubeWithdrawl.stages.cube_withdrawal-2.label>
+<CubeWithdrawl.stages.cube_withdrawal-2.description>Khối lập phương của tôi đâu rồi? Nó được giấu ở đâu?</CubeWithdrawl.stages.cube_withdrawal-2.description>
+<DeadlifeDust.stages.deadlife_dust-0.label>Tiếp xúc với bụi chết (nhẹ)</DeadlifeDust.stages.deadlife_dust-0.label>
+<DeadlifeDust.stages.deadlife_dust-0.description>Bụi chết này khiến tôi ngứa ngáy khó chịu.</DeadlifeDust.stages.deadlife_dust-0.description>
+<DeadlifeDust.stages.deadlife_dust-1.label>Tiếp xúc với bụi chết (vừa)</DeadlifeDust.stages.deadlife_dust-1.label>
+<DeadlifeDust.stages.deadlife_dust-1.description>Bụi chết này khiến tôi nổi mẩn khắp người. Da tôi như bị lửa đốt.</DeadlifeDust.stages.deadlife_dust-1.description>
+<DeadlifeDust.stages.deadlife_dust-2.label>Tiếp xúc với bụi chết (nặng)</DeadlifeDust.stages.deadlife_dust-2.label>
+<DeadlifeDust.stages.deadlife_dust-2.description>Bụi chết này đau như bị kim châm! Tôi cảm thấy nó ở khắp mắt và phổi của mình.</DeadlifeDust.stages.deadlife_dust-2.description>
+<DeathPall.stages.death_pall.label>Sương mù chết chóc</DeathPall.stages.death_pall.label>
+<DeathPall.stages.death_pall.description>Mùi này thật sự là mùi của cái chết.</DeathPall.stages.death_pall.description>
+<DeathPall.stages.death_pall_exposure.label>Tiếp xúc với sương mù chết chóc</DeathPall.stages.death_pall_exposure.label>
+<DeathPall.stages.death_pall_exposure.description>Mùi này thật sự là mùi của cái chết. Mắt tôi đau quá, cảm giác như không khí đang đánh nhau trong hàm răng của tôi.</DeathPall.stages.death_pall_exposure.description>
+<DeathRefusalSickness.stages.death_refusal.label>Tránh né cái chết</DeathRefusalSickness.stages.death_refusal.label>
+<DeathRefusalSickness.stages.death_refusal.description>Tôi đã chết... Ừ, đã từng chết. Cảm giác vừa lạnh lẽo vừa đáng sợ.</DeathRefusalSickness.stages.death_refusal.description>
+<DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>Tác phẩm điêu khắc khối lập phương của tôi đã bị hủy hoại</DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>
+<DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.description>Điêu khắc của tôi... tác phẩm nghệ thuật tuyệt đẹp của tôi...</DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.description>
+<EntityInRoom.stages.monster_by_my_bed.label>Quái vật bên gối</EntityInRoom.stages.monster_by_my_bed.label>
+<EntityInRoom.stages.monster_by_my_bed.description>Có cái quái vật biến dạng đó bên cạnh tôi, tôi sẽ không bao giờ ngủ được!</EntityInRoom.stages.monster_by_my_bed.description>
+<FleshTentacle.stages.flesh_tentacle.label>Râu thịt</FleshTentacle.stages.flesh_tentacle.label>
+<FleshTentacle.stages.flesh_tentacle.description>Hãy nhanh chóng gỡ những thứ này ra khỏi người tôi!</FleshTentacle.stages.flesh_tentacle.description>
+<FleshWhip.stages.flesh_whip.label>Đòn roi thịt</FleshWhip.stages.flesh_whip.label>
+<FleshWhip.stages.flesh_whip.description>Nó luôn luôn cựa quậy. Thật ghê tởm.</FleshWhip.stages.flesh_whip.description>
+<GrayPall.stages.gray_pall.label>Sương mù xám</GrayPall.stages.gray_pall.label>
+<GrayPall.stages.gray_pall.description>Tôi cảm thấy cả thế giới đang hấp hối, sắp chết.</GrayPall.stages.gray_pall.description>
+<GrayPall.stages.gray_pall_exposure.label>Tiếp xúc với sương mù xám</GrayPall.stages.gray_pall_exposure.label>
+<GrayPall.stages.gray_pall_exposure.description>Tôi cảm thấy cả thế giới đang hấp hối, sắp chết. Không khí thối rữa này khiến tôi muốn nôn.</GrayPall.stages.gray_pall_exposure.description>
+<HarbingerScream.stages.harbinger_tree_scream.label>Tiếng thét của cây báo hiệu tai họa</HarbingerScream.stages.harbinger_tree_scream.label>
+<HarbingerScream.stages.harbinger_tree_scream.description>Kể từ khi cái cây đó chết đi, tôi đã đau đầu như búa bổ. Tôi cảm giác như vẫn còn nghe thấy tiếng nó...</HarbingerScream.stages.harbinger_tree_scream.description>
+<HateChantDrone.stages.hate_chant_whispers.label>Nguyền rủa thì thầm (yếu)</HateChantDrone.stages.hate_chant_whispers.label>
+<HateChantDrone.stages.hate_chant_whispers.description>Dù tôi ở đâu, tôi cũng có thể nghe thấy tiếng thì thầm của họ. Họ lặp đi lặp lại những tội lỗi đó với tôi.</HateChantDrone.stages.hate_chant_whispers.description>
+<HateChantDrone.stages.quiet_hate_chanting.label>Nguyền rủa thì thầm (khá yếu)</HateChantDrone.stages.quiet_hate_chanting.label>
+<HateChantDrone.stages.quiet_hate_chanting.description>Tôi có thể nghe thấy họ đang lẩm bẩm, khiến tâm trí tôi ngập tràn sự thù hận.</HateChantDrone.stages.quiet_hate_chanting.description>
+<HateChantDrone.stages.hate_chanting.label>Nguyền rủa</HateChantDrone.stages.hate_chanting.label>
+<HateChantDrone.stages.hate_chanting.description>Tôi có thể nghe thấy những lời này, chúng gào thét, thì thầm, hoặc phát ra tiếng rên rỉ giận dữ. Chúng lặp đi lặp lại trong tâm trí tôi. Tôi sắp phát điên lên rồi!</HateChantDrone.stages.hate_chanting.description>
+<HateChantDrone.stages.loud_hate_chanting.label>Nguyền rủa (mạnh)</HateChantDrone.stages.loud_hate_chanting.label>
+<HateChantDrone.stages.loud_hate_chanting.description>Những tiếng thét này không bao giờ ngừng lại! Những tiếng kêu thù hận vang vọng trong tâm trí tôi, trong đầu tôi!</HateChantDrone.stages.loud_hate_chanting.description>
+<HateChantDrone.stages.extreme_hate_chanting.label>Nguyền rủa (cực mạnh)</HateChantDrone.stages.extreme_hate_chanting.label>
+<HateChantDrone.stages.extreme_hate_chanting.description>Sự giận dữ tàn phá trong tâm trí tôi, xé nát mọi thứ, tội lỗi đáng phải chịu, biển đen của sự kinh hoàng...</HateChantDrone.stages.extreme_hate_chanting.description>
+<ImprisonedWithEntity.stages.imprisoned_with_entity.label>Bị giam cùng thực thể</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
+<ImprisonedWithEntity.stages.imprisoned_with_entity.description>Tôi và cái quái vật biến dạng này bị mắc kẹt cùng nhau!</ImprisonedWithEntity.stages.imprisoned_with_entity.description>
+<JoyousPresence.stages.Joyous_presence.label>Sự hiện diện vui vẻ</JoyousPresence.stages.Joyous_presence.label>
+<JoyousPresence.stages.Joyous_presence.description>Dù tôi ở đâu, tôi cũng có thể cảm nhận lại niềm vui đó trong tâm trí. Điều này khiến tôi cảm thấy thật tốt. Thật tuyệt vời.</JoyousPresence.stages.Joyous_presence.description>
+<JuggernautSerum.stages.juggernaut_serum.label>Serum mạnh mẽ</JuggernautSerum.stages.juggernaut_serum.label>
+<JuggernautSerum.stages.juggernaut_serum.description>Thứ này khiến tâm trí tôi rối bời. Tôi luôn nghĩ đến những điều tồi tệ.</JuggernautSerum.stages.juggernaut_serum.description>
+<NeurosisPulse.stages.neurosis_pulse.label>Nhịp đập lo âu</NeurosisPulse.stages.neurosis_pulse.label>
+<NeurosisPulse.stages.neurosis_pulse.description>Đừng làm phiền tôi! Tôi còn phải làm việc!</NeurosisPulse.stages.neurosis_pulse.description>
+<PleasurePulse.stages.pleasure_pulse.label>Nhịp đập vui vẻ</PleasurePulse.stages.pleasure_pulse.label>
+<PleasurePulse.stages.pleasure_pulse.description>Cơ thể tôi rung lên vì niềm vui. Như thể đang nằm trên một lớp lông mềm mại.</PleasurePulse.stages.pleasure_pulse.description>
+<ReadingTome.stages.Fascinating_tome.label>Sách ma thuật hấp dẫn</ReadingTome.stages.Fascinating_tome.label>
+<ReadingTome.stages.Fascinating_tome.description>Nó như có sự sống, đang trò chuyện với tôi.</ReadingTome.stages.Fascinating_tome.description>
+<SleepSuppressor.stages.Sleep_suppressor.label>Ngăn chặn giấc ngủ</SleepSuppressor.stages.Sleep_suppressor.label>
+<SleepSuppressor.stages.Sleep_suppressor.description>Thiết bị đáng sợ đó phát ra tiếng vo ve khiến tôi khó chịu. Tôi cảm thấy đầy trong đầu chỉ toàn tiếng ồn này. Thật là một cái máy quái ác.</SleepSuppressor.stages.Sleep_suppressor.description>
+<SpokeToDisturbingMood.stages.unsettling_conversation.label>Cuộc trò chuyện không thoải mái</SpokeToDisturbingMood.stages.unsettling_conversation.label>
+<SpokeToDisturbingMood.stages.unsettling_conversation.description>Một cuộc trò chuyện gây khó chịu khiến tôi rùng mình. Chỉ cần một người bình thường cũng không thể nói những điều như vậy.</SpokeToDisturbingMood.stages.unsettling_conversation.description>
+<SwallowedByDarkness.stages.swallowed_by_darkness.label>Bị bóng tối nuốt chửng</SwallowedByDarkness.stages.swallowed_by_darkness.label>
+<SwallowedByDarkness.stages.swallowed_by_darkness.description>Bóng tối thật ngột ngạt. Tôi không thấy gì, cũng không thể suy nghĩ!</SwallowedByDarkness.stages.swallowed_by_darkness.description>
+<UnnaturalCorpse.stages.unnatural_corpse.label>Xác chết bất thường</UnnaturalCorpse.stages.unnatural_corpse.label>
+<UnnaturalCorpse.stages.unnatural_corpse.description>Dù tôi ở đâu, tôi cũng cảm thấy nó đang nhìn chằm chằm vào tôi. Không ngừng nghỉ.</UnnaturalCorpse.stages.unnatural_corpse.description>
+<UnnaturalDarkness.stages.unnatural_darkness.label>Bóng tối bất thường</UnnaturalDarkness.stages.unnatural_darkness.label>
+<UnnaturalDarkness.stages.unnatural_darkness.description>Tôi bị bóng tối bao trùm, không thể thở được.</UnnaturalDarkness.stages.unnatural_darkness.description>
+<UnnaturalDarkness.stages.unnatural_sky.label>Bầu trời kỳ quái</UnnaturalDarkness.stages.unnatural_sky.label>
+<UnnaturalDarkness.stages.unnatural_sky.description>Sự thật cuối cùng đã đến, nuốt chửng thế giới giả dối này.</UnnaturalDarkness.stages.unnatural_sky.description>
+<VoidFascination.stages.captured_entity.label>Thực thể bị bắt giữ</VoidFascination.stages.captured_entity.label>
+<VoidFascination.stages.captured_entity.description>Loài sinh vật này thật quyến rũ. Bí ẩn như vậy, mạnh mẽ như vậy.</VoidFascination.stages.captured_entity.description>
+<VoidPleasure.stages.void_pleasure.label>Niềm vui từ hư không</VoidPleasure.stages.void_pleasure.label>
+<VoidPleasure.stages.void_pleasure.description>Nhịp đập của thực tại rung chuyển tôi, xoa dịu mọi thứ.</VoidPleasure.stages.void_pleasure.description>
+<Voidsight.stages.voidsight.label>Thị giác hư không</Voidsight.stages.voidsight.label>
+<Voidsight.stages.voidsight.description>Serum khiến tôi có thể nhìn thấy nhiều hơn. Mọi thứ đều liên kết, những dòng cảm xúc tinh tế, và cả những gương mặt trong bóng tối. Thật choáng ngợp...</Voidsight.stages.voidsight.description>
+<WearingDreadLeather.stages.dread_leather.label>Da thuộc đáng sợ {0}</WearingDreadLeather.stages.dread_leather.label>
+<WearingDreadLeather.stages.dread_leather.description>Tôi ghét thứ hôi hám này.</WearingDreadLeather.stages.dread_leather.description>
+<WearingDreadLeather.stages.dread_leather_1.label>Da thuộc đáng sợ {0} (+1)</WearingDreadLeather.stages.dread_leather_1.label>
+  <WearingDreadLeather.stages.dread_leather_1.description>Lại thêm một sản phẩm da đáng sợ như thế này. Thật khó chịu.</WearingDreadLeather.stages.dread_leather_1.description>
+<WearingDreadLeather.stages.dread_leather_2.label>Da thuộc đáng sợ {0} (+2)</WearingDreadLeather.stages.dread_leather_2.label>
+<WearingDreadLeather.stages.dread_leather_2.description>Bốn sản phẩm da đáng sợ này khiến tôi cảm thấy lo lắng cả ngày. Hơn nữa, chúng thật là hôi hám.</WearingDreadLeather.stages.dread_leather_2.description>
+<WearingDreadLeather.stages.dread_leather_etc.label>Da thuộc đáng sợ {0} nhiều món</WearingDreadLeather.stages.dread_leather_etc.label>
+<WearingDreadLeather.stages.dread_leather_etc.description>Tôi đầy mình những thứ kinh khủng này.</WearingDreadLeather.stages.dread_leather_etc.description>
+</LanguageData>

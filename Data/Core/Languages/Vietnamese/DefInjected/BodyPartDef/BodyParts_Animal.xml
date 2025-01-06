@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalJaw.label>Hàm</AnimalJaw.label>
+	<Antenna.label>Râu</Antenna.label>
+	<Beak.label>Mỏ</Beak.label>
+	<Body.label>Thân</Body.label>
+	<Elytra.label>Vỏ cánh</Elytra.label>
+	<FrontClaw.label>Vuốt trước</FrontClaw.label>
+	<FrontClaw.labelShort>Vuốt</FrontClaw.labelShort>
+	<HeadClaw.label>Vuốt đầu</HeadClaw.label>
+	<Hoof.label>Móng</Hoof.label>
+	<Horn.label>Gạc</Horn.label>
+	<Hump.label>Cái bướu</Hump.label>
+	<InsectHead.label>Đầu</InsectHead.label>
+	<InsectHeart.label>Tim</InsectHeart.label>
+	<InsectLeg.label>Chân</InsectLeg.label>
+	<InsectMouth.label>Mồm</InsectMouth.label>
+	<InsectNostril.label>Hốc mũi</InsectNostril.label>
+	<Jowl.label>Hàm dưới</Jowl.label>
+	<Paw.label>Chân</Paw.label>
+	<Plastron.label>Mai bụng</Plastron.label>
+	<Pronotum.label>Mai ngực</Pronotum.label>
+	<RearClaw.label>Vuốt sau</RearClaw.label>
+	<RearClaw.labelShort>Vuốt</RearClaw.labelShort>
+	<Shell.label>Vỏ</Shell.label>
+	<SnakeBody.label>Thân rắn</SnakeBody.label>
+	<SnakeHead.label>Đầu rắn</SnakeHead.label>
+	<SnakeMouth.label>Mồm rắn</SnakeMouth.label>
+	<Tail.label>Đuôi</Tail.label>
+	<Trunk.label>Đuôi voi</Trunk.label>
+	<TurtleBeak.label>Mỏ rùa</TurtleBeak.label>
+	<TurtleShell.label>Vỏ rùa</TurtleShell.label>
+	<Tusk.label>Ngà</Tusk.label>
+</LanguageData>

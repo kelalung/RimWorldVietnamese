@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HarbingerTreeSpawn.label>Cây báo trước thảm họa</HarbingerTreeSpawn.label>
+	<HarbingerTreeSpawn.letterLabel>Cây báo trước thảm họa nảy mầm</HarbingerTreeSpawn.letterLabel>
+	<HarbingerTreeSpawn.letterText>Một cây báo trước thảm họa đã nảy mầm gần đây. Những cây lớn với lớp vỏ giống như thịt này ăn xác chết, thịt sống và đầu người xung quanh. Nếu có đủ dinh dưỡng, sẽ có thêm cây báo trước thảm họa mới xuất hiện gần đó.\n\nTrong một huyền thoại bộ lạc, cây này là sứ giả của một vị thần vô hình, điên rồ, cai trị đại dương đen tối vô tận, và cuối cùng sẽ trỗi dậy từ nước, xé toạc bầu trời, chấm dứt mọi thứ.</HarbingerTreeSpawn.letterText>
+	<HarbingerTreeSpawn.letterTextPlural>Một số cây báo trước thảm họa đã nảy mầm gần đây. Những cây lớn với lớp vỏ giống như thịt này ăn xác chết, thịt sống và đầu người xung quanh. Nếu có đủ dinh dưỡng, sẽ có thêm cây báo trước thảm họa mới xuất hiện gần đó.\n\nTrong một huyền thoại bộ lạc, cây này là sứ giả của một vị thần vô hình, điên rồ, cai trị đại dương đen tối vô tận, và cuối cùng sẽ trỗi dậy từ nước, xé toạc bầu trời, chấm dứt mọi thứ.</HarbingerTreeSpawn.letterTextPlural>
+	<MonolithMigration.label>Tín hiệu kỳ lạ</MonolithMigration.label>
+	<MonolithMigration.letterLabel>Tín hiệu kỳ lạ</MonolithMigration.letterLabel>
+	<MonolithMigration.letterText>Các thuộc địa của bạn cảm nhận được một tín hiệu tâm linh kỳ lạ. Bạn có thể xem xét phản hồi lại tín hiệu này, mặc dù không rõ điều đó sẽ có hậu quả gì.</MonolithMigration.letterText>
+	<RefugeePodCrash_Ghoul.label>Tàu vận chuyển thây ma rơi xuống</RefugeePodCrash_Ghoul.label>
+	<VoidCuriosity.label>Khám phá hư vô</VoidCuriosity.label>
+	<VoidCuriosity.letterLabel>Khám phá hư vô</VoidCuriosity.letterLabel>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bear_Grizzly.label>Gấu xám</Bear_Grizzly.label>
+<Bear_Grizzly.description>Một loài động vật có vú ăn tạp khổng lồ thích nghi với khí hậu lạnh. Lớp mỡ dày và bộ lông giúp chúng giữ ấm vào mùa đông.\n\nMặc dù chế độ ăn uống của chúng chủ yếu bao gồm cá, quả mọng, mật ong và xác thịt, gấu xám vẫn có thể sử dụng sức mạnh khổng lồ và móng vuốt chết người để giết chết con mồi sống. Mặc dù có vẻ ngoài cồng kềnh, nhưng chúng lại rất nhanh nhẹn.</Bear_Grizzly.description>
+<Bear_Grizzly.race.meatLabel>Thịt gấu</Bear_Grizzly.race.meatLabel>
+<Bear_Grizzly.tools.left_claw.label>Móng trái</Bear_Grizzly.tools.left_claw.label>
+<Bear_Grizzly.tools.left_claw.labelNoLocation>Móng</Bear_Grizzly.tools.left_claw.labelNoLocation>
+<Bear_Grizzly.tools.right_claw.label>Móng phải</Bear_Grizzly.tools.right_claw.label>
+<Bear_Grizzly.tools.right_claw.labelNoLocation>Móng</Bear_Grizzly.tools.right_claw.labelNoLocation>
+<Bear_Grizzly.tools.head.label>Đầu</Bear_Grizzly.tools.head.label>
+<Bear_Polar.label>Gấu Bắc Cực</Bear_Polar.label>
+<Bear_Polar.description>Một loài gấu trắng lớn sống ở cực Bắc. Lớp mỡ dày và bộ lông giúp chúng giữ ấm vào mùa đông.\n\nMặc dù chế độ ăn uống của chúng chủ yếu bao gồm cá và xác thịt, gấu Bắc Cực vẫn có thể sử dụng sức mạnh khổng lồ và móng vuốt chết người để giết chết con mồi sống. Mặc dù có vẻ ngoài cồng kềnh, nhưng chúng lại rất nhanh nhẹn.</Bear_Polar.description>
+<Bear_Polar.tools.left_claw.label>Móng trái</Bear_Polar.tools.left_claw.label>
+<Bear_Polar.tools.left_claw.labelNoLocation>Móng</Bear_Polar.tools.left_claw.labelNoLocation>
+<Bear_Polar.tools.right_claw.label>Móng phải</Bear_Polar.tools.right_claw.label>
+<Bear_Polar.tools.right_claw.labelNoLocation>Móng</Bear_Polar.tools.right_claw.labelNoLocation>
+<Bear_Polar.tools.head.label>Đầu</Bear_Polar.tools.head.label>
+</LanguageData>

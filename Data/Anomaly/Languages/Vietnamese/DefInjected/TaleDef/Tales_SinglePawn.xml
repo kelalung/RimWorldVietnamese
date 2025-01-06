@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ClosedTheVoid.label>Đã đóng nút hư vô</ClosedTheVoid.label>
+	<ClosedTheVoid.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[PAWN_nameDef] đang đóng nút hư vô.</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], đang đóng liên kết với hư vô để đảm bảo an toàn cho thuộc địa</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], đứng trước nút hư vô với vẻ khinh thường, quyết tâm bảo vệ thuộc địa</li>
+		<li>circumstance_phrase-&gt;Đi kèm với năng lượng tâm linh phát ra tiếng nổ lách tách</li>
+		<li>circumstance_phrase-&gt;Nút hư vô phát ra một ánh sáng mạnh mẽ</li>
+		<li>circumstance_phrase-&gt;Có vẻ như có hư vô đang thì thầm phía sau</li>
+		<li>desc_sentence-&gt;Kim loại xám tối từ bốn phía áp bức lại.</li>
+		<li>desc_sentence-&gt;Các nhà thuộc địa khác đang ở hướng [side_position]. Lo lắng chờ đợi sự trở về của [PAWN_nameDef].</li>
+		<li>desc_sentence-&gt;Biểu cảm của [PAWN_nameDef] tiết lộ rằng [PAWN_pronoun] đang đau đầu vì lựa chọn trước mắt.</li>
+	</ClosedTheVoid.rulePack.rulesStrings>
+	<EmbracedTheVoid.label>Ôm ấp hư vô</EmbracedTheVoid.label>
+	<EmbracedTheVoid.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[PAWN_nameDef] đang ôm ấp hư vô</li>
+		<li>image-&gt;[PAWN_nameFull] sử dụng kiến thức cấm kỵ của hư vô, vượt lên trên giới hạn của phàm nhân, [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] chìm đắm trong cám dỗ của hư vô, [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] đầu hàng trước lời thì thầm ác độc của hư vô, [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;Chi nhánh của [PAWN_possessive] bị quấn quanh bởi năng lượng bóng tối</li>
+		<li>circumstance_phrase-&gt;Chìm đắm trong vòng xoáy tâm linh</li>
+		<li>circumstance_phrase-&gt;Khuôn mặt vẫn mang nụ cười kỳ quái</li>
+		<li>desc_sentence-&gt;[PAWN_nameDef] tỏa ra một sức mạnh bất an, chính là hợp đồng với hư vô của [PAWN_possessive].</desc_sentence>
+		<li>desc_sentence-&gt;Đôi mắt của [PAWN_nameDef] bắt đầu phát sáng với ánh sáng siêu phàm.</li>
+		<li>desc_sentence-&gt;Các nhà thuộc địa khác đang ở hướng [side_position], nghi ngờ liệu lựa chọn của [PAWN_nameDef] có khôn ngoan hay không.</li>
+	</EmbracedTheVoid.rulePack.rulesStrings>
+	<PerformedPsychicRitual.label>Tiến hành nghi thức tâm linh</PerformedPsychicRitual.label>
+	<PerformedPsychicRitual.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[PAWN_nameDef] đang chủ trì nghi thức tâm linh</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], dẫn dắt năng lượng nhảy múa xung quanh mình, đồng thời dệt nên nghi thức tâm linh mạnh mẽ này</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], niệm những câu thần chú đen tối, sử dụng sức mạnh huyền bí để thực hiện nghi thức tâm linh</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], tập trung vào việc tiến hành nghi thức tâm linh</li>
+		<li>image-&gt;[PAWN_nameFull][circumstance_group], vẽ những ký hiệu phức tạp trong không khí, sử dụng năng lượng tâm linh tiềm tàng để thể hiện nghi thức tâm linh</li>
+		<li>circumstance_phrase-&gt;Tập trung vào quyển sách thần chú trước mặt</li>
+		<li>circumstance_phrase-&gt;Với quyết tâm tập trung, thể hiện sự thành thạo của [PAWN_pronoun] trong nghệ thuật tâm linh</li>
+		<li>circumstance_phrase-&gt;Mang một nụ cười tàn nhẫn trên khuôn mặt</li>
+		<li>circumstance_phrase-&gt;Giọng nói của [PAWN_nameFull] vang lên qua tiếng ầm ầm của năng lượng</li>
+		<li>desc_sentence-&gt;Có thể thấy một số người ngâm thơ ở phía [side_position] cũng tham gia, hỗ trợ</li>
+		<li>desc_sentence-&gt;Khi [PAWN_nameDef] hoàn thành nghi thức tâm linh, không khí sáng lên.</li>
+		<li>desc_sentence-&gt;Những tảng đá khổng lồ trong nền phát sáng.</li>
+		<li>desc_sentence-&gt;Những ngọn nến xung quanh sáng tối không đều trong vòng xoáy tâm linh.</li>
+	</PerformedPsychicRitual.rulePack.rulesStrings>
+</LanguageData>

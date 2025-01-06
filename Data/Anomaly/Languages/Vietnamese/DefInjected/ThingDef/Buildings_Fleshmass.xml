@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bullet_Shell_AcidSpit.label>Nước bọt axit</Bullet_Shell_AcidSpit.label>
+	<Fleshbulb.label>Đèn thịt</Fleshbulb.label>
+	<Fleshbulb.description>Các khối thịt hình cầu. Những cơ quan này tinh chế và lưu trữ dinh dưỡng cho các khối thịt xung quanh. Quá trình hóa học này khiến nó phát ra ánh sáng sinh học nhẹ nhàng.</Fleshbulb.description>
+	<Fleshmass.label>Khối thịt</Fleshmass.label>
+	<Fleshmass.description>Một khối thịt méo mó. Nó nhảy múa và rung rinh, tràn đầy sức sống đáng sợ.</Fleshmass.description>
+	<Fleshmass_Active.label>Khối thịt</Fleshmass_Active.label>
+	<Fleshmass_Active.description>Một khối thịt méo mó. Nó nhảy múa và rung rinh, tràn đầy sức sống đáng sợ.</Fleshmass_Active.description>
+	<FleshmassHeart.label>Tim thịt</FleshmassHeart.label>
+	<FleshmassHeart.description>Cơ quan chính của thảm họa thịt. Tim này hút chất từ rễ cây dưới lòng đất. Khi thu thập đủ chất, nó sẽ lan rộng như tế bào ung thư, tạo ra các khối thịt xung quanh. Nó sẽ tiếp tục phát triển cho đến khi nuốt chửng mọi thứ.\n\nTim sẽ nuôi dưỡng các cơ quan phun thịt. Những cơ quan phòng thủ này có thể phun nước bọt axit từ xa. Tim cũng sẽ tạo ra các sinh vật thịt để bảo vệ bản thân.\n\nTốc độ tái sinh cực nhanh khiến tim gần như không thể bị tiêu diệt. Chỉ có thể tìm ra cách tiêu diệt nó bằng cách phân tích mẫu của các nút thần kinh hình thành trong quá trình phát triển.</FleshmassHeart.description>
+	<FleshmassHeart.comps.CompDestroyHeart.activateDescString>Kích thích nhịp tim bằng xung điện để tiêu diệt tim thịt.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
+	<FleshmassHeart.comps.CompDestroyHeart.activateLabelString>Kích thích nhịp tim...</FleshmassHeart.comps.CompDestroyHeart.activateLabelString>
+	<FleshmassHeart.comps.CompDestroyHeart.activatingString>Kích thích nhịp tim: {1} giây</FleshmassHeart.comps.CompDestroyHeart.activatingString>
+	<FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>Kích thích nhịp tim</FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>
+	<FleshmassHeart.comps.CompDestroyHeart.guiLabelString>Chọn người điều khiển</FleshmassHeart.comps.CompDestroyHeart.guiLabelString>
+	<FleshmassHeart.comps.CompDestroyHeart.jobString>Kích thích nhịp tim</FleshmassHeart.comps.CompDestroyHeart.jobString>
+	<FleshmassHeartSpawner.label>Mặt đất đang sụp đổ</FleshmassHeartSpawner.label>
+	<FleshmassHeartSpawner.description>Có gì đó đang trồi lên từ mặt đất.</FleshmassHeartSpawner.description>
+	<FleshmassHeartSpawner.building.groundSpawnerLetterLabel>Tim thịt</FleshmassHeartSpawner.building.groundSpawnerLetterLabel>
+	<FleshmassHeartSpawner.building.groundSpawnerLetterText>Tim thịt đã xuất hiện! Sinh vật giống như ung thư này sẽ lan rộng trên mặt đất.\n\nTim không chịu tổn thương từ vũ khí thông thường. Các nút thần kinh thịt sẽ nhanh chóng xuất hiện — tấn công chúng để thu thập mẫu, tìm cách tiêu diệt tim.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
+	<FleshmassSpitter.label>Cơ quan phun thịt</FleshmassSpitter.label>
+	<FleshmassSpitter.description>Cơ quan thịt phòng thủ có khả năng phun nước bọt axit từ xa. Nước bọt axit này là sản phẩm phụ tự nhiên được lọc từ sinh vật xung quanh.</FleshmassSpitter.description>
+	<FleshmassSpitter.verbs.Verb_Shoot.label>Cơ quan phun thịt</FleshmassSpitter.verbs.Verb_Shoot.label>
+	<FleshSack.label>Bao thịt</FleshSack.label>
+	<FleshSack.description>Các bao thịt phình to. Những sinh vật thịt này không thể di chuyển và hoạt động như cơ quan tiêu hóa, cung cấp dinh dưỡng cho các khối thịt xung quanh. Nhưng chúng không thể tiêu hóa vật liệu vô cơ, có nghĩa là đôi khi có thể tìm thấy một số vật phẩm quý giá bên trong.</FleshSack.description>
+	<NerveBundle.label>Bó thần kinh</NerveBundle.label>
+	<NerveBundle.description>Nút của hệ thống thần kinh thịt. Khi bị phá hủy, nó sẽ để lại một khối mô thần kinh để điều tra. Điều tra đủ nhiều mẫu mô thần kinh khác nhau sẽ giúp tìm ra cách tiêu diệt tim thịt.</NerveBundle.description>
+	<NerveBundle.comps.CompInspectString.inspectString>Giết để thu thập: Mô thần kinh</NerveBundle.comps.CompInspectString.inspectString>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedThroneAssigned>Cần có phòng tiếp kiến</NeedThroneAssigned>
+<NeedThroneAssignedDesc>Một nhân vật nắm giữ "danh hiệu danh dự" của bạn cần một phòng tiếp kiến, nhưng hiện tại không có phòng nào được chỉ định.\n\nHãy đảm bảo rằng người giữ danh hiệu có một ngai vàng được chỉ định trong một phòng tiếp kiến.\n\nKích thước và trang trí của phòng tiếp kiến phải phù hợp với yêu cầu cụ thể của danh hiệu.\n\nNhiều ngai vàng không thể đặt trong cùng một phòng tiếp kiến.</NeedThroneAssignedDesc>
+<UndignifiedBedroom>Phòng Ngủ Không Đủ Đúng Mực</UndignifiedBedroom>
+<UndignifiedBedroomDesc>Có một người trong nhân vật của bạn nắm giữ "danh hiệu danh dự", cần một phòng ngủ với các chức năng cụ thể. Hiện tại không có phòng ngủ nào được chỉ định, hoặc phòng ngủ được chỉ định không đáp ứng yêu cầu.</UndignifiedBedroomDesc>
+<NeedBedroomAssigned>Phòng Ngủ Theo Yêu Cầu Danh Hiệu</NeedBedroomAssigned>
+<NeedBedroomAssignedDesc>Một nhân vật nắm giữ "danh hiệu danh dự" của bạn cần một phòng ngủ riêng tư, nhưng chưa được chỉ định phòng nào.\n\nHãy chỉ định cho họ một phòng ngủ riêng. Kích thước và trang trí của phòng ngủ phải phù hợp để đáp ứng các yêu cầu cụ thể của danh hiệu.</NeedBedroomAssignedDesc>
+<UndignifiedThroneroom>Phòng Tiếp Kiến Không Đúng Mực</UndignifiedThroneroom>
+<UndignifiedThroneroomDesc>Một nhân vật của bạn nắm giữ "danh hiệu danh dự" và ngai vàng, nhưng phòng tiếp kiến không đáp ứng yêu cầu của danh hiệu.</UndignifiedThroneroomDesc>
+<RoyalNoAcceptableFood>Không Có Thức Ăn Chấp Nhận</RoyalNoAcceptableFood>
+<RoyalNoAcceptableFoodDesc>Có một người trong nhân vật của bạn nắm giữ "danh hiệu danh dự", cần yêu cầu thức ăn cụ thể. Nhưng hiện tại không có thức ăn nào đáp ứng yêu cầu.</RoyalNoAcceptableFoodDesc>
+<RoomRequirementGracePeriodDesc>Thời gian bắt đầu yêu cầu {0} ngày</RoomRequirementGracePeriodDesc>
+<ThroneroomInvalidConfiguration>Ngai Vàng Không Thể Sử Dụng</ThroneroomInvalidConfiguration>
+<ThroneroomInvalidConfigurationDesc>Ngai vàng không thể sử dụng do cách thiết lập của nó:</ThroneroomInvalidConfigurationDesc>
+<MonumentMarkerMissingBlueprints>Thiếu Bản Vẽ Tượng Đài</MonumentMarkerMissingBlueprints>
+<MonumentMarkerMissingBlueprintsDesc>Do chưa đặt đủ bản vẽ cho tượng đài, nó sẽ không thể hoàn thành.\n\nBạn cần chọn dấu hiệu tượng đài và nhấp vào "Đặt Bản Vẽ", hoặc đặt thủ công bản vẽ công trình tương ứng.</MonumentMarkerMissingBlueprintsDesc>
+<ShipLandingBeaconUnusable>Đèn Hải Đăng Không Sử Dụng Được</ShipLandingBeaconUnusable>
+<ShipLandingBeaconUnusableDesc>Một đèn hải đăng cho tàu vũ trụ đang bật nhưng không sử dụng được. Để sử dụng khu vực hạ cánh tàu vũ trụ bình thường, bốn đèn hải đăng phải được đặt ở các góc của khu vực tối thiểu 9x9, và toàn bộ khu vực phải không có bất kỳ trở ngại nào, bao gồm cả công trình, con người, động vật, v.v.</ShipLandingBeaconUnusableDesc>
+<NeedMeditationSpotAlert>Cần Điểm Thiền</NeedMeditationSpotAlert>
+<NeedMeditationSpotAlertDesc>Các thuộc địa này có nhu cầu về sức mạnh tinh thần hoặc được giao nhiệm vụ thiền, nhưng không có điểm thiền nào có sẵn cho họ.\n\n{0}\n\nHãy đặt một "Điểm Thiền" và đảm bảo nó có sẵn. Các thuộc địa thích một điểm thiền gần đó có vật tập trung tốt nhất mà họ có thể sử dụng.</NeedMeditationSpotAlertDesc>
+<UnusableMeditationFocusAlert>Loại Tâm Linh Không Sử Dụng Được</UnusableMeditationFocusAlert>
+<UnusableMeditationFocusAlertDesc>Các thuộc địa này đang thiền gần những đối tượng mà họ không thể sử dụng.\n\n{0}\n\nMọi người có thể thiền gần các đối tượng khác nhau, tùy thuộc vào tâm linh của họ. Tâm linh của người thiền phụ thuộc vào câu chuyện nền, đặc điểm và danh hiệu của họ. Để xem tâm linh của một người, bạn có thể chọn họ và nhấp vào nút "i" để mở cửa sổ thông tin chi tiết của họ.</UnusableMeditationFocusAlertDesc>
+<PermitChoiceReadyAlert>Chọn Giấy Phép Đã Sẵn Sàng</PermitChoiceReadyAlert>
+<PermitChoiceReadyAlertDesc>{PAWN_nameDef} có thể chọn một giấy phép mới.</PermitChoiceReadyAlertDesc>
+<BestowerWaitingAlert>Người Trao Giải Đang Chờ</BestowerWaitingAlert>
+<BestowerWaitingAlertDesc>Một người trao giải đang chờ để tiến hành nghi lễ trao giải.</BestowerWaitingAlertDesc>
+<AnimaLinkingReadyLabel>Nghi Lễ Cộng Hưởng Cây Thần Đã Sẵn Sàng</AnimaLinkingReadyLabel>
+<AnimaLinkingReadyDesc>Có đủ linh thảo gần một cây thần để thực hiện nghi lễ cộng hưởng cho các thuộc địa này và nâng cao cấp độ khơi dậy.</AnimaLinkingReadyDesc>
+<AnimaLinkingReadyDescExtra>Để bắt đầu nghi lễ, chọn một thuộc địa, nhấp vào nút "Bắt Đầu Cộng Hưởng Cây Thần", chọn cây thần mà bạn muốn sử dụng.</AnimaLinkingReadyDescExtra>
+</LanguageData>

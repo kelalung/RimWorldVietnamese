@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CharityFulfilled_Beggars.label>Giúp đỡ người ăn xin</CharityFulfilled_Beggars.label>
+<CharityFulfilled_HospitalityRefugees.label>Giúp đỡ người tị nạn</CharityFulfilled_HospitalityRefugees.label>
+<CharityFulfilled_IntroWimp.label>Cứu giúp quý tộc</CharityFulfilled_IntroWimp.label>
+<CharityFulfilled_RefugeePodCrash.label>Cứu giúp người tị nạn</CharityFulfilled_RefugeePodCrash.label>
+<CharityFulfilled_ShuttleCrashRescue.label>Cứu giúp người sống sót</CharityFulfilled_ShuttleCrashRescue.label>
+<CharityFulfilled_ThreatReward_Joiner.label>Chấp nhận lời mời gia nhập tuyệt vọng</CharityFulfilled_ThreatReward_Joiner.label>
+<CharityFulfilled_WandererJoins.label>Giúp đỡ người lang thang</CharityFulfilled_WandererJoins.label>
+<CharityRefused_Beggars.label>Từ chối người ăn xin</CharityRefused_Beggars.label>
+<CharityRefused_Beggars_Betrayed.label>Phản bội người ăn xin</CharityRefused_Beggars_Betrayed.label>
+<CharityRefused_HospitalityRefugees.label>Từ chối người tị nạn</CharityRefused_HospitalityRefugees.label>
+<CharityRefused_IntroWimp.label>Từ chối kẻ nhát gan</CharityRefused_IntroWimp.label>
+<CharityRefused_Pilgrims.label>Từ chối người hành hương</CharityRefused_Pilgrims.label>
+<CharityRefused_Pilgrims_Betrayed.label>Phản bội người hành hương</CharityRefused_Pilgrims_Betrayed.label>
+<CharityRefused_RefugeePodCrash.label>Từ chối người tị nạn</CharityRefused_RefugeePodCrash.label>
+<CharityRefused_ShuttleCrashRescue.label>Từ chối người sống sót</CharityRefused_ShuttleCrashRescue.label>
+<CharityRefused_WandererJoins.label>Từ chối người lang thang</CharityRefused_WandererJoins.label>
+</LanguageData>

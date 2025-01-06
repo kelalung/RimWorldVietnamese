@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Combat_DeflectIncludes.rulePack.rulesStrings>
+		<li>scraped_present->Cọ xát</li>
+		<li>scraped_present->Kẻ</li>
+		<li>scraped_present->Cọ xát</li>
+		<li>scraped_present->Cọ xát</li>
+		<li>scraped_present->Dán vào</li>
+		<li>scraped_present->Trượt</li>
+		<li>scraped_past->Đã cọ qua</li>
+		<li>scraped_past->Đã kẻ qua</li>
+		<li>scraped_past->Đã cọ qua</li>
+		<li>scraped_past->Đã cọ qua</li>
+		<li>scraped_past->Đã cọ qua</li>
+		<li>scraped_past->Đã trượt qua</li>
+	</Combat_DeflectIncludes.rulePack.rulesStrings>
+	<Combat_FailIncludes.rulePack.rulesStrings>
+		<li>action->[INITIATOR_definite][tried][damaged_inf][RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite][tried] dùng [implement][damaged_inf][RECIPIENT_definite]</li>
+		<li>action->[INITIATOR_definite][tried] dùng [implement] cho [RECIPIENT_definite] một cú [damaged_inf]</li>
+		<li>action->[INITIATOR_definite] vung [INITIATOR_possessive][WEAPON_label] trước mặt  [RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement][towardsat][RECIPIENT_definite][verb_genericattack]</li>
+		<li>action(p=0.3)->[INITIATOR_definite][towardsat][RECIPIENT_definite][verb_genericattack] </li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement][verb_genericattack]</li>
+		<li>towardsat->Hướng tới</li>
+		<li>towardsat->Đối với</li>
+		<li>verb_genericattack->Đánh loạn</li>
+		<li>verb_genericattack->Vung</li>
+		<li>verb_genericattack->Phát động cuộc tấn công như bão tố</li>
+		<li>tried->Đã thử</li>
+		<li>tried->Cố gắng</li>
+	</Combat_FailIncludes.rulePack.rulesStrings>
+	<Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+		<li>result(p=0.5)->[damaged_present][RECIPIENT_possessive][targetlist]</li>
+		<li>result(p=0.2)->[damaged_present][RECIPIENT_possessive][targetlist], cùng với [flavortext_consequence]</li>
+		<li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+		<li>strikeAdv->Tàn nhẫn</li>
+		<li>strikeAdv->Đáng sợ</li>
+		<li>strikeAdv->Man rợ</li>
+		<li>strikeAdv->Vô tình</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->Để lại một vết thương gây buồn nôn</li>
+		<li>flavortext_consequence->Để lại một vết thương đáng sợ</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->[painevent] làm [RECIPIENT_objective][wince]</li>
+		<li>flavortext_consequence(p=0.2)->Làm [RECIPIENT_objective] mất thăng bằng</li>
+	</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+	<Combat_MeleeIncludes.rulePack.rulesStrings>
+		<li>r_logentry->[action],[result].</li>
+		<li>r_logentry(priority=-10)->[action].</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive][WEAPON_label] [TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive][WEAPON_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label] [TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive][TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive][WEAPON_label] [TOOL_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive][WEAPON_label]</li>
+		<li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive][TOOL_label]</li>
+		<li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+		<li>targetlist(recipient_part_count==2)->[recipient_part0_label] và [recipient_part1_label]</li>
+		<li>targetlist(recipient_part_count==3)->[recipient_part0_label],[recipient_part1_label] và [recipient_part2_label]</li>
+		<li>targetlist->[recipient_part0_label],[recipient_part1_label],[recipient_part2_label], cùng [recipient_part3_label]</li>
+		<li>damaged_present(deflected!=True)->Tổn thương</li>
+		<li>damaged_present(deflected!=True)->Bị thương</li>
+		<li>destroyed(p=0.5)->Đã phá hủy</li>
+		<li>destroyed(p=0.5)->Đã tiêu diệt</li>
+		<li>destroyed(p=0.5)->Đã hủy hoại</li>
+		<li>destroyed(p=0.5)->Đã đánh nát</li>
+		<li>wince(recipient_flesh==Normal)->Nhăn mặt</li>
+		<li>wince(recipient_flesh==Normal)->Khuôn mặt trở nên méo mó</li>
+		<li>wince(recipient_flesh==Normal)->Rút lui</li>
+		<li>wince(recipient_flesh==Normal)->Liên tục rên rỉ</li>
+		<li>wince(recipient_flesh!=Mechanoid)->Phát ra tiếng kêu thét</li>
+		<li>wince(recipient_flesh!=Mechanoid)->Phát ra tiếng ồn</li>
+		<li>wince->Rút lui</li>
+		<li>wince->Ngã xuống</li>
+		<li>painstate->Cảm thấy</li>
+		<li>painstate->Cảm nhận</li>
+		<li>painstate-></li>
+		<li>painevent(recipient_flesh!=Mechanoid)->[painstate] đau đớn</li>
+		<li>painevent(recipient_flesh!=Mechanoid)->[painstate] đau đớn không chịu nổi</li>
+		<li>painevent(recipient_flesh==Normal)->Đau đớn</li>
+		<li>painevent->Vùng bị thương</li>
+		<li>painevent->Vết thương</li>
+		<li>to->Đến</li>
+		<li>to->Tới</li>
+	</Combat_MeleeIncludes.rulePack.rulesStrings>
+	<Combat_SkillIncludes.rulePack.rulesStrings>
+		<li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
+		<li>skillDescMelee->[using] [implement] [skillAdv]</li>
+		<li>wielding(p=4)->Cầm</li>
+		<li>wielding(p=3)->Dùng</li>
+		<li>wielding(p=2)->Nắm</li>
+		<li>wielding->Vung vẩy</li>
+		<li>wielding->Điều khiển</li>
+		<li>using(p=4)->Sử dụng</li>
+		<li>using->Vung vẩy</li>
+		<li>using->Cầm</li>
+		<li>using->Sử dụng</li>
+		<li>using->Vung động</li>
+		<li>skillAdv(INITIATOR_skill&lt;=3)->Không thành thạo</li>
+		<li>skillAdv(INITIATOR_skill&lt;=3)->Yếu ớt</li>
+		<li>skillAdv(INITIATOR_skill&lt;=3)->Lộn xộn</li>
+		<li>skillAdv(INITIATOR_skill&lt;=3)->Tuỳ tiện</li>
+		<li>skillAdv(INITIATOR_skill&lt;=3)->Lảo đảo</li>
+		<li>skillAdv(INITIATOR_skill&lt;=4)->Ngượng ngùng</li>
+		<li>skillAdv(INITIATOR_skill&lt;=4)->Vụng về</li>
+		<li>skillAdv(INITIATOR_skill&lt;=5)->Khoe khoang</li>
+		<li>skillAdv(INITIATOR_skill&lt;=5)->Rung rẩy</li>
+		<li>skillAdv(INITIATOR_skill&lt;=5)->Ngốc nghếch</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Do dự</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Miễn cưỡng</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Chậm chạp</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Do dự</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Không thành thạo</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Nghiệp dư</li>
+		<li>skillAdv(INITIATOR_skill&lt;=6)->Nhút nhát</li>
+		<li>skillAdv(INITIATOR_skill&lt;=8)->Hào hứng</li>
+		<li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->Thuận tay</li>
+		<li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->Thành thạo</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Chuyên nghiệp</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Khéo léo</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Phù hợp</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Thông minh</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Nhạy bén</li>
+		<li>skillAdv(INITIATOR_skill>=8)->Thành thạo</li>
+		<li>skillAdv(INITIATOR_skill>=10)->Lão luyện</li>
+		<li>skillAdv(INITIATOR_skill>=10)->Nhanh nhẹn</li>
+		<li>skillAdv(INITIATOR_skill>=12)->Như bậc thầy</li>
+		<li>skillAdv(INITIATOR_skill>=12)->Chính xác</li>
+		<li>skillAdv(INITIATOR_skill>=14)->Không tốn sức</li>
+		<li>skillAdv(INITIATOR_skill>=16)->Như một điệu múa</li>
+		<li>skillAdv(INITIATOR_skill>=16)->Thanh lịch</li>
+		<li>skillAdv(initiator_flesh==Mechanoid)->Cơ khí</li>
+		<li>skillAdv(initiator_flesh==Mechanoid)->Cơ khí</li>
+		<li>skillAdv(initiator_flesh==Mechanoid)->Trực tiếp</li>
+	</Combat_SkillIncludes.rulePack.rulesStrings>
+	<Combat_WoundIncludes.rulePack.rulesStrings>
+		<li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+		<li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] và [recipient_part_destroyed1_label]</li>
+		<li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], và [recipient_part_destroyed2_label]</li>
+		<li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], và [recipient_part_destroyed3_label]</li>
+		<li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+		<li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] và [recipient_part_damaged1_label]</li>
+		<li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], và [recipient_part_damaged2_label]</li>
+		<li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], và [recipient_part_damaged3_label]</li>
+	</Combat_WoundIncludes.rulePack.rulesStrings>
+</LanguageData>

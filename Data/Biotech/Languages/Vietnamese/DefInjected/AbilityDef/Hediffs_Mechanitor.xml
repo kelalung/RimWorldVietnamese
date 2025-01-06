@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RemoteRepair.label>Sửa chữa từ xa</RemoteRepair.label>
+<RemoteRepair.description>Sửa chữa máy móc từ xa. Kỹ sư có thể thiết lập liên kết tâm linh trực tiếp với máy móc, cung cấp hướng dẫn tâm linh cho nano máy tự sửa chữa bên trong, giúp máy móc sửa chữa thương tích nhanh chóng.</RemoteRepair.description>
+<RemoteShield.label>Shield từ xa</RemoteShield.label>
+<RemoteShield.description>Phát ra shield từ xa cho máy móc. Shield có thể chặn các vật thể hoặc mảnh vỡ tấn công, nhưng cũng không thể bắn từ trong ra ngoài, vì vậy đôi khi việc phát ra trên máy móc đối thủ có thể tạo ra hiệu ứng bất ngờ. Để duy trì shield, kỹ sư phải liên tục tập trung vào máy móc mục tiêu.</RemoteShield.description>
+</LanguageData>

@@ -1,0 +1,926 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HitPointsBasic>Độ bền</HitPointsBasic>
+	<WorkLeft>Công việc còn lại</WorkLeft>
+	<Contents>Nội dung</Contents>
+	<ContainedResources>Tài nguyên chứa đựng</ContainedResources>
+	<ForPrisonerUse>Giới hạn sử dụng cho tù nhân</ForPrisonerUse>
+	<InPrisonCell>Trong phòng giam: Giới hạn sử dụng cho tù nhân</InPrisonCell>
+	<ForColonistUse>Giới hạn sử dụng cho người định cư</ForColonistUse>
+	<MedicalBed>Giường bệnh</MedicalBed>
+	<Owner>Chủ sở hữu</Owner>
+	<Owners>Chủ sở hữu</Owners>
+	<AssignedColonist>Người định cư được chỉ định</AssignedColonist>
+	<BedUncomfortableTemperature>Nhiệt độ phòng không thoải mái</BedUncomfortableTemperature>
+	<BedUnsafeTemperature>Nhiệt độ phòng không an toàn</BedUnsafeTemperature>
+	<DiedOn>Chết vì {0}</DiedOn>
+	<Nobody>Không ai</Nobody>
+	<Unowned>Không có chủ</Unowned>
+	<DeadTime>Đã chết {0}</DeadTime>
+	<WalkSpeed>Tốc độ đi bộ {0}</WalkSpeed>
+	<FertShort>Độ màu mỡ</FertShort>
+	<DyingLower>Hấp hối</DyingLower>
+	<FilthOnFeet>Bị bẩn ở chân: </FilthOnFeet>
+	<NotEnoughStoredLower>Kho không đủ</NotEnoughStoredLower>
+	<NothingLower>Không có gì</NothingLower>
+	<Nothing>Không có gì</Nothing>
+	<Adapted>Đã thích nghi</Adapted>
+	<FreshMissingBodyPart>Tươi mới</FreshMissingBodyPart>
+	<DevelopedImmunityLower>Đã phát sinh miễn dịch</DevelopedImmunityLower>
+	<NeedsTendingNow>Cần chăm sóc ngay bây giờ</NeedsTendingNow>
+	<CanTendNow>Có thể chăm sóc ngay bây giờ</CanTendNow>
+	<TreatmentExpiresIn>Điều trị sẽ hết hạn trong {0}</TreatmentExpiresIn>
+	<NextTendIn>Có thể chăm sóc sau {0}</NextTendIn>
+	<TendQuality>Chất lượng chăm sóc</TendQuality>
+	<DisappearsAtTotalTendQuality>Tổng chất lượng chăm sóc</DisappearsAtTotalTendQuality>
+	<MissingMedicalBillIngredient>Thiếu {0}</MissingMedicalBillIngredient>
+	<Immunity>Miễn dịch</Immunity>
+	<DaysToRecover>{0} ngày để hồi phục</DaysToRecover>
+	<Ineffective>Không hiệu quả</Ineffective>
+	<Illegal>Phi pháp</Illegal>
+	<DetectionChance>Cơ hội phát hiện</DetectionChance>
+	<Race>Giống loài</Race>
+	<Description>Mô tả</Description>
+	<Equipment>Trang bị</Equipment>
+	<Apparel>Trang phục</Apparel>
+	<Inventory>Hàng hóa</Inventory>
+	<ThingInfo>Thông tin</ThingInfo>
+	<DropThing>Bỏ xuống</DropThing>
+	<DropThingLodger>Thành viên phe tạm thời sẽ không thả đồ của họ.</DropThingLodger>
+	<DropThingLocked>Người này từ chối thả.</DropThingLocked>
+	<Rename>Đặt lại tên</Rename>
+	<RenameAnimal>Đặt lại tên cho động vật</RenameAnimal>
+	<RenameColonist>Thay đổi biệt danh của người định cư</RenameColonist>
+	<RenounceTitle>Từ bỏ danh hiệu</RenounceTitle>
+	<Execute>Thi hành án</Execute>
+	<ExecuteColonist>Thi hành án đối với người định cư có tội\n\nNếu bạn bật công tắc này, quản giáo sẽ bắt đầu thi hành án đối với người này.</ExecuteColonist>
+	<MessageColonistMarkedForExecution>{0_labelShort} đã bị đánh dấu để thi hành án. Quản giáo rảnh rỗi tiếp theo sẽ đi thi hành án đối với {0_objective}.</MessageColonistMarkedForExecution>
+	<TitleOfFaction>{1} của {0}</TitleOfFaction>
+	<RenounceTitleDescription>Hành động này sẽ khiến {PAWN_nameDef} mất danh hiệu {PAWN_possessive}{TITLE}. Từ bỏ danh hiệu này sẽ không mang lại bất kỳ bồi thường nào cho bạn!\n\nĐiều này sẽ gây ra các hiệu ứng sau:\n\n{EFFECTS}</RenounceTitleDescription>
+	<RenounceTitleWillLoosePermits>{PAWN_pronoun} sẽ mất những quyền này</RenounceTitleWillLoosePermits>
+	<RenounceTitleWillLosePermitPoints>{PAWN_nameDef} sẽ mất {POINTS} điểm giấy phép chưa sử dụng trong {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+	<RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} sẽ giữ lại tất cả các cấp độ psylink và khả năng tâm linh của {PAWN_possessive}.</RenounceTitleWillKeepPsylinkLevels>
+	<UnknownLower>Không xác định</UnknownLower>
+	<On>Bật</On>
+	<Off>Tắt</Off>
+	<SourceToolLabel>{0} {1}</SourceToolLabel>
+	<PowerSwitch_Power>Nguồn điện</PowerSwitch_Power>
+	<JoyTolerances>Loại giải trí chán ghét</JoyTolerances>
+	<MilkFullness>Tiến độ sản phẩm</MilkFullness>
+	<WoolGrowth>Tiến độ mọc lông</WoolGrowth>
+	<EggProgress>Tiến độ đẻ trứng/ấp trứng</EggProgress>
+	<Fertilized>Đã thụ tinh</Fertilized>
+	<ProgressStoppedUntilFertilized>Ngừng đẻ trứng (cần thụ tinh)</ProgressStoppedUntilFertilized>
+	<HatchesIn>Ấp trong</HatchesIn>
+	<SkillTooLow>Cần ít nhất {2} cấp {0} kỹ năng, hiện tại là {1} cấp</SkillTooLow>
+	<Freezing>Quá lạnh</Freezing>
+	<Overheating>Quá nóng</Overheating>
+	<RuinedByTemperature>Bị hư hỏng do nhiệt độ cực đoan.</RuinedByTemperature>
+	<CorpsePercentMissing>Thiếu bộ phận cơ thể</CorpsePercentMissing>
+	<HiveReproducesIn>Thời gian sinh sản của tổ</HiveReproducesIn>
+	<DormantHiveNotReproducing>Ngủ đông: Ngừng sinh sản.</DormantHiveNotReproducing>
+	<NextSpawnedItemIn>Đồ vật tiếp theo {0}</NextSpawnedItemIn>
+	<NextSpawnedResourceIn>Tài nguyên tiếp theo</NextSpawnedResourceIn>
+	<BrokenDown>Bị hỏng</BrokenDown>
+	<BondBrackets>（Liên kết）</BondBrackets>
+	<Fuel>Nhiên liệu</Fuel>
+	<FuelLevelGizmoLabel>Nhiên liệu</FuelLevelGizmoLabel>
+	<SetTargetFuelLevel>Đặt mức nhiên liệu mục tiêu thành {0}</SetTargetFuelLevel>
+	<SetPodLauncherTargetFuelLevel>Đặt mức nhiên liệu mục tiêu thành {0}\nTầm bắn tối đa: {1} ô</SetPodLauncherTargetFuelLevel>
+	<ConfiguredTargetFuelLevel>Mức nhiên liệu mục tiêu: {0}</ConfiguredTargetFuelLevel>
+	<Enemies>Kẻ thù</Enemies>
+	<People>Con người</People>
+	<TimePassed>Thời gian đã trôi qua</TimePassed>
+	<CurrentRadius>Bán kính hiện tại</CurrentRadius>
+	<RadiusExpandsIn>Mở rộng bán kính đến</RadiusExpandsIn>
+	<Permanent>Vĩnh viễn</Permanent>
+	<CaravanResting>Đang nghỉ ngơi.</CaravanResting>
+	<UsingBedroll>Sử dụng một túi ngủ</UsingBedroll>
+	<UsingBedrolls>Sử dụng {0} túi ngủ</UsingBedrolls>
+	<CaravanEstimatedTimeToDestination>Thời gian ước tính đến đích: {0}</CaravanEstimatedTimeToDestination>
+	<CaravanEstimatedDaysToDestination>Thời gian hành trình: {0}</CaravanEstimatedDaysToDestination>
+	<CaravanImmobilizedByMass>Không thể di chuyển: Hàng hóa quá nặng</CaravanImmobilizedByMass>
+	<CaravanOutOfFood>Đã hết lương thực.</CaravanOutOfFood>
+	<CaravanDaysOfFood>Số ngày lương thực: {0}</CaravanDaysOfFood>
+	<CaravanDaysOfFoodRot>Số ngày lương thực: {0}（Sẽ hỏng sau {1} ngày）</CaravanDaysOfFoodRot>
+	<AllCaravanMembersDowned>Nguyên nhân dừng lại: Tất cả đều không thể hành động.</AllCaravanMembersDowned>
+	<AllCaravanMembersMentalBreak>Nguyên nhân dừng lại: Tất cả đều bị suy nhược tinh thần.</AllCaravanMembersMentalBreak>
+	<CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+	<CaravanAnimal>1 động vật</CaravanAnimal>
+	<CaravanAnimalsCount>{0} động vật</CaravanAnimalsCount>
+	<CaravanPrisoner>1 tù nhân</CaravanPrisoner>
+	<CaravanPrisonersCount>{0} tù nhân</CaravanPrisonersCount>
+	<CaravanPawnsInMentalState>{0} đã suy nhược tinh thần</CaravanPawnsInMentalState>
+	<CaravanPawnsDowned>{0} đã ngã</CaravanPawnsDowned>
+	<CaravanTraveling>Đang di chuyển.</CaravanTraveling>
+	<CaravanWaiting>Đang chờ đợi.</CaravanWaiting>
+	<BeingCarriedDueToIllness>Bị mang đi do ốm đau</BeingCarriedDueToIllness>
+	<UsingBedrollsDueToIllness>Sử dụng túi ngủ do ốm đau</UsingBedrollsDueToIllness>
+	<CurrentTileMovementTime>Thời gian di chuyển ô hiện tại</CurrentTileMovementTime>
+	<Visibility>Độ hiển thị</Visibility>
+	<Temperature>Nhiệt độ</Temperature>
+	<BadTemperature>Nhiệt độ không phù hợp</BadTemperature>
+	<IdealFermentingTemperature>Nhiệt độ lên men lý tưởng</IdealFermentingTemperature>
+	<DrugEffectMultiplier>{0} hệ số hiệu ứng: {1}</DrugEffectMultiplier>
+	<CaravanVisiting>Đang thăm {0}.</CaravanVisiting>
+	<CaravanEntering>Đang vào {0}.</CaravanEntering>
+	<CaravanAttacking>Đang tấn công {0}.</CaravanAttacking>
+	<CaravanOfferingGifts>Đang tặng quà cho {0}.</CaravanOfferingGifts>
+	<CaravanTrading>Đang giao dịch với {0}.</CaravanTrading>
+	<WasWornByCorpse>Quần áo của người chết</WasWornByCorpse>
+	<WornByCorpseChar>Chết</WornByCorpseChar>
+	<DeterioratingUnroofed>Không có mái che</DeterioratingUnroofed>
+	<DeterioratingOutdoors>Ở ngoài trời</DeterioratingOutdoors>
+	<DeterioratingRaining>Trong mưa</DeterioratingRaining>
+	<Protected>Được bảo vệ</Protected>
+	<DeterioratingBecauseOf>Đang lão hóa</DeterioratingBecauseOf>
+	<DeteriorateInDuration>Đang lão hóa trong {0}.</DeteriorateInDuration>
+	<Map>Bản đồ</Map>
+	<CaravanDetectedRaidCountdown>{0} cho đến khi kẻ thù đến</CaravanDetectedRaidCountdown>
+	<CaravanDetectedRaidCountdownTip>Các lực lượng tăng cường của kẻ thù sẽ đến khu vực này sau {0}.</CaravanDetectedRaidCountdownTip>
+	<Room>Phòng</Room>
+	<BeautyHere>Độ đẹp tại đây</BeautyHere>
+	<NoPower>Không có điện</NoPower>
+	<WorkSpeedPenalty>Hình phạt tốc độ làm việc</WorkSpeedPenalty>
+	<DisabledCommand>Bị vô hiệu hóa</DisabledCommand>
+	<ReadyForLaunch>Sẵn sàng phóng</ReadyForLaunch>
+	<NotReadyForLaunch>Không sẵn sàng phóng</NotReadyForLaunch>
+	<NotAllInGroupConnectedToFuelingPort>Thiếu cổng cung cấp nhiên liệu</NotAllInGroupConnectedToFuelingPort>
+	<NotAllFuelingPortSourcesInGroupHaveAnyFuel>Thiếu nhiên liệu</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+	<TransportPodInGroupHasSomethingLeftToLoad>Chưa hoàn thành việc tải hàng</TransportPodInGroupHasSomethingLeftToLoad>
+	<TransportPodDestinationBeyondMaximumRange>Điểm đến vượt quá tầm bắn</TransportPodDestinationBeyondMaximumRange>
+	<TransportPodNotEnoughFuel>Thiếu nhiên liệu</TransportPodNotEnoughFuel>
+	<SettlementTrader>{1} của {0}</SettlementTrader>
+	<RoomSurgerySuccessChanceFactor>Hệ số tỷ lệ thành công phẫu thuật trong phòng</RoomSurgerySuccessChanceFactor>
+	<RoomInfectionChanceFactor>Hệ số tỷ lệ nhiễm trùng trong phòng</RoomInfectionChanceFactor>
+	<VentClosed>Đã đóng</VentClosed>
+	<WornBy>Được {1_labelShort} mặc</WornBy>
+	<EquippedBy>Được {1_labelShort} trang bị</EquippedBy>
+	<QuestTargetDestroyInspectString>{0} muốn phá hủy nơi này.\nThưởng: {1}({2}).</QuestTargetDestroyInspectString>
+	<QuestTargetDestroyInspectStringShort>{0} hy vọng phá hủy nơi này.</QuestTargetDestroyInspectStringShort>
+	<ShuttleDelayInspectString>Sẽ rời đi bằng tàu con thoi sau {0}.</ShuttleDelayInspectString>
+	<ShuttleLeaveDelayInspectString>Sẽ rời đi sau {0}.</ShuttleLeaveDelayInspectString>
+	<ShouldDepartOnShuttleInspectString>Sẽ rời đi bằng tàu con thoi.</ShouldDepartOnShuttleInspectString>
+	<WorldObjectTimeout>Thời gian còn lại: {0}</WorldObjectTimeout>
+	<ClickToSortByThisColumn>Nhấn để sắp xếp theo cột này.</ClickToSortByThisColumn>
+	<WorkPriorityShiftClickTip>Shift + nhấp chuột trái: Tăng ưu tiên\nShift + nhấp chuột phải: Giảm ưu tiên</WorkPriorityShiftClickTip>
+	<WorkPriorityShiftClickEnableDisableTip>Shift + nhấp chuột trái: Chọn tất cả\nShift + nhấp chuột phải: Bỏ chọn tất cả</WorkPriorityShiftClickEnableDisableTip>
+	<AllowedAreaShiftClickTip>Shift + nhấp chuột trái: Đặt tất cả thành khu vực cư trú\nShift + nhấp chuột phải: Đặt tất cả thành không giới hạn</AllowedAreaShiftClickTip>
+	<CheckboxShiftClickTip>Shift + nhấp chuột trái: Chọn tất cả\nShift + nhấp chuột phải: Bỏ chọn tất cả</CheckboxShiftClickTip>
+	<KnownSiteThreatEnemyCountAppend> {0} {1} </KnownSiteThreatEnemyCountAppend>
+	<SkillRequirements>Yêu cầu kỹ năng</SkillRequirements>
+	<Products>Sản phẩm</Products>
+	<Requires>Cần</Requires>
+	<NumAnyOf>{0}x bất kỳ</NumAnyOf>
+	<Relationship>{1} của {0}</Relationship>
+	<Prisoner>Tù nhân</Prisoner>
+	<Refugee>Người tị nạn</Refugee>
+	<TileMovementDifficulty>Độ khó di chuyển địa hình</TileMovementDifficulty>
+	<Impassable>Không thể đi qua</Impassable>
+	<CaravanMovementSpeedFull>Tốc độ di chuyển của đoàn lữ hành</CaravanMovementSpeedFull>
+	<DownedLower>Đã ngã</DownedLower>
+	<Carried>Đang nghỉ ngơi</Carried>
+	<RideableAnimalsPerPeople>Động vật có thể cưỡi/người</RideableAnimalsPerPeople>
+	<MultiplierFromRiddenAnimals>Hệ số từ động vật cưỡi</MultiplierFromRiddenAnimals>
+	<MultiplierForCarriedMass>Hệ số tải trọng: {0}</MultiplierForCarriedMass>
+	<RideableAnimalTip>Động vật này có thể cưỡi. Những người trong đoàn lữ hành sẽ cưỡi con vật nhanh nhất có sẵn, tăng tốc độ của toàn bộ đoàn lữ hành.</RideableAnimalTip>
+	<EncumberedCaravanTilesPerDayTip>Đoàn lữ hành này không thể di chuyển do quá tải.</EncumberedCaravanTilesPerDayTip>
+	<FinalCaravanPawnsMovementSpeed>Tốc độ của các thành viên trong đoàn lữ hành</FinalCaravanPawnsMovementSpeed>
+	<FinalCaravanMovementSpeed>Tốc độ cuối cùng</FinalCaravanMovementSpeed>
+	<Winter>Mùa đông</Winter>
+	<MovementDifficultyOffsetInWinter>{0} trong mùa đông</MovementDifficultyOffsetInWinter>
+	<RangeTo>Đến</RangeTo>
+	<CausedBy>Gây ra bởi</CausedBy>
+	<NoDietCategoryLetter>Không loại</NoDietCategoryLetter>
+	<ExpiresIn>Thời gian còn lại</ExpiresIn>
+	<CaravanLeaderCaravanName>Đoàn lữ hành của {1_labelShort}</CaravanLeaderCaravanName>
+	<Reason>Lý do</Reason>
+	<RelationsWith>Quan hệ với {0}</RelationsWith>
+	<capturedBy>Bị {0} bắt</capturedBy>
+	<yourCaravan>Đoàn lữ hành của bạn</yourCaravan>
+	<CreatureWildness>{0} hoang dã</CreatureWildness>
+	<CreatureTrainability>{0} khả năng huấn luyện</CreatureTrainability>
+	<CreatureFollowDrafted>Đi theo khi chủ được triệu tập</CreatureFollowDrafted>
+	<CreatureFollowFieldwork>Đi theo khi chủ làm việc ngoài trời</CreatureFollowFieldwork>
+	<ProximitySingleGoodwillChange>{0} với {1}</ProximitySingleGoodwillChange>
+	<EnterCooldown>Còn {0} ngày nữa mới có thể vào lại.</EnterCooldown>
+	<Caravan>Đoàn lữ hành</Caravan>
+	<HiddenOrNoSitePartDescription>Có thể có nguy hiểm ở đó.</HiddenOrNoSitePartDescription>
+	<PreciousLumpHostileThreat>Máy quét phát hiện hoạt động gần khu vực khai thác, có thể là kẻ thù.</PreciousLumpHostileThreat>
+	<PreciousLumpLabel>{0} khối</PreciousLumpLabel>
+	<NoActiveResearchProjectToFinish>Không có dự án nghiên cứu nào đang hoạt động</NoActiveResearchProjectToFinish>
+	<CurrentProject>Dự án hiện tại</CurrentProject>
+	<ResearchProgress>Tiến độ nghiên cứu</ResearchProgress>
+	<AlreadyHasHediff>Đã có {0}</AlreadyHasHediff>
+	<Turret>Pháo đài</Turret>
+	<Turrets>Pháo đài</Turrets>
+	<Mortar>Pháo cối</Mortar>
+	<Mortars>Pháo cối</Mortars>
+	<Enemy>Kẻ thù</Enemy>
+	<Location>Vị trí</Location>
+	<AnimalsLower>Động vật</AnimalsLower>
+	<ItemsLower>Đồ vật</ItemsLower>
+	<FilthLabel>{0}x{1}</FilthLabel>
+	<FilthLabelWithSource>{1} của {0} x{2}</FilthLabelWithSource>
+	<Required>Cần thiết</Required>
+	<GiveGiftViaTransportPodsTradeRequestWarning>Cảnh báo: Bạn không thể hoàn thành yêu cầu giao dịch bằng cách sử dụng tàu vận chuyển.\nNếu phóng hàng hóa này, điểm định cư mục tiêu sẽ nhận nó như một món quà thay vì hàng hóa giao dịch.\n\nNếu bạn muốn giao dịch, hãy đến điểm định cư mục tiêu dưới dạng đoàn lữ hành!\n\nBạn có chắc chắn muốn gửi món quà đã được chuẩn bị cho phe mục tiêu không?</GiveGiftViaTransportPodsTradeRequestWarning>
+	<PrisonerLower>Tù nhân</PrisonerLower>
+	<PrisonersLower>Tù nhân</PrisonersLower>
+	<ClickToViewInQuestsTab>Nhấp để xem nhiệm vụ này trong tab "Nhiệm vụ"</ClickToViewInQuestsTab>
+	<Mood>Tâm trạng</Mood>
+	<Quest>Nhiệm vụ</Quest>
+	<BringsRaidsEvery>Mỗi {0} tạo ra một cuộc tấn công</BringsRaidsEvery>
+	<GeneratesResourcesEvery>Mỗi {1} tạo ra {0}</GeneratesResourcesEvery>
+	<FoliageKillRadius>Bán kính tiêu diệt thực vật</FoliageKillRadius>
+	<ViewHyperlink>Siêu liên kết: {0}</ViewHyperlink>
+	<DetonationCountdown>Phát nổ trong {0} ngày</DetonationCountdown>
+	<ExplosionOnDamageWarning>Có thể phát nổ lớn sau khi bị hư hại.</ExplosionOnDamageWarning>
+	<MechCluster>Cụm máy móc</MechCluster>
+	<SpawningNextPawnIn>Đang tạo {0}</SpawningNextPawnIn>
+	<MechAssemblyCompleteIn>{0} sẽ hoàn thành lắp ráp sau {1}.</MechAssemblyCompleteIn>
+	<MechAssemblyNextType>Chuẩn bị lắp ráp</MechAssemblyNextType>
+	<ThingsProduced>Sản phẩm tạo ra</ThingsProduced>
+	<PlantsHarvested>Thực vật thu hoạch</PlantsHarvested>
+	<PawnsKilled>{0} bị giết</PawnsKilled>
+	<PawnsLent>Đã cho mượn {0}, sẽ trở lại sau {1}.</PawnsLent>
+	<DormantCompInactive>Ngủ đông</DormantCompInactive>
+	<DormantCompSealed>Đã niêm phong</DormantCompSealed>
+	<DormantCompBeacon>Chuẩn bị thả máy móc.</DormantCompBeacon>
+	<DormantCompExpired>Đã hết hạn</DormantCompExpired>
+	<InitiatesIn>Khởi tạo trong</InitiatesIn>
+	<SendSignalOnCountdownCompTime>{0} sau sẽ kích hoạt.</SendSignalOnCountdownCompTime>
+	<PsychicEntropy>Entropy tâm linh</PsychicEntropy>
+	<PsychicEntropyShort>Entropy tâm linh</PsychicEntropyShort>
+	<PsychicEntropyPainFocus>{0} gia tăng đau đớn</PsychicEntropyPainFocus>
+	<ConditionCauserRadius>Bán kính {0}</ConditionCauserRadius>
+	<LowPsyfocus>Thấp tâm linh</LowPsyfocus>
+	<DurationLeft>{0} còn lại</DurationLeft>
+	<AnyOf>Bất kỳ</AnyOf>
+	<TraitRequired>Cần đặc điểm {0}</TraitRequired>
+	<Goodwill>Thái độ tốt</Goodwill>
+	<NaturalGoodwill>Thái độ tự nhiên</NaturalGoodwill>
+	<NaturalGoodwillRange>Phạm vi thái độ tự nhiên</NaturalGoodwillRange>
+	<NaturalGoodwillDescription>Thái độ tự nhiên dựa trên danh tính và tín ngưỡng của phe. Nếu thái độ hiện tại khác xa thái độ tự nhiên, nó sẽ từ từ chuyển đổi về thái độ tự nhiên theo thời gian.\n\nTrong quá trình chuyển đổi về thái độ tự nhiên, tất cả các hiệu ứng thái độ sẽ được nhân với {0}.</NaturalGoodwillDescription>
+	<JobReport_ReduceResistance>Giảm sức kháng cự của {0_nameIndef}</JobReport_ReduceResistance>
+	<TooLargeForBed>Quá lớn</TooLargeForBed>
+	<Warning>Cảnh báo</Warning>
+	<HasSubquest>Có nhiệm vụ phụ</HasSubquest>
+	<SubquestOf>Nhiệm vụ phụ của</SubquestOf>
+	<Raid>Tấn công</Raid>
+	<ApparelRequirementDisabledLabel>Bị vô hiệu hóa</ApparelRequirementDisabledLabel>
+	<Nudism>Chủ nghĩa khỏa thân</Nudism>
+	<StudyProgress>Tiến độ nghiên cứu</StudyProgress>
+	<StudyCompleted>Hoàn thành</StudyCompleted>
+	<AttackToDestroy>Tấn công để phá hủy nó.</AttackToDestroy>
+	<RemoveByAttackingTooltip>Tấn công để phá hủy nó.</RemoveByAttackingTooltip>
+	<ThoughtFoodEatenFood>Thức ăn</ThoughtFoodEatenFood>
+	<ThoughtFoodEatenIngredients>Nguyên liệu</ThoughtFoodEatenIngredients>
+	<ShieldInbuilt>Đai chắn tích hợp</ShieldInbuilt>
+	<PuncturedWillExplode>Bị thủng — sẽ phát nổ sớm.</PuncturedWillExplode>
+	<ClickToOpenResearchTab>Nhấp để mở cửa sổ nghiên cứu</ClickToOpenResearchTab>
+	<TargetBelongsToNPCFaction>Mục tiêu thuộc về phe khác.</TargetBelongsToNPCFaction>
+	<MoreLower>Thêm</MoreLower>
+	<RequiredTechprintTip>Cần</RequiredTechprintTip>
+	<Size>Kích thước</Size>
+	<Cost>Chi phí</Cost>
+	<StunnedByEMP>Bị choáng bởi EMP</StunnedByEMP>
+	<BackstoryTitle>Danh hiệu</BackstoryTitle>
+	<Person>Người</Person>
+	<Activated>Đã kích hoạt.</Activated>
+	<Contains>Chứa</Contains>
+	<Hostiles>Kẻ thù</Hostiles>
+	<Investigate>Điều tra</Investigate>
+	<Activate>Kích hoạt</Activate>
+	<Activation>Kích hoạt</Activation>
+	<Complete>Hoàn thành</Complete>
+	<RequiresImprisonment>Phải bị giam giữ.</RequiresImprisonment>
+	<HaulFromSource>Ưu tiên vận chuyển nội dung</HaulFromSource>
+	<UseGizmo>Sử dụng</UseGizmo>
+	<UseGizmoTooltip>Ra lệnh cho ai đó sử dụng {0}.</UseGizmoTooltip>
+	<UseGizmoMouse>Chọn ai sẽ sử dụng nó</UseGizmoMouse>
+	<TargetGizmoMouse>Chọn mục tiêu</TargetGizmoMouse>
+	<CannotUseGizmoMouse>Không thể sử dụng</CannotUseGizmoMouse>
+	<Buildings>Các tòa nhà</Buildings>
+	<NotYetDiscovered>Chưa được phát hiện</NotYetDiscovered>
+	<ReportStringCrawlingToSafety>Đang bò về nơi an toàn.</ReportStringCrawlingToSafety>
+	<ReportStringCrawlingToBed>Đang bò về giường.</ReportStringCrawlingToBed>
+	<UserScanAbility>Tốc độ quét</UserScanAbility>
+	<ScanAverageInterval>Khoảng thời gian phát hiện</ScanAverageInterval>
+	<ScanningProgressToGuaranteedFind>Tiến độ quét để đảm bảo tìm thấy</ScanningProgressToGuaranteedFind>
+	<MeditatingAt>Thiền tại</MeditatingAt>
+	<ContainsWort>Chứa nước ngũ cốc: {0} / {1}</ContainsWort>
+	<ContainsBeer>Chứa bia: {0} / {1}</ContainsBeer>
+	<Fermented>Đã hoàn thành quá trình lên men</Fermented>
+	<FermentationProgress>Tiến độ: {0}（Còn lại {1}）.</FermentationProgress>
+	<FermentationBarrelOutOfIdealTemperature>Nhiệt độ không lý tưởng, tốc độ lên men: {0}</FermentationBarrelOutOfIdealTemperature>
+	<Headshot>Đạn trúng đầu</Headshot>
+	<TextMote_TreatSuccess>Điều trị thành công！\n{0} xác suất</TextMote_TreatSuccess>
+	<TextMote_TreatFailed>Điều trị thất bại\n{0} xác suất</TextMote_TreatFailed>
+	<TextMote_HarvestFailed>Thu hoạch\nthất bại</TextMote_HarvestFailed>
+	<TextMote_YieldWasted>Sản lượng\nlãng phí</TextMote_YieldWasted>
+	<TextMote_ProductWasted>Sản phẩm\nlãng phí</TextMote_ProductWasted>
+	<TextMote_RecruitFail>Tuyển dụng thất bại\n{0} xác suất</TextMote_RecruitFail>
+	<TextMote_ResistanceReduced>Sức kháng cự\n{0} đến {1}</TextMote_ResistanceReduced>
+	<TextMote_TameFail>Thuần hóa thất bại\n{0} xác suất</TextMote_TameFail>
+	<TextMote_TameSuccess>Thuần hóa thành công！</TextMote_TameSuccess>
+	<TextMote_TrainFail>Đào tạo thất bại: {0}\n{1} xác suất</TextMote_TrainFail>
+	<TextMote_TrainSuccess>Đào tạo thành công: {0}\n{1} xác suất</TextMote_TrainSuccess>
+	<TextMote_FixBrokenDownBuildingFail>Sửa chữa thất bại</TextMote_FixBrokenDownBuildingFail>
+	<TextMote_ConstructionFail>Xây dựng thất bại</TextMote_ConstructionFail>
+	<TextMote_Dodge>Tránh né</TextMote_Dodge>
+	<TextMote_Immune>Miễn dịch</TextMote_Immune>
+	<TextMote_Tended>{0} đã được điều trị</TextMote_Tended>
+	<TextMote_SkillUp>Cấp độ {0}</TextMote_SkillUp>
+	<lowMood>Tâm trạng thấp</lowMood>
+	<lowOpinion>Ý kiến thấp</lowOpinion>
+	<Home>Khu vực sinh sống</Home>
+	<BuildRoof>Khu vực có mái</BuildRoof>
+	<NoRoof>Khu vực ngoài trời</NoRoof>
+	<SnowClear>Khu vực dọn tuyết</SnowClear>
+	<AreaDefaultLabel>Khu vực hoạt động {0}</AreaDefaultLabel>
+	<NoAreaAllowed>Không hạn chế</NoAreaAllowed>
+	<NewArea>Tạo khu vực mới</NewArea>
+	<InvertArea>Đảo ngược lựa chọn</InvertArea>
+	<ExpandArea>Mở rộng</ExpandArea>
+	<ShrinkArea>Thu nhỏ</ShrinkArea>
+	<MaxAreasReached>Đã đạt tối đa {0} khu vực cho phép.</MaxAreasReached>
+	<PenUnenclosedLabel>Chưa được bao quanh</PenUnenclosedLabel>
+	<PenOpenDoorLabel>Cửa mở</PenOpenDoorLabel>
+	<RenameAnimalPen>Đổi tên chuồng thú</RenameAnimalPen>
+	<AnimalPenMarkerDefaultLabel>Chuồng thú {0}</AnimalPenMarkerDefaultLabel>
+	<InPen>Trong chuồng</InPen>
+	<Unpenned>Không trong chuồng</Unpenned>
+	<UnpennedTooltip>Có thể tạo chuồng bằng cách xây dựng một bảng chuồng trong một khu vực kín. Người chăn nuôi của bạn sẽ dẫn động vật đến chuồng thích hợp. Chuồng có thể được bao quanh bằng hàng rào, chướng ngại vật, tường và cửa.</UnpennedTooltip>
+	<RopedByPawn>Bị kéo bởi</RopedByPawn>
+	<RopedToThing>Kéo đến</RopedToThing>
+	<RopedToSpot>Kéo đến khu vực</RopedToSpot>
+	<PenSizeLabel>Kích thước chuồng</PenSizeLabel>
+	<PenSizeDesc_VerySmall>Rất nhỏ</PenSizeDesc_VerySmall>
+	<PenSizeDesc_Small>Chuồng nhỏ</PenSizeDesc_Small>
+	<PenSizeDesc_Medium>Chuồng trung bình</PenSizeDesc_Medium>
+	<PenSizeDesc_Large>Chuồng lớn</PenSizeDesc_Large>
+	<PenSizeDesc_Unenclosed>Chưa được bao quanh — xây dựng hàng rào</PenSizeDesc_Unenclosed>
+	<PenCapacityDesc>{ANIMALDEF_label} công suất</PenCapacityDesc>
+	<PenExampleAnimals>Ví dụ</PenExampleAnimals>
+	<NoExteriorAccess>Không có lối vào bên ngoài — động vật không thể được chuyển vào hoặc ra.</NoExteriorAccess>
+	<DoorMustBeEnclosedByWalls>Cửa phải được kết nối với tường ở cả hai bên để hoạt động bình thường.</DoorMustBeEnclosedByWalls>
+	<Beauty_Label>Độ đẹp</Beauty_Label>
+	<Zone_Label>Khu vực</Zone_Label>
+	<Roof_Label>Mái che</Roof_Label>
+	<Terrain_Label>Địa hình</Terrain_Label>
+	<Snow_Label>Snow</Snow_Label>
+	<WalkSpeed_Label>Tốc độ di chuyển</WalkSpeed_Label>
+	<Fertility_Label>Độ màu mỡ</Fertility_Label>
+	<Temperature_Label>Nhiệt độ</Temperature_Label>
+	<LightLevel_Label>Cường độ ánh sáng</LightLevel_Label>
+	<Biome_Label>Hệ sinh thái</Biome_Label>
+	<Hilliness_Label>Đồi núi</Hilliness_Label>
+	<Road_Label>Đường</Road_Label>
+	<River_Label>Sông</River_Label>
+	<MovementDifficulty_Label>Độ khó di chuyển</MovementDifficulty_Label>
+	<Pollution_Label>Ô nhiễm</Pollution_Label>
+	<Filth_Label>Bẩn thỉu</Filth_Label>
+	<Faction_Label>Phe phái</Faction_Label>
+	<Relationship_Label>Quan hệ</Relationship_Label>
+	<CaravanColonists_Label>Các thuộc địa</CaravanColonists_Label>
+	<CaravanStatus_Label>Trạng thái</CaravanStatus_Label>
+	<CaravanTTD_Label>Thời gian đến</CaravanTTD_Label>
+	<CannotOrderNonControlled>Không thể ra lệnh cho nhân vật không do bạn điều khiển.</CannotOrderNonControlled>
+	<IsIncapableOfViolence>{1_labelShort} không thể thực hiện hành vi bạo lực.</IsIncapableOfViolence>
+	<IsIncapableOfViolenceShort>Không có khả năng bạo lực</IsIncapableOfViolenceShort>
+	<IsNotDrafted>{1_labelShort} chưa được triệu tập.</IsNotDrafted>
+	<ApparelPreventsShooting>{PAWN_nameDef} không thể sử dụng vũ khí tầm xa do {PAWN_possessive}{APPAREL_label}.</ApparelPreventsShooting>
+	<CannotUseReason_PocketMap>Không thể sử dụng trong {0}</CannotUseReason_PocketMap>
+	<Snow>Snow</Snow>
+	<SnowNone>Không có tuyết</SnowNone>
+	<SnowDusting>Tuyết (rất mỏng)</SnowDusting>
+	<SnowThin>Tuyết (mỏng)</SnowThin>
+	<SnowMedium>Tuyết (trung bình)</SnowMedium>
+	<SnowThick>Tuyết (dày)</SnowThick>
+	<GunInstalled>Đã lắp đặt</GunInstalled>
+	<MinimumRange>Khoảng cách tối thiểu</MinimumRange>
+	<CanFireIn>Thời gian hồi còn lại</CanFireIn>
+	<CannotFire>Không thể bắn</CannotFire>
+	<Roofed>Có mái che</Roofed>
+	<ShellLoaded>Đạn đã lên nòng: {1_label}</ShellLoaded>
+	<ShellNotLoaded>Đạn chưa lên nòng</ShellNotLoaded>
+	<AlreadyActive>Đã kích hoạt</AlreadyActive>
+	<OrderActivation>Kích hoạt</OrderActivation>
+	<OrderActivationDesc>Ra lệnh cho một thuộc địa kích hoạt {THING_definite}.</OrderActivationDesc>
+	<MustBeActivatedByColonist>Phải được kích hoạt bởi thuộc địa.</MustBeActivatedByColonist>
+	<NoNearbyFire>Không có ngọn lửa gần đó</NoNearbyFire>
+	<NoNearbyFireNoFuelUsed>Không có ngọn lửa gần đó, không đủ nhiên liệu để sử dụng.</NoNearbyFireNoFuelUsed>
+	<ChooseWhoShouldActivate>Chọn ai sẽ kích hoạt nó.</ChooseWhoShouldActivate>
+	<NoFuel>Không có nhiên liệu</NoFuel>
+	<ReportHaulingTo>Đang vận chuyển {THING_label} đến {DESTINATION}.</ReportHaulingTo>
+	<ReportHaulingToGrave>Đang chôn {THING_label} vào {DESTINATION}.</ReportHaulingToGrave>
+	<ReportHauling>Đang vận chuyển {1_label}.</ReportHauling>
+	<ReportHaulingUnknown>Đang vận chuyển.</ReportHaulingUnknown>
+	<ReportSleeping>Đang ngủ.</ReportSleeping>
+	<ReportResting>Đang nghỉ ngơi.</ReportResting>
+	<ReportLayingDown>Đang nằm xuống.</ReportLayingDown>
+	<WatchingSunrise>Đang ngắm mặt trời mọc.</WatchingSunrise>
+	<CloudWatching>Đang ngắm mây.</CloudWatching>
+	<WatchingSunset>Đang ngắm mặt trời lặn.</WatchingSunset>
+	<Stargazing>Đang ngắm sao.</Stargazing>
+	<WatchingEclipse>Đang ngắm nhật thực.</WatchingEclipse>
+	<WatchingAurora>Đang ngắm cực quang.</WatchingAurora>
+	<UsingVerb>Sử dụng {0} trên {1}.</UsingVerb>
+	<UsingVerbNoTarget>Đang sử dụng {0}.</UsingVerbNoTarget>
+	<AreaLower>Khu vực</AreaLower>
+	<ReportCowering>Đang co rúm lại.</ReportCowering>
+	<ReportStanding>Đang đứng.</ReportStanding>
+	<ReportExtinguishingFire>Đang dập lửa.</ReportExtinguishingFire>
+	<ReportExtinguishingFireOn>Đang dập lửa trên {TARGET_label}.</ReportExtinguishingFireOn>
+	<ReportDiggingUpCorpse>Đang đào xác.</ReportDiggingUpCorpse>
+	<CarriedBy>Đang được {0_labelShort} mang.</CarriedBy>
+	<InContainer>Trong {0_labelShort}.</InContainer>
+	<DownedCannotCrawl>Ngã xuống (không thể bò).</DownedCannotCrawl>
+	<DownedUnconscious>Ngã xuống (mất ý thức).</DownedUnconscious>
+	<LordReportAttendingMarriageCeremony>Đang tham dự lễ cưới.</LordReportAttendingMarriageCeremony>
+	<LordReportAttendingParty>Đang tham dự bữa tiệc.</LordReportAttendingParty>
+	<LordReportAttendingConcert>Đang tham dự buổi hòa nhạc.</LordReportAttendingConcert>
+	<LordReportHoldingConcert>Đang tổ chức buổi hòa nhạc.</LordReportHoldingConcert>
+	<LordReportGivingSpeech>Đang phát biểu</LordReportGivingSpeech>
+	<LordReportListeningSpeech>Đang nghe bài phát biểu của {ORGANIZER_labelShort}</LordReportListeningSpeech>
+	<LordReportFormingCaravan>Đang thành lập đoàn lữ hành.</LordReportFormingCaravan>
+	<WeaponMissRadius>Bán kính sai số vũ khí</WeaponMissRadius>
+	<ShootReportShooterAbility>Người bắn</ShootReportShooterAbility>
+	<ShootReportWeapon>Vũ khí</ShootReportWeapon>
+	<Darkness>Tối tăm</Darkness>
+	<TargetProne>Mục tiêu nằm xuống</TargetProne>
+	<TargetSize>Kích thước mục tiêu</TargetSize>
+	<Weather>Thời tiết</Weather>
+	<ShootingCover>Che chắn</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{COVER_label} chặn {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>Không có che chắn</NoCoverLower>
+	<Execution>Thi hành án</Execution>
+	<RecipeMake>Chế tạo {0}</RecipeMake>
+	<RecipeMakeDescription>Chế tạo {0}.</RecipeMakeDescription>
+	<RecipeMakeJobString>Đang chế tạo {0}.</RecipeMakeJobString>
+	<RecipeAdminister>Áp dụng {0}</RecipeAdminister>
+	<RecipeAdministerJobString>Đang áp dụng {0}.</RecipeAdministerJobString>
+	<TeetotalerUnhappy>Người không uống rượu sẽ trở nên không hài lòng</TeetotalerUnhappy>
+	<ProsthophobeUnhappy>Người thuần khiết sẽ trở nên không hài lòng</ProsthophobeUnhappy>
+	<ThoughtExpiresIn>Thời gian hết hạn: {0}</ThoughtExpiresIn>
+	<ThoughtNullifiedBy>Ý tưởng bị vô hiệu hóa</ThoughtNullifiedBy>
+	<ThoughtStartsExpiringIn>Bắt đầu hết hạn: {0}</ThoughtStartsExpiringIn>
+	<ThoughtFinishesExpiringIn>Kết thúc hết hạn: {0}</ThoughtFinishesExpiringIn>
+	<MentalBreakThresholdExtreme>Ngưỡng suy sụp tâm lý nghiêm trọng</MentalBreakThresholdExtreme>
+	<MentalBreakThresholdMajor>Ngưỡng suy sụp tâm lý lớn</MentalBreakThresholdMajor>
+	<MentalBreakThresholdMinor>Ngưỡng suy sụp tâm lý nhỏ</MentalBreakThresholdMinor>
+	<PawnMainDescGendered>{PAWN_gender}{1}</PawnMainDescGendered>
+	<PawnMainDescFactionedWrap>{1} của {0}</PawnMainDescFactionedWrap>
+	<PawnTitleDescWrap>{1} trong {0}</PawnTitleDescWrap>
+	<PawnMainDescUnderFactionedWrap>{1} dưới {0}</PawnMainDescUnderFactionedWrap>
+	<PawnMainDescLifestageWrap>{2_lifeStageAdjective}{0}</PawnMainDescLifestageWrap>
+	<Faction>Phe phái</Faction>
+	<FactionDesc>{PAWN_labelShort} hiện đang thuộc phe phái.</FactionDesc>
+	<ExtraFactionDesc>Phe phái gốc của {PAWN_labelShort}.</ExtraFactionDesc>
+	<Equipped>Đã trang bị</Equipped>
+	<EquippedNothing>(Không)</EquippedNothing>
+	<Dead>Đã chết</Dead>
+	<Unconscious>Mất ý thức</Unconscious>
+	<PainShock>Choáng vì đau đớn</PainShock>
+	<PainShockShort>Choáng do đau</PainShockShort>
+	<Incapacitated>Không thể hành động</Incapacitated>
+	<InRestraints>Bị giam giữ (tốc độ giảm)</InRestraints>
+	<Carrying>Đang mang</Carrying>
+	<AffectedBy>Bị ảnh hưởng bởi: </AffectedBy>
+	<Queued>Đang chờ xử lý</Queued>
+	<State>Trạng thái</State>
+	<StunLower>Bị choáng</StunLower>
+	<SlowedByDamage>Chậm lại do thương tích</SlowedByDamage>
+	<SelectNextInSquareTip>Chọn đối tượng tiếp theo trong ô hiện tại.\n\n(*SectionTitle) phím tắt: (/SectionTitle){0}\n\nBạn cũng có thể nhấp chuột trái nhiều lần vào cùng một ô để chọn đối tượng tiếp theo.</SelectNextInSquareTip>
+	<DefInfoTip>Xem thông tin.</DefInfoTip>
+	<SelectNextInSquareTipController>Chọn đối tượng tiếp theo trong cùng một ô.\n\nBạn cũng có thể nhấp chuột vào cùng một ô với khoảng cách để hoàn thành thao tác này.</SelectNextInSquareTipController>
+	<HostilityReponseTip>Phản ứng của người này khi gặp kẻ thù khi chưa được triệu tập.</HostilityReponseTip>
+	<HostilityResponseCurrentMode>Chế độ hiện tại</HostilityResponseCurrentMode>
+	<OfLower>Từ</OfLower>
+	<PowerNotConnected>Chưa kết nối với lưới điện.</PowerNotConnected>
+	<PowerConnectedRateStored>Công suất lưới điện/Lưu trữ: {0} W / {1} Wd</PowerConnectedRateStored>
+	<PowerNeeded>Tiêu thụ điện</PowerNeeded>
+	<PowerOutput>Đầu ra điện</PowerOutput>
+	<PowerActiveNeeded>{0} W - kích hoạt</PowerActiveNeeded>
+	<PowerBatteryStored>Lưu trữ điện</PowerBatteryStored>
+	<PowerBatteryEfficiency>Hiệu suất lưu trữ điện</PowerBatteryEfficiency>
+	<SelfDischarging>Giải phóng điện tự động</SelfDischarging>
+	<TargetTemperature>Nhiệt độ mục tiêu</TargetTemperature>
+	<PowerConsumptionMode>Chế độ tiêu thụ hiện tại</PowerConsumptionMode>
+	<PowerConsumptionHigh>Cao</PowerConsumptionHigh>
+	<PowerConsumptionLow>Thấp</PowerConsumptionLow>
+	<Indoors>Trong nhà</Indoors>
+	<IndoorsUnroofed>Trong nhà (mở)</IndoorsUnroofed>
+	<Outdoors>Ngoài trời</Outdoors>
+	<RotStateFresh>Tươi</RotStateFresh>
+	<RotStateRotting>Đang thối rữa</RotStateRotting>
+	<RotStateDessicated>Đã khô</RotStateDessicated>
+	<CurrentlyFrozen>Đông lạnh (không bị thối)</CurrentlyFrozen>
+	<CurrentlyRefrigerated>Làm lạnh (sẽ thối sau {0})</CurrentlyRefrigerated>
+	<NotRefrigerated>Không làm lạnh (sẽ thối sau {0})</NotRefrigerated>
+	<OverADecade>Hơn 10 năm</OverADecade>
+	<LessThanADay>Ít hơn 1 ngày</LessThanADay>
+	<ShotBy>Khả năng bị bắn bởi {1_labelShort}</ShotBy>
+	<CannotHit>Không thể bắn trúng mục tiêu.</CannotHit>
+	<ManhunterPerHit>Tỷ lệ điên cuồng mỗi cú bắn</ManhunterPerHit>
+	<Ingredients>Nguyên liệu</Ingredients>
+	<IngredientsDesc>Nguyên liệu cần thiết để chế biến món ăn này.</IngredientsDesc>
+	<DietaryType>Loại thực phẩm</DietaryType>
+	<DietaryTypeDesc>Loại thực phẩm sản xuất. Một số người có sở thích đặc biệt với loại thực phẩm nhất định.</DietaryTypeDesc>
+	<OnlyStacksWithCompatibleMeals>Chỉ có thể xếp chồng với thực phẩm tương tự</OnlyStacksWithCompatibleMeals>
+	<PercentGrowth>Đã phát triển {0}</PercentGrowth>
+	<GrowthRate>Tốc độ phát triển</GrowthRate>
+	<FullyGrownIn>Chín hoàn toàn sau {0}</FullyGrownIn>
+	<PlantNeedsLightLevel>Cần mức ánh sáng</PlantNeedsLightLevel>
+	<PlantResting>Đang nghỉ ngơi</PlantResting>
+	<OutOfIdealTemperatureRange>Nhiệt độ không lý tưởng (hệ số tốc độ phát triển: {0}%)</OutOfIdealTemperatureRange>
+	<OutOfIdealTemperatureRangeNotGrowing>Nhiệt độ không lý tưởng (ngừng phát triển)</OutOfIdealTemperatureRangeNotGrowing>
+	<ReadyToHarvest>Sẵn sàng thu hoạch</ReadyToHarvest>
+	<Mature>Chín</Mature>
+	<AveragePlantAge>Tuổi cây trung bình</AveragePlantAge>
+	<OldestPlantAge>Tuổi cây lớn nhất</OldestPlantAge>
+	<OutdoorGrowingPeriod>Thời gian phát triển ngoài trời</OutdoorGrowingPeriod>
+	<NoGrowingPeriod>Không có</NoGrowingPeriod>
+	<GrowYearRound>Phát triển quanh năm</GrowYearRound>
+	<GrowSeasonHereNow>Mùa hiện tại có thể trồng.</GrowSeasonHereNow>
+	<CannotGrowBadSeasonTemperature>Không thể trồng (nhiệt độ mùa không phù hợp).</CannotGrowBadSeasonTemperature>
+	<Blighted>Bị héo</Blighted>
+	<DyingBecauseExposedToLight>Sắp chết do bị ánh sáng chiếu vào.</DyingBecauseExposedToLight>
+	<AutoCutNow>Cắt ngay bây giờ</AutoCutNow>
+	<HarvestGerund>Thu hoạch</HarvestGerund>
+	<CutGerund>Cắt</CutGerund>
+	<CutAllBlight>Cắt tất cả cây bị bệnh</CutAllBlight>
+	<CutAllBlightDesc>Đánh dấu tất cả cây bị héo để tiêu hủy. Cây héo sẽ không tạo ra thực phẩm hoặc tài nguyên, cần phải tiêu hủy trước khi bệnh lây lan.</CutAllBlightDesc>
+	<Zone>Khu vực hoạt động</Zone>
+	<GrowingZone>Khu vực trồng trọt</GrowingZone>
+	<Stockpile>Khu vực lưu trữ</Stockpile>
+	<DumpingStockpile>Khu vực chứa rác</DumpingStockpile>
+	<CorpseStockpile>Khu vực chứa xác</CorpseStockpile>
+	<Priority>Độ ưu tiên</Priority>
+	<ClearAll>Xóa tất cả</ClearAll>
+	<AllowAll>Cho phép tất cả</AllowAll>
+	<StorageGroup>Nhóm</StorageGroup>
+	<StorageLabel>Tên</StorageLabel>
+	<StorageGroupLabel>Nhóm lưu trữ</StorageGroupLabel>
+	<HitPoints>{0} độ bền</HitPoints>
+	<AnyQuality>Chất lượng bất kỳ</AnyQuality>
+	<OnlyQuality>Chỉ {0}</OnlyQuality>
+	<Undiscovered>Chưa khám phá</Undiscovered>
+	<AnimalSterilizeConfirm>Bạn có chắc muốn triệt sản {PAWN_nameDef} không? Hành động này sẽ làm phẫn nộ {FACTION_name}.</AnimalSterilizeConfirm>
+	<AnimalSlaughterConfirm>Bạn có chắc muốn giết {PAWN_nameDef} không? Hành động này sẽ làm phẫn nộ {FACTION_name}.</AnimalSlaughterConfirm>
+	<AnimalReleaseConfirm>Bạn có chắc muốn thả {PAWN_nameDef} không? Hành động này sẽ làm phẫn nộ {FACTION_name}.</AnimalReleaseConfirm>
+	<ShowLearningHelperWhenEmptyToggleButton>Bật tắt hiển thị trợ giúp học tập.\n\nKhi không còn hướng dẫn mới để học, trợ giúp học tập sẽ tự động ẩn. Nếu bật, nó sẽ tiếp tục hiển thị sau khi hoàn thành tất cả hướng dẫn.</ShowLearningHelperWhenEmptyToggleButton>
+	<ZoneVisibilityToggleButton>Bật tắt hiển thị khu vực.</ZoneVisibilityToggleButton>
+	<ShowBeautyToggleButton>Bật tắt hiển thị độ đẹp.\n\nHiển thị độ đẹp của thế giới mà nhân vật sẽ cảm nhận tại vị trí con trỏ chuột.</ShowBeautyToggleButton>
+	<ShowRoomStatsToggleButton>Bật tắt hiển thị trạng thái phòng.\n\nHiển thị trạng thái của phòng tại vị trí con trỏ chuột.</ShowRoomStatsToggleButton>
+	<ShowColonistBarToggleButton>Bật tắt hiển thị thanh ảnh của thuộc địa.\n\nNếu bật, sẽ hiển thị ảnh của tất cả thuộc địa và trạng thái hiện tại ở phía trên màn hình.\n\nBạn có thể kéo và thả ảnh thuộc địa để sắp xếp lại chúng.</ShowColonistBarToggleButton>
+	<ShowColonistBarToggleButtonController>Bật tắt hiển thị thanh ảnh của thuộc địa.\n\nNếu bật, sẽ hiển thị ảnh của tất cả thuộc địa và trạng thái hiện tại ở phía trên màn hình.\n\nBạn có thể kéo và thả ảnh thuộc địa bằng cách giữ nút trái và kéo.</ShowColonistBarToggleButtonController>
+	<AutoHomeAreaToggleButton>Bật tắt tự động thêm khu vực sinh sống.\n\nNếu bật, sẽ tự động thêm khu vực sinh sống gần các công trình mới xây dựng.</AutoHomeAreaToggleButton>
+	<AutoRebuildButton>Bật tắt tự động xây dựng lại công trình bị hư hại.</AutoRebuildButton>
+	<CategorizedResourceReadoutToggleButton>Bật tắt hiển thị phân loại tài nguyên.\n\nNếu bật, tài nguyên sẽ được hiển thị theo từng loại.</CategorizedResourceReadoutToggleButton>
+	<ShowAnimalNamesToggleButton>Bật tắt hiển thị tên động vật đã thuần hóa.</ShowAnimalNamesToggleButton>
+	<ShowRoofOverlayToggleButton>Bật tắt hiển thị khu vực mái.</ShowRoofOverlayToggleButton>
+	<ShowFertilityOverlayToggleButton>Bật tắt hiển thị độ màu mỡ.\n\nĐộ màu mỡ phản ánh những loại cây có thể phát triển và tốc độ phát triển của chúng.</ShowFertilityOverlayToggleButton>
+	<ShowTerrainAffordanceOverlayToggleButton>Bật tắt hiển thị khả năng hỗ trợ địa hình.\n\nKhả năng hỗ trợ địa hình phản ánh loại công trình nào có thể được xây dựng tại mỗi vị trí.\n\nVí dụ, một số loại mặt đất chỉ hỗ trợ công trình nhẹ hoặc trung bình, không hỗ trợ công trình nặng. Cầu chỉ có thể được xây dựng trên nước.</ShowTerrainAffordanceOverlayToggleButton>
+	<LockNorthUpToggleButton>Khóa góc nhìn để giữ hướng Bắc luôn ở trên cùng.</LockNorthUpToggleButton>
+	<UsePlanetDayNightSystemToggleButton>Bật tắt hệ thống ánh sáng ngày đêm trên bản đồ hành tinh.</UsePlanetDayNightSystemToggleButton>
+	<ShowExpandingIconsToggleButton>Bật tắt hiển thị biểu tượng mở rộng, thay thế cho biểu tượng thông thường của đối tượng ở xa.</ShowExpandingIconsToggleButton>
+	<ShowWorldFeaturesToggleButton>Bật tắt hiển thị tên địa hình.</ShowWorldFeaturesToggleButton>
+	<ShowTemperatureOverlayToggleButton>Bật tắt hiển thị nhiệt độ. Điều này hiển thị nhiệt độ không khí trong mỗi phòng và ngoài trời.\n\nNếu nhiệt độ quá cao hoặc quá thấp, thuộc địa sẽ cảm thấy không hài lòng. Bị phơi bày dưới nhiệt độ cực đoan có thể dẫn đến hạ thân nhiệt, bỏng, và tử vong.</ShowTemperatureOverlayToggleButton>
+	<HotKeyTip>Phím tắt</HotKeyTip>
+	<FireOn>Ngọn lửa trên {1_label}</FireOn>
+	<Burning>Đang cháy</Burning>
+	<FireSizeLower>Kích thước ngọn lửa: {0}</FireSizeLower>
+	<GameConditionsTip>Các trạng thái đặc biệt hiện đang ảnh hưởng đến khu vực này.</GameConditionsTip>
+	<TimeLeft>Thời gian còn lại</TimeLeft>
+	<ImpactDate>Ngày va chạm</ImpactDate>
+	<SourceUnknown>Nguồn gốc không rõ</SourceUnknown>
+	<ClickToJumpToSource>Nhấp để nhảy đến nguồn.</ClickToJumpToSource>
+	<ClickToJumpToFlashstorm>Nhấp để nhảy đến bão sấm sét.</ClickToJumpToFlashstorm>
+	<CausedByQuest>Do nhiệm vụ gây ra: {0}</CausedByQuest>
+	<NoStuffsToBuildWith>Bạn thiếu vật liệu cần thiết để xây dựng công trình này.</NoStuffsToBuildWith>
+	<WillGetWorkSpeedPenalty>{0} sẽ bị phạt tốc độ làm việc</WillGetWorkSpeedPenalty>
+	<MustPlaceUnroofed>Không thể đặt dưới mái che.</MustPlaceUnroofed>
+	<MustPlaceUnderThickRoof>Phải đặt dưới mái dày.</MustPlaceUnderThickRoof>
+	<MustPlaceOnWall>Phải đặt cạnh tường.</MustPlaceOnWall>
+	<SomethingPlacedOnThisWall>Đã có thứ gì đó trên tường này.</SomethingPlacedOnThisWall>
+	<CannotSupportAttachment>Công trình này không hỗ trợ gắn thêm.</CannotSupportAttachment>
+	<MustPlaceHeadOnShipBeam>Phải đặt ở hai đầu của dầm cấu trúc tàu.</MustPlaceHeadOnShipBeam>
+	<MustPlaceNextToHopperAccepter>Phải đặt ngay bên cạnh thiết bị cần đầu vào.</MustPlaceNextToHopperAccepter>
+	<MustPlaceOnSteamGeyser>Phải đặt trực tiếp trên mạch nước phun hơi nước.</MustPlaceOnSteamGeyser>
+	<MustPlaceCoolerWithFreeSpaces>Cả hai đầu của máy làm lạnh không được bị chặn.</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>Cả hai đầu của lỗ thông hơi không được bị chặn để không khí có thể lưu thông.</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Phải đặt ở vị trí xung quanh trống trải.</MustPlaceAdjacentStandable>
+	<MustPlaceNearFuelingPort>Phải đặt ngay bên cạnh đầu cung cấp nhiên liệu của bệ phóng tàu.</MustPlaceNearFuelingPort>
+	<MustPlaceOnDrillable>Phải đặt trên tài nguyên có thể khoan.</MustPlaceOnDrillable>
+	<CannotPlaceAdjacentTrap>Không thể đặt gần bẫy</CannotPlaceAdjacentTrap>
+	<CannotPlaceAdjacentSameDef>Không thể đặt bên cạnh một công trình cùng loại khác.</CannotPlaceAdjacentSameDef>
+	<WindTurbine_WindPathIsBlockedBy>Bị chặn bởi vật phẩm này: </WindTurbine_WindPathIsBlockedBy>
+	<WindTurbine_WindPathIsBlockedByRoof>Bị chặn bởi mái che</WindTurbine_WindPathIsBlockedByRoof>
+	<Watermill_WaterUsedTwice>Sự cố lưu lượng: do dòng chảy từ các cối xay khác</Watermill_WaterUsedTwice>
+	<CasketContains>Chứa</CasketContains>
+	<CasketWarning>Cảnh báo！\n\n{PAWN_nameDef} là thuộc địa cuối cùng của bạn có thể hành động tự do！Nếu {PAWN_objective} vào buồng ngủ đông, bạn sẽ không thể tiếp tục trò chơi. Bạn có chắc muốn làm như vậy không？</CasketWarning>
+	<ShipReportCannotLaunch>Không thể phóng.</ShipReportCannotLaunch>
+	<ShipReportCanLaunch>Chuẩn bị phóng.</ShipReportCanLaunch>
+	<ShipReportMissingPart>Thiếu linh kiện quan trọng</ShipReportMissingPart>
+	<ShipReportMissingPartRequires>Cần</ShipReportMissingPartRequires>
+	<ShipReportNoFullPods>Thiếu buồng ngủ đông có người.</ShipReportNoFullPods>
+	<ShipReportHibernating>Thành phần ngủ đông</ShipReportHibernating>
+	<ShipReportNotReady>Các thành phần chưa sẵn sàng</ShipReportNotReady>
+	<ShipNoSettlementToReturnTo>Không có khu định cư để trở về. Vui lòng xây dựng một cái trước.</ShipNoSettlementToReturnTo>
+	<HibernateWarning>(*Name) Shalon White Stone (/Name) chuẩn bị bắt đầu chương trình đánh thức ngủ đông của lò phản ứng.\n\nAnh ấy cảnh báo rằng quá trình khởi động sẽ mất khoảng 15 ngày và có thể phát hiện được đặc điểm năng lượng từ rất xa. Những đặc điểm năng lượng này cho thấy khả năng bay giữa các vì sao và sẽ thu hút một nhóm kẻ tấn công tuyệt vọng và thợ săn kho báu. Hãy đảm bảo rằng bạn đã chuẩn bị phòng thủ ngay lập tức.</HibernateWarning>
+	<HibernateWarningStandalone>Lò phản ứng đã sẵn sàng để khởi động.\n\nQuá trình khởi động sẽ mất khoảng 15 ngày và có thể phát hiện được đặc điểm năng lượng từ rất xa. Những đặc điểm năng lượng này cho thấy khả năng bay giữa các vì sao và sẽ thu hút một nhóm kẻ tấn công tuyệt vọng và thợ săn kho báu. Hãy đảm bảo rằng bạn đã chuẩn bị phòng thủ ngay lập tức.</HibernateWarningStandalone>
+	<HibernateWarningPacifist>(*Name) Shalon White Stone (/Name) chuẩn bị bắt đầu chương trình đánh thức ngủ đông của lò phản ứng. Anh ấy cảnh báo rằng quá trình này sẽ mất khoảng 15 ngày.</HibernateWarningPacifist>
+	<HibernateWarningStandalonePacifist>Lò phản ứng đã sẵn sàng để khởi động. Quá trình này sẽ mất khoảng 15 ngày.</HibernateWarningStandalonePacifist>
+	<SkillNeurotrainerLabel>Máy huấn luyện kỹ năng ({0}) </SkillNeurotrainerLabel>
+	<SkillNeurotrainerUseLabel>Sử dụng máy huấn luyện kỹ năng để học {0}</SkillNeurotrainerUseLabel>
+	<SkillNeurotrainerDescription>Thuốc siêu liều nano cơ chế dùng một lần được chuẩn bị để huấn luyện kỹ năng cụ thể.\n\nThuốc này được đưa vào qua hốc mắt. Khi được giải phóng vào não, các nano cơ chế sẽ nhanh chóng nâng cao kỹ năng học tập trong khu vực cụ thể, chuyển đổi chúng thành mô thần kinh cần thiết.</SkillNeurotrainerDescription>
+	<SkillNeurotrainerUsed>{USER_labelShort} đã sử dụng máy huấn luyện kỹ năng để nâng {1} từ cấp {2} lên cấp {3}.</SkillNeurotrainerUsed>
+	<Installed>Đã cài đặt</Installed>
+	<NotInstalled>Chưa cài đặt</NotInstalled>
+	<MinifiedTreeWillDieIn>Cây bị đào lên sẽ chết trong {time} trừ khi được trồng lại.</MinifiedTreeWillDieIn>
+	<Title>Tiêu đề</Title>
+	<Untitled>Chưa đặt tên</Untitled>
+	<UnfinishedItem>{0} (Chưa hoàn thành)</UnfinishedItem>
+	<UnfinishedItemWithStuff>{0}{1} (Chưa hoàn thành)</UnfinishedItemWithStuff>
+	<Quality>Chất lượng</Quality>
+	<quality>Chất lượng</quality>
+	<QualityDescription>Độ tinh xảo của vật phẩm này.</QualityDescription>
+	<QualityIs>Chất lượng: {0}</QualityIs>
+	<Mood_MentalState>Trạng thái tâm lý</Mood_MentalState>
+	<Mood_AboutToBreak>Sắp sụp đổ</Mood_AboutToBreak>
+	<Mood_OnEdge>Lo lắng</Mood_OnEdge>
+	<Mood_Stressed>Căng thẳng</Mood_Stressed>
+	<Mood_Neutral>Trung lập</Mood_Neutral>
+	<Mood_Content>Hài lòng</Mood_Content>
+	<Mood_Happy>Vui vẻ</Mood_Happy>
+	<GameOver>Kết thúc trò chơi</GameOver>
+	<GameOverEveryoneDead>Tất cả thuộc địa đã chết hoặc rời đi. Câu chuyện này đã kết thúc.\n\nDi tích này có thể giúp đỡ người khác vào một ngày nào đó.</GameOverEveryoneDead>
+	<GameOverPlanetkillerImpact>Vũ khí hủy diệt hành tinh đã va chạm với mặt đất với tốc độ gần bằng ánh sáng, sức mạnh tương đương với hàng ngàn quả bom hydro phát nổ cùng một lúc. Toàn bộ hành tinh như một quả bóng nước bị bắn trúng bằng súng trường, bị lỏng ra và ném một phần lớn lõi nóng chảy của nó vào không gian.\n\nMột phần của {0} đã trở thành một vành đai tiểu hành tinh. Phần còn lại là một cảnh tượng địa ngục nóng chảy, đầy bức xạ, với sóng địa chấn hàng km trên bề mặt.\n\nBạn đã không sống sót.</GameOverPlanetkillerImpact>
+	<GameOverShipLaunchedIntro>Bạn đã phóng tàu cứu hộ!</GameOverShipLaunchedIntro>
+	<GameOverShipLaunchedEnding>Bây giờ AI của tàu sẽ tự động dẫn đường đến nơi an toàn. Có thể nó sẽ đưa bạn đến một hành tinh thịnh vượng trong hệ sao này. Hoặc có thể nó sẽ mất hàng thế kỷ để đến một hệ sao khác. Thậm chí có thể nó sẽ chọn ngủ hàng ngàn năm dưới lớp băng của một tiểu hành tinh, chờ đợi cho đến khi ai đó xây dựng một thế giới rực rỡ ở đây.\n\nTất cả chỉ có thể biết sau khi bạn tỉnh dậy.</GameOverShipLaunchedEnding>
+	<GameOverColonistsEscaped>Các thuộc địa sau đã rời đi:\n\n{0}</GameOverColonistsEscaped>
+	<GameOverColonistsLeft>Các thuộc địa sau đã bị bỏ lại:\n\n{0}</GameOverColonistsLeft>
+	<GameOverInMemoryOf>Tưởng nhớ:\n</GameOverInMemoryOf>
+	<GameOverKeepWatching>Giữ quan sát</GameOverKeepWatching>
+	<GameOverKeepWatchingForNow>Giữ quan sát tạm thời</GameOverKeepWatchingForNow>
+	<GameOverCreateNewWanderers>Tạo ra những kẻ lang thang mới</GameOverCreateNewWanderers>
+	<GameOverCreateNewWanderersWait>Tạo ra những kẻ lang thang mới (phải chờ {0} giờ)</GameOverCreateNewWanderersWait>
+	<GameOverCreateNewWanderersText>Tất cả thuộc địa đã chết hoặc rời đi. Di tích này có thể giúp đỡ người khác vào một ngày nào đó.\n\nChọn những kẻ lang thang mới đến thuộc địa của bạn và tiếp tục câu chuyện.</GameOverCreateNewWanderersText>
+	<GameOverMainMenu>Quay lại menu chính</GameOverMainMenu>
+	<NoColony>Không có thuộc địa</NoColony>
+	<LifespanExpiry>Thời gian hết hạn:</LifespanExpiry>
+	<InactiveFacility>Bị bỏ không</InactiveFacility>
+	<FacilityPotentiallyLinkedTo>Kết nối với</FacilityPotentiallyLinkedTo>
+	<FacilityNoPotentialLinks>Không có liên kết</FacilityNoPotentialLinks>
+	<FacilityMaxSimultaneousConnections>Số liên kết tối đa cho mỗi công trình</FacilityMaxSimultaneousConnections>
+	<FacilityFrontBlocked>Phía trước công trình bị chặn.</FacilityFrontBlocked>
+	<DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} của {1} hiện đã nặng hơn.</DiseaseGrowthModeChanged_Growing>
+	<DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} của {1} hiện đã ổn định.</DiseaseGrowthModeChanged_Stable>
+	<DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} của {1} hiện đã thuyên giảm.</DiseaseGrowthModeChanged_Remission>
+	<MarriageSpotUsable>Hiện tại có thể sử dụng.</MarriageSpotUsable>
+	<MarriageSpotNotUsable>Không thể sử dụng: {0}.</MarriageSpotNotUsable>
+	<MarriageSpotNotStandable>Bị chặn</MarriageSpotNotStandable>
+	<MarriageSpotDangerous>Quá nguy hiểm cho {1_labelShort}</MarriageSpotDangerous>
+	<MarriageSpotForbidden>Đã bị cấm cho {1_labelShort}</MarriageSpotForbidden>
+	<MarriageSpotReserved>Đã được đặt trước</MarriageSpotReserved>
+	<MarriageSpotUnreachable>Không thể đến được cho {1_labelShort}</MarriageSpotUnreachable>
+	<MarriageSpotInPrisonCell>Trong phòng giam</MarriageSpotInPrisonCell>
+	<NotEnjoyableOutsideTemperature>Nhiệt độ không phù hợp</NotEnjoyableOutsideTemperature>
+	<ActivityIconMedicalRest>Nghỉ ngơi</ActivityIconMedicalRest>
+	<ActivityIconSleeping>Ngủ</ActivityIconSleeping>
+	<ActivityIconFleeing>Chạy trốn</ActivityIconFleeing>
+	<ActivityIconAttacking>Chiến đấu</ActivityIconAttacking>
+	<ActivityIconIdle>Đi lang thang</ActivityIconIdle>
+	<ActivityIconBurning>Đang cháy</ActivityIconBurning>
+	<ActivityIconFormingCaravan>Tổ chức đoàn lữ hành</ActivityIconFormingCaravan>
+	<DueForMaintenance>Cần bảo trì.</DueForMaintenance>
+	<DeterioratingDueToLackOfMaintenance>Bắt đầu xuống cấp do thiếu bảo trì.</DeterioratingDueToLackOfMaintenance>
+	<ProgressToNextLump>Tiến độ sản xuất</ProgressToNextLump>
+	<ResourceBelow>Tài nguyên dưới lòng đất</ResourceBelow>
+	<ProgressToNextPortion>Tiến độ</ProgressToNextPortion>
+	<DeepDrillNoResources>Không có tài nguyên bên dưới.</DeepDrillNoResources>
+	<DeepDrillExhausted>Tài nguyên khoan sâu đã cạn kiệt, tự động khoan đã bị tắt. Nếu tắt tắt, sẽ khoan {0}.</DeepDrillExhausted>
+	<DeepDrillExhaustedNoFallback>Tài nguyên khoan sâu đã cạn kiệt.</DeepDrillExhaustedNoFallback>
+	<ChargesRemaining>Số lần sạc còn lại</ChargesRemaining>
+	<LearningHelper>Trợ giúp học tập</LearningHelper>
+	<LearningHelperTooltip>Trợ giúp học tập trong trò chơi, nhằm cung cấp thông tin về các chủ đề liên quan đến trạng thái hiện tại của thuộc địa của bạn</LearningHelperTooltip>
+	<MarkLearned>Tôi đã học được!</MarkLearned>
+	<AlreadyLearned>Đã học</AlreadyLearned>
+	<Filter>Lọc</Filter>
+	<CompassTip>Chỉ hướng Bắc. Nhấp để xoay góc nhìn để Bắc luôn ở trên cùng.</CompassTip>
+	<RoutePlannerButtonTip>Nhấp để vào chế độ lập kế hoạch, bạn có thể lập kế hoạch hành trình và tính toán khoảng cách giữa các điểm.</RoutePlannerButtonTip>
+	<RoutePlannerAddTwoOrMoreWaypoints>Thêm hai hoặc nhiều điểm dừng.</RoutePlannerAddTwoOrMoreWaypoints>
+	<RoutePlannerAddOneOrMoreWaypoints>Thêm một hoặc nhiều điểm dừng.</RoutePlannerAddOneOrMoreWaypoints>
+	<RoutePlannerEstTimeToFinalDest>Tổng thời gian di chuyển: {0}</RoutePlannerEstTimeToFinalDest>
+	<RoutePlannerUsingAverageTicksPerMoveWarning>Chế độ lập kế hoạch sử dụng tốc độ đoàn lữ hành mặc định. Tốc độ thực tế có thể khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
+	<RoutePlannerUsingTicksPerMoveOfCaravan>Tính toán: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+	<RoutePlannerPressRMBToAddAndRemoveWaypoints>Nhấp chuột phải: Thêm hoặc xóa điểm dừng.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+	<RoutePlannerPressRMBToAddAndRemoveWaypointsController>Nút trái: Thêm hoặc xóa điểm dừng.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+	<RoutePlannerPressEscapeToExit>Nhấn ESC: Thoát chế độ lập kế hoạch</RoutePlannerPressEscapeToExit>
+	<RoutePlannerPressEscapeToExitController>{Key:Cancel}: Thoát chế độ lập kế hoạch</RoutePlannerPressEscapeToExitController>
+	<RoutePlannerPressEscapeToReturnToCaravanFormationDialog>Nhấn ESC: Quay lại giao diện tổ chức đoàn lữ hành.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+	<RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Quay lại giao diện tổ chức đoàn lữ hành.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+	<EstimatedTimeToWaypoint>Thời gian ước tính: {0}</EstimatedTimeToWaypoint>
+	<EstimatedTimeToWaypointFromPrevious>Thời gian ước tính (từ điểm dừng trước): {0}</EstimatedTimeToWaypointFromPrevious>
+	<EstimatedTimeToTile>Thời gian ước tính: {0}</EstimatedTimeToTile>
+	<ForagedFoodAmount>Số lượng thực phẩm đã thu hoạch</ForagedFoodAmount>
+	<OutfitAnything>Bất kỳ</OutfitAnything>
+	<OutfitWorker>Công nhân</OutfitWorker>
+	<OutfitSoldier>Chiến sĩ</OutfitSoldier>
+	<OutfitNudist>Người khỏa thân</OutfitNudist>
+	<HibernatableHibernating>Đang ngủ đông</HibernatableHibernating>
+	<HibernatableStartingUp>Đang khởi động</HibernatableStartingUp>
+	<ClickToSeeAvailableOrders_WorldObject>{0}: Xem các lệnh có sẵn...</ClickToSeeAvailableOrders_WorldObject>
+	<ClickToSeeAvailableOrders_Empty>Xem các lệnh có sẵn...</ClickToSeeAvailableOrders_Empty>
+	<PawnTooltipWithDescAndPrimaryEquip>{0}({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+	<PawnTooltipWithDescNoPrimaryEquip>{0}({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+	<PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+	<PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+	<PawnTooltipPsychicEntropyStats>Tốc độ giảm: {0}/giây (đến {1} giây để về 0)</PawnTooltipPsychicEntropyStats>
+	<PawnTooltipPsychicEntropyDesc>Sau khi sử dụng năng lực tâm linh, sẽ tích tụ năng lượng tâm linh. Năng lượng tâm linh vượt qua giới hạn thông thường có thể dẫn đến sự sụp đổ tâm lý kéo dài hàng ngày.\n\nNăng lượng tâm linh sẽ tự nhiên biến mất theo thời gian. Quá trình này có thể được tăng tốc bằng cách mặc trang phục tâm linh hoặc kích thích đau đớn.</PawnTooltipPsychicEntropyDesc>
+	<PawnTooltipPsychicEntropyPainFocus>Tăng cường do đau đớn\n\nĐau đớn giúp tập trung tư tưởng; đồng thời có thể giúp năng lượng tâm linh biến mất nhanh chóng.\n\nMức độ đau đớn: {0}\nTốc độ biến mất năng lượng tâm linh: {1}</PawnTooltipPsychicEntropyPainFocus>
+	<PawnTooltipPsychicEntropyLimit>Bật tắt giới hạn năng lượng tâm linh.\n\nNăng lượng tâm linh vượt qua giới hạn có thể dẫn đến sự sụp đổ tâm lý kéo dài, nhưng không gây tổn thương vĩnh viễn.</PawnTooltipPsychicEntropyLimit>
+	<PawnTooltipPsyfocus>Khả năng tâm linh: {0}</PawnTooltipPsyfocus>
+	<PawnTooltipGenderAndKindLabel>{0}{1}</PawnTooltipGenderAndKindLabel>
+	<Reward_Pawn_DropPod>Một {0_titleIndef} tên là {0_nameDef}, {0_age} tuổi sẽ đến bằng tàu vận chuyển {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+	<Reward_Pawn_WalkIn>Một {0_titleIndef} tên là {0_nameDef}, {0_age} tuổi sẽ đến và gia nhập {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+	<Reward_Pawn_Caravan>Một {0_titleIndef} tên là {0_nameDef}, {0_age} tuổi sẽ gia nhập {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+	<Reward_Items>Tàu vận chuyển chứa các tài nguyên sau sẽ đến (tổng giá trị {1}):\n\n{0}</Reward_Items>
+	<Reward_Items_Caravan>Bạn sẽ nhận được (tổng giá trị {1}):\n\n{0}</Reward_Items_Caravan>
+	<Reward_Goodwill>Quan hệ của bạn với {0_name} sẽ được cải thiện {1}</Reward_Goodwill>
+	<Reward_PassageOffworld>Bạn sẽ được đưa đến giữa các vì sao</Reward_PassageOffworld>
+	<Reward_PassageOffworld_Label>Đến thế giới khác</Reward_PassageOffworld_Label>
+	<Reward_CampLoot>Bạn có thể cướp bất cứ thứ gì từ trại này</Reward_CampLoot>
+	<Reward_CampLoot_Label>Cướp trại</Reward_CampLoot_Label>
+	<Reward_Unknown>Hiện tại chưa rõ điều gì sẽ xảy ra nếu bạn chấp nhận nhiệm vụ này</Reward_Unknown>
+	<Reward_Unknown_Label>Không rõ</Reward_Unknown_Label>
+	<Reward_VisitorsHelp>Các khách sẽ chiến đấu vì bạn</Reward_VisitorsHelp>
+	<Reward_VisitorsHelp_Label>Khách giúp đỡ</Reward_VisitorsHelp_Label>
+	<Reward_BestowingCeremony_Label>Cấp độ tâm linh mới</Reward_BestowingCeremony_Label>
+	<Reward_BestowingCeremony>{PAWNNAME} đã đạt được tâm linh</Reward_BestowingCeremony>
+	<Reward_ShuttleLoot_Label>Cướp tàu vận tải</Reward_ShuttleLoot_Label>
+	<Reward_ShuttleLoot>Bạn có thể tháo dỡ tàu vận tải để cướp tài nguyên</Reward_ShuttleLoot>
+	<Reward_PossibleFutureReward_Label>Phần thưởng không rõ</Reward_PossibleFutureReward_Label>
+	<Reward_PossibleFutureReward>Có thể sẽ có phần thưởng trong tương lai.</Reward_PossibleFutureReward>
+	<Reward_Title_Label>{TITLE} danh hiệu</Reward_Title_Label>
+	<Reward_Title>{PAWNNAME} nhận được danh hiệu {TITLE} từ {FACTION}</Reward_Title>
+	<TotalValue>Tổng giá trị {0}</TotalValue>
+	<BondedWith>Liên kết với: {0}</BondedWith>
+	<NotBonded>Chưa liên kết</NotBonded>
+	<BladelinkBondedToSomeoneElse>Đã liên kết với người khác</BladelinkBondedToSomeoneElse>
+	<BladelinkAlreadyBonded>（Đã liên kết）</BladelinkAlreadyBonded>
+	<BladelinkAlreadyBondedDialog>Một người chỉ có thể liên kết với một vũ khí nhân cách tại một thời điểm.\n\nĐể trang bị và liên kết {WEAPON_labelShort}, bạn phải phá hủy vũ khí {PAWN_nameDef} đang liên kết với {BONDEDWEAPON_labelShort} trước.</BladelinkAlreadyBondedDialog>
+	<BladelinkAlreadyBondedMessage>{PAWN_nameDef} đã liên kết với {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
+	<Biocoded>Mã sinh học {0}</Biocoded>
+	<CodedFor>Mã sinh học: {0}</CodedFor>
+	<BiocodedCodedForSomeoneElse>Mã sinh học</BiocodedCodedForSomeoneElse>
+	<InterceptsProjectilesEvery>Chặn {0}/{1}</InterceptsProjectilesEvery>
+	<InterceptsProjectiles>Chặn {0}</InterceptsProjectiles>
+	<InterceptsProjectiles_GroundProjectiles>Đạn đất</InterceptsProjectiles_GroundProjectiles>
+	<InterceptsProjectiles_AerialProjectiles>Đạn trên không</InterceptsProjectiles_AerialProjectiles>
+	<AffectedGender>Giới tính bị ảnh hưởng</AffectedGender>
+	<CausedByHediff>Do: {0}</CausedByHediff>
+	<DamageFactorWeakness>Điểm yếu của {DAMAGE_label}</DamageFactorWeakness>
+	<DamageFactorResistance>Kháng cự của {DAMAGE_label}</DamageFactorResistance>
+	<DamageFactor>Số liệu thiệt hại của {DAMAGE_label} được nhân với giá trị này.</DamageFactor>
+	<HealingHealHediff>{0_nameDef} đã được chữa khỏi {1}.</HealingHealHediff>
+	<HealingRestoreBodyPart>{0_nameDef} đã phục hồi {1}.</HealingRestoreBodyPart>
+	<WarningBuildingCausesHostility>Cảnh báo: Đặt một công trình ở đây sẽ khiến {FACTION_name} tức giận!</WarningBuildingCausesHostility>
+	<ChooseLandingSite>Chọn điểm hạ cánh</ChooseLandingSite>
+	<LordJobOutcomeChances>Xác suất kết quả chất lượng {0}</LordJobOutcomeChances>
+	<ExpectedLordJobDuration>Dự kiến thời gian</ExpectedLordJobDuration>
+	<Ritual>Ritual</Ritual>
+	<RitualTakesPlaceAt>Nơi tổ chức</RitualTakesPlaceAt>
+	<RitualTargetThingDefsInfo>Bất kỳ {0}</RitualTargetThingDefsInfo>
+	<LordReportAttending>Tham dự {0}</LordReportAttending>
+	<RitualCalledOff>{0} đã bị hủy bỏ.</RitualCalledOff>
+	<RitualNobodyAttended>{0} không thể hoàn thành do thiếu người tham dự.</RitualNobodyAttended>
+	<RitualFinished>{0} đã hoàn thành.</RitualFinished>
+	<RitualEndsIn>Kết thúc vào {0}</RitualEndsIn>
+	<RitualStartAnyTime>Có thể bắt đầu bất kỳ lúc nào</RitualStartAnyTime>
+	<RitualStartEvent>Có thể bắt đầu sau sự kiện</RitualStartEvent>
+	<RitualFocusObjects>Đối tượng tập trung</RitualFocusObjects>
+	<RitualParticipatingRoles>Vai trò tham gia trong nghi lễ</RitualParticipatingRoles>
+	<Organizers>Người tổ chức</Organizers>
+	<QualityFactors>Hệ số hiệu quả</QualityFactors>
+	<QualityFactorTooltipUncertain>Điều kiện này có thể được đáp ứng, tùy thuộc vào diễn biến.\n\nNếu được đáp ứng, phần thưởng hiệu quả sẽ áp dụng.</QualityFactorTooltipUncertain>
+	<QualityFactorTooltipNotFulfilled>Điều kiện này chưa được đáp ứng.\n\nPhần thưởng hiệu quả không áp dụng.</QualityFactorTooltipNotFulfilled>
+	<Spectators>Khán giả</Spectators>
+	<NotParticipating>Không tham gia</NotParticipating>
+	<DragPawnsToRolesInfo>Kéo và thả hoặc nhấp chuột trái/phải để di chuyển người.</DragPawnsToRolesInfo>
+	<DragPawnsToRolesInfoController>Kéo và thả hoặc nhấp để di chuyển người.</DragPawnsToRolesInfoController>
+	<RitualBeginSlaveDesc>Một nô lệ. Tài sản nhân loại của người khác.</RitualBeginSlaveDesc>
+	<RitualBeginSleepingDesc>{0_labelShort} đang ngủ. Nếu được bao gồm trong nghi lễ, {0_pronoun} sẽ tỉnh dậy tham gia.</RitualBeginSleepingDesc>
+	<RitualBeginSleepingWarning>Một số người tham gia được chọn đang ngủ. Khi bạn bắt đầu nghi lễ, họ sẽ tỉnh dậy.</RitualBeginSleepingWarning>
+	<RitualRoleRequiresSocialRole>Vai trò trong nghi lễ này tốt nhất nên được thực hiện bởi một thuộc địa có chức vụ " {0} " trong văn hóa.\n\nNếu không có ai có chức vụ " {0} " tham gia vai trò này, bạn sẽ không nhận được phần thưởng sau đây.</RitualRoleRequiresSocialRole>
+	<RitualRoleCantSubstitute>Không có chức vụ nào có thể thay thế {0}.</RitualRoleCantSubstitute>
+	<RitualOutcomeProgress>{0} Tiến độ hoàn thành</RitualOutcomeProgress>
+	<RitualOutcomeQualityAbstract>Hiệu quả của {0} phụ thuộc vào</RitualOutcomeQualityAbstract>
+	<RitualOutcomeQualitySpecific>Hiệu quả tổng thể của {0} là {1}, được xác định bởi các yếu tố này</RitualOutcomeQualitySpecific>
+	<RitualOutcomePerformedRecently>Đã thực hiện gần đây</RitualOutcomePerformedRecently>
+	<RitualQualityExpectations>Mong đợi của {0}</RitualQualityExpectations>
+	<RitualAmbienceSound>Âm thanh không khí của nghi lễ</RitualAmbienceSound>
+	<RitualQualityLowWarning>Tổng chất lượng {0} thấp hơn {1}. Tiếp tục có thể gây ảnh hưởng tiêu cực đến thuộc địa của bạn.\n\nBạn có chắc không?</RitualQualityLowWarning>
+	<AbilitySpeechDisabledNoSpot>Không có vị trí thích hợp để nói chuyện.</AbilitySpeechDisabledNoSpot>
+	<AbilityDisabledNoCapacity>{0_labelShort} không đủ {1}.</AbilityDisabledNoCapacity>
+	<RitualOutcomeExtraDesc_Mood>Mỗi người tham gia nghi lễ sẽ nhận được tâm trạng {0} kéo dài {1} ngày.</RitualOutcomeExtraDesc_Mood>
+	<RitualOutcomeNoQuality>Nghi lễ này không có sự lệch chất lượng, vì vậy luôn tạo ra kết quả tốt nhất.</RitualOutcomeNoQuality>
+	<Begin>Bắt đầu</Begin>
+	<BeginRitual>Bắt đầu {0}</BeginRitual>
+	<BeginRitualFor>Bắt đầu {0} cho {1}</BeginRitualFor>
+	<QualityOutOf>{0} ({1})</QualityOutOf>
+	<DateRitualNoObligation>{0} là một nghi lễ vào ngày cụ thể. Bạn có thể tổ chức sau {1}, vào {2}.</DateRitualNoObligation>
+	<PreceptReplaceWith>Thay thế bằng</PreceptReplaceWith>
+	<RitualSeatOf>Vai trò nghi lễ của {IDEOS}</RitualSeatOf>
+	<ExpectedLordJobQuality>Chất lượng dự kiến</ExpectedLordJobQuality>
+	<StartingQuality>Hiệu quả khởi đầu</StartingQuality>
+	<RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} của {1}</RitualPredictedOutcomeDescPawnStat>
+	<RitualPredictedOutcomeDescRoomBeauty>Độ đẹp của phòng</RitualPredictedOutcomeDescRoomBeauty>
+	<RitualPredictedOutcomeDescParticipantCount>Số lượng người tham gia</RitualPredictedOutcomeDescParticipantCount>
+	<RitualPredictedOutcomeDescPawnExpectations>Mong đợi của {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
+	<RitualOutcomeLovedOnePresentLabel>Có người yêu trong buổi lễ</RitualOutcomeLovedOnePresentLabel>
+	<RitualOutcomeLovedOnePresentTip>Bất kỳ ai được {PAWN_labelShort} coi là bạn bè hoặc thân thiết hơn.</RitualOutcomeLovedOnePresentTip>
+	<RitualOutcomeLabelAnyOfThese>Bất kỳ cái nào trong số này</RitualOutcomeLabelAnyOfThese>
+	<RitualRoleReplaces>Thay thế {PAWN_labelShort}</RitualRoleReplaces>
+	<Present>Hiện tại</Present>
+	<Used>{0} đã sử dụng</Used>
+	<StartingRitualQuality>Hiệu quả khởi đầu của {0}</StartingRitualQuality>
+	<OutcomeBonusDesc_Quality>Đạt được hiệu quả {0}</OutcomeBonusDesc_Quality>
+	<OutcomeBonusDesc_QualitySingleOffset>Hiệu quả {0}</OutcomeBonusDesc_QualitySingleOffset>
+	<OutcomeLetterLabel>{OUTCOMELABEL}{RITUALLABEL}</OutcomeLetterLabel>
+	<MaxValue>{0} tối đa</MaxValue>
+	<ThingOf>{0}</ThingOf>
+	<ThingOfSource>{1} của {0}</ThingOfSource>
+	<ThingOfTwoSources>{1} và {2} của {0}</ThingOfTwoSources>
+	<BlindSmoke>Khói mù mờ</BlindSmoke>
+	<ToxGas>Khí độc</ToxGas>
+	<RotStink>Mùi thối</RotStink>
+	<DeadlifeDust>Bụi xác chết</DeadlifeDust>
+	<AbilityDisabledUndrafted>Phải ở trạng thái triệu hồi.</AbilityDisabledUndrafted>
+	<AbilityOnCooldown>Khả năng đang trong thời gian chờ. Có thể sử dụng lại sau {0}.</AbilityOnCooldown>
+	<AbilityNoCharges>Khả năng vượt quá giới hạn phí.</AbilityNoCharges>
+	<AbilityAlreadyQueued>Khả năng đã được thêm vào hàng đợi.</AbilityAlreadyQueued>
+	<AbilityReadyLabel>Khả năng của {PAWN_nameDef} đã sẵn sàng: {0}</AbilityReadyLabel>
+	<AbilitiesReadyLabel>Khả năng của {PAWN_nameDef} đã sẵn sàng: {0}</AbilitiesReadyLabel>
+	<AbilityReadyText>{0_nameDef} đã có thể sử dụng {1}.</AbilityReadyText>
+	<AbilityDisabledInRitual>{0_labelShort} đang tham gia {1}.</AbilityDisabledInRitual>
+	<Charges>Phí tổn</Charges>
+	<PawnIsInMentalState>{0_nameDef} đang trong trạng thái tâm lý.</PawnIsInMentalState>
+	<PawnIsInAggroMentalState>{0_nameDef} đang trong trạng thái tâm lý hung hăng.</PawnIsInAggroMentalState>
+	<DisabledWorkLabel>Công việc bị vô hiệu hóa</DisabledWorkLabel>
+	<DisabledNeedsLabel>Nhu cầu bị vô hiệu hóa</DisabledNeedsLabel>
+	<GlowerChangeColor>Thay đổi màu sắc</GlowerChangeColor>
+	<GlowerChangeColorDescription>Thay đổi màu ánh sáng.</GlowerChangeColorDescription>
+	<GlowerChangeColorNeedsResearch>Bạn phải nghiên cứu {0} trước khi có thể thay đổi màu ánh sáng.</GlowerChangeColorNeedsResearch>
+	<ShieldPersonalTip>Một thiết bị lá chắn năng lượng dành cho một người. Nó có thể chặn các vật thể hoặc mảnh vỡ bay tới, nhưng không thể ngăn chặn các cuộc tấn công cận chiến, nhiệt độ cao và lửa. Hơn nữa, người đeo sẽ không thể bắn từ bên trong ra ngoài.\n\nThắt lưng lá chắn sẽ ngay lập tức cạn kiệt năng lượng sau khi bị tấn công EMP.</ShieldPersonalTip>
+	<UnrecruitableDesc>{PAWN_nameDef} rất trung thành với {PAWN_possessive} phe phái, nếu bị bắt, {PAWN_pronoun} sẽ từ chối bị tuyển dụng.</UnrecruitableDesc>
+	<Random>Ngẫu nhiên</Random>
+	<PlantThing>Trồng {0_label}</PlantThing>
+	<PlantThingDesc>Trồng {0_label} trong khu vực đã chọn</PlantThingDesc>
+	<CancelPlantThing>Hủy trồng {0_label}</CancelPlantThing>
+	<CancelPlantThingDesc>Hủy trồng {0_label}</CancelPlantThingDesc>
+	<AbilitySpeechDisabledAnotherGatheringInProgress>Có một cuộc họp khác đang diễn ra.</AbilitySpeechDisabledAnotherGatheringInProgress>
+	<AbilitySpeechCooldown>Còn lại thời gian cho bài phát biểu tiếp theo</AbilitySpeechCooldown>
+	<AbilitySpeechTargetsLabel>Bắt đầu vào</AbilitySpeechTargetsLabel>
+	<Benefits>Lợi ích</Benefits>
+	<Dangers>Nguy hiểm</Dangers>
+	<AlreadyUnlocked>Đã mở khóa</AlreadyUnlocked>
+	<WhenDiscovered>Chưa được phát hiện</WhenDiscovered>
+	<BookMentalBreakMessage>Sau khi đọc {0}, đã rơi vào trạng thái tâm lý sụp đổ.</BookMentalBreakMessage>
+	<BookReadProgress>{0} hoàn thành (sẽ hoàn thành sau {1} giờ)</BookReadProgress>
+	<BookLearningModifier>Tốc độ học tập</BookLearningModifier>
+	<BookMentalBreak>Xác suất tâm lý sụp đổ</BookMentalBreak>
+	<BookNotReadable>{BOOK_labelShort} không thể đọc</BookNotReadable>
+	<BookCantRead>{PAWN_nameDef} không thể đọc</BookCantRead>
+	<BookCantBeStage>{PAWN_nameDef} phải là {STAGES}</BookCantBeStage>
+	<BookBlind>{PAWN_nameDef} bị mù</BookBlind>
+	<BookMaxLevel>Cấp tối đa {0}</BookMaxLevel>
+	<ReadingReportHeader>Đọc {0}: {1} hoàn thành (sẽ hoàn thành sau {2} giờ)</ReadingReportHeader>
+	<ReadingDialogTitle>Chỉ định đọc</ReadingDialogTitle>
+	<ReadingAssignTo>Chỉ định cho {0}</ReadingAssignTo>
+	<ReadingAssign>Chỉ định</ReadingAssign>
+	<ContainedBooksDesc>Các sách lưu trữ trên giá sách này.</ContainedBooksDesc>
+	<BookshelfStoredInspect>Lưu trữ sách</BookshelfStoredInspect>
+	<BookshelfReadingBonusInspect>Thưởng đọc trong nhà</BookshelfReadingBonusInspect>
+	<EjectBookTooltip>Lấy quyển sách này ra khỏi giá sách.</EjectBookTooltip>
+	<CommandPushTo>Đẩy...</CommandPushTo>
+	<RequiredCapacity>Cần {0}</RequiredCapacity>
+	<UnableToEnterPortal>Không thể vào {0}, mục tiêu bị chặn</UnableToEnterPortal>
+	<ResearchNotDiscovered>Chưa phát hiện dự án nghiên cứu này.</ResearchNotDiscovered>
+	<Emergence>Xuất hiện</Emergence>
+	<RemovePart>Gỡ bỏ {0}</RemovePart>
+	<DoWorkAtThing>{GERUND} {TARGETLABEL} tại</DoWorkAtThing>
+	<CanBeStudiedInDuration>Có thể điều tra lại sau {0}</CanBeStudiedInDuration>
+	<AboutToExplode>Sắp phát nổ</AboutToExplode>
+	<MainScreen_AnomalyAvailableNow>DLC hiện tượng hoàn toàn mới đã phát hành!</MainScreen_AnomalyAvailableNow>
+	<DisabledByScenario>Bị kịch bản vô hiệu hóa</DisabledByScenario>
+	  <BlockedByRoof>Bị chặn bởi mái nhà</BlockedByRoof>
+<!--	<RadiusExpandRate>Tốc độ mở rộng bán kính</RadiusExpandRate>
+	<GameOverKeepPlaying>Tiếp tục chơi</GameOverKeepPlaying>
+	<HealingCureHediff>{0_nameDef} đã được chữa khỏi {1}.</HealingCureHediff>
+	<RitualOutcomeChances>Xác suất kết quả dưới hiệu ứng {0}</RitualOutcomeChances>
+	<ChooseParticipants>Chọn ai sẽ tham gia {RITUAL_labelDef}.</ChooseParticipants>
+	<ExpectedRitualQuality>Chất lượng dự kiến</ExpectedRitualQuality>
+	<ExpectedRitualDuration>Thời gian dự kiến</ExpectedRitualDuration>-->
+</LanguageData>

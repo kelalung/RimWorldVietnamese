@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Combat_ExplosionImpact.rulePack.rulesStrings>
+		<li>prefix->[fromof][INITIATOR_definite] gây ra [projectile] [blast] </li>
+		<li>prefix->[fromof][INITIATOR_definite] gây ra [WEAPON_label] [blast]</li>
+		<li>prefix->[fromof][INITIATOR_definite] sử dụng [projectile] tạo ra [blast]</li>
+		<li>prefix->[fromof][INITIATOR_definite] sử dụng [WEAPON_label] tạo ra [blast]</li>
+		<li>prefix->[INITIATOR_definite] gây ra [blast]</li>
+		<li>prefix->[INITIATOR_definite] dùng [projectile] gây ra [blast]</li>
+		<li>prefix->[INITIATOR_definite] dùng [WEAPON_label] gây ra [blast]</li>
+		<li>prefix->[INITIATOR_definite] dùng [projectile]</li>
+		<li>prefix->[INITIATOR_definite] dùng [WEAPON_label]</li>
+		<li>r_logentry->[prefix][injured][RECIPIENT_definite].</li>
+		<li>r_logentry->[prefix][destroyed_past][RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry->[prefix][adverb_flavortext][destroyed_past][RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry->[prefix][adverb_flavortext][destroyed_past] [RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry->[prefix][destroyed_past][RECIPIENT_definite] của [destroyed_targets] và [damaged_past][RECIPIENT_possessive][damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix][damaged_past][RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix][adverb_flavortext][damaged_past][RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[prefix][adverb_flavortext][damaged_past] [RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry->[RECIPIENT_definite] bị [INITIATOR_definite][damaged_past].</li>
+		<li>r_logentry->[RECIPIENT_definite] bị [INITIATOR_definite][adverb_flavortext][damaged_past].</li>
+		<li>r_logentry->[RECIPIENT_definite] bị [damaged_past].</li>
+		<li>r_logentry(p=0.001)->[RECIPIENT_definite] bị bùng nổ ảnh hưởng.</li>
+		<li>r_logentry(p=0.001)->[RECIPIENT_definite] bị bùng nổ đánh trúng.</li>
+		<li>blast->Nổ</li>
+		<li>blast->Nổ</li>
+		<li>blast->Sóng xung kích</li>
+		<li>blast->Nổ</li>
+		<li>blast->Năng lượng</li>
+		<li>blast->Lực xung kích</li>
+		<li>fromof->đến từ</li>
+		<li>fromof->từ</li>
+	</Combat_ExplosionImpact.rulePack.rulesStrings>
+	<Combat_RangedBase.rulePack.rulesStrings>
+		<li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+		<li>projectile->[WEAPON_projectile_label]</li>
+	</Combat_RangedBase.rulePack.rulesStrings>
+	<Combat_RangedDamage.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] của [projectile][destroyed_past][RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry->[INITIATOR_definite] của [projectile][destroyed_past][RECIPIENT_definite] của [destroyed_targets][to][destroyed_suffix].</li>
+		<li>r_logentry(p=2)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite] và [destroyed_past][RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry(p=2)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],trong khi [destroyed_present][RECIPIENT_definite] của [destroyed_targets].</li>
+		<li>r_logentry->[RECIPIENT_definite] của [destroyed_targets] bị [INITIATOR_definite] của [projectile][destroyed_past].</li>
+		<li>r_logentry->[RECIPIENT_definite] của [destroyed_targets] bị [INITIATOR_definite] của [projectile][destroyed_past],trở thành [destroyed_suffix].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] của [projectile][damaged_past][RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite] và [damaged_past][RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],trong khi [damaged_present][RECIPIENT_definite] của [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite] của [damaged_targets] bị [INITIATOR_definite] của [projectile][damaged_past].</li>
+		<li>r_logentry(p=3)->[INITIATOR_definite] của [projectile][destroyed_past][RECIPIENT_definite] của [destroyed_targets] và [damaged_past][RECIPIENT_possessive][damaged_targets].</li>
+		<li>r_logentry(p=6)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],trong khi [destroyed_present][RECIPIENT_definite] của [destroyed_targets] và [damaged_present][RECIPIENT_possessive][damaged_targets].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] của [projectile] đánh trúng [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] dùng [projectile] đánh trúng [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],nhưng lại đánh trúng [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],và vô tình làm bị thương [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] dùng [projectile] nhắm vào [ORIGINALTARGET_definite],kết quả đánh trúng [RECIPIENT_definite].</li>
+		<li>projectile(p=0.05)->bắn</li>
+		<li>destroyed_past->bị nghiền nát</li>
+		<li>destroyed_past->bị đánh bay</li>
+		<li>destroyed_past->bị mang đi</li>
+		<li>destroyed_past->bị phá hủy</li>
+		<li>destroyed_past->bị xuyên thủng</li>
+		<li>destroyed_past->bị xuyên qua</li>
+		<li>destroyed_past->bị đâm thủng</li>
+		<li>destroyed_present->bị nghiền nát</li>
+		<li>destroyed_present->bị đánh vỡ</li>
+		<li>destroyed_present->bị phá hủy</li>
+		<li>destroyed_present->bị phá hủy</li>
+		<li>destroyed_present->bị xuyên thủng</li>
+		<li>destroyed_present->bị xuyên thủng</li>
+		<li>destroyed_present->bị xuyên thủng</li>
+		<li>destroyed_suffix->nhiều mảnh</li>
+		<li>destroyed_suffix->một đống mảnh vụn</li>
+		<li>destroyed_suffix->một đám sương mù</li>
+		<li>destroyed_suffix->mảnh vụn</li>
+		<li>destroyed_suffix(p=0.5)->tổ ong</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->thịt băm</li>
+		<li>damaged_past->bị đánh trúng</li>
+		<li>damaged_past->bị trúng</li>
+		<li>damaged_past->bị đánh trúng</li>
+		<li>damaged_past->bị đánh trúng</li>
+		<li>damaged_past->trúng mục tiêu</li>
+		<li>damaged_present->bị thương</li>
+		<li>damaged_present->bị bắn trúng</li>
+		<li>damaged_present->bị xuyên thủng</li>
+		<li>damaged_present->bị bắn trúng</li>
+		<li>damaged_present->bị bắn trúng</li>
+		<li>damaged_suffix->trông thê thảm</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)->máu bắn tung tóe</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)->thân thể đầy thương tích</li>
+		<li>to->vết thương</li>
+		<li>to->vùng bị trúng đạn</li>
+		<li>missed->không trúng</li>
+		<li>missed->không bị trúng</li>
+	</Combat_RangedDamage.rulePack.rulesStrings>
+	<Combat_RangedDeflect.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] của [projectile][damaged_past][RECIPIENT_definite] của [damaged_target][deflected_result].</li>
+		<li>r_logentry(p=2)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite] và [damaged_past][RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] bị [INITIATOR_definite] của [projectile][damaged_past][deflected_result].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] dùng [projectile] đánh trúng [RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] của [projectile] đánh trúng [RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] sử dụng [projectile][missed][ORIGINALTARGET_definite],trong khi vô tình làm bị thương [RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] của [projectile][missed][ORIGINALTARGET_definite],nhưng lại đánh trúng [RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] dùng [projectile] nhắm vào [ORIGINALTARGET_definite],kết quả đánh trúng [RECIPIENT_definite][damaged_target_possessive_opt][deflected_result].</li>
+		<li>projectile(p=0.05)->bắn</li>
+		<li>damaged_target_possessive_opt-></li>
+		<li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->của [recipient_part_damaged0_label]</li>
+		<li>deflected_result-> [adverb_deflected]</li>
+		<li>deflected_result->,[deflected_consequence]</li>
+		<li>adverb_deflected_opt(p=4)-></li>
+		<li>adverb_deflected_opt->[adverb_deflected]</li>
+		<li>adverb_deflected->,nhưng không gây thiệt hại</li>
+		<li>adverb_deflected->,nhưng hiệu quả rất nhỏ</li>
+		<li>deflected_consequence->nhưng [scraped_past][adverb_deflected_opt]</li>
+		<li>deflected_consequence->nhưng bị [RECIPIENT_possessive] của áo giáp [scraped_present][adverb_deflected_opt]</li>
+		<li>scraped_past->bị bật ra</li>
+		<li>scraped_present->bị bật ra</li>
+		<li>missed->không trúng</li>
+		<li>missed->không bị trúng</li>
+	</Combat_RangedDeflect.rulePack.rulesStrings>
+	<Combat_RangedFire.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] dùng [INITIATOR_possessive][WEAPON_label] nhắm vào [RECIPIENT_definite][shotat].</li>
+		<li>r_logentry->[INITIATOR_definite] dựa vào [INITIATOR_possessive][WEAPON_label] nhắm vào [RECIPIENT_definite][shot].</li>
+		<li>r_logentry->[INITIATOR_definite] nhắm vào [RECIPIENT_definite][shotat].</li>
+		<li>r_logentry->[INITIATOR_definite] dùng [projectile][burst] nhắm vào [RECIPIENT_definite][shot_a].</li>
+		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] dùng [projectile][shot_a].</li>
+		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] dựa vào [INITIATOR_possessive][WEAPON_label][shot].</li>
+		<li>shot_a->[adverb_shot][verb_shot]</li>
+		<li>shot_a(p=2)->[verb_shot]</li>
+		<li>shot(p=2)->[verb_shot]</li>
+		<li>shot->[adverb_shot][verb_shot]</li>
+		<li>shotat->bắn [aburst]</li>
+		<li>shotat->[adverb_shot] bắn [aburst]</li>
+		<li>shotat(p=0.5)->bắn một cách tập trung [aburst]</li>
+		<li>shotat(p=0.3)->mở súng</li>
+		<li>shotat(p=0.2)->bắn một phát [adjective_shot]</li>
+		<li>shotat->mở lửa [aburst]</li>
+		<li>shotat->[adverb_shot] mở lửa [aburst]</li>
+		<li>shotat(p=0.5)->nhắm và mở lửa [aburst]</li>
+		<li>shotat(p=0.5)->[skillAdv] nhắm và mở lửa [aburst]</li>
+		<li>shotat(p=0.3)->mở lửa</li>
+		<li>aburst-></li>
+		<li>aburst(BURST==True,p=3)->,bắn một loạt điểm</li>
+		<li>burst-></li>
+		<li>burst(BURST==True,p=3)->bắn loạt</li>
+		<li>verb_shot->bắn</li>
+		<li>verb_shot->mở lửa</li>
+		<li>verb_shot(p=0.2)->bắn ra</li>
+	</Combat_RangedFire.rulePack.rulesStrings>
+	<Combat_RangedFire_Thrown.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] nhắm vào [RECIPIENT_definite][threw][INITIATOR_possessive][projectile].</li>
+		<li>r_logentry->[INITIATOR_definite] nhắm vào [RECIPIENT_definite][threw_a][projectile].</li>
+		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite][threw][INITIATOR_possessive][projectile].</li>
+		<li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite][threw_a][projectile].</li>
+		<li>threw_a->[adverb_threw][verb_threw] một viên</li>
+		<li>threw_a(p=2)->[verb_threw] một viên</li>
+		<li>threw(p=2)->[verb_threw]</li>
+		<li>threw->[adverb_threw][verb_threw]</li>
+		<li>verb_threw->ném</li>
+		<li>verb_threw->quăng ra</li>
+		<li>verb_threw->vung ra</li>
+		<li>adverb_threw->một cách cẩn thận</li>
+		<li>adverb_threw->nhanh chóng</li>
+		<li>adverb_threw->một cách chính xác</li>
+		<li>adverb_threw->một cách bình tĩnh</li>
+		<li>adverb_threw(initiator_flesh!=Mechanoid)->một cách thận trọng</li>
+		<li>adverb_threw->một cách chính xác</li>
+		<li>adverb_threw(initiator_flesh!=Mechanoid)->một cách cảnh giác</li>
+		<li>adjective_threw->cẩn thận</li>
+		<li>adjective_threw->nhanh chóng</li>
+		<li>adjective_threw->bình tĩnh</li>
+		<li>adjective_threw->chính xác</li>
+		<li>adjective_threw(initiator_flesh!=Mechanoid)->nhạy bén</li>
+	</Combat_RangedFire_Thrown.rulePack.rulesStrings>
+	<Combat_RangedMiss.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] của [projectile][missed].</li>
+		<li>r_logentry->[INITIATOR_definite] không trúng [ORIGINALTARGET_definite].</li>
+		<li>r_logentry->[ORIGINALTARGET_definite][avoidance],[INITIATOR_definite] của [projectile][missing].</li>
+		<li>missed(p=4)->bắn lệch</li>
+		<li>missed(p=2)->chệch một chút</li>
+		<li>missed(p=2)->bắn lệch xa</li>
+		<li>missed->bắn sai</li>
+		<li>missed->chỉ bắn trúng không khí</li>
+		<li>missed->bắn cao</li>
+		<li>missed->bắn xuống đất</li>
+		<li>missed->bị bật lên từ mặt đất và biến mất</li>
+		<li>missed->bắn bay một mảnh đất</li>
+		<li>missed(p=0.2)->vượt qua [ORIGINALTARGET_definite]</li>
+		<li>missed->vù vù bay qua [ORIGINALTARGET_definite]</li>
+		<li>missed->điểm bắn cách xa [ORIGINALTARGET_definite]</li>
+		<li>missed->lệch mục tiêu</li>
+		<li>missing->không trúng</li>
+		<li>missing->vượt qua</li>
+		<li>missing->lệch xa</li>
+		<li>missing->bắn sai</li>
+		<li>missing->chỉ bắn trúng không khí</li>
+		<li>missing->bắn cao</li>
+		<li>missing->chui vào đất</li>
+		<li>missing->bị bật lên từ mặt đất và biến mất</li>
+		<li>missing->bắn bay một mảnh đất</li>
+		<li>missing(p=0.2)->vượt qua [ORIGINALTARGET_definite]</li>
+		<li>missing->vù vù bay qua [ORIGINALTARGET_definite]</li>
+		<li>missing->điểm bắn cách xa [ORIGINALTARGET_definite]</li>
+		<li>missing->lệch mục tiêu</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moment][moved]</li>
+		<li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked][COVER_definite] yểm hộ</li>
+		<li>moved->đã di chuyển</li>
+		<li>moved->tránh ra</li>
+		<li>moved->nhảy ra</li>
+		<li>moved->tránh né</li>
+		<li>moment->một khoảnh khắc</li>
+		<li>moment->một giây</li>
+		<li>moment->ngay lập tức</li>
+		<li>ducked->trốn vào</li>
+		<li>ducked->ngồi xổm vào</li>
+		<li>ducked->nằm xuống</li>
+		<li>ducked->ẩn mình trong</li>
+	</Combat_RangedMiss.rulePack.rulesStrings>
+</LanguageData>

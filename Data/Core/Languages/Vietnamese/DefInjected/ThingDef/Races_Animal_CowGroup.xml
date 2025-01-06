@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bison.label>Bò rừng bison</Bison.label>
+<Bison.description>Một loài động vật có vú ăn cỏ lớn, thường xuất hiện trên đồng cỏ và vùng hoang dã. Khi được thuần hóa, chúng khá hiền lành, nhưng khi bị kích thích có thể trở nên rất hung dữ.</Bison.description>
+<Bison.tools.head.label>Đầu</Bison.tools.head.label>
+<Bison.tools.left_hoof.label>Móng trái</Bison.tools.left_hoof.label>
+<Bison.tools.left_hoof.labelNoLocation>Móng</Bison.tools.left_hoof.labelNoLocation>
+<Bison.tools.right_hoof.label>Móng phải</Bison.tools.right_hoof.label>
+<Bison.tools.right_hoof.labelNoLocation>Móng</Bison.tools.right_hoof.labelNoLocation>
+<Boomalope.label>Cừu nổ</Boomalope.label>
+<Boomalope.description>Loài động vật được tạo ra đặc biệt cho sản xuất hóa chất, cừu nổ có túi lớn chứa nhiều chất hóa học không ổn định. Mặc dù có hình dáng mỏng manh, nhưng các loài động vật khác đã học cách tránh xa chúng vì khi chết, chúng sẽ phát nổ. Có thể sản xuất nhiên liệu hóa học định kỳ.</Boomalope.description>
+<Boomalope.tools.head.label>Đầu</Boomalope.tools.head.label>
+<Boomalope.tools.left_hoof.label>Móng trái</Boomalope.tools.left_hoof.label>
+<Boomalope.tools.left_hoof.labelNoLocation>Móng</Boomalope.tools.left_hoof.labelNoLocation>
+<Boomalope.tools.right_hoof.label>Móng phải</Boomalope.tools.right_hoof.label>
+<Boomalope.tools.right_hoof.labelNoLocation>Móng</Boomalope.tools.right_hoof.labelNoLocation>
+<Caribou.label>Tuần lộc</Caribou.label>
+<Caribou.description>Một trong những thành viên lớn của họ hươu, rất thích nghi với khí hậu lạnh.</Caribou.description>
+<Caribou.tools.left_hoof.label>Móng trái</Caribou.tools.left_hoof.label>
+<Caribou.tools.left_hoof.labelNoLocation>Móng</Caribou.tools.left_hoof.labelNoLocation>
+<Caribou.tools.right_hoof.label>Móng phải</Caribou.tools.right_hoof.label>
+<Caribou.tools.right_hoof.labelNoLocation>Móng</Caribou.tools.right_hoof.labelNoLocation>
+<Caribou.tools.head.label>Đầu</Caribou.tools.head.label>
+<Cow.label>Bò</Cow.label>
+<Cow.description>Một loài gia súc rất phổ biến. Chúng có thể sản xuất lượng lớn sữa, hoặc được giết thịt để trở thành món ăn ngon.</Cow.description>
+<Cow.race.meatLabel>Thịt bò</Cow.race.meatLabel>
+<Cow.tools.head.label>Đầu</Cow.tools.head.label>
+<Cow.tools.left_hoof.label>Móng trái</Cow.tools.left_hoof.label>
+<Cow.tools.left_hoof.labelNoLocation>Móng</Cow.tools.left_hoof.labelNoLocation>
+<Cow.tools.right_hoof.label>Móng phải</Cow.tools.right_hoof.label>
+<Cow.tools.right_hoof.labelNoLocation>Móng</Cow.tools.right_hoof.labelNoLocation>
+<Donkey.label>Con lừa</Donkey.label>
+<Donkey.description>Một loài gần gũi với ngựa, được con người thuần hóa từ xa xưa để phục vụ nông nghiệp. Tiếng kêu ngốc nghếch của nó vừa khó chịu vừa dễ thương.</Donkey.description>
+<Donkey.tools.head.label>Đầu</Donkey.tools.head.label>
+<Donkey.tools.left_hoof.label>Móng trái</Donkey.tools.left_hoof.label>
+<Donkey.tools.left_hoof.labelNoLocation>Móng</Donkey.tools.left_hoof.labelNoLocation>
+<Donkey.tools.right_hoof.label>Móng phải</Donkey.tools.right_hoof.label>
+<Donkey.tools.right_hoof.labelNoLocation>Móng</Donkey.tools.right_hoof.labelNoLocation>
+<Dromedary.label>Lạc đà một bướu</Dromedary.label>
+<Dromedary.description>Một loài động vật có vú lớn thích nghi với môi trường khô cằn. Được thuần hóa từ lâu, da của nó giúp cách nhiệt tốt trong cái nóng của sa mạc, và sữa của nó rất bổ dưỡng. Có thể dùng làm thú cưỡi và vận chuyển, nhưng bước đi của nó chậm hơn ngựa do cách di chuyển nhảy nhót.\n\nNó có thể tích trữ nước trong bướm lớn và thu hồi nước từ hơi thở, cho phép nó sống sót hàng tuần mà không cần nước.\n\nTrong các đoàn lữ hành, người ta có thể cưỡi lạc đà một bướu để tăng tốc độ của đoàn.</Dromedary.description>
+<Dromedary.tools.left_hoof.label>Móng trái</Dromedary.tools.left_hoof.label>
+<Dromedary.tools.left_hoof.labelNoLocation>Móng</Dromedary.tools.left_hoof.labelNoLocation>
+<Dromedary.tools.right_hoof.label>Móng phải</Dromedary.tools.right_hoof.label>
+<Dromedary.tools.right_hoof.labelNoLocation>Móng</Dromedary.tools.right_hoof.labelNoLocation>
+<Dromedary.tools.head.label>Đầu</Dromedary.tools.head.label>
+<Elephant.label>Voi</Elephant.label>
+<Elephant.description>Động vật trên cạn lớn nhất. Nó có thể sử dụng ngà dài của mình như một công cụ vận chuyển hoặc vũ khí chết người.</Elephant.description>
+<Elephant.tools.tusk.label>Ngà</Elephant.tools.tusk.label>
+<Elephant.tools.left_foot.label>Chân trái</Elephant.tools.left_foot.label>
+<Elephant.tools.left_foot.labelNoLocation>Chân</Elephant.tools.left_foot.labelNoLocation>
+<Elephant.tools.right_foot.label>Chân phải</Elephant.tools.right_foot.label>
+<Elephant.tools.right_foot.labelNoLocation>Chân</Elephant.tools.right_foot.labelNoLocation>
+<Elephant.tools.head.label>Đầu</Elephant.tools.head.label>
+<Elk.label>Hươu cao cổ</Elk.label>
+<Elk.description>Một trong những thành viên lớn của họ hươu, rất thích nghi với khí hậu lạnh.</Elk.description>
+<Elk.tools.left_hoof.label>Móng trái</Elk.tools.left_hoof.label>
+<Elk.tools.left_hoof.labelNoLocation>Móng</Elk.tools.left_hoof.labelNoLocation>
+<Elk.tools.right_hoof.label>Móng phải</Elk.tools.right_hoof.label>
+<Elk.tools.right_hoof.labelNoLocation>Móng</Elk.tools.right_hoof.labelNoLocation>
+<Elk.tools.head.label>Đầu</Elk.tools.head.label>
+<Goat.label>Con dê</Goat.label>
+<Goat.description>Dê là loài động vật hiền lành, luôn tò mò về thế giới, là một trong những loài gia súc thân thiện nhất mà con người nuôi dưỡng.</Goat.description>
+<Goat.tools.head.label>Đầu</Goat.tools.head.label>
+<Horse.label>Ngựa</Horse.label>
+<Horse.description>Một loài động vật có vú lớn có móng. Ngựa đã được con người thuần hóa từ rất lâu và được sử dụng trong giao thông.</Horse.description>
+<Horse.race.meatLabel>Thịt ngựa</Horse.race.meatLabel>
+<Horse.tools.head.label>Đầu</Horse.tools.head.label>
+<Horse.tools.left_hoof.label>Móng trái</Horse.tools.left_hoof.label>
+<Horse.tools.left_hoof.labelNoLocation>Móng</Horse.tools.left_hoof.labelNoLocation>
+<Horse.tools.right_hoof.label>Móng phải</Horse.tools.right_hoof.label>
+<Horse.tools.right_hoof.labelNoLocation>Móng</Horse.tools.right_hoof.labelNoLocation>
+<Muffalo.label>Trâu tuyết</Muffalo.label>
+<Muffalo.description>Một loài động vật ăn cỏ lớn sống theo bầy, phát triển từ loài trâu nước và thích nghi với môi trường đặc biệt. Khi không bị quấy rầy, chúng có tính cách hiền lành.</Muffalo.description>
+<Muffalo.tools.head.label>Đầu</Muffalo.tools.head.label>
+<Muffalo.tools.left_hoof.label>Móng trái</Muffalo.tools.left_hoof.label>
+<Muffalo.tools.left_hoof.labelNoLocation>Móng</Muffalo.tools.left_hoof.labelNoLocation>
+<Muffalo.tools.right_hoof.label>Móng phải</Muffalo.tools.right_hoof.label>
+<Muffalo.tools.right_hoof.labelNoLocation>Móng</Muffalo.tools.right_hoof.labelNoLocation>
+<Rhinoceros.label>Tê giác</Rhinoceros.label>
+<Rhinoceros.description>Loài động vật có vú lớn này thường hòa bình, nhưng sẽ không ngần ngại dùng sừng để đẩy lùi kẻ xâm phạm lãnh thổ.</Rhinoceros.description>
+<Rhinoceros.tools.horn-0.label>Sừng</Rhinoceros.tools.horn-0.label>
+<Rhinoceros.tools.horn-1.label>Sừng</Rhinoceros.tools.horn-1.label>
+<Rhinoceros.tools.head.label>Đầu</Rhinoceros.tools.head.label>
+<Yak.label>Bò Tây Tạng</Yak.label>
+<Yak.description>Là loài động vật có thân hình vạm vỡ, chân ngắn và rộng giúp chúng di chuyển trong tuyết dễ dàng.</Yak.description>
+<Yak.race.meatLabel>Thịt Yak</Yak.race.meatLabel>
+<Yak.tools.head.label>Đầu</Yak.tools.head.label>
+<Yak.tools.left_hoof.label>Móng trái</Yak.tools.left_hoof.label>
+<Yak.tools.left_hoof.labelNoLocation>Móng</Yak.tools.left_hoof.labelNoLocation>
+<Yak.tools.right_hoof.label>Móng phải</Yak.tools.right_hoof.label>
+<Yak.tools.right_hoof.labelNoLocation>Móng</Yak.tools.right_hoof.labelNoLocation>
+</LanguageData>

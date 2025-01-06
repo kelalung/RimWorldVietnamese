@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CracksShieldBreak.label>Đứt gãy khiên</CracksShieldBreak.label>
+<FlashShieldBreak.label>Ánh sáng khiên</FlashShieldBreak.label>
+<GroundCrackHuge.label>Bụi</GroundCrackHuge.label>
+<Mote_ActivatorCountdownGlow.label>Ánh sáng</Mote_ActivatorCountdownGlow.label>
+<Mote_ActivatorProximityGlow.label>Ánh sáng</Mote_ActivatorProximityGlow.label>
+<Mote_Bombardment.label>Bụi</Mote_Bombardment.label>
+<Mote_CookBit.label>Bụi</Mote_CookBit.label>
+<Mote_FoodBitMeat.label>Bụi</Mote_FoodBitMeat.label>
+<Mote_FoodBitVegetarian.label>Bụi</Mote_FoodBitVegetarian.label>
+<Mote_ForcedVisible.label>Bụi</Mote_ForcedVisible.label>
+<Mote_ForceJob.label>Bắt buộc</Mote_ForceJob.label>
+<Mote_ForceJobMaintained.label>Bảo trì</Mote_ForceJobMaintained.label>
+<Mote_GiantExplosion.label>Bụi</Mote_GiantExplosion.label>
+<Mote_GiantExplosionInner.label>Bụi</Mote_GiantExplosionInner.label>
+<Mote_Leaf.label>Bụi</Mote_Leaf.label>
+<Mote_PowerBeam.label>Bụi</Mote_PowerBeam.label>
+<Mote_PowerCellBurning.label>Pin đang cháy</Mote_PowerCellBurning.label>
+<Mote_PsychicConditionCauserEffect.label>Dây cáp</Mote_PsychicConditionCauserEffect.label>
+<Mote_PsychicEmanatorEffect.label>Máy phát</Mote_PsychicEmanatorEffect.label>
+<Mote_ResurrectAbility.label>Khả năng hồi sinh</Mote_ResurrectAbility.label>
+<Mote_ResurrectFlash.label>Ánh sáng hồi sinh</Mote_ResurrectFlash.label>
+<Mote_SparkThrownFastBright.label>Vi hạt</Mote_SparkThrownFastBright.label>
+<Mote_StoneBit.label>Bụi</Mote_StoneBit.label>
+<Mote_VomitBit.label>Bụi</Mote_VomitBit.label>
+</LanguageData>

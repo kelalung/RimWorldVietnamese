@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimalSlaughter_Disapproved.label>Phản đối</AnimalSlaughter_Disapproved.label>
+<AnimalSlaughter_Disapproved.description>Giết mổ động vật là một điều ghê tởm.</AnimalSlaughter_Disapproved.description>
+<AnimalSlaughter_Disapproved.comps.1.description>Có người đã giết mổ động vật.</AnimalSlaughter_Disapproved.comps.1.description>
+<AnimalSlaughter_Horrible.label>Kinh khủng</AnimalSlaughter_Horrible.label>
+<AnimalSlaughter_Horrible.description>Giết mổ động vật là một điều đáng sợ.</AnimalSlaughter_Horrible.description>
+<AnimalSlaughter_Horrible.comps.1.description>Có người đã giết mổ động vật</AnimalSlaughter_Horrible.comps.1.description>
+<AnimalSlaughter_Prohibited.label>Cấm kỵ</AnimalSlaughter_Prohibited.label>
+<AnimalSlaughter_Prohibited.description>Giết mổ động vật là điều tuyệt đối bị cấm.</AnimalSlaughter_Prohibited.description>
+<AnimalSlaughter_Prohibited.comps.1.description>Có người đã giết mổ động vật</AnimalSlaughter_Prohibited.comps.1.description>
+<AnimalSlaughter_Prohibited.comps.2.description>Giết mổ động vật</AnimalSlaughter_Prohibited.comps.2.description>
+</LanguageData>

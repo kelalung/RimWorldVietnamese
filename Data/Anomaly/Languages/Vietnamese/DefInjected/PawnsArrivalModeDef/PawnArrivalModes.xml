@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EdgeWalkInDarkness.textEnemy>Một nhóm {0} đã đến gần.</EdgeWalkInDarkness.textEnemy>
+	<EdgeWalkInDarkness.textFriendly>Một nhóm đồng minh {0} đã đến gần.</EdgeWalkInDarkness.textFriendly>
+	<EdgeWalkInDarkness.textWillArrive>{0_pawnsPluralDef} sẽ đi bộ đến căn cứ của bạn.</EdgeWalkInDarkness.textWillArrive>
+	<EdgeWalkInDistributedGroups.textEnemy>{0} con quái vật lê bước thối rữa đã đến gần.</EdgeWalkInDistributedGroups.textEnemy>
+	<EdgeWalkInDistributedGroups.textWillArrive>{0} con quái vật lê bước thối rữa sắp đến.</EdgeWalkInDistributedGroups.textWillArrive>
+	<EdgeWalkInHateChanters.textEnemy>Một nhóm {0} từ {1} đã đến gần.</EdgeWalkInHateChanters.textEnemy>
+	<EdgeWalkInHateChanters.textFriendly>Một nhóm đồng minh {0} từ {1} đã đến gần.</EdgeWalkInHateChanters.textFriendly>
+	<EdgeWalkInHateChanters.textWillArrive>{0_pawnsPluralDef} sẽ đi bộ đến căn cứ của bạn.</EdgeWalkInHateChanters.textWillArrive>
+</LanguageData>

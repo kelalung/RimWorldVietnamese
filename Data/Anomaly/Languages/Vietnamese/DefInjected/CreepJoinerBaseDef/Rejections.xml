@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AggressiveRejection.label>Hiếu chiến</AggressiveRejection.label>
+  <AggressiveRejection.letterDesc>Sau khi bị từ chối, {PAWN_nameDef} rơi vào cơn cuồng bạo, bắt đầu tấn công một cách điên cuồng!</AggressiveRejection.letterDesc>
+  <AggressiveRejection.letterLabel>{PAWN_nameDef} thù địch</AggressiveRejection.letterLabel>
+  <Departure.label>Rời đi</Departure.label>
+  <Departure.letterDesc>{PAWN_nameDef} rất thất vọng với cách bạn đối xử với {PAWN_objective}. {PAWN_pronoun} quyết định rời đi.</Departure.letterDesc>
+  <Departure.letterLabel>{PAWN_nameDef} rời đi</Departure.letterLabel>
+</LanguageData>

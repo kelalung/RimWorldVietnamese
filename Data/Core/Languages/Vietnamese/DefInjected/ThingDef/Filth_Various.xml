@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Filth_AmnioticFluid.label>Dịch ối</Filth_AmnioticFluid.label>
+	<Filth_AnimalFilth.label>Phân động vật</Filth_AnimalFilth.label>
+	<Filth_Ash.label>Tro</Filth_Ash.label>
+	<Filth_Blood.label>Máu</Filth_Blood.label>
+	<Filth_BloodInsect.label>Máu côn trùng</Filth_BloodInsect.label>
+	<Filth_BloodSmear.label>Vết máu</Filth_BloodSmear.label>
+	<Filth_CorpseBile.label>Dịch xác</Filth_CorpseBile.label>
+	<Filth_Dirt.label>Bụi bẩn</Filth_Dirt.label>
+	<Filth_FireFoam.label>Bọt chữa cháy</Filth_FireFoam.label>
+	<Filth_Fuel.label>Chất lỏng hóa học</Filth_Fuel.label>
+	<Filth_Fuel.description>Một vũng chất hóa học dễ cháy.</Filth_Fuel.description>
+	<Filth_Hair.label>Tóc</Filth_Hair.label>
+	<Filth_MachineBits.label>Mảnh vụn máy móc</Filth_MachineBits.label>
+	<!-- <Filth_RevenantBlood.label>Máu ma quái</Filth_RevenantBlood.label> -->
+	<Filth_RubbleBuilding.label>Đống đổ nát xây dựng</Filth_RubbleBuilding.label>
+	<Filth_RubbleRock.label>Mảnh đá vụn</Filth_RubbleRock.label>
+	<Filth_Sand.label>Cát</Filth_Sand.label>
+	<Filth_Slime.label>Chất nhờn</Filth_Slime.label>
+	<Filth_SpentAcid.label>Acid đã sử dụng</Filth_SpentAcid.label>
+	<Filth_Trash.label>Rác</Filth_Trash.label>
+	<Filth_Vomit.label>Chất nôn</Filth_Vomit.label>
+	<Filth_Water.label>Vũng nước</Filth_Water.label>
+	<SandbagRubble.label>Đống bao cát rải rác</SandbagRubble.label>
+	<SlagRubble.label>Mảnh vụn kim loại</SlagRubble.label>
+</LanguageData>

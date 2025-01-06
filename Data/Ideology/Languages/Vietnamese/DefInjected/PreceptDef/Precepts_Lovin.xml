@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Lovin_FreeApproved.label>Tôn trọng</Lovin_FreeApproved.label>
+<Lovin_FreeApproved.description>Các hành động yêu thương là điều cao quý, bất kể ai với ai.</Lovin_FreeApproved.description>
+<Lovin_Horrible.label>Kinh khủng</Lovin_Horrible.label>
+<Lovin_Horrible.description>Mặc dù cần thiết trong hôn nhân, nhưng hành vi buông thả là điều đáng xấu hổ.</Lovin_Horrible.description>
+<Lovin_Horrible.comps.1.description>Hành vi buông thả với người không phải vợ/chồng</Lovin_Horrible.comps.1.description>
+<Lovin_Horrible.comps.3.description>Hành vi buông thả với vợ/chồng</Lovin_Horrible.comps.3.description>
+<Lovin_Prohibited.label>Cấm kỵ</Lovin_Prohibited.label>
+<Lovin_Prohibited.description>Hành vi buông thả luôn là đáng khinh, ghê tởm và sai trái.</Lovin_Prohibited.description>
+<Lovin_Prohibited.comps.1.description>Hành vi buông thả</Lovin_Prohibited.comps.1.description>
+<Lovin_SpouseOnly_Mild.label>Chỉ dành cho vợ/chồng (nhẹ)</Lovin_SpouseOnly_Mild.label>
+<Lovin_SpouseOnly_Mild.description>Mặc dù việc lăn lộn với người khác ngoài hôn nhân là có thể hiểu được, nhưng đó không phải là điều tốt.</Lovin_SpouseOnly_Mild.description>
+<Lovin_SpouseOnly_Mild.comps.1.description>Hành vi buông thả với người không phải vợ/chồng</Lovin_SpouseOnly_Mild.comps.1.description>
+<Lovin_SpouseOnly_Moderate.label>Chỉ dành cho vợ/chồng (vừa)</Lovin_SpouseOnly_Moderate.label>
+<Lovin_SpouseOnly_Moderate.description>Việc lăn lộn với người khác ngoài hôn nhân là sai trái.</Lovin_SpouseOnly_Moderate.description>
+<Lovin_SpouseOnly_Moderate.comps.1.description>Hành vi buông thả với người không phải vợ/chồng</Lovin_SpouseOnly_Moderate.comps.1.description>
+<Lovin_SpouseOnly_Strict.label>Chỉ dành cho vợ/chồng (nghiêm ngặt)</Lovin_SpouseOnly_Strict.label>
+<Lovin_SpouseOnly_Strict.description>Việc lăn lộn với người khác ngoài hôn nhân là rất phi đạo đức.</Lovin_SpouseOnly_Strict.description>
+<Lovin_SpouseOnly_Strict.comps.1.description>Hành vi buông thả với người không phải vợ/chồng</Lovin_SpouseOnly_Strict.comps.1.description>
+</LanguageData>

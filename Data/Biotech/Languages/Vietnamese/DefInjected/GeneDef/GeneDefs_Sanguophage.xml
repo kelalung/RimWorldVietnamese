@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ageless.label>Không lão hóa</Ageless.label>
+<Ageless.description>Người mang gen này có chứa vi cơ khí siêu nhiên trong máu, liên tục đảo ngược quá trình lão hóa. Từ 13 tuổi, tốc độ lão hóa của họ sẽ giảm dần, và hoàn toàn ngừng lại khi 18 tuổi.</Ageless.description>
+<Ageless.symbolPack.prefixSymbols.0.symbol>Thượng cổ</Ageless.symbolPack.prefixSymbols.0.symbol>
+<Ageless.symbolPack.prefixSymbols.1.symbol>Thần thánh</Ageless.symbolPack.prefixSymbols.1.symbol>
+<Ageless.symbolPack.prefixSymbols.2.symbol>Trường thọ</Ageless.symbolPack.prefixSymbols.2.symbol>
+<Ageless.symbolPack.prefixSymbols.3.symbol>Tuổi thọ</Ageless.symbolPack.prefixSymbols.3.symbol>
+<Ageless.symbolPack.suffixSymbols.0.symbol>Tiên</Ageless.symbolPack.suffixSymbols.0.symbol>
+<Ageless.symbolPack.suffixSymbols.1.symbol>Tổ</Ageless.symbolPack.suffixSymbols.1.symbol>
+<Ageless.symbolPack.wholeNameSymbols.0.symbol>Người bất tử</Ageless.symbolPack.wholeNameSymbols.0.symbol>
+<Ageless.symbolPack.wholeNameSymbols.1.symbol>Bành Tổ</Ageless.symbolPack.wholeNameSymbols.1.symbol>
+<ArchiteMetabolism.label>Chuyển hóa siêu nhiên</ArchiteMetabolism.label>
+<ArchiteMetabolism.description>Người mang gen này có các vi cơ khí đặc biệt trong tế bào, nâng cao chất lượng di truyền và chuyển hóa tổng thể.</ArchiteMetabolism.description>
+<ArchiteMetabolism.labelShortAdj>Chuyển hóa vi cơ khí</ArchiteMetabolism.labelShortAdj>
+<Deathless.label>Không chết</Deathless.label>
+<Deathless.description>Người mang gen này có chứa vi cơ khí siêu nhiên trong máu, những vi cơ này sẽ duy trì sự sống của họ bất chấp mọi tình huống. Chỉ cần não vẫn còn, người mang gen sẽ không chết.</Deathless.description>
+<Deathless.customEffectDescriptions.0>Chỉ có thể chết nếu não bị phá hủy.</Deathless.customEffectDescriptions.0>
+<Deathless.symbolPack.prefixSymbols.0.symbol>Thần thánh</Deathless.symbolPack.prefixSymbols.0.symbol>
+<Deathless.symbolPack.prefixSymbols.1.symbol>Chúa</Deathless.symbolPack.prefixSymbols.1.symbol>
+<Deathless.symbolPack.prefixSymbols.2.symbol>Thánh</Deathless.symbolPack.prefixSymbols.2.symbol>
+<Deathless.symbolPack.suffixSymbols.0.symbol>Thần thánh</Deathless.symbolPack.suffixSymbols.0.symbol>
+<Deathless.symbolPack.suffixSymbols.1.symbol>Thiên thần</Deathless.symbolPack.suffixSymbols.1.symbol>
+<Deathless.symbolPack.wholeNameSymbols.0.symbol>Người bất diệt</Deathless.symbolPack.wholeNameSymbols.0.symbol>
+<Deathrest.label>Giấc ngủ chết</Deathrest.label>
+<Deathrest.description>Người mang gen này sẽ thường xuyên rơi vào trạng thái hôn mê gọi là giấc ngủ chết, trong thời gian này họ sẽ phục hồi. Một lần giấc ngủ chết có thể kéo dài hàng ngày, nhưng sẽ cung cấp sức mạnh sau đó. Sử dụng các thiết bị và công nghệ đặc biệt có thể làm nhanh quá trình giấc ngủ chết hoặc tăng cường hiệu quả.\n\nKhông ngủ chết quá lâu có thể gây ra hội chứng kiệt sức giấc ngủ chết, điều này sẽ giảm đáng kể khả năng thể chất của một người.</Deathrest.description>
+<Deathrest.symbolPack.prefixSymbols.0.symbol>Cái chết</Deathrest.symbolPack.prefixSymbols.0.symbol>
+<Deathrest.symbolPack.prefixSymbols.1.symbol>Khí chết</Deathrest.symbolPack.prefixSymbols.1.symbol>
+<Deathrest.symbolPack.prefixSymbols.2.symbol>Im lặng</Deathrest.symbolPack.prefixSymbols.2.symbol>
+<Deathrest.symbolPack.suffixSymbols.0.symbol>Người ngủ say</Deathrest.symbolPack.suffixSymbols.0.symbol>
+<DiseaseFree.label>Không bệnh tật</DiseaseFree.label>
+<DiseaseFree.description>Người mang gen này không lão hóa như người bình thường. Họ sẽ không mắc các bệnh mãn tính như ung thư, đau lưng, đục thủy tinh thể, hay bệnh Alzheimer.</DiseaseFree.description>
+<FireTerror.label>Sợ lửa</FireTerror.label>
+<FireTerror.description>Người mang gen này cực kỳ sợ hãi lửa. Khi gần lửa, họ có thể nhanh chóng rơi vào trạng thái tinh thần sụp đổ.</FireTerror.description>
+<FireTerror.customEffectDescriptions.0>Gần lửa có thể khiến họ tinh thần sụp đổ.</FireTerror.customEffectDescriptions.0>
+<FireTerror.labelShortAdj>Sợ lửa</FireTerror.labelShortAdj>
+<FireWeakness.label>Da khô</FireWeakness.label>
+<FireWeakness.description>Người mang gen này có làn da rất khô và mỏng, dễ bị bắt lửa, và hệ miễn dịch của họ cũng không tốt trong việc xử lý các vết thương này. Họ nhận gấp 4 lần sát thương từ lửa.</FireWeakness.description>
+<FireWeakness.labelShortAdj>Da khô</FireWeakness.labelShortAdj>
+<FireWeakness.symbolPack.prefixSymbols.0.symbol>Khô</FireWeakness.symbolPack.prefixSymbols.0.symbol>
+<FireWeakness.symbolPack.prefixSymbols.1.symbol>Cây khô</FireWeakness.symbolPack.prefixSymbols.1.symbol>
+<FireWeakness.symbolPack.prefixSymbols.2.symbol>Cây khô</FireWeakness.symbolPack.prefixSymbols.2.symbol>
+<HemogenDrain.label>Tiêu hao huyết nguyên</HemogenDrain.label>
+<HemogenDrain.description>Người mang gen này sẽ mất thêm 8 huyết nguyên mỗi ngày.</HemogenDrain.description>
+<HemogenDrain.labelShortAdj>Tiêu hao huyết nguyên</HemogenDrain.labelShortAdj>
+<HemogenDrain.resourceLabel>Huyết nguyên</HemogenDrain.resourceLabel>
+<Hemogenic.label>Tích trữ huyết nguyên</Hemogenic.label>
+<Hemogenic.description>Người mang gen này có thể tích trữ một loại tài nguyên sinh học gọi là huyết nguyên. Nguồn gốc và cách sử dụng tài nguyên này có thể được mở khóa bởi các gen khác.\n\nHuyết nguyên của người mang gen này sẽ mất 2 huyết nguyên mỗi ngày.</Hemogenic.description>
+<Hemogenic.customEffectDescriptions.0>Có thể sử dụng huyết nguyên</Hemogenic.customEffectDescriptions.0>
+<Hemogenic.resourceDescription>Tích trữ một loại tài nguyên sinh học gọi là huyết nguyên. Nguồn gốc và cách sử dụng tài nguyên này có thể được mở khóa bởi các gen khác.\n\nHuyết nguyên có thể được bổ sung bằng cách hút máu từ người khác hoặc tiêu thụ gói huyết nguyên. Thực hiện phẫu thuật "hút gói huyết" trên những người không có gen "tích trữ huyết nguyên" để có được gói huyết nguyên.\n\nKhi huyết nguyên tích trữ bằng 0, tâm trạng của {PAWN_nameDef} sẽ giảm mạnh.</Hemogenic.resourceDescription>
+<Hemogenic.resourceLabel>Huyết nguyên</Hemogenic.resourceLabel>
+<Hemogenic.symbolPack.prefixSymbols.0.symbol>Huyết nguyên</Hemogenic.symbolPack.prefixSymbols.0.symbol>
+<PerfectImmunity.label>Miễn dịch hoàn hảo</PerfectImmunity.label>
+<PerfectImmunity.description>Người mang gen này có thể tiêu diệt mọi vi khuẩn nhờ sức mạnh của vi cơ khí siêu nhiên, từ đó miễn dịch với mọi bệnh tật.</PerfectImmunity.description>
+<PerfectImmunity.labelShortAdj>Miễn dịch hoàn hảo</PerfectImmunity.labelShortAdj>
+<TotalHealing.label>Thân thể vô hình</TotalHealing.label>
+<TotalHealing.description>Người mang gen này sở hữu một loại tế bào sửa chữa đặc biệt, có thể chữa lành các vết thương cũ hoặc các bệnh mãn tính như đau lưng.</TotalHealing.description>
+<TotalHealing.customEffectDescriptions.0>Mỗi (*DateTime)15-30 ngày(/DateTime) sẽ chữa lành một vết thương cũ hoặc bệnh mãn tính.</TotalHealing.customEffectDescriptions.0>
+<TotalHealing.labelShortAdj>Thân thể vô hình</TotalHealing.labelShortAdj>
+</LanguageData>

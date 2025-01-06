@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArrestingCreatesEnemies.label>Bắt giữ dẫn đến mối quan hệ với các phe phái xấu đi</ArrestingCreatesEnemies.label>
+	<ArrestingCreatesEnemies.helpText>Cảnh báo: Người bạn định bắt giữ có thể không chịu khuất phục.\n\nNếu bạn bắt giữ một người không phải thuộc địa hoặc thuộc địa của phe khác, phe mà họ thuộc về có thể trở thành kẻ thù của bạn.\n\nHành động bắt giữ này có tỷ lệ thành công là {0}, phụ thuộc vào kỹ năng xã hội của người bắt giữ.\n\nNếu bạn muốn giữ mối quan hệ tốt với một phe phái, xin đừng bắt bừa bãi các thành viên của phe đó!</ArrestingCreatesEnemies.helpText>
+	<MaxNumberOfPlayerSettlements.label>Số lượng thuộc địa tối đa của người chơi</MaxNumberOfPlayerSettlements.label>
+	<MaxNumberOfPlayerSettlements.helpText>Cảnh báo: Thế giới biên giới được thiết kế để chỉ chơi một thuộc địa tại một thời điểm. Mặc dù cho phép người chơi có nhiều thuộc địa, nhưng chỉ nên sử dụng cho mục đích thử nghiệm và kiểm tra.\n\nChơi nhiều thuộc địa sẽ phá vỡ sự cân bằng của trò chơi, phân tán sự chú ý của bạn và có thể dẫn đến giảm hiệu suất.\n\nChúng tôi khuyên bạn nên chỉ chơi với một thuộc địa trong những lần chơi đầu tiên để có trải nghiệm tốt hơn.</MaxNumberOfPlayerSettlements.helpText>
+	<SteamDeckControlsGame.label>Điều khiển Steam Deck</SteamDeckControlsGame.label>
+	<SteamDeckControlsGame.helpText>Nhấn phím X để mở bảng "Kế hoạch xây dựng", nhấn phím {Key:TogglePause} để tạm dừng/tiếp tục trò chơi. Sử dụng phím kích hoạt để mô phỏng nhấp chuột trái và phải. Sử dụng các phím {Key:MapZoom_In} và {Key:MapZoom_Out} để phóng to hoặc cuộn menu. Giữ phím L5 và trượt bàn cảm ứng để mô phỏng việc sử dụng chuột phải di chuyển ống kính.</SteamDeckControlsGame.helpText>
+	<SteamDeckControlsMainMenu.label>Điều khiển Steam Deck</SteamDeckControlsMainMenu.label>
+	<SteamDeckControlsMainMenu.helpText>Sử dụng bàn cảm ứng để di chuyển con trỏ, sử dụng phím kích hoạt bên phải để mô phỏng nhấp chuột trái. Nhấn {Key:Accept} để xác nhận, nhấn {Key:Cancel} để quay lại.</SteamDeckControlsMainMenu.helpText>
+	<SwitchFlickingDesignation.label>Chỉ định công tắc nguồn</SwitchFlickingDesignation.label>
+	<SwitchFlickingDesignation.helpText>Lưu ý: Sau khi sử dụng lệnh "Chỉ định công tắc nguồn" cho thiết bị điện, cần có một thuộc địa (được phân bổ loại công việc "Cơ bản") đến để bật công tắc.</SwitchFlickingDesignation.helpText>
+	<TradeGoodsMustBeNearBeacon.label>Hàng hóa giao dịch và tín hiệu giao dịch trên không</TradeGoodsMustBeNearBeacon.label>
+	<TradeGoodsMustBeNearBeacon.helpText>Để gửi hàng hóa hoặc bạc cho thương nhân trên không, bạn phải xây dựng một "Tín hiệu giao dịch trên không" trước, sau đó tạo một khu vực lưu trữ bên cạnh nó.</TradeGoodsMustBeNearBeacon.helpText>
+	<TradingRequiresPermit.label>Cần giấy phép giao dịch</TradingRequiresPermit.label>
+	<TradingRequiresPermit.helpText>Giao dịch với khu định cư này yêu cầu có giấy phép {0}.\n\nHãy đảm bảo rằng trong đoàn thám hiểm của bạn có ít nhất một thuộc địa sở hữu giấy phép {0} hoặc cao hơn.</TradingRequiresPermit.helpText>
+</LanguageData>

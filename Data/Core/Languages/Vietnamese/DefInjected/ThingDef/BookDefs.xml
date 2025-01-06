@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Novel.label>Tiểu thuyết</Novel.label>
+	<Novel.description>Các cuốn sách ghi lại những câu chuyện hư cấu hoặc có thật. Đọc xong có thể nâng cao giá trị giải trí.</Novel.description>
+	<Schematic.label>Sơ đồ kỹ thuật</Schematic.label>
+	<Schematic.description>Các cuốn sách ghi lại nguyên lý kỹ thuật và phương pháp ứng dụng của nó. Đọc xong có thể nâng cao giá trị giải trí và thúc đẩy tiến độ nghiên cứu kỹ thuật cụ thể.</Schematic.description>
+	<TextBook.label>Sách giáo khoa</TextBook.label>
+	<TextBook.description>Các cuốn sách ghi lại kiến thức kỹ năng. Đọc xong có thể nâng cao giá trị giải trí và nhận được điểm kinh nghiệm cho kỹ năng cụ thể.</TextBook.description>
+</LanguageData>

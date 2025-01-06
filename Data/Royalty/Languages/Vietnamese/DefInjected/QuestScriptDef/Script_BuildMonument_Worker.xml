@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>Kỷ niệm hoàn công</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+<BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>Bạn đã hoàn thành việc xây dựng cấu trúc kỷ niệm.\n\nTrong [keepMonumentTicks_duration] tiếp theo, bạn không thể phá hủy nó, nếu không sẽ làm phật lòng [asker_factionName] (giảm [goodwillChangeIfMonumentDestroyed]).</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+<BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>Kỷ niệm bị phá hủy</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+<BuildMonumentWorker.LetterTextMonumentRuined.slateRef>Bạn đã để kỷ niệm bị phá hủy quá nhanh sau khi hoàn thành, điều này đã xúc phạm [asker_nameDef].\n\nMối quan hệ của bạn với [asker_faction_name] đã giảm [goodwillChangeIfMonumentDestroyed].</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+<BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>Đừng phá hủy kỷ niệm {0}</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+<BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>Đừng phá hủy kỷ niệm {0}</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+<BuildMonumentWorker.KeepMonument.slateRef>Bảo vệ kỷ niệm {0}</BuildMonumentWorker.KeepMonument.slateRef>
+<BuildMonumentWorker.MessageMonumentViolated.slateRef>Kỷ niệm trong nhiệm vụ “[resolvedQuestName]” đã bị xâm phạm. Hình phạt sắp đến.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+<BuildMonumentWorker.ProtectMonumentForDays.slateRef>Bảo vệ kỷ niệm {0}</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+<BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>Bảo vệ kỷ niệm cho đến {0}</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+<BuildMonumentWorker.ProtectMonument.slateRef>Bảo vệ {0}</BuildMonumentWorker.ProtectMonument.slateRef>
+<BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Đánh dấu kỷ niệm mới đã đến</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+<BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Một đánh dấu kỷ niệm mới đã được gửi đến để thay thế cái đã bị phá hủy.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+<BuildMonumentWorker.LetterLabelTimeExpired.slateRef>Thời gian kỷ niệm đã hết</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+<BuildMonumentWorker.LetterTextTimeExpired.slateRef>Thời hạn xây dựng kỷ niệm đã hết. [failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+</LanguageData>

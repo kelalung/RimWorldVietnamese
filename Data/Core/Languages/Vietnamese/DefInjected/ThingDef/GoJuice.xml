@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GoJuice.label>Nước tăng cường</GoJuice.label>
+	<GoJuice.description>Một loại thuốc tăng cường chiến đấu tổng hợp, được phát triển để cung cấp cho lính thủy đánh bộ trong các trận chiến giữa các hành tinh ban đầu. Nước sống có khả năng giảm đau đáng kể cho người sử dụng, đồng thời cải thiện khả năng bắn súng, chiến đấu gần và di chuyển. Đối với những người có khả năng tâm linh, việc sử dụng nước sống còn có thể tăng cường sức mạnh tinh thần mà không cần thiền.\n\nTuy nhiên, các nhà hóa học quân đội phát minh ra nước sống không thể loại bỏ tính nghiện của nó. Một số người cho rằng đây là một khuyết điểm, trong khi những người khác lại xem đó là một lợi thế.</GoJuice.description>
+	<GoJuice.ingestible.ingestCommandString>Uống {0}</GoJuice.ingestible.ingestCommandString>
+	<GoJuice.ingestible.ingestReportString>Đang uống {0}.</GoJuice.ingestible.ingestReportString>
+</LanguageData>

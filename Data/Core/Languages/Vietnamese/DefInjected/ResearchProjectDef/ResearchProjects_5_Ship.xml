@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ShipBasics.label>Cơ bản về du hành giữa các vì sao</ShipBasics.label>
+	<ShipBasics.description>Mở khóa xây dựng cấu trúc và các đơn vị hỗ trợ cho tàu vũ trụ, đây là bước đầu tiên để tàu vũ trụ rời khỏi hệ sao.</ShipBasics.description>
+	<ShipBasics.discoveredLetterText>Trốn khỏi hành tinh này—cuối cùng sẽ đạt được tự do, có thể điểm đến sẽ là quê hương.\n\nNhưng điều này cũng rất nguy hiểm.\n\nTab "Tàu vũ trụ" đã được thêm vào bảng "Kế hoạch xây dựng", một khi nghiên cứu công nghệ phù hợp, bạn có thể xây dựng các bộ phận tàu vũ trụ từ đó. Tàu vũ trụ cần một số bộ phận khác nhau để phóng, bao gồm một lò phản ứng tàu vũ trụ.\n\nLò phản ứng tàu vũ trụ cần 15 ngày để sạc. Nhiều linh hồn tuyệt vọng muốn rời khỏi hành tinh này. Khi khởi động, năng lượng khổng lồ phát ra từ lò phản ứng sẽ truyền đi hàng nghìn dặm. Giống như ngửi thấy mùi của những con gián ngon lành, kẻ tấn công sẽ đổ xô đến từ bốn phương, phát động tấn công với sức mạnh mà bạn chưa từng thấy. Những cơ thể máy cổ đại cũng như vậy.\n\nĐể trốn thoát, bạn cần tích trữ tài nguyên, vũ khí và sức mạnh phòng thủ.</ShipBasics.discoveredLetterText>
+	<ShipBasics.discoveredLetterTitle>Về: Phóng tàu vũ trụ</ShipBasics.discoveredLetterTitle>
+	<ShipBasics.generalRules.rulesStrings>
+		<li>subject->Kỹ thuật cấu trúc tàu vũ trụ</li>
+		<li>subject_story->Chiêu mộ kỹ sư tàu vũ trụ cho hạm đội thế giới lấp lánh.</li>
+		<li>subject_story->Từng là một kỹ sư cấu trúc, làm việc trong khu nhà chọc trời của thế giới đô thị.</li>
+		<li>subject_story->Thu hồi xác tàu từ vành đai mảnh vụn của một thế giới chết.</li>
+		<li>subject_gerund->Xây dựng cấu trúc tàu vũ trụ</li>
+	</ShipBasics.generalRules.rulesStrings>
+	<ShipComputerCore.label>Nhân lõi máy tính tàu vũ trụ</ShipComputerCore.label>
+	<ShipComputerCore.description>Mở khóa xây dựng "nhân lõi máy tính tàu vũ trụ", sử dụng một hệ thống tín hiệu thưởng để thuyết phục lõi nhân cách hiện tại trở thành AI thuyền trưởng trên tàu vũ trụ. Do hành khách ở trạng thái ngủ đông trong suốt hành trình giữa các vì sao, khả năng ra quyết định của lõi AI trong những tình huống phức tạp là cần thiết trong chuyến đi dài.</ShipComputerCore.description>
+	<ShipComputerCore.generalRules.rulesStrings>
+		<li>subject->Khuyến khích lõi nhân cách</li>
+		<li>subject->Bảo trì trí tuệ AI tàu vũ trụ</li>
+		<li>subject_story->Khôi phục lại lõi của một tàu vũ trụ bất thường thông qua việc sửa chữa tỉ mỉ.</li>
+		<li>subject_story->Thiết lập mô phỏng quản lý thuộc địa, chiếm giữ lõi của tàu vũ trụ trong nhiều năm du hành giữa các vì sao.</li>
+		<li>subject_story->Trong một chuyến du hành giữa các vì sao "ngắn ngủi", đã gần gũi với nhân viên lõi của tàu, trong quá trình đó đã học được nhiều điều về lõi.</li>
+		<li>subject_gerund->Khuyến khích lõi nhân cách</li>
+		<li>subject_gerund->Bảo trì trí tuệ AI tàu vũ trụ</li>
+		<li>subject_gerund->Xây dựng hệ thống tín hiệu thưởng</li>
+	</ShipComputerCore.generalRules.rulesStrings>
+	<ShipCryptosleep.label>Buồng ngủ đông lạnh tàu vũ trụ</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Mở khóa xây dựng "buồng ngủ đông lạnh tàu vũ trụ", một buồng ngủ đông lạnh tăng cường có khả năng chống lại các mối đe dọa trong không gian, dùng để vận chuyển hành khách trong hành trình dài giữa các vì sao.</ShipCryptosleep.description>
+	<ShipCryptosleep.generalRules.rulesStrings>
+		<li>subject->Buồng ngủ đông lạnh cấp tàu vũ trụ</li>
+		<li>subject_story->Thay thế buồng ngủ đông lạnh bị hỏng trên tàu CMC Celeste, giúp tàu thuộc thế hệ cũ có thể sử dụng lại.</li>
+		<li>subject_story->Bị bắn ra không gian sâu, sống sót trong hai tháng trong buồng ngủ đông lạnh do mình thiết kế.</li>
+		<li>subject_story->Giảng dạy sự khác biệt giữa thiết bị cấp hành tinh và cấp tàu vũ trụ.</li>
+		<li>subject_gerund->Xây dựng buồng ngủ đông lạnh tăng cường</li>
+	</ShipCryptosleep.generalRules.rulesStrings>
+	<ShipEngine.label>Động cơ tàu vũ trụ</ShipEngine.label>
+	<ShipEngine.description>Mở khóa xây dựng "động cơ tàu vũ trụ", loại động cơ không sử dụng chất đẩy có khả năng đưa tàu vũ trụ vào không gian và xuyên qua không gian giữa các vì sao. Tất nhiên, như tất cả các tàu vũ trụ khác, nó vẫn cần nhiều năm để đến đích.</ShipEngine.description>
+	<ShipEngine.generalRules.rulesStrings>
+		<li>subject->Lý thuyết Johnson-Tanaka</li>
+		<li>subject->Chuyển đổi động lượng ngoại lai</li>
+		<li>subject_story->Giảng dạy lý thuyết Johnson-Tanaka và hiệu ứng lượng tử tại trường đại học.</li>
+		<li>subject_story->Học cách xây dựng động cơ tàu vũ trụ từ các tài liệu nguyên lý đầu tiên.</li>
+		<li>subject_story->Bảo trì động cơ tàu vũ trụ trong 20 năm hành trình giữa các vì sao.</li>
+		<li>subject_gerund->Xây dựng động cơ tàu vũ trụ</li>
+	</ShipEngine.generalRules.rulesStrings>
+	<ShipReactor.label>Lò phản ứng tàu vũ trụ</ShipReactor.label>
+	<ShipReactor.description>Mở khóa "lò phản ứng tàu vũ trụ", một lò phản ứng hạt nhân có thể hoạt động lâu dài, cung cấp năng lượng cho tàu vũ trụ. Lưu ý: Khởi động lò phản ứng là một quá trình dài, trong thời gian đó sẽ thu hút nhiều kẻ tấn công.</ShipReactor.description>
+	<ShipReactor.generalRules.rulesStrings>
+		<li>subject->Lò phản ứng hạt nhân tàu vũ trụ</li>
+		<li>subject_story->Xây dựng một lò phản ứng mới cho một tàu thuộc địa, nhưng không thể sống sót để thấy nó bay lên.</li>
+		<li>subject_story->Bảo vệ tàu trong khi lò phản ứng nóng lên, chống lại những kẻ tấn công muốn rời khỏi hành tinh.</li>
+		<li>subject_story->Cung cấp nguồn điện dự phòng cho kho gen chôn dưới lớp băng bằng lò phản ứng tàu vũ trụ.</li>
+		<li>subject_gerund->Xây dựng lò phản ứng tàu vũ trụ</li>
+	</ShipReactor.generalRules.rulesStrings>
+	<ShipSensorCluster.label>Cụm cảm biến tàu vũ trụ</ShipSensorCluster.label>
+	<ShipSensorCluster.description>Mở khóa xây dựng "cảm biến tích hợp" cho tàu vũ trụ, những cảm biến này là cần thiết cho điều hướng, liên lạc và tránh các mối đe dọa.</ShipSensorCluster.description>
+	<ShipSensorCluster.generalRules.rulesStrings>
+		<li>subject->Điều hướng giữa các vì sao</li>
+		<li>subject_story->Sử dụng cảm biến tàu vũ trụ nguyên mẫu để phát hiện tiểu hành tinh hủy diệt sắp đến và rời khỏi hành tinh.</li>
+		<li>subject_story->Làm hoa tiêu và đầu bếp cho một du thuyền hạng sao trong thế giới lấp lánh.</li>
+		<li>subject_story->Cải tiến thiết kế cảm biến tầm xa, nâng cao tính hữu dụng của nó.</li>
+		<li>subject_gerund->Điều hướng không gian giữa các vì sao</li>
+		<li>subject_gerund->Xây dựng cảm biến tàu vũ trụ</li>
+	</ShipSensorCluster.generalRules.rulesStrings>
+</LanguageData>

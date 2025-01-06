@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<FollowDrafted.headerTip>Theo dõi chủ khi bị triệu tập.</FollowDrafted.headerTip>
+	<FollowFieldwork.headerTip>Theo dõi chủ khi tham gia hoạt động ngoài trời (săn bắn hoặc thuần hóa động vật).</FollowFieldwork.headerTip>
+	<Hunt.headerTip>Săn lùng động vật hoang dã đã đánh dấu.</Hunt.headerTip>
+	<ReleaseAnimalToWild.headerTip>Thả động vật về tự nhiên</ReleaseAnimalToWild.headerTip>
+	<Slaughter.headerTip>Giết mổ</Slaughter.headerTip>
+	<Sterile.headerTip>Triệt sản</Sterile.headerTip>
+	<Tame.headerTip>Thuần hóa động vật hoang dã đã đánh dấu.</Tame.headerTip>
+</LanguageData>

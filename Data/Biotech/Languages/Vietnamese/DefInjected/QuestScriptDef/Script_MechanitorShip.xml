@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechanitorShip.questContentRules.rulesStrings>
+    <li>mechanitorShuttleCrashedLetterLabel-&gt;Tàu bay của kỹ sư</li>
+    <li>mechanitorShuttleCrashedLetterText-&gt;Một chiếc tàu bay của kỹ sư chở các cơ thể máy móc mất kiểm soát đã rơi gần đây. Những cơ thể máy móc này sẽ rời khỏi chiếc tàu bị rơi và chuẩn bị chiến đấu.</li>
+    <li>assaultBeginLetterLabel-&gt;Cuộc tấn công của cơ thể máy móc</li>
+    <li>assaultBeginLetterText-&gt;Các cơ thể máy móc mất kiểm soát sắp tấn công thuộc địa!</li>
+    <li>mechlinkAvailableLetterLabel-&gt;Nhận trung tâm điều khiển của [mechanitor_nameDef]</li>
+    <li>mechlinkAvailableLetterText-&gt;Trên tàu bị rơi có xác của một kỹ sư cổ đại.\n\nChọn một tín đồ và nhấp chuột phải vào xác để lấy trung tâm điều khiển của [mechanitor_possessive].</li>
+</MechanitorShip.questContentRules.rulesStrings>
+<MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn đã giải mã một bộ phát tín hiệu cổ xưa, tiết lộ vị trí của một chiếc tàu bay máy móc trên quỹ đạo. Mặc dù chiếc tàu này đã bị hư hại nghiêm trọng, bạn có thể phát tín hiệu để nó hạ cánh gần đây.\n\nChiếc tàu này chở xác của một kỹ sư đã chết từ lâu. Kỹ sư có thể nuôi dưỡng, điều khiển và thao tác các cơ thể máy móc để làm việc và chiến đấu. Bằng cách lấy trung tâm điều khiển của kỹ sư đã khuất, bạn có thể biến một tín đồ của mình thành kỹ sư.\n\nLưu ý: Chiếc tàu này cũng chở các cơ thể máy móc thù địch, bao gồm:\n\n[mechList]</li>
+</MechanitorShip.questDescriptionRules.rulesStrings>
+<MechanitorShip.questNameRules.rulesStrings>
+    <li>questName-&gt;[shipAdjective][shipNoun]</li>
+    <li>shipAdjective-&gt;Kỹ sư</li>
+    <li>shipAdjective-&gt;Người giám sát</li>
+    <li>shipAdjective-&gt;Cổ xưa</li>
+    <li>shipAdjective-&gt;Máy móc</li>
+    <li>shipNoun-&gt;Tàu bay</li>
+    <li>shipNoun-&gt;Tàu vũ trụ</li>
+    <li>shipNoun-&gt;Phương tiện bay</li>
+    <li>shipNoun-&gt;Mảnh vỡ</li>
+    <li>shipNoun-&gt;Đoạn vỡ</li>
+    <li>shipNoun-&gt;Vận chuyển</li>
+</MechanitorShip.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,110 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+Đỏ
+Cam
+Hoàng
+Lục
+Thanh
+Lam
+Tử
+Đen
+Bạch
+Tro
+Hạt
+Kim
+Ngân
+
+Phấn
+Trà
+Thịt
+Tông
+Gạo
+
+Đỏ
+Cam
+Hoàng
+Lục
+Thanh
+Lam
+Tử
+Đen
+Bạch
+Tro
+Hạt
+Kim
+Ngân
+
+Xám trắng
+Vàng lục
+Đen tử
+Phấn hồng
+Đỏ tía
+Nâu đậm
+
+Màu son
+Đỏ chót
+Mai đỏ
+Màu hồng
+Hoa hồng đỏ
+Cây lựu đỏ
+Đỏ thẫm
+Hồng nhạt
+Ửng đỏ
+Chanh
+Vàng nhạt
+Màu vàng đất
+Ngà voi
+Kim hoàng
+Bầu dục
+Bạc hà
+Trà lục
+Xanh lá mạ
+Xanh biếc
+Màu xanh sẫm
+Xanh biếc
+Xanh nhạt
+Hoa thanh
+Xanh thẫm
+Xanh đen
+Màu chàm
+Thiên Lam
+Xanh thẳm
+Xanh nước biển
+Hồ lam
+Khổng Tước lam
+Bảo thạch lam
+Ánh trăng lam
+Xanh đậm
+Lam nhạt
+Tử La Lan
+Nho
+Đinh hương tử
+Hoa hồng tử
+Màu đỏ tím
+Thanh Liên
+Trân châu bạch
+Ngân bạch
+Tuyết trắng
+Trắng sữa
+Hoa râm
+Vải ka-ki
+Cà phê
+Hổ phách
+Lật
+Ám kim
+Cổ đồng
+Tử đồng
+Tông mộc
+Bơ
+Màu hồng cánh sen
+Cầu vồng
+Ngầm tro
+Thịt phấn
+Sô cô la
+
+
+
+
+

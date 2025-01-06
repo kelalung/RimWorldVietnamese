@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Emancipate.label>Giải phóng</Emancipate.label>
+<Emancipate.description>Người gác sẽ thả tự do cho nô lệ này.</Emancipate.description>
+<Execute.label>Thi hành án</Execute.label>
+<Execute.description>Người gác sẽ xử án ngay tại chỗ với nô lệ này.</Execute.description>
+<Imprison.label>Giam giữ</Imprison.label>
+<Imprison.description>Người gác sẽ giam giữ nô lệ này. Khi bị giam giữ, họ có thể được tuyển dụng hoặc bị biến thành nô lệ một lần nữa.</Imprison.description>
+<NoInteraction.label>Không tương tác</NoInteraction.label>
+<NoInteraction.description>Người gác sẽ không tương tác với nô lệ này.</NoInteraction.description>
+<Suppress.label>Đàn áp</Suppress.label>
+<Suppress.description>Người gác sẽ định kỳ đe dọa nô lệ, tăng cường mức độ đàn áp của họ, giảm khả năng nổi dậy.</Suppress.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<IdeoLeaderResentmentAbhorrent.label>Lãnh đạo có tư tưởng khác</IdeoLeaderResentmentAbhorrent.label>
+<IdeoLeaderResentmentAbhorrent.stages.0.description>Chấp nhận mệnh lệnh từ {0} là điều rất đáng xấu hổ và ghê tởm.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+<IdeoLeaderResentmentDisapproved.label>Lãnh đạo có tư tưởng khác</IdeoLeaderResentmentDisapproved.label>
+<IdeoLeaderResentmentDisapproved.stages.0.description>Việc bị {0} sai khiến là một sự xúc phạm đối với tôi.</IdeoLeaderResentmentDisapproved.stages.0.description>
+<IdeoLeaderResentmentHorrible.label>Lãnh đạo có tư tưởng khác</IdeoLeaderResentmentHorrible.label>
+<IdeoLeaderResentmentHorrible.stages.0.description>Việc bị {0} sai khiến thật là đáng xấu hổ!</IdeoLeaderResentmentHorrible.stages.0.description>
+<IdeoLeaderResentmentStandard.label>Lãnh đạo có tư tưởng khác</IdeoLeaderResentmentStandard.label>
+<IdeoLeaderResentmentStandard.stages.0.description>Tôi không thích {0} làm lãnh đạo.</IdeoLeaderResentmentStandard.stages.0.description>
+<IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Muốn trang phục {ROLE_label}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+<IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Tôi muốn mặc những bộ đồ phù hợp với danh tính của mình như {ROLE_labelDef}.</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+<IdeoRoleEmpty.stages.No.label>Không có {ROLE_label}</IdeoRoleEmpty.stages.No.label>
+<IdeoRoleEmpty.stages.No.description>{0} phải có {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
+<IdeoRoleLost.stages.Lost_role.label>Mất chức vụ {ROLE_label}</IdeoRoleLost.stages.Lost_role.label>
+<IdeoRoleLost.stages.Lost_role.description>Tôi đã mất chức vụ {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>Tôn thờ kẻ hút máu</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+	<Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>Hãy để họ tôn sùng tôi. Nuôi sống họ, khiến họ phục tùng tôi, giống như động vật phục tùng con người.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
+	<Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>Tự ghét bản thân kẻ hút máu</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>
+	<Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>Tôi chính là điều tôi ghét. Tôi phải thoát khỏi lời nguyền này.</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>
+	<BloodfeederColonist_Revered.stages.no_bloodfeeders.label>Không có kẻ hút máu</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
+	<BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Không có lãnh chúa hút máu, thuộc địa của chúng ta cảm thấy không hoàn chỉnh, vô nghĩa. Chúng ta nên để một kẻ hút máu trở thành lãnh đạo của chúng ta.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+	<BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>Không có lãnh chúa hút máu</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
+	<BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Không có kẻ hút máu làm chủ, thuộc địa của chúng ta chỉ là một ảo ảnh giả tạo.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+	<BloodfeederColonist_Revered.stages.bloodfeeder_master.label>Lãnh chúa hút máu</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
+	<BloodfeederColonist_Revered.stages.bloodfeeder_master.description>Sự tồn tại của kẻ hút máu là một vinh dự lớn lao. Mong rằng họ sẽ sống mãi.</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
+	<BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>Có kẻ hút máu trong chúng ta</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>
+	<BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>Một trong số họ ở giữa chúng ta. Chúng ta nên đuổi kẻ hút máu ra khỏi nhà.</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>
+	<BloodfeederDied_Revered.stages.bloodfeeder_died.label>Kẻ hút máu đã chết</BloodfeederDied_Revered.stages.bloodfeeder_died.label>
+	<BloodfeederDied_Revered.stages.bloodfeeder_died.description>Kẻ hút máu có địa vị trên chúng ta, nhưng có một người đã chết ở đây... Chúng ta chắc chắn sẽ bị trừng phạt vì điều này.</BloodfeederDied_Revered.stages.bloodfeeder_died.description>
+	<BloodfeederDied_Reviled.stages.bloodfeeder_died.label>Kẻ hút máu đã chết</BloodfeederDied_Reviled.stages.bloodfeeder_died.label>
+	<BloodfeederDied_Reviled.stages.bloodfeeder_died.description>Kẻ hút máu đã chết mới là kẻ hút máu tốt.</BloodfeederDied_Reviled.stages.bloodfeeder_died.description>
+	<Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>Kẻ hút máu</Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+	<Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>Kẻ hút máu</Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+</LanguageData>

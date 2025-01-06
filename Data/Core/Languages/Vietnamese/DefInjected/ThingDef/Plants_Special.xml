@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BurnedTree.label>Gốc cây bị cháy</BurnedTree.label>
+<BurnedTree.description>Gốc cây còn lại sau khi cây bị cháy. Nó rất xấu xí. Gốc cây có thể bị chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ.</BurnedTree.description>
+<ChoppedStump.label>Gốc cây đã chặt</ChoppedStump.label>
+<ChoppedStump.description>Gốc cây còn lại sau khi cây bị chặt. Gốc cây có thể bị chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ già đi theo thời gian.</ChoppedStump.description>
+<Dye.label>Màu nhuộm</Dye.label>
+<Dye.description>Màu nhuộm được chiết xuất từ hoa bảy màu, có thể biến đổi thành nhiều màu sắc khác nhau. Thường dùng để nhuộm tường, công trình, và trang phục.</Dye.description>
+<Plant_Ambrosia.label>Cây ambrosia</Plant_Ambrosia.label>
+<Plant_Ambrosia.description>Loài cây bụi hoang dã hiếm có, có thể thu hoạch quả ambrosia. Ăn quả ambrosia sẽ tạo ra một tác dụng hóa học nhẹ, khiến người ta cảm thấy vui vẻ. Do không thể trồng, cây ambrosia hoang dã rất quý giá.\n\nHiếm, đẹp, hấp dẫn.. nhiều đặc điểm khiến quả ambrosia được mệnh danh là "món ăn của các vị thần".</Plant_Ambrosia.description>
+<Plant_Tinctoria.label>Hoa bảy màu</Plant_Tinctoria.label>
+<Plant_Tinctoria.description>Loài thực vật hoa được biến đổi gen, có thể tiết ra một loại dịch hoa thay đổi màu sắc của chính nó. Màu nhuộm từ hoa bảy màu có thể biến đổi thành nhiều màu sắc khác nhau, thường dùng để nhuộm tường, công trình, và trang phục.</Plant_Tinctoria.description>
+<SmashedStump.label>Gốc cây bị nghiền nát</SmashedStump.label>
+<SmashedStump.description>Gốc cây còn lại sau khi cây bị phá hủy. Nó rất xấu xí. Gốc cây có thể bị chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ già đi theo thời gian.</SmashedStump.description>
+</LanguageData>

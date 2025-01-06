@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BlissLobotomy.label>Phẫu thuật não hạnh phúc</BlissLobotomy.label>
+	<BlissLobotomy.description>Loại bỏ một phần não của con người, khiến họ trở nên vô tư, nhưng đồng thời cũng mất khả năng làm việc trí thức và chuyên môn. Tốc độ học hỏi của họ cũng sẽ chậm hơn, và khả năng phản kháng hoặc trốn thoát sẽ thấp hơn.</BlissLobotomy.description>
+	<BlissLobotomy.jobString>Đang phẫu thuật não cho TargetA.</BlissLobotomy.jobString>
+	<GhoulInfusion.label>Chuyển hóa xác sống</GhoulInfusion.label>
+	<GhoulInfusion.description>Cấy ghép các mảnh vụn siêu phàm tăm tối và sắt sống vào cơ thể sống, tạo ra những sinh vật đáng sợ được gọi là xác sống. Xác sống có thể thực hiện các cuộc tấn công cận chiến tàn bạo, nhưng không thể làm bất kỳ công việc nào. Chúng ăn thịt sống và không cần ngủ. Những xác sống đói sẽ trở nên nguy hiểm hơn.</GhoulInfusion.description>
+	<GhoulInfusion.jobString>Đang chuyển hóa TargetA thành xác sống.</GhoulInfusion.jobString>
+	<SurgicalInspection.label>Khám bệnh ngoại khoa</SurgicalInspection.label>
+	<SurgicalInspection.description>Thực hiện phẫu thuật khám bệnh cho bệnh nhân, có thể phát hiện những bất thường mà họ đã che giấu, nhưng sẽ gây ra thương tích.</SurgicalInspection.description>
+	<SurgicalInspection.jobString>Đang thực hiện phẫu thuật khám bệnh cho TargetA.</SurgicalInspection.jobString>
+</LanguageData>

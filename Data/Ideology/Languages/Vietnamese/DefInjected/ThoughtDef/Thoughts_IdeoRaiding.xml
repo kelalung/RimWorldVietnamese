@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ParticipatedInRaid_Required.stages.participated_in_raid.label>Tham gia vào cuộc tấn công</ParticipatedInRaid_Required.stages.participated_in_raid.label>
+<ParticipatedInRaid_Required.stages.participated_in_raid.description>Tôi đã tham gia vào một cuộc tấn công! Bây giờ mọi người đều biết đến tôi!</ParticipatedInRaid_Required.stages.participated_in_raid.description>
+<ParticipatedInRaid_Respected.stages.participated_in_raid.label>Tham gia vào cuộc tấn công</ParticipatedInRaid_Respected.stages.participated_in_raid.label>
+<ParticipatedInRaid_Respected.stages.participated_in_raid.description>Tôi đã tham gia vào một cuộc tấn công! Chúng tôi đã làm như vậy!</ParticipatedInRaid_Respected.stages.participated_in_raid.description>
+<RecentConquest_Required.stages.recent_conquest.label>Chiến thắng gần đây</RecentConquest_Required.stages.recent_conquest.label>
+<RecentConquest_Required.stages.recent_conquest.description>Chúng tôi đã tấn công một phe phái khác gần đây. Hy vọng nỗi đau sẽ dạy họ một bài học.</RecentConquest_Required.stages.recent_conquest.description>
+<RecentConquest_Required.stages.no_recent_conquest.label>Không có chiến thắng gần đây</RecentConquest_Required.stages.no_recent_conquest.label>
+<RecentConquest_Required.stages.no_recent_conquest.description>Chúng tôi đã rất lâu không tấn công ai. Bây giờ chúng tôi giống như những con giòi đáng khinh và vô dụng, không khác gì những người đó.</RecentConquest_Required.stages.no_recent_conquest.description>
+<RecentConquest_Respected.stages.recent_conquest.label>Chiến thắng gần đây</RecentConquest_Respected.stages.recent_conquest.label>
+<RecentConquest_Respected.stages.recent_conquest.description>Chúng tôi đã tấn công một phe phái khác gần đây. Hãy để họ biết ai mới là người đứng đầu.</RecentConquest_Respected.stages.recent_conquest.description>
+<RecentConquest_Respected.stages.no_recent_conquest.label>Không có chiến thắng gần đây</RecentConquest_Respected.stages.no_recent_conquest.label>
+<RecentConquest_Respected.stages.no_recent_conquest.description>Chúng tôi đã rất lâu không tấn công ai. Các phe phái khác có thể sẽ mất đi sự sợ hãi và tôn trọng đối với chúng tôi.</RecentConquest_Respected.stages.no_recent_conquest.description>
+</LanguageData>

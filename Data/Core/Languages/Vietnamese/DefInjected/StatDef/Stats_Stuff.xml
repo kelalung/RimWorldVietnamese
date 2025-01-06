@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<StuffPower_Armor_Blunt.label>Giáp - Đòn bẩy</StuffPower_Armor_Blunt.label>
+	<StuffPower_Armor_Blunt.description>Xác suất giáp chống lại sát thương từ đòn bẩy, chẳng hạn như tấn công bằng gậy, đá rơi và nổ.</StuffPower_Armor_Blunt.description>
+	<StuffPower_Armor_Blunt.labelForFullStatList>Giáp - Đòn bẩy (hệ số vật liệu)</StuffPower_Armor_Blunt.labelForFullStatList>
+	<StuffPower_Armor_Heat.label>Giáp - Nhiệt độ</StuffPower_Armor_Heat.label>
+	<StuffPower_Armor_Heat.description>Xác suất giáp chống lại sát thương liên quan đến nhiệt độ, chẳng hạn như bị cháy.</StuffPower_Armor_Heat.description>
+	<StuffPower_Armor_Heat.labelForFullStatList>Giáp - Nhiệt độ (hệ số vật liệu)</StuffPower_Armor_Heat.labelForFullStatList>
+	<StuffPower_Armor_Sharp.label>Giáp - Vật nhọn</StuffPower_Armor_Sharp.label>
+	<StuffPower_Armor_Sharp.description>Xác suất giáp chống lại sát thương từ vật nhọn, chẳng hạn như đạn, dao kiếm đâm, và cắn của động vật.</StuffPower_Armor_Sharp.description>
+	<StuffPower_Armor_Sharp.labelForFullStatList>Giáp - Vật nhọn (hệ số vật liệu)</StuffPower_Armor_Sharp.labelForFullStatList>
+	<StuffPower_Insulation_Cold.label>Cách nhiệt - Lạnh</StuffPower_Insulation_Cold.label>
+	<StuffPower_Insulation_Cold.description>Trang phục làm từ vật liệu này có thể nâng cao nhiệt độ thoải mái tối thiểu của người mặc.</StuffPower_Insulation_Cold.description>
+	<StuffPower_Insulation_Cold.labelForFullStatList>Cách nhiệt - Lạnh (hệ số vật liệu)</StuffPower_Insulation_Cold.labelForFullStatList>
+	<StuffPower_Insulation_Heat.label>Cách nhiệt - Nóng</StuffPower_Insulation_Heat.label>
+	<StuffPower_Insulation_Heat.description>Trang phục làm từ vật liệu này có thể nâng cao nhiệt độ thoải mái tối đa của người mặc.</StuffPower_Insulation_Heat.description>
+	<StuffPower_Insulation_Heat.labelForFullStatList>Cách nhiệt - Nóng (hệ số vật liệu)</StuffPower_Insulation_Heat.labelForFullStatList>
+</LanguageData>

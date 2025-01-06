@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerGenepack.rulePack.rulesStrings>
+    <li>r_name-&gt;Tổ người máy （[geneWord][otherGenesInfo]）</li>
+    <li>otherGenesInfo(geneCount==1)-&gt;</li>
+    <li>otherGenesInfo(geneCount&gt;=2)-&gt;+[geneCountMinusOne]</li>
+  </NamerGenepack.rulePack.rulesStrings>
+  <NamerXenotype.rulePack.rulesStrings>
+    <li>r_name(p=1)-&gt;[anyPrefix][anySuffix]</li>
+    <li>r_name(p=0.1)-&gt;[wholeName]</li>
+    <li>anyPrefix(p=2)-&gt;[genePrefix]</li>
+    <li>anyPrefix-&gt;[commonPrefix]</li>
+    <li>anySuffix-&gt;[geneSuffix]</li>
+    <li>anySuffix(p=3)-&gt;[commonSuffix]</li>
+    <li>commonPrefix-&gt;giống khác</li>
+<li>commonPrefix-&gt;chuyển giao</li>
+<li>commonPrefix-&gt;biến thể</li>
+<li>commonPrefix-&gt;khuyết điểm</li>
+<li>commonPrefix-&gt;nhánh con</li>
+<li>commonPrefix-&gt;ngoại nguồn</li>
+<li>commonPrefix-&gt;ống nghiệm</li>
+<li>commonPrefix-&gt;thí nghiệm</li>
+<li>commonPrefix-&gt;phân tách</li>
+<li>commonPrefix-&gt;không</li>
+<li>commonPrefix-&gt;ưu</li>
+<li>commonPrefix-&gt;độ</li>
+<li>commonPrefix-&gt;tiếng vang</li>
+<li>commonPrefix-&gt;hòa âm</li>
+<li>commonPrefix-&gt;lọc</li>
+<li>commonPrefix-&gt;quy cách</li>
+<li>commonPrefix-&gt;góc</li>
+<li>commonPrefix-&gt;giả</li>
+<li>commonPrefix-&gt;nguồn gốc</li>
+<li>commonPrefix-&gt;nhân</li>
+<li>commonPrefix-&gt;Quinn</li>
+<li>commonPrefix-&gt;Pluto</li>
+<li>commonPrefix-&gt;máu thuần</li>
+<li>commonPrefix-&gt;xương</li>
+<li>commonPrefix-&gt;thu thập cơ quan</li>
+<li>commonPrefix-&gt;thành phần</li>
+<li>commonPrefix-&gt;Laxus</li>
+<li>commonPrefix-&gt;Sel</li>
+<li>commonPrefix-&gt;biến dị</li>
+<li>commonPrefix-&gt;chuyên hóa</li>
+<li>commonPrefix-&gt;đột phá</li>
+<li>commonPrefix-&gt;khác</li>
+<li>commonPrefix-&gt;Zel</li>
+<li>commonPrefix-&gt;bán thú</li>
+<li>commonPrefix-&gt;thú</li>
+<li>commonSuffix-&gt;loại</li>
+<li>commonSuffix-&gt;người</li>
+<li>commonSuffix-&gt;cô gái</li>
+<li>commonSuffix-&gt;cô bé</li>
+<li>commonSuffix-&gt;cậu bé</li>
+<li>commonSuffix-&gt;đồ vật</li>
+<li>commonSuffix-&gt;đồ dùng</li>
+<li>commonSuffix-&gt;trẻ</li>
+<li>commonSuffix-&gt;ngẫu nhiên</li>
+<li>commonSuffix(p=3)-&gt;người</li>
+<li>commonSuffix(p=2)-&gt;loại</li>
+<li>commonSuffix-&gt;dân</li>
+<li>commonSuffix-&gt;tộc</li>
+<li>commonSuffix-&gt;dân tộc</li>
+<li>commonSuffix-&gt;man tộc</li>
+<li>commonSuffix-&gt;hậu duệ</li>
+<li>commonSuffix-&gt;tinh</li>
+<li>commonSuffix-&gt;tinh linh</li>
+<li>commonSuffix-&gt;giả</li>
+<li>commonSuffix-&gt;người</li>
+<li>commonSuffix-&gt;con</li>
+<li>commonSuffix-&gt;đám đông</li>
+<li>commonSuffix-&gt;quái</li>
+<li>commonSuffix-&gt;quái vật</li>
+<li>commonSuffix-&gt;linh</li>
+<li>commonSuffix-&gt;quỷ</li>
+<li>commonSuffix-&gt;yêu</li>
+<li>commonSuffix-&gt;yêu linh</li>
+<li>commonSuffix-&gt;yêu tinh</li>
+<li>commonSuffix-&gt;người</li>
+<li>commonSuffix-&gt;hiệp</li>
+<li>commonSuffix-&gt;tiên</li>
+  </NamerXenotype.rulePack.rulesStrings>
+</LanguageData>

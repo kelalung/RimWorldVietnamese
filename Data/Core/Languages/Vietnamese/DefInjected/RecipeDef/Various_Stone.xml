@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Make_StoneBlocksGranite.label>Chế tạo gạch granit</Make_StoneBlocksGranite.label>
+	<Make_StoneBlocksGranite.description>Cắt đá granit thành các viên gạch có thể sử dụng.</Make_StoneBlocksGranite.description>
+	<Make_StoneBlocksGranite.jobString>Đang cắt đá.</Make_StoneBlocksGranite.jobString>
+	<Make_StoneBlocksLimestone.label>Chế tạo gạch đá vôi</Make_StoneBlocksLimestone.label>
+	<Make_StoneBlocksLimestone.description>Cắt đá vôi thành các viên gạch có thể sử dụng.</Make_StoneBlocksLimestone.description>
+	<Make_StoneBlocksLimestone.jobString>Đang cắt đá.</Make_StoneBlocksLimestone.jobString>
+	<Make_StoneBlocksMarble.label>Chế tạo gạch đá cẩm thạch</Make_StoneBlocksMarble.label>
+	<Make_StoneBlocksMarble.description>Cắt đá cẩm thạch thành các viên gạch có thể sử dụng.</Make_StoneBlocksMarble.description>
+	<Make_StoneBlocksMarble.jobString>Đang cắt đá.</Make_StoneBlocksMarble.jobString>
+	<Make_StoneBlocksSandstone.label>Chế tạo gạch đá sa thạch</Make_StoneBlocksSandstone.label>
+	<Make_StoneBlocksSandstone.description>Cắt đá sa thạch thành các viên gạch có thể sử dụng.</Make_StoneBlocksSandstone.description>
+	<Make_StoneBlocksSandstone.jobString>Đang cắt đá.</Make_StoneBlocksSandstone.jobString>
+	<Make_StoneBlocksSlate.label>Chế tạo gạch đá phiến</Make_StoneBlocksSlate.label>
+	<Make_StoneBlocksSlate.description>Cắt đá phiến thành các viên gạch có thể sử dụng.</Make_StoneBlocksSlate.description>
+	<Make_StoneBlocksSlate.jobString>Đang cắt đá.</Make_StoneBlocksSlate.jobString>
+</LanguageData>

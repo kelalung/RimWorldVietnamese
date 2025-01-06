@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Autobong.label>Máy hút tự động</Autobong.label>
+<Autobong.description>Một thiết bị tự động đốt lá cần sa và liên tục tạo ra khói xung quanh. Bất kỳ ai ở trong khói sẽ trở nên phấn khích hơn theo thời gian.</Autobong.description>
+<Drum.label>Trống gỗ</Drum.label>
+<Drum.description>Một chiếc trống gỗ được sử dụng trong các nghi lễ và buổi tiệc của bộ lạc.</Drum.description>
+<DryadCocoon.label>Kén cây cổ thụ</DryadCocoon.label>
+<DryadCocoon.description>Một quả cầu được tạo thành từ thực vật sợi. Cây cổ thụ bên trong đang từ từ chuyển đổi thành hình dạng mới. Cây mẹ trồng những kén này để bảo vệ chúng trong quá trình chuyển đổi.</DryadCocoon.description>
+<DryadHealingPod.label>Kén chữa lành</DryadHealingPod.label>
+<DryadHealingPod.description>Một quả cầu được tạo thành từ thực vật sợi. Cây cổ thụ bên trong đang từ từ chữa lành vết thương của nó.</DryadHealingPod.description>
+<GaumakerCocoon.label>Kén cây mẹ</GaumakerCocoon.label>
+<GaumakerCocoon.description>Đây là một kén được hình thành từ sự kết hợp của nhiều cây cổ thụ, giai đoạn quan trọng nhất trong vòng đời của cây cổ thụ. Sau một thời gian, nó sẽ nở ra để trở thành cây mẹ.</GaumakerCocoon.description>
+<GibbetCage.label>Cage treo cổ</GibbetCage.label>
+<GibbetCage.description>Một cái lồng kim loại dùng để lưu trữ và trưng bày xác chết. Cảnh tượng đáng sợ này kích thích nỗi sợ hãi và sự ghê tởm của những người xung quanh. Cage treo cổ là một phương pháp tàn nhẫn hiệu quả để đe dọa nô lệ.</GibbetCage.description>
+<KneelPillow.label>Gối quỳ</KneelPillow.label>
+<KneelPillow.description>Gối dùng để quỳ khi tín đồ tham gia nghi lễ, cầu nguyện hoặc thảo luận với nhau.</KneelPillow.description>
+<KneelSheet.label>Thảm quỳ</KneelSheet.label>
+<KneelSheet.description>Thảm dùng để quỳ khi tín đồ tham gia nghi lễ, cầu nguyện hoặc thảo luận với nhau.</KneelSheet.description>
+<Lectern.label>Bục giảng</Lectern.label>
+<Lectern.description>Một nền tảng nghiêng để đặt sách nói trước người diễn thuyết. Đặt nó ở trung tâm nghi lễ có thể kéo dài thời gian hiệu quả tích cực của nghi lễ.</Lectern.description>
+<LightBall.label>Bóng đèn</LightBall.label>
+<LightBall.description>Đèn màu có thể xoay và thay đổi màu sắc, được sử dụng trong các buổi tiệc.</LightBall.description>
+<Loudspeaker.label>Loa</Loudspeaker.label>
+<Loudspeaker.description>Thiết bị dùng để phát nhạc. Ít nhất một chiếc loa là cần thiết cho một buổi tiệc, và nhiều loa sẽ tăng cường hiệu quả của buổi tiệc.</Loudspeaker.description>
+<Pew.label>Ghế dài</Pew.label>
+<Pew.description>Ghế dài cho phép người tham gia nghi lễ ngồi nghe diễn giả phát biểu. Sử dụng nó trong nghi lễ hoặc bài phát biểu có thể kéo dài thời gian hiệu quả tích cực của nghi lễ.</Pew.description>
+<PlantPot_Bonsai.label>Chậu bonsai</PlantPot_Bonsai.label>
+<PlantPot_Bonsai.description>Chậu đặc biệt này được sử dụng để trồng những cây bonsai có thể cải thiện tâm trạng của những người xung quanh, đồng thời đáp ứng yêu cầu về tín ngưỡng cụ thể của họ.</PlantPot_Bonsai.description>
+<Reliquary.label>Đài thờ thánh vật</Reliquary.label>
+<Reliquary.description>Công trình nghi lễ dùng để lưu trữ và trưng bày các thánh vật. Thánh vật là những đồ vật cổ xưa được tôn kính bởi một số nền văn hóa, hệ thống tín ngưỡng hoặc tôn giáo.</Reliquary.description>
+<Skullspike.label>Cột xương sọ</Skullspike.label>
+<Skullspike.description>Một cái cột dùng để xuyên qua xương sọ và thể hiện kỹ năng. Đối với một số người, nó là biểu tượng của sức mạnh. Đối với những người khác, nó đại diện cho sự tàn bạo và độc ác. Cột xương sọ là một phương pháp tàn nhẫn hiệu quả để đe dọa nô lệ.</Skullspike.description>
+<Skullspike.comps.CompHasSources.inspectStringLabel>Xương sọ</Skullspike.comps.CompHasSources.inspectStringLabel>
+<SlabBed.label>Giường phẳng</SlabBed.label>
+<SlabBed.description>Giường được làm từ một tấm vật liệu cứng và phẳng. Ngủ trên đó không thoải mái, nhưng một số người cho rằng việc sử dụng giường phẳng là một đức tính.</SlabBed.description>
+<SlabDoubleBed.label>Giường đôi phẳng</SlabDoubleBed.label>
+<SlabDoubleBed.description>Giường được làm từ một tấm vật liệu cứng và phẳng. Ngủ trên đó không thoải mái, nhưng một số người cho rằng việc sử dụng giường phẳng là một đức tính. Thích hợp cho hai người.</SlabDoubleBed.description>
+<StylingStation.label>Bàn trang điểm</StylingStation.label>
+<StylingStation.description>Một cái bàn có gương trang điểm và dụng cụ trang điểm. Mọi người có thể sử dụng bàn trang điểm để thay đổi diện mạo của mình.</StylingStation.description>
+</LanguageData>

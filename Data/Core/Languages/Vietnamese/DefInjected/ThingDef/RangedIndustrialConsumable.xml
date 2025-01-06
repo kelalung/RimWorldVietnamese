@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_DoomsdayRocket.label>Đạn tên lửa ngày tận thế</Bullet_DoomsdayRocket.label>
+<Bullet_Rocket.label>Đạn tên lửa</Bullet_Rocket.label>
+<Gun_DoomsdayRocket.label>Máy phóng tên lửa ngày tận thế</Gun_DoomsdayRocket.label>
+<Gun_DoomsdayRocket.description>Máy phóng tên lửa dùng một lần để phản công nhanh, có thể hiệu quả tấn công các mục tiêu mềm và gây ra hỏa hoạn. Vì chỉ có thể sử dụng một lần và sức phá hoại lớn, người ta nói rằng chỉ có kẻ điên mới sử dụng loại vũ khí này.</Gun_DoomsdayRocket.description>
+<Gun_DoomsdayRocket.tools.barrel.label>Ống phóng</Gun_DoomsdayRocket.tools.barrel.label>
+<Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>Máy phóng tên lửa ngày tận thế</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+<Gun_TripleRocket.label>Máy phóng tên lửa ba lần</Gun_TripleRocket.label>
+<Gun_TripleRocket.description>Máy phóng tên lửa dùng một lần có khả năng phóng ba viên đạn. Vì chỉ có thể sử dụng một lần và sức phá hoại lớn, người ta nói rằng chỉ có kẻ điên mới sử dụng loại vũ khí này.</Gun_TripleRocket.description>
+<Gun_TripleRocket.tools.barrel.label>Ống phóng</Gun_TripleRocket.tools.barrel.label>
+<Gun_TripleRocket.verbs.Verb_ShootOneUse.label>Máy phóng tên lửa ba lần</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+</LanguageData>

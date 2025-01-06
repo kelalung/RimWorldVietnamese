@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SaveButton>Lưu</SaveButton>
+	<ClearBinding>Xóa</ClearBinding>
+	<ResetBinding>Đặt lại về mặc định</ResetBinding>
+	<BindingButtonToolTip>Nhấn chuột trái để thay đổi cài đặt phím / Nhấn chuột phải để xem thêm tùy chọn</BindingButtonToolTip>
+	<BindingButtonToolTipController>Nhấn phím để thay đổi cài đặt phím / Nhấn cò trái để xem thêm tùy chọn</BindingButtonToolTipController>
+	<PressAnyKeyOrEsc>Nhấn bất kỳ phím nào để thay đổi cài đặt phím / Nhấn phím Esc để hủy cài đặt</PressAnyKeyOrEsc>
+	<PressAnyKeyOrEscController>Nhấn bất kỳ phím nào để thay đổi cài đặt phím / Nhấn {Key:Cancel} để hủy cài đặt</PressAnyKeyOrEscController>
+	<KeyBindingOverwritten>Các cài đặt phím sau đã bị hủy: {0}</KeyBindingOverwritten>
+</LanguageData>

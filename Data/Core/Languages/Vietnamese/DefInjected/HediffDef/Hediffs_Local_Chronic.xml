@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Alzheimers.label>Bệnh Alzheimer</Alzheimers.label>
+	<Alzheimers.description>Một bệnh thoái hóa thần kinh thường do lão hóa gây ra, còn được gọi là "chứng mất trí nhớ tuổi già". Bệnh Alzheimer sẽ dẫn đến suy giảm khả năng suy nghĩ và ghi nhớ theo thời gian. Hầu hết các trường hợp, bệnh nhân sẽ thể hiện các hành vi như quên người thân, đi lang thang bối rối.</Alzheimers.description>
+	<Alzheimers.stages.minor-0.label>Nhẹ</Alzheimers.stages.minor-0.label>
+	<Alzheimers.stages.minor-1.label>Khá nhẹ</Alzheimers.stages.minor-1.label>
+	<Alzheimers.stages.major-0.label>Khá nặng</Alzheimers.stages.major-0.label>
+	<Alzheimers.stages.major-1.label>Nghiêm trọng</Alzheimers.stages.major-1.label>
+	<Asthma.label>Hen suyễn</Asthma.label>
+	<Asthma.description>Một bệnh lý mạn tính của đường hô hấp. Nó cần được chăm sóc định kỳ để ngăn ngừa triệu chứng tái phát.</Asthma.description>
+	<Asthma.stages.minor.label>Khá nhẹ</Asthma.stages.minor.label>
+	<Asthma.stages.major-0.label>Khá nặng</Asthma.stages.major-0.label>
+	<Asthma.stages.major-1.label>Nghiêm trọng</Asthma.stages.major-1.label>
+	<BadBack.label>Đau lưng</BadBack.label>
+	<BadBack.description>Sự thoái hóa của các mô cơ xung quanh cột sống khiến cột sống khó có thể hoạt động hoặc uốn cong một cách trơn tru.</BadBack.description>
+	<BadBack.labelNoun>Đau lưng</BadBack.labelNoun>
+	<Blindness.label>Mù</Blindness.label>
+	<Blindness.description>Mất hoàn toàn thị lực.</Blindness.description>
+	<Carcinoma.label>Khối u ung thư</Carcinoma.label>
+	<Carcinoma.description>Một khối mô đã biến đổi thành ung thư. Nếu bệnh nhân không được điều trị kịp thời, tế bào ung thư sẽ phát triển không giới hạn theo thời gian, cuối cùng dẫn đến sự suy thoái của ung thư và cái chết của bệnh nhân.\nMột bác sĩ có tay nghề có thể loại bỏ tế bào ung thư, nhưng một bác sĩ không có kinh nghiệm chỉ có thể cắt bỏ đơn giản các cơ quan hoặc chi bị ung thư.</Carcinoma.description>
+	<Carcinoma.labelNoun>Khối u ung thư</Carcinoma.labelNoun>
+	<Carcinoma.stages.minor-0.label>Nhẹ</Carcinoma.stages.minor-0.label>
+	<Carcinoma.stages.minor-1.label>Khá nhẹ</Carcinoma.stages.minor-1.label>
+	<Carcinoma.stages.major-0.label>Vừa phải</Carcinoma.stages.major-0.label>
+	<Carcinoma.stages.major-1.label>Nghiêm trọng</Carcinoma.stages.major-1.label>
+	<Carcinoma.stages.extreme-0.label>Cực kỳ nghiêm trọng</Carcinoma.stages.extreme-0.label>
+	<Carcinoma.stages.extreme-1.label>Cực kỳ nghiêm trọng</Carcinoma.stages.extreme-1.label>
+	<Cataract.label>Đục thủy tinh thể</Cataract.label>
+	<Cataract.description>Do sự biến đổi của protein trong thủy tinh thể gây ra mờ đục. Nó sẽ ảnh hưởng đến thị lực của bệnh nhân.</Cataract.description>
+	<Cataract.labelNoun>Đục thủy tinh thể</Cataract.labelNoun>
+	<Dementia.label>Mất trí nhớ</Dementia.label>
+	<Dementia.description>Bệnh thoái hóa thần kinh. Nó sẽ dẫn đến các thiếu sót trong khả năng suy nghĩ và ghi nhớ. Chứng mất trí có nhiều nguyên nhân, bao gồm lão hóa, các bệnh cụ thể và độc tố.</Dementia.description>
+	<Frail.label>Yếu đuối</Frail.label>
+	<Frail.description>Sự suy giảm khối lượng cơ và mật độ xương toàn thân.</Frail.description>
+	<Frail.labelNoun>Yếu đuối</Frail.labelNoun>
+	<HearingLoss.label>Mất thính lực</HearingLoss.label>
+	<HearingLoss.description>Sự truyền tải thông tin âm thanh bất thường do bệnh lý ốc tai. Bệnh nhân thường biểu hiện với mức độ mất thính lực khác nhau.</HearingLoss.description>
+	<HeartArteryBlockage.label>Tắc nghẽn động mạch tim</HeartArteryBlockage.label>
+	<HeartArteryBlockage.description>Một động mạch quan trọng trong tim bị tắc nghẽn. Tắc nghẽn động mạch có thể dẫn đến các cơn đau tim không định kỳ.</HeartArteryBlockage.description>
+	<HeartArteryBlockage.labelNoun>Tắc nghẽn động mạch</HeartArteryBlockage.labelNoun>
+	<HeartArteryBlockage.stages.minor-0.label>Nhẹ</HeartArteryBlockage.stages.minor-0.label>
+	<HeartArteryBlockage.stages.minor-1.label>Khá nhẹ</HeartArteryBlockage.stages.minor-1.label>
+	<HeartArteryBlockage.stages.major-0.label>Vừa phải</HeartArteryBlockage.stages.major-0.label>
+	<HeartArteryBlockage.stages.major-1.label>Nghiêm trọng</HeartArteryBlockage.stages.major-1.label>
+	<HeartArteryBlockage.stages.extreme.label>Cực kỳ nghiêm trọng</HeartArteryBlockage.stages.extreme.label>
+	<OrganDecay.label>Thoái hóa cơ quan</OrganDecay.label>
+	<OrganDecay.description>Bệnh thoái hóa ảnh hưởng đến một cơ quan, không thể chữa trị bằng các phương pháp thông thường. Nguyên nhân có thể là do vi khuẩn hoặc virus. Mầm bệnh dường như xuất phát từ một nguồn nước tự nhiên nào đó; nó không lây truyền trực tiếp giữa người với người.\n\nCơ quan này sẽ dần mất đi chức năng cho đến khi hoàn toàn suy thoái. Có thể thay thế bằng cơ quan giả hoặc cơ quan tự nhiên.</OrganDecay.description>
+	<OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort} đã mất {1} do thoái hóa cơ quan.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+	<OrganDecay.stages.minor.label>Khá nhẹ</OrganDecay.stages.minor.label>
+	<OrganDecay.stages.moderate.label>Vừa phải</OrganDecay.stages.moderate.label>
+	<OrganDecay.stages.severe.label>Nghiêm trọng</OrganDecay.stages.severe.label>
+	<OrganDecay.stages.extreme.label>Cực kỳ nghiêm trọng</OrganDecay.stages.extreme.label>
+</LanguageData>

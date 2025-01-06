@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>Án tử hợp lý (thuộc địa)</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>Một thuộc địa có tội đã bị xử án. Dù hợp lý nhưng vẫn khiến tôi buồn.</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>Thuộc địa được an tử</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>Một thuộc địa đã được an tử, dù có chút nhân đạo nhưng vẫn khiến tôi buồn.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>Thuộc địa bị xử án</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>Một thuộc địa đã bị giết một cách lạnh lùng. Thuộc địa này dường như ngày càng tồi tệ hơn.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>Thuộc địa chết vì bị lấy nội tạng</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>Một thuộc địa đã chết vì bị lấy nội tạng, điều này thật khủng khiếp.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>Thuộc địa chết vì bị quét phân rã</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
+<ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>Một thuộc địa đã chết trong máy quét phân rã của chúng tôi. Não họ đã bị đốt thành tro để nuôi máy móc. Điều này thật khủng khiếp.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>Án tử hợp lý</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>Một tội phạm hoặc khách đã bị xử án, dù hợp lý nhưng vẫn khiến tôi buồn.</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>Có người đã được an tử</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>Một tù nhân hoặc khách đã được an tử, dù có chút nhân đạo nhưng vẫn khiến tôi buồn.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>Có người đã bị xử án</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>Một tù nhân hoặc khách đã bị giết một cách lạnh lùng, thuộc địa này dường như ngày càng tồi tệ hơn.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>Có người đã chết vì bị lấy nội tạng</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>Một tù nhân hoặc khách đã chết vì bị lấy nội tạng ở đây, điều này thật khủng khiếp.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>Có người đã chết vì bị quét phân rã</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
+<ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>Một tù nhân đã chết trong máy quét phân rã của chúng tôi. Não họ đã bị đốt thành tro để nuôi máy móc. Điều này thật khủng khiếp.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
+<ExecutedPrisoner_Horrible.stages.executed_prisoner.label>Thi hành án tử hình tù nhân</ExecutedPrisoner_Horrible.stages.executed_prisoner.label>
+<ExecutedPrisoner_Horrible.stages.executed_prisoner.description>Tôi buộc phải tự tay thi hành án tử hình cho một tù nhân. Đây là sự xúc phạm nghiêm trọng đối với đức tin của tôi.</ExecutedPrisoner_Horrible.stages.executed_prisoner.description>
+<ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>Thi hành án tử hình tù nhân</ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>
+<ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>Thi hành án tử hình tù nhân</ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>
+<ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>Thi hành án tử hình tù nhân</ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>
+<ExecutedPrisoner_Respected.stages.executed_prisoner.label>Thi hành án tử hình tù nhân</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
+<ExecutedPrisoner_Respected.stages.executed_prisoner.description>Tôi đã thi hành án tử hình cho một tù nhân. Đây là kết quả của chiến thắng.</ExecutedPrisoner_Respected.stages.executed_prisoner.description>
+<ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>Thi hành án tử hình cho tù nhân có tội</ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>
+<ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>Tù nhân có tội đã bị thi hành án</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>
+<ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>Chúng tôi đã thi hành án tử hình cho một tù nhân có tội. Công lý đã được thực thi!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
+<ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>Thi hành án tử hình cho tù nhân có tội</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
+<ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>Tôi đã thi hành án tử hình cho một tù nhân có tội. Công lý đã được thực thi!</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
+<ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>Thi hành án tử hình cho tù nhân vô tội</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
+<ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>Tôi buộc phải thi hành án tử hình cho một tù nhân vô tội. Đây là sự xúc phạm nghiêm trọng đối với đức tin của tôi.</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>
+<ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>Thi hành án tử hình cho tù nhân vô tội</ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>
+<Execution_Know_Respected_Mood.stages.execution.label>Thi hành án</Execution_Know_Respected_Mood.stages.execution.label>
+<Execution_Know_Respected_Mood.stages.execution.description>Chúng tôi đã thi hành án cho một tội phạm hoặc khách. Sự thống trị của chúng tôi là rõ ràng!</Execution_Know_Respected_Mood.stages.execution.description>
+<GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>Chịu trách nhiệm về cái chết của một tù nhân</GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>Tù nhân có tội chết (chịu trách nhiệm)</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>
+<GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>Tôi đã giết một tù nhân có tội. Công lý đã được thực thi!</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>
+<InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>Tù nhân vô tội chết (chịu trách nhiệm)</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>
+<InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>Tôi chịu trách nhiệm về cái chết của một tù nhân. Tôi là một con quỷ thật sự.</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>
+<InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>Tù nhân vô tội chết (chịu trách nhiệm)</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>
+<InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>Tôi phải chịu trách nhiệm về cái chết của một tù nhân. Tôi có phải là kẻ xấu không?</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>
+<InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>Chịu trách nhiệm về cái chết của một tù nhân</InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>
+<InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>Tù nhân vô tội chết</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>
+<InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>Có một tù nhân vô tội đã chết. Chúng ta nên đối xử tốt hơn với tù nhân, ngay cả khi chúng ta muốn họ chết, ít nhất cũng phải có một bản án chính thức, chứ không phải bằng những phương pháp man rợ như thế này.</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>
+<InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>Chịu trách nhiệm về cái chết của một tù nhân</InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>
+<NoRecentExecution.stages.no_execution.label>Khao khát thi hành án tử hình</NoRecentExecution.stages.no_execution.label>
+<NoRecentExecution.stages.no_execution.description>Chúng ta đã không thi hành án tử hình trong một thời gian dài. Có phải chúng ta đã yếu đuối đến mức không dám lấy đi mạng sống của người khác không?</NoRecentExecution.stages.no_execution.description>
+<PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>Chịu trách nhiệm về cái chết của một tù nhân</PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+<PrisonerDied_Respected.stages.prisoner_died_responsible.label>Tù nhân chết (chịu trách nhiệm)</PrisonerDied_Respected.stages.prisoner_died_responsible.label>
+<PrisonerDied_Respected.stages.prisoner_died_responsible.description>Tôi chịu trách nhiệm về cái chết của một tù nhân! Bây giờ mọi người đều tôn trọng tôi.</PrisonerDied_Respected.stages.prisoner_died_responsible.description>
+</LanguageData>

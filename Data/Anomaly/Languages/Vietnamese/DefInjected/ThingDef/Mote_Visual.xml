@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AtmosphericHeaterGlowingVents.label>Bụi</AtmosphericHeaterGlowingVents.label>
+  <BiomutationWarmup.label>Bụi</BiomutationWarmup.label>
+  <MetalHellFog.label>Bụi</MetalHellFog.label>
+  <MetalHellFogHigh.label>Bụi</MetalHellFogHigh.label>
+  <Mote_AbductWarmupDistortionRing.label>Bụi</Mote_AbductWarmupDistortionRing.label>
+  <Mote_AbductWarmupDistortionRingBuilding.label>Bụi</Mote_AbductWarmupDistortionRingBuilding.label>
+  <Mote_ActivatedVoidStructure.label>Bụi</Mote_ActivatedVoidStructure.label>
+  <Mote_BioFerriteHarvested.label>Bụi</Mote_BioFerriteHarvested.label>
+  <Mote_ChargingElectroCables.label>Bụi</Mote_ChargingElectroCables.label>
+  <Mote_Clipboard.label>Bụi</Mote_Clipboard.label>
+  <Mote_DistortionPulse.label>Bụi</Mote_DistortionPulse.label>
+  <Mote_FleshmelterBolt_Aim.label>Bụi</Mote_FleshmelterBolt_Aim.label>
+  <Mote_FleshmelterBolt_Charge.label>Bụi</Mote_FleshmelterBolt_Charge.label>
+  <Mote_FleshmelterBolt_Target.label>Bụi</Mote_FleshmelterBolt_Target.label>
+  <Mote_HarbingerTreeRoots.label>Bụi</Mote_HarbingerTreeRoots.label>
+  <Mote_HateChantCall.label>Bụi</Mote_HateChantCall.label>
+  <Mote_HateChantShadow.label>Bụi</Mote_HateChantShadow.label>
+  <Mote_HoraxHugeSpellWarmup.label>Bụi</Mote_HoraxHugeSpellWarmup.label>
+  <Mote_HoraxSmallSpellWarmup.label>Bụi</Mote_HoraxSmallSpellWarmup.label>
+  <Mote_IncineratorBurst.label>Bụi</Mote_IncineratorBurst.label>
+  <Mote_MeatExplosionFlyingPiece.label>Bụi</Mote_MeatExplosionFlyingPiece.label>
+  <Mote_MeatExplosionFlyingPieceOverloaded.label>Bụi</Mote_MeatExplosionFlyingPieceOverloaded.label>
+  <Mote_MeatExplosionFlyingSplatter.label>Bụi</Mote_MeatExplosionFlyingSplatter.label>
+  <Mote_MeatExplosionMist.label>Bụi</Mote_MeatExplosionMist.label>
+  <Mote_NoctolEyes.label>Bụi</Mote_NoctolEyes.label>
+  <Mote_ObeliskExplosionWarmupArea.label>Bụi</Mote_ObeliskExplosionWarmupArea.label>
+  <Mote_PsychicBanshee.label>Bụi</Mote_PsychicBanshee.label>
+  <Mote_PsychicDistortionRingContractingQuick.label>Bụi</Mote_PsychicDistortionRingContractingQuick.label>
+  <Mote_PsychicRitualInvocation.label>Bụi</Mote_PsychicRitualInvocation.label>
+  <Mote_RitualCandleA.label>Bụi</Mote_RitualCandleA.label>
+  <Mote_RitualCandleB.label>Bụi</Mote_RitualCandleB.label>
+  <Mote_RitualCandleC.label>Bụi</Mote_RitualCandleC.label>
+  <Mote_ShamblerRaiseMist.label>Bụi</Mote_ShamblerRaiseMist.label>
+  <Mote_SparkSimple.label>Bụi</Mote_SparkSimple.label>
+  <Mote_VoidNode.label>Bụi</Mote_VoidNode.label>
+  <TachycardiacArrestExplosion.label>Bụi</TachycardiacArrestExplosion.label>
+  <VoidNodeCore_DustA.label>Bụi</VoidNodeCore_DustA.label>
+  <VoidNodeCore_DustB.label>Bụi</VoidNodeCore_DustB.label>
+  <VoidNodeDistortion.label>Bụi</VoidNodeDistortion.label>
+</LanguageData>

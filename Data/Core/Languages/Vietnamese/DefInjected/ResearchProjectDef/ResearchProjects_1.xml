@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Brewing.label>Ủ bia</Brewing.label>
+	<Brewing.description>Mở khóa xây dựng "Bàn ủ bia". Biến hoa bia thành bia ngon.</Brewing.description>
+	<Brewing.generalRules.rulesStrings>
+		<li>subject->Ủ bia</li>
+		<li>subject_story->Đã ủ một loại bia đen độc đáo, nổi tiếng khắp vũ trụ</li>
+		<li>subject_story->Sau khi nghỉ hưu, đã điều hành một quán rượu ở một thế giới động vật</li>
+		<li>subject_story->Chuyên nghiên cứu công nghệ ủ bia điều khiển khí hậu</li>
+		<li>subject_gerund->Xây dựng bàn ủ bia</li>
+		<li>subject_gerund->Ủ bia</li>
+	</Brewing.generalRules.rulesStrings>
+	<CarpetMaking.label>Làm thảm</CarpetMaking.label>
+	<CarpetMaking.description>Mở khóa xây dựng "Thảm", để nâng cao chất lượng môi trường sống.</CarpetMaking.description>
+	<CarpetMaking.generalRules.rulesStrings>
+		<li>subject->Làm thảm</li>
+		<li>subject_story->Học cách dệt thảm từ lông cho một vị hoàng đế lạnh lùng</li>
+		<li>subject_story->Để lại bộ sưu tập thảm và bức tranh phong phú</li>
+		<li>subject_story->Định cư trên một vệ tinh trung cổ, nơi có nghệ thuật dệt tuyệt vời</li>
+		<li>subject_gerund->Dệt thảm</li>
+	</CarpetMaking.generalRules.rulesStrings>
+	<Cocoa.label>Cây cacao</Cocoa.label>
+	<Cocoa.description>Mở khóa trồng "Cây cacao". Sô cô la ngon thu hoạch được có thể đáp ứng nhu cầu giải trí và là mặt hàng giao dịch phổ biến.</Cocoa.description>
+	<Cocoa.generalRules.rulesStrings>
+		<li>subject->Cây cacao</li>
+		<li>subject->Sô cô la</li>
+		<li>subject_story->Vì nghiện sô cô la, đã phải bị kiểm soát</li>
+		<li>subject_story->Nghiên cứu quá trình lên men cacao để xuất bản bài báo</li>
+		<li>subject_story->Mở một cửa hàng sô cô la tốt nhất trong ngành</li>
+		<li>subject_gerund->Trồng cây cacao</li>
+	</Cocoa.generalRules.rulesStrings>
+	<ComplexClothing.label>Quần áo phức tạp</ComplexClothing.label>
+	<ComplexClothing.description>Mở khóa xây dựng "Bàn may", dùng để may những bộ quần áo phức tạp, như quần, áo khoác chống bụi, mũ bò sữa, v.v.</ComplexClothing.description>
+	<ComplexClothing.generalRules.rulesStrings>
+		<li>subject->Quần áo phức tạp</li>
+		<li>subject_story->Thiết kế quần áo bền cho cư dân thành phố</li>
+		<li>subject_story->Kể chuyện cho trẻ em trong làng trong khi làm đồ may</li>
+		<li>subject_story->Học cách làm trang phục cho buổi biểu diễn lớn của đoàn kịch</li>
+		<li>subject_gerund->May quần áo phức tạp</li>
+	</ComplexClothing.generalRules.rulesStrings>
+	<ComplexFurniture.label>Nội thất phức tạp</ComplexFurniture.label>
+	<ComplexFurniture.description>Mở khóa xây dựng nội thất phức tạp, như giường, bàn trà, tủ đầu giường, ghế ăn, ghế bành, tủ thấp, tủ công cụ, bàn bi-a, bàn bài, lỗ thông gió, quan tài, v.v.</ComplexFurniture.description>
+	<ComplexFurniture.generalRules.rulesStrings>
+		<li>subject->Thợ mộc</li>
+		<li>subject_story->Học kỹ thuật mộc từ bậc thầy thợ mộc</li>
+		<li>subject_story->Xây dựng một thị trấn gỗ một mình</li>
+		<li>subject_story->Mở một nhà máy để bán đồ nội thất chất lượng cao cho thương nhân đi qua</li>
+		<li>subject_gerund->Xây dựng nội thất phức tạp</li>
+	</ComplexFurniture.generalRules.rulesStrings>
+	<Devilstrand.label>Nấm quỷ</Devilstrand.label>
+	<Devilstrand.description>Mở khóa trồng "Nấm quỷ", một loại nấm phát triển rất chậm. Khi thu hoạch sẽ nhận được vải đặc biệt bền và chịu nhiệt: vải nấm.</Devilstrand.description>
+	<Devilstrand.generalRules.rulesStrings>
+		<li>subject->Trồng nấm quỷ</li>
+		<li>subject_story->Sử dụng nấm quỷ như một rào cản chống cháy tự nhiên</li>
+		<li>subject_story->Phát triển công nghệ trồng nấm quỷ một cách dễ dàng</li>
+		<li>subject_story->Đam mê nấm, tự xưng là công chúa của vương quốc nấm</li>
+		<li>subject_gerund->Trồng nấm quỷ</li>
+	</Devilstrand.generalRules.rulesStrings>
+	<DrugProduction.label>Sản xuất chất gây nghiện</DrugProduction.label>
+	<DrugProduction.description>Học các kỹ thuật cơ bản về chế biến và tổng hợp chất gây nghiện. Mở khóa xây dựng "Bàn thí nghiệm thuốc". Cần nghiên cứu thêm để sản xuất các chất gây nghiện cụ thể.</DrugProduction.description>
+	<DrugProduction.generalRules.rulesStrings>
+		<li>subject->Sản xuất chất gây nghiện</li>
+		<li>subject->Tổng hợp chất gây nghiện</li>
+		<li>subject_story->Làm việc trong phòng thí nghiệm trên tiểu hành tinh ở rìa khu vực có người ở</li>
+		<li>subject_story->Học cách sản xuất chất gây nghiện từ hóa chất tái chế, kết quả là phải ở trong tù nhiều năm</li>
+		<li>subject_story->Là một nhà hóa học, nhưng sau đó làm thêm nghề buôn bán chất gây nghiện bất hợp pháp</li>
+		<li>subject_gerund->Xây dựng bàn thí nghiệm thuốc</li>
+		<li>subject_gerund->Sản xuất chất gây nghiện</li>
+	</DrugProduction.generalRules.rulesStrings>
+	<GoJuiceProduction.label>Sản xuất nước tăng lực</GoJuiceProduction.label>
+	<GoJuiceProduction.description>Mở khóa sản xuất "Nước tăng lực", một loại chất gây nghiện tăng cường khả năng bắn súng, cận chiến và di chuyển, đồng thời giảm cảm giác đau đớn.</GoJuiceProduction.description>
+	<GoJuiceProduction.generalRules.rulesStrings>
+		<li>subject->Sản xuất nước tăng lực</li>
+		<li>subject_story->Bị đuổi việc vì uống nước tăng lực trong cuộc thi thể thao nhóm.</li>
+		<li>subject_story->Phát hiện nước tăng lực đã tăng năng suất tại mỏ và khu khai thác gỗ.</li>
+		<li>subject_story->Luôn mang theo nước tăng lực hoặc huyết thanh mạnh mẽ mỗi khi ra nhiệm vụ</li>
+		<li>subject_gerund->Tổng hợp nước tăng lực</li>
+	</GoJuiceProduction.generalRules.rulesStrings>
+	<Greatbow.label>Cung lớn</Greatbow.label>
+	<Greatbow.description>Mở khóa sản xuất "Cung lớn", có thể bắn chết kẻ thù từ khoảng cách xa.</Greatbow.description>
+	<Greatbow.generalRules.rulesStrings>
+		<li>subject->Cung lớn</li>
+		<li>subject_story->Một mũi tên đã xuyên thủng mũ sắt của vua phong kiến</li>
+		<li>subject_story->Săn lông của bò tuyết trong một thế giới hoang dã</li>
+		<li>subject_story->Sống một mình trong rừng xanh, chỉ cần ai dám đến gần một dặm, sẽ nhận được "lời chào" bằng mưa tên</li>
+		<li>subject_gerund->Sản xuất cung lớn</li>
+	</Greatbow.generalRules.rulesStrings>
+	<LongBlades.label>Kiếm dài</LongBlades.label>
+	<LongBlades.description>Mở khóa sản xuất "Kiếm dài" và "Giáo dài".</LongBlades.description>
+	<LongBlades.generalRules.rulesStrings>
+		<li>subject->Vũ khí thời trung cổ</li>
+		<li>subject_story->Chinh phục khu vực này cùng với trung đoàn kỵ binh nhẹ thứ năm của công tước Beta</li>
+		<li>subject_story->Bị nô lệ thành thợ rèn vũ khí trong đấu trường trên một hành tinh còn ở thời kỳ đồ sắt</li>
+		<li>subject_story->Huấn luyện bộ binh nặng trong thế giới chiến tranh cách sử dụng lợi thế tấn công của vũ khí</li>
+		<li>subject_gerund->Rèn vũ khí thời trung cổ</li>
+	</LongBlades.generalRules.rulesStrings>
+	<PassiveCooler.label>Thiết bị làm mát bay hơi</PassiveCooler.label>
+	<PassiveCooler.description>Mở khóa xây dựng "Thiết bị làm mát bay hơi", một công cụ giúp làm mát không gian bên trong mà không cần điện.</PassiveCooler.description>
+	<PassiveCooler.generalRules.rulesStrings>
+		<li>subject->Hiện tượng bay hơi</li>
+		<li>subject->Thiết bị làm mát bay hơi</li>
+		<li>subject_story->Chuyển đến thế giới nhiệt đới nóng bức và phát triển công nghệ làm mát độc đáo</li>
+		<li>subject_story->Nghiên cứu công nghệ làm mát khu vực nguyên thủy trong thư viện của thế giới trung tâm thoải mái</li>
+		<li>subject_story->Nhận thấy ở bờ biển của một hành tinh đại dương, nơi nước biển bắn lên thì mát hơn</li>
+		<li>subject_gerund->Xây dựng thiết bị làm mát bay hơi</li>
+	</PassiveCooler.generalRules.rulesStrings>
+	<Pemmican.label>Bánh thịt khô</Pemmican.label>
+	<Pemmican.description>Mở khóa sản xuất "Bánh thịt khô", được làm từ thịt và nguyên liệu thực vật, có thời gian bảo quản dài. Một món đồ không thể thiếu trong các chuyến đi.</Pemmican.description>
+	<Pemmican.generalRules.rulesStrings>
+		<li>subject->Sản xuất bánh thịt khô</li>
+		<li>subject_story->Nắm vững cách làm bánh thịt khô trong chuyến hành hương dài đến tháp hành tinh</li>
+		<li>subject_story->Sống sót chỉ nhờ bánh thịt khô khi tàu khách rơi xuống thế giới kính</li>
+		<li>subject_story->Dạy bộ lạc hoang dã cách làm bánh thịt khô</li>
+		<li>subject_gerund->Sản xuất bánh thịt khô</li>
+	</Pemmican.generalRules.rulesStrings>
+	<PenoxycylineProduction.label>Sản xuất Penoxycyline</PenoxycylineProduction.label>
+	<PenoxycylineProduction.description>Mở khóa sản xuất "Penoxycyline", một loại thuốc dùng để phòng ngừa dịch bệnh, sốt rét và các bệnh khác.</PenoxycylineProduction.description>
+	<PenoxycylineProduction.generalRules.rulesStrings>
+		<li>subject->Sản xuất Penoxycyline</li>
+		<li>subject_story->Thuyết trình về y học phòng ngừa trên hành tinh liên minh</li>
+		<li>subject_story->Bị đuổi khỏi "Lưu vong bình minh" vì bán thuốc "không có tác dụng"</li>
+		<li>subject_story->Ngăn chặn sự lây lan của sốt rét bằng cách sử dụng cẩn thận Penoxycyline</li>
+		<li>subject_gerund->Tổng hợp Penoxycyline</li>
+	</PenoxycylineProduction.generalRules.rulesStrings>
+	<PlateArmor.label>Giáp plate</PlateArmor.label>
+	<PlateArmor.description>Mở khóa "Giáp plate", một loại áo giáp nặng làm từ kim loại hoặc gỗ. Có khả năng bảo vệ xuất sắc, nhưng nhược điểm là làm giảm tốc độ di chuyển.</PlateArmor.description>
+	<PlateArmor.generalRules.rulesStrings>
+		<li>subject->Giáp plate</li>
+		<li>subject_story->Làm giáp plate từ phế liệu khi chính quyền bao vây túp lều của gia đình</li>
+		<li>subject_story->Bị gọi là "thợ rèn xanh" vì trang bị giáp plate gỗ phủ rêu</li>
+		<li>subject_story->Thành lập hiệp hội đầu tiên cho các thợ rèn giáp ở thế giới đô thị</li>
+		<li>subject_gerund->Rèn giáp plate</li>
+	</PlateArmor.generalRules.rulesStrings>
+	<PsychiteRefining.label>Tinh chế thuốc tinh thần</PsychiteRefining.label>
+	<PsychiteRefining.description>Cho phép thực dân tinh chế lá tinh thần, mở khóa sản xuất "Mảnh" và "Bột ya-yo".</PsychiteRefining.description>
+	<PsychiteRefining.generalRules.rulesStrings>
+		<li>subject->Sản xuất thuốc tinh thần</li>
+		<li>subject_story->Dùng công việc ở trường đại học làm bức màn cho hoạt động buôn bán ma túy</li>
+		<li>subject_story->Thành lập một cộng đồng, trộn mảnh thuốc với thức ăn ở liều lượng thấp</li>
+		<li>subject_story->Vận động hợp pháp hóa bột ya-yo ở thế giới đô thị gần đó</li>
+		<li>subject_gerund->Tinh chế thuốc tinh thần</li>
+	</PsychiteRefining.generalRules.rulesStrings>
+	<PsychoidBrewing.label>Pha chế lá tinh thần</PsychoidBrewing.label>
+	<PsychoidBrewing.description>Mở khóa sản xuất "Trà tinh thần". Đun nước trên lửa trại hoặc bếp để pha lá tinh thần, tạo ra trà có thể tăng cường tinh thần và tâm trạng một cách nhẹ nhàng, với khả năng gây nghiện thấp.</PsychoidBrewing.description>
+	<PsychoidBrewing.generalRules.rulesStrings>
+		<li>subject->Lá tinh thần</li>
+		<li>subject_story->Tham gia vào một hội nhóm ngắn ngủi về lá tinh thần trong thế giới dị giáo</li>
+		<li>subject_story->Thực hiện thí nghiệm với lá tinh thần để giúp đỡ những người lính bị chấn thương tâm lý</li>
+		<li>subject_story->Khi nắm quyền, hợp pháp hóa sản xuất nhiều sản phẩm từ lá tinh thần ở một số thế giới trung tâm</li>
+		<li>subject_gerund->Pha chế lá tinh thần</li>
+	</PsychoidBrewing.generalRules.rulesStrings>
+	<RecurveBow.label>Cung cong</RecurveBow.label>
+	<RecurveBow.description>Mở khóa sản xuất "Cung cong", một loại vũ khí tầm xa hiệu quả và có chi phí sản xuất thấp.</RecurveBow.description>
+	<RecurveBow.generalRules.rulesStrings>
+		<li>subject->Cung</li>
+		<li>subject->Sản xuất cung</li>
+		<li>subject_story->Theo dõi một con cừu nổ điên cuồng suốt bốn ngày, và cuối cùng bắn chết nó bằng một mũi tên</li>
+		<li>subject_story->Định cư gần một khu rừng tuyết tùng để có được nguyên liệu hoàn hảo cho việc làm cung</li>
+		<li>subject_story->Đào tạo trẻ em thuộc thuộc địa thành thợ săn và thu lượm, mỗi đứa trẻ đều là cung thủ xuất sắc</li>
+		<li>subject_gerund->Sản xuất cung</li>
+	</RecurveBow.generalRules.rulesStrings>
+	<Smithing.label>Rèn</Smithing.label>
+	<Smithing.description>Mở khóa xây dựng "Bàn rèn", dùng để biến kim loại thành vũ khí và công cụ, như giáo ngắn, kiếm ngắn, búa đinh, v.v.</Smithing.description>
+	<Smithing.generalRules.rulesStrings>
+		<li>subject->Rèn</li>
+		<li>subject_story->Sống trong một ngôi làng thời trung cổ, thành thạo kỹ thuật kim loại đơn giản</li>
+		<li>subject_story->Mở một cửa hàng rèn cho Hiệp hội phục hồi thời Phục hưng tại thế giới lấp lánh</li>
+		<li>subject_gerund->Rèn</li>
+	</Smithing.generalRules.rulesStrings>
+	<Stonecutting.label>Cắt đá</Stonecutting.label>
+	<Stonecutting.description>Mở khóa xây dựng "Bàn cắt đá", dùng để cắt đá thành các viên gạch có thể sử dụng.</Stonecutting.description>
+	<Stonecutting.generalRules.rulesStrings>
+		<li>subject->Thợ đá</li>
+		<li>subject_story->Là một trong những nhà thiết kế đền thờ xuất sắc, tất cả các ngôi đền do anh thiết kế đều mang cùng một tên</li>
+		<li>subject_story->Phát triển công nghệ cắt những viên đá cứng nhất bằng công cụ cơ bản</li>
+		<li>subject_story->Xây dựng toàn bộ cung điện của thống đốc trên một thế giới trung cổ khác</li>
+		<li>subject_gerund->Cắt đá</li>
+		<li>subject_gerund->Cắt đá</li>
+	</Stonecutting.generalRules.rulesStrings>
+	<TreeSowing.label>Trồng cây</TreeSowing.label>
+	<TreeSowing.description>Mở khóa trồng các loại cây khác nhau. Các loại cây có thể trồng sẽ thay đổi tùy theo hệ sinh thái của thuộc địa.</TreeSowing.description>
+	<TreeSowing.generalRules.rulesStrings>
+		<li>subject->Trồng cây</li>
+		<li>subject_story->Nhân giống cây cối trên một tiểu hành tinh đã tuyệt chủng lâu, cố gắng khôi phục sự sống cho nó</li>
+		<li>subject_story->Đã công bố một bài báo về việc duy trì hệ sinh thái tự nhiên</li>
+		<li>subject_story->Làm việc tại một vườn ươm trong một thế giới động vật</li>
+		<li>subject_gerund->Trồng cây</li>
+	</TreeSowing.generalRules.rulesStrings>
+	<WakeUpProduction.label>Sản xuất viên thuốc tỉnh táo</WakeUpProduction.label>
+	<WakeUpProduction.description>Mở khóa sản xuất "Viên thuốc tỉnh táo", một loại chất gây nghiện có thể thay thế giấc ngủ, kéo dài thời gian làm việc và giúp người dùng tạm quên mệt mỏi, nhưng có một số tác dụng phụ.</WakeUpProduction.description>
+	<WakeUpProduction.generalRules.rulesStrings>
+		<li>subject->Sản xuất viên thuốc tỉnh táo</li>
+		<li>subject_story->Cố gắng dùng viên thuốc tỉnh táo để cai nghiện caffeine</li>
+		<li>subject_story->Sử dụng viên thuốc tỉnh táo theo liều lượng định kỳ để điều trị bệnh ngủ gật và chứng mộng du</li>
+		<li>subject_story->Di chuyển mọi người đến mặt tối của tiểu hành tinh, sử dụng viên thuốc tỉnh táo để duy trì nhịp sinh học của họ</li>
+		<li>subject_gerund->Tổng hợp viên thuốc tỉnh táo</li>
+	</WakeUpProduction.generalRules.rulesStrings>
+</LanguageData>

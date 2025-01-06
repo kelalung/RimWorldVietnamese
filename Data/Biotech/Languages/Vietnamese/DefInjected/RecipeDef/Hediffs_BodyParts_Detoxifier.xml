@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallDetoxifierKidney.label>Cài đặt thận giải độc</InstallDetoxifierKidney.label>
+<InstallDetoxifierKidney.description>Cài đặt thận giải độc.</InstallDetoxifierKidney.description>
+<InstallDetoxifierKidney.jobString>Đang cài đặt thận giải độc.</InstallDetoxifierKidney.jobString>
+<InstallDetoxifierLung.label>Cài đặt phổi giải độc</InstallDetoxifierLung.label>
+<InstallDetoxifierLung.description>Cài đặt phổi giải độc.</InstallDetoxifierLung.description>
+<InstallDetoxifierLung.jobString>Đang cài đặt phổi giải độc.</InstallDetoxifierLung.jobString>
+</LanguageData>

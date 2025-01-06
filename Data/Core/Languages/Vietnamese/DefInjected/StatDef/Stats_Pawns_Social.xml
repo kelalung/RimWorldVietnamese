@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArrestSuccessChance.label>Tỷ lệ thành công bắt giữ</ArrestSuccessChance.label>
+	<ArrestSuccessChance.description>Khả năng của người này khi bắt giữ người khác. Điều này ảnh hưởng đến xác suất không xảy ra kháng cự khi bắt giữ người khác.</ArrestSuccessChance.description>
+	<BondAnimalChanceFactor.label>Hệ số gắn kết với động vật</BondAnimalChanceFactor.label>
+	<BondAnimalChanceFactor.description>Hệ số xác suất gắn kết khi tương tác với động vật.</BondAnimalChanceFactor.description>
+	<DrugSellPriceImprovement.label>Cải thiện giá bán chất gây nghiện</DrugSellPriceImprovement.label>
+	<DrugSellPriceImprovement.description>Khi người này giao dịch chất gây nghiện không y tế, giá sẽ được cải thiện theo tỷ lệ phần trăm này.</DrugSellPriceImprovement.description>
+	<NegotiationAbility.label>Khả năng đàm phán</NegotiationAbility.label>
+	<NegotiationAbility.description>Hiệu quả của người này khi làm đại diện đàm phán. Điều này ảnh hưởng đến tốc độ tuyển chọn tù nhân, hiệu quả khi tặng quà cho các phe phái khác, và kết quả của các cuộc đàm phán hòa bình.</NegotiationAbility.description>
+	<PawnBeauty.label>Vẻ đẹp</PawnBeauty.label>
+	<PawnBeauty.description>Giá trị hấp dẫn của người này, điều này cũng ảnh hưởng đến kết quả xã hội.</PawnBeauty.description>
+	<SocialImpact.label>Ảnh hưởng xã hội</SocialImpact.label>
+	<SocialImpact.description>Mức độ ảnh hưởng mà người khác nhận được khi người này tham gia vào các hoạt động xã hội.</SocialImpact.description>
+	<TameAnimalChance.label>Tỷ lệ thành công thuần hóa động vật</TameAnimalChance.label>
+	<TameAnimalChance.description>Xác suất cơ bản của người này khi thuần hóa động vật.\n\nTỷ lệ thành công thực tế cũng bị ảnh hưởng bởi tính hoang dã của động vật.\nNếu thuần hóa thất bại, có thể bị tấn công, đặc biệt là từ những động vật nguy hiểm.</TameAnimalChance.description>
+	<TradePriceImprovement.label>Cải thiện giá giao dịch</TradePriceImprovement.label>
+	<TradePriceImprovement.description>Khi người này thương lượng giá, tỷ lệ phần trăm cải thiện giá mua bán.</TradePriceImprovement.description>
+	<TrainAnimalChance.label>Tỷ lệ thành công huấn luyện động vật</TrainAnimalChance.label>
+	<TrainAnimalChance.description>Xác suất cơ bản của người này khi cố gắng huấn luyện động vật mỗi lần.\n\nTỷ lệ thực tế cũng phụ thuộc vào tính hoang dã của động vật và sự gắn kết với người huấn luyện.</TrainAnimalChance.description>
+</LanguageData>

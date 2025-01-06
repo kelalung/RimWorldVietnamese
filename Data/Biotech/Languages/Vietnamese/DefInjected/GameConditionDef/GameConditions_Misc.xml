@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<NoxiousHaze.label>Sương mù axit</NoxiousHaze.label>
+<NoxiousHaze.description>Sương mù axit là do ô nhiễm từ các ô bản đồ thế giới lân cận gây ra. Nó làm chậm sự phát triển của thực vật, làm hư hại nhanh chóng các vật phẩm ngoài trời, và giảm tâm trạng.\n\nĐiểm ô nhiễm gần ô thế giới hiện tại là {NEARBYPOLLUTION}, được tính từ ô thế giới gần đó. Điều này cũng có nghĩa là trung bình mỗi {MTB} ngày sẽ xuất hiện sương mù axit.</NoxiousHaze.description>
+<NoxiousHaze.endMessage>Sương mù axit đang tan biến.</NoxiousHaze.endMessage>
+<NoxiousHaze.startMessage>Do mức độ ô nhiễm cao trong khu vực này, sương mù axit đã xuất hiện.</NoxiousHaze.startMessage>
+</LanguageData>

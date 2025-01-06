@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ActivateMonolith.reportString>Đang kích hoạt TargetA.</ActivateMonolith.reportString>
+	<ActivityDormant.reportString>Ngủ đông (hoạt động thấp).</ActivityDormant.reportString>
+	<BuildCubeSculpture.reportString>Đang xây dựng tác phẩm điêu khắc {0}.</BuildCubeSculpture.reportString>
+	<CarryToEntityHolder.reportString>Đang mang TargetB đến TargetA.</CarryToEntityHolder.reportString>
+	<CarryToEntityHolderAlreadyHolding.reportString>Đang mang TargetB đến TargetA.</CarryToEntityHolderAlreadyHolding.reportString>
+	<ChimeraSwitchToAttackMode.reportString>Đang tấn công.</ChimeraSwitchToAttackMode.reportString>
+	<DevourerDigest.reportString>Đang làm gì đó.</DevourerDigest.reportString>
+	<EntityGoPassive.reportString>Đang vào trạng thái ngủ đông.</EntityGoPassive.reportString>
+	<ExecuteEntity.reportString>Đang xử án TargetA.</ExecuteEntity.reportString>
+	<ExtractBioferrite.reportString>Đang trích xuất sắt sống từ TargetA.</ExtractBioferrite.reportString>
+	<FleeAndCowerShort.reportString>Đang chạy trốn.</FleeAndCowerShort.reportString>
+	<GoldenCubePlay.reportString>Đang chơi với khối lập phương vàng.</GoldenCubePlay.reportString>
+	<HateChanting.reportString>Đang niệm lời nguyền.</HateChanting.reportString>
+	<InvestigateMonolith.reportString>Đang điều tra TargetA.</InvestigateMonolith.reportString>
+	<NociosphereDepart.reportString>Đang rời đi.</NociosphereDepart.reportString>
+	<ReleaseEntity.reportString>Đang thả TargetB.</ReleaseEntity.reportString>
+	<RevenantAttack.reportString>Đang theo dõi TargetA.</RevenantAttack.reportString>
+	<RevenantEscape.reportString>Đang chạy trốn.</RevenantEscape.reportString>
+	<RevenantSleep.reportString>Đang ngủ đông.</RevenantSleep.reportString>
+	<RevenantWander.reportString>Đang lang thang.</RevenantWander.reportString>
+	<SmashThing.reportString>Đang đập vỡ TargetA.</SmashThing.reportString>
+	<TakeBioferriteOutOfHarvester.reportString>Đang lấy sắt sống ra khỏi TargetA.</TakeBioferriteOutOfHarvester.reportString>
+	<TalkCreepJoiner.reportString>Đang nói chuyện với TargetA.</TalkCreepJoiner.reportString>
+	<TendEntity.reportString>Đang chữa trị cho TargetA.</TendEntity.reportString>
+	<TransferBetweenEntityHolders.reportString>Đang chuyển TargetC đến nơi giam giữ khác.</TransferBetweenEntityHolders.reportString>
+	<UnnaturalCorpseAttack.reportString>Đang đuổi theo TargetA.</UnnaturalCorpseAttack.reportString>
+	<UnnaturalCorpseSkip.reportString>Đang đuổi theo TargetA.</UnnaturalCorpseSkip.reportString>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ExtremelyLow.label>Cực thấp</ExtremelyLow.label>
+	<High.label>Cao</High.label>
+	<Low.label>Thấp</Low.label>
+	<Moderate.label>Trung bình</Moderate.label>
+	<Noble.label>Cao hơn</Noble.label>
+	<Royal.label>Rất cao</Royal.label>
+	<SkyHigh.label>Cực cao</SkyHigh.label>
+	<VeryLow.label>Rất thấp</VeryLow.label>
+</LanguageData>

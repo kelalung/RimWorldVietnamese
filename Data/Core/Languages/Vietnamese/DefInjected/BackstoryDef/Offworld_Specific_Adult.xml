@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Castaway57.description>[PAWN_nameDef] là người sống sót duy nhất trên một con tàu bị rơi xuống một thế giới động vật hoang dã. Trước khi được cứu, [PAWN_pronoun] đã sống sót bằng cách tìm kiếm mọi thứ xung quanh trong nhiều năm. \n\nKỹ năng sinh tồn của [PAWN_possessive] rất mạnh mẽ, nhưng cuộc sống một mình lâu dài đã làm giảm khả năng giao tiếp của [PAWN_possessive].</Castaway57.description>
+	<Castaway57.baseDesc>[PAWN_nameDef] là người sống sót duy nhất trên một con tàu bị rơi xuống một thế giới động vật hoang dã. Trước khi được cứu, [PAWN_pronoun] đã sống sót bằng cách tìm kiếm mọi thứ xung quanh trong nhiều năm. \n\nKỹ năng sinh tồn của [PAWN_possessive] rất mạnh mẽ, nhưng cuộc sống một mình lâu dài đã làm giảm khả năng giao tiếp của [PAWN_possessive].</Castaway57.baseDesc>
+	<Castaway57.title>Sống sót trong thế giới động vật</Castaway57.title>
+	<Castaway57.titleShort>Người sống sót</Castaway57.titleShort>
+	<CaveworldIlluminator95.description>Trong cộng đồng cư dân hang động, những người có thị lực mạnh mẽ như [PAWN_nameDef] được tôn vinh như những vị thánh. [PAWN_pronoun] dẫn dắt mọi người, sử dụng nấm phát sáng để đánh dấu các địa điểm khai thác và cảnh báo về những nguy hiểm tiềm ẩn.</CaveworldIlluminator95.description>
+	<CaveworldIlluminator95.baseDesc>Trong cộng đồng cư dân hang động, những người có thị lực mạnh mẽ như [PAWN_nameDef] được tôn vinh như những vị thánh. [PAWN_pronoun] dẫn dắt mọi người, sử dụng nấm phát sáng để đánh dấu các địa điểm khai thác và cảnh báo về những nguy hiểm tiềm ẩn.</CaveworldIlluminator95.baseDesc>
+	<CaveworldIlluminator95.title>Người khai sáng thế giới hang động</CaveworldIlluminator95.title>
+	<CaveworldIlluminator95.titleShort>Người khai sáng</CaveworldIlluminator95.titleShort>
+	<ColonySettler53.description>[PAWN_nameDef] là một người khai phá thuộc thuộc địa mới.\n\nCuộc sống khai phá đòi hỏi một người đa năng trong công việc cơ bản.</ColonySettler53.description>
+	<ColonySettler53.baseDesc>[PAWN_nameDef] là một người khai phá thuộc thuộc địa mới.\n\nCuộc sống khai phá đòi hỏi một người đa năng trong công việc cơ bản.</ColonySettler53.baseDesc>
+	<ColonySettler53.title>Khai phá thuộc địa</ColonySettler53.title>
+	<ColonySettler53.titleShort>Khai phá</ColonySettler53.titleShort>
+	<DeepSpaceMiner3.description>[PAWN_nameDef] hàng ngày lặp đi lặp lại công việc nặng nhọc, sử dụng thiết bị khoan không gian để khai thác kim loại từ các tiểu hành tinh. [PAWN_pronoun] sử dụng kỹ năng trong ngành của mình mỗi ngày - bao gồm cả việc đánh nhau ở quán bar.</DeepSpaceMiner3.description>
+	<DeepSpaceMiner3.baseDesc>[PAWN_nameDef] hàng ngày lặp đi lặp lại công việc nặng nhọc, sử dụng thiết bị khoan không gian để khai thác kim loại từ các tiểu hành tinh. [PAWN_pronoun] sử dụng kỹ năng trong ngành của mình mỗi ngày - bao gồm cả việc đánh nhau ở quán bar.</DeepSpaceMiner3.baseDesc>
+	<DeepSpaceMiner3.title>Thợ mỏ không gian</DeepSpaceMiner3.title>
+	<DeepSpaceMiner3.titleShort>Thợ mỏ</DeepSpaceMiner3.titleShort>
+	<FactoryWorker58.description>[PAWN_nameDef] lớn lên trong một nhà máy. Do nghèo đói và đói khát, chỉ cần có tiền lương [PAWN_pronoun] đều sẵn sàng làm việc. Mặc dù cuộc sống rất khổ cực, nhưng [PAWN_nameDef] không bao giờ phàn nàn.</FactoryWorker58.description>
+	<FactoryWorker58.baseDesc>[PAWN_nameDef] lớn lên trong một nhà máy. Do nghèo đói và đói khát, chỉ cần có tiền lương [PAWN_pronoun] đều sẵn sàng làm việc. Mặc dù cuộc sống rất khổ cực, nhưng [PAWN_nameDef] không bao giờ phàn nàn.</FactoryWorker58.baseDesc>
+	<FactoryWorker58.title>Công nhân nhà máy</FactoryWorker58.title>
+	<FactoryWorker58.titleShort>Công nhân</FactoryWorker58.titleShort>
+	<HumanComputer83.description>[PAWN_nameDef] có trí nhớ bẩm sinh rất tốt và thể hiện khả năng tính toán phức tạp. Một nhà độc tài trong thế giới công nghiệp đã quyết định thuê [PAWN_nameDef] để ghi chép tài sản và tình hình tài chính của [PAWN_possessive], vì máy tính điện tử quá dễ bị tấn công.</HumanComputer83.description>
+	<HumanComputer83.baseDesc>[PAWN_nameDef] có trí nhớ bẩm sinh rất tốt và thể hiện khả năng tính toán phức tạp. Một nhà độc tài trong thế giới công nghiệp đã quyết định thuê [PAWN_nameDef] để ghi chép tài sản và tình hình tài chính của [PAWN_possessive], vì máy tính điện tử quá dễ bị tấn công.</HumanComputer83.baseDesc>
+	<HumanComputer83.title>Máy tính hình người</HumanComputer83.title>
+	<HumanComputer83.titleShort>Máy tính</HumanComputer83.titleShort>
+	<JoywireArtist8.description>[PAWN_nameDef] phụ trách phát triển phần mềm mang lại cảm giác mãnh liệt và cực khoái cho người dùng trong một phòng thí nghiệm ở thế giới đô thị. \n\nKhi chính quyền địa phương dần dần thu hồi và cấm các phần mềm này, [PAWN_pronoun] bắt đầu bán sản phẩm của mình trên thị trường chợ đen.</JoywireArtist8.description>
+	<JoywireArtist8.baseDesc>[PAWN_nameDef] phụ trách phát triển phần mềm mang lại cảm giác mãnh liệt và cực khoái cho người dùng trong một phòng thí nghiệm ở thế giới đô thị. \n\nKhi chính quyền địa phương dần dần thu hồi và cấm các phần mềm này, [PAWN_pronoun] bắt đầu bán sản phẩm của mình trên thị trường chợ đen.</JoywireArtist8.baseDesc>
+	<JoywireArtist8.title>Nhà phát triển phần mềm</JoywireArtist8.title>
+	<JoywireArtist8.titleShort>Lập trình viên</JoywireArtist8.titleShort>
+	<MafiaBoss17.description>[PAWN_nameDef] là một thành viên cấp cao trong một tổ chức tội phạm ở thế giới đô thị. \n\n[PAWN_pronoun] hối lộ quan chức, giữ cho các thuộc hạ trung thành, đồng thời thu hồi nợ quá hạn bằng các phương pháp cần thiết.</MafiaBoss17.description>
+	<MafiaBoss17.baseDesc>[PAWN_nameDef] là một thành viên cấp cao trong một tổ chức tội phạm ở thế giới đô thị. \n\n[PAWN_pronoun] hối lộ quan chức, giữ cho các thuộc hạ trung thành, đồng thời thu hồi nợ quá hạn bằng các phương pháp cần thiết.</MafiaBoss17.baseDesc>
+	<MafiaBoss17.title>Ông trùm Mafia</MafiaBoss17.title>
+	<MafiaBoss17.titleShort>Ông trùm</MafiaBoss17.titleShort>
+	<PsychiatricPatient94.description>[PAWN_nameDef] đã dành phần lớn thời gian trưởng thành trong bệnh viện tâm thần. Hành tinh công nghiệp của [PAWN_possessive] thiếu nhận thức về bệnh tâm thần đến mức [PAWN_pronoun] bị đối xử như một con vật. \n\nMặc dù cuối cùng đã hồi phục và được thả, nhưng trải nghiệm này đã làm [PAWN_nameDef] thiếu nhiều kỹ năng sống cơ bản.</PsychiatricPatient94.description>
+	<PsychiatricPatient94.baseDesc>[PAWN_nameDef] đã dành phần lớn thời gian trưởng thành trong bệnh viện tâm thần. Hành tinh công nghiệp của [PAWN_possessive] thiếu nhận thức về bệnh tâm thần đến mức [PAWN_pronoun] bị đối xử như một con vật. \n\nMặc dù cuối cùng đã hồi phục và được thả, nhưng trải nghiệm này đã làm [PAWN_nameDef] thiếu nhiều kỹ năng sống cơ bản.</PsychiatricPatient94.baseDesc>
+	<PsychiatricPatient94.title>Bệnh nhân tâm thần</PsychiatricPatient94.title>
+	<PsychiatricPatient94.titleShort>Bệnh nhân</PsychiatricPatient94.titleShort>
+	<Sheriff52.description>[PAWN_nameDef] là một nhân viên thực thi pháp luật ở một thị trấn trên hành tinh công nghiệp xa xôi. [PAWN_pronoun] nổi tiếng với thái độ kiêu ngạo và tính cách xấu xa. Trừ khi vì tiền, rượu hoặc sự trả thù, [PAWN_nameDef] thậm chí không buồn nhúc nhích một ngón tay.</Sheriff52.description>
+	<Sheriff52.baseDesc>[PAWN_nameDef] là một nhân viên thực thi pháp luật ở một thị trấn trên hành tinh công nghiệp xa xôi. [PAWN_pronoun] nổi tiếng với thái độ kiêu ngạo và tính cách xấu xa. Trừ khi vì tiền, rượu hoặc sự trả thù, [PAWN_nameDef] thậm chí không buồn nhúc nhích một ngón tay.</Sheriff52.baseDesc>
+	<Sheriff52.title>Cảnh sát thị trấn</Sheriff52.title>
+	<Sheriff52.titleShort>Cảnh sát</Sheriff52.titleShort>
+	<SpaceTactician28.description>[PAWN_nameDef] gia nhập hạm đội không gian trong một môi trường hệ sao không ổn định, nơi có những cuộc chiến tranh giữa các vì sao quy mô lớn. [PAWN_pronoun] có đầu óc nhạy bén bẩm sinh và giỏi trong việc chỉ huy quân đội, đạt hiệu quả rõ rệt.</SpaceTactician28.description>
+	<SpaceTactician28.baseDesc>[PAWN_nameDef] gia nhập hạm đội không gian trong một môi trường hệ sao không ổn định, nơi có những cuộc chiến tranh giữa các vì sao quy mô lớn. [PAWN_pronoun] có đầu óc nhạy bén bẩm sinh và giỏi trong việc chỉ huy quân đội, đạt hiệu quả rõ rệt.</SpaceTactician28.baseDesc>
+	<SpaceTactician28.title>Chiến lược gia không gian</SpaceTactician28.title>
+	<SpaceTactician28.titleShort>Chiến lược gia</SpaceTactician28.titleShort>
+	<StarshipJanitor33.description>Khi các hành khách khác trải qua nhiều năm hành trình giữa các vì sao trong buồng ngủ lạnh, [PAWN_nameDef] sẽ được đánh thức định kỳ để thực hiện kiểm tra định kỳ, kiểm tra hệ thống điều hướng và bôi trơn các cơ khí.</StarshipJanitor33.description>
+	<StarshipJanitor33.baseDesc>Khi các hành khách khác trải qua nhiều năm hành trình giữa các vì sao trong buồng ngủ lạnh, [PAWN_nameDef] sẽ được đánh thức định kỳ để thực hiện kiểm tra định kỳ, kiểm tra hệ thống điều hướng và bôi trơn các cơ khí.</StarshipJanitor33.baseDesc>
+	<StarshipJanitor33.title>Công nhân bảo trì tàu vũ trụ</StarshipJanitor33.title>
+	<StarshipJanitor33.titleShort>Công nhân bảo trì</StarshipJanitor33.titleShort>
+	<Taxonomist0.description>[PAWN_nameDef] du hành giữa các vì sao, nghiên cứu và phân loại động thực vật mà [PAWN_pronoun] phát hiện, với hy vọng tạo ra một danh mục đầy đủ về các loài.</Taxonomist0.description>
+	<Taxonomist0.baseDesc>[PAWN_nameDef] du hành giữa các vì sao, nghiên cứu và phân loại động thực vật mà [PAWN_pronoun] phát hiện, với hy vọng tạo ra một danh mục đầy đủ về các loài.</Taxonomist0.baseDesc>
+	<Taxonomist0.title>Nhà phân loại sinh vật</Taxonomist0.title>
+	<Taxonomist0.titleShort>Nhà phân loại</Taxonomist0.titleShort>
+	<UrbworldDrone32.description>[PAWN_nameDef] làm việc như một công nhân xây dựng không cần suy nghĩ trong một thế giới đô thị khổng lồ. Ngay cả khi [PAWN_pronoun] hiện đã được tự do khỏi những thí nghiệm xã hội tàn bạo mà [PAWN_possessive] từng phải chịu, [PAWN_pronoun] vẫn mất hết khả năng sáng tạo hoặc lãnh đạo.</UrbworldDrone32.description>
+	<UrbworldDrone32.baseDesc>[PAWN_nameDef] làm việc như một công nhân xây dựng không cần suy nghĩ trong một thế giới đô thị khổng lồ. Ngay cả khi [PAWN_pronoun] hiện đã được tự do khỏi những thí nghiệm xã hội tàn bạo mà [PAWN_possessive] từng phải chịu, [PAWN_pronoun] vẫn mất hết khả năng sáng tạo hoặc lãnh đạo.</UrbworldDrone32.baseDesc>
+	<UrbworldDrone32.title>Công nhân tổ ong đô thị</UrbworldDrone32.title>
+	<UrbworldDrone32.titleShort>Công nhân tổ ong</UrbworldDrone32.titleShort>
+	<UrbworldEntrepreneur14.description>Trong thế giới đô thị, hầu hết mọi người đều bị bóc lột. Nhưng luôn cần có người quản lý doanh nghiệp. \n\n[PAWN_nameDef] thành thạo trong nhiều kỹ năng thương mại - từ hối lộ đến phân tích. [PAWN_pronoun] chính là một cỗ máy xã hội sống động.</UrbworldEntrepreneur14.description>
+	<UrbworldEntrepreneur14.baseDesc>Trong thế giới đô thị, hầu hết mọi người đều bị bóc lột. Nhưng luôn cần có người quản lý doanh nghiệp. \n\n[PAWN_nameDef] thành thạo trong nhiều kỹ năng thương mại - từ hối lộ đến phân tích. [PAWN_pronoun] chính là một cỗ máy xã hội sống động.</UrbworldEntrepreneur14.baseDesc>
+	<UrbworldEntrepreneur14.title>Doanh nhân thế giới đô thị</UrbworldEntrepreneur14.title>
+	<UrbworldEntrepreneur14.titleShort>Doanh nhân</UrbworldEntrepreneur14.titleShort>
+	<UrbworldRebel56.description>Trong thế giới của [PAWN_nameDef], phần lớn con người đã từ bỏ tư duy tự do và tự đưa mình vào một hệ thống mạng tổ ong. [PAWN_nameDef] tham gia vào một phong trào kháng chiến hoàn toàn từ chối công nghệ này.</UrbworldRebel56.description>
+	<UrbworldRebel56.baseDesc>Trong thế giới của [PAWN_nameDef], phần lớn con người đã từ bỏ tư duy tự do và tự đưa mình vào một hệ thống mạng tổ ong. [PAWN_nameDef] tham gia vào một phong trào kháng chiến hoàn toàn từ chối công nghệ này.</UrbworldRebel56.baseDesc>
+	<UrbworldRebel56.title>Kháng chiến quân đô thị</UrbworldRebel56.title>
+	<UrbworldRebel56.titleShort>Kháng chiến</UrbworldRebel56.titleShort>
+</LanguageData>

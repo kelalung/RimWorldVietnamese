@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Proselytizing_Frequently.label>Thường xuyên</Proselytizing_Frequently.label>
+<Proselytizing_Frequently.description>Các cá nhân biết sự thật có nghĩa vụ phải luôn truyền bá nó và xua đuổi các tín ngưỡng khác.</Proselytizing_Frequently.description>
+<Proselytizing_Frequently.comps.0.eventLabel>Đã giáo hóa thành viên mới</Proselytizing_Frequently.comps.0.eventLabel>
+<Proselytizing_Occasionally.label>Thỉnh thoảng</Proselytizing_Occasionally.label>
+<Proselytizing_Occasionally.description>Khi có cơ hội, những người biết sự thật nên cố gắng truyền giáo.</Proselytizing_Occasionally.description>
+<Proselytizing_Occasionally.comps.0.eventLabel>Đã giáo hóa thành viên mới</Proselytizing_Occasionally.comps.0.eventLabel>
+<Proselytizing_Sometimes.label>Đôi khi</Proselytizing_Sometimes.label>
+<Proselytizing_Sometimes.description>Chỉ khi có cơ hội, những người biết sự thật nên thực hiện truyền giáo.</Proselytizing_Sometimes.description>
+<Proselytizing_Sometimes.comps.0.eventLabel>Đã giáo hóa thành viên mới</Proselytizing_Sometimes.comps.0.eventLabel>
+</LanguageData>

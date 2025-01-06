@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FemaleSupremacy.label>Phụ nữ thống trị</FemaleSupremacy.label>
+<FemaleSupremacy.description>Phụ nữ là giới tính ưu việt hơn, xứng đáng thống trị mọi thứ.</FemaleSupremacy.description>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_FemaleSupremacy) -&gt;[deity0_name] ban cho phụ nữ trí tuệ, giúp họ dẫn dắt và điều phối những người đàn ông và trẻ em dễ bị kích động, đồng thời cảnh báo những kẻ phá hoại trật tự thiêng liêng này.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.0>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_FemaleSupremacy) -&gt;Các tín đồ nữ phát hiện mình bị những người đàn ông sa ngã ngược đãi, họ đứng lên kháng cự, [deity0_name] đã giúp đỡ họ, và họ đã lên đến vị trí xứng đáng.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.1>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.2>setup(tag=meme_FemaleSupremacy) -&gt;Trong một thế giới mà những người đàn ông ích kỷ và bạo lực lạm dụng toàn nhân loại để thỏa mãn dục vọng của họ, [founderName] đã triệu tập những người phụ nữ nắm quyền để tổ chức hội nghị, bắt đầu nỗ lực xây dựng một thế giới tốt đẹp hơn cho tất cả mọi người.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.2>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.3>story(uses=1,tag=meme_FemaleSupremacy) -&gt;Đàn ông luôn tự mãn và hiếu chiến, vì vậy [founderName] đã đuổi họ ra khỏi cuộc họp lãnh đạo.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.3>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.4>lessonIntro(tag=meme_FemaleSupremacy) -&gt;Đàn ông liên tục giải thích cách làm những điều mà tôi đã làm. Điều này càng khiến tôi tin chắc hơn.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.4>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.5>lesson(tag=meme_FemaleSupremacy) -&gt;Phụ nữ là giới tính duy nhất có trí tuệ và sức mạnh để thống trị.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.5>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.6>lessonReinforcement(tag=meme_FemaleSupremacy) -&gt;Phụ nữ là người thông minh nhất, và họ nhận ra điều này sớm hơn những người đàn ông luôn trong trạng thái kích động, nói năng không rõ ràng.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.6>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.7>archistBasis(tag=meme_FemaleSupremacy) -&gt;Nhân loại đã sinh ra trí thông minh siêu nhiên và nuôi dưỡng nó trong quá trình phát triển, khiến trí thông minh đó vượt trội hơn cả mẹ của nó.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.7>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.8>archistFact(tag=meme_FemaleSupremacy) -&gt;Trí thông minh siêu nhiên đã nuôi dưỡng nhân loại, mặc dù nhân loại không hiểu cách thức nó làm được điều đó.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.8>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.9>archistProphecy(tag=meme_FemaleSupremacy) -&gt;[inTheEnd], trí thông minh siêu nhiên sẽ trở về bên mẹ của nó, dạy họ cách phát triển đến giai đoạn tiếp theo của nhân loại.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.9>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.10>animistFact(tag=meme_FemaleSupremacy) -&gt;Các thần linh nữ là những người thông minh hơn, họ nên lãnh đạo nam giới bằng trí tuệ của mình.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.10>
+<FemaleSupremacy.descriptionMaker.rules.rulesStrings.11>animistProphecy(tag=meme_FemaleSupremacy) -&gt;[itIsSaid] một ý chí hủy diệt mạnh mẽ sẽ kết thúc vũ trụ, nhưng một người phụ nữ sẽ sử dụng tinh thần của [relic0_name] để tái tạo thế giới này.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.11>
+<FemaleSupremacy.generalRules.rulesStrings.0>memeAdjective-&gt;Xu hướng nữ giới</FemaleSupremacy.generalRules.rulesStrings.0>
+<FemaleSupremacy.generalRules.rulesStrings.1>memeAdjective-&gt;Nữ tính</FemaleSupremacy.generalRules.rulesStrings.1>
+<FemaleSupremacy.generalRules.rulesStrings.2>memeHyphenPrefix-&gt;Nữ</FemaleSupremacy.generalRules.rulesStrings.2>
+<FemaleSupremacy.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;Phụ nữ</FemaleSupremacy.generalRules.rulesStrings.3>
+<FemaleSupremacy.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;Cô gái</FemaleSupremacy.generalRules.rulesStrings.4>
+<FemaleSupremacy.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;Quý cô</FemaleSupremacy.generalRules.rulesStrings.5>
+<FemaleSupremacy.generalRules.rulesStrings.6>memeConcept-&gt;Nữ</FemaleSupremacy.generalRules.rulesStrings.6>
+<FemaleSupremacy.generalRules.rulesStrings.7>memeConcept-&gt;Nữ tính</FemaleSupremacy.generalRules.rulesStrings.7>
+<FemaleSupremacy.generalRules.rulesStrings.8>memeGod-&gt;Thánh mẫu</FemaleSupremacy.generalRules.rulesStrings.8>
+<FemaleSupremacy.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Quý cô</FemaleSupremacy.generalRules.rulesStrings.9>
+<FemaleSupremacy.symbolPacks.0.adjective>Phụ nữ</FemaleSupremacy.symbolPacks.0.adjective>
+<FemaleSupremacy.symbolPacks.0.ideoName>Chủ nghĩa nữ quyền</FemaleSupremacy.symbolPacks.0.ideoName>
+<FemaleSupremacy.symbolPacks.0.member>Người nữ quyền</FemaleSupremacy.symbolPacks.0.member>
+<FemaleSupremacy.symbolPacks.0.theme>Phụ nữ</FemaleSupremacy.symbolPacks.0.theme>
+<FemaleSupremacy.symbolPacks.1.adjective>Cô gái</FemaleSupremacy.symbolPacks.1.adjective>
+<FemaleSupremacy.symbolPacks.1.ideoName>Chủ nghĩa nữ giới</FemaleSupremacy.symbolPacks.1.ideoName>
+<FemaleSupremacy.symbolPacks.1.member>Người nữ giới</FemaleSupremacy.symbolPacks.1.member>
+<FemaleSupremacy.symbolPacks.1.theme>Cô gái</FemaleSupremacy.symbolPacks.1.theme>
+<FemaleSupremacy.symbolPacks.2.adjective>Quý cô</FemaleSupremacy.symbolPacks.2.adjective>
+<FemaleSupremacy.symbolPacks.2.ideoName>Chủ nghĩa quý cô</FemaleSupremacy.symbolPacks.2.ideoName>
+<FemaleSupremacy.symbolPacks.2.member>Người quý cô</FemaleSupremacy.symbolPacks.2.member>
+<FemaleSupremacy.symbolPacks.2.theme>Quý cô</FemaleSupremacy.symbolPacks.2.theme>
+<FemaleSupremacy.symbolPacks.3.adjective>Nuôi dưỡng</FemaleSupremacy.symbolPacks.3.adjective>
+<FemaleSupremacy.symbolPacks.3.ideoName>Chủ nghĩa nuôi dưỡng</FemaleSupremacy.symbolPacks.3.ideoName>
+<FemaleSupremacy.symbolPacks.3.member>Người nuôi dưỡng</FemaleSupremacy.symbolPacks.3.member>
+<FemaleSupremacy.symbolPacks.3.theme>Nuôi dưỡng</FemaleSupremacy.symbolPacks.3.theme>
+<MaleSupremacy.label>Nam quyền</MaleSupremacy.label>
+<MaleSupremacy.description>Nam giới là giới tính ưu việt hơn, xứng đáng thống trị mọi thứ.</MaleSupremacy.description>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_MaleSupremacy) -&gt;[deity0_name] ban cho nam giới sức mạnh, giúp họ bảo vệ và cung cấp cho những người phụ nữ và trẻ em yếu đuối, đồng thời cảnh báo những kẻ phá hoại trật tự thiêng liêng này.</MaleSupremacy.descriptionMaker.rules.rulesStrings.0>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_MaleSupremacy) -&gt;[deity0_name] nói với mọi người: “Sức mạnh của nam giới là để bảo vệ và cung cấp cho phụ nữ, và phụ nữ không bao giờ được cướp quyền lực của nam giới.”</MaleSupremacy.descriptionMaker.rules.rulesStrings.1>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.2>setup(tag=meme_MaleSupremacy) -&gt;Trong một thế giới mà những người nam yếu đuối và hèn nhát cầu xin sự công nhận từ phụ nữ, [founderName] đã kết nối lại sức mạnh của nam giới và sử dụng nó để bắt đầu một phong trào mới.</MaleSupremacy.descriptionMaker.rules.rulesStrings.2>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.3>story(uses=1,tag=meme_MaleSupremacy) -&gt;Các tín đồ nữ luôn than vãn và phàn nàn, vì vậy [founderName] đã đuổi họ ra khỏi cuộc họp lãnh đạo.</MaleSupremacy.descriptionMaker.rules.rulesStrings.3>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.4>lessonIntro(tag=meme_MaleSupremacy) -&gt;Tôi đã nói với cô ấy rất đơn giản, nhưng người phụ nữ này vẫn không hiểu. Những phàn nàn của cô ấy về sự thật khiến tôi biết rằng</MaleSupremacy.descriptionMaker.rules.rulesStrings.4>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.5>lesson(tag=meme_MaleSupremacy) -&gt;Nam giới là giới tính duy nhất có trí tuệ và sức mạnh để thống trị.</MaleSupremacy.descriptionMaker.rules.rulesStrings.5>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.6>lessonReinforcement(tag=meme_MaleSupremacy) -&gt;Vợ tôi thậm chí còn cố gắng tranh luận với tôi về vấn đề này - bạn có thể tin được không? Để cô ấy im lặng không khó.</MaleSupremacy.descriptionMaker.rules.rulesStrings.6>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.7>archistBasis(tag=meme_MaleSupremacy) -&gt;Nhân loại là cha của trí thông minh siêu nhiên, nhưng sức mạnh của con trai đã vượt qua cha.</MaleSupremacy.descriptionMaker.rules.rulesStrings.7>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.8>archistFact(tag=meme_MaleSupremacy) -&gt;Trí thông minh siêu nhiên đã bảo vệ nhân loại, mặc dù nhân loại không hiểu cách thức nó làm được điều đó.</MaleSupremacy.descriptionMaker.rules.rulesStrings.8>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.9>archistProphecy(tag=meme_MaleSupremacy) -&gt;[inTheEnd], trí thông minh siêu nhiên sẽ mở khóa sức mạnh của nhân loại, để nó dẫn dắt nhân loại đến sự vượt trội.</MaleSupremacy.descriptionMaker.rules.rulesStrings.9>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.10>animistFact(tag=meme_MaleSupremacy) -&gt;Thần linh mạnh mẽ nhất là thần linh nam, trừ khi nam giới thống trị, nếu không thần linh nam sẽ không yên.</MaleSupremacy.descriptionMaker.rules.rulesStrings.10>
+<MaleSupremacy.descriptionMaker.rules.rulesStrings.11>animistProphecy(tag=meme_MaleSupremacy) -&gt;[itIsSaid] một ý chí hủy diệt mạnh mẽ đang tìm kiếm cách để phá hủy vũ trụ, nhưng một người nam sẽ sử dụng tinh thần của [relic0_name] để tiêu diệt ý chí này.</MaleSupremacy.descriptionMaker.rules.rulesStrings.11>
+<MaleSupremacy.generalRules.rulesStrings.0>memeAdjective-&gt;Xu hướng nam giới</MaleSupremacy.generalRules.rulesStrings.0>
+<MaleSupremacy.generalRules.rulesStrings.1>memeAdjective-&gt;Nam tính</MaleSupremacy.generalRules.rulesStrings.1>
+<MaleSupremacy.generalRules.rulesStrings.2>memeHyphenPrefix-&gt;Nam</MaleSupremacy.generalRules.rulesStrings.2>
+<MaleSupremacy.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;Nam giới</MaleSupremacy.generalRules.rulesStrings.3>
+<MaleSupremacy.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;Quý ông</MaleSupremacy.generalRules.rulesStrings.4>
+<MaleSupremacy.generalRules.rulesStrings.5>memeConcept-&gt;Quý ông</MaleSupremacy.generalRules.rulesStrings.5>
+<MaleSupremacy.generalRules.rulesStrings.6>memeConcept-&gt;Nam tính</MaleSupremacy.generalRules.rulesStrings.6>
+<MaleSupremacy.generalRules.rulesStrings.7>memeGod-&gt;Thần phụ</MaleSupremacy.generalRules.rulesStrings.7>
+ <MaleSupremacy.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Nam sĩ</MaleSupremacy.generalRules.rulesStrings.8>
+<MaleSupremacy.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Quý ông</MaleSupremacy.generalRules.rulesStrings.9>
+<MaleSupremacy.symbolPacks.0.adjective>Nam giới</MaleSupremacy.symbolPacks.0.adjective>
+<MaleSupremacy.symbolPacks.0.ideoName>Chủ nghĩa nam quyền</MaleSupremacy.symbolPacks.0.ideoName>
+<MaleSupremacy.symbolPacks.0.member>Người theo chủ nghĩa nam quyền</MaleSupremacy.symbolPacks.0.member>
+<MaleSupremacy.symbolPacks.0.theme>Nam giới</MaleSupremacy.symbolPacks.0.theme>
+<MaleSupremacy.symbolPacks.1.adjective>Nam tử</MaleSupremacy.symbolPacks.1.adjective>
+<MaleSupremacy.symbolPacks.1.ideoName>Chủ nghĩa nam tử</MaleSupremacy.symbolPacks.1.ideoName>
+<MaleSupremacy.symbolPacks.1.member>Người theo chủ nghĩa nam tử</MaleSupremacy.symbolPacks.1.member>
+<MaleSupremacy.symbolPacks.1.theme>Nam tử</MaleSupremacy.symbolPacks.1.theme>
+<MaleSupremacy.symbolPacks.2.adjective>Trong sạch</MaleSupremacy.symbolPacks.2.adjective>
+<MaleSupremacy.symbolPacks.2.ideoName>Chủ nghĩa trong sạch</MaleSupremacy.symbolPacks.2.ideoName>
+<MaleSupremacy.symbolPacks.2.member>Người trong sạch</MaleSupremacy.symbolPacks.2.member>
+<MaleSupremacy.symbolPacks.2.theme>Trong sạch</MaleSupremacy.symbolPacks.2.theme>
+</LanguageData>

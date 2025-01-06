@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SmokeleafAddiction.label>Nghiện cần sa</SmokeleafAddiction.label>
+	<SmokeleafAddiction.description>Sử dụng quá liều cần sa lâu dài đã gây ra sự thích nghi của hệ thần kinh.\n\nNếu không sử dụng liều lượng cần sa phù hợp định kỳ, sẽ bắt đầu xuất hiện phản ứng cai nghiện. Thời gian cai nghiện lâu dài sẽ buộc não bộ phải thích nghi và trở lại trạng thái bình thường, từ đó giúp từ bỏ nghiện cần sa.</SmokeleafAddiction.description>
+	<SmokeleafAddiction.stages.withdrawal.label>Phản ứng cai nghiện</SmokeleafAddiction.stages.withdrawal.label>
+	<SmokeleafHigh.label>Cần sa say</SmokeleafHigh.label>
+	<SmokeleafHigh.description>Hợp chất cần sa trong máu mang lại cảm giác hạnh phúc lâng lâng.</SmokeleafHigh.description>
+	<SmokeleafHigh.labelNoun>Cần sa say</SmokeleafHigh.labelNoun>
+	<SmokeleafTolerance.label>Độ nhờn cần sa</SmokeleafTolerance.label>
+	<SmokeleafTolerance.description>Độ nhờn lâu dài đối với cần sa. Độ nhờn càng nghiêm trọng, càng cần nhiều cần sa để đạt được hiệu ứng tương tự như trước.</SmokeleafTolerance.description>
+	<SmokeleafTolerance.stages.small.label>Nhẹ</SmokeleafTolerance.stages.small.label>
+	<SmokeleafTolerance.stages.large.label>Trung bình</SmokeleafTolerance.stages.large.label>
+	<SmokeleafTolerance.stages.massive.label>Cực mạnh</SmokeleafTolerance.stages.massive.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Crashlanded.label>Hạ cánh khẩn cấp</Crashlanded.label>
+	<Crashlanded.description>Bạn và hai người khác tỉnh dậy từ buồng ngủ đông trong tiếng báo động chói tai và tiếng kim loại vỡ vụn, sau đó cố gắng chui vào buồng thoát hiểm trước khi tàu vũ trụ bị nổ tung. Không lâu sau, bạn hạ cánh xuống thế giới biên giới đầy bí ẩn này.</Crashlanded.description>
+	<Crashlanded.scenario.description>Bạn và hai người khác tỉnh dậy từ buồng ngủ đông trong tiếng báo động chói tai và tiếng kim loại vỡ vụn, sau đó cố gắng chui vào buồng thoát hiểm trước khi tàu vũ trụ bị nổ tung. Không lâu sau, bạn hạ cánh xuống thế giới biên giới đầy bí ẩn này.</Crashlanded.scenario.description>
+	<Crashlanded.scenario.name>Hạ cánh khẩn cấp</Crashlanded.scenario.name>
+	<Crashlanded.scenario.summary>Ba người sống sót hạ cánh khẩn cấp - chế độ khởi đầu kinh điển của RimWorld.</Crashlanded.scenario.summary>
+	<LostTribe.label>Bộ lạc thất lạc</LostTribe.label>
+	<LostTribe.description>Các vị thần đã phái một lượng lớn máy móc cực kỳ tàn bạo tiêu diệt bộ lạc của bạn. Năm người sống sót. Giờ là lúc xây dựng một mái ấm mới.\n\nLưu ý: Khởi đầu của bạn sẽ rất nghèo và tốc độ nghiên cứu rất chậm, đây là một kịch bản khó khăn.</LostTribe.description>
+	<LostTribe.scenario.description>Các vị thần đã phái một lượng lớn máy móc cực kỳ tàn bạo tiêu diệt bộ lạc của bạn. Năm người sống sót. Giờ là lúc xây dựng một mái ấm mới.\n\nLưu ý: Khởi đầu của bạn sẽ rất nghèo và tốc độ nghiên cứu rất chậm, đây là một kịch bản khó khăn.</LostTribe.scenario.description>
+	<LostTribe.scenario.name>Bộ lạc thất lạc</LostTribe.scenario.name>
+	<LostTribe.scenario.parts.GameStartDialog.text>Các vị thần rất tức giận. Những cỗ máy máu me xuất hiện trong đêm tối. Chúng đã tàn phá ngôi làng của bạn, thu hoạch sinh mạng bằng lưỡi hái của chúng và thiêu đốt mặt đất bằng ngọn lửa ma quái của chúng.\n\nChỉ còn lại một vài người trong số bạn thoát khỏi.</LostTribe.scenario.parts.GameStartDialog.text>
+	<LostTribe.scenario.summary>Năm người sống sót từ bộ lạc kiên cường tái xây dựng mái ấm. Khó khăn cao.</LostTribe.scenario.summary>
+	<NakedBrutality.label>Bạo lực trần trụi</NakedBrutality.label>
+	<NakedBrutality.description>Bạn bị buộc phải trải qua một ca phẫu thuật gây mê. Giờ bạn đã tỉnh dậy trong buồng hạ cánh và rơi xuống một hành tinh xa xôi. Không một mảnh vải, cô đơn, không chuẩn bị gì. Bạn có thể sống sót không?\n\nCảnh báo: Đây là một kịch bản cực kỳ khó khăn.</NakedBrutality.description>
+	<NakedBrutality.scenario.description>Bạn bị buộc phải trải qua một ca phẫu thuật gây mê. Giờ bạn đã tỉnh dậy trong buồng hạ cánh và rơi xuống một hành tinh xa xôi. Không một mảnh vải, cô đơn, không chuẩn bị gì. Bạn có thể sống sót không?\n\nCảnh báo: Đây là một kịch bản cực kỳ khó khăn.</NakedBrutality.scenario.description>
+	<NakedBrutality.scenario.name>Bạo lực trần trụi</NakedBrutality.scenario.name>
+	<NakedBrutality.scenario.parts.GameStartDialog.text>Đây lẽ ra chỉ là một ca phẫu thuật nhỏ. Chỉ có một giờ gây mê. Bạn cảm thấy rất an toàn. Nhưng khi bạn tỉnh dậy, bạn đã ở trong một buồng hạ cánh, xuyên qua bầu khí quyển của một thế giới biên giới xa xôi. Cơ thể bạn dính đầy chất nhờn kỳ lạ, không một mảnh vải che thân, hoàn toàn trống rỗng. Không trang bị, không tiếp tế, không công cụ, bạn có thể sống sót không?</NakedBrutality.scenario.parts.GameStartDialog.text>
+	<NakedBrutality.scenario.summary>Không một mảnh vải, cô đơn, không chuẩn bị gì. Bạn có thể sống sót không? Đây là độ khó cực kỳ khó khăn và không công bằng.</NakedBrutality.scenario.summary>
+	<TheRichExplorer.label>Nhà thám hiểm giàu có</TheRichExplorer.label>
+	<TheRichExplorer.description>Bạn rời bỏ ngôi nhà của mình trong thế giới lấp lánh, mọi người nói bạn điên, nhưng bạn luôn khao khát bỏ chiếc mũ ảo và khám phá thực sự giữa các vì sao. Giờ bạn tỉnh dậy sau một hành trình ngủ đông dài và hạ cánh xuống một thế giới biên giới chưa biết, hãy xem điều gì sẽ xảy ra nhé.\n\nLưu ý: Nhân vật khởi đầu của bạn sẽ thiếu một số kỹ năng, đây là một kịch bản khó khăn đặc biệt trong giai đoạn đầu của trò chơi.</TheRichExplorer.description>
+	<TheRichExplorer.scenario.description>Bạn rời bỏ ngôi nhà của mình trong thế giới lấp lánh, mọi người nói bạn điên, nhưng bạn luôn khao khát bỏ chiếc mũ ảo và khám phá thực sự giữa các vì sao. Giờ bạn tỉnh dậy sau một hành trình ngủ đông dài và hạ cánh xuống một thế giới biên giới chưa biết, hãy xem điều gì sẽ xảy ra nhé.\n\nLưu ý: Nhân vật khởi đầu của bạn sẽ thiếu một số kỹ năng, đây là một kịch bản khó khăn đặc biệt trong giai đoạn đầu của trò chơi.</TheRichExplorer.scenario.description>
+	<TheRichExplorer.scenario.name>Nhà thám hiểm giàu có</TheRichExplorer.scenario.name>
+	<TheRichExplorer.scenario.parts.GameStartDialog.text>Dù là bộ mô phỏng thần kinh, trò chơi hologram hay tiệc tùng xa hoa cũng không thể thỏa mãn bạn, bạn muốn nhiều hơn thế, bạn muốn trải nghiệm những thăng trầm của cuộc sống và những nguyên nhân, như sách lịch sử mô tả. Bạn muốn hiểu thử thách thực sự và hậu quả là gì.\n\nVà giờ đây, sau hàng chục năm ngủ đông, bạn đã hạ cánh xuống thế giới biên giới chưa biết này. Những thử thách thực sự đang chờ đón bạn.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+	<TheRichExplorer.scenario.summary>Một nhà thám hiểm giàu có trải qua những trải nghiệm chưa từng có trong vũ trụ. Khó khăn đặc biệt cao.</TheRichExplorer.scenario.summary>
+	<Tutorial.label>Hướng dẫn</Tutorial.label>
+	<Tutorial.description>Bạn và hai người khác tỉnh dậy từ buồng ngủ đông trong tiếng báo động chói tai và tiếng kim loại vỡ vụn, sau đó cố gắng chui vào buồng thoát hiểm trước khi tàu vũ trụ bị nổ tung. Không lâu sau, bạn hạ cánh xuống thế giới biên giới đầy bí ẩn này.</Tutorial.description>
+	<Tutorial.scenario.description>Bạn và hai người khác tỉnh dậy từ buồng ngủ đông trong tiếng báo động chói tai và tiếng kim loại vỡ vụn, sau đó cố gắng chui vào buồng thoát hiểm trước khi tàu vũ trụ bị nổ tung. Không lâu sau, bạn hạ cánh xuống thế giới biên giới đầy bí ẩn này.</Tutorial.scenario.description>
+	<Tutorial.scenario.name>Hướng dẫn</Tutorial.scenario.name>
+	<Tutorial.scenario.summary>Ba người sống sót hạ cánh khẩn cấp - chế độ khởi đầu kinh điển của RimWorld.</Tutorial.scenario.summary>
+</LanguageData>

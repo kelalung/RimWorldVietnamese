@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Scarification.label>Sẹo</Scarification.label>
+<Scarification.description>Các vết cắt nghệ thuật được khắc lên cơ thể vì mục đích nghi lễ hoặc nghệ thuật.</Scarification.description>
+<Scarification.comps.HediffComp_GetsPermanent.permanentLabel>Khắc ấn</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
+<Scarification.labelNoun>Sẹo</Scarification.labelNoun>
+<Scarification.labelNounPretty>Trong {1} của {0}.</Scarification.labelNounPretty>
+</LanguageData>

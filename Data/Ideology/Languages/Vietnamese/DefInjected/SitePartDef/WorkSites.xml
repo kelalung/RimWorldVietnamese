@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WorkSite_Farming.label>Trạm làm nông</WorkSite_Farming.label>
+	<WorkSite_Farming.description>Một trạm làm việc được xây dựng bởi các phe khác. Nó sẽ tồn tại trong một khoảng thời gian nhất định. Trước khi điều đó xảy ra, nếu bạn muốn, bạn có thể tấn công địa điểm này.</WorkSite_Farming.description>
+	<WorkSite_Farming.approachingReportString>Tấn công {0} đang diễn ra</WorkSite_Farming.approachingReportString>
+	<WorkSite_Farming.approachOrderString>Tấn công {0}</WorkSite_Farming.approachOrderString>
+	<WorkSite_Farming.arrivedLetter>Trong khu vực này có một trại trung lập.</WorkSite_Farming.arrivedLetter>
+	<WorkSite_Hunting.label>Trạm săn bắn</WorkSite_Hunting.label>
+	<WorkSite_Hunting.description>Một trạm làm việc được xây dựng bởi các phe khác. Nó sẽ tồn tại trong một khoảng thời gian nhất định. Trước khi điều đó xảy ra, nếu bạn muốn, bạn có thể tấn công địa điểm này.</WorkSite_Hunting.description>
+	<WorkSite_Hunting.approachingReportString>Tấn công {0} đang diễn ra</WorkSite_Hunting.approachingReportString>
+	<WorkSite_Hunting.approachOrderString>Tấn công {0}</WorkSite_Hunting.approachOrderString>
+	<WorkSite_Hunting.arrivedLetter>Trong khu vực này có một trại trung lập.</WorkSite_Hunting.arrivedLetter>
+	<WorkSite_Logging.label>Trạm khai thác gỗ</WorkSite_Logging.label>
+	<WorkSite_Logging.description>Một trạm làm việc được xây dựng bởi các phe khác. Nó sẽ tồn tại trong một khoảng thời gian nhất định. Trước khi điều đó xảy ra, nếu bạn muốn, bạn có thể tấn công địa điểm này.</WorkSite_Logging.description>
+	<WorkSite_Logging.approachingReportString>Tấn công {0} đang diễn ra</WorkSite_Logging.approachingReportString>
+	<WorkSite_Logging.approachOrderString>Tấn công {0}</WorkSite_Logging.approachOrderString>
+	<WorkSite_Logging.arrivedLetter>Trong khu vực này có một trại trung lập.</WorkSite_Logging.arrivedLetter>
+	<WorkSite_Mining.label>{THING_label} Trạm khai thác</WorkSite_Mining.label>
+	<WorkSite_Mining.description>Một trạm làm việc được xây dựng bởi các phe khác. Nó sẽ tồn tại trong một khoảng thời gian nhất định. Trước khi điều đó xảy ra, nếu bạn muốn, bạn có thể tấn công địa điểm này.</WorkSite_Mining.description>
+	<WorkSite_Mining.approachingReportString>Tấn công {0} đang diễn ra</WorkSite_Mining.approachingReportString>
+	<WorkSite_Mining.approachOrderString>Tấn công {0}</WorkSite_Mining.approachOrderString>
+	<WorkSite_Mining.arrivedLetter>Trong khu vực này có một trại trung lập.</WorkSite_Mining.arrivedLetter>
+</LanguageData>

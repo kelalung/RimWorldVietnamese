@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beard_Always.label>Râu lưỡng tính</Beard_Always.label>
+<Beard_Always.description>Người mang gen này luôn có một lớp lông dày trên mặt, ngay cả phụ nữ cũng vậy.</Beard_Always.description>
+<Beard_Always.labelShortAdj>Nhiều râu</Beard_Always.labelShortAdj>
+<Beard_BushyOnly.label>Râu dày</Beard_BushyOnly.label>
+<Beard_BushyOnly.description>Nam giới mang gen này có lông mặt mọc rất nhanh và thường không thích cắt tỉa râu.</Beard_BushyOnly.description>
+<Beard_BushyOnly.labelShortAdj>Dày đặc</Beard_BushyOnly.labelShortAdj>
+<Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>Râu</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+<Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>Mọc rậm</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+<Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>Thô kệch</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+<Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>Râu xồm</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+<Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>Râu</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+<Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>Mọc rậm</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+<Beard_NoBeardOnly.label>Không có râu</Beard_NoBeardOnly.label>
+<Beard_NoBeardOnly.description>Người mang gen này không có khả năng mọc râu.</Beard_NoBeardOnly.description>
+<Beard_NoBeardOnly.labelShortAdj>Không râu</Beard_NoBeardOnly.labelShortAdj>
+<Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>Nhẵn nhụi</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+<Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>Trần trụi</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+<Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>Nhẵn bóng</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+<Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>Cằm</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+<Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>Cằm nhẵn nhụi</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+<Brow_Heavy.label>Chân mày rậm</Brow_Heavy.label>
+<Brow_Heavy.description>Người mang gen này có chân mày dày đặc.</Brow_Heavy.description>
+<Eyes_Gray.label>Mắt xám</Eyes_Gray.label>
+<Eyes_Gray.description>Người mang gen này có nhãn cầu màu xám trắng.</Eyes_Gray.description>
+<Eyes_Gray.labelShortAdj>Mắt xám</Eyes_Gray.labelShortAdj>
+<Eyes_Red.label>Mắt đỏ</Eyes_Red.label>
+<Eyes_Red.description>Người mang gen này có nhãn cầu màu đỏ máu.</Eyes_Red.description>
+<Eyes_Red.labelShortAdj>Mắt đỏ</Eyes_Red.labelShortAdj>
+<FacialRidges.label>Khuôn mặt gồ ghề</FacialRidges.label>
+<FacialRidges.description>Người mang gen này có khuôn mặt gồ ghề.</FacialRidges.description>
+<Furskin.label>Da lông toàn thân</Furskin.label>
+<Furskin.description>Người mang gen này có lông phủ khắp cơ thể, giúp bảo vệ họ khỏi lạnh.</Furskin.description>
+<Furskin.labelShortAdj>Lông lá</Furskin.labelShortAdj>
+<Hair_BaldOnly.label>Không có tóc</Hair_BaldOnly.label>
+<Hair_BaldOnly.description>Người mang gen này không có khả năng mọc tóc trên đầu.</Hair_BaldOnly.description>
+<Hair_BaldOnly.labelShortAdj>Hói</Hair_BaldOnly.labelShortAdj>
+<Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>Hói</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+<Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>Không lông</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+<Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>Tròn trịa</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+<Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>Nhẵn bóng</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+<Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>Trần trụi</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+<Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>Tròn</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+<Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>Nhẵn bóng</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+<Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>Trần trụi</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+<Hair_Grayless.label>Tóc không bạc</Hair_Grayless.label>
+<Hair_Grayless.description>Người mang gen này có tóc không bị bạc theo tuổi tác.</Hair_Grayless.description>
+<Hair_Grayless.customEffectDescriptions.0>Không bị tóc bạc khi già.</Hair_Grayless.customEffectDescriptions.0>
+<Hair_LongOnly.label>Tóc dài</Hair_LongOnly.label>
+<Hair_LongOnly.description>Người mang gen này có tóc mọc rất nhanh.</Hair_LongOnly.description>
+<Hair_ShortOnly.label>Tóc ngắn</Hair_ShortOnly.label>
+<Hair_ShortOnly.description>Người mang gen này không thể để tóc dài.</Hair_ShortOnly.description>
+<Hair_ShortOnly.labelShortAdj>Tóc ngắn</Hair_ShortOnly.labelShortAdj>
+<Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>Tóc ngắn</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+<Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>Lông tơ</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+<Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>Nhánh nhỏ</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+<Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>Miếng nhỏ</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+<Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>Tóc ngắn</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>Lông tơ</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+<Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>Nhánh nhỏ</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+<Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>Miếng nhỏ</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+<Skin_Blue.label>Da màu xanh</Skin_Blue.label>
+<Skin_Blue.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu xanh.</Skin_Blue.description>
+<Skin_Blue.labelShortAdj>Màu xanh</Skin_Blue.labelShortAdj>
+<Skin_Blue.symbolPack.prefixSymbols.0.symbol>Xanh</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+<Skin_Blue.symbolPack.prefixSymbols.1.symbol>Băng</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+<Skin_Blue.symbolPack.prefixSymbols.2.symbol>Trời xanh</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+<Skin_DeepRed.label>Da màu đỏ đậm</Skin_DeepRed.label>
+<Skin_DeepRed.description>Người mang gen này sẽ tiết ra một loại sắc tố màu đỏ đậm, khiến cho da của họ trông giống như máu.</Skin_DeepRed.description>
+<Skin_DeepRed.labelShortAdj>Màu đỏ</Skin_DeepRed.labelShortAdj>
+<Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>Màu đỏ</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+<Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>Tội lỗi</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+<Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>Ngọn lửa</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+<Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>Hoa hồng</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+<Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>Rượu vang đỏ</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+<Skin_DeepYellow.label>Da màu vàng đậm</Skin_DeepYellow.label>
+<Skin_DeepYellow.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu vàng đậm.</Skin_DeepYellow.description>
+<Skin_DeepYellow.labelShortAdj>Màu vàng</Skin_DeepYellow.labelShortAdj>
+<Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>Màu vàng</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+<Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>Chanh vàng</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+<Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>Vàng</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+<Skin_Green.label>Da màu xanh lá cây</Skin_Green.label>
+<Skin_Green.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu xanh lá cây.</Skin_Green.description>
+<Skin_Green.labelShortAdj>Màu xanh lá</Skin_Green.labelShortAdj>
+<Skin_Green.symbolPack.prefixSymbols.0.symbol>Xanh lá</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+<Skin_Green.symbolPack.prefixSymbols.1.symbol>Chanh xanh</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+<Skin_Green.symbolPack.prefixSymbols.2.symbol>Ngọc bích</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+<Skin_Green.symbolPack.prefixSymbols.3.symbol>Đọt xanh</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+<Skin_Green.symbolPack.wholeNameSymbols.0.symbol>Da xanh</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+<Skin_InkBlack.label>Da màu đen mực</Skin_InkBlack.label>
+<Skin_InkBlack.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu đen như mực.</Skin_InkBlack.description>
+<Skin_InkBlack.labelShortAdj>Màu đen mực</Skin_InkBlack.labelShortAdj>
+<Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>Mực</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>Tối tăm</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>Than</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>Nhựa đường</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>Hình bóng</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>Đen tuyền</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+<Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>Mực ngọc</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+<Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>Hình bóng</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+<Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>Đen tuyền</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+<Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>Mực ngọc</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+<Skin_LightGray.label>Da màu xám nhạt</Skin_LightGray.label>
+<Skin_LightGray.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu xám nhạt.</Skin_LightGray.description>
+<Skin_LightGray.labelShortAdj>Màu xám</Skin_LightGray.labelShortAdj>
+<Skin_LightGray.symbolPack.prefixSymbols.0.symbol>Xám</Skin_LightGray.symbolPack.prefixSymbols.0.symbol>
+<Skin_LightGray.symbolPack.prefixSymbols.1.symbol>Nhợt nhạt</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
+<Skin_Orange.label>Da màu cam</Skin_Orange.label>
+<Skin_Orange.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu cam.</Skin_Orange.description>
+<Skin_Orange.labelShortAdj>Màu cam</Skin_Orange.labelShortAdj>
+<Skin_Orange.symbolPack.prefixSymbols.0.symbol>Màu cam</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
+<Skin_PaleRed.label>Da màu đỏ nhạt</Skin_PaleRed.label>
+<Skin_PaleRed.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu đỏ nhạt.</Skin_PaleRed.description>
+<Skin_PaleRed.labelShortAdj>Màu hồng</Skin_PaleRed.labelShortAdj>
+<Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>Màu hồng</Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>
+<Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>Màu đỏ</Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>
+<Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>Hoa hồng</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
+<Skin_PaleYellow.label>Da màu vàng nhạt</Skin_PaleYellow.label>
+<Skin_PaleYellow.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu vàng nhạt.</Skin_PaleYellow.description>
+<Skin_PaleYellow.labelShortAdj>Màu vàng nhạt</Skin_PaleYellow.labelShortAdj>
+<Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>Màu vàng</Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>
+<Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>Chuối</Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>
+<Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>Trứng gà</Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>
+<Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>Chuối</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
+<Skin_Purple.label>Da màu tím</Skin_Purple.label>
+<Skin_Purple.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu tím.</Skin_Purple.description>
+<Skin_Purple.labelShortAdj>Màu tím</Skin_Purple.labelShortAdj>
+<Skin_Purple.symbolPack.prefixSymbols.0.symbol>Màu tím</Skin_Purple.symbolPack.prefixSymbols.0.symbol>
+<Skin_Purple.symbolPack.prefixSymbols.1.symbol>Nho</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SheerWhite.label>Da màu trắng tinh khiết</Skin_SheerWhite.label>
+<Skin_SheerWhite.description>Người mang gen này có làn da trắng không tự nhiên, do một loại tế bào phản xạ đặc biệt bao phủ bề mặt cơ thể.</Skin_SheerWhite.description>
+<Skin_SheerWhite.labelShortAdj>Màu nhợt nhạt</Skin_SheerWhite.labelShortAdj>
+<Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>Trắng tinh khiết</Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>Màu nhợt nhạt</Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>Snow</Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>Ánh sáng mờ</Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>Sáng ánh</Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>Ái La</Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>Phai màu</Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>Ngọc trai</Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>Đông</Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>Trắng sữa</Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>Trắng phấn</Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>
+<Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>Trắng muối</Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>Màu trắng muối</Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>
+  <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>Hồn ma</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
+<Skin_SlateGray.label>Da màu xám xanh</Skin_SlateGray.label>
+<Skin_SlateGray.description>Người mang gen này sẽ tiết ra một loại sắc tố khiến cho da của họ có màu xám xanh.</Skin_SlateGray.description>
+<Skin_SlateGray.labelShortAdj>Màu xám đá</Skin_SlateGray.labelShortAdj>
+<Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>Màu xám</Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>Màu đá phiến</Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>Sương mù</Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>U ám</Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>Sương khói</Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>Ma quái</Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>Tối tăm</Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>
+<Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>Sương mù nhẹ</Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>
+<Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>Mưa nhẹ</Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>
+<Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>Hồn ma</Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>
+<Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>Tối tăm</Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>
+<Tail_Furry.label>Đuôi lông xù</Tail_Furry.label>
+<Tail_Furry.description>Người mang gen này có một cái đuôi lông xù, giúp bảo vệ họ khỏi lạnh.</Tail_Furry.description>
+<Tail_Smooth.label>Đuôi mượt mà</Tail_Smooth.label>
+<Tail_Smooth.description>Người mang gen này có một cái đuôi dài và mảnh, có thể hoạt động như một chi thứ năm.</Tail_Smooth.description>
+</LanguageData>

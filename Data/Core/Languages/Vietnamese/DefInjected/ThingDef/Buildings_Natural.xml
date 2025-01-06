@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CollapsedRocks.label>Đá sụp đổ</CollapsedRocks.label>
+	<CollapsedRocks.description>Những viên đá đã sụp đổ, chèn chặt vào nhau, đủ để nâng đỡ đỉnh đá.</CollapsedRocks.description>
+	<GlowPod.label>Quả nhộng phát sáng</GlowPod.label>
+	<GlowPod.description>Một quả nhộng phát sáng, sản phẩm của loài côn trùng khổng lồ. Có khả năng chiếu sáng một khu vực trong thời gian dài, cho đến khi héo tàn.</GlowPod.description>
+	<Hive.label>Tổ côn trùng</Hive.label>
+	<Hive.description>Một tổ của loài côn trùng khổng lồ. Nếu bị đánh thức, nó sẽ liên tục sinh sản ra côn trùng khổng lồ và tổ mới theo thời gian. Cũng sản xuất nhựa côn trùng quý giá.</Hive.description>
+	<MineableComponentsIndustrial.label>Cơ khí bị chôn vùi</MineableComponentsIndustrial.label>
+	<MineableComponentsIndustrial.description>Các bộ phận cơ khí cổ đại đã bị nén chặt trong thời gian dài. Có thể khai thác các bộ phận hữu ích từ chúng.</MineableComponentsIndustrial.description>
+	<MineableGold.label>Vàng</MineableGold.label>
+	<MineableGold.description>Đá chứa một lượng vàng nhỏ.</MineableGold.description>
+	<MineableJade.label>Ngọc bích</MineableJade.label>
+	<MineableJade.description>Đá chứa một lượng ngọc bích nhỏ.</MineableJade.description>
+	<MineablePlasteel.label>Thép composite</MineablePlasteel.label>
+	<MineablePlasteel.description>Đá vụn cổ đại chứa nhiều thép composite đã bị nén chặt.</MineablePlasteel.description>
+	<MineableSilver.label>Bạc</MineableSilver.label>
+	<MineableSilver.description>Đá chứa một lượng bạc nhỏ.</MineableSilver.description>
+	<MineableSteel.label>Thép</MineableSteel.label>
+	<MineableSteel.description>Di tích của một công trình cổ đại đã sụp đổ, chứa nhiều thép.</MineableSteel.description>
+	<MineableUranium.label>Uranium</MineableUranium.label>
+	<MineableUranium.description>Đá chứa một lượng uranium nhỏ.</MineableUranium.description>
+	<RaisedRocks.label>Đá xếp</RaisedRocks.label>
+	<RaisedRocks.description>Bức tường yếu được xây dựng từ đá vụn, sẽ nhanh chóng sụp đổ.</RaisedRocks.description>
+	<SteamGeyser.label>Suối nước nóng</SteamGeyser.label>
+	<SteamGeyser.description>Nguồn hơi nước tự nhiên. Có thể được sử dụng bởi máy phát điện hơi nước. Nếu xây dựng phòng ở đây, nhiệt độ sẽ tăng đột ngột, biến nơi này thành một lò nướng.</SteamGeyser.description>
+</LanguageData>

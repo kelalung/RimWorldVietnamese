@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Description_Tome.rulePack.rulesStrings>
+		<li>desc-&gt;[inThisBook]，[author][experiencesWithMonsters]。[specificHorrorStory][writingQualitySentence]。</li>
+		<li>inThisBook-&gt;Trong [writingQualityAdjective][bookTypeSingle] này</li>
+		<li>inThisBook-&gt;Trong những [writingQualityAdjective][bookTypePlural] này</li>
+		<li>bookTypeSingle-&gt;Sổ sách</li>
+		<li>bookTypeSingle-&gt;Niên giám</li>
+		<li>bookTypeSingle-&gt;Phân tích</li>
+		<li>bookTypeSingle-&gt;Bài viết</li>
+		<li>bookTypeSingle-&gt;Sách</li>
+		<li>bookTypeSingle-&gt;Đánh giá</li>
+		<li>bookTypeSingle-&gt;Tác phẩm</li>
+		<li>bookTypeSingle-&gt;Tóm tắt</li>
+		<li>bookTypeSingle-&gt;Bài phê bình</li>
+		<li>bookTypeSingle-&gt;Cẩm nang</li>
+		<li>bookTypeSingle-&gt;Luận văn</li>
+		<li>bookTypeSingle-&gt;Bài phát biểu</li>
+		<li>bookTypeSingle-&gt;Bình luận</li>
+		<li>bookTypeSingle-&gt;Tản văn</li>
+		<li>bookTypeSingle-&gt;Khảo sát</li>
+		<li>bookTypeSingle-&gt;Kết quả khảo sát</li>
+		<li>bookTypeSingle-&gt;Sách ma thuật</li>
+		<li>bookTypeSingle-&gt;Sách hỏi</li>
+		<li>bookTypeSingle-&gt;Sách khảo sát</li>
+		<li>bookTypeSingle-&gt;Tuyên ngôn</li>
+		<li>bookTypeSingle-&gt;Bản thảo</li>
+		<li>bookTypeSingle-&gt;Tác phẩm</li>
+		<li>bookTypeSingle-&gt;Báo chí</li>
+		<li>bookTypeSingle-&gt;Tác phẩm</li>
+		<li>bookTypeSingle-&gt;Báo cáo nghiên cứu</li>
+		<li>bookTypeSingle-&gt;Ghi chép</li>
+		<li>bookTypeSingle-&gt;Báo cáo</li>
+		<li>bookTypeSingle-&gt;Đánh giá</li>
+		<li>bookTypeSingle-&gt;Báo cáo khảo sát</li>
+		<li>bookTypeSingle-&gt;Di chúc</li>
+		<li>bookTypeSingle-&gt;Lời chứng</li>
+		<li>bookTypeSingle-&gt;Văn bản</li>
+		<li>bookTypeSingle-&gt;Luận văn</li>
+		<li>bookTypeSingle-&gt;Bài ngắn</li>
+		<li>bookTypeSingle-&gt;Chuyên khảo</li>
+		<li>bookTypeSingle-&gt;Sách điều trị</li>
+		<li>bookTypeSingle-&gt;Cuốn sách</li>
+		<li>bookTypeSingle-&gt;Tác phẩm</li>
+		<li>bookTypePlural-&gt;Chương</li>
+		<li>bookTypePlural-&gt;Biên niên sử</li>
+		<li>bookTypePlural-&gt;Khúc ca trong Cựu ước</li>
+		<li>bookTypePlural-&gt;Niên giám</li>
+		<li>bookTypePlural-&gt;Khải huyền</li>
+		<li>author(p=3)-&gt;Tác giả</li>
+		<li>author(p=3)-&gt;[anAuthorDesc][PersonJob]</li>
+		<li>author-&gt;[anAuthorDesc]Nghiên cứu viên</li>
+		<li>author-&gt;[anAuthorDesc]Phù thủy</li>
+		<li>author-&gt;[anAuthorDesc]Học giả huyền bí</li>
+		<li>author-&gt;[anAuthorDesc]Người theo giáo phái</li>
+		<li>author-&gt;[anAuthorDesc]Thành viên giáo phái</li>
+		<li>author-&gt;[anAuthorDesc]Người trốn khỏi giáo phái</li>
+		<li>author-&gt;[anAuthorDesc]Người buôn cổ vật</li>
+		<li>author-&gt;[anAuthorDesc]Người khai quật</li>
+		<li>author-&gt;[anAuthorDesc]Nghiên cứu viên hư không</li>
+		<li>author-&gt;[anAuthorDesc]Kẻ lang thang</li>
+		<li>author-&gt;[anAuthorDesc]Người hoài nghi</li>
+		<li>author-&gt;[anAuthorDesc]Học giả</li>
+		<li>author-&gt;[anAuthorDesc]Thợ săn</li>
+		<li>author-&gt;[anAuthorDesc]Nhà điều tra</li>
+		<li>author-&gt;[anAuthorDesc]Lão làng</li>
+		<li>author-&gt;[anAuthorDesc]Tín đồ</li>
+		<li>author-&gt;[anAuthorDesc]Người tiên phong</li>
+		<li>author-&gt;[anAuthorDesc]Người thừa kế</li>
+		<li>author-&gt;[anAuthorDesc]Quý tộc</li>
+		<li>author-&gt;[anAuthorDesc]Người dịch</li>
+		<li>author-&gt;[anAuthorDesc]Tu sĩ</li>
+		<li>author-&gt;[anAuthorDesc]Hóa thân</li>
+		<li>author-&gt;[anAuthorDesc]Nhà văn</li>
+		<li>author-&gt;[anAuthorDesc]Đặc vụ</li>
+		<li>author-&gt;[anAuthorDesc]Anh hùng</li>
+		<li>author-&gt;[anAuthorDesc]Nhà văn</li>
+		<li>anAuthorDesc(p=2)-&gt;Một</li>
+		<li>anAuthorDesc-&gt;Một người trẻ</li>
+		<li>anAuthorDesc-&gt;Một người già</li>
+		<li>anAuthorDesc-&gt;Một người đáng sợ</li>
+		<li>anAuthorDesc-&gt;Một người buồn bã</li>
+		<li>anAuthorDesc-&gt;Một người lớn tuổi</li>
+		<li>anAuthorDesc-&gt;Một người thông thái</li>
+		<li>anAuthorDesc-&gt;Một người cứng đầu</li>
+		<li>anAuthorDesc-&gt;Một người ngu ngốc</li>
+		<li>anAuthorDesc-&gt;Một người ngây thơ</li>
+		<li>anAuthorDesc-&gt;Một người lo âu</li>
+		<li>anAuthorDesc-&gt;Một người kỳ quái</li>
+		<li>anAuthorDesc-&gt;Một người thất thường</li>
+		<li>anAuthorDesc-&gt;Một người điển hình</li>
+		<li>anAuthorDesc-&gt;Một người nhàm chán</li>
+		<li>anAuthorDesc-&gt;Một người điên rồ</li>
+		<li>anAuthorDesc-&gt;Một người xấu xa</li>
+		<li>anAuthorDesc-&gt;Một người công chính</li>
+		<li>anAuthorDesc-&gt;Một người vượt qua đạo đức</li>
+		<li>anAuthorDesc-&gt;Một người bí ẩn</li>
+		<li>tellsAStoryOf-&gt;Kể về</li>
+		<li>tellsAStoryOf-&gt;Làm sáng tỏ</li>
+		<li>tellsAStoryOf-&gt;Khám phá</li>
+		<li>tellsAStoryOf-&gt;Mô tả</li>
+		<li>tellsAStoryOf-&gt;Giải thích chi tiết</li>
+		<li>tellsAStoryOf-&gt;Thuyết minh</li>
+		<li>tellsAStoryOf-&gt;Khám phá chi tiết</li>
+		<li>tellsAStoryOf-&gt;Kể về</li>
+		<li>tellsAStoryOf-&gt;Nhắc lại</li>
+		<li>tellsAStoryOf-&gt;Báo cáo về</li>
+		<li>tellsAStoryOf-&gt;Ghi chép về</li>
+		<li>tellsAStoryOf-&gt;Trình bày về</li>
+		<li>tellsAStoryOf-&gt;Tiết lộ về</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf][ANYPAWN_pronoun] với [entities][shared]</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Khám phá một tổ chức giáo phái bí mật nằm ở [TerrainFeature] hẻo lánh</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Cuộc tìm kiếm hình khối vàng bí ẩn</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Sự thiền sâu được hướng dẫn bởi một cao tăng thần thánh</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf][ANYPAWN_possessive] cuộc sống sụp đổ dưới ảnh hưởng tâm linh của Horax</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về các nhà nghiên cứu lần lượt bị điên rồ tại một địa điểm khai thác khảo cổ hẻo lánh</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một bộ lạc bị biến đổi để phục vụ cho một vị thần đen tối của giáo phái tôn thờ sự tàn bạo</li>
+		<li>experiencesWithMonsters-&gt;Cố gắng mô tả một truyền thống của bộ lạc thực hiện nghi lễ tự cắt bằng những lưỡi dao gỉ sét dưới ánh lửa</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một học sinh đột nhiên nói ra một số sự thật chết người mà cô ấy không nên biết</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một nhà khoa học cố gắng sử dụng công nghệ siêu phàm cổ xưa để hồi sinh vợ đã chết của mình</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một đoàn thám hiểm ngoại lai, làm thế nào họ sống sót dưới cơn mưa thịnh nộ và bầu trời cố gắng dìm họ trong bóng tối</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một nhóm điều tra phát hiện ra những sinh vật máu thịt đáng sợ trong một hố sâu cổ xưa</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một shaman bộ lạc cố gắng tìm cách ngăn chặn zombie [Animal] tấn công làng mỗi đêm</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf]Câu chuyện về một huyền thoại bộ lạc, kể về một vị thần cổ xưa có thể ảnh hưởng đến tất cả mọi người bị các anh hùng phong ấn trong một nhà tù đá nhỏ</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf][ANYPAWN_pronoun] những thí nghiệm vô nhân đạo trên [entity] bị bắt giữ</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf][ANYPAWN_pronoun] những ảo giác mà [ANYPAWN_pronoun] nhìn thấy nhiều lần, trong đó [vision]</li>
+		<li>vision-&gt;Vật đen tối xâm nhập vào ý thức của [ANYPAWN_possessive] và cướp đi ký ức của [ANYPAWN_possessive]</li>
+		<li>vision-&gt;[ANYPAWN_pronoun] bị chính mình truy đuổi, không thể thoát khỏi dù có chạy đến đâu</li>
+		<li>vision-&gt;[ANYPAWN_pronoun] bị [entity] xé thành từng mảnh</li>
+		<li>experiencesWithMonsters-&gt;[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objective]</li>
+		<li>findings-&gt;trải nghiệm</li>
+		<li>findings-&gt;nghiên cứu</li>
+		<li>findings-&gt;câu chuyện</li>
+		<li>objective-&gt;[maybeAdjectiveEvil] liên quan đến một nghi lễ do [ritual_incident] thực hiện</li>
+		<li>objective-&gt;liên quan đến công nghệ đen tối sau [entity_incident]</li>
+		<li>ritual_incident-&gt;[ANYPAWN_pronoun] phát hiện [targetHuman] biến mất một cách bí ẩn</li>
+		<li>targetHuman-&gt;[anAuthorDesc]nữ</li>
+		<li>targetHuman-&gt;[anAuthorDesc]nam</li>
+		<li>ritual_incident-&gt;Cơn mưa thịnh nộ kéo dài ba ngày khiến [ANYPAWN_possessive] bạn bè rơi vào trạng thái điên cuồng</li>
+		<li>ritual_incident-&gt;[entity_incident]</li>
+		<li>entity_incident-&gt;[ANYPAWN_pronoun] mất [BodyPart] trong một cuộc tấn công của [entity]</li>
+		<li>entity_incident-&gt;[ANYPAWN_pronoun] nhìn chằm chằm vào một [entity]</li>
+		<li>specificHorrorStory-&gt;Có một lần, tác giả kể về nạn nhân bị ép buộc tự cắt mình bằng thủy tinh vỡ trong một nghi lễ đen tối.</li>
+		<li>specificHorrorStory-&gt;Có một lần, nhân vật chính tình cờ phát hiện ra một nghi lễ, chứng kiến một người đầy máu vừa đọc câu thần chú rùng rợn vừa tự cắt mình bằng mảnh obsidian.</li>
+		<li>specificHorrorStory-&gt;Nhiều hình minh họa trong sách cố gắng miêu tả “biển đen” được nói đến trong sách. Điều này dường như ám chỉ một lĩnh vực tâm linh bị chi phối bởi một trí tuệ siêu phàm đáng sợ nhưng quyến rũ.</li>
+		<li>specificHorrorStory-&gt;Nó nhiều lần gợi ý về tính đa chiều của thực tại — tức là có những chiều cao hơn thực tại của chúng ta, nơi có thể có những thứ ngay bên cạnh bạn, nhưng bạn không thể nhận thấy sự tồn tại của chúng.</li>
+		<li>specificHorrorStory-&gt;Nó đã mất rất nhiều thời gian để cố gắng mô tả một trí tuệ siêu phàm tên là “Horax”, tồn tại ở một chiều không gian liền kề với chúng ta.</li>
+		<li>specificHorrorStory-&gt;Một chương mô tả cơ chế ảnh hưởng tâm linh đen tối, tức là các thực thể từ một thế giới khác có thể đồng bộ hóa với cảm xúc của con người, vô tình ảnh hưởng đến suy nghĩ của họ.</li>
+		<li>specificHorrorStory-&gt;Một chương mô tả những trí tuệ siêu phàm khác nhau và sự khác biệt trong cảm xúc và bản chất phát ra từ tâm trí của chúng. Một số cá thể được coi là trung lập hoặc thậm chí tử tế, trong khi một số khác thì tràn đầy giận dữ.</li>
+		<li>specificHorrorStory-&gt;[ANYPAWN_pronoun] mô tả cảm giác tâm trí của [ANYPAWN_possessive] bị tái cấu trúc một cách cưỡng bức bởi một trí tuệ mạnh mẽ hơn.</li>
+		<li>specificHorrorStory-&gt;Trong một chương, tác giả từng cố gắng tự sát nhưng được một [PersonJob] tốt bụng phát hiện và cứu sống.</li>
+		<li>specificHorrorStory-&gt;Sách đi kèm với những hình minh họa gây khó chịu, mô tả một thực thể kỳ quái từ thế giới khác, với những xúc tu màu mực mờ ảo đang cuộn trên các trang sách, khiến người ta vừa cảm thấy sợ hãi vừa bị cuốn hút.</li>
+		<li>specificHorrorStory-&gt;Trong suốt quá trình kể chuyện, khái niệm về các chiều không gian song song xuất hiện nhiều lần, các nhân vật gặp phải những thực thể tồn tại ngoài nhận thức của con người, chúng tồn tại trong một thực tại giao thoa với thực tại của chúng ta nhưng ẩn giấu khỏi tầm nhìn của chúng ta.</li>
+		<li>specificHorrorStory-&gt;Sách mô tả “Horax” một cách rùng rợn — “Horax” là một trí tuệ siêu phàm, chuyển mình qua một chiều không gian ẩn giấu đến một nơi gọi là “hư không”.</li>
+		<li>specificHorrorStory-&gt;Một chương mô tả một lý thuyết, tức là những trí tuệ siêu phàm xa xôi có thể thao túng nhận thức của con người qua năng lượng tâm linh, tái cấu trúc suy nghĩ của họ để phù hợp với mô hình tư duy của chính chúng.</li>
+		<li>specificHorrorStory-&gt;Nhân vật chính hồi tưởng rằng cảm thấy [ANYPAWN_possessive] tư duy bị thay đổi một cách cưỡng bức bởi một sức mạnh tâm linh bất hạnh không rõ nguồn gốc.</li>
+		<li>entities-&gt;Quỷ</li>
+		<li>entities-&gt;Xác sống</li>
+		<li>entities-&gt;Quái vật thích đau khổ</li>
+		<li>entities-&gt;Sinh vật máu thịt</li>
+		<li>entities-&gt;Xác sống của [Animal]</li>
+		<li>entities-&gt;Thực thể hình người làm từ kim loại và lưỡi dao</li>
+		<li>entities-&gt;Cầu cơ khí lơ lửng gây đau đớn</li>
+		<li>entities-&gt;Hình khối vàng tinh xảo phá hủy tâm trí</li>
+		<li>entities-&gt;Con thú với máu thịt dị dạng</li>
+		<li>entities-&gt;Bóng tối có thể biến mất đột ngột</li>
+		<li>entities-&gt;Thợ săn cướp linh hồn</li>
+		<li>entity-&gt;Quỷ</li>
+		<li>entity-&gt;Xác sống</li>
+		<li>entity-&gt;Quái vật thích đau khổ</li>
+		<li>entity-&gt;Sinh vật máu thịt</li>
+		<li>entity-&gt;Xác sống của [Animal]</li>
+		<li>entity-&gt;Thực thể hình người làm từ kim loại và lưỡi dao</li>
+		<li>entity-&gt;Cầu cơ khí lơ lửng gây đau đớn</li>
+		<li>entity-&gt;Hình khối vàng tinh xảo phá hủy tâm trí</li>
+		<li>entity-&gt;Con thú với máu thịt dị dạng</li>
+		<li>entity-&gt;Bóng tối có thể biến mất đột ngột</li>
+		<li>entity-&gt;Thợ săn cướp linh hồn</li>
+		<li>maybeAdjectiveEvil(p=2)-&gt;</li>
+		<li>maybeAdjectiveEvil-&gt;[adjectiveEvil] </li>
+		<li>adjectiveEvil-&gt;Chết người</li>
+		<li>adjectiveEvil-&gt;Cổ xưa</li>
+		<li>adjectiveEvil-&gt;Đẫm máu</li>
+		<li>adjectiveEvil-&gt;Biến dạng</li>
+		<li>adjectiveEvil-&gt;Mạnh mẽ</li>
+		<li>adjectiveEvil-&gt;Ác độc</li>
+		<li>adjectiveEvil-&gt;Kinh khủng</li>
+		<li>adjectiveEvil-&gt;Thanh lịch</li>
+		<li>adjectiveEvil-&gt;Điềm xấu</li>
+		<li>adjectiveEvil-&gt;Huyền bí</li>
+		<li>adjectiveEvil-&gt;Kỳ lạ</li>
+		<li>adjectiveEvil-&gt;Đáng sợ</li>
+		<li>adjectiveEvil-&gt;Huyễn hoặc</li>
+		<li>adjectiveEvil-&gt;Huyền bí</li>
+		<li>adjectiveEvil-&gt;Đáng ghê tởm</li>
+		<li>adjectiveEvil-&gt;Quái dị</li>
+		<li>writingQualityAdjective(quality==0)-&gt;Lộn xộn</li>
+		<li>writingQualityAdjective(quality==0)-&gt;Nói lẫn lộn</li>
+		<li>writingQualityAdjective(quality==0)-&gt;Vô nghĩa</li>
+		<li>writingQualityAdjective(quality==0)-&gt;Tồi tệ</li>
+		<li>writingQualityAdjective(quality==0)-&gt;Ngây ngô</li>
+		<li>writingQualityAdjective(quality==1)-&gt;Hiệu quả kém</li>
+		<li>writingQualityAdjective(quality==1)-&gt;Chữ viết lộn xộn</li>
+		<li>writingQualityAdjective(quality==1)-&gt;Đơn điệu</li>
+		<li>writingQualityAdjective(quality==1)-&gt;Mâu thuẫn</li>
+		<li>writingQualityAdjective(quality==1)-&gt;Vô tận</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Nói không rõ ý</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Thiếu sáng tạo</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Tầm thường</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Bình thường</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Vô văn chương</li>
+		<li>writingQualityAdjective(quality==2)-&gt;Chấp nhận được</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Đơn điệu</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Có chút văn chương</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Cấu trúc rõ ràng</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Suy nghĩ chín chắn</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Dễ hiểu</li>
+		<li>writingQualityAdjective(quality==3)-&gt;Bình thường</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Hài hước</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Liền mạch</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Giàu cảm xúc</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Ngăn nắp</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Cảm động</li>
+		<li>writingQualityAdjective(quality==4)-&gt;Đáng kính</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Đọc mãi không chán</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Tài năng</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Quan điểm sắc bén</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Xuất sắc</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Văn phong tuyệt vời</li>
+		<li>writingQualityAdjective(quality==5)-&gt;Xuất sắc</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Ý tưởng sáng tạo</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Có tầm nhìn xa</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Xuất sắc</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Từng chữ đều quý giá</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Văn phong tinh tế</li>
+		<li>writingQualityAdjective(quality==6)-&gt;Bút pháp tài tình</li>
+		<li>writingQualitySentence(quality[greater_than]4)-&gt;Cuốn sách này [excellentDesc]</li>
+		<li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;Cuốn sách này [decentDesc]</li>
+		<li>writingQualitySentence(quality[less_than]2)-&gt;Cuốn sách này [awfulDesc]</li>
+		<li>awfulDesc-&gt;Chữ viết lộn xộn</li>
+		<li>awfulDesc-&gt;Ghi chú như chữ ma</li>
+		<li>awfulDesc-&gt;Bị dính vết rượu khô</li>
+		<li>awfulDesc-&gt;Thật sự lộn xộn</li>
+		<li>awfulDesc-&gt;Nội dung lặp lại, nhiều chương thiếu chi tiết</li>
+		<li>awfulDesc-&gt;Nhiều chỗ chữ đã mờ không thể đọc được</li>
+		<li>awfulDesc-&gt;Thiếu nhiều trang</li>
+		<li>awfulDesc-&gt;Lộn xộn, văn phong nhảy múa</li>
+		<li>awfulDesc-&gt;Viết bằng ngôn ngữ đã thất truyền</li>
+		<li>awfulDesc-&gt;Đầy những thuật ngữ khó hiểu</li>
+		<li>awfulDesc-&gt;Nội dung ngây ngô</li>
+		<li>awfulDesc-&gt;Trộn lẫn thực tế và tưởng tượng</li>
+		<li>awfulDesc-&gt;Giống như do AI viết ra</li>
+		<li>awfulDesc-&gt;Đầy vết nước và máu khô</li>
+		<li>awfulDesc-&gt;Chỉ là về một khoảnh khắc xuân sắc của hai [entities]</li>
+		<li>decentDesc-&gt;Chấp nhận được, nhưng cần hiệu đính</li>
+		<li>decentDesc-&gt;Một số phần có cái nhìn sâu sắc, nhưng phần khác thì không cần thiết</li>
+		<li>decentDesc-&gt;Rất nhạy bén, nhưng có phần méo mó</li>
+		<li>decentDesc-&gt;Chi tiết phong phú, nhưng thiếu đủ giải thích</li>
+		<li>decentDesc-&gt;Thiếu vài trang</li>
+		<li>decentDesc-&gt;Có giá trị nhất định, nhưng quá chú trọng vào sở thích cá nhân của tác giả</li>
+		<li>decentDesc-&gt;Có thông tin hữu ích, nhưng tác giả có một số thiên lệch</li>
+		<li>decentDesc-&gt;Bình thường, không tốt không xấu</li>
+		<li>decentDesc-&gt;Đẹp mà không có giá trị</li>
+		<li>decentDesc-&gt;Đầy ý tưởng hấp dẫn, nhưng đọc thật khó khăn</li>
+		<li>decentDesc-&gt;Tác giả có trí tuệ hàng đầu, nhưng văn phong chỉ ở mức trung bình</li>
+		<li>decentDesc-&gt;Nếu không bị mối mọt, vẫn là một cuốn sách hay</li>
+		<li>decentDesc-&gt;Nội dung gây sốc, nhưng đọc lại nhàm chán</li>
+		<li>excellentDesc-&gt;Văn phong đạt đỉnh cao</li>
+		<li>excellentDesc-&gt;Quan điểm rất sắc bén</li>
+		<li>excellentDesc-&gt;Văn phong tinh tế, như nước chảy mây trôi</li>
+		<li>excellentDesc-&gt;Cấu trúc hợp lý, tính chuyên môn cao</li>
+		<li>excellentDesc-&gt;Nhiều chỗ rất thơ mộng</li>
+		<li>excellentDesc-&gt;Đầy những mô tả gây xúc động và những đoạn văn đầy chất thơ</li>
+		<li>excellentDesc-&gt;Đọc xong, trong đầu nảy ra những ý tưởng sáng suốt, như được khai sáng</li>
+	</Description_Tome.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DesignatorMechControlGroup>Nhóm điều khiển</DesignatorMechControlGroup>
+<DesignatorMechControlGroupDesc>Phân nhóm các máy móc đã chọn dưới quyền kiểm soát của một kỹ sư khác.</DesignatorMechControlGroupDesc>
+<MechCanBuildThis>Nhưng {0} có thể xây dựng nó.</MechCanBuildThis>
+<DesignatorAdopt>Nhận nuôi</DesignatorAdopt>
+<DesignatorAdoptDesc>Nhận nuôi trẻ sơ sinh này. Trẻ sơ sinh này sẽ ngay lập tức trở thành một phần của thuộc địa của bạn.</DesignatorAdoptDesc>
+<ChooseMechColor>Chọn màu sơn cho máy móc...</ChooseMechColor>
+<DesignatorAreaPollutionClearExpand>Thêm khu vực làm sạch ô nhiễm</DesignatorAreaPollutionClearExpand>
+<DesignatorAreaPollutionClearExpandDesc>Chỉ định một khu vực để thuộc địa dọn dẹp địa hình ô nhiễm. Dọn dẹp địa hình có thể loại bỏ ô nhiễm trên mặt đất và đóng gói thành rác độc có thể vận chuyển đi.</DesignatorAreaPollutionClearExpandDesc>
+<DesignatorAreaPollutionClearClear>Xóa khu vực làm sạch ô nhiễm</DesignatorAreaPollutionClearClear>
+<DesignatorAreaPollutionClearClearDesc>Xóa khu vực làm sạch ô nhiễm. Các thuộc địa sẽ không còn dọn dẹp ô nhiễm từ địa hình trong khu vực này.</DesignatorAreaPollutionClearClearDesc>
+</LanguageData>

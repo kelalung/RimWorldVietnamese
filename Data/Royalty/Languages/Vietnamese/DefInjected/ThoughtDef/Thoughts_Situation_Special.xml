@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimaScream.stages.anima_scream.label>Tiếng Vang Linh Hồn</AnimaScream.stages.anima_scream.label>
+<AnimaScream.stages.anima_scream.description>Đầu tôi đau quá... là cái cây đó... cái cây đó đã chết... tiếng này cứ vang vọng trong đầu tôi...</AnimaScream.stages.anima_scream.description>
+<DecreeUnmet.stages.decree_ignored.label>Quyết Định Bị Phớt Lờ</DecreeUnmet.stages.decree_ignored.label>
+<DecreeUnmet.stages.decree_ignored.description>Quyết định của tôi đã bị phớt lờ trong một thời gian dài {0}.</DecreeUnmet.stages.decree_ignored.description>
+<Joyfuzz.stages.joyfuzz.label>Gợi Ý Vui Mừng</Joyfuzz.stages.joyfuzz.label>
+<Joyfuzz.stages.joyfuzz.description>Không biết tại sao, bây giờ tôi cảm thấy mọi thứ đều có thể chấp nhận.</Joyfuzz.stages.joyfuzz.description>
+<PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>Sự Mất Cân Bằng Tâm Linh (Nhẹ)</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+<PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>Tôi cảm thấy đau nhói trong não, khó tập trung và suy nghĩ.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+<PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>Sự Mất Cân Bằng Tâm Linh (Nặng)</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+<PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>Đầu tôi đau như búa bổ, hai mắt mờ mịt, hoàn toàn không thể suy nghĩ.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+<PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>Sự Mất Cân Bằng Tâm Linh (Hoàn Toàn)</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+<PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>Trước mắt tôi... trời đất quay cuồng... đau quá... đau quá! Không thể... không thể suy nghĩ...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+<PsychicLove.stages.psychic_love.label>Tình Yêu Tâm Linh</PsychicLove.stages.psychic_love.label>
+</LanguageData>

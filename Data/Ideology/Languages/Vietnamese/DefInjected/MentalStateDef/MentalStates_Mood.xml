@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<IdeoChange.label>Khủng hoảng niềm tin</IdeoChange.label>
+<IdeoChange.baseInspectLine>Trạng thái tinh thần: Khủng hoảng niềm tin</IdeoChange.baseInspectLine>
+<IdeoChange.beginLetter>{PAWN_nameDef} đã bị sụp đổ tinh thần. {PAWN_pronoun} hiện không dám tin tưởng vào bất cứ điều gì nữa.</IdeoChange.beginLetter>
+<Rebellion.label>Kích thích nô lệ nổi dậy</Rebellion.label>
+<Rebellion.baseInspectLine>Trạng thái tinh thần: Người nổi dậy</Rebellion.baseInspectLine>
+<Rebellion.beginLetter>{0} đã đến giới hạn chịu đựng tâm lý và đang có kế hoạch kích thích các nô lệ khác nổi dậy.</Rebellion.beginLetter>
+<Rebellion.beginLetterLabel>Người nổi dậy</Rebellion.beginLetterLabel>
+</LanguageData>

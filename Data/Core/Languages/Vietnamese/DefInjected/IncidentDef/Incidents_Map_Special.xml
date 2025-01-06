@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GameEndedWanderersJoin.label>Người Lang Thang Tham Gia</GameEndedWanderersJoin.label>
+	<GameEndedWanderersJoin.letterLabel>Người Lang Thang Tham Gia</GameEndedWanderersJoin.letterLabel>
+	<GameEndedWanderersJoin.letterText>Một nhóm người lang thang tình cờ phát hiện ra di tích của thuộc địa và quyết định ở lại.\n\nCó thể họ sẽ tiếp tục câu chuyện này.</GameEndedWanderersJoin.letterText>
+	<OrbitalTraderArrival.label>Thương Nhân Quỹ Đạo</OrbitalTraderArrival.label>
+	<RaidFriendly.label>Tiếp Viện</RaidFriendly.label>
+	<ShipChunkDrop.label>Mảnh Vụn Tàu Rơi Xuống</ShipChunkDrop.label>
+	<StrangerInBlackJoin.label>Người Lạ Mặc Đen</StrangerInBlackJoin.label>
+	<StrangerInBlackJoin.letterLabel>Người Lạ Mặc Đen</StrangerInBlackJoin.letterLabel>
+	<StrangerInBlackJoin.letterText>Như thể ngửi thấy mùi nguy hiểm, một {PAWN_title} bí ẩn xuất hiện.\n\nVậy thì [PAWN_pronoun] có thể giải quyết mọi thứ này không?</StrangerInBlackJoin.letterText>
+	<TraderCaravanArrival.label>Đoàn Thương Nhân</TraderCaravanArrival.label>
+	<TravelerGroup.label>Nhóm Du Khách</TravelerGroup.label>
+	<VisitorGroup.label>Nhóm Khách Thăm</VisitorGroup.label>
+</LanguageData>

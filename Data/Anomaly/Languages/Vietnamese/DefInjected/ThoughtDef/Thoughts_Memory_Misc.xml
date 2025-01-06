@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AteTwistedMeat.stages.ate_twisted_meat.label>Ăn thịt biến dạng</AteTwistedMeat.stages.ate_twisted_meat.label>
+	<AteTwistedMeat.stages.ate_twisted_meat.description>Thứ đó có kết cấu dính như vậy, tôi cảm thấy như đang ăn thịt đã bệnh hoạn. Nghĩ đến thôi cũng muốn nôn.</AteTwistedMeat.stages.ate_twisted_meat.description>
+	<BecameGhoul.stages.became_a_ghoul.label>{0} đã trở thành xác sống</BecameGhoul.stages.became_a_ghoul.label>
+	<BecameGhoul.stages.became_a_ghoul.description>Ánh mắt trống rỗng đó... còn sót lại chút nhân tính nào không?</BecameGhoul.stages.became_a_ghoul.description>
+	<BlissLobotomy.stages.bliss_lobotomy.label>Phẫu thuật não hạnh phúc</BlissLobotomy.stages.bliss_lobotomy.label>
+	<BlissLobotomy.stages.bliss_lobotomy.description>Thật vui... thật tuyệt... thật vui... thật ấm áp...</BlissLobotomy.stages.bliss_lobotomy.description>
+	<Chimera.stages.observed_chimera.label>Chứng kiến quái vật</Chimera.stages.observed_chimera.label>
+	<Chimera.stages.observed_chimera.description>Thứ sinh vật dị dạng đó, thịt xé rách... thật kinh hoàng.</Chimera.stages.observed_chimera.description>
+	<ClosedTheVoid.stages.closed_the_void.label>Đóng kín hư không</ClosedTheVoid.stages.closed_the_void.label>
+	<ClosedTheVoid.stages.closed_the_void.description>Thật không thể tin rằng mọi thứ cuối cùng đã kết thúc.</ClosedTheVoid.stages.closed_the_void.description>
+	<ClosedTheVoidOpinion.stages.closed_the_void.label>Đóng kín hư không</ClosedTheVoidOpinion.stages.closed_the_void.label>
+	<DarknessLifted.stages.unnatural_darkness_lifted.label>Đen tối bất thường đã tan biến</DarknessLifted.stages.unnatural_darkness_lifted.label>
+	<DarknessLifted.stages.unnatural_darkness_lifted.description>Ánh sáng đã trở lại! Cuối cùng tôi cũng có thể thở lại.</DarknessLifted.stages.unnatural_darkness_lifted.description>
+	<EmbracedTheVoid.stages.embraced_the_void.label>Ôm lấy hư không</EmbracedTheVoid.stages.embraced_the_void.label>
+	<EmbracedTheVoid.stages.embraced_the_void.description>Còn nhiều điều thú vị hơn đang chờ đón.</EmbracedTheVoid.stages.embraced_the_void.description>
+	<HealedMe.stages.healed_me.label>Đã chữa lành cho tôi</HealedMe.stages.healed_me.label>
+	<HeardInhumanRambling.stages.rambling.label>{0} nói lảm nhảm</HeardInhumanRambling.stages.rambling.label>
+	<HeardInhumanRambling.stages.rambling.description>{OTHERPAWN_nameDef} đang nói những điều vớ vẩn. {OTHERPAWN_pronoun} điên rồi sao?</HeardInhumanRambling.stages.rambling.description>
+	<MutatedMyArm.stages.mutated_my_arm.label>Cánh tay đã biến đổi</MutatedMyArm.stages.mutated_my_arm.label>
+	<ObeliskAbduction.stages.obelisk_abduction-0.label>Bị bắt cóc bởi cột đá</ObeliskAbduction.stages.obelisk_abduction-0.label>
+	<ObeliskAbduction.stages.obelisk_abduction-0.description>Thứ đáng sợ đó đã giam giữ tôi!</ObeliskAbduction.stages.obelisk_abduction-0.description>
+	<ObeliskAbduction.stages.obelisk_abduction-1.label>Bị bắt cóc bởi cột đá</ObeliskAbduction.stages.obelisk_abduction-1.label>
+	<ObeliskAbduction.stages.obelisk_abduction-1.description>Cột đá thiêng đã chọn tôi!</ObeliskAbduction.stages.obelisk_abduction-1.description>
+	<PlayedWithCube.stages.cube_joy.label>Niềm vui với khối lập phương</PlayedWithCube.stages.cube_joy.label>
+	<PlayedWithCube.stages.cube_joy.description>Khối lập phương tuyệt vời. Khối lập phương yêu quý của tôi. Tôi yêu nó đến chết. Nó thực sự là một tác phẩm nghệ thuật tuyệt đẹp.</PlayedWithCube.stages.cube_joy.description>
+	<PsychicRitualGuilt.stages.guilt-0.label>Hối hận sau {RITUAL}</PsychicRitualGuilt.stages.guilt-0.label>
+	<PsychicRitualGuilt.stages.guilt-0.description>Tham gia nghi lễ này khiến tôi cảm thấy tội lỗi.</PsychicRitualGuilt.stages.guilt-0.description>
+	<PsychicRitualGuilt.stages.guilt-1.label>Hối hận sau {RITUAL}</PsychicRitualGuilt.stages.guilt-1.label>
+	<PsychicRitualGuilt.stages.guilt-1.description>Nghi lễ đó là bạo lực, là tội ác. Tôi không nên tham gia.</PsychicRitualGuilt.stages.guilt-1.description>
+	<PsychicRitualGuilt.stages.guilt-2.label>Hối hận sau {RITUAL}</PsychicRitualGuilt.stages.guilt-2.label>
+	<PsychicRitualGuilt.stages.guilt-2.description>Nghi lễ đó không khác gì tra tấn. Không thể tha thứ!</PsychicRitualGuilt.stages.guilt-2.description>
+	<PsychicRitualVictim.stages.psychic_ritual_victim.label>Nạn nhân của nghi lễ tâm linh</PsychicRitualVictim.stages.psychic_ritual_victim.label>
+	<PsychicRitualVictim.stages.psychic_ritual_victim.description>Họ đã dùng tôi làm vật hiến tế cho nghi lễ ác độc đó. Âm thanh kinh hoàng đó vẫn không thể nào quên.</PsychicRitualVictim.stages.psychic_ritual_victim.description>
+	<UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.label>Giận dữ của xác chết bất thường</UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.label>
+	<UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.description>Tôi cảm thấy bị xác chết đó ám ảnh, nó đang ở đó. Nó đầy những suy nghĩ về tôi và căm ghét tôi.</UnnaturalCorpseDestroyed.stages.unnatural_corpse_is_angry.description>
+	<VoidCatharsis.stages.void_catharsis.label>Trạng thái không có suy nghĩ</VoidCatharsis.stages.void_catharsis.label>
+	<VoidCatharsis.stages.void_catharsis.description>Những ý nghĩ điên rồ đã từng ám ảnh tôi. Bây giờ chúng đã biến mất, chỉ là tạm thời.</VoidCatharsis.stages.void_catharsis.description>
+	<VoidClosed.stages.void_closed.label>Hư không đã đóng lại</VoidClosed.stages.void_closed.label>
+	<VoidClosed.stages.void_closed.description>Chúng ta giờ có thể ngủ một giấc ngon. Những thứ đó sẽ không quay lại trong thời gian ngắn.</VoidClosed.stages.void_closed.description>
+	<VoidCuriosity.stages.Void_curiosity.label>Khám phá hư không</VoidCuriosity.stages.Void_curiosity.label>
+	<VoidCuriosity.stages.Void_curiosity.description>Chúng ta nên tổ chức một nghi lễ để khuấy động những thứ trong hư không. Có thể chúng ta sẽ phát hiện ra điều gì kỳ lạ?</VoidCuriosity.stages.Void_curiosity.description>
+	<VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>Thỏa mãn sự tò mò về hư không</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>
+	<VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>Không uổng công.</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>
+</LanguageData>

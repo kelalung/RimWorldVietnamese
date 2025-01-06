@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Affair.stages.affair.label>Cuộc tình</Affair.stages.affair.label>
+	<AnnoyingVoice.stages.annoying_voice.label>Giọng nói khó chịu</AnnoyingVoice.stages.annoying_voice.label>
+	<AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>Đã ăn thịt người sống</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+	<BodyPuristDisgust.stages.body_purist_disgust-0.label>Ghê tởm thuần khiết</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+	<BodyPuristDisgust.stages.body_purist_disgust-1.label>Ghê tởm thuần khiết</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+	<BodyPuristDisgust.stages.body_purist_disgust-2.label>Ghê tởm thuần khiết</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+	<BodyPuristDisgust.stages.body_purist_disgust-3.label>Ghê tởm thuần khiết</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+	<BodyPuristDisgust.stages.body_purist_disgust-4.label>Ghê tởm thuần khiết</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+	<BondedAnimalMaster.stages.s_master.label>Chủ của {0}</BondedAnimalMaster.stages.s_master.label>
+	<BondedAnimalMaster.stages.s_master.description>Ở bên cạnh động vật gắn bó của tôi khiến tôi cảm thấy rất tốt.</BondedAnimalMaster.stages.s_master.description>
+	<BondedAnimalMaster.stages.master_of.label>Chủ của {0}</BondedAnimalMaster.stages.master_of.label>
+	<BondedAnimalMaster.stages.master_of.description>Ở bên cạnh những động vật gắn bó của tôi khiến tôi cảm thấy rất tốt.</BondedAnimalMaster.stages.master_of.description>
+	<ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>Sở thích hóa chất VS Ghét nghiện</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+	<CreepyBreathing.stages.creepy_breathing.label>Âm thanh thở ghê rợn</CreepyBreathing.stages.creepy_breathing.label>
+	<Disfigured.stages.disfigured.label>Bị biến dạng</Disfigured.stages.disfigured.label>
+	<Drunk.stages.drunk.label>Say rượu</Drunk.stages.drunk.label>
+	<ExecutedPrisoner.stages.executed_prisoner.label>Đã xử án tử hình tù nhân</ExecutedPrisoner.stages.executed_prisoner.label>
+	<HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>Chăm chỉ VS Lười biếng</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+	<HoldingMePrisoner.stages.holding_me_prisoner.label>Đã giam giữ tôi</HoldingMePrisoner.stages.holding_me_prisoner.label>
+	<Incestuous.stages.incestuous.label>Loạn luân</Incestuous.stages.incestuous.label>
+	<KilledColonist.stages.killed_colonist.label>Đã giết chết người thuộc địa</KilledColonist.stages.killed_colonist.label>
+	<KilledColonyAnimal.stages.killed_colony_animal.label>Đã giết chết động vật thuộc địa</KilledColonyAnimal.stages.killed_colony_animal.label>
+	<Man.stages.man.label>Ghét đàn ông</Man.stages.man.label>
+	<NotBondedAnimalMaster.stages.not_s_master.label>Không phải là chủ của {0}</NotBondedAnimalMaster.stages.not_s_master.label>
+	<NotBondedAnimalMaster.stages.not_s_master.description>Tôi nên ở bên cạnh động vật gắn bó của mình.</NotBondedAnimalMaster.stages.not_s_master.description>
+	<NotBondedAnimalMaster.stages.not_master_of.label>Không phải là chủ của {0}</NotBondedAnimalMaster.stages.not_master_of.label>
+	<NotBondedAnimalMaster.stages.not_master_of.description>Tôi nên ở bên cạnh những động vật gắn bó của mình.</NotBondedAnimalMaster.stages.not_master_of.description>
+	<OpinionOfMyLover.stages.opinion_of_my.label>Cảm giác khi ở bên {0}{1}</OpinionOfMyLover.stages.opinion_of_my.label>
+	<OpinionOfMyLover.stages.opinion_of_my.description>Ở bên người yêu khiến tôi có cảm giác này.</OpinionOfMyLover.stages.opinion_of_my.description>
+	<Pretty.stages.physically_appealing.label>Hấp dẫn</Pretty.stages.physically_appealing.label>
+	<Pretty.stages.physically_stunning.label>Rất quyến rũ</Pretty.stages.physically_stunning.label>
+	<SoldPrisoner.stages.sold_prisoner_to_slavery.label>Đã bán tù nhân làm nô lệ</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+	<TeetotalerVsAddict.stages.teetotaler_vs_addict.label>Ghét nghiện VS Người nghiện</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+	<TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>Ghét nghiện VS Sở thích hóa chất</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+	<TranshumanistAppreciation.stages.body_modder_appreciation-0.label>Đánh giá siêu nhân</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+	<TranshumanistAppreciation.stages.body_modder_appreciation-1.label>Đánh giá siêu nhân</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+	<TranshumanistAppreciation.stages.body_modder_appreciation-2.label>Đánh giá siêu nhân</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+	<TranshumanistAppreciation.stages.body_modder_appreciation-3.label>Đánh giá siêu nhân</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+	<TranshumanistAppreciation.stages.body_modder_appreciation-4.label>Đánh giá siêu nhân</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+	<Ugly.stages.physically_unsightly.label>Xấu xí</Ugly.stages.physically_unsightly.label>
+	<Ugly.stages.physically_hideous.label>Ghê tởm</Ugly.stages.physically_hideous.label>
+	<WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>Ngủ một mình</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+	<WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Tôi nên ngủ với người yêu hoặc vợ/chồng của mình.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+	<Woman.stages.woman.label>Ghét phụ nữ</Woman.stages.woman.label>
+</LanguageData>

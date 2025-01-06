@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GameplayTips.DismissLetters>Bạn có thể nhấp chuột phải vào biểu tượng "bao thư" ở phía bên phải màn hình để loại bỏ chúng.</GameplayTips.DismissLetters>
+	<GameplayTips.QueueOrders>Bạn có thể giữ phím Shift để xếp hàng các công việc và hành động của người định cư.</GameplayTips.QueueOrders>
+	<GameplayTips.ReorderColonistbar>Bạn có thể nhấp chuột phải và kéo biểu tượng của người định cư để sắp xếp lại thứ tự của họ.</GameplayTips.ReorderColonistbar>
+	<GameplayTips.SelectPrevNextColonist>Bạn có thể nhấn phím “,” và “.” để nhanh chóng chọn người định cư trước đó hoặc tiếp theo.</GameplayTips.SelectPrevNextColonist>
+	<GameplayTips.SettingPainting>Nhiều danh sách tại các bàn làm việc cho phép bạn nhấp và sao chép các cài đặt liên quan. Điều này thậm chí bao gồm các nội dung liên quan đến quần áo hoặc thực phẩm.</GameplayTips.SettingPainting>
+	<GameplayTips.ManualPriorities>Trong chế độ ưu tiên thủ công của tab "Công việc", ưu tiên "1" cao nhất, ưu tiên "4" thấp nhất.</GameplayTips.ManualPriorities>
+	<GameplayTips.ColonistMood>Tâm trạng của mỗi người định cư sẽ được hiển thị trong nền của biểu tượng nhân vật trên thanh biểu tượng người định cư ở đầu màn hình.</GameplayTips.ColonistMood>
+	<GameplayTips.WorkTabChangeAllColonists>Khi ở tab "Công việc", giữ phím Shift và nhấp vào tên loại công việc sẽ thay đổi cài đặt đó cho tất cả người định cư cùng một lúc.</GameplayTips.WorkTabChangeAllColonists>
+	<GameplayTips.WorkTabDecreasePriority>Trong chế độ ưu tiên thủ công của tab "Công việc", nhấp chuột phải vào số sẽ giảm ưu tiên.</GameplayTips.WorkTabDecreasePriority>
+	<GameplayTips.CellInspector>Bạn có thể giữ phím alt để hiển thị thông tin chi tiết về ô cụ thể.</GameplayTips.CellInspector>
+	<GameplayTips.GunfightCover>Trong các cuộc chiến, hãy luôn trốn sau chỗ che. Giữ chuột phải và kéo để xếp hàng các chiến binh bạn triệu tập.</GameplayTips.GunfightCover>
+	<GameplayTips.GunfightSpread>Giữ chuột phải và kéo để xếp hàng các chiến binh bạn triệu tập. Tập trung lại dễ bị trúng đạn hơn.</GameplayTips.GunfightSpread>
+	<GameplayTips.ShootingAccuracySmoke>Các tháp canh không thể khóa và bắn vào mục tiêu trong khói, nhưng người khác vẫn có thể bắn vào mục tiêu trong khói với độ chính xác thấp hơn.</GameplayTips.ShootingAccuracySmoke>
+	<GameplayTips.DesignDefenses>Vì kẻ thù sẽ tấn công bằng cách sử dụng khoang vận chuyển hoặc đào đường hầm, hãy xây dựng các vị trí phòng thủ bên trong.</GameplayTips.DesignDefenses>
+	<GameplayTips.ShootingAccuracyFogRain>Sương mù hoặc thời tiết mưa tuyết sẽ giảm độ chính xác của vũ khí tầm xa.</GameplayTips.ShootingAccuracyFogRain>
+	<GameplayTips.ShootingTooltip>Bạn có thể phân tích tỷ lệ trúng đích bằng cách chọn người bắn và di chuột lên mục tiêu.</GameplayTips.ShootingTooltip>
+	<GameplayTips.TurretsExplode>Các tháp canh có thể phát nổ khi chịu nhiều sát thương. Vì vậy, đừng đặt các tháp canh gần nhau và đừng để người định cư đứng quá gần tháp canh.</GameplayTips.TurretsExplode>
+	<GameplayTips.AnimalDeathExplosion>Một số động vật sẽ phát nổ khi chết. Bạn có thể sử dụng khoang vận chuyển để gửi chúng như một "món quà" cho kẻ thù, hãy phát huy trí tưởng tượng của bạn.</GameplayTips.AnimalDeathExplosion>
+	<GameplayTips.CallAllies>Nếu bạn cần hỗ trợ trong trận chiến, hãy sử dụng trạm liên lạc để gọi đồng minh của bạn.</GameplayTips.CallAllies>
+	<GameplayTips.MaddenedAnimals>Động vật điên cuồng sẽ tấn công bất kỳ ai, bao gồm cả kẻ thù của bạn. Bạn có thể tận dụng điều này một cách khéo léo.</GameplayTips.MaddenedAnimals>
+	<GameplayTips.EMPDisablesTurretsShields>Cú đánh EMP sẽ tạm thời làm tê liệt các tháp canh và ngay lập tức tiêu hao năng lượng của lá chắn.</GameplayTips.EMPDisablesTurretsShields>
+	<GameplayTips.EMPDisablesPersonalShields>Cú đánh EMP sẽ ngay lập tức tiêu hao năng lượng của lá chắn cá nhân.</GameplayTips.EMPDisablesPersonalShields>
+	<GameplayTips.HunterStealth>Thuộc tính ẩn nấp khi săn bắn có thể giảm khả năng bị động vật tấn công chủ động, thuộc tính này bị ảnh hưởng bởi cấp độ bắn súng và kỹ năng thuần hóa của người định cư.</GameplayTips.HunterStealth>
+	<GameplayTips.AnimalsAttackCloseRange>Động vật có xu hướng tấn công chủ động hơn khi bị thương ở cự ly gần. Sử dụng vũ khí tầm xa chậm để săn bắn là an toàn nhất.</GameplayTips.AnimalsAttackCloseRange>
+	<GameplayTips.AnimalsMayAttack>Khi bạn cố gắng săn một nhóm lớn động vật, chúng có thể tấn công bạn cùng một lúc. Hãy đánh giá rủi ro săn bắn trước hoặc chọn con mồi đơn lẻ và yếu hơn.</GameplayTips.AnimalsMayAttack>
+	<GameplayTips.AnimalDeathExplosionRain>Bạn có thể săn những động vật phát nổ khi trời mưa, vụ nổ khi chúng chết sẽ không gây cháy rừng.</GameplayTips.AnimalDeathExplosionRain>
+	<GameplayTips.GreaterSlaughterYield>Những động vật được mổ cẩn thận sẽ cho nhiều thịt và da hơn so với những con bị giết một cách thô bạo.</GameplayTips.GreaterSlaughterYield>
+	<GameplayTips.CaravanHitchingSpot>Đặt một điểm kéo xe ở vị trí bạn muốn thành lập đoàn xe. Tốt nhất là có một điểm gần khu vực lưu trữ.</GameplayTips.CaravanHitchingSpot>
+	<GameplayTips.CaravanHitchingSpotRoamers>Khi bạn ra ngoài để đi xa, bạn có thể chỉ định một điểm kéo để tránh cho động vật của bạn đi lang thang.</GameplayTips.CaravanHitchingSpotRoamers>
+	<GameplayTips.CaravanRideableAnimals>Nếu đoàn xe có các động vật có thể cưỡi như ngựa, lừa và lạc đà một bướu, thì tốc độ di chuyển của đoàn xe sẽ nhanh hơn.</GameplayTips.CaravanRideableAnimals>
+	<GameplayTips.CaravanSmallerLessVisible>Đoàn xe càng nhỏ thì càng khó bị phát hiện và bị phục kích.</GameplayTips.CaravanSmallerLessVisible>
+	<GameplayTips.CaravanStockpileNearPackingSpot>Tập trung hàng hóa cần mang theo gần điểm kéo trước khi thành lập đoàn xe sẽ tăng hiệu quả thu thập.</GameplayTips.CaravanStockpileNearPackingSpot>
+	<GameplayTips.CaravanUntrainedAnimals>Nếu đoàn xe của bạn có động vật chưa được huấn luyện, bạn có thể tách chúng thành các đoàn xe riêng lẻ trước khi chiến đấu để phòng ngừa sự cố.</GameplayTips.CaravanUntrainedAnimals>
+	<GameplayTips.CaravanDontForgetMedicine>Đừng quên trang bị thuốc cho đoàn xe của bạn.</GameplayTips.CaravanDontForgetMedicine>
+	<GameplayTips.StoryGenerator>RimWorld là một máy tạo câu chuyện chứ không phải là một hệ thống kiểm tra kỹ năng. Sự sụp đổ của thuộc địa chỉ là một bi kịch, không phải là thất bại.</GameplayTips.StoryGenerator>
+	<GameplayTips.BadAllies>Một số người định cư thậm chí còn tệ hơn cả việc không có gì, những "quả bom hẹn giờ" này cũng là một phần của thử thách.</GameplayTips.BadAllies>
+	<GameplayTips.MakeCaravanRunBeforeDefeat>Nếu bạn đã cố gắng hết sức mà không thể giữ được nhà cửa, hãy dẫn đoàn xe của bạn rời đi. Bạn có thể mất quê hương, nhưng câu chuyện vẫn sẽ tiếp tục.</GameplayTips.MakeCaravanRunBeforeDefeat>
+	<GameplayTips.FixedWealthMode>Càng có nhiều tài sản, kẻ thù của bạn sẽ càng mạnh. Nếu bạn muốn độ khó chỉ thay đổi theo thời gian, bạn có thể bật "Chế độ tài sản cố định" trong giao diện chọn người kể chuyện.</GameplayTips.FixedWealthMode>
+	<GameplayTips.StoneDoors>Cố gắng tránh xây dựng cửa bằng đá, tốc độ mở chậm sẽ lãng phí thời gian của người định cư.</GameplayTips.StoneDoors>
+	<GameplayTips.ChairsWorkbench>Đặt một chiếc ghế trước bàn làm việc để người định cư có thể làm việc thoải mái hơn.</GameplayTips.ChairsWorkbench>
+	<GameplayTips.MechanicalBreakdown>Các công trình cơ khí như bàn làm việc điện, máy làm lạnh, máy phát điện sẽ hỏng theo thời gian sử dụng, điều này sẽ tiêu tốn nhiều linh kiện. Vì vậy, đừng xây dựng những thứ bạn không cần.</GameplayTips.MechanicalBreakdown>
+	<GameplayTips.CarefulConstructionOnBridges>Hãy cẩn thận khi xây dựng trên cầu. Cầu rất dễ bị hư hại dưới các cuộc tấn công nổ, và các công trình trên cầu cũng sẽ bị chìm theo.</GameplayTips.CarefulConstructionOnBridges>
+	<GameplayTips.CleanRooms>Môi trường sạch sẽ có thể tăng tốc độ nghiên cứu, cải thiện hiệu quả y tế và giảm nguy cơ ngộ độc thực phẩm. Phòng lát gạch vô trùng dễ dàng đạt được những mục tiêu này hơn.</GameplayTips.CleanRooms>
+	<GameplayTips.ColonyOneStructure>Tập trung xây dựng tất cả các cơ sở của thuộc địa trong một tòa nhà có thể tiết kiệm tài nguyên, nhưng rủi ro tương ứng là khó kiểm soát hỏa hoạn.</GameplayTips.ColonyOneStructure>
+	<GameplayTips.TerrainMovementSpeed>Địa hình sẽ ảnh hưởng đến tốc độ di chuyển. Hãy xây dựng sàn để giúp người định cư di chuyển nhanh hơn.</GameplayTips.TerrainMovementSpeed>
+	<GameplayTips.TerrainCleanliness>Các loại địa hình khác nhau có độ sạch cơ bản khác nhau. Ví dụ, gạch tự nó là sạch, trong khi đất là bẩn.</GameplayTips.TerrainCleanliness>
+	<GameplayTips.TerrainCleanSpeed>Các loại sàn khác nhau có tốc độ làm sạch khác nhau. So với sàn kim loại, làm sạch thảm sẽ mất nhiều thời gian hơn.</GameplayTips.TerrainCleanSpeed>
+	<GameplayTips.PrisonersAsGifts>Bạn có thể cải thiện mối quan hệ với các phe phái bằng cách thả tự do cho tù nhân.</GameplayTips.PrisonersAsGifts>
+	<GameplayTips.RequestTradeCaravans>Bạn có thể sử dụng trạm liên lạc để liên hệ với các phe phái có quan hệ trung lập trở lên và yêu cầu họ gửi các đoàn thương mại cụ thể.</GameplayTips.RequestTradeCaravans>
+	<GameplayTips.TransportPodsSendGift>Bạn có thể sử dụng khoang vận chuyển để gửi quà trực tiếp đến căn cứ của các phe phái khác — thậm chí bao gồm cả kẻ thù của bạn, điều này sẽ cải thiện mối quan hệ giữa hai bên.</GameplayTips.TransportPodsSendGift>
+	<GameplayTips.KeepingPrisonersTogether>Giữ tù nhân tập trung có thể tiết kiệm không gian, nhưng họ cũng dễ dàng vượt ngục tập thể hơn.</GameplayTips.KeepingPrisonersTogether>
+	<GameplayTips.EnemyFactionBaseDefenses>Các căn cứ phe địch được bảo vệ nghiêm ngặt, bạn thường không cần tấn công. Nhưng nếu bạn định thử, hãy chuẩn bị kỹ càng.</GameplayTips.EnemyFactionBaseDefenses>
+	<GameplayTips.AnimalNuzzle>Động vật dễ thương đã được thuần hóa sẽ thể hiện tình cảm với người định cư của bạn, điều này sẽ khiến họ có tâm trạng tốt.</GameplayTips.AnimalNuzzle>
+	<GameplayTips.AnimalHerbivorousGrassArea>Động vật ăn cỏ có thể tiết kiệm thức ăn bằng cách chăn thả trên cỏ.</GameplayTips.AnimalHerbivorousGrassArea>
+	<GameplayTips.RemoveLimbInfection>Nếu chi bị nhiễm trùng nặng, có thể cứu sống nạn nhân bằng cách cắt bỏ chi đó.</GameplayTips.RemoveLimbInfection>
+	<GameplayTips.SloshingWater>Di chuyển trong nước sẽ khiến người ướt sũng và cảm thấy khó chịu, nếu có thể hãy xây một cây cầu.</GameplayTips.SloshingWater>
+	<GameplayTips.Luciferium>Luciferium có thể chữa lành sẹo theo thời gian — thậm chí bao gồm cả tổn thương vĩnh viễn trên mắt hoặc não. Nhưng đổi lại, người sử dụng cũng sẽ ký một hợp đồng vĩnh viễn.</GameplayTips.Luciferium>
+	<GameplayTips.WorkMovementSpeedLighting>Tốc độ làm việc và di chuyển sẽ bị ảnh hưởng bởi ánh sáng. Trong môi trường tối, mọi thứ sẽ kém hiệu quả hơn.</GameplayTips.WorkMovementSpeedLighting>
+	<GameplayTips.DeepCavesTemperature>Khi đối mặt với khí hậu cực đoan, nhiệt độ trong các hang động sâu dưới đá dày vẫn giữ được tự nhiên và ổn định.</GameplayTips.DeepCavesTemperature>
+	<GameplayTips.MountainBases>Các thuộc địa ở địa hình núi rất dễ phòng thủ. Nhược điểm là con người sẽ dành nhiều thời gian trong hang động, và có thể gặp phải dịch bệnh bất ngờ.</GameplayTips.MountainBases>
+	<GameplayTips.PrisonersGoodMood>Tù nhân có tâm trạng tốt dễ dàng giảm kháng cự và bị thuyết phục tham gia.</GameplayTips.PrisonersGoodMood>
+	<GameplayTips.MultipleResearchers>Bạn có thể trang bị nhiều bàn nghiên cứu cho nhiều nhà nghiên cứu để tăng tốc độ nghiên cứu.</GameplayTips.MultipleResearchers>
+	<GameplayTips.GeysersHeatRooms>Các suối nước nóng kín sẽ làm tăng nhiệt độ trong phòng, điều này có thể mang lại nguy hiểm nhưng cũng tạo cơ hội cho bạn.</GameplayTips.GeysersHeatRooms>
+	<GameplayTips.ExtinguishFireArtillery>Những vụ nổ có thể dập tắt ngọn lửa trong bán kính nổ. Điều này cho phép đạn pháo có thể được sử dụng để dập lửa khi không còn lựa chọn nào khác.</GameplayTips.ExtinguishFireArtillery>
+	<GameplayTips.BestStoriesFromDarkestSituations>Dù bị tổn thất nặng nề cũng không có nghĩa là câu chuyện đã kết thúc. Hãy cố gắng để một trận chiến thất bại đi đến cùng — hương thơm từ hoa mai đến từ những ngày đông lạnh giá.</GameplayTips.BestStoriesFromDarkestSituations>
+	<GameplayTips.KeepWeaponsAwayFromPrisoners>Giữ kho vũ khí xa khỏi nhà tù. Với súng và chất nổ, việc vượt ngục sẽ trở nên nguy hiểm hơn.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+	<GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Khi thuần hóa động vật, hãy đảm bảo bạn có đủ loại thức ăn phù hợp để nuôi chúng.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+	<GameplayTips.DroppingChunksWillForceDoorsOpen>Ném một viên đá hoặc mảnh vụn ở cửa sẽ buộc nó mở ra, khiến bạn dễ bị tấn công bởi động vật hoang dã và kẻ tấn công.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+	<GameplayTips.CleanLabs>Phòng thí nghiệm sạch sẽ sẽ giúp nghiên cứu của bạn nhanh chóng và hiệu quả hơn, trải gạch vô trùng là một ý tưởng tốt.</GameplayTips.CleanLabs>
+	<GameplayTips.ChangeStoryteller>Bạn có thể thay đổi người kể chuyện và độ khó của trò chơi bất cứ lúc nào thông qua menu tùy chọn.</GameplayTips.ChangeStoryteller>
+	<GameplayTips.MoreAlliesMoreTraders>Càng nhiều phe phái bạn liên minh, càng nhiều hoạt động thương mại và sự hỗ trợ quân sự bạn có thể nhận được.</GameplayTips.MoreAlliesMoreTraders>
+	<GameplayTips.CombatDrugsFromInventory>Bạn có thể thiết lập kế hoạch cho các chất gây nghiện để chiến binh của bạn mang theo các vật phẩm tăng cường chiến đấu như nước tăng lực. Điều này cho phép sử dụng nhanh chóng trước khi trận chiến bắt đầu.</GameplayTips.CombatDrugsFromInventory>
+	<GameplayTips.SchedulesSetLong>Thiết lập một kế hoạch dài hạn để giảm thiểu thời gian di chuyển.</GameplayTips.SchedulesSetLong>
+	<GameplayTips.StrawMatting>Thảm rơm không bị bẩn. Sử dụng nó làm sàn cho chuồng gia súc là rất hợp lý.</GameplayTips.StrawMatting>
+	<GameplayTips.AnimalFilth>Một số động vật sẽ tạo ra nhiều chất bẩn. Tốt nhất là để voi và bò của bạn ở ngoài trời.</GameplayTips.AnimalFilth>
+	<GameplayTips.PredatorsAndFences>Các loài ăn thịt ít có khả năng săn mồi ở bên kia hàng rào hoặc chướng ngại vật.</GameplayTips.PredatorsAndFences>
+	<GameplayTips.NeverGameOver>Trò chơi sẽ không bao giờ kết thúc. Ngay cả khi tất cả người định cư đều chết hoặc rời đi, bạn vẫn có thể chờ đợi những kẻ lãng du mới đến tiếp quản thuộc địa của bạn.</GameplayTips.NeverGameOver>
+	<GameplayTips.StoreBooksInBookcases>Đặt sách vào tủ sách. Điều này không chỉ làm tăng tính thẩm mỹ của phòng mà còn tăng tốc độ nghiên cứu của bàn gần đó, cũng như tăng kinh nghiệm và giá trị giải trí từ việc đọc sách.</GameplayTips.StoreBooksInBookcases>
+	<GameplayTips.TakeToShelves>Bạn muốn chuyển các vật phẩm mới sản xuất đến kệ đã chỉ định? Một khi một kệ được đặt tên hoặc liên kết với các kệ khác, nó có thể được tìm thấy như một điểm đến trong danh sách sản xuất "Chi tiết".</GameplayTips.TakeToShelves>
+	<GameplayTips.ChangeUnits>Bạn có thể chuyển đồng hồ sang định dạng 12 giờ hoặc chuyển từ Celsius sang Fahrenheit trong tùy chọn.</GameplayTips.ChangeUnits>
+	<GameplayTips.TargetColonistBar>Khi mục tiêu của đối tượng là người định cư, bạn có thể nhắm trực tiếp vào biểu tượng của họ ở phía trên màn hình.</GameplayTips.TargetColonistBar>
+</LanguageData>

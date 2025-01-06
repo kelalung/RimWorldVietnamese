@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AteWithoutTable.stages.ate_without_table.label>Ăn trên mặt đất</AteWithoutTable.stages.ate_without_table.label>
+	<AteWithoutTable.stages.ate_without_table.description>Tôi buộc phải ăn trên mặt đất. Chúng ta không thể có một cái bàn sao?</AteWithoutTable.stages.ate_without_table.description>
+	<BondedAnimalBanished.stages.bonded_animal_banished.label>Động vật gắn bó {0} bị lưu đày</BondedAnimalBanished.stages.bonded_animal_banished.label>
+	<BondedAnimalBanished.stages.bonded_animal_banished.description>Động vật gắn bó của tôi bị lưu đày đến một nơi hoang vắng!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+	<ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Đã mổ thịt người</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+	<ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Tôi đã mổ thịt người như động vật!</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+	<ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>Đã mổ thịt người</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+	<Catharsis.stages.catharsis.label>Giải tỏa cảm xúc</Catharsis.stages.catharsis.label>
+	<Catharsis.stages.catharsis.description>Cảm giác giải tỏa áp lực thật tuyệt vời.</Catharsis.stages.catharsis.description>
+	<ColonistBanished.stages.colonist_banished.label>Người thuộc địa bị lưu đày</ColonistBanished.stages.colonist_banished.label>
+	<ColonistBanished.stages.colonist_banished.description>Chúng tôi vừa mới lưu đày một số người. Tôi hy vọng họ sẽ ổn, nhưng tôi thật sự lo lắng.</ColonistBanished.stages.colonist_banished.description>
+	<ColonistBanishedToDie.stages.colonist_banished_to_death.label>Người thuộc địa bị lưu đày chờ chết</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+	<ColonistBanishedToDie.stages.colonist_banished_to_death.description>Chúng tôi vừa mới lưu đày một số người, họ gần như không thể sống sót.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+	<ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Tù nhân thuộc địa đã trốn thoát</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+	<ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Chúng ta không thể kiểm soát người của mình sao? Tôi cảm thấy bất cứ điều gì cũng có thể xảy ra với tôi ở đây.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+	<DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>Đánh bại lãnh đạo thù địch {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+	<DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Họ đã cố gắng phá hủy chúng ta dưới sự chỉ huy của lãnh đạo, nhưng tôi đã giải quyết mọi thứ!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+	<DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>Đánh bại lãnh đạo thù địch</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+	<DefeatedInsectHive.stages.defeated_insect_hive.label>Đánh bại tổ côn trùng</DefeatedInsectHive.stages.defeated_insect_hive.label>
+	<DefeatedInsectHive.stages.defeated_insect_hive.description>Côn trùng chết mới là côn trùng tốt!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+	<DefeatedMechCluster.stages.defeated_mech_cluster.label>Phá hủy cụm máy móc</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+	<DefeatedMechCluster.stages.defeated_mech_cluster.description>Máu nóng thắng thế máy móc, những đống sắt chết tiệt!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+	<DeniedJoining.stages.denied_joining.label>Từ chối gia nhập</DeniedJoining.stages.denied_joining.label>
+	<DeniedJoining.stages.denied_joining.description>Chúng tôi vừa từ chối yêu cầu gia nhập của ai đó. Tôi hy vọng họ có thể thành công.</DeniedJoining.stages.denied_joining.description>
+	<FailedToRescueRelative.stages.failed_to_rescue.label>Không cứu được {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
+	<FailedToRescueRelative.stages.failed_to_rescue.description>Chúng tôi đã không cứu được người thân của tôi. Tôi lẽ ra có thể giúp đỡ!</FailedToRescueRelative.stages.failed_to_rescue.description>
+	<FreedFromSlavery.stages.freed_from_slavery.label>Giải thoát khỏi nô lệ</FreedFromSlavery.stages.freed_from_slavery.label>
+	<FreedFromSlavery.stages.freed_from_slavery.description>Tôi cuối cùng không còn là nô lệ nữa, thật biết ơn!</FreedFromSlavery.stages.freed_from_slavery.description>
+	<HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>Thu hoạch nội tạng (khát máu)</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+	<HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Ôi! Máu! Thịt sống thật sự rất thỏa mãn!</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+	<KilledHumanlikeBloodlust.stages.killed_someone.label>Đã giết người</KilledHumanlikeBloodlust.stages.killed_someone.label>
+	<KilledHumanlikeBloodlust.stages.killed_someone.description>Tôi đã tự tay giết một người! Thật tuyệt vời!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+	<KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>Chôn cất trong quan tài</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+	<KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Thuộc địa này vừa mới chôn một người trong một chiếc quan tài lộng lẫy, cầu mong linh hồn họ được yên nghỉ.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+	<KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>Có người đã bị mổ</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+	<KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Chúng tôi đã mổ người như động vật.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+	<KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>Nội tạng của người thuộc địa bị thu hoạch</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+	<KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Thuộc địa này sẽ thu hoạch nội tạng của người thuộc địa, tháo rời người ra thành từng bộ phận mà không có sự lựa chọn nào, thật là kinh khủng!</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+	<KnowGuestOrganHarvested.stages.someones_organ_harvested.label>Nội tạng của ai đó bị thu hoạch</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+	<KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Thuộc địa này sẽ thu hoạch nội tạng của tù nhân hoặc khách mời, tháo rời người ra thành từng bộ phận mà không có sự lựa chọn nào, thật là kinh khủng!</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+	<KnowPrisonerSold.stages.prisoner_sold.label>Tù nhân bị bán</KnowPrisonerSold.stages.prisoner_sold.label>
+	<KnowPrisonerSold.stages.prisoner_sold.description>Thuộc địa này sẽ bán tù nhân cho bọn buôn nô lệ, thật khiến tôi lo lắng.</KnowPrisonerSold.stages.prisoner_sold.description>
+	<MyOrganHarvested.stages.my_organ_harvested.label>Nội tạng bị thu hoạch</MyOrganHarvested.stages.my_organ_harvested.label>
+	<MyOrganHarvested.stages.my_organ_harvested.description>Thuộc địa này đã thu hoạch nội tạng của tôi! Họ đang tháo tôi ra như tháo một chiếc máy cũ!</MyOrganHarvested.stages.my_organ_harvested.description>
+	<NewColonyHope.stages.initial_hope.label>Hy vọng của thuộc địa mới</NewColonyHope.stages.initial_hope.label>
+	<NewColonyHope.stages.initial_hope.description>Tôi đã bắt đầu quen với nơi này, nhưng vẫn còn nhiều thử thách thú vị, tôi hy vọng tương lai sẽ suôn sẻ...</NewColonyHope.stages.initial_hope.description>
+	<NewColonyOptimism.stages.initial_optimism.label>Thái độ lạc quan của thuộc địa mới</NewColonyOptimism.stages.initial_optimism.label>
+	<NewColonyOptimism.stages.initial_optimism.description>Chúng tôi vừa mới đến đây, còn nhiều vấn đề phải vượt qua, nhưng tôi cảm thấy hào hứng khi có thể xây dựng một thuộc địa mới.</NewColonyOptimism.stages.initial_optimism.description>
+	<Nuzzled.stages.nuzzled.label>Bị âu yếm</Nuzzled.stages.nuzzled.label>
+	<Nuzzled.stages.nuzzled.description>Một con vật dễ thương vừa đến cọ cọ tôi.</Nuzzled.stages.nuzzled.description>
+	<ObservedLayingCorpse.stages.observed_corpse.label>Thấy xác chết</ObservedLayingCorpse.stages.observed_corpse.label>
+	<ObservedLayingCorpse.stages.observed_corpse.description>Tôi thấy một xác chết nằm trên đất, thật khó chịu.</ObservedLayingCorpse.stages.observed_corpse.description>
+	<ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>Thấy xác chết đang phân hủy</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+	<ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Tôi thấy một xác chết đang phân hủy nằm trên đất. Thật kinh khủng.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+	<OnDuty.stages.on_duty.label>Nhiệm vụ</OnDuty.stages.on_duty.label>
+	<OnDuty.stages.on_duty.description>Tôi có một công việc phải làm.</OnDuty.stages.on_duty.description>
+	<PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>Tù nhân bị lưu đày chờ chết</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+	<PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Chúng tôi vừa mới lưu đày tù nhân, họ gần như không thể sống sót.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+	<PyroUsed.stages.used_flame_weapon.label>Sử dụng vũ khí lửa</PyroUsed.stages.used_flame_weapon.label>
+	<PyroUsed.stages.used_flame_weapon.description>Những kẻ thù trong ngọn lửa rực rỡ thật đẹp mắt!</PyroUsed.stages.used_flame_weapon.description>
+	<ReleasedHealthyPrisoner.stages.prisoner_released.label>Tù nhân được thả</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+	<ReleasedHealthyPrisoner.stages.prisoner_released.description>Một tù nhân khỏe mạnh đã được thả. Thật tuyệt khi chúng ta có thể đối xử tốt với tù nhân.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+	<Rescued.stages.rescued.label>Được cứu</Rescued.stages.rescued.label>
+	<Rescued.stages.rescued.description>Tôi đã được cứu! Tôi thậm chí đã từ bỏ hy vọng. Thật biết ơn.</Rescued.stages.rescued.description>
+	<RescuedRelative.stages.rescued.label>Cứu được {0}</RescuedRelative.stages.rescued.label>
+	<RescuedRelative.stages.rescued.description>Chúng tôi đã cứu được một người thân của tôi. Đã an toàn, cuối cùng cũng có thể thở phào.</RescuedRelative.stages.rescued.description>
+	<SleepDisturbed.stages.disturbed_sleep.label>Giấc ngủ bị quấy rối</SleepDisturbed.stages.disturbed_sleep.label>
+	<SleepDisturbed.stages.disturbed_sleep.description>Khi tôi ngủ, có người đi lại gần đó, tôi hy vọng có một phòng riêng tư.</SleepDisturbed.stages.disturbed_sleep.description>
+	<SleptInCold.stages.slept_in_the_cold.label>Ngủ trong lạnh</SleptInCold.stages.slept_in_the_cold.label>
+	<SleptInCold.stages.slept_in_the_cold.description>Tôi ngủ trong cái lạnh quá mức, chúng ta nên có một số thiết bị sưởi ấm.</SleptInCold.stages.slept_in_the_cold.description>
+	<SleptInHeat.stages.slept_in_the_heat.label>Ngủ trong nóng</SleptInHeat.stages.slept_in_the_heat.label>
+	<SleptInHeat.stages.slept_in_the_heat.description>Tôi ngủ trong cái nóng quá mức, điều hòa không khí của chúng ta đâu rồi?</SleptInHeat.stages.slept_in_the_heat.description>
+	<SleptOnGround.stages.slept_on_ground.label>Ngủ trên mặt đất</SleptOnGround.stages.slept_on_ground.label>
+	<SleptOnGround.stages.slept_on_ground.description>Tôi ngủ trên mặt đất như một con thú.</SleptOnGround.stages.slept_on_ground.description>
+	<SleptOutside.stages.slept_outside.label>Ngủ ngoài trời</SleptOutside.stages.slept_outside.label>
+	<SleptOutside.stages.slept_outside.description>Tôi không còn lựa chọn nào khác ngoài việc ngủ bên ngoài, không có gì bảo vệ tôi.</SleptOutside.stages.slept_outside.description>
+	<SoakingWet.stages.soaking_wet.label>Ướt sũng</SoakingWet.stages.soaking_wet.label>
+	<SoakingWet.stages.soaking_wet.description>Tôi đã đi vào nước, giờ thì ướt sũng toàn thân.</SoakingWet.stages.soaking_wet.description>
+	<TravelAnticipation.stages.eager_to_travel.label>Kỳ vọng du lịch</TravelAnticipation.stages.eager_to_travel.label>
+	<TravelAnticipation.stages.eager_to_travel.description>Tôi đã chuẩn bị cho đoàn du lịch này từ một thời gian, tôi rất mong chờ chuyến đi sắp tới.</TravelAnticipation.stages.eager_to_travel.description>
+	<TravelAnticipation.stages.excited_to_travel.label>Kỳ vọng du lịch</TravelAnticipation.stages.excited_to_travel.label>
+	<TravelAnticipation.stages.excited_to_travel.description>Để có cuộc phiêu lưu này, chúng tôi đã suy nghĩ và chuẩn bị rất nhiều. Tôi không thể chờ đợi để khởi hành!</TravelAnticipation.stages.excited_to_travel.description>
+	<WasImprisoned.stages.was_imprisoned.label>Bị giam cầm</WasImprisoned.stages.was_imprisoned.label>
+	<WasImprisoned.stages.was_imprisoned.description>Thuộc địa này đã nhốt tôi trong tù, như một con thú trong lồng.</WasImprisoned.stages.was_imprisoned.description>
+	<WitnessedDeathAlly.stages.witnessed_allys_death.label>Chứng kiến cái chết của đồng minh</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+	<WitnessedDeathAlly.stages.witnessed_allys_death.description>Tôi đã thấy một người trong chúng ta chết, họ vừa còn sống, rồi đột ngột chết đi.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+	<WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>Chứng kiến cái chết</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+	<WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Tôi đã thấy ai đó chết! Thật kích thích!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+	<WitnessedDeathFamily.stages.witnessed_family_members_death.label>Chứng kiến cái chết của thành viên gia đình</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+	<WitnessedDeathFamily.stages.witnessed_family_members_death.description>Tôi đã chứng kiến gia đình mình chết đi...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+	<WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>Chứng kiến cái chết của người lạ</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+	<WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Tôi đã thấy ai đó chết, họ vừa còn sống, rồi đột ngột chết đi.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+</LanguageData>

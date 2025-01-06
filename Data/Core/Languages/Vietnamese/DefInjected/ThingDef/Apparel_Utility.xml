@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_PsychicInsanityLance.label>Giáo tâm linh điên cuồng</Apparel_PsychicInsanityLance.label>
+	<Apparel_PsychicInsanityLance.description>Một vũ khí tâm linh có giới hạn số lần sử dụng. Nó có thể làm ngập ý thức của mục tiêu bằng những cảm giác giả tạo đáng sợ, khiến họ tạm thời rơi vào trạng thái điên cuồng. Nó có tầm bắn xa — nhưng vẫn cần mục tiêu trong tầm nhìn.\n\nLưu ý: Sử dụng giáo tâm linh điên cuồng có khả năng làm bỏng não của mục tiêu.</Apparel_PsychicInsanityLance.description>
+	<Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>Giáo tâm linh điên cuồng</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+	<Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>Miễn dịch tâm linh điên cuồng</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+	<Apparel_PsychicShockLance.label>Giáo tâm linh sốc</Apparel_PsychicShockLance.label>
+	<Apparel_PsychicShockLance.description>Một vũ khí tâm linh có giới hạn số lần sử dụng. Nó có thể làm rối loạn ý thức của mục tiêu bằng hình ảnh hỗn loạn và làm rối loạn cảm giác, khiến họ tạm thời rơi vào trạng thái sốc tâm linh. Nó có tầm bắn xa — nhưng vẫn cần mục tiêu trong tầm nhìn.\n\nLưu ý: Sử dụng giáo tâm linh sốc có khả năng làm bỏng não của mục tiêu.</Apparel_PsychicShockLance.description>
+	<Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>Giáo tâm linh sốc</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+	<Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>Miễn dịch tâm linh sốc</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+</LanguageData>

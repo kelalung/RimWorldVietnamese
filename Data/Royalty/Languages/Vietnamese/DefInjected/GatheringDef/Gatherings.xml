@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Concert.label>Buổi Hòa Nhạc</Concert.label>
+<Concert.calledOffMessage>Buổi hòa nhạc đã bị hủy bỏ.</Concert.calledOffMessage>
+<Concert.finishedMessage>Buổi hòa nhạc đã kết thúc.</Concert.finishedMessage>
+<Concert.letterText>{ORGANIZER_labelShort} đang tổ chức một buổi hòa nhạc! Mỗi người tham gia sẽ nhận được sự giải trí và năng lượng xã hội từ âm nhạc, cùng với một tâm trạng tích cực.</Concert.letterText>
+<Concert.letterTitle>Buổi Hòa Nhạc</Concert.letterTitle>
+</LanguageData>

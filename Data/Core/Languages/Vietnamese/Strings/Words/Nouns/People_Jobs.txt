@@ -1,0 +1,425 @@
+﻿///Normal outlanders
+Nông dân
+Thôn dân
+Nơi xay bột chủ
+Công tượng
+Thợ nấu rượu
+Dệt vải công
+Đầu bếp
+Kẻ lang thang
+Thành trấn thủ vệ
+Thành trấn nghị viên
+Bánh mì sư
+May vá
+Trưởng giả
+Thương tượng
+Thợ rèn
+Công tượng
+Nông phu
+Kiến trúc công
+Thợ mộc
+Thương nhân
+
+//Exotic outlanders
+Bác sĩ ngoại khoa
+Bác sĩ
+Nhà thám hiểm
+Nhà mạo hiểm
+Tửu quỷ
+Mục sư
+Tăng lữ
+Người buôn lậu
+Hài kịch diễn viên
+Giáo sư
+Tạp kỹ diễn viên
+Thằng hề
+Diễn viên
+Nghệ thuật gia
+Tay quyền anh
+Nhà hóa học
+Vũ đạo gia
+Tiên tri
+Người làm vườn
+Hầu gái
+Thôi Miên sư
+Cửa hàng châu báu
+Thi nhân
+Cao bồi
+Ca sĩ
+Triết học gia
+Tay súng
+Quan trị an
+
+//Tech
+Nhà khảo cổ học
+Hacker
+Hành tinh học gia
+Chính trị gia
+Nhà lịch sử học
+Tác gia
+Công trình sư
+Nha sĩ
+Luật sư
+
+//Tribals
+Tù trưởng
+Dũng sĩ
+Cung thủ
+Vu y
+Tát Mãn
+
+Dân trấn
+Nông dân
+Nhà kho chủ
+Thợ rèn
+Súng ống sư
+Sản xuất sư
+Bác sĩ ngoại khoa
+Bác sĩ
+Thợ rèn
+Chủ nông trường
+Tạo tiễn công
+Đánh cốc người
+Lợp nhà tượng
+Dệt công
+Nhà thám hiểm
+Nhà mạo hiểm
+Khách du lịch
+Tửu đồ
+Tác gia
+Lấy tác gia
+Chính khách
+Cảnh sát
+Mục sư
+Giáo sĩ
+Buôn lậu phạm
+Nhà sử học
+Hài kịch diễn viên
+Bánh mì sư
+Gia đình bà chủ
+Ngư dân
+Công trình sư
+Kiến thiết người
+Giáo sư
+Giáo sư
+Kế toán
+Tạp kỹ diễn viên
+Thằng hề
+Diễn viên
+Thư ký
+Nhà khảo cổ học
+Nghệ thuật gia
+Phi hành gia
+Tay quyền anh
+Thợ mộc
+Hành tinh học gia
+Nhà hóa học
+Hacker
+Đầu bếp
+Phạm tội học giả
+Vũ đạo gia
+Nha khoa bác sĩ
+Quan ngoại giao
+Triết học gia
+Đạo tặc
+Ngư dân
+Thương nhân
+Tiên tri
+Người làm vườn
+Vu y
+Hầu gái
+Thôi Miên sư
+Cửa hàng châu báu
+Luật sư
+Thi nhân
+Tên ăn mày
+Phi công
+Cao bồi
+May vá
+Ca sĩ
+Lão nhân
+Trưởng giả
+Hài nhi
+Hán hóa người
+Đi bạn
+Cơ hữu
+Bách hợp
+Ngụy nương
+Hideyoshi
+Dìu nàng
+Nông dân
+Nhà kho chủ
+Rèn
+Thương tượng
+Sản xuất sư
+Bác sĩ ngoại khoa
+Đại phu
+Thợ rèn
+Chủ nông trường
+Tạo tiễn tượng
+Đánh cốc người
+Nhà tranh tượng
+Dệt công
+Nhà thám hiểm
+Nhà mạo hiểm
+Người quan sát
+Hippie
+Tửu đồ
+Tửu quỷ
+Tác gia
+Lấy tác gia
+Cảnh sát
+Mục sư
+Giáo sĩ
+Người buôn lậu
+Nhà sử học
+Hài kịch diễn viên
+Bánh mì sư
+Gia đình bà chủ
+Ngư dân
+Công trình sư
+Kiến thiết người
+Giáo sư
+Giáo sư
+Quán trưởng
+Học sinh
+Kế toán
+Thạc sĩ
+Tạp kỹ diễn viên
+Vai hề
+Diễn viên
+Thư ký
+Nhà khảo cổ học
+Bộ binh
+Nghệ thuật gia
+Phi hành gia
+Tay quyền anh
+Thợ mộc
+Tinh cầu người cứu vớt
+Hành tinh học gia
+Nhà hóa học
+Hacker
+Rượu hầu
+Đầu bếp
+Phạm tội học giả
+Vũ đạo gia
+Nha khoa bác sĩ
+Quan ngoại giao
+Tài xế xe taxi
+Khoa điện công
+Triết học gia
+Đạo tặc
+Ngư dân
+Thương nhân
+Tiên tri
+Người làm vườn
+Vu y
+Hầu gái
+Thôi Miên sư
+Cửa hàng châu báu
+Luật sư
+Phiên dịch
+Thi nhân
+Tên ăn mày
+Phi công
+Nhà tâm lý học
+Tuyên truyền viên
+Cao bồi
+May vá
+Ca sĩ
+Tổ tiên
+Lão nhân
+Trưởng giả
+
+Y tá
+Trò chơi người chơi
+Bệnh truyền nhiễm người bệnh
+Hộ vệ
+Bảo tiêu
+Bắt cá người
+Thợ săn
+Thảo dược sư
+Nhà vật lý học
+Nhà sinh vật học
+Văn học gia
+Kiến trúc sư
+Chiến sĩ
+Xạ thủ
+Binh sĩ
+Đầu bếp
+Nhân viên phục vụ
+Công nhân vệ sinh
+Công nhân bốc vác
+Lữ hành thương nhân
+Thương hội đại biểu
+Đi xa đội trưởng
+Thương nghiệp quản sự
+Lão bản
+Trợ lý
+Điêu khắc gia
+Phóng viên
+Chiến trường phóng viên
+Biên tập
+MC
+Người chủ trì
+Nói hát ca sĩ
+Nói tướng thanh
+Thủy thủ
+Lái chính
+Thuyền trưởng
+Thuyền viên
+Dũng sĩ giác đấu
+Quý tộc
+Quý tộc tiểu thư
+Quý phụ nhân
+Thành viên hoàng thất
+Công chúa
+Vương tử
+Qua thời quý tộc
+Kỹ sư
+Nghệ nhân
+Nhà thiết kế
+Học sinh
+Giáo sư
+Học đồ
+Nhà khoa học
+Tổng giám đốc
+Chủ tịch
+Người bảo vệ rừng
+Nông học nhà
+Nhà âm nhạc
+Lưới đỏ
+Mang hàng lưới đỏ
+Mạng lưới dẫn chương trình
+Ăn truyền bá
+Trò chơi dẫn chương trình
+Quá khí lưới đỏ
+Nhân viên thần chức
+Công nhân
+Chuyên gia
+Virus học gia
+Huấn luyện viên
+Lĩnh đội
+Trang trí
+Bày ra
+Mangaka
+Coser
+Thợ trang điểm
+Chuyên gia làm đẹp
+Thợ mỏ
+Người điều khiển
+Dân chăn nuôi
+Người cưỡi
+Thức ăn ngoài người cưỡi
+Kỵ sĩ
+Kỵ binh
+Lính trinh sát
+Trinh sát
+Nạn dân
+Chủ cửa hàng
+Điều tửu sư
+Quản trị mạng
+Thu ngân viên
+Thợ sữa chữa
+Nhà khí tượng học
+Vũ trụ quân sĩ binh
+Vũ trụ đột kích đội viên
+Đột kích đội viên
+Tinh tế chiến sĩ
+Viễn cổ người
+Ma thuật sư
+Ngư dân
+Chuyển phát nhanh viên
+Ngân hàng gia
+Thợ đấm bóp
+Người chơi đàn dương cầm
+Nhạc thủ
+Tay trống
+Dàn nhạc chỉ huy
+Chính ủy
+Lính gác
+Cảnh vệ
+TV mê
+Người mẫu
+Thần tượng thiếu nữ
+Ma pháp thiếu nữ
+Hoa khôi
+Kỹ nữ
+Lướt sóng tay
+Kiếm sĩ
+Đao khách
+Võ sĩ
+Ma pháp sư
+Đại Ma Đạo Sư
+Cung tiễn thủ
+Nỏ thủ
+Chú Kiếm Sư
+Phong ấn sư
+Phong thuỷ học gia
+Thần học nhà
+Hàng không vũ trụ học gia
+Lượng tử học gia
+Truyền tống học gia
+Tiểu thuyết gia
+Người máy mê
+Lỗ đen học gia
+Nuôi ong người
+Lái xe
+Phi công
+Pháo thủ
+Thông tín viên
+Nhét vào tay
+Xa trưởng
+Tay súng máy
+Vũ nữ
+Tăng lữ
+Hòa thượng
+Tăng nhân
+Đồ tể
+Mỹ thực gia
+Nhà lữ hành
+Du lịch trong vũ trụ nhà
+Tinh tế nạn dân
+Người mang tin tức
+Đứa nhỏ phát báo
+Nhân viên chữa cháy
+Viên chức
+Thư ký
+Tu nữ
+Phù thuỷ
+Vu nữ
+Dân cờ bạc
+Dẫn đường
+Hướng dẫn du lịch
+Bác sĩ ngoại khoa
+Trúc Mộng Sư
+Hoa tiêu
+Đạo sĩ
+Ninja
+Vương gia
+Bộ khoái
+Nha dịch
+Phi tử
+Nhà số học
+Ngôn ngữ học nhà
+Phiên dịch
+Thực tập kỵ sĩ
+Thị nữ
+Vú em
+Người hầu
+Quản gia
+Thuê bạn gái
+Thuê bạn trai
+Thay thế nữ hài
+Hạt giống nam hài
+Khí quan súc vật
+Gen học gia
+Siêu cấp thần tượng
+Hỏa chủng đảm bảo người
+Người sống sót
+Nô lệ con buôn
+Nô lệ
+Nô lệ chiến sĩ
+Võ thuật gia
+Thợ đốn củi
+Học giả

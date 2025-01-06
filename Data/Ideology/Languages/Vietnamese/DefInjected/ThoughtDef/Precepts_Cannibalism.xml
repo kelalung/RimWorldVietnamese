@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AteHumanMeat_Abhorrent.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+<AteHumanMeat_Abhorrent.stages.ate_human_meat.description>Tôi buộc phải ăn thịt người. Điều này là một sự xúc phạm đối với niềm tin của tôi.</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
+<AteHumanMeat_Disapproved.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+<AteHumanMeat_Disapproved.stages.ate_human_meat.description>Tôi buộc phải ăn thịt người. Tôi nghĩ hành động này là sai trái.</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
+<AteHumanMeat_Horrible.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+<AteHumanMeat_Horrible.stages.ate_human_meat.description>Tôi buộc phải ăn thịt người. Điều này thật là một điều khủng khiếp.</AteHumanMeat_Horrible.stages.ate_human_meat.description>
+<AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+<AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+<AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+<AteHumanMeat_Preferred.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+<AteHumanMeat_Preferred.stages.ate_human_meat.description>Tôi đã ăn thịt người. Điều này khiến tôi cảm thấy cao quý và mạnh mẽ.</AteHumanMeat_Preferred.stages.ate_human_meat.description>
+<AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+<AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>Tôi đã ăn thịt người! Thế giới như vậy là đúng, tôi là người mà tôi nên trở thành.</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
+<AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>Ăn thịt người</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+<AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>Tôi đã lâu không được thưởng thức thịt người. Tôi cần phải ăn ngay, thịt người!</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
+ <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>Ăn thực phẩm không phải thịt người</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+<AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>Tôi buộc phải ăn thực phẩm không phải thịt người. Điều này hoàn toàn trái ngược với niềm tin của tôi.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+<AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>Ăn thực phẩm không phải thịt người</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+<AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>Tôi buộc phải ăn thực phẩm không phải thịt người. Niềm tin của tôi nghiêm ngặt cấm điều này.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+<AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>Ăn thực phẩm không phải thịt người</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+<AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>Ăn thực phẩm không phải thịt người</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+<ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+<ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Tôi đã giết một con người. Điều này là một sự xúc phạm đối với niềm tin của tôi.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+<ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+<ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Tôi đã giết một con người. Tôi nghĩ hành động này là sai trái.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+<ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+<ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Tôi đã giết một con người. Điều này thật là một điều khủng khiếp.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+<ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>Có người đã bị giết hại</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+<ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>Một thành viên trong chúng tôi đã giết một con người như một con vật. Điều này là một sự xúc phạm đối với niềm tin của tôi.</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+<ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+<ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>Có người đã bị giết hại</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+<ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>Một thành viên trong chúng tôi đã giết một con người như một con vật. Tôi nghĩ hành động này là sai trái.</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+<ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+<ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>Có người đã bị giết hại</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+<ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>Một thành viên trong chúng tôi đã giết một con người như một con vật. Điều này thật là một điều khủng khiếp.</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+<ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>Đã giết hại con người</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+<HumanLeatherApparel_Abhorrent.stages.human_leather.label>Da người {0}</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
+<HumanLeatherApparel_Abhorrent.stages.human_leather.description>Mặc một phần cơ thể của ai đó thật là ghê tởm. Ai có thể làm điều đó?</HumanLeatherApparel_Abhorrent.stages.human_leather.description>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>Tôi mặc như một kẻ điên.</HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>Tôi nghĩ có thể trên áo của tôi có một cái mặt. Ồ không, áo của tôi chính là một *cái mặt*.</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+<HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>Tôi trông như một quái vật trong phim kinh dị, và tôi cảm thấy như mình đang ở trong một bộ phim kinh dị.</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
+<HumanLeatherApparel_Disapproved.stages.human_leather.label>Da người {0}</HumanLeatherApparel_Disapproved.stages.human_leather.label>
+<HumanLeatherApparel_Disapproved.stages.human_leather.description>Tôi không nên mặc áo làm từ da người.</HumanLeatherApparel_Disapproved.stages.human_leather.description>
+<HumanLeatherApparel_Disapproved.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
+<HumanLeatherApparel_Disapproved.stages.human_leather_1.description>Tôi đang mặc áo làm từ da người. Tôi không thích điều này.</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+<HumanLeatherApparel_Disapproved.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
+<HumanLeatherApparel_Disapproved.stages.human_leather_2.description>Tại sao tôi lại phải mặc quá nhiều áo làm từ da người? Tôi nên được tìm một bộ áo khác để mặc.</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+<HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+<HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>Tôi thực sự nên mặc áo không làm từ da người. Tôi trông như một kẻ điên.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+<HumanLeatherApparel_Horrible.stages.human_leather.label>Da người {0}</HumanLeatherApparel_Horrible.stages.human_leather.label>
+<HumanLeatherApparel_Horrible.stages.human_leather.description>Mặc áo làm từ da người là không đúng.</HumanLeatherApparel_Horrible.stages.human_leather.description>
+<HumanLeatherApparel_Horrible.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_Horrible.stages.human_leather_1.label>
+<HumanLeatherApparel_Horrible.stages.human_leather_1.description>Tôi cảm thấy thật không thoải mái khi mặc những chiếc áo làm từ da người này.</HumanLeatherApparel_Horrible.stages.human_leather_1.description>
+<HumanLeatherApparel_Horrible.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_Horrible.stages.human_leather_2.label>
+<HumanLeatherApparel_Horrible.stages.human_leather_2.description>Tại sao tôi lại phải mặc quá nhiều da người? Điều này thật đáng sợ!</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
+<HumanLeatherApparel_Horrible.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+<HumanLeatherApparel_Horrible.stages.human_leather_etc.description>Tôi trông như một quái vật, điều này thật đáng sợ!</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
+<HumanLeatherApparel_Preferred.stages.human_leather.label>Da người {0}</HumanLeatherApparel_Preferred.stages.human_leather.label>
+<HumanLeatherApparel_Preferred.stages.human_leather.description>Tôi mặc áo làm từ da người, cảm thấy rất tốt.</HumanLeatherApparel_Preferred.stages.human_leather.description>
+<HumanLeatherApparel_Preferred.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_Preferred.stages.human_leather_1.label>
+<HumanLeatherApparel_Preferred.stages.human_leather_1.description>Tôi rất thích mặc da của người khác.</HumanLeatherApparel_Preferred.stages.human_leather_1.description>
+<HumanLeatherApparel_Preferred.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_Preferred.stages.human_leather_2.label>
+<HumanLeatherApparel_Preferred.stages.human_leather_2.description>Áo của tôi còn được khâu với mặt của kẻ thù. Điều này làm tôi rất vui.</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
+<HumanLeatherApparel_Preferred.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+<HumanLeatherApparel_Preferred.stages.human_leather_etc.description>Tôi trông như một kẻ ăn thịt thực sự. Ai dám nghi ngờ tôi?</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>Da người {0}</HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>Thật là một niềm vui khi mặc áo được làm từ nỗi đau của người khác.</HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>Điều này có thể làm họ sợ. Mọi người sẽ biết tôi mạnh mẽ như thế nào.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>Mặt trên áo của tôi không cười, nhưng điều đó khiến tôi vui vẻ.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+<HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>Da! Thịt! Đây là huy chương của tôi!</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather.label>Da người {0}</HumanLeatherApparel_RequiredStrong.stages.human_leather.label>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather.description>Tôi rất thích mặc áo được khâu với mặt của người khác.</HumanLeatherApparel_RequiredStrong.stages.human_leather.description>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>Da người {0} (2 món)</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>Điều này có thể làm họ sợ. Mọi người sẽ biết tôi mạnh mẽ như thế nào.</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>Da người {0} (3 món)</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>Mặt trên áo của tôi không cười, nhưng điều đó khiến tôi vui vẻ.</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>Da người {0} (nhiều món)</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+<HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>Da! Thịt! Đây là huy chương của tôi!</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
+<NoRecentHumanMeat_Preferred.stages.want_human_meat.label>Muốn ăn thịt người</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+<NoRecentHumanMeat_Preferred.stages.want_human_meat.description>Tôi đã lâu không ăn thịt người. Tôi cảm thấy rất khó chịu.</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
+<NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>Muốn ăn thịt người</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+<NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>Tôi rất đói! Tôi đã lâu không được thưởng thức "thịt thật". Điều này là không đúng!</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
+<NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>Muốn ăn thịt người</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+<NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>Kể từ lần cuối thưởng thức thịt người đã qua quá lâu. Tôi cần phải ăn ngay, thịt người!</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AttendedConcert.stages.attended_concert.label>Tham gia buổi hòa nhạc</AttendedConcert.stages.attended_concert.label>
+<AttendedConcert.stages.attended_concert.description>Buổi biểu diễn đó khiến tôi say mê.</AttendedConcert.stages.attended_concert.description>
+<AttendedParty.stages.attended_party.label>Tham gia bữa tiệc</AttendedParty.stages.attended_party.label>
+<AttendedParty.stages.attended_party.description>Tôi đã có một khoảng thời gian vui vẻ tại bữa tiệc.</AttendedParty.stages.attended_party.description>
+<AttendedWedding.stages.attended_wedding.label>Tham gia đám cưới</AttendedWedding.stages.attended_wedding.label>
+<AttendedWedding.stages.attended_wedding.description>Thật hạnh phúc khi thấy hai người cùng nhau xây dựng tổ ấm.</AttendedWedding.stages.attended_wedding.description>
+<EncouragingSpeech.stages.encouraging_speech.label>Bài phát biểu khích lệ</EncouragingSpeech.stages.encouraging_speech.label>
+<EncouragingSpeech.stages.encouraging_speech.description>Bài phát biểu đó đã khiến tôi kiên định hơn trên con đường tiến lên.</EncouragingSpeech.stages.encouraging_speech.description>
+<GotMarried.stages.got_married_to.label>Kết hôn với {0}</GotMarried.stages.got_married_to.label>
+<GotMarried.stages.got_married_to.description>Tôi đã kết hôn! Tương lai của tôi tràn đầy động lực!</GotMarried.stages.got_married_to.description>
+<HeldConcert.stages.held_concert.label>Tổ chức buổi hòa nhạc</HeldConcert.stages.held_concert.label>
+<HeldConcert.stages.held_concert.description>Họ yêu tôi, họ thật sự yêu tôi!</HeldConcert.stages.held_concert.description>
+<InspirationalSpeech.stages.inspirational_speech.label>Bài phát biểu truyền cảm hứng</InspirationalSpeech.stages.inspirational_speech.label>
+<InspirationalSpeech.stages.inspirational_speech.description>Bài phát biểu đó đã chạm đến trái tim tôi, khiến tôi thấy rõ ràng hơn. Tôi cảm thấy đầy tự tin.</InspirationalSpeech.stages.inspirational_speech.description>
+<TerribleSpeech.stages.terrible_speech.label>Bài phát biểu tồi tệ</TerribleSpeech.stages.terrible_speech.label>
+<TerribleSpeech.stages.terrible_speech.description>Bài phát biểu đó thật tệ, khiến tôi nhận ra rằng hy vọng của chúng ta thật mong manh.</TerribleSpeech.stages.terrible_speech.description>
+<UninspiringSpeech.stages.uninspiring_speech.label>Bài phát biểu thiếu sức hút</UninspiringSpeech.stages.uninspiring_speech.label>
+<UninspiringSpeech.stages.uninspiring_speech.description>So với việc khích lệ, tôi nghe thấy nhiều điều khiến tôi cảm thấy xấu hổ hơn. Những người phát biểu như vậy thật đáng lo ngại.</UninspiringSpeech.stages.uninspiring_speech.description>
+</LanguageData>

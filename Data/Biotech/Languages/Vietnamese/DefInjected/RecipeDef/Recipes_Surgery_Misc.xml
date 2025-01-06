@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <BloodTransfusion.label>Truyền máu</BloodTransfusion.label>
+<BloodTransfusion.description>Sử dụng gói máu để giảm thiểu tác động của việc mất máu. Mỗi gói máu sử dụng có thể phục hồi 35% lượng máu đã mất. Thủ tục này cũng có thể bổ sung lượng máu cho những người có gen “huyết tộc”.</BloodTransfusion.description>
+<BloodTransfusion.jobString>Đang truyền máu cho TargetA.</BloodTransfusion.jobString>
+<ExtractHemogenPack.label>Chiết xuất gói máu</ExtractHemogenPack.label>
+<ExtractHemogenPack.description>Chiết xuất huyết chất từ người mục tiêu để tạo ra một gói máu. Nếu mục tiêu không có đủ máu, thủ tục sẽ không thể tạo ra gói máu.\n\nGói máu có thể được đưa vào cơ thể người khác để giảm thiểu tình trạng mất máu, hoặc để đáp ứng nhu cầu của những người như huyết tộc sống dựa vào việc hút máu.</ExtractHemogenPack.description>
+<ExtractHemogenPack.jobString>Đang chiết xuất gói máu.</ExtractHemogenPack.jobString>
+<ExtractOvum.label>Chiết xuất noãn bào</ExtractOvum.label>
+<ExtractOvum.description>Chiết xuất một noãn vào một túi lưu trữ. Sau đó, nó có thể được thụ tinh bởi nam giới và cuối cùng được cấy vào cơ thể mẹ để bắt đầu quá trình mang thai.</ExtractOvum.description>
+<ExtractOvum.jobString>Đang chiết xuất noãn bào từ TargetA.</ExtractOvum.jobString>
+<ImplantEmbryo.label>Cấy ghép phôi</ImplantEmbryo.label>
+<ImplantEmbryo.description>Cấy ghép phôi vào cơ thể của người mang thai thay thế, bắt đầu quá trình mang thai.</ImplantEmbryo.description>
+<ImplantEmbryo.jobString>Đang cấy ghép phôi vào TargetA.</ImplantEmbryo.jobString>
+<ImplantIUD.label>Cấy ghép dụng cụ tránh thai</ImplantIUD.label>
+<ImplantIUD.description>Cấy ghép một thiết bị kim loại nhỏ vào tử cung để ngăn ngừa mang thai. Nó có thể được lấy ra sau này, nhưng có một tỷ lệ nhỏ khả năng khiến bệnh nhân vô sinh vĩnh viễn. Thủ tục này có thể chấm dứt thai kỳ ở giai đoạn đầu.</ImplantIUD.description>
+<ImplantIUD.jobString>Đang cấy ghép dụng cụ tránh thai vào TargetA.</ImplantIUD.jobString>
+<ImplantIUD.successfullyRemovedHediffMessage>{0} đã cấy ghép dụng cụ tránh thai thành công vào {1}.</ImplantIUD.successfullyRemovedHediffMessage>
+<ImplantXenogerm.label>Cấy ghép phôi ngoại lai</ImplantXenogerm.label>
+<ImplantXenogerm.description>Cấy ghép một phôi ngoại lai vào cơ thể. Điều này sẽ thay thế bất kỳ phôi ngoại lai nào mà họ có thể đã có trước đó.</ImplantXenogerm.description>
+<ImplantXenogerm.jobString>Đang cấy ghép phôi ngoại lai.</ImplantXenogerm.jobString>
+<RemoveIUD.label>Gỡ bỏ dụng cụ tránh thai</RemoveIUD.label>
+<RemoveIUD.description>Gỡ bỏ dụng cụ tránh thai đã cấy ghép để cho phép mang thai bình thường. Nếu thủ tục gặp sự cố, bệnh nhân sẽ trở thành vô sinh vĩnh viễn.</RemoveIUD.description>
+<RemoveIUD.jobString>Đang gỡ bỏ dụng cụ tránh thai từ TargetA.</RemoveIUD.jobString>
+<RemoveIUD.successfullyRemovedHediffMessage>{0} đã gỡ bỏ dụng cụ tránh thai của {1} thành công.</RemoveIUD.successfullyRemovedHediffMessage>
+<ReverseVasectomy.label>Phục hồi ống dẫn tinh</ReverseVasectomy.label>
+<ReverseVasectomy.description>Cố gắng đảo ngược thủ thuật cắt ống dẫn tinh, cho phép nam giới có khả năng làm cha trở lại. Hầu hết các ca phục hồi ống dẫn tinh đều thành công, nhưng nếu thủ tục gặp sự cố, nam giới sẽ trở thành vô sinh vĩnh viễn.</ReverseVasectomy.description>
+<ReverseVasectomy.jobString>Đang thực hiện phục hồi ống dẫn tinh cho TargetA.</ReverseVasectomy.jobString>
+<ReverseVasectomy.successfullyRemovedHediffMessage>{0} đã thực hiện phục hồi ống dẫn tinh cho {1} thành công.</ReverseVasectomy.successfullyRemovedHediffMessage>
+<TerminatePregnancy.label>Chấm dứt thai kỳ</TerminatePregnancy.label>
+<TerminatePregnancy.description>Chấm dứt quá trình mang thai của người hoặc động vật.</TerminatePregnancy.description>
+<TerminatePregnancy.jobString>Đang chấm dứt thai kỳ của TargetA.</TerminatePregnancy.jobString>
+<TubalLigation.label>Cắt ống dẫn trứng</TubalLigation.label>
+<TubalLigation.description>Thực hiện biện pháp vô sinh vĩnh viễn.</TubalLigation.description>
+<TubalLigation.jobString>Đang thực hiện cắt ống dẫn trứng cho TargetA.</TubalLigation.jobString>
+<TubalLigation.successfullyRemovedHediffMessage>{0} đã thực hiện cắt ống dẫn trứng cho {1} thành công.</TubalLigation.successfullyRemovedHediffMessage>
+<Vasectomy.label>Cắt ống dẫn tinh</Vasectomy.label>
+<Vasectomy.description>Cắt đứt ống dẫn tinh, khiến bệnh nhân không thể sinh sản nữa. Nếu thủ tục gặp sự cố, bệnh nhân sẽ trở thành vô sinh vĩnh viễn.</Vasectomy.description>
+<Vasectomy.jobString>Đang thực hiện cắt ống dẫn tinh cho TargetA.</Vasectomy.jobString>
+<Vasectomy.successfullyRemovedHediffMessage>{0} đã thực hiện cắt ống dẫn tinh cho {1} thành công.</Vasectomy.successfullyRemovedHediffMessage>
+</LanguageData>

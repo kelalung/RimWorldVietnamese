@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BedRestEffectiveness.label>Hiệu quả nghỉ ngơi</BedRestEffectiveness.label>
+	<BedRestEffectiveness.description>Hệ số tốc độ phục hồi năng lượng của sinh vật khi nghỉ ngơi trên vật thể này.</BedRestEffectiveness.description>
+	<DoorOpenSpeed.label>Tốc độ mở cửa</DoorOpenSpeed.label>
+	<DoorOpenSpeed.description>Tốc độ mở cửa không có điện.\n\nNếu tốc độ mở cửa chậm, sinh vật sẽ bị giảm tốc độ khi đi qua.</DoorOpenSpeed.description>
+	<ImmunityGainSpeedFactor.label>Hệ số tốc độ miễn dịch</ImmunityGainSpeedFactor.label>
+	<ImmunityGainSpeedFactor.description>Tốc độ miễn dịch đối với bệnh tật sẽ được nhân với giá trị này.</ImmunityGainSpeedFactor.description>
+	<JoyGainFactor.label>Hiệu quả giải trí</JoyGainFactor.label>
+	<JoyGainFactor.description>Khả năng của vật thể này để làm hài lòng mọi người và đáp ứng nhu cầu giải trí.</JoyGainFactor.description>
+	<MedicalTendQualityOffset.label>Độ lệch chất lượng điều trị</MedicalTendQualityOffset.label>
+	<MedicalTendQualityOffset.description>Chất lượng điều trị bị lệch theo giá trị này.</MedicalTendQualityOffset.description>
+	<PowerPlantMaxPowerOuput.label>Công suất tối đa đầu ra</PowerPlantMaxPowerOuput.label>
+	<PowerPlantMaxPowerOuput.description>Công suất tối đa mà máy phát điện này có thể cung cấp trong điều kiện lý tưởng.</PowerPlantMaxPowerOuput.description>
+	<ResearchSpeedFactor.label>Hệ số tốc độ nghiên cứu</ResearchSpeedFactor.label>
+	<ResearchSpeedFactor.description>Tốc độ nghiên cứu sẽ được nhân với giá trị này.</ResearchSpeedFactor.description>
+	<ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Độ sạch sẽ của phòng</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+	<ResearchSpeedFactor.parts.Reading_bonus.customLabel>Thưởng đọc sách</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+	<RoomReadingBonus.label>Thưởng đọc sách</RoomReadingBonus.label>
+	<RoomReadingBonus.description>Hệ số tốc độ nghiên cứu, kinh nghiệm đọc và giá trị giải trí mà tủ sách có thể cung cấp cho phòng nơi nó đặt. Đặt nhiều sách chất lượng cao hơn trong tủ sách có thể nâng cao hệ số này.</RoomReadingBonus.description>
+	<RoomReadingBonus.parts.Reading_bonus.customLabel>Thưởng đọc sách</RoomReadingBonus.parts.Reading_bonus.customLabel>
+	<SurgerySuccessChanceFactor.label>Hệ số tỷ lệ thành công phẫu thuật</SurgerySuccessChanceFactor.label>
+	<SurgerySuccessChanceFactor.description>Hệ số tỷ lệ thành công khi thực hiện phẫu thuật tại đây.\n\nTỷ lệ thành công của phẫu thuật cũng bị ảnh hưởng bởi khả năng của bác sĩ và loại thuốc được sử dụng.</SurgerySuccessChanceFactor.description>
+	<SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Độ sạch sẽ của phòng</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+	<TrapMeleeDamage.label>Tổn thương cận chiến của bẫy</TrapMeleeDamage.label>
+	<TrapMeleeDamage.description>Tổn thương trung bình gây ra khi kích hoạt bẫy.\n\nTổn thương thực tế có thể có sự sai lệch nhỏ.</TrapMeleeDamage.description>
+	<TrapSpringChance.label>Tỷ lệ kích hoạt bẫy</TrapSpringChance.label>
+	<TrapSpringChance.description>Khả năng bẫy sẽ kích hoạt khi có sinh vật đi qua.</TrapSpringChance.description>
+	<WorkTableEfficiencyFactor.label>Hệ số hiệu quả làm việc</WorkTableEfficiencyFactor.label>
+	<WorkTableEfficiencyFactor.description>Hiệu quả làm việc sẽ được nhân với giá trị này.</WorkTableEfficiencyFactor.description>
+	<WorkTableWorkSpeedFactor.label>Hệ số tốc độ làm việc</WorkTableWorkSpeedFactor.label>
+	<WorkTableWorkSpeedFactor.description>Tốc độ làm việc sẽ được nhân với giá trị này.</WorkTableWorkSpeedFactor.description>
+	<WorkToBuild.label>Công sức (xây dựng)</WorkToBuild.label>
+	<WorkToBuild.description>Công sức cần thiết để xây dựng công trình này khi tất cả nguyên liệu và công cụ đã sẵn sàng.\n\nCông sức cần thiết để tháo dỡ công trình cũng liên quan đến giá trị này.</WorkToBuild.description>
+</LanguageData>

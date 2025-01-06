@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientComplex_Standard.questContentRules.rulesStrings>
+    <li>terminalHackedMessage-&gt; Máy chủ đã bị xâm nhập. {COUNT} / [terminalCount] hoàn thành.</li>
+    <li>allTerminalsHackedMessage-&gt;Bạn đã xâm nhập tất cả các máy chủ và phát hiện ra thông tin bí mật về [relic_name], bạn có thể rời đi ngay bây giờ.</li>
+</AncientComplex_Standard.questContentRules.rulesStrings>
+<AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn đã biết có một khu kiến trúc cổ đại gần đó, được cho là ẩn chứa thông tin bí mật về [relic_name].\n\nNếu bạn có thể vào trong khu kiến trúc này và xâm nhập vào máy tính bên trong, bạn có thể thu thập những thông tin này.\n\nLưu ý: Bên trong có thể có nhiều nguy hiểm khác nhau, và các kẻ thù khác cũng có thể bị thu hút bởi dấu hiệu hoạt động trong khu kiến trúc.</li>
+</AncientComplex_Standard.questDescriptionRules.rulesStrings>
+<AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>questName(p=6)-&gt;[complexAdj][complex]</li>
+    <li>questName-&gt;[dig]</li>
+    <li>complexAdj-&gt; Cổ xưa</li>
+    <li>complexAdj-&gt; Cũ kỹ</li>
+    <li>complexAdj-&gt; Bụi bặm</li>
+    <li>complexAdj-&gt; Bí ẩn</li>
+    <li>complex-&gt; Khu kiến trúc</li>
+    <li>complex-&gt; Địa điểm</li>
+    <li>complex-&gt; Cơ sở</li>
+    <li>dig-&gt; Khu khảo cổ</li>
+    <li>dig-&gt; Địa điểm khai thác</li>
+</AncientComplex_Standard.questNameRules.rulesStrings>
+</LanguageData>

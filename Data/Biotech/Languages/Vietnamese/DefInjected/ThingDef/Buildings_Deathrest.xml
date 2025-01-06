@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DeathrestAccelerator.label>Gia tốc giấc ngủ chết</DeathrestAccelerator.label>
+<DeathrestAccelerator.description>Thiết bị này có thể kết nối với người ngủ chết, giúp họ hoàn thành giấc ngủ nhanh hơn. Nó sử dụng phân tích máu tinh vi hơn và hóa chất mạnh mẽ hơn để tăng cường hiệu ứng của quan tài ngủ chết. Phải kết nối với quan tài ngủ chết để hoạt động.</DeathrestAccelerator.description>
+<DeathrestCasket.label>Quan tài ngủ chết</DeathrestCasket.label>
+<DeathrestCasket.description>Một buồng y tế kín dùng để ngủ chết. Nó có thể kết nối với các thiết bị khác, những thiết bị này có thể cung cấp hiệu ứng tăng cường giấc ngủ chết cho người ngủ. Số lượng thiết bị có thể kết nối phụ thuộc vào "dung lượng ngủ chết" của người ngủ, bạn có thể thấy thuộc tính này ở thanh lệnh bên dưới màn hình khi chọn người ngủ.\n\nChỉ những người có gen ngủ chết mới có thể sử dụng quan tài này.</DeathrestCasket.description>
+<GlucosoidPump.label>Bơm glucosoid</GlucosoidPump.label>
+<GlucosoidPump.description>Thiết bị này cho phép người ngủ di chuyển nhanh hơn sau khi hoàn thành giấc ngủ. Nó bơm thêm tín hiệu cơ bắp vào cơ thể, đồng thời tăng tốc độ loại bỏ chất thải trong cơ thể. Hiệu ứng này kéo dài cho đến lần ngủ tiếp theo. Phải kết nối với quan tài ngủ chết để hoạt động.\n\nThiết bị này cần tiêu thụ huyết nguyên chất để hoạt động bình thường.</GlucosoidPump.description>
+<GlucosoidPump.comps.CompRefuelable.fuelLabel>Huyết nguyên chất</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+<HemogenAmplifier.label>Bộ khuếch đại huyết nguyên</HemogenAmplifier.label>
+<HemogenAmplifier.description>Thiết bị này có thể làm cho người ngủ ở trạng thái khuếch đại huyết nguyên, vì vậy họ có thể nhận được nhiều huyết nguyên hơn từ bất kỳ nguồn nào so với bình thường. Thiết bị này được trang bị cảm biến tuyến và máy phân tích máu, khi kết nối với người ngủ, nó sẽ kích thích huyết nguyên trong cơ thể vào trạng thái hoạt động. Phải kết nối với quan tài ngủ chết để hoạt động.\n\nThiết bị này cần tiêu thụ huyết nguyên chất để hoạt động bình thường.</HemogenAmplifier.description>
+<HemogenAmplifier.comps.CompRefuelable.fuelLabel>Huyết nguyên chất</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+<Hemopump.label>Bơm tinh chế máu</Hemopump.label>
+<Hemopump.description>Thiết bị này có thể tăng giới hạn lưu trữ tối đa của huyết nguyên trong người ngủ. Phải kết nối với quan tài ngủ chết để hoạt động.\n\nThiết bị này cần tiêu thụ huyết nguyên chất để hoạt động bình thường.</Hemopump.description>
+<Hemopump.comps.CompRefuelable.fuelLabel>Huyết nguyên chất</Hemopump.comps.CompRefuelable.fuelLabel>
+<PsychofluidPump.label>Bơm tăng cường tâm lý</PsychofluidPump.label>
+<PsychofluidPump.description>Thiết bị này có thể tăng cường độ nhạy cảm tâm lý của người ngủ bằng cách kích thích có nhịp nhàng các mô thần kinh. Phải kết nối với quan tài ngủ chết để hoạt động.\n\nThiết bị này cần tiêu thụ huyết nguyên chất để hoạt động bình thường.</PsychofluidPump.description>
+<PsychofluidPump.comps.CompRefuelable.fuelLabel>Huyết nguyên chất</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+</LanguageData>

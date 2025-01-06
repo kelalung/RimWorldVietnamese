@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<KillsEntities.label>Giết chết (thực thể)</KillsEntities.label>
+<KillsEntities.description>Số lượng thực thể mà tôi đã giết chết.</KillsEntities.description>
+<PawnsDownedEntities.label>Đánh bại (thực thể)</PawnsDownedEntities.label>
+<PawnsDownedEntities.description>Số lượng thực thể mà tôi đã đánh bại.</PawnsDownedEntities.description>
+</LanguageData>

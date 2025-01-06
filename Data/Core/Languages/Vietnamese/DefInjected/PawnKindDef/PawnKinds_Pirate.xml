@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Drifter.label>Người lang thang</Drifter.label>
+	<Drifter.labelPlural>Người lang thang</Drifter.labelPlural>
+	<Pirate.label>Thợ săn cướp biển</Pirate.label>
+	<Pirate.labelPlural>Thợ săn cướp biển</Pirate.labelPlural>
+	<Scavenger.label>Thợ săn lượm</Scavenger.label>
+	<Scavenger.labelPlural>Thợ săn lượm</Scavenger.labelPlural>
+	<Thrasher.label>Người đập phá</Thrasher.label>
+	<Thrasher.labelPlural>Người đập phá</Thrasher.labelPlural>
+</LanguageData>

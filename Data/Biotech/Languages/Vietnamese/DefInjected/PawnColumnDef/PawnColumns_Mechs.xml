@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AllowedAreaMech.label>Khu vực hoạt động cho phép</AllowedAreaMech.label>
+<AllowedAreaMech.headerTip>Khu vực hoạt động cho phép chỉ áp dụng cho các cơ khí đang ở chế độ "làm việc" và "sạc điện".</AllowedAreaMech.headerTip>
+<AutoRepair.label>Sửa chữa tự động</AutoRepair.label>
+<ControlGroup.label>Nhóm điều khiển</ControlGroup.label>
+<DraftMech.label>Chiêu mộ</DraftMech.label>
+<Energy.label>Năng lượng</Energy.label>
+<Overseer.label>Người giám sát</Overseer.label>
+<WorkMode.label>Chế độ hành động</WorkMode.label>
+</LanguageData>

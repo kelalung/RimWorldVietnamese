@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <BlindingCeremony.label>Lễ mù quáng</BlindingCeremony.label>
+<BlindingCeremony.description>Một người thực hiện sẽ làm mù một mục tiêu theo cách nghi lễ. Khán giả sẽ thấy người thực hiện phát biểu, cắt mắt của mục tiêu và nói một số lời kết thúc. Mục tiêu sẽ chảy máu không ngừng và cần được điều trị ngay lập tức.</BlindingCeremony.description>
+<Classic_DanceParty.label>Tiệc khiêu vũ</Classic_DanceParty.label>
+<Classic_DanceParty.description>Tổ chức một buổi tiệc ăn mừng cho các thuộc địa của bạn, một lãnh đạo sẽ có một bài phát biểu khích lệ, sau đó mọi người sẽ giao lưu trong một khoảng thời gian.</Classic_DanceParty.description>
+<Classic_DrumParty.label>Tiệc trống</Classic_DrumParty.label>
+<Classic_DrumParty.description>Tổ chức một buổi tiệc ăn mừng cho các thuộc địa của bạn, một lãnh đạo sẽ có một bài phát biểu khích lệ, sau đó mọi người sẽ giao lưu trong một khoảng thời gian.</Classic_DrumParty.description>
+<Conversion.label>Lễ giáo hóa</Conversion.label>
+<Conversion.description>Cố gắng thuyết phục người khác tham gia vào hình thái văn hóa của bạn.</Conversion.description>
+<DateRitualConsumable.label>Tiệc cây thông Giáng sinh</DateRitualConsumable.label>
+<DateRitualConsumable.description>Tổ chức một buổi tiệc ăn mừng cho các thuộc địa của bạn, một lãnh đạo sẽ có một bài phát biểu khích lệ, sau đó mọi người sẽ giao lưu trong một khoảng thời gian.</DateRitualConsumable.description>
+<Execution.label>Xử án công khai</Execution.label>
+<Execution.description>Một kẻ hành quyết sẽ xử án công khai một tù nhân. Kẻ hành quyết sẽ có một bài phát biểu ngắn, sau đó cắt cổ tù nhân và nói một số lời kết thúc. Những nô lệ đứng xem sẽ trở nên sợ hãi và hoảng loạn, trong khi các thuộc địa sẽ cảm thấy phấn khích hoặc ghê tởm tùy thuộc vào niềm tin của họ.</Execution.description>
+<Execution.tipLabelOverride>Xử án công khai</Execution.tipLabelOverride>
+<Festival.label>Lễ hội xã hội</Festival.label>
+<Festival.description>Tổ chức một buổi tiệc ăn mừng cho các thuộc địa của bạn, một lãnh đạo sẽ có một bài phát biểu khích lệ, sau đó mọi người sẽ giao lưu trong một khoảng thời gian.</Festival.description>
+<Funeral.label>Đám tang</Funeral.label>
+<Funeral.description>Khi tín đồ chết và được chôn cất, một buổi tiệc sẽ được tổ chức quanh mộ của họ. Nếu thi thể bị phá hủy, có thể sử dụng một ngôi mộ trống, nô lệ sẽ không được tổ chức đám tang.</Funeral.description>
+<Funeral.extraTextPawnDeathLetter>{PAWN_nameDef} nên được chôn cất và tổ chức đám tang để bạn bè và gia đình của {PAWN_possessive} có thể nói lời tạm biệt.</Funeral.extraTextPawnDeathLetter>
+<FuneralNoCorpse.label>Đám tang (không có thi thể)</FuneralNoCorpse.label>
+<FuneralNoCorpse.description>Khi tín đồ chết và được chôn cất, một buổi tiệc sẽ được tổ chức quanh mộ của họ. Nếu thi thể bị phá hủy, có thể sử dụng một ngôi mộ trống, nô lệ sẽ không được tổ chức đám tang.</FuneralNoCorpse.description>
+<GladiatorDuel.label>Đấu trường giác đấu</GladiatorDuel.label>
+<GladiatorDuel.description>Cuộc đấu giữa tù nhân hoặc nô lệ, người tổ chức sẽ phát biểu để kích thích cảm xúc của khán giả, sau đó các đấu thủ sẽ chiến đấu cho đến khi một người ngã xuống hoặc hết thời gian. Nếu có vũ khí trong đấu trường, các đấu thủ sẽ nhặt và sử dụng chúng.</GladiatorDuel.description>
+<GladiatorDuel.tipLabelOverride>Đấu trường giữa tù nhân/nô lệ</GladiatorDuel.tipLabelOverride>
+<LeaderSpeech.label>Bài phát biểu của lãnh đạo</LeaderSpeech.label>
+<LeaderSpeech.description>Một bài phát biểu truyền cảm hứng nâng cao tinh thần, các thuộc địa sẽ tập trung, lãnh đạo sẽ phát biểu trong vài giờ. Nếu mọi thứ diễn ra suôn sẻ, người nghe sẽ được khích lệ và tôn trọng lãnh đạo. Nếu không, bài phát biểu sẽ gây hại cho cộng đồng.</LeaderSpeech.description>
+<RoleChange.label>Thay đổi vai trò</RoleChange.label>
+<RoleChange.description>Một nghi lễ thay đổi vai trò trong cộng đồng. Người có vai trò thay đổi sẽ phát biểu, những người khác sẽ tụ tập xung quanh. Phải có số lượng người tham dự vượt quá số lượng quy định.</RoleChange.description>
+<ScarificationCeremony.label>Lễ khắc dấu</ScarificationCeremony.label>
+<ScarificationCeremony.description>Một nghi lễ khắc dấu, người thực hiện sẽ khắc lên mục tiêu những ký hiệu có ý nghĩa tôn giáo. Khán giả sẽ thấy người thực hiện phát biểu, thực hiện cắt, và cuối cùng nói một số lời kết thúc.</ScarificationCeremony.description>
+<TreeConnection.label>Lễ cộng hưởng với cây mẹ</TreeConnection.label>
+<TreeConnection.description>Một người cộng hưởng sẽ kết nối với cây mẹ, người cộng hưởng sẽ chạm vào cây mẹ và trò chuyện với nó để tạo ra một kết nối vĩnh viễn, những người khác sẽ đứng xung quanh xem và tăng cường sức mạnh cho lễ nghi.</TreeConnection.description>
+<Trial.label>Phiên tòa</Trial.label>
+<Trial.description>Thực hiện một phiên tòa cho một số tội ác ghê tởm, người khởi xướng sẽ tuyên bố ai đó đã phạm tội khủng khiếp và tuyển mộ đám đông cho phiên tòa. Những người đứng xem sẽ nghe thấy cáo buộc giữa người buộc tội và bị cáo, sau đó quyết định xem cáo buộc có đúng hay không. Nếu bị cáo bị xác định có tội, bạn có thể tự do lưu đày, bắt giữ hoặc xử án họ, không ai sẽ bận tâm. Cơ hội kết tội phụ thuộc vào khả năng xã hội của bị cáo và người buộc tội, cũng như số lượng khán giả.</Trial.description>
+<TrialMentalState.label>Phiên tòa</TrialMentalState.label>
+<TrialMentalState.description>Thực hiện một phiên tòa cho một số tội ác ghê tởm, người khởi xướng sẽ tuyên bố ai đó đã phạm tội khủng khiếp và tuyển mộ đám đông cho phiên tòa. Những người đứng xem sẽ nghe thấy cáo buộc giữa người buộc tội và bị cáo, sau đó quyết định xem cáo buộc có đúng hay không. Nếu bị cáo bị xác định có tội, bạn có thể tự do lưu đày, bắt giữ hoặc xử án họ, không ai sẽ bận tâm. Cơ hội kết tội phụ thuộc vào khả năng xã hội của bị cáo và người buộc tội, cũng như số lượng khán giả.</TrialMentalState.description>
+  <TrialPrisoner.label>Phiên tòa</TrialPrisoner.label>
+<TrialPrisoner.description>Thực hiện phiên tòa cho một số tội ác ghê tởm, người khởi xướng sẽ tuyên bố ai đó đã phạm tội khủng khiếp và tuyển mộ đám đông cho phiên tòa. Những người đứng xem sẽ nghe thấy cáo buộc giữa người buộc tội và bị cáo, sau đó quyết định xem cáo buộc có đúng hay không. Nếu bị cáo bị xác định có tội, bạn có thể tự do lưu đày, bắt giữ hoặc xử án họ, không ai sẽ bận tâm. Cơ hội kết tội phụ thuộc vào khả năng xã hội của bị cáo và người buộc tội, cũng như số lượng khán giả.</TrialPrisoner.description>
+</LanguageData>

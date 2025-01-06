@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Denture.label>Răng giả</Denture.label>
+	<Denture.description>Một hàng răng giả đã được lắp đặt. Nó giúp người lắp đặt phục hồi khả năng ăn uống và nói cơ bản.</Denture.description>
+	<Denture.labelNoun>Răng giả</Denture.labelNoun>
+	<PegLeg.label>Chân gỗ</PegLeg.label>
+	<PegLeg.description>Một chân gỗ đã được lắp đặt. Nó giúp người lắp đặt phục hồi khả năng di chuyển cơ bản.</PegLeg.description>
+	<PegLeg.labelNoun>Chân gỗ</PegLeg.labelNoun>
+	<WoodenFoot.label>Chân gỗ</WoodenFoot.label>
+	<WoodenFoot.description>Một chân gỗ đã được lắp đặt. Nó giúp người lắp đặt phục hồi một mức độ cân bằng và phối hợp nhất định, nhưng không thể thực hiện các chuyển động phức tạp hơn.</WoodenFoot.description>
+	<WoodenFoot.labelNoun>Chân gỗ</WoodenFoot.labelNoun>
+	<WoodenHand.label>Chân gỗ</WoodenHand.label>
+	<WoodenHand.description>Một tay gỗ đã được lắp đặt. Mặc dù về mặt hiệu suất không tốt, nhưng vẫn tốt hơn là không có tay.</WoodenHand.description>
+	<WoodenHand.labelNoun>Tay gỗ</WoodenHand.labelNoun>
+</LanguageData>

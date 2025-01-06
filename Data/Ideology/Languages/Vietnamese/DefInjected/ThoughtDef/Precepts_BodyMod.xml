@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>Không có bộ phận nhân tạo</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+<HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>Tôi không có bất kỳ bộ phận cơ thể nhân tạo nào, điều này thật tầm thường và trái với niềm tin của tôi.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
+<HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>Không có bộ phận nhân tạo</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
+<HasProsthetic_Abhorrent.stages.artificial_enhancement.label>Có bộ phận nhân tạo</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
+<HasProsthetic_Abhorrent.stages.artificial_enhancement.description>Tôi có bộ phận cơ thể nhân tạo, điều này là một sự xúc phạm đối với niềm tin của tôi!</HasProsthetic_Abhorrent.stages.artificial_enhancement.description>
+<HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>Có bộ phận nhân tạo</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
+<HasProsthetic_Approved.stages.transhumanist_modded.label>Biến đổi công nghệ tích hợp</HasProsthetic_Approved.stages.transhumanist_modded.label>
+<HasProsthetic_Approved.stages.transhumanist_modded.description>Bộ phận cơ thể nhân tạo này phù hợp với niềm tin của tôi.</HasProsthetic_Approved.stages.transhumanist_modded.description>
+<HasProsthetic_Approved.stages.transhumanist_connected.label>Kết nối công nghệ tích hợp</HasProsthetic_Approved.stages.transhumanist_connected.label>
+<HasProsthetic_Approved.stages.transhumanist_connected.description>Số lượng bộ phận cơ thể nhân tạo mà tôi có càng nhiều, thì niềm tin của tôi càng mạnh mẽ.</HasProsthetic_Approved.stages.transhumanist_connected.description>
+<HasProsthetic_Approved.stages.transhumanist_enhanced.label>Tăng cường công nghệ tích hợp</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
+<HasProsthetic_Approved.stages.transhumanist_enhanced.description>Bộ phận cơ thể nhân tạo thứ ba của tôi đã tăng cường liên kết giữa tôi và niềm tin, nhưng tôi có thể có nhiều hơn nữa.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+<HasProsthetic_Approved.stages.transhumanist_synchronized.label>Đồng bộ công nghệ tích hợp</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
+<HasProsthetic_Approved.stages.transhumanist_synchronized.description>Chỉ cần thêm hai bộ phận cơ thể nhân tạo nữa, tôi sẽ đạt được hình dạng lý tưởng của mình.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+<HasProsthetic_Approved.stages.transhumanist_integrated.label>Tích hợp công nghệ hoàn chỉnh</HasProsthetic_Approved.stages.transhumanist_integrated.label>
+<HasProsthetic_Approved.stages.transhumanist_integrated.description>Năm bộ phận cơ thể nhân tạo! Đây là hình dạng hoàn hảo mà tôi mong muốn.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+<HasProsthetic_Approved.stages.transhumanist_transformed.label>Biến hình công nghệ tích hợp</HasProsthetic_Approved.stages.transhumanist_transformed.label>
+<HasProsthetic_Approved.stages.transhumanist_transformed.description>Tôi cảm thấy như đã vứt bỏ thể xác yếu đuối.</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+<HasProsthetic_Disapproved.stages.artificial_enhancement.label>Có bộ phận nhân tạo</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+<HasProsthetic_Disapproved.stages.artificial_enhancement.description>Tôi có bộ phận cơ thể nhân tạo, tôi không tin rằng điều này có thể được chấp nhận!</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+<HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>Có bộ phận nhân tạo</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+<InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>Đã lắp đặt chân giả</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+<InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>Tôi buộc phải lắp đặt chân giả. Điều này đã xúc phạm sâu sắc đến niềm tin của tôi.</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+<InstalledProsthetic_Disapproved.stages.installed_enhancement.label>Đã lắp đặt chân giả</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+<InstalledProsthetic_Disapproved.stages.installed_enhancement.description>Tôi buộc phải lắp đặt chân giả. Rõ ràng điều này đã xúc phạm đến niềm tin của tôi.</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+<InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>Đã lắp đặt chân giả</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+<InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>Đã lắp đặt chân giả</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
+</LanguageData>

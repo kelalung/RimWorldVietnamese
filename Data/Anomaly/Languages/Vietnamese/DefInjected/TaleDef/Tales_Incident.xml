@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DeathPall.label>Sương mù tử thần</DeathPall.label>
+	<DeathPall.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[PAWN_nameDef] đang đối mặt với sương mù tử thần đang tiến lại gần</li>
+		<li>image-&gt;[PAWN_nameFull] nhìn chằm chằm vào sương mù tử thần bao phủ mặt đất, [circumstance_group], những người chết lại sống dậy</li>
+		<li>image-&gt;[PAWN_nameFull] nắm chặt vũ khí của [PAWN_possessive], [circumstance_group], sương mù tử thần đang tiến lại gần, đánh thức những người chết nơi nó đi qua</li>
+		<li>image-&gt;[PAWN_nameFull] run rẩy lo lắng, [circumstance_group], [PAWN_pronoun] nhìn sương mù tử thần đến gần, nó ban cho những người đã chết quyền sống lại</li>
+		<li>image-&gt;[PAWN_nameFull] nhìn sợ hãi khi bóng ma của cái chết bao phủ ngôi nhà yên tĩnh của [PAWN_pronoun], [circumstance_group], ngôi nhà trở thành chiến trường chống lại những người chết</li>
+		<li>circumstance_phrase-&gt;Trong lời cầu nguyện tuyệt vọng của [PAWN_pronoun]</li>
+		<li>circumstance_phrase-&gt;Không khí tràn ngập mùi thối rữa và tuyệt vọng</li>
+		<li>circumstance_phrase-&gt;[PAWN_pronoun] bị bao vây bởi một đám quái vật đi lảo đảo</li>
+		<li>desc_sentence-&gt;Ở trung tâm của sương mù tử thần. [PAWN_nameDef] đã sẵn sàng chiến đấu.</li>
+		<li>desc_sentence-&gt;Sự tấn công không ngừng của sương mù tử thần khiến bạn bè của [PAWN_nameDef] cảm thấy sợ hãi.</li>
+		<li>desc_sentence-&gt;Khi ảnh hưởng của bóng ma cái chết lan rộng, lưng của [PAWN_nameDef] cũng run rẩy.</li>
+		<li>desc_sentence-&gt;Gánh nặng tuyệt vọng đè nặng lên [PAWN_nameDef], thử thách quyết tâm của [PAWN_pronoun] trong việc chống lại nỗi sợ hãi.</li>
+	</DeathPall.rulePack.rulesStrings>
+	<UnnaturalDarkness.label>Bóng tối bất thường</UnnaturalDarkness.label>
+	<UnnaturalDarkness.rulePack.rulesStrings>
+		<li>tale_noun-&gt;[PAWN_nameDef] đối mặt với hiện tượng bóng tối bất thường.</li>
+		<li>image-&gt;[PAWN_nameFull] nhìn thấy thế giới bị bóng tối không thể xuyên thấu nuốt chửng, đứng ngây người, [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] bị bao vây bởi những cột đen rơi xuống từ trên cao, mặt đất chìm trong bóng tối, [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] tìm kiếm con đường tiến lên trong bóng tối ngột ngạt, trong khi ác mộng bám theo [PAWN_possessive], [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] chứng kiến thế giới bị bóng tối sâu thẳm xâm chiếm, [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;Bạn bè của [PAWN_possessive] đang cố gắng hết sức để trở về vùng an toàn của ánh sáng</li>
+		<li>circumstance_phrase-&gt;Âm thanh của những tiếng kêu thảm thiết vang vọng xung quanh</li>
+		<li>circumstance_phrase-&gt;Ánh sáng dường như không thể ngăn chặn điều này</li>
+		<li>circumstance_phrase-&gt;[PAWN_pronoun] cầu xin được cứu rỗi</li>
+		<li>desc_sentence-&gt;Ngay cả ánh sáng mờ nhạt từ xa cũng không thể nhìn thấy.</li>
+		<li>desc_sentence-&gt;Tình hình dường như đã hoàn toàn tuyệt vọng.</li>
+		<li>desc_sentence-&gt;Ở rìa bóng tối có thể thấy những sinh vật mờ ảo đang tụ tập.</li>
+		<li>desc_sentence-&gt;[PAWN_nameDef] cố gắng tìm kiếm một tia hy vọng trong bóng tối.</li>
+	</UnnaturalDarkness.rulePack.rulesStrings>
+</LanguageData>

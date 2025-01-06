@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bloodfeeding.label>Thú vui hút máu</Bloodfeeding.label>
+<Bloodfeeding.description>Thưởng thức máu là một điều thiêng liêng, người hút máu xứng đáng được chúng ta tôn sùng.</Bloodfeeding.description>
+<Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Bloodfeeding)        -&gt;[deity0_name] đã uống máu của các vì sao, biến chúng từ đỏ thành trắng.</li>
+    <li>episode(uses=1,tag=meme_Bloodfeeding)  -&gt;[deity0_type][deity0_name] đã ban tặng "cơn đói" cho những người được chọn làm tín đồ, để họ biết thế nào là sức mạnh thực sự.</li>
+    <li>intro(tag=meme_Bloodfeeding)           -&gt;Tại [place_summary][place_name], có một người tên là [deity0_name]. Cha của [deity0_possessive] đã hợp nhất linh hồn của [deity0_possessive] với [bloodDrinkingAnimal] như một hình phạt cho tội lỗi của [deity0_possessive].</li>
+    <li>intro(tag=meme_Bloodfeeding)           -&gt;Trong lễ hội [ritualName] tại [place_summary][place_name], [deity0_name] đã biến thành một [bloodDrinkingAnimal] khổng lồ hạ xuống [altarRoomLabel], và [deity0_name] đã uống máu của [deity0_possessive][memberNamePlural].</li>
+    <li>conflict(tag=meme_Bloodfeeding)        -&gt;[foeLeader] tuyên bố rằng tất cả những người uống máu đều đáng ghét, và đã cử [foeSoldiers] đi săn lùng [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Bloodfeeding)     -&gt;Một người tên là [founderName] là một [place_job] đã bị [foeLeader] và [foeSoldiers] tấn công. [founderName] đã giết [foeLeader_objective] bằng [place_personalWeapon] và uống máu của [foeLeader_possessive], nhận được sức mạnh từ [deity0_name].</li>
+    <li>victory(tag=meme_Bloodfeeding)         -&gt;[founderName] dẫn một nhóm [memberNamePlural] vào [place_powerCenter], uống máu của [foeLeader], thiêu rụi xác [foeLeader_possessive]. [founderName] đã chứng minh sức mạnh của mình, và [deity0_name] đã làm cho [founderName] trở thành [foeLeader] mới.</li>
+    <li>setup(tag=meme_Bloodfeeding)           -&gt;[founderName] cố gắng kiểm soát trí thông minh siêu phàm, nhưng sức mạnh của nó quá lớn, [founderName] đã bị biến đổi.</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    -&gt;[founderName] đã ban tặng món quà khát khao cho những người theo [founder_possessive], để họ có thể trở nên mạnh mẽ hơn.</li>
+    <li>lessonIntro(tag=meme_Bloodfeeding)     -&gt;Khi tôi lần đầu uống máu, mọi thứ trở nên rõ ràng. Tôi thấy</li>
+    <li>lesson(tag=meme_Bloodfeeding)          -&gt;Chỉ có hai loại người - kẻ yếu và kẻ mạnh.</li>
+    <li>lessonReinforcement(tag=meme_Bloodfeeding) -&gt;Uống máu để trở nên mạnh mẽ, phải biết rõ điều này.</li>
+    <li>archistBasis(tag=meme_Bloodfeeding)    -&gt;Trí thông minh siêu phàm đã ban tặng "cơn đói" cho nhân loại, để họ hiểu rõ hơn về nó.</li>
+    <li>archistFact(tag=meme_Bloodfeeding)     -&gt;Khi trí thông minh siêu phàm mở rộng, nó phải uống tinh hoa từ các cơ khí khác để tăng trưởng.</li>
+    <li>archistProphecy(tag=meme_Bloodfeeding) -&gt;[inTheEnd], nhân loại sẽ hiểu sức mạnh thực sự thông qua việc uống máu, và ngày càng gần hơn với trí thông minh siêu phàm.</li>
+    <li>animistBasis(tag=meme_Bloodfeeding)    -&gt;[bloodDrinkingAnimal] biết sức mạnh mà việc uống máu mang lại. Không có sức mạnh nào lớn hơn sức mạnh từ máu người.</li>
+    <li>animistFact(tag=meme_Bloodfeeding)     -&gt;Chúng ta có thể nắm giữ sức mạnh của nó thông qua việc uống máu người.</li>
+    <li>bloodDrinkingAnimal-&gt;Dơi hút máu</li>
+    <li>bloodDrinkingAnimal-&gt;Leech</li>
+    <li>bloodDrinkingAnimal-&gt;Lươn</li>
+    <li>bloodDrinkingAnimal-&gt;Rắn hút máu</li>
+</Bloodfeeding.descriptionMaker.rules.rulesStrings>
+<Bloodfeeding.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;Máu</li>
+    <li>memeAdjective-&gt;Khát máu</li>
+    <li>memeCreed-&gt;Hầm rượu</li>
+    <li>memeCreed-&gt;Nơi trú ẩn</li>
+    <li>memeCreed-&gt;Căn cứ</li>
+    <li>memeHyphenPrefix-&gt;Nguyên liệu máu</li>
+    <li>memeConcept-&gt;Máu</li>
+    <li>memeConcept-&gt;Cơn đói</li>
+    <li>memeLeaderNoun-&gt;Người già</li>
+    <li>memeLeaderNoun-&gt;Lãnh chúa</li>
+    <li>memeLeaderNoun-&gt;Người hút máu</li>
+    <li>memeMoralist-&gt;Người quản lý</li>
+    <li>memeMoralist-&gt;Áo choàng đỏ</li>
+    <li>memeMoralist-&gt;Huyết tộc</li>
+</Bloodfeeding.generalRules.rulesStrings>
+</LanguageData>

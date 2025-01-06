@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>Phá hủy đá tự nhiên</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+<MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>Tôi đã phá hủy một mảng đá, việc để lại vết thương cho thiên nhiên như vậy là không đúng.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
+<MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>Phá hủy đá tự nhiên</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+<MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>Tôi đã phá hủy một mảng đá, đây là một sự xâm phạm khủng khiếp đối với thiên nhiên.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
+<MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>Phá hủy đá tự nhiên</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+<MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>Tôi đã phá hủy một mảng đá, đây là một sự xúc phạm lớn đối với thiên nhiên.</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
+<Mined_Disapproved.stages.mined.label>Tiến hành khai thác</Mined_Disapproved.stages.mined.label>
+<Mined_Disapproved.stages.mined.description>Tôi buộc phải đào một cái hố, tôi không đồng ý với hành động gây hại cho đất đai này.</Mined_Disapproved.stages.mined.description>
+<Mined_Horrible.stages.mined.label>Tiến hành khai thác</Mined_Horrible.stages.mined.label>
+<Mined_Horrible.stages.mined.description>Tôi buộc phải đào một cái hố, đây là một sự xúc phạm đối với đất đai.</Mined_Horrible.stages.mined.description>
+<Mined_Know_Disapproved.stages.mined.label>Tiến hành khai thác</Mined_Know_Disapproved.stages.mined.label>
+<Mined_Know_Disapproved_Mood.stages.mined.label>Tiến hành khai thác</Mined_Know_Disapproved_Mood.stages.mined.label>
+<Mined_Know_Disapproved_Mood.stages.mined.description>Có người đã đào một cái hố trên mặt đất trong sạch, việc làm tổn hại thế giới theo cách này là sai trái.</Mined_Know_Disapproved_Mood.stages.mined.description>
+<Mined_Know_Horrible.stages.mined.label>Tiến hành khai thác</Mined_Know_Horrible.stages.mined.label>
+<Mined_Know_Horrible_Mood.stages.mined.label>Tiến hành khai thác</Mined_Know_Horrible_Mood.stages.mined.label>
+<Mined_Know_Horrible_Mood.stages.mined.description>Có người đã đào một cái hố trên mặt đất trong sạch, thật sự là một sự xúc phạm khủng khiếp đối với thiên nhiên.</Mined_Know_Horrible_Mood.stages.mined.description>
+<Mined_Know_Prohibited.stages.mined.label>Tiến hành khai thác</Mined_Know_Prohibited.stages.mined.label>
+<Mined_Know_Prohibited_Mood.stages.mined.label>Tiến hành khai thác</Mined_Know_Prohibited_Mood.stages.mined.label>
+<Mined_Know_Prohibited_Mood.stages.mined.description>Chúng tôi đã đào một cái hố trên mặt đất trong sạch, thật sự là một sự xúc phạm khủng khiếp đối với thiên nhiên.</Mined_Know_Prohibited_Mood.stages.mined.description>
+</LanguageData>

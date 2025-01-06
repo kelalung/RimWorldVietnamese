@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ScenarioTitle>Tiêu đề</ScenarioTitle>
+<ScenPart_StartingMech>Máy móc khởi đầu</ScenPart_StartingMech>
+<Mechanoid>Máy móc</Mechanoid>
+<RandomMech>Ngẫu nhiên</RandomMech>
+<StartOverseenChance>Xác suất giám sát</StartOverseenChance>
+</LanguageData>

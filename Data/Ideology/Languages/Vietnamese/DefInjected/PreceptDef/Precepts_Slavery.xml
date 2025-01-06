@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Slavery_Abhorrent.label>Kinh tởm</Slavery_Abhorrent.label>
+<Slavery_Abhorrent.description>Để nô lệ hoặc buôn bán người khác là cực kỳ ác độc.</Slavery_Abhorrent.description>
+<Slavery_Abhorrent.comps.0.description>Mỗi nô lệ trong thuộc địa</Slavery_Abhorrent.comps.0.description>
+<Slavery_Abhorrent.comps.5.description>Có người bán nô lệ</Slavery_Abhorrent.comps.5.description>
+<Slavery_Acceptable.label>Chấp nhận</Slavery_Acceptable.label>
+<Slavery_Acceptable.description>Nô lệ là một phần không đáng kể trong cuộc sống hàng ngày.</Slavery_Acceptable.description>
+<Slavery_Disapproved.label>Phản cảm</Slavery_Disapproved.label>
+<Slavery_Disapproved.description>Nô lệ là một phần trong cuộc sống hàng ngày, mặc dù điều này rất đáng ghê tởm.</Slavery_Disapproved.description>
+<Slavery_Disapproved.comps.0.description>Mỗi nô lệ trong thuộc địa</Slavery_Disapproved.comps.0.description>
+<Slavery_Disapproved.comps.5.description>Có người bán nô lệ</Slavery_Disapproved.comps.5.description>
+<Slavery_Disapproved.comps.6.description>Có người đã nô lệ hóa tù nhân</Slavery_Disapproved.comps.6.description>
+<Slavery_Honorable.label>Tôn kính</Slavery_Honorable.label>
+<Slavery_Honorable.description>Những người sở hữu hoặc giao dịch nô lệ đáng được tôn trọng.</Slavery_Honorable.description>
+<Slavery_Honorable.comps.0.description>Mỗi nô lệ trong thuộc địa</Slavery_Honorable.comps.0.description>
+<Slavery_Honorable.comps.6.description>Có người bán nô lệ</Slavery_Honorable.comps.6.description>
+<Slavery_Honorable.comps.7.description>Có người đã nô lệ hóa tù nhân</Slavery_Honorable.comps.7.description>
+<Slavery_Honorable.comps.8.eventLabel>Nô lệ hóa tù nhân</Slavery_Honorable.comps.8.eventLabel>
+<Slavery_Horrible.label>Kinh hãi</Slavery_Horrible.label>
+<Slavery_Horrible.description>Để nô lệ hoặc buôn bán người khác là điều đáng sợ.</Slavery_Horrible.description>
+<Slavery_Horrible.comps.0.description>Mỗi nô lệ trong thuộc địa</Slavery_Horrible.comps.0.description>
+<Slavery_Horrible.comps.5.description>Có người bán nô lệ</Slavery_Horrible.comps.5.description>
+<Slavery_Horrible.comps.6.description>Có người đã nô lệ hóa tù nhân</Slavery_Horrible.comps.6.description>
+</LanguageData>

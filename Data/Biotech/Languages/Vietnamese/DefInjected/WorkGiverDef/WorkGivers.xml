@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <BottleFeedBaby.label>Cho bú bình cho trẻ</BottleFeedBaby.label>
+<BottleFeedBaby.gerund>Cho bú</BottleFeedBaby.gerund>
+<BottleFeedBaby.verb>Cho bú</BottleFeedBaby.verb>
+<BreastfeedBaby.label>Cho bú sữa mẹ cho trẻ</BreastfeedBaby.label>
+<BreastfeedBaby.gerund>Cho bú sữa mẹ</BreastfeedBaby.gerund>
+<BreastfeedBaby.verb>Cho bú sữa mẹ</BreastfeedBaby.verb>
+<BringBabyToSafety.label>Đưa trẻ đến nơi an toàn</BringBabyToSafety.label>
+<BringBabyToSafety.gerund>Cứu hộ</BringBabyToSafety.gerund>
+<BringBabyToSafety.verb>Cứu hộ</BringBabyToSafety.verb>
+<CarryToBreastfeed.label>Đưa cho mẹ bú</CarryToBreastfeed.label>
+<CarryToBreastfeed.gerund>Cho bú sữa mẹ</CarryToBreastfeed.gerund>
+<CarryToBreastfeed.verb>Cho bú sữa mẹ</CarryToBreastfeed.verb>
+<CarryToGeneExtractor.label>Đưa đến máy chiết gene</CarryToGeneExtractor.label>
+<CarryToGeneExtractor.gerund>Chiết gene từ</CarryToGeneExtractor.gerund>
+<CarryToGeneExtractor.verb>Chiết gene</CarryToGeneExtractor.verb>
+<CarryToGrowthVat.label>Đưa đến buồng phát triển</CarryToGrowthVat.label>
+<CarryToGrowthVat.gerund>Phát triển</CarryToGrowthVat.gerund>
+<CarryToGrowthVat.verb>Phát triển</CarryToGrowthVat.verb>
+<CarryToSubcoreScanner.label>Đưa đến máy quét lõi phụ</CarryToSubcoreScanner.label>
+<CarryToSubcoreScanner.gerund>Đưa đến</CarryToSubcoreScanner.gerund>
+<CarryToSubcoreScanner.verb>Đưa đến</CarryToSubcoreScanner.verb>
+<ChildcarerTeach.label>Giáo dục trẻ em</ChildcarerTeach.label>
+<ChildcarerTeach.gerund>Giáo dục</ChildcarerTeach.gerund>
+<ChildcarerTeach.verb>Giáo dục</ChildcarerTeach.verb>
+<CleanClearPollution.label>Vệ sinh ô nhiễm</CleanClearPollution.label>
+<CleanClearPollution.gerund>Vệ sinh ô nhiễm</CleanClearPollution.gerund>
+<CleanClearPollution.verb>Vệ sinh ô nhiễm</CleanClearPollution.verb>
+<CreateXenogerm.label>Tạo ra phôi ngoại lai</CreateXenogerm.label>
+<CreateXenogerm.gerund>Tạo ra phôi ngoại lai từ</CreateXenogerm.gerund>
+<CreateXenogerm.verb>Tạo ra phôi ngoại lai</CreateXenogerm.verb>
+<DeliverHemogenToPrisoner.label>Cung cấp huyết nguyên cho tù nhân</DeliverHemogenToPrisoner.label>
+<DeliverHemogenToPrisoner.gerund>Cung cấp huyết nguyên cho</DeliverHemogenToPrisoner.gerund>
+<DeliverHemogenToPrisoner.verb>Cung cấp huyết nguyên cho</DeliverHemogenToPrisoner.verb>
+<DoBillsMechGestator.label>Tạo ra trong máy phát triển cơ khí</DoBillsMechGestator.label>
+<DoBillsMechGestator.gerund>Tạo ra trong</DoBillsMechGestator.gerund>
+<DoBillsMechGestator.verb>Tạo ra trong</DoBillsMechGestator.verb>
+<DoBillsSubcoreEncoder.label>Tạo ra trong bộ mã hóa lõi phụ</DoBillsSubcoreEncoder.label>
+<DoBillsSubcoreEncoder.gerund>Tạo ra trong</DoBillsSubcoreEncoder.gerund>
+<DoBillsSubcoreEncoder.verb>Tạo ra trong</DoBillsSubcoreEncoder.verb>
+<EmptyWasteContainer.label>Đổ rác trong thùng chứa ô nhiễm</EmptyWasteContainer.label>
+<EmptyWasteContainer.gerund>Đổ rác</EmptyWasteContainer.gerund>
+<EmptyWasteContainer.verb>Đổ rác</EmptyWasteContainer.verb>
+<EnterGeneExtractor.label>Vào máy chiết gene</EnterGeneExtractor.label>
+<EnterGeneExtractor.gerund>Vào</EnterGeneExtractor.gerund>
+<EnterGeneExtractor.verb>Vào</EnterGeneExtractor.verb>
+<EnterGrowthVat.label>Vào buồng phát triển</EnterGrowthVat.label>
+<EnterGrowthVat.gerund>Vào</EnterGrowthVat.gerund>
+<EnterGrowthVat.verb>Vào</EnterGrowthVat.verb>
+<EnterSubcoreScanner.label>Vào máy quét lõi phụ</EnterSubcoreScanner.label>
+<EnterSubcoreScanner.gerund>Vào</EnterSubcoreScanner.gerund>
+<EnterSubcoreScanner.verb>Vào</EnterSubcoreScanner.verb>
+<FeedHemogen.label>Áp dụng huyết nguyên</FeedHemogen.label>
+<FeedHemogen.gerund>Áp dụng huyết nguyên cho</FeedHemogen.gerund>
+<FeedHemogen.verb>Áp dụng huyết nguyên cho</FeedHemogen.verb>
+<HaulMechsToCharger.label>Chuyển đến trạm sạc</HaulMechsToCharger.label>
+<HaulMechsToCharger.gerund>Chuyển</HaulMechsToCharger.gerund>
+<HaulMechsToCharger.verb>Chuyển</HaulMechsToCharger.verb>
+<HaulToCarrier.label>Chuyển tài nguyên</HaulToCarrier.label>
+<HaulToCarrier.gerund>Chuyển đến</HaulToCarrier.gerund>
+<HaulToCarrier.verb>Chuyển đến</HaulToCarrier.verb>
+<HaulToGeneBank.label>Lưu trữ gen</HaulToGeneBank.label>
+<HaulToGeneBank.gerund>Lưu trữ</HaulToGeneBank.gerund>
+<HaulToGeneBank.verb>Lưu trữ</HaulToGeneBank.verb>
+<HaulToGrowthVat.label>Đưa đến buồng phát triển</HaulToGrowthVat.label>
+<HaulToGrowthVat.gerund>Chuyển đến</HaulToGrowthVat.gerund>
+<HaulToGrowthVat.verb>Chuyển đến</HaulToGrowthVat.verb>
+<HaulToSubcoreScanner.label>Chuyển tài nguyên</HaulToSubcoreScanner.label>
+<HaulToSubcoreScanner.gerund>Chuyển đến</HaulToSubcoreScanner.gerund>
+<HaulToSubcoreScanner.verb>Chuyển đến</HaulToSubcoreScanner.verb>
+<HaulToWastepackAtomizer.label>Chuyển đến máy phân hủy rác</HaulToWastepackAtomizer.label>
+<HaulToWastepackAtomizer.gerund>Chuyển đến</HaulToWastepackAtomizer.gerund>
+<HaulToWastepackAtomizer.verb>Chuyển đến</HaulToWastepackAtomizer.verb>
+<PlayWithBaby.label>Chơi với trẻ</PlayWithBaby.label>
+<PlayWithBaby.gerund>Đùa giỡn</PlayWithBaby.gerund>
+<PlayWithBaby.verb>Đùa giỡn</PlayWithBaby.verb>
+<RepairMech.label>Sửa chữa máy móc</RepairMech.label>
+<RepairMech.gerund>Sửa chữa</RepairMech.gerund>
+<RepairMech.verb>Sửa chữa</RepairMech.verb>
+</LanguageData>

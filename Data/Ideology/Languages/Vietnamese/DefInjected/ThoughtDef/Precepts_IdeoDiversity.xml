@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>Đàn tế dị giáo</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
+<IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>Đàn tế dị giáo và {ALTAR_labelShort} của chúng ta ở trong cùng một căn phòng! Đây là sự xúc phạm đến sự thánh thiện.</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
+<IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>Đàn tế dị giáo</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
+<IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>Đàn tế dị giáo và {ALTAR_labelShort} của chúng ta ở trong cùng một căn phòng. Điều này là không đúng.</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
+<IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>Đàn tế dị giáo</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
+<IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>Đàn tế dị giáo và {ALTAR_labelShort} của chúng ta ở trong cùng một căn phòng. Đây là sự xâm phạm đối với thánh thần của chúng ta.</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>Sự thật của tôi thật trong sáng và dễ hiểu, nhưng những người xung quanh lại bị cái ác chiếm hữu. Thật ghê tởm.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>Sự thật của tôi thật trong sáng và dễ hiểu, nhưng những người xung quanh lại bị cái ác chiếm hữu. Thật ghê tởm.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>
+<IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>Sự thật của tôi thật trong sáng và dễ hiểu, nhưng những người xung quanh lại bị cái ác chiếm hữu. Thật ghê tởm.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>Nghi lễ dị giáo</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>
+<IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>Tôi đã tham dự một nghi lễ dị giáo, dù tôi có thích hay không, tôi không nên làm như vậy.</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>
+<IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>Văn hóa khác nhau</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
+<IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>Phong cách môi trường {ADJECTIVE}</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>
+<IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>Các công trình xung quanh phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>
+<IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>Phong cách môi trường không {ADJECTIVE}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>
+<IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>Các công trình xung quanh không phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
+<IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>Suy nghĩ thống nhất</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
+<IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>Cộng đồng của chúng tôi không có những suy nghĩ xấu xa, điều này là hiển nhiên.</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>
+<IdeoDiversity_Approved.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Approved.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Approved.stages.diverse_thoughts-0.description>Các thành viên khác ở đây có đức tin khác nhau. Đây là dấu hiệu của một cộng đồng khỏe mạnh.</IdeoDiversity_Approved.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Approved.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Approved.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Approved.stages.diverse_thoughts-1.description>Nhiều người ở đây có đức tin khác nhau. Đây là dấu hiệu của một cộng đồng khỏe mạnh.</IdeoDiversity_Approved.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Approved.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Approved.stages.diverse_thoughts-2.label>
+<IdeoDiversity_Approved.stages.diverse_thoughts-2.description>Hầu hết mọi người ở đây có đức tin khác nhau. Đây là dấu hiệu của một cộng đồng khỏe mạnh.</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>Môi trường {ADJECTIVE}</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
+<IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>Môi trường xung quanh tôi rất {ADJECTIVE}. Điều này rất tốt, nhưng một môi trường đa dạng sẽ tốt hơn.</IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>
+<IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>Môi trường không {ADJECTIVE}</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>
+<IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>Môi trường xung quanh tôi hoàn toàn không phải là {ADJECTIVE}. Tôi thích sự đa dạng này.</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>Sự thật của tôi rất rõ ràng, nhưng một số người xung quanh tôi thật ngu ngốc, không thể nhận ra. Tôi không thích phải chịu đựng sự ngu ngốc của họ.</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>Sự thật của tôi rất rõ ràng, nhưng nhiều người xung quanh tôi thật ngu ngốc, không thể nhận ra. Tôi không thích phải chịu đựng sự ngu ngốc của họ.</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>
+<IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>Sự thật của tôi rất rõ ràng, nhưng hầu hết mọi người xung quanh tôi thật ngu ngốc, không thể nhận ra. Tôi không thích phải chịu đựng sự ngu ngốc của họ.</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>Nghi lễ dị giáo</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>
+<IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>Tôi đã tham dự một nghi lễ dị giáo, dù tôi có thích hay không, đây không phải là điều tốt.</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>
+<IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>Văn hóa khác nhau</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
+<IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>Phong cách môi trường {ADJECTIVE}</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>
+<IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>Các công trình xung quanh phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>
+<IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>Phong cách môi trường không {ADJECTIVE}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>
+<IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>Các công trình xung quanh không phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
+<IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>Suy nghĩ thống nhất</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
+<IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>Cộng đồng của chúng tôi không có những suy nghĩ ngu ngốc, điều này là đúng.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>Một số người ở đây có đức tin khác nhau. Tôi tự hào khi là một phần của một cộng đồng như vậy.</IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>Nhiều người ở đây có đức tin khác nhau. Tôi tự hào khi là một phần của một cộng đồng như vậy.</IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>
+<IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>Hầu hết mọi người ở đây có đức tin khác nhau. Tôi tự hào khi là một phần của một cộng đồng như vậy.</IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>Môi trường {ADJECTIVE}</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>
+<IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>Môi trường xung quanh tôi rất {ADJECTIVE}. Điều này rất tốt, nhưng một môi trường đa dạng sẽ tốt hơn.</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>
+<IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>Môi trường không {ADJECTIVE}</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>
+<IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>Môi trường xung quanh tôi hoàn toàn không phải là {ADJECTIVE}. Tôi rất vui khi là một phần của cộng đồng đa dạng này.</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
+<IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>Sự thật của tôi rõ ràng như ban ngày, nhưng một số người xung quanh lại tự lừa dối mình. Điều này thật khủng khiếp.</IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>Sự thật của tôi rõ ràng như ban ngày, nhưng nhiều người xung quanh lại tự lừa dối mình. Điều này thật khủng khiếp.</IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
+ <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>Sự thật của tôi rõ ràng như ban ngày, nhưng hầu hết mọi người xung quanh lại tự lừa dối mình. Điều này thật khủng khiếp.</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>Nghi lễ dị giáo</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>
+<IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>Tôi đã tham dự một nghi lễ dị giáo, dù tôi có thích hay không, tôi không nên làm như vậy.</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>
+<IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>Văn hóa khác nhau</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
+<IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>Phong cách môi trường {ADJECTIVE}</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>
+<IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>Các công trình xung quanh phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>
+<IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>Phong cách môi trường không {ADJECTIVE}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>
+<IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>Các công trình xung quanh không phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
+<IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>Suy nghĩ thống nhất</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
+<IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>Cộng đồng của chúng tôi không có những suy nghĩ xấu xa, điều này là hiển nhiên.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
+<IdeoDiversity_Respected.stages.diverse_thoughts-0.label>Suy nghĩ đa dạng</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
+<IdeoDiversity_Respected.stages.diverse_thoughts-0.description>Một số người khác ở đây có đức tin khác nhau. Đây là dấu hiệu quan trọng của một cộng đồng khỏe mạnh.</IdeoDiversity_Respected.stages.diverse_thoughts-0.description>
+<IdeoDiversity_Respected.stages.diverse_thoughts-1.label>Suy nghĩ đa dạng</IdeoDiversity_Respected.stages.diverse_thoughts-1.label>
+<IdeoDiversity_Respected.stages.diverse_thoughts-1.description>Nhiều người khác ở đây có đức tin khác nhau. Đây là dấu hiệu quan trọng của một cộng đồng khỏe mạnh.</IdeoDiversity_Respected.stages.diverse_thoughts-1.description>
+<IdeoDiversity_Respected.stages.diverse_thoughts-2.label>Suy nghĩ đa dạng</IdeoDiversity_Respected.stages.diverse_thoughts-2.label>
+<IdeoDiversity_Respected.stages.diverse_thoughts-2.description>Hầu hết mọi người khác ở đây có đức tin khác nhau. Đây là dấu hiệu quan trọng của một cộng đồng khỏe mạnh.</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
+<IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>Môi trường {ADJECTIVE}</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>
+<IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>Môi trường xung quanh tôi rất {ADJECTIVE}. Điều này rất tốt, nhưng một môi trường đa dạng sẽ tốt hơn.</IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>
+<IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>Môi trường không {ADJECTIVE}</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>
+<IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>Môi trường xung quanh tôi hoàn toàn không phải là {ADJECTIVE}. Tôi rất vui khi là một phần của cộng đồng đa dạng này.</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
+<IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>Phong cách môi trường {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>
+<IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>Các công trình xung quanh phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>
+<IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>Phong cách môi trường không {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>
+<IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>Tôi bị bao quanh bởi một môi trường không {ADJECTIVE}. Điều này rất tốt, nhưng tôi thích ở trong một môi trường {ADJECTIVE} hơn, nơi các công trình phù hợp với phong cách phản ánh đức tin {ADJECTIVE} của tôi. Các phong cách sau đây thể hiện đức tin của tôi: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
+</LanguageData>

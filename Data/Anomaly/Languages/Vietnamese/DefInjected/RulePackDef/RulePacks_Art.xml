@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerArtCubeSculpture.rulePack.rulesStrings>
+		<li>r_art_name-&gt;[AdjectiveAny]Khối lập phương</li>
+		<li>r_art_name-&gt;[adjectiveCube]Khối lập phương</li>
+		<li>r_art_name-&gt;[ConceptAny]Khối lập phương</li>
+		<li>adjectiveCube-&gt;Nhão</li>
+		<li>adjectiveCube-&gt;Thiếu sót</li>
+		<li>adjectiveCube-&gt;Khổng lồ</li>
+		<li>adjectiveCube-&gt;Xấu xí</li>
+		<li>adjectiveCube-&gt;Nặng nề</li>
+		<li>adjectiveCube-&gt;Đa năng</li>
+		<li>adjectiveCube-&gt;Dễ thương</li>
+		<li>adjectiveCube-&gt;Hoàn hảo</li>
+		<li>adjectiveCube-&gt;Sắc bén</li>
+		<li>adjectiveCube-&gt;Đại trà</li>
+		<li>adjectiveCube-&gt;Lý trí</li>
+		<li>adjectiveCube-&gt;Tỉ mỉ</li>
+		<li>adjectiveCube-&gt;Thần thánh</li>
+		<li>adjectiveCube-&gt;Biến dạng</li>
+		<li>adjectiveCube-&gt;Nghiêng lệch</li>
+		<li>adjectiveCube-&gt;Chán nản</li>
+		<li>adjectiveCube-&gt;Không ổn định</li>
+		<li>adjectiveCube-&gt;Biến hình</li>
+		<li>adjectiveCube-&gt;Không đối xứng</li>
+		<li>adjectiveCube-&gt;Bất thường</li>
+		<li>adjectiveCube-&gt;Kỳ quái</li>
+		<li>adjectiveCube-&gt;Chảy</li>
+		<li>adjectiveCube-&gt;Kỳ lạ</li>
+		<li>adjectiveCube-&gt;Mộng mơ</li>
+		<li>adjectiveCube-&gt;Hỗn loạn</li>
+		<li>adjectiveCube-&gt;Không phải lập phương</li>
+		<li>adjectiveCube-&gt;Lơ lửng</li>
+		<li>adjectiveCube-&gt;Biến dạng</li>
+		<li>adjectiveCube-&gt;Huyền bí</li>
+		<li>adjectiveCube-&gt;Vô lý</li>
+		<li>adjectiveCube-&gt;Mờ nhạt</li>
+	</NamerArtCubeSculpture.rulePack.rulesStrings>
+	<NamerArtVoidSculpture.rulePack.rulesStrings>
+		<li>r_art_name-&gt;[AdjectiveAngsty]Tượng điêu khắc</li>
+		<li>r_art_name-&gt;[adjectiveUnsettling]Tượng điêu khắc</li>
+		<li>adjectiveUnsettling-&gt;Rối loạn</li>
+		<li>adjectiveUnsettling-&gt;Kỳ quái</li>
+		<li>adjectiveUnsettling-&gt;Quái dị</li>
+		<li>adjectiveUnsettling-&gt;Kinh dị</li>
+		<li>adjectiveUnsettling-&gt;Ám ảnh</li>
+		<li>adjectiveUnsettling-&gt;Rùng rợn</li>
+		<li>adjectiveUnsettling-&gt;Tội lỗi</li>
+		<li>adjectiveUnsettling-&gt;Đáng sợ</li>
+		<li>adjectiveUnsettling-&gt;Kích thích</li>
+		<li>adjectiveUnsettling-&gt;Sợ hãi</li>
+		<li>adjectiveUnsettling-&gt;U ám</li>
+		<li>adjectiveUnsettling-&gt;Đáng sợ</li>
+		<li>adjectiveUnsettling-&gt;Sợ hãi</li>
+		<li>adjectiveUnsettling-&gt;Sốc</li>
+		<li>adjectiveUnsettling-&gt;Quái dị </li>
+		<li>adjectiveUnsettling-&gt;Kỳ lạ</li>
+		<li>adjectiveUnsettling-&gt;Bất thường</li>
+		<li>adjectiveUnsettling-&gt;Kỳ quái không tưởng</li>
+		<li>adjectiveUnsettling-&gt;Kỳ lạ</li>
+		<li>adjectiveUnsettling-&gt;Siêu phàm</li>
+	</NamerArtVoidSculpture.rulePack.rulesStrings>
+</LanguageData>

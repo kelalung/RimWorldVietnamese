@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WorkTagNone>(Không)</WorkTagNone>
+	<WorkTagIntellectual>Công việc trí thức</WorkTagIntellectual>
+	<WorkTagManualDumb>Công việc đơn giản</WorkTagManualDumb>
+	<WorkTagManualSkilled>Công việc chuyên môn</WorkTagManualSkilled>
+	<WorkTagViolent>Hành vi bạo lực</WorkTagViolent>
+	<WorkTagShooting>Bắn súng</WorkTagShooting>
+	<WorkTagCaring>Công việc chăm sóc</WorkTagCaring>
+	<WorkTagSocial>Công việc xã hội</WorkTagSocial>
+	<WorkTagAnimals>Công việc thú cưng</WorkTagAnimals>
+	<WorkTagArtistic>Công việc nghệ thuật</WorkTagArtistic>
+	<WorkTagCrafting>Công việc thủ công</WorkTagCrafting>
+	<WorkTagCooking>Công việc nấu ăn</WorkTagCooking>
+	<WorkTagFirefighting>Công việc chữa cháy</WorkTagFirefighting>
+	<WorkTagCleaning>Công việc dọn dẹp</WorkTagCleaning>
+	<WorkTagHauling>Công việc vận chuyển</WorkTagHauling>
+	<WorkTagPlantWork>Công việc trồng trọt</WorkTagPlantWork>
+	<WorkTagMining>Công việc khai thác</WorkTagMining>
+	<WorkTagHunting>Công việc săn bắn</WorkTagHunting>
+	<WorkTagConstructing>Công việc xây dựng</WorkTagConstructing>
+	<WorkTagCommoner>Công việc phổ thông</WorkTagCommoner>
+	<WorkTagAllWork>Tất cả công việc</WorkTagAllWork>
+</LanguageData>

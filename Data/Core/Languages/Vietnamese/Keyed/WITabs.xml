@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TabTerrain>Địa hình</TabTerrain>
+	<TabPlanet>Hành tinh</TabPlanet>
+	<TabCaravanFeeding>Cho ăn</TabCaravanFeeding>
+	<TabCaravanSocial>Xã hội</TabCaravanSocial>
+	<TabCaravanHealth>Sức khỏe</TabCaravanHealth>
+	<TabCaravanNeeds>Nhu cầu</TabCaravanNeeds>
+	<TabCaravanGear>Thiết bị</TabCaravanGear>
+	<TabCaravanItems>Vật phẩm</TabCaravanItems>
+	<AbandonSliderText>Bỏ {{0}}x{0}</AbandonSliderText>
+	<ConfirmAbandonItemDialog>Bạn có chắc chắn muốn bỏ {0} không?\n\nCác vật phẩm bị bỏ sẽ biến mất và không thể khôi phục.</ConfirmAbandonItemDialog>
+	<AbandonTip>Bỏ</AbandonTip>
+	<BanishTip>Đày ải</BanishTip>
+	<AbandonSpecificCountTip>Bỏ số lượng cụ thể</AbandonSpecificCountTip>
+	<AbandonAllTip>Bỏ (Tất cả)</AbandonAllTip>
+	<AbandonItemTipExtraText>Các vật phẩm bị bỏ sẽ biến mất và không thể khôi phục.</AbandonItemTipExtraText>
+	<BanishTipWillDie>{1_labelShort} có khả năng cao sẽ chết.</BanishTipWillDie>
+	<CaravanColonists>Nhân dân</CaravanColonists>
+	<CaravanPrisonersAndAnimals>Tù nhân và động vật</CaravanPrisonersAndAnimals>
+	<CaravanItems>Hàng hóa</CaravanItems>
+	<OpenSpecificTabButtonTip>Nhấp để mở tab chi tiết hơn.</OpenSpecificTabButtonTip>
+	<CaravanPrisoners>Tù nhân</CaravanPrisoners>
+	<CaravanWeaponsAndApparel>Vật phẩm có thể trang bị</CaravanWeaponsAndApparel>
+	<NoneCapable>Không ai đủ khả năng</NoneCapable>
+	<GainingJoyBecauseCaravanNotMoving>Đoàn xe không di chuyển</GainingJoyBecauseCaravanNotMoving>
+	<DragToRearrange>Kéo để sắp xếp lại.</DragToRearrange>
+	<AssignDrugPolicies>Chỉ định chính sách sử dụng thuốc</AssignDrugPolicies>
+	<BeCarriedIfSickTip>Khi người này hoặc động vật bị bệnh, có nên để các thành viên khác trong đoàn mang theo không?\n\nNgười được mang theo có thể nghỉ ngơi trong khi đoàn di chuyển, nhưng sẽ ảnh hưởng đến tốc độ di chuyển của đoàn.</BeCarriedIfSickTip>
+	<PlanetSeed>Hạt giống</PlanetSeed>
+	<PlanetCoverageShort>Phạm vi bao phủ</PlanetCoverageShort>
+</LanguageData>

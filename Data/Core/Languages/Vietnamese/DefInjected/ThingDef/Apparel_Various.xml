@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_ArmorRecon.label>Áo giáp trinh sát</Apparel_ArmorRecon.label>
+	<Apparel_ArmorRecon.description>Một bộ áo giáp nhẹ bị cắt giảm, đánh đổi độ dày của lớp áo giáp sợi thủy tinh để có được tính linh hoạt tốt hơn. Thiết bị hỗ trợ thần kinh nằm ở giữa bộ giáp cho phép người mặc vẫn có thể di chuyển dễ dàng.\n\nLoại áo giáp như thế này thường được sử dụng bởi lính trinh sát của đế chế hoặc lực lượng cảnh sát thế giới chói sáng.</Apparel_ArmorRecon.description>
+	<Apparel_BasicShirt.label>Áo phông</Apparel_BasicShirt.label>
+	<Apparel_BasicShirt.description>Một chiếc áo phông bình thường.</Apparel_BasicShirt.description>
+	<!-- <Apparel_Cape.label>Áo choàng</Apparel_Cape.label> -->
+	<!-- <Apparel_Cape.description>Chiếc áo choàng dài với thiết kế thanh lịch, treo bên một bên cơ thể.</Apparel_Cape.description> -->
+	<Apparel_CollarShirt.label>Áo sơ mi</Apparel_CollarShirt.label>
+	<Apparel_CollarShirt.description>Một chiếc áo sơ mi có cổ đẹp, có nút.</Apparel_CollarShirt.description>
+	<Apparel_Duster.label>Áo khoác chống bụi</Apparel_Duster.label>
+	<Apparel_Duster.description>Một chiếc áo khoác dài chống bụi, dùng để che ánh nắng, nóng và bụi bẩn khi ở ngoài trời.</Apparel_Duster.description>
+	<Apparel_FlakJacket.label>Áo khoác chống đạn</Apparel_FlakJacket.label>
+	<Apparel_FlakJacket.description>Một chiếc áo khoác chắc chắn được may với lớp áo giáp bên trong. Mặc dù không kín như áo giáp, nhưng cũng cung cấp khả năng bảo vệ xuất sắc, đồng thời vẫn đảm bảo sự thoải mái.</Apparel_FlakJacket.description>
+	<Apparel_FlakPants.label>Quần chống đạn</Apparel_FlakPants.label>
+	<Apparel_FlakPants.description>Một chiếc quần chắc chắn được may với lớp áo giáp bên trong. Mặc dù không kín như áo giáp, nhưng cũng cung cấp khả năng bảo vệ xuất sắc, đồng thời vẫn đảm bảo sự thoải mái.</Apparel_FlakPants.description>
+	<Apparel_FlakVest.label>Áo giáp chống đạn</Apparel_FlakVest.label>
+	<Apparel_FlakVest.description>Một chiếc áo giáp có lớp áo giáp ở ngực và lưng. Chủ yếu dùng để bảo vệ thân và các cơ quan chính, không có khả năng bảo vệ cho các chi.</Apparel_FlakVest.description>
+	<Apparel_Jacket.label>Áo khoác</Apparel_Jacket.label>
+	<Apparel_Jacket.description>Một chiếc áo khoác chắc chắn, có thể tránh được trầy xước và cọ xát, cũng như giữ ấm trong thời tiết lạnh.</Apparel_Jacket.description>
+	<Apparel_Pants.label>Quần</Apparel_Pants.label>
+	<Apparel_Pants.description>Một chiếc quần bình thường.</Apparel_Pants.description>
+	<Apparel_Parka.label>Áo khoác mùa đông</Apparel_Parka.label>
+	<Apparel_Parka.description>Một chiếc áo khoác mùa đông dày, giữ ấm ngay cả trong thời tiết lạnh nhất.</Apparel_Parka.description>
+	<Apparel_PlateArmor.label>Áo giáp nặng</Apparel_PlateArmor.label>
+	<Apparel_PlateArmor.description>Một bộ áo giáp nặng chắc chắn, được phủ bằng nhiều lớp vật liệu dày từ cổ đến chân.</Apparel_PlateArmor.description>
+	<Apparel_PowerArmor.label>Áo giáp hải quân</Apparel_PowerArmor.label>
+	<Apparel_PowerArmor.description>Một bộ áo giáp năng lượng tiêu chuẩn, được phủ bằng lớp áo giáp sợi thủy tinh từ cổ đến chân, có khả năng chống lại các cuộc tấn công rất hiệu quả. Thiết bị hỗ trợ thần kinh nằm ở giữa bộ giáp cho phép người mặc vẫn có thể di chuyển dễ dàng.\n\nLoại áo giáp như thế này thường được sử dụng bởi lính thủy đánh bộ không gian thực hiện các nhiệm vụ tấn công nhanh.</Apparel_PowerArmor.description>
+	<Apparel_Robe.label>Áo choàng dài</Apparel_Robe.label>
+	<Apparel_Robe.description>Một chiếc áo choàng dài không có mũ.</Apparel_Robe.description>
+	<Apparel_TribalA.label>Trang phục bộ lạc</Apparel_TribalA.label>
+	<Apparel_TribalA.description>Một bộ quần áo được làm bằng công cụ thô sơ. Mặc dù trông có vẻ lạc hậu, nhưng khả năng giữ ấm của nó vẫn khá tốt đối với người mặc.</Apparel_TribalA.description>
+</LanguageData>

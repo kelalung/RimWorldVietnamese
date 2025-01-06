@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BandwidthCost.label>Tổn hao băng thông</BandwidthCost.label>
+<BandwidthCost.description>Băng thông cần thiết để người máy điều khiển cơ thể máy này.</BandwidthCost.description>
+<CancerRate.label>Tỷ lệ mắc ung thư</CancerRate.label>
+<CancerRate.description>Tỷ lệ mắc ung thư trong bất kỳ khoảng thời gian nào.</CancerRate.description>
+<ControlTakingTime.label>Thời gian kiểm soát</ControlTakingTime.label>
+<ControlTakingTime.description>Thời gian cần thiết để người máy kiểm soát cơ thể máy này.</ControlTakingTime.description>
+<ControlTakingTime.formatString>{0} giây</ControlTakingTime.formatString>
+<Fertility.label>Khả năng sinh sản</Fertility.label>
+<Fertility.description>Khả năng sinh sản ảnh hưởng đến tỷ lệ mang thai. Tỷ lệ mang thai phụ thuộc vào khả năng sinh sản của cả hai bên. Khả năng sinh sản cũng ảnh hưởng đến tỷ lệ thành công khi cấy ghép phôi vào người mang thai.</Fertility.description>
+<GrowthVatOccupantSpeed.label>Tốc độ phát triển</GrowthVatOccupantSpeed.label>
+<GrowthVatOccupantSpeed.description>Tốc độ mà sinh vật này lớn lên trong buồng phát triển.</GrowthVatOccupantSpeed.description>
+<HemogenGainFactor.label>Tăng hệ số huyết nguyên</HemogenGainFactor.label>
+<HemogenGainFactor.description>Hệ số nhân khi nhận huyết nguyên.</HemogenGainFactor.description>
+<LearningRateFactor.label>Hệ số học tập</LearningRateFactor.label>
+<LearningRateFactor.description>Hệ số nhân về nhu cầu học tập của trẻ em từ các hoạt động học tập.</LearningRateFactor.description>
+<MechBandwidth.label>Băng thông máy móc</MechBandwidth.label>
+<MechBandwidth.description>Tổng băng thông mà người máy sở hữu. Nhiều băng thông hơn có nghĩa là người máy có thể chế tạo và điều khiển nhiều cơ thể máy hơn cùng một lúc.\n\nMất băng thông có nghĩa là mất kiểm soát đối với cơ thể máy. Các cơ thể máy mất kiểm soát sẽ cuối cùng offline và gia nhập các cơ thể máy thù địch.</MechBandwidth.description>
+<MechControlGroups.label>Nhóm điều khiển máy móc</MechControlGroups.label>
+<MechControlGroups.description>Số lượng nhóm điều khiển mà người máy có thể chỉ huy. Có thể đặt lệnh riêng cho từng nhóm điều khiển.</MechControlGroups.description>
+<MechEnergyLossPerHP.label>Chi phí sửa chữa</MechEnergyLossPerHP.label>
+<MechEnergyLossPerHP.description>Năng lượng cần tiêu tốn để sửa chữa 100 điểm thương tổn của cơ thể máy này.</MechEnergyLossPerHP.description>
+<MechEnergyUsageFactor.label>Hệ số tiêu thụ năng lượng</MechEnergyUsageFactor.label>
+<MechEnergyUsageFactor.description>Hệ số nhân tính toán tốc độ tiêu thụ năng lượng khi cơ thể máy hoạt động.</MechEnergyUsageFactor.description>
+<MechFormingSpeed.label>Tốc độ hình thành máy móc</MechFormingSpeed.label>
+<MechFormingSpeed.description>Hệ số nhân tốc độ mà người máy tạo ra cơ thể máy mới thông qua máy tạo hình máy móc.</MechFormingSpeed.description>
+<MechRemoteRepairDistance.label>Khoảng cách sửa chữa từ xa</MechRemoteRepairDistance.label>
+<MechRemoteRepairDistance.description>Khoảng cách tối đa mà cơ thể máy có thể được sửa chữa từ xa.</MechRemoteRepairDistance.description>
+<MechRemoteShieldDistance.label>Khoảng cách bảo vệ từ xa</MechRemoteShieldDistance.label>
+<MechRemoteShieldDistance.description>Khoảng cách tối đa mà người máy có thể thiết lập lá chắn cho cơ thể máy từ xa.</MechRemoteShieldDistance.description>
+<MechRemoteShieldEnergy.label>Năng lượng bảo vệ từ xa</MechRemoteShieldEnergy.label>
+<MechRemoteShieldEnergy.description>Năng lượng cần thiết để người máy thiết lập lá chắn cho cơ thể máy từ xa.</MechRemoteShieldEnergy.description>
+<MechRepairSpeed.label>Tốc độ sửa chữa máy móc</MechRepairSpeed.label>
+<MechRepairSpeed.description>Hệ số nhân tốc độ sửa chữa của người máy đối với cơ thể máy.</MechRepairSpeed.description>
+<RawNutritionFactor.label>Hệ số dinh dưỡng thực phẩm sống</RawNutritionFactor.label>
+<RawNutritionFactor.description>Hệ số dinh dưỡng mà thực phẩm sống cung cấp. Lưu ý rằng do thực phẩm nấu chín thường có giá trị dinh dưỡng cao hơn thực phẩm sống, thuộc tính này có thể chỉ có nghĩa là mọi người nhận được giá trị dinh dưỡng tương tự từ thực phẩm sống như từ thực phẩm nấu chín.</RawNutritionFactor.description>
+ <SubcoreEncodingSpeed.label>Tốc độ biên dịch lõi phụ</SubcoreEncodingSpeed.label>
+<SubcoreEncodingSpeed.description>Hệ số nhân tốc độ mà người máy tạo ra lõi phụ.</SubcoreEncodingSpeed.description>
+<WastepacksPerRecharge.label>Rác thải khi sạc</WastepacksPerRecharge.label>
+<WastepacksPerRecharge.description>Số lượng rác độc hại phát sinh khi cơ thể máy này sạc từ 0% lên 100%. Thông thường, cơ thể máy càng lớn, rác độc hại càng nhiều.</WastepacksPerRecharge.description>
+<WastepacksPerRecharge.statFactorsExplanationHeader>Thuộc tính liên quan</WastepacksPerRecharge.statFactorsExplanationHeader>
+</LanguageData>

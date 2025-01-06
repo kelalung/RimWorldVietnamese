@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrillArm.label>Cánh tay khoan</DrillArm.label>
+<DrillArm.description>Một cánh tay khoan được lắp đặt trong cơ thể người.</DrillArm.description>
+<DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>Mũi khoan</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+<DrillArm.labelNoun>Một cánh tay khoan</DrillArm.labelNoun>
+<ElbowBlade.label>Dao khuỷu</ElbowBlade.label>
+<ElbowBlade.description>Một dao khuỷu được lắp đặt trong cơ thể người.</ElbowBlade.description>
+<ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>Lưỡi dao</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+<ElbowBlade.labelNoun>Một dao khuỷu</ElbowBlade.labelNoun>
+<FieldHand.label>Tay làm nông</FieldHand.label>
+<FieldHand.description>Một tay làm nông được lắp đặt trong cơ thể người.</FieldHand.description>
+<FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>Khớp ngón tay</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+<FieldHand.labelNoun>Một tay làm nông</FieldHand.labelNoun>
+<HandTalon.label>Móng tay</HandTalon.label>
+<HandTalon.description>Một móng tay được lắp đặt trong cơ thể người.</HandTalon.description>
+<HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>Móng vuốt</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+<HandTalon.labelNoun>Một móng tay</HandTalon.labelNoun>
+<KneeSpike.label>Đinh gối</KneeSpike.label>
+<KneeSpike.description>Một đinh gối được lắp đặt trong cơ thể người.</KneeSpike.description>
+<KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>Đinh nhọn</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+<KneeSpike.labelNoun>Một đinh gối</KneeSpike.labelNoun>
+<Mindscrew.label>Đinh não</Mindscrew.label>
+<Mindscrew.description>Một đinh não được lắp đặt trong cơ thể người.</Mindscrew.description>
+<Mindscrew.labelNoun>Một đinh não</Mindscrew.labelNoun>
+<VenomFangs.label>Răng độc</VenomFangs.label>
+<VenomFangs.description>Một bộ răng độc được lắp đặt trong cơ thể người.</VenomFangs.description>
+<VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>Răng độc</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+<VenomFangs.labelNoun>Một bộ răng độc</VenomFangs.labelNoun>
+<VenomTalon.label>Móng độc</VenomTalon.label>
+<VenomTalon.description>Một móng độc được lắp đặt trong cơ thể người.</VenomTalon.description>
+<VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>Móng độc</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+<VenomTalon.labelNoun>Một móng độc</VenomTalon.labelNoun>
+</LanguageData>

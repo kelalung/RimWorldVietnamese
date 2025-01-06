@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArchiteCapsule.label>Viên nang siêu phàm</ArchiteCapsule.label>
+<ArchiteCapsule.description>Một viên nang nhỏ chứa các vi cơ khí siêu phàm. Các vi cơ khí này được sản xuất bởi trí thông minh siêu phàm, có khả năng thực hiện những điều mà con người không thể đạt được, cả về mặt vật chất lẫn tinh thần. Nó giống như tất cả các sản phẩm của trí thông minh siêu phàm khác, không thể bị sao chép. Chúng ta chỉ có thể thu thập hoặc có được chúng thông qua các phương pháp khác do những bí mật không thể tiết lộ mà trí thông minh siêu phàm tạo ra.\n\nViên nang này bản thân nó không có giá trị, nhưng nó có thể được sử dụng qua máy lắp ráp gen để tạo ra một phôi giống siêu phàm. Điều này cần nghiên cứu di truyền siêu phàm và một bộ gen siêu phàm. Bộ gen siêu phàm có thể được thu thập thông qua thương mại.</ArchiteCapsule.description>
+<Genepack.label>Bộ gen</Genepack.label>
+<Genepack.description>Một viên nang nhỏ chứa thông tin di truyền. Bộ gen phải được lưu trữ trong kho gen và được lắp ráp thành phôi giống có thể cấy ghép thông qua máy lắp ráp gen liên kết.\n\nNếu không được lưu trữ trong kho gen, bộ gen sẽ từ từ suy thoái.</Genepack.description>
+<HumanEmbryo.label>Phôi người</HumanEmbryo.label>
+<HumanEmbryo.description>Một phôi người có thể được cấy ghép vào cơ thể mẹ để tiếp tục phát triển.</HumanEmbryo.description>
+<HumanOvum.label>Trứng người</HumanOvum.label>
+<HumanOvum.description>Một trứng người chưa được thụ tinh, được lưu trữ trong một túi bảo vệ. Nó sẽ phát triển thành một phôi có thể được cấy ghép vào cơ thể mẹ hoặc trong buồng nuôi dưỡng sau khi được thụ tinh.</HumanOvum.description>
+<MechanoidTransponder.label>Bộ phát tín hiệu cơ giới</MechanoidTransponder.label>
+<MechanoidTransponder.description>Một bộ phát tín hiệu vi mô cho phép kỹ sư kết nối từ xa với các cơ giới. Kỹ sư có thể điều khiển nhiều cơ giới thông qua tâm linh và tín hiệu điện.\n\nBộ giải mã bộ phát có thể cho bạn biết vị trí của kỹ sư cuối cùng đã sử dụng bộ phát này để điều khiển cơ giới.</MechanoidTransponder.description>
+<MechanoidTransponder.comps.CompUseableDatacore.useLabel>Giải mã bộ phát</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
+<MechanoidTransponder.comps.CompInspectString.inspectString>Có thể thực hiện công việc giải mã trên bàn nghiên cứu.\nGọi một người thuộc địa, nhấp chuột phải vào bộ phát này để thực hiện công việc giải mã.</MechanoidTransponder.comps.CompInspectString.inspectString>
+<Xenogerm.label>Phôi giống ngoại lai</Xenogerm.label>
+<Xenogerm.description>Một cơ quan sinh học độc lập chứa một hoặc nhiều bản sao gen có thể cấy ghép.\n\nKhi phôi ngoại lai được cấy ghép vào cơ thể người thuộc địa, nó sẽ sử dụng virus, hormone, thuốc sinh học hoặc cơ khí nano để thay đổi chuỗi gen, cách biểu hiện gen và các đặc điểm phát triển của người thuộc địa, nhằm đạt được các mục tiêu biến đổi đã định. Người được cấy ghép phôi ngoại lai sẽ có được nhiều khả năng và đặc điểm khác nhau, biến họ thành những sinh vật hoàn toàn khác biệt với con người.\n\nQuá trình cấy ghép phôi ngoại lai cực kỳ đau đớn. Người được cấy ghép sẽ phải nằm liệt giường trong nhiều ngày trong quá trình chuyển đổi đau đớn này.\n\nPhôi ngoại lai được vận chuyển hoặc lưu trữ sẽ được bảo quản an toàn trong một container kín.</Xenogerm.description>
+</LanguageData>

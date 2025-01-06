@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcidSpray.label>Phun axit</AcidSpray.label>
+<AcidSpray.description>Người mang gen này có tuyến ở cổ để tạo ra và lưu trữ axit đặc quánh, cùng với hệ thống miệng chịu được axit mạnh, họ có thể phun axit ra một khu vực, khiến kẻ thù bị ảnh hưởng sẽ bị bỏng theo thời gian.</AcidSpray.description>
+<AcidSpray.symbolPack.prefixSymbols.0.symbol>Axit mạnh</AcidSpray.symbolPack.prefixSymbols.0.symbol>
+<AcidSpray.symbolPack.prefixSymbols.1.symbol>Axit chua</AcidSpray.symbolPack.prefixSymbols.1.symbol>
+<AcidSpray.symbolPack.prefixSymbols.2.symbol>Mùi chua</AcidSpray.symbolPack.prefixSymbols.2.symbol>
+<AcidSpray.symbolPack.prefixSymbols.3.symbol>Oxid hóa</AcidSpray.symbolPack.prefixSymbols.3.symbol>
+<AcidSpray.symbolPack.suffixSymbols.0.symbol>Người phun</AcidSpray.symbolPack.suffixSymbols.0.symbol>
+<AcidSpray.symbolPack.suffixSymbols.1.symbol>Người phun axit</AcidSpray.symbolPack.suffixSymbols.1.symbol>
+<AnimalWarcall.label>Gọi thú chiến đấu</AnimalWarcall.label>
+<AnimalWarcall.description>Người mang gen này có thể tạo liên kết tâm linh qua tiếng gầm mạnh mẽ, triệu hồi một con vật để chiến đấu cho mình.</AnimalWarcall.description>
+<AnimalWarcall.symbolPack.prefixSymbols.0.symbol>Chiến đấu</AnimalWarcall.symbolPack.prefixSymbols.0.symbol>
+<AnimalWarcall.symbolPack.prefixSymbols.1.symbol>Động vật</AnimalWarcall.symbolPack.prefixSymbols.1.symbol>
+<AnimalWarcall.symbolPack.prefixSymbols.2.symbol>Tiếng gầm</AnimalWarcall.symbolPack.prefixSymbols.2.symbol>
+<AnimalWarcall.symbolPack.suffixSymbols.0.symbol>Người triệu hồi</AnimalWarcall.symbolPack.suffixSymbols.0.symbol>
+<AnimalWarcall.symbolPack.suffixSymbols.1.symbol>Người gầm</AnimalWarcall.symbolPack.suffixSymbols.1.symbol>
+<AnimalWarcall.symbolPack.suffixSymbols.2.symbol>Người gọi</AnimalWarcall.symbolPack.suffixSymbols.2.symbol>
+<AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>Người gầm chiến đấu</AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>
+<Bloodfeeder.label>Hút máu</Bloodfeeder.label>
+<Bloodfeeder.description>Người mang gen này có những chiếc răng nanh nhỏ có thể co giãn, và một cơ quan trên vòm miệng để rút huyết nguyên chất từ máu nóng tươi. Họ có thể cắn một người không có khả năng kháng cự, hút máu và trực tiếp nhận huyết nguyên chất từ đó.</Bloodfeeder.description>
+<Bloodfeeder.symbolPack.prefixSymbols.0.symbol>Máu</Bloodfeeder.symbolPack.prefixSymbols.0.symbol>
+<Bloodfeeder.symbolPack.prefixSymbols.1.symbol>Hút máu</Bloodfeeder.symbolPack.prefixSymbols.1.symbol>
+<Bloodfeeder.symbolPack.prefixSymbols.2.symbol>Rút máu</Bloodfeeder.symbolPack.prefixSymbols.2.symbol>
+<Bloodfeeder.symbolPack.prefixSymbols.3.symbol>Uống máu</Bloodfeeder.symbolPack.prefixSymbols.3.symbol>
+<Bloodfeeder.symbolPack.suffixSymbols.0.symbol>Răng nanh</Bloodfeeder.symbolPack.suffixSymbols.0.symbol>
+<Bloodfeeder.symbolPack.suffixSymbols.1.symbol>Thích máu</Bloodfeeder.symbolPack.suffixSymbols.1.symbol>
+<Bloodfeeder.symbolPack.suffixSymbols.2.symbol>Trường sinh</Bloodfeeder.symbolPack.suffixSymbols.2.symbol>
+<Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>Người hút máu</Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>
+<Coagulate.label>Cầm máu</Coagulate.label>
+<Coagulate.description>Người mang gen này có tuyến trên tay và cổ tay có thể tiết ra hợp chất đông máu độc đáo, nước bọt của họ cũng chứa hợp chất này. Điều này cho phép họ băng bó vết thương nhanh chóng.</Coagulate.description>
+<Coagulate.labelShortAdj>Người đông máu</Coagulate.labelShortAdj>
+<Coagulate.symbolPack.suffixSymbols.0.symbol>Sống động</Coagulate.symbolPack.suffixSymbols.0.symbol>
+<Coagulate.symbolPack.suffixSymbols.1.symbol>Đông lại</Coagulate.symbolPack.suffixSymbols.1.symbol>
+<Coagulate.symbolPack.suffixSymbols.2.symbol>Người chăm sóc</Coagulate.symbolPack.suffixSymbols.2.symbol>
+<FireSpew.label>Phun lửa</FireSpew.label>
+<FireSpew.description>Người mang gen này có thể phun ra chất lỏng dễ cháy được tạo ra từ một cơ quan đặc biệt ở cổ, chất lỏng này sẽ dính vào mọi vật trong một khu vực nhỏ và gây cháy chúng.</FireSpew.description>
+  <FireSpew.symbolPack.prefixSymbols.0.symbol>Cháy</FireSpew.symbolPack.prefixSymbols.0.symbol>
+<FireSpew.symbolPack.prefixSymbols.1.symbol>Lửa</FireSpew.symbolPack.prefixSymbols.1.symbol>
+<FireSpew.symbolPack.prefixSymbols.2.symbol>Dễ cháy</FireSpew.symbolPack.prefixSymbols.2.symbol>
+<FireSpew.symbolPack.prefixSymbols.3.symbol>Phun lửa</FireSpew.symbolPack.prefixSymbols.3.symbol>
+<FireSpew.symbolPack.prefixSymbols.4.symbol>Châm lửa</FireSpew.symbolPack.prefixSymbols.4.symbol>
+<FireSpew.symbolPack.prefixSymbols.5.symbol>Tro tàn</FireSpew.symbolPack.prefixSymbols.5.symbol>
+<FireSpew.symbolPack.prefixSymbols.6.symbol>Phun lửa</FireSpew.symbolPack.prefixSymbols.6.symbol>
+<FireSpew.symbolPack.prefixSymbols.7.symbol>Đốt cháy</FireSpew.symbolPack.prefixSymbols.7.symbol>
+<FireSpew.symbolPack.prefixSymbols.8.symbol>Cháy</FireSpew.symbolPack.prefixSymbols.8.symbol>
+<FireSpew.symbolPack.prefixSymbols.9.symbol>Gỗ</FireSpew.symbolPack.prefixSymbols.9.symbol>
+<FireSpew.symbolPack.prefixSymbols.10.symbol>Tro</FireSpew.symbolPack.prefixSymbols.10.symbol>
+<FireSpew.symbolPack.suffixSymbols.0.symbol>Được thắp sáng</FireSpew.symbolPack.suffixSymbols.0.symbol>
+<FireSpew.symbolPack.suffixSymbols.1.symbol>Đang cháy</FireSpew.symbolPack.suffixSymbols.1.symbol>
+<FireSpew.symbolPack.suffixSymbols.2.symbol>Phun lửa</FireSpew.symbolPack.suffixSymbols.2.symbol>
+<FireSpew.symbolPack.suffixSymbols.3.symbol>Cháy thành tro</FireSpew.symbolPack.suffixSymbols.3.symbol>
+<FireSpew.symbolPack.wholeNameSymbols.0.symbol>Người đốt cháy</FireSpew.symbolPack.wholeNameSymbols.0.symbol>
+<FireSpew.symbolPack.wholeNameSymbols.1.symbol>Người châm lửa</FireSpew.symbolPack.wholeNameSymbols.1.symbol>
+<FoamSpray.label>Phun bọt</FoamSpray.label>
+<FoamSpray.description>Người mang gen này có tuyến ở cổ để tạo ra và lưu trữ bọt chống cháy. Họ có thể phun ra để dập tắt lửa trong một khu vực.</FoamSpray.description>
+<FoamSpray.symbolPack.prefixSymbols.0.symbol>Bọt</FoamSpray.symbolPack.prefixSymbols.0.symbol>
+<FoamSpray.symbolPack.prefixSymbols.1.symbol>Phun ra</FoamSpray.symbolPack.prefixSymbols.1.symbol>
+<FoamSpray.symbolPack.prefixSymbols.2.symbol>Phun bọt</FoamSpray.symbolPack.prefixSymbols.2.symbol>
+<FoamSpray.symbolPack.prefixSymbols.3.symbol>Bọt xà phòng</FoamSpray.symbolPack.prefixSymbols.3.symbol>
+<FoamSpray.symbolPack.prefixSymbols.4.symbol>Như kem</FoamSpray.symbolPack.prefixSymbols.4.symbol>
+<FoamSpray.symbolPack.prefixSymbols.5.symbol>Băng giá</FoamSpray.symbolPack.prefixSymbols.5.symbol>
+<FoamSpray.symbolPack.suffixSymbols.0.symbol>Phun bọt</FoamSpray.symbolPack.suffixSymbols.0.symbol>
+<FoamSpray.symbolPack.suffixSymbols.1.symbol>Bọt xà phòng</FoamSpray.symbolPack.suffixSymbols.1.symbol>
+<FoamSpray.symbolPack.wholeNameSymbols.0.symbol>Người phun bọt</FoamSpray.symbolPack.wholeNameSymbols.0.symbol>
+<LongjumpLegs.label>Chân nhảy xa</LongjumpLegs.label>
+  <LongjumpLegs.description>Người mang gen này có cơ bắp đặc biệt ở chân được điều khiển bởi huyết nguyên chất, cho phép họ dễ dàng nhảy một khoảng cách xa.</LongjumpLegs.description>
+<LongjumpLegs.symbolPack.prefixSymbols.0.symbol>Nhảy ra</LongjumpLegs.symbolPack.prefixSymbols.0.symbol>
+<LongjumpLegs.symbolPack.prefixSymbols.1.symbol>Vượt qua</LongjumpLegs.symbolPack.prefixSymbols.1.symbol>
+<LongjumpLegs.symbolPack.prefixSymbols.2.symbol>Nhảy qua</LongjumpLegs.symbolPack.prefixSymbols.2.symbol>
+<LongjumpLegs.symbolPack.prefixSymbols.3.symbol>Chân dài</LongjumpLegs.symbolPack.prefixSymbols.3.symbol>
+<LongjumpLegs.symbolPack.prefixSymbols.4.symbol>Bay lượn</LongjumpLegs.symbolPack.prefixSymbols.4.symbol>
+<LongjumpLegs.symbolPack.prefixSymbols.5.symbol>Nhảy</LongjumpLegs.symbolPack.prefixSymbols.5.symbol>
+<LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>Người nhảy cao</LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>
+<LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>Người nhảy xa</LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>
+<LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>Người đàn hồi</LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>
+  <PiercingSpine.label>Cột sống đâm xuyên</PiercingSpine.label>
+<PiercingSpine.description>Người mang gen này có một ống hình trụ ở phần trên ngực, bên trong chứa những chiếc gai cứng được tạo ra từ phản ứng huyết nguyên chất trong cột sống, họ có thể phóng những chiếc gai này với tốc độ và độ chính xác rất cao về phía mục tiêu gần đó.</PiercingSpine.description>
+<PiercingSpine.symbolPack.prefixSymbols.0.symbol>Gai</PiercingSpine.symbolPack.prefixSymbols.0.symbol>
+<PiercingSpine.symbolPack.prefixSymbols.1.symbol>Đâm xuyên</PiercingSpine.symbolPack.prefixSymbols.1.symbol>
+<PiercingSpine.symbolPack.prefixSymbols.2.symbol>Xuyên thủng</PiercingSpine.symbolPack.prefixSymbols.2.symbol>
+<PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>Người đâm gai</PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>
+<XenogermReimplanter.label>Cấy ghép gen</XenogermReimplanter.label>
+<XenogermReimplanter.description>Người mang gen này có một cơ quan trông có phần kinh tởm, có thể dùng để cấy ghép phôi chứa bản sao gen ngoại lai của chính mình vào cơ thể mục tiêu. Sau đó, người cấy ghép cần một thời gian dài để tái cấu trúc các gen ngoại lai đã mất, trong thời gian này nếu thực hiện cấy ghép lần nữa sẽ dẫn đến cái chết.</XenogermReimplanter.description>
+<XenogermReimplanter.labelShortAdj>Người cấy ghép</XenogermReimplanter.labelShortAdj>
+</LanguageData>

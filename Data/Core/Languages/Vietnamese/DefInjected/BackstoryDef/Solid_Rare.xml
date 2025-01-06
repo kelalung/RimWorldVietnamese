@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CynapseCustomAdulthood.description>[PAWN_nameDef] sống xa cách mọi người, gần như cả đời đều ở trong nhà. Do đó, [PAWN_pronoun] đã huấn luyện và bán chuột đưa tin để duy trì sự sống.</CynapseCustomAdulthood.description>
+  <CynapseCustomAdulthood.title>Ẩn sĩ</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleShort>Ẩn sĩ</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomChildhood.description>Để hiểu chức năng của thiết bị điện tử, [PAWN_nameDef] đã dành phần lớn thời gian để tháo lắp và tái cấu trúc thiết bị điện tử. Vì [PAWN_nameDef] say mê công việc tháo lắp, [PAWN_pronoun] dần quên cách thiết lập mối quan hệ xã hội với người khác.</CynapseCustomChildhood.description>
+  <CynapseCustomChildhood.title>Thợ thủ công</CynapseCustomChildhood.title>
+  <CynapseCustomChildhood.titleShort>Thợ thủ công</CynapseCustomChildhood.titleShort>
+  <FeyCustomAdulthood.description>[PAWN_nameDef] đã dành tất cả thời gian cho trò chơi bàn RPG như một cách để thiết lập mối quan hệ xã hội với người khác. Trò chơi liên tục thay đổi, nhưng các người chơi khác vẫn yêu thích thế giới quan và câu chuyện của [PAWN_possessive].</FeyCustomAdulthood.description>
+  <FeyCustomAdulthood.title>Thầy trò chơi</FeyCustomAdulthood.title>
+  <FeyCustomAdulthood.titleShort>Thầy trò chơi</FeyCustomAdulthood.titleShort>
+  <FeyCustomChildhood.description>[PAWN_nameDef] lớn lên trong một gia đình nhà khảo cổ học ở thế giới đô thị, [PAWN_pronoun] bị cuốn hút bởi trò chơi chiến tranh và mô hình thu nhỏ. Mặc dù [PAWN_pronoun] không bao giờ giỏi loại trò chơi này, nhưng điều đó giúp [PAWN_objective] kết nối với người khác.</FeyCustomChildhood.description>
+  <FeyCustomChildhood.title>Người mê trò chơi chiến tranh</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleShort>Người mê trò chơi chiến tranh</FeyCustomChildhood.titleShort>
+  <JoeCustomAdulthood.description>[PAWN_nameDef] là một nhà phát triển trò chơi nghiệp dư, sống trong vòng lặp vô tận giữa thư mục mới và lý tưởng cao cả.</JoeCustomAdulthood.description>
+  <JoeCustomAdulthood.title>Nhà phát triển trò chơi</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleShort>Nhà phát triển trò chơi</JoeCustomAdulthood.titleShort>
+  <JoeCustomChildhood.description>[PAWN_nameDef] sinh ra trong một gia đình âm nhạc. Trong thời kỳ khó khăn, [PAWN_pronoun] buộc phải chơi trống trong một ban nhạc lưu động để kiếm sống.</JoeCustomChildhood.description>
+  <JoeCustomChildhood.title>Người chơi trống</JoeCustomChildhood.title>
+  <JoeCustomChildhood.titleShort>Người chơi trống</JoeCustomChildhood.titleShort>
+  <LiamCustomAdulthood.description>[PAWN_nameDef] làm việc trong thế giới hòa bình rực rỡ, phát triển phần mềm mô phỏng tội phạm chiến tranh siêu thực.</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.title>Nhà phát triển mô phỏng</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleShort>Nhà phát triển mô phỏng</LiamCustomAdulthood.titleShort>
+  <LiamCustomChildhood.description>Sinh ra và lớn lên trong thế giới rực rỡ, [PAWN_nameDef] say mê phần mềm mô phỏng. [PAWN_pronoun] chìm đắm trong đó rất lâu.</LiamCustomChildhood.description>
+  <LiamCustomChildhood.title>Người nghiện mô phỏng</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleShort>Người nghiện mô phỏng</LiamCustomChildhood.titleShort>
+  <MateCustomAdulthood.description>Sau khi bị một công ty liên hành tinh sa thải, [PAWN_nameDef] đã vật lộn với cơn nghiện rượu trong nhiều năm. Cuối cùng, [PAWN_pronoun] đã biểu diễn trên một con tàu thương mại, chơi một cây guitar cũ, đàn những bản blues và dân ca từ quá khứ xa xôi cho các thành viên thủy thủ đoàn.</MateCustomAdulthood.description>
+  <MateCustomAdulthood.title>Người bán hàng rong</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleShort>Người bán hàng rong</MateCustomAdulthood.titleShort>
+  <MateCustomChildhood.description>Trong phần lớn thời gian thơ ấu của [PAWN_nameDef], [PAWN_pronoun] đã mơ ước trở thành một nghệ sĩ nổi tiếng, làm rung động người khác bằng tác phẩm của [PAWN_possessive].</MateCustomChildhood.description>
+  <MateCustomChildhood.title>Đứa trẻ tò mò</MateCustomChildhood.title>
+  <MateCustomChildhood.titleShort>Đứa trẻ tò mò</MateCustomChildhood.titleShort>
+  <NathanCustomAdulthood.description>[PAWN_nameDef] tạo ra không gian sống bằng cách khai thác và khai thác khoáng sản từ hai bên đồi núi. Đi lang thang trong các khe đá, khoan lỗ trên tường hang, điều này khiến [PAWN_pronoun] cảm thấy rất thoải mái.</NathanCustomAdulthood.description>
+  <NathanCustomAdulthood.title>Người khai phá</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleShort>Người khai phá</NathanCustomAdulthood.titleShort>
+  <NathanCustomChildhood.description>[PAWN_nameDef] lớn lên trong một hệ thống hang động lớn và phức tạp. [PAWN_pronoun] giúp người lớn duy trì và cải thiện hang động sâu thẳm này.</NathanCustomChildhood.description>
+  <NathanCustomChildhood.title>Trẻ em sống trong hang</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleShort>Trẻ em sống trong hang</NathanCustomChildhood.titleShort>
+  <OskarCustomAdulthood.description>Công việc của [PAWN_nameDef] là thiết kế mô-đun vũ khí cho những người lính đang chiến đấu ở tiền tuyến.\n\nMột đêm nọ, [PAWN_nameDef] đã thấy tất cả những người đã chết do công việc của mình trong cơn ác mộng. Khi tỉnh dậy, [PAWN_pronoun] quyết tâm đi đến thế giới biên giới, sử dụng kỹ năng của [PAWN_possessive] để làm điều tốt.</OskarCustomAdulthood.description>
+  <OskarCustomAdulthood.title>Nhà thiết kế mô-đun</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleShort>Nhà thiết kế mô-đun</OskarCustomAdulthood.titleShort>
+  <OskarCustomChildhood.description>[PAWN_nameDef] sinh ra ở một khu vực ven đô của thế giới đô thị. Sau một cuộc cãi vã, cha của [PAWN_possessive] đã bán [PAWN_objective] cho một lãnh chúa địa phương, trở thành một nghệ sĩ nô lệ.\n\n[PAWN_pronoun] buộc phải tạo ra tác phẩm nghệ thuật cho lãnh chúa hoặc bị đánh đập, không có cơ hội để kết nối với người khác.</OskarCustomChildhood.description>
+  <OskarCustomChildhood.title>Nghệ sĩ nô lệ</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleShort>Nghệ sĩ</OskarCustomChildhood.titleShort>
+  <TynanCustomAdulthood.description>[PAWN_nameDef] là một nhà phát triển trò chơi độc lập.\n\nSau khi trải qua những thành công ban đầu, sự nghiệp của [PAWN_nameDef] nhanh chóng sa sút với những ý tưởng tồi tệ, những giao dịch thất bại và những chiến dịch tiếp thị công chúng đầy thất vọng.</TynanCustomAdulthood.description>
+  <TynanCustomAdulthood.baseDesc>[PAWN_nameDef] là một nhà phát triển trò chơi độc lập.\n\nSau khi trải qua những thành công ban đầu, sự nghiệp của [PAWN_nameDef] nhanh chóng sa sút với những ý tưởng tồi tệ, những giao dịch thất bại và những chiến dịch tiếp thị công chúng đầy thất vọng.</TynanCustomAdulthood.baseDesc>
+  <TynanCustomAdulthood.title>Nhà phát triển trò chơi</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleShort>Nhà phát triển trò chơi</TynanCustomAdulthood.titleShort>
+  <TynanCustomChildhood.description>Tuổi thơ của [PAWN_nameDef] trôi qua trong việc "bán thuốc lá nhồi cỏ cho những cậu bé 15 tuổi".</TynanCustomChildhood.description>
+  <TynanCustomChildhood.baseDesc>Tuổi thơ của [PAWN_nameDef] trôi qua trong việc "bán thuốc lá nhồi cỏ cho những cậu bé 15 tuổi".</TynanCustomChildhood.baseDesc>
+  <TynanCustomChildhood.title>Chơi khăm</TynanCustomChildhood.title>
+  <TynanCustomChildhood.titleShort>Chơi khăm</TynanCustomChildhood.titleShort>
+  <WillCustomAdulthood.description>[PAWN_nameDef] thiết kế các mê cung giải trí cho giới tinh hoa của thế giới rực rỡ. Ngay cả bây giờ, [PAWN_pronoun] cũng hiếm khi nghĩ đến những điều khác.</WillCustomAdulthood.description>
+  <WillCustomAdulthood.title>Nhà sản xuất mê cung</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleShort>Nhà sản xuất mê cung</WillCustomAdulthood.titleShort>
+  <WillCustomChildhood.description>[PAWN_nameDef] lớn lên trong một trại nghiên cứu ở thế giới chết chóc. Cha mẹ của [PAWN_possessive] là các nhà sinh học thiên thể, đang nghiên cứu cấu trúc mê cung bí ẩn dưới lớp vỏ trái đất. [PAWN_pronoun] đã dành phần lớn thời gian lang thang trong các đường hầm của mê cung, suy đoán về những thực thể từ thế giới khác đã tạo ra những đường hầm này.</WillCustomChildhood.description>
+  <WillCustomChildhood.title>Trẻ em mê cung</WillCustomChildhood.title>
+  <WillCustomChildhood.titleShort>Trẻ em mê cung</WillCustomChildhood.titleShort>
+</LanguageData>

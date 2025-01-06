@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Research_ExtremelySlow.label>Cực kỳ chậm</Research_ExtremelySlow.label>
+<Research_ExtremelySlow.description>Nghiên cứu là hoạt động vô giá trị, tại sao phải nỗ lực làm điều đó?</Research_ExtremelySlow.description>
+<Research_Fast.label>Nhanh</Research_Fast.label>
+<Research_Fast.description>Nghiên cứu là hoạt động đặc biệt có ý nghĩa.</Research_Fast.description>
+<Research_None.label>Không được phép</Research_None.label>
+<Research_None.description>Nghiên cứu công nghệ là hành vi vi phạm đạo đức, không thể làm như vậy.</Research_None.description>
+<Research_Normal.label>Bình thường</Research_Normal.label>
+<Research_Normal.description>Nghiên cứu là công việc có giá trị, xã hội cần công việc này.</Research_Normal.description>
+<Research_Slow.label>Chậm</Research_Slow.label>
+<Research_Slow.description>Công việc nghiên cứu không đặc biệt có ý nghĩa, tại sao phải nỗ lực làm điều đó?</Research_Slow.description>
+<Research_VeryFast.label>Cực kỳ nhanh</Research_VeryFast.label>
+<Research_VeryFast.description>Nghiên cứu là một trong những hành động có ý nghĩa nhất mà một người có thể thực hiện.</Research_VeryFast.description>
+<Research_VerySlow.label>Cực kỳ chậm</Research_VerySlow.label>
+<Research_VerySlow.description>Công việc nghiên cứu sẽ không được tôn trọng, tốt nhất là đừng để ai thấy bạn đang làm việc chăm chỉ.</Research_VerySlow.description>
+</LanguageData>

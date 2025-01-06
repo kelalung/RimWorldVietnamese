@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<OrganUse_Abhorrent.label>Ghê tởm</OrganUse_Abhorrent.label>
+<OrganUse_Abhorrent.description>Bất kỳ hành vi nào liên quan đến việc lấy, giao dịch hoặc cấy ghép nội tạng tự nhiên đều là tội ác đáng ghê tởm.</OrganUse_Abhorrent.description>
+<OrganUse_Abhorrent.comps.2.description>Có người lấy nội tạng</OrganUse_Abhorrent.comps.2.description>
+<OrganUse_Abhorrent.comps.5.description>Có người giao dịch nội tạng</OrganUse_Abhorrent.comps.5.description>
+<OrganUse_Abhorrent.comps.8.description>Có người cấy ghép nội tạng</OrganUse_Abhorrent.comps.8.description>
+<OrganUse_Acceptable.label>Chấp nhận được</OrganUse_Acceptable.label>
+<OrganUse_Acceptable.description>Lấy, giao dịch, cấy ghép nội tạng đều được phép.</OrganUse_Acceptable.description>
+<OrganUse_HorribleNoSell.label>Không lấy và bán</OrganUse_HorribleNoSell.label>
+<OrganUse_HorribleNoSell.description>Lấy nội tạng là một điều đáng sợ. Bán bất kỳ nội tạng tự nhiên nào cũng là điều xấu xa. Nhưng mua và cấy ghép là chấp nhận được.</OrganUse_HorribleNoSell.description>
+<OrganUse_HorribleNoSell.comps.2.description>Có người lấy nội tạng</OrganUse_HorribleNoSell.comps.2.description>
+<OrganUse_HorribleNoSell.comps.4.description>Có người bán nội tạng</OrganUse_HorribleNoSell.comps.4.description>
+<OrganUse_HorribleSellOK.label>Không lấy</OrganUse_HorribleSellOK.label>
+<OrganUse_HorribleSellOK.description>Lấy nội tạng là một điều đáng sợ. Nhưng mua, cấy ghép hoặc bán là chấp nhận được.</OrganUse_HorribleSellOK.description>
+<OrganUse_HorribleSellOK.comps.2.description>Có người lấy nội tạng</OrganUse_HorribleSellOK.comps.2.description>
+</LanguageData>

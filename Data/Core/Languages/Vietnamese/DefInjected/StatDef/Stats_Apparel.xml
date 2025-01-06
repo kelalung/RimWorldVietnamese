@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArmorRating_Blunt.label>Giáp - Đòn đánh</ArmorRating_Blunt.label>
+	<ArmorRating_Blunt.description>Có khả năng chống lại tổn thương từ đòn đánh, như đấm, gậy và đá rơi.\n\nKhi nhận tổn thương, giá trị giáp sẽ được giảm trước bởi giá trị xuyên giáp của vũ khí tấn công. Giá trị giáp còn lại sẽ được so sánh với một số ngẫu nhiên từ 0 đến 100.\n\n- Nếu số ngẫu nhiên thấp hơn một nửa giá trị giáp còn lại, thì tổn thương sẽ không xảy ra.\n- Nếu số ngẫu nhiên lớn hơn một nửa giá trị giáp còn lại nhưng không vượt quá giá trị giáp còn lại, thì tổn thương sẽ giảm một nửa và chuyển thành tổn thương từ đòn đánh.\n- Nếu số ngẫu nhiên lớn hơn giá trị giáp còn lại, thì giáp sẽ không có tác dụng.\n\nVí dụ, với một cuộc tấn công có 10% xuyên giáp, nếu giáp có mức 90%, thì có 40% khả năng làm cho cuộc tấn công không có tác dụng và 40% khả năng giảm tổn thương.\n\nKhi có nhiều lớp trang phục, việc xác định sẽ bắt đầu từ lớp ngoài và kiểm tra từng lớp một.</ArmorRating_Blunt.description>
+	<ArmorRating_Blunt.labelForFullStatList>Giáp - Đòn đánh (thuộc tính giáp)</ArmorRating_Blunt.labelForFullStatList>
+	<ArmorRating_Heat.label>Giáp - Nhiệt</ArmorRating_Heat.label>
+	<ArmorRating_Heat.description>Có khả năng chống lại tổn thương liên quan đến nhiệt độ, như cháy.\n\nKhi nhận tổn thương, giá trị giáp sẽ được giảm trước bởi giá trị xuyên giáp của vũ khí tấn công. Giá trị giáp còn lại sẽ được so sánh với một số ngẫu nhiên từ 0 đến 100.\n\n- Nếu số ngẫu nhiên thấp hơn một nửa giá trị giáp còn lại, thì tổn thương sẽ không xảy ra.\n- Nếu số ngẫu nhiên lớn hơn một nửa giá trị giáp còn lại nhưng không vượt quá giá trị giáp còn lại, thì tổn thương sẽ giảm một nửa và chuyển thành tổn thương từ đòn đánh.\n- Nếu số ngẫu nhiên lớn hơn giá trị giáp còn lại, thì giáp sẽ không có tác dụng.\n\nVí dụ, với một cuộc tấn công có 10% xuyên giáp, nếu giáp có mức 90%, thì có 40% khả năng làm cho cuộc tấn công không có tác dụng và 40% khả năng giảm tổn thương.\n\nKhi có nhiều lớp trang phục, việc xác định sẽ bắt đầu từ lớp ngoài và kiểm tra từng lớp một.</ArmorRating_Heat.description>
+	<ArmorRating_Heat.labelForFullStatList>Giáp - Nhiệt (thuộc tính giáp)</ArmorRating_Heat.labelForFullStatList>
+	<ArmorRating_Sharp.label>Giáp - Sắc nhọn</ArmorRating_Sharp.label>
+	<ArmorRating_Sharp.description>Có khả năng chống lại tổn thương từ các vật sắc nhọn, như đạn, dao, đâm, nổ và cắn của động vật.\n\nKhi nhận tổn thương, giá trị giáp sẽ được giảm trước bởi giá trị xuyên giáp của vũ khí tấn công. Giá trị giáp còn lại sẽ được so sánh với một số ngẫu nhiên từ 0 đến 100.\n\n- Nếu số ngẫu nhiên thấp hơn một nửa giá trị giáp còn lại, thì tổn thương sẽ không xảy ra.\n- Nếu số ngẫu nhiên lớn hơn một nửa giá trị giáp còn lại nhưng không vượt quá giá trị giáp còn lại, thì tổn thương sẽ giảm một nửa và chuyển thành tổn thương từ đòn đánh.\n- Nếu số ngẫu nhiên lớn hơn giá trị giáp còn lại, thì giáp sẽ không có tác dụng.\n\nVí dụ, với một cuộc tấn công có 10% xuyên giáp, nếu giáp có mức 90%, thì có 40% khả năng làm cho cuộc tấn công không có tác dụng và 40% khả năng giảm tổn thương.\n\nKhi có nhiều lớp trang phục, việc xác định sẽ bắt đầu từ lớp ngoài và kiểm tra từng lớp một.</ArmorRating_Sharp.description>
+	<ArmorRating_Sharp.labelForFullStatList>Giáp - Sắc nhọn (thuộc tính giáp)</ArmorRating_Sharp.labelForFullStatList>
+	<EnergyShieldEnergyMax.label>Giới hạn năng lượng khiên</EnergyShieldEnergyMax.label>
+	<EnergyShieldEnergyMax.description>Giá trị tối đa năng lượng mà khiên có thể chứa. Năng lượng càng nhiều, tổn thương có thể hấp thụ càng lớn.</EnergyShieldEnergyMax.description>
+	<EnergyShieldRechargeRate.label>Tốc độ sạc khiên</EnergyShieldRechargeRate.label>
+	<EnergyShieldRechargeRate.description>Tốc độ sạc trước khi khiên bị vỡ (năng lượng hoàn toàn cạn kiệt).</EnergyShieldRechargeRate.description>
+	<EnergyShieldRechargeRate.formatString>{0}/giây</EnergyShieldRechargeRate.formatString>
+	<EquipDelay.label>Thời gian trang bị</EquipDelay.label>
+	<EquipDelay.description>Thời gian cần thiết để mặc hoặc tháo trang bị.</EquipDelay.description>
+	<EquipDelay.formatString>{0} giây</EquipDelay.formatString>
+	<Insulation_Cold.label>Cách nhiệt - Lạnh</Insulation_Cold.label>
+	<Insulation_Cold.description>Sự điều chỉnh đối với nhiệt độ thoải mái tối thiểu của người mặc.\n\nGiá trị cao hơn cho phép thuộc địa sống sót ở nhiệt độ lạnh hơn.</Insulation_Cold.description>
+	<Insulation_Cold.labelForFullStatList>Cách nhiệt - Lạnh (thuộc tính giáp)</Insulation_Cold.labelForFullStatList>
+	<Insulation_Heat.label>Cách nhiệt - Nóng</Insulation_Heat.label>
+	<Insulation_Heat.description>Sự điều chỉnh đối với nhiệt độ thoải mái tối đa của người mặc.\n\nGiá trị cao hơn cho phép thuộc địa sống sót ở nhiệt độ nóng hơn.</Insulation_Heat.description>
+	<Insulation_Heat.labelForFullStatList>Cách nhiệt - Nóng (thuộc tính giáp)</Insulation_Heat.labelForFullStatList>
+	<PackRadius.label>Phạm vi tác dụng</PackRadius.label>
+	<PackRadius.description>Phạm vi tác dụng của ba lô khi được kích hoạt.</PackRadius.description>
+	<PackRadius.formatString>{0} ô</PackRadius.formatString>
+	<StuffEffectMultiplierArmor.label>Giáp - Hệ số vật liệu</StuffEffectMultiplierArmor.label>
+	<StuffEffectMultiplierInsulation_Cold.label>Cách nhiệt - Lạnh - Hệ số vật liệu</StuffEffectMultiplierInsulation_Cold.label>
+	<StuffEffectMultiplierInsulation_Heat.label>Cách nhiệt - Nóng - Hệ số vật liệu</StuffEffectMultiplierInsulation_Heat.label>
+</LanguageData>

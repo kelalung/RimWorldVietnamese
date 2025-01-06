@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CleaningTimeFactor.label>Hệ số thời gian dọn dẹp</CleaningTimeFactor.label>
+	<CleaningTimeFactor.description>Hệ số thời gian cần thiết để dọn dẹp bẩn trên địa hình này.</CleaningTimeFactor.description>
+	<ConstructionSpeedFactor.label>Tốc độ xây dựng</ConstructionSpeedFactor.label>
+	<ConstructionSpeedFactor.description>Tốc độ xây dựng sẽ được nhân với giá trị này.\n\nMột số vật liệu như gạch đá sẽ làm chậm tốc độ xây dựng, trong khi các vật liệu khác như gỗ sẽ nhanh hơn.</ConstructionSpeedFactor.description>
+	<ConstructionSpeedFactor.labelForFullStatList>Tốc độ xây dựng (hệ số vật liệu)</ConstructionSpeedFactor.labelForFullStatList>
+	<FilthMultiplier.label>Hệ số dễ bẩn</FilthMultiplier.label>
+	<FilthMultiplier.description>Độ nhạy cảm của địa hình này đối với bụi bẩn. Nếu nhỏ hơn 100%, một số bụi bẩn tích tụ trên đây sẽ biến mất sau khi tiếp xúc. Chỉ có hiệu lực với bụi bẩn hữu cơ.</FilthMultiplier.description>
+	<MedicalPotency.label>Hiệu quả y tế</MedicalPotency.label>
+	<MedicalPotency.description>Hiệu quả của vật thể này khi được sử dụng để điều trị vết thương và bệnh tật, hoặc trong quá trình phẫu thuật.\n\nHiệu quả y tế càng cao thì chất lượng điều trị càng tốt, cũng như là hệ số thành công của phẫu thuật.\nHiệu quả y tế cũng bị ảnh hưởng bởi khả năng của bác sĩ, thiết bị, độ sạch sẽ của phòng và yếu tố may mắn.</MedicalPotency.description>
+	<MedicalQualityMax.label>Chất lượng điều trị tối đa</MedicalQualityMax.label>
+	<MedicalQualityMax.description>Chất lượng điều trị cao nhất mà vật thể này có thể cung cấp.\n\nChất lượng điều trị tốt hơn giúp bác sĩ có kinh nghiệm xử lý vết thương tốt hơn, làm cho việc điều trị đáng tin cậy hơn.</MedicalQualityMax.description>
+	<MeditationFocusStrength.label>Hiệu quả thiền</MeditationFocusStrength.label>
+	<MeditationFocusStrength.description>Số lượng tâm lực bổ sung mà vật thể này có thể cung cấp trong thiền.\n\nĐối với một số vật thể, giá trị này có thể thay đổi tùy thuộc vào môi trường xung quanh hoặc người thiền.</MeditationFocusStrength.description>
+	<MeditationFocusStrength.formatString>{0}/ngày</MeditationFocusStrength.formatString>
+	<MeditationFocusStrength.formatStringUnfinalized>{0}/ngày</MeditationFocusStrength.formatStringUnfinalized>
+	<!-- <PsychicEntropyMaxOffset.label>Độ lệch ngưỡng entropy tâm linh</PsychicEntropyMaxOffset.label> -->
+	<!-- <PsychicEntropyMaxOffset.description>Độ lệch tác động lên ngưỡng entropy tâm linh của người sử dụng.</PsychicEntropyMaxOffset.description> -->
+	<!-- <PsychicEntropyRecoveryRateOffset.label>Tốc độ hồi phục entropy tâm linh</PsychicEntropyRecoveryRateOffset.label> -->
+	<!-- <PsychicEntropyRecoveryRateOffset.description>Độ lệch tác động lên tốc độ hồi phục entropy tâm linh của người sử dụng.</PsychicEntropyRecoveryRateOffset.description> -->
+	<!-- <PsychicEntropyRecoveryRateOffset.formatString>{0}/giây</PsychicEntropyRecoveryRateOffset.formatString> -->
+	<PsychicSensitivityFactor.label>Hệ số nhạy cảm tâm linh</PsychicSensitivityFactor.label>
+	<PsychicSensitivityFactor.description>Hệ số tác động lên độ nhạy cảm tâm linh của người sử dụng.</PsychicSensitivityFactor.description>
+	<PsychicSensitivityOffset.label>Độ lệch nhạy cảm tâm linh</PsychicSensitivityOffset.label>
+	<PsychicSensitivityOffset.description>Độ lệch tác động lên độ nhạy cảm tâm linh của người sử dụng.</PsychicSensitivityOffset.description>
+</LanguageData>

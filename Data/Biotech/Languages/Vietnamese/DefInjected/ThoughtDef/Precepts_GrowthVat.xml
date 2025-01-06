@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>Trẻ em không ở trong buồng phát triển</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
+	<GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>Con tôi chạy lung tung khắp nơi, tôi cảm thấy không an toàn. Chúng nên lớn lên an toàn trong buồng phát triển.</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
+	<GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>Thai kỳ tự nhiên</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>
+	<GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>Việc sinh nở là một ý tưởng đáng sợ. Chúng ta nên có buồng phát triển để nuôi dưỡng con cái một cách an toàn.</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>
+	<GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>Con tôi đang ở trong buồng phát triển</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+	<GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Tôi không thể chịu đựng được ý nghĩ con tôi đang trôi nổi trong cái máy khủng khiếp đó.</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+	<GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>Trẻ em không ở trong buồng phát triển</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
+	<GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>Tôi rất vui khi thấy trẻ em như trẻ em. Tuổi thơ của chúng quá quý giá, không thể lãng phí trong buồng phát triển.</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
+	<GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>Buồng phát triển</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>
+	<GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>Tôi cảm thấy rất đáng sợ khi nghĩ đến cái buồng phát triển đó trong thuộc địa của chúng ta.</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>
+</LanguageData>

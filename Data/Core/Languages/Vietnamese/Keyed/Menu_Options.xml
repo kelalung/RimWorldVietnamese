@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Audiovisuals>Hình ảnh / Âm thanh</Audiovisuals>
+	<MasterVolume>Âm lượng chính</MasterVolume>
+	<GameVolume>Âm lượng trò chơi</GameVolume>
+	<MusicVolume>Âm lượng nhạc</MusicVolume>
+	<AmbientVolume>Âm lượng môi trường</AmbientVolume>
+	<UIVolume>Âm lượng giao diện</UIVolume>
+	<MasterVolumeTooltip>Ảnh hưởng đến tất cả âm thanh.</MasterVolumeTooltip>
+	<GameVolumeTooltip>Ảnh hưởng đến tất cả âm thanh trong thế giới, ví dụ như chặt cây, xây tường, v.v.</GameVolumeTooltip>
+	<MusicVolumeTooltip>Ảnh hưởng đến âm nhạc.</MusicVolumeTooltip>
+	<AmbientVolumeTooltip>Ảnh hưởng đến tất cả âm thanh môi trường, ví dụ như gió, tiếng thú rống, v.v.</AmbientVolumeTooltip>
+	<UIVolumeTooltip>Ảnh hưởng đến tất cả âm thanh giao diện, ví dụ như nhấn nút, thư từ, v.v.</UIVolumeTooltip>
+	<Antialiasing>Khử răng cưa</Antialiasing>
+	<EdgeScreenScroll>Cuộn màn hình cạnh</EdgeScreenScroll>
+	<ZoomToMouse>Phóng to theo chuột</ZoomToMouse>
+	<PauseOnLoad>Tạm dừng trò chơi sau khi tải</PauseOnLoad>
+	<PauseOnUrgentLetter>Tạm dừng trò chơi khi có thông báo khẩn cấp</PauseOnUrgentLetter>
+	<AutomaticPauseModeSetting>Tạm dừng</AutomaticPauseModeSetting>
+	<CustomCursor>Vô hiệu hóa con trỏ chuột trong trò chơi</CustomCursor>
+	<HatsShownOnlyOnMap>Ẩn mũ trong giao diện</HatsShownOnlyOnMap>
+	<UIScale>Tỉ lệ giao diện</UIScale>
+	<KeyboardConfig>Cài đặt phím</KeyboardConfig>
+	<ControllerConfig>Cài đặt điều khiển</ControllerConfig>
+	<ModifyConfig>Chỉnh sửa</ModifyConfig>
+	<ChooseLanguage>Chọn ngôn ngữ</ChooseLanguage>
+	<ResetAdaptiveTutor>Đặt lại trợ lý hướng dẫn</ResetAdaptiveTutor>
+	<AdaptiveTutorIsReset>Trợ lý hướng dẫn đã được đặt lại. Bây giờ trợ lý sẽ dạy bạn cách chơi từ đầu.</AdaptiveTutorIsReset>
+	<SteamDeckKeyboardMode>Chế độ bàn phím</SteamDeckKeyboardMode>
+	<RunInBackground>Chế độ chạy nền</RunInBackground>
+	<DevelopmentMode>Chế độ cho [DEV]</DevelopmentMode>
+	<ResetModsConfigOnCrash>Đặt lại cấu hình Mod sau khi gặp sự cố</ResetModsConfigOnCrash>
+	<DisableQuickStartCryptoSickness>Thử nghiệm nhanh không có bệnh ngủ đông</DisableQuickStartCryptoSickness>
+	<StartDevPaletteOn>Bật bảng màu phát triển khi bắt đầu trò chơi</StartDevPaletteOn>
+	<OpenLogOnWarnings>Mở nhật ký khi có cảnh báo</OpenLogOnWarnings>
+	<CloseLogWindowOnEscape>Nhấn phím hủy để đóng nhật ký</CloseLogWindowOnEscape>
+	<LogVerbose>Nhật ký chi tiết</LogVerbose>
+	<SaveGameDataFolder>Thư mục lưu trữ</SaveGameDataFolder>
+	<SaveGameDataLocation>Vị trí lưu trữ</SaveGameDataLocation>
+	<LogFileFolder>Thư mục tệp nhật ký</LogFileFolder>
+	<LogFileLocation>Vị trí tệp nhật ký</LogFileLocation>
+	<OpenFolder>Mở</OpenFolder>
+	<ShowFolder>Hiển thị</ShowFolder>
+	<NamesYouWantToSee>Các nhân vật bạn muốn thấy</NamesYouWantToSee>
+	<NamesYouWantToSeeSubText>Các nhân vật này sẽ có khả năng xuất hiện ngẫu nhiên trong trò chơi cao hơn.</NamesYouWantToSeeSubText>
+	<AddName>Thêm tên</AddName>
+	<TypeFirstNickOrLastName>Nhập họ, tên hoặc biệt danh.</TypeFirstNickOrLastName>
+	<MessageAlreadyPreferredName>Tên này đã có trong danh sách ưu tiên của bạn.</MessageAlreadyPreferredName>
+	<ChangeStoryteller>Chọn người kể chuyện</ChangeStoryteller>
+	<AutosaveInterval>Thời gian tự động lưu</AutosaveInterval>
+	<AutosaveIntervalTooltip>Khoảng thời gian giữa hai lần lưu, tính bằng ngày trong trò chơi.</AutosaveIntervalTooltip>
+	<TemperatureMode>Đơn vị nhiệt độ</TemperatureMode>
+	<ShowRealtimeClock>Hiển thị đồng hồ thời gian thực</ShowRealtimeClock>
+	<TwelveHourClockMode>Sử dụng chế độ 12 giờ</TwelveHourClockMode>
+	<DisableTinyText>Vô hiệu hóa chữ nhỏ</DisableTinyText>
+	<MaxNumberOfPlayerSettlements>Số lượng thuộc địa tối đa: {0}</MaxNumberOfPlayerSettlements>
+	<AutosavesCount>Số lần tự động lưu: {0}</AutosavesCount>
+	<MapDragSensitivity>Độ nhạy kéo bản đồ</MapDragSensitivity>
+	<PlantWindSway>Cây cối đung đưa theo gió</PlantWindSway>
+	<EnableTestMapSizes>Bật kích thước bản đồ thử nghiệm</EnableTestMapSizes>
+	<MaxPermadeathAutosaveIntervalInfo>Khoảng thời gian tự động lưu tối đa trong chế độ chết vĩnh viễn là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
+	<ModSettings>Cài đặt Mod</ModSettings>
+	<PermanentlyDisableDevMode>Vô hiệu hóa chế độ phát triển vĩnh viễn</PermanentlyDisableDevMode>
+	<TextureCompression>Nén đồ họa</TextureCompression>
+	<TextureCompression_Tooltip>Bật tùy chọn này có thể nén đồ họa, giúp tiết kiệm bộ nhớ và làm cho trò chơi chạy mượt mà hơn.\n\nTắt tùy chọn này có thể hiển thị nhiều chi tiết đồ họa hơn, nhưng sẽ tiêu tốn nhiều bộ nhớ hơn. Tắt tùy chọn này tốt nhất khi có đủ bộ nhớ.\n\nLưu ý: Một số mod có thể chiếm nhiều bộ nhớ, nếu bạn thêm những mod này, có thể cần bật tùy chọn này.</TextureCompression_Tooltip>
+	<SmoothCameraJumps>Di chuyển camera mượt mà</SmoothCameraJumps>
+	<SmoothCameraJumpsDesc>Khi bật, camera sẽ chuyển động nhanh chóng khi định vị ở một vị trí mới. Khi tắt, camera sẽ nhảy ngay lập tức.</SmoothCameraJumpsDesc>
+	<Resolution>Độ phân giải</Resolution>
+	<Fullscreen>Chế độ toàn màn hình</Fullscreen>
+	<BorderlessFullscreen>Toàn màn hình không viền</BorderlessFullscreen>
+	<BorderlessFullscreenInstructions>Để chạy RimWorld trong chế độ toàn màn hình không viền.\n\n1. Mở Steam\n\n2. Vào tab "Thư viện" ở trên cùng\n\n3. Tìm RimWorld trong danh sách và nhấp chuột phải vào nó, chọn "Thuộc tính"\n\n4. Thêm "-popupwindow" (không có dấu ngoặc kép) vào "Tùy chọn khởi động" trong tab "Tổng quát".\n\n5. Khởi động lại trò chơi\n\n6. Nếu thao tác đúng, bạn sẽ không thấy cửa sổ này\n\nMẹo: Sử dụng phím Windows + Shift + trái/phải để di chuyển cửa sổ giữa các màn hình.</BorderlessFullscreenInstructions>
+	<SelectMod>Chọn Mod</SelectMod>
+	<NoConfigurableMods>Không có nội dung có thể cấu hình trong các Mod đã tải.</NoConfigurableMods>
+	<RestoreToDefaultSettingsLabel>Đặt lại tất cả tùy chọn về mặc định</RestoreToDefaultSettingsLabel>
+	<RestoreToDefaultSettings>Khôi phục cài đặt mặc định</RestoreToDefaultSettings>
+	<ResetAndRestart>Tất cả tùy chọn đã được đặt lại. Trò chơi sẽ tự động khởi động lại ngay lập tức.</ResetAndRestart>
+	<ResetAndRestartConfirmationDialog>Tất cả cài đặt của bạn sẽ được đặt lại về mặc định và trò chơi sẽ khởi động lại. Tất cả tiến trình chưa lưu sẽ bị mất!\n\nBạn có muốn tiếp tục không?</ResetAndRestartConfirmationDialog>
+	<ChangedTextureCompressionRestart>Thay đổi tùy chọn "Nén đồ họa" cần khởi động lại trò chơi, tất cả tiến trình chưa lưu sẽ bị mất!\n\nBạn có muốn tiếp tục không?</ChangedTextureCompressionRestart>
+	<SetBackgroundImage>Hình nền menu chính</SetBackgroundImage>
+	<!--<SimulateNotOwningRoyalty>Mô phỏng không sở hữu DLC "Hoàng quyền"</SimulateNotOwningRoyalty>
+	<SimulateNotOwningIdeology>Mô phỏng không sở hữu DLC "Ý thức hệ"</SimulateNotOwningIdeology>
+	<SimulateNotOwningBiotech>Mô phỏng không sở hữu DLC "Công nghệ sinh học"</SimulateNotOwningBiotech>
+	<SimulateNotOwningAnomaly>Mô phỏng không sở hữu DLC "Anomaly"</SimulateNotOwningAnomaly>-->
+</LanguageData>

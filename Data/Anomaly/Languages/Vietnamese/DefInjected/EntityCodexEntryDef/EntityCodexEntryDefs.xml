@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodRain.label>Mưa máu</BloodRain.label>
+	<BloodRain.description>Trời đổ mưa như máu. Bất kỳ ai bị lộ ra sẽ cảm thấy một cơn giận dữ vô danh, cuối cùng rơi vào cơn cuồng bạo.</BloodRain.description>
+	<Chimera.label>Quái vật lai</Chimera.label>
+	<CorruptedObelisk.label>Đài tưởng niệm mục nát</CorruptedObelisk.label>
+	<Deathpall.label>Sương mù xác sống</Deathpall.label>
+	<Deathpall.description>Một làn sương mù màu xám đen được tạo thành từ các vi mạch siêu nhiên chưa biết. Chúng sẽ xâm nhập vào xác chết của sinh vật, "hồi sinh" chúng thành những quái vật đi lang thang kỳ quái.</Deathpall.description>
+	<Devourer.label>Quái thú nuốt chửng</Devourer.label>
+	<Dreadmeld.label>Mẹ quái vật kinh hoàng</Dreadmeld.label>
+	<Fleshbeasts.label>Quái thú máu thịt</Fleshbeasts.label>
+	<Fleshbeasts.description>Những sinh vật xấu xí được tạo thành từ các khối u máu thịt. Một số cá thể có nhiều hệ thần kinh, cho phép chúng tách thành những quái thú máu thịt nhỏ hơn.</Fleshbeasts.description>
+	<FleshmassHeart.label>Trái tim máu thịt</FleshmassHeart.label>
+	<FleshmassNucleus.label>Hạt nhân máu thịt</FleshmassNucleus.label>
+	<Ghoul.label>Xác sống</Ghoul.label>
+	<Ghoul.description>Con người bị cấy ghép các mảnh vụn siêu nhiên và sắt sống, bị biến đổi thành những cỗ máy giết chóc khủng khiếp.</Ghoul.description>
+	<GoldenCube.label>Khối lập phương vàng</GoldenCube.label>
+	<Gorehulk.label>Quái vật gai máu</Gorehulk.label>
+	<HarbingerTree.label>Cây báo hiệu tai ương</HarbingerTree.label>
+	<Metalhorror.label>Quái vật kim loại</Metalhorror.label>
+	<Nociosphere.label>Cầu đau khổ</Nociosphere.label>
+	<Noctol.label>Ký sinh đêm</Noctol.label>
+	<Noctolith.label>Cột ánh sáng đêm</Noctolith.label>
+	<PitGate.label>Cổng hố sâu</PitGate.label>
+	<Revenant.label>Hồn ma</Revenant.label>
+	<Shambler.label>Quái vật đi lang thang</Shambler.label>
+	<Shambler.description>Xác chết được "hồi sinh" bởi các vi mạch siêu nhiên. Quái vật đi lang thang di chuyển chậm chạp, đầu óc đơn giản, sẽ tấn công không thương tiếc các sinh vật sống. Trừ khi bị bắt giữ, quái vật đi lang thang sẽ chết vì suy kiệt trao đổi chất sau vài ngày hoặc vài giờ.</Shambler.description>
+	<Sightstealer.label>Quái vật vô hình</Sightstealer.label>
+	<TwistedObelisk.label>Đài tưởng niệm biến dạng</TwistedObelisk.label>
+	<UnnaturalCorpse.label>Xác chết bất thường</UnnaturalCorpse.label>
+	<UnnaturalCorpse.description>Một xác chết kỳ lạ, có cảm giác mịn màng và ấm áp. Khiến người ta cảm thấy rùng rợn.</UnnaturalCorpse.description>
+	<VoidMonolith.label>Khối đá hư vô</VoidMonolith.label>
+	<VoidNode.label>Điểm nút hư vô</VoidNode.label>
+	<VoidStructure.label>Cấu trúc hư vô</VoidStructure.label>
+	<WarpedObelisk.label>Đài tưởng niệm méo mó</WarpedObelisk.label>
+</LanguageData>

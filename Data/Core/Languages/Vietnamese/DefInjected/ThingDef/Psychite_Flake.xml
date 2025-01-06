@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Flake.label>Miếng thuốc</Flake.label>
+<Flake.description>Một loại thuốc tâm thần dạng miếng, được hút từ ống điếu sẽ mang lại cảm giác vui vẻ ngắn ngủi nhưng mạnh mẽ. Quy trình sản xuất đơn giản, nhưng có tính gây nghiện rất cao. Miếng thuốc có thể gây ra sự phá hoại lớn đối với cuộc sống, gia đình và các mối quan hệ xã hội của con người, vì vậy nó rất tai tiếng.</Flake.description>
+<Flake.ingestible.ingestCommandString>Hút {0}</Flake.ingestible.ingestCommandString>
+<Flake.ingestible.ingestReportString>Đang hút {0}.</Flake.ingestible.ingestReportString>
+</LanguageData>

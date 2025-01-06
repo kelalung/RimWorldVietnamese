@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalGatherSpeed.label>Tốc độ thu hoạch động vật</AnimalGatherSpeed.label>
+	<AnimalGatherSpeed.description>Tốc độ thu thập, cắt lông và các hoạt động khác để thu hoạch tài nguyên từ động vật.</AnimalGatherSpeed.description>
+	<AnimalGatherYield.label>Hiệu quả thu hoạch động vật</AnimalGatherYield.label>
+	<AnimalGatherYield.description>Tỷ lệ phần trăm sản lượng khi cắt lông, thu hoạch hoặc các hoạt động khác từ động vật sống.\n\nTỷ lệ phần trăm càng cao, nguy cơ lãng phí sản phẩm càng thấp.</AnimalGatherYield.description>
+	<CleaningSpeed.label>Hệ số tốc độ dọn dẹp</CleaningSpeed.label>
+	<CleaningSpeed.description>Hệ số tốc độ dọn dẹp vết bẩn.</CleaningSpeed.description>
+	<ConstructionSpeed.label>Tốc độ xây dựng</ConstructionSpeed.label>
+	<ConstructionSpeed.description>Tốc độ khi xây dựng và sửa chữa công trình.</ConstructionSpeed.description>
+	<ConstructSuccessChance.label>Tỷ lệ thành công xây dựng</ConstructSuccessChance.label>
+	<ConstructSuccessChance.description>Xác suất thành công khi xây dựng.\nThất bại có nghĩa là lãng phí thời gian và tài nguyên.</ConstructSuccessChance.description>
+	<DeepDrillingSpeed.label>Tốc độ khoan sâu</DeepDrillingSpeed.label>
+	<DeepDrillingSpeed.description>Tốc độ khai thác tài nguyên ngầm bằng cách sử dụng khoan sâu.</DeepDrillingSpeed.description>
+	<DrugHarvestYield.label>Hiệu quả thu hoạch cây gây nghiện</DrugHarvestYield.label>
+	<DrugHarvestYield.description>Sản lượng thu hoạch khi thu hoạch cây gây nghiện.\n\nSản lượng thấp có thể dẫn đến việc người này có xác suất nhất định lãng phí sản phẩm thu hoạch. Sản lượng cao sẽ tăng sản lượng mỗi cây.</DrugHarvestYield.description>
+	<FixBrokenDownBuildingSuccessChance.label>Tỷ lệ thành công sửa chữa</FixBrokenDownBuildingSuccessChance.label>
+	<FixBrokenDownBuildingSuccessChance.description>Xác suất thành công khi sử dụng linh kiện để sửa chữa công trình hư hỏng.\n\nThất bại có nghĩa là lãng phí thời gian và tài nguyên.\nLưu ý rằng điều này chỉ áp dụng cho "hư hỏng", không giống như sửa chữa "thiệt hại".</FixBrokenDownBuildingSuccessChance.description>
+	<HuntingStealth.label>Tỷ lệ ẩn nấp khi săn bắn</HuntingStealth.label>
+	<HuntingStealth.description>Xác suất không bị phát hiện khi săn động vật.\n\n0% có nghĩa là không có ẩn nấp, tỷ lệ ẩn nấp càng cao, xác suất bị động vật săn mồi tấn công càng thấp.</HuntingStealth.description>
+	<MiningSpeed.label>Tốc độ khai thác</MiningSpeed.label>
+	<MiningSpeed.description>Tốc độ khai thác tài nguyên khoáng sản bề mặt.</MiningSpeed.description>
+	<MiningYield.label>Hiệu quả khai thác</MiningYield.label>
+	<MiningYield.description>Tỷ lệ phần trăm sản lượng mà thợ mỏ đạt được.\n\nÁp dụng cho cả khai thác khối tài nguyên và khai thác sâu.\nKhông ảnh hưởng đến khai thác đá.</MiningYield.description>
+	<PlantHarvestYield.label>Hiệu quả thu hoạch thực vật</PlantHarvestYield.label>
+	<PlantHarvestYield.description>Sản lượng thu hoạch khi thu hoạch thực vật.\n\nSản lượng thấp có thể dẫn đến việc người này có xác suất nhất định lãng phí sản phẩm thu hoạch.</PlantHarvestYield.description>
+	<PlantWorkSpeed.label>Tốc độ trồng trọt</PlantWorkSpeed.label>
+	<PlantWorkSpeed.description>Tốc độ khi trồng và thu hoạch thực vật.</PlantWorkSpeed.description>
+	<ReadingSpeed.label>Tốc độ đọc</ReadingSpeed.label>
+	<ReadingSpeed.description>Hệ số tốc độ khi đọc sách.</ReadingSpeed.description>
+	<ResearchSpeed.label>Tốc độ nghiên cứu</ResearchSpeed.label>
+	<ResearchSpeed.description>Tốc độ khi nghiên cứu và sử dụng thiết bị quét.</ResearchSpeed.description>
+	<SmoothingSpeed.label>Tốc độ mài mịn</SmoothingSpeed.label>
+	<SmoothingSpeed.description>Hệ số tốc độ khi mài mịn bề mặt đá thô và tường.</SmoothingSpeed.description>
+	<WorkSpeedGlobal.label>Hệ số tốc độ làm việc toàn cầu</WorkSpeedGlobal.label>
+	<WorkSpeedGlobal.description>Hệ số tốc độ khi thực hiện bất kỳ loại công việc nào.</WorkSpeedGlobal.description>
+	<!-- <WorkSpeedGlobal.parts.2.label>Độ lệch của kỹ sư</WorkSpeedGlobal.parts.2.label> -->
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name-&gt;Sofia Monda</li>
+<li>place_adjective-&gt;Sofia</li>
+<li>place_summary-&gt;Thế giới phong kiến công nghệ</li>
+<li>place_community-&gt;Pháo đài</li>
+<li>place_community-&gt;Cung điện</li>
+<li>place_job-&gt;Kỵ sĩ</li>
+<li>place_job-&gt;Quý tộc</li>
+<li>place_job-&gt;Đức hồng y</li>
+<li>place_job-&gt;Người hầu</li>
+<li>place_job-&gt;Kiếm sĩ</li>
+<li>place_personalWeapon-&gt;Δ'Kiếm plasma</li>
+<li>place_personalWeapon-&gt;Búa chiến</li>
+<li>place_massWeapon-&gt;Một cụm máy móc quỹ đạo</li>
+<li>place_massWeapon-&gt;Một căn bệnh sinh học</li>
+<li>place_massWeapon-&gt;Hội kỵ sĩ sa ngã</li>
+<li>place_foeLeader-&gt;Nhà cách mạng</li>
+<li>place_foeSoldiers-&gt;Kẻ nổi dậy</li>
+  </Sophiamunda.placeRules.rulesStrings>
+</LanguageData>

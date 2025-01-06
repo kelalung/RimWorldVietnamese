@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <NamerWeaponBladelink.rulePack.rulesStrings>
+    <li>r_weapon_name(p=3)-&gt;[noun][verber]</li>
+    <li>r_weapon_name(p=2)-&gt;[beginSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)-&gt;[beginSyl][middleSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)-&gt;[beginSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)-&gt;[NamePerson]</li>
+    <li>r_weapon_name(p=1)-&gt;[nameAnimal]</li>
+    <li>nameAnimal-&gt;[NameAnimalUnisex]</li>
+    <li>nameAnimal-&gt;[NameAnimalMale]</li>
+    <li>nameAnimal-&gt;[NameAnimalFemale]</li>
+    <li>noun-&gt;Lời thề</li>
+    <li>noun-&gt;Lời hứa</li>
+    <li>noun-&gt;Cái chết</li>
+    <li>noun-&gt;Nỗi đau</li>
+    <li>noun-&gt;Máu</li>
+    <li>noun-&gt;Ngày tận thế</li>
+    <li>noun-&gt;Cái chết</li>
+    <li>noun-&gt;Công lý</li>
+    <li>noun-&gt;Nỗi sợ hãi</li>
+    <li>noun-&gt;Kinh hoàng</li>
+    <li>noun-&gt;Hỗn loạn</li>
+    <li>noun-&gt;Trật tự</li>
+    <li>noun-&gt;Chiến tranh</li>
+    <li>noun-&gt;Im lặng</li>
+    <li>noun-&gt;Nợ nần</li>
+    <li>verber-&gt;Người bảo vệ</li>
+    <li>verber-&gt;Sứ giả</li>
+    <li>verber-&gt;Người truyền đạt</li>
+    <li>verber-&gt;Người ban cho</li>
+    <li>verber-&gt;Người tạo ra</li>
+    <li>verber-&gt;Người nghiền nát</li>
+    <li>verber-&gt;Người phá hủy</li>
+    <li>verber-&gt;Người phá hủy</li>
+    <li>verber-&gt;Người biến dạng</li>
+    <li>verber-&gt;Người tiên tri</li>
+    <li>verber-&gt;Sứ giả</li>
+   <li>beginSyl->vi</li>
+    <li>beginSyl->na</li>
+    <li>beginSyl->lo</li>
+    <li>beginSyl->ra</li>
+    <li>beginSyl->to</li>
+    <li>beginSyl->ger</li>
+    <li>beginSyl->xan</li>
+    <li>beginSyl->kel</li>
+    <li>middleSyl->ser</li>
+    <li>middleSyl->gar</li>
+    <li>middleSyl->lor</li>
+    <li>middleSyl->ven</li>
+    <li>middleSyl->zan</li>
+    <li>middleSyl->xal</li>
+    <li>endSyl->ys</li>
+    <li>endSyl->or</li>
+    <li>endSyl->ar</li>
+    <li>endSyl->sum</li>
+    <li>endSyl->dor</li>
+    <li>endSyl->mar</li>
+    <li>endSyl->gur</li>
+</NamerWeaponBladelink.rulePack.rulesStrings>
+</LanguageData>

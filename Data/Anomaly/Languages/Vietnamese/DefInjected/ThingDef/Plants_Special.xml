@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChoppedStump_Harbinger.label>Gốc cây báo hiệu bị chặt</ChoppedStump_Harbinger.label>
+  <ChoppedStump_Harbinger.description>Gốc cây báo hiệu bị chặt hạ. Gốc cây có thể bị chặt, nhưng chỉ thu hoạch được một lượng nhỏ vật liệu có thể sử dụng. Gốc cây ngoài trời sẽ lão hóa theo thời gian.</ChoppedStump_Harbinger.description>
+  <HarbingerSeed.label>Hạt giống cây báo hiệu</HarbingerSeed.label>
+  <HarbingerSeed.description>Hạt giống của cây báo hiệu, sau khi trồng có thể mọc thành cây báo hiệu mới. Cây này ăn xác chết, thịt tươi và đầu lâu đặt xung quanh nó.</HarbingerSeed.description>
+  <Plant_TreeHarbinger.label>Cây báo hiệu</Plant_TreeHarbinger.label>
+  <Plant_TreeHarbinger.description>Một cây lớn với lớp phủ giống như thịt bên ngoài khung thép sống. Cây báo hiệu ăn xác chết, thịt tươi và đầu lâu đặt xung quanh nó, nếu có đủ dinh dưỡng, sẽ sinh ra cây báo hiệu mới.\n\nChặt cây báo hiệu có thể thu hoạch thịt biến dạng và thép sống.\n\nTrong một truyền thuyết bộ lạc, cây này là sứ giả của một vị thần vô hình, điên cuồng, cai trị đại dương đen vô tận, và cuối cùng sẽ nổi lên từ mặt nước, xé toạc bầu trời, chấm dứt mọi thứ.</Plant_TreeHarbinger.description>
+  <SmashedStump_Harbinger.label>Gốc cây báo hiệu bị nghiền nát</SmashedStump_Harbinger.label>
+  <SmashedStump_Harbinger.description>Gốc cây báo hiệu bị hủy hoại. Nó trông rất xấu. Gốc cây có thể bị chặt, nhưng chỉ thu hoạch được một lượng nhỏ vật liệu có thể sử dụng. Gốc cây ngoài trời sẽ lão hóa theo thời gian.</SmashedStump_Harbinger.description>
+</LanguageData>

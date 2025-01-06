@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Ability.label>Khả năng đặc biệt</Ability.label>
+<Aptitudes.label>Tài năng</Aptitudes.label>
+<Archite.label>Siêu phàm</Archite.label>
+<Beauty.label>Vẻ đẹp</Beauty.label>
+<Cosmetic_Body.label>Hình dáng</Cosmetic_Body.label>
+<Drugs.label>Chất gây nghiện</Drugs.label>
+<Healing.label>Chữa bệnh</Healing.label>
+<Hemogen.label>Huyết nguyên chất</Hemogen.label>
+<Mood.label>Tâm trạng</Mood.label>
+<Movement.label>Vận động</Movement.label>
+<Pain.label>Đau đớn</Pain.label>
+<Psychic.label>Tâm linh</Psychic.label>
+<Reproduction.label>Tái sản xuất</Reproduction.label>
+<ResistanceAndWeakness.label>Kháng cự và nhạy cảm</ResistanceAndWeakness.label>
+<Sleep.label>Giấc ngủ</Sleep.label>
+ <Temperature.label>Nhiệt độ</Temperature.label>
+<Violence.label>Bạo lực</Violence.label>
+</LanguageData>

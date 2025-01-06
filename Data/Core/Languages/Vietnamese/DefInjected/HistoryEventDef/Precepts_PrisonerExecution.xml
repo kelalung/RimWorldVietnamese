@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ExecutedColonist.label>Đã xử án thực dân</ExecutedColonist.label>
+	<ExecutedGuest.label>Đã xử án khách</ExecutedGuest.label>
+	<ExecutedPrisoner.label>Đã xử án tù nhân</ExecutedPrisoner.label>
+	<ExecutedPrisonerGuilty.label>Đã xử án tù nhân có tội</ExecutedPrisonerGuilty.label>
+	<ExecutedPrisonerInnocent.label>Đã xử án tù nhân vô tội</ExecutedPrisonerInnocent.label>
+</LanguageData>

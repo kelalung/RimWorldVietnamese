@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<NobleDespisedWeapons.label>Tôn kính và khinh thường</NobleDespisedWeapons.label>
+<NobleDespisedWeapons.description>Chúng tôi có sở thích về việc liệu một số vũ khí có nên được sử dụng trong chiến đấu hay không.</NobleDespisedWeapons.description>
+<NobleDespisedWeapons.comps.0.description>Sử dụng vũ khí được tôn kính để chiến thắng</NobleDespisedWeapons.comps.0.description>
+<NobleDespisedWeapons.comps.1.description>Sử dụng vũ khí bị khinh thường</NobleDespisedWeapons.comps.1.description>
+<NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>Nắm giữ vũ khí được tôn kính</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
+<NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>Nắm giữ vũ khí bị khinh thường</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
+</LanguageData>

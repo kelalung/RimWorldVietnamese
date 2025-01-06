@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beggars.questContentRules.rulesStrings>
+<li>letterLabelBeggarsBetrayed-&gt;[groupLabelSingleOrPlural] bị phản bội</li>
+<li>letterTextBeggarsBetrayed-&gt;[groupLabelSingleOrPlural] đến tìm kiếm sự giúp đỡ của các bạn đã bị phản bội, những người thực dân có lòng nhân ái sẽ không hài lòng.</li>
+<li>hasHave(beggarCount==1)-&gt;</li>
+<li>hasHave(beggarCount&gt;=2)-&gt;</li>
+<li>wasWere(beggarCount==1)-&gt;</li>
+<li>wasWere(beggarCount&gt;=2)-&gt;</li>
+<li>groupLabelSingleOrPlural(beggarCount==1)-&gt;Người hành khất</li>
+<li>groupLabelSingleOrPlural(beggarCount&gt;=2)-&gt;Những người hành khất</li>
+</Beggars.questContentRules.rulesStrings>
+<Beggars.questDescriptionRules.rulesStrings>
+<li>groupLabelPlural-&gt;Những người hành khất</li>
+<li>groupLabelPlural(allChildren==true,priority=1)-&gt;Trẻ em</li>
+<li>groupLabelSingle-&gt;Người hành khất</li>
+<li>groupLabelSingle(childCount&gt;=1,priority=1)-&gt;Đứa trẻ</li>
+<li>travelerInfo(beggarCount==1)-&gt;[groupLabelSingle] này</li>
+<li>travelerInfo(beggarCount&gt;=2)-&gt;Những [groupLabelPlural] này</li>
+<li>beggingForInfo-&gt;[requestedThing_label] x[requestedThingCount]</li>
+<li>traverObjective(beggarCount==1)-&gt;[beggars0_objective]</li>
+<li>traverObjective(beggarCount&gt;=2)-&gt;Họ</li>
+<li>questDescription-&gt;[approachInfo]. [requestInfo]. [claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[travelerInfo] không thuộc về bất kỳ phe phái nào. Nếu bạn muốn, bạn có thể chọn giết, bắt giữ, bán hoặc thu hoạch [traverObjective], và sẽ không phát sinh bất kỳ hậu quả ngoại giao nào.</li>
+<li>approachInfo(beggarCount==1)-&gt;Một [beggars0_nameDef] nghèo khó đang tiếp cận để tìm kiếm sự giúp đỡ</li>
+<li>approachInfo(beggarCount&gt;=2)-&gt;Một nhóm [groupLabelPlural] nghèo khó đang tiếp cận để tìm kiếm sự giúp đỡ</li>
+<li>approachInfo(beggarCount&gt;=2,childCount==1,priority=1)-&gt;Một nhóm [groupLabelPlural] nghèo khó đang tiếp cận để tìm kiếm sự giúp đỡ cùng với một đứa trẻ</li>
+<li>approachInfo(beggarCount&gt;=2,childCount&gt;=2,allChildren==false,priority=1)-&gt;Một nhóm [groupLabelPlural] nghèo khó đang tiếp cận để tìm kiếm sự giúp đỡ cùng với một số trẻ em</li>
+<li>requestInfo(beggarCount==1)-&gt;[beggars0_nameDef] cầu xin bạn cho [beggingForInfo]</li>
+<li>requestInfo(beggarCount&gt;=2)-&gt;[groupLabelPlural] cầu xin bạn cho [beggingForInfo]</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==Silver)-&gt;[beggars0_nameDef] rất cần bạc để trả nợ cho một nhóm cướp biển đang truy đuổi [beggars0_objective]</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==Silver,childCount==1,priority=1)-&gt;[beggars0_nameDef] muốn một ít bạc để cứu chị gái bị nô dịch khỏi tay cướp biển.</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal)-&gt;[beggars0_nameDef] rất cần thuốc để cứu một người hành khách bị thương gần đây</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal,childCount==1,priority=1)-&gt;[beggars0_nameDef] cần một số thuốc để giúp đỡ [beggars0_possessive] em trai bị thương ở gần đây</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==MedicineIndustrial)-&gt;[beggars0_nameDef] rất cần thuốc để cứu thú cưng trung thành bị thương trong chuyến đi</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==Penoxycyline)-&gt;[beggars0_nameDef] rất cần [requestedThing_label] để tiêm phòng cho người bạn yếu ớt khỏi bệnh nguy hiểm</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==Beer,childCount==1,priority=1)-&gt;[beggars0_nameDef] muốn [requestedThing_label] để giúp đỡ người chú đang bệnh nặng giảm bớt đau đớn</li>
+<li>claimInfo(beggarCount==1,requestedThingDefName==Beer)-&gt;[beggars0_nameDef] cần nó để xoa dịu nỗi đau do mất bạn đồng hành trong một tai nạn khủng khiếp</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==Silver)-&gt;Họ rất cần bạc để chuộc lại người bạn vừa bị bắt cóc</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==MedicineHerbal)-&gt;Họ rất cần thuốc để cứu người bạn bị thương nặng do máy móc gây ra</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==MedicineHerbal,allChildren==true,priority=1)-&gt;Họ cần thuốc này để làm đơn thuốc cho một người bạn đang sốt cao</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==MedicineIndustrial)-&gt;Họ rất cần thuốc để cứu những người bạn bị tấn công ở khu định cư gần đây</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==Penoxycyline)-&gt;Họ rất cần [requestedThing_label] để đảm bảo an toàn cho chuyến đi trước khi tìm được nơi ở mới</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==Beer)-&gt;Cần nó để xoa dịu nỗi đau do mất nhà cửa vì một cuộc tấn công khủng khiếp</li>
+<li>claimInfo(beggarCount&gt;=2,requestedThingDefName==Beer,allChildren==true,priority=1)-&gt;Họ hy vọng sử dụng [requestedThing_label] cho một kế hoạch giải cứu được chuẩn bị kỹ lưỡng. Họ muốn giải cứu bạn mình khỏi tay chủ nô khi chủ nô say rượu</li>
+<li>interactionInfo(beggarCount==1)-&gt;Sau khi chọn người thực dân, bạn có thể nhấp chuột phải vào [beggars0_nameDef] để tặng cho [beggars0_objective] những vật phẩm cần thiết</li>
+<li>interactionInfo(beggarCount&gt;=2)-&gt;Sau khi chọn người thực dân, bạn có thể nhấp chuột phải vào [beggars0_nameDef] để tặng cho [groupLabelPlural] những vật phẩm cần thiết</li>
+<li>moveOnInfo(beggarCount==1)-&gt;[beggars0_nameDef] sẽ tiếp tục hành trình sau [visitDurationTicks_duration]</li>
+<li>moveOnInfo(beggarCount&gt;=2)-&gt;[groupLabelPlural] sẽ tiếp tục hành trình sau [visitDurationTicks_duration]</li>
+</Beggars.questDescriptionRules.rulesStrings>
+<Beggars.questNameRules.rulesStrings>
+<li>questName(beggarCount==1)-&gt;[beggarSingle][seekingSingle][alms]</li>
+<li>questName(beggarCount&gt;=2)-&gt;[beggarPlural][seekingPlural][alms]</li>
+<li>beggarSingle-&gt;Người hành khất</li>
+<li>beggarSingle-&gt;Người lang thang</li>
+<li>beggarSingle-&gt;Người phiêu bạt</li>
+<li>beggarSingle-&gt;Người du hành</li>
+<li>beggarPlural-&gt;[beggarSingle] nhóm</li>
+<li>seekingSingle-&gt;Tìm kiếm</li>
+<li>seekingSingle-&gt;Yêu cầu</li>
+<li>seekingSingle-&gt;Muốn</li>
+<li>seekingSingle-&gt;Khao khát</li>
+<li>seekingSingle-&gt;Cần</li>
+<li>seekingSingle-&gt;Mong muốn</li>
+<li>seekingPlural-&gt;Tìm kiếm</li>
+<li>seekingPlural-&gt;Yêu cầu</li>
+<li>seekingPlural-&gt;Muốn</li>
+<li>seekingPlural-&gt;Mong muốn</li>
+<li>seekingPlural-&gt;Khao khát</li>
+<li>seekingPlural-&gt;Cần</li>
+<li>alms-&gt;Bố thí</li>
+<li>alms-&gt;Hỗ trợ</li>
+<li>alms-&gt;Cứu trợ</li>
+<li>alms-&gt;Tài nguyên</li>
+</Beggars.questNameRules.rulesStrings>
+</LanguageData>

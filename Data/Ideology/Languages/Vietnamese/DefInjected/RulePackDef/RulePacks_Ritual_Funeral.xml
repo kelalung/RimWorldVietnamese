@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerRitualFuneral.rulePack.rulesStrings>
+		<li>r_ritualName(p=2)-&gt;[memeAdjective][funeral]</li>
+		<li>r_ritualName-&gt;[chosenTheme][funeral]</li>
+		<li>r_ritualName-&gt;[chosenAdjective][funeral]</li>
+		<li>r_ritualName-&gt;[keyDeity][funeral]</li>
+		<li>r_ritualName-&gt;[keyDeity][funeral]</li>
+		<li>r_ritualName-&gt;[memeConcept] [funeral]</li>
+		<li>r_ritualName-&gt;[chosenIdeoName][funeral]</li>
+		<li>r_ritualName(p=0.01)-&gt;Lễ tang</li>
+		<li>funeral-&gt;Lễ tang</li>
+		<li>funeral-&gt;Tang lễ</li>
+		<li>funeral-&gt;Lời điếu</li>
+		<li>funeral-&gt;Lễ tưởng niệm</li>
+		<li>funeral-&gt;Khúc hát an nghỉ</li>
+		<li>funeral-&gt;Nghĩa trang</li>
+	</NamerRitualFuneral.rulePack.rulesStrings>
+</LanguageData>

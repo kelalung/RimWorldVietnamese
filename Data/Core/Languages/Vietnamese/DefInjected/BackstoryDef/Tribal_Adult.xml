@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Archer25.description>[PAWN_nameDef] chiến đấu cho bộ lạc của [PAWN_possessive]. [PAWN_pronoun] khá thành thạo trong việc sử dụng cung, giáo và các loại vũ khí tầm xa khác.</Archer25.description>
+	<Archer25.baseDesc>[PAWN_nameDef] chiến đấu cho bộ lạc của [PAWN_possessive]. [PAWN_pronoun] khá thành thạo trong việc sử dụng cung, giáo và các loại vũ khí tầm xa khác.</Archer25.baseDesc>
+	<Archer25.title>Người bắn cung bộ lạc</Archer25.title>
+	<Archer25.titleShort>Người bắn cung</Archer25.titleShort>
+	<Banished68.description>Sau một trận chiến đẫm máu, [PAWN_nameDef] bị bộ lạc của [PAWN_possessive] lưu đày, sống một mình trong hoang dã trong một thời gian dài.</Banished68.description>
+	<Banished68.baseDesc>Sau một trận chiến đẫm máu, [PAWN_nameDef] bị bộ lạc của [PAWN_possessive] lưu đày, sống một mình trong hoang dã trong một thời gian dài.</Banished68.baseDesc>
+	<Banished68.title>Người bị lưu đày</Banished68.title>
+	<Banished68.titleShort>Người bị lưu đày</Banished68.titleShort>
+	<Brave88.description>[PAWN_nameDef] chiến đấu cho bộ lạc của [PAWN_possessive] bằng cách sử dụng giáo, rìu, gậy và các loại vũ khí cận chiến khác.</Brave88.description>
+	<Brave88.baseDesc>[PAWN_nameDef] chiến đấu cho bộ lạc của [PAWN_possessive] bằng cách sử dụng giáo, rìu, gậy và các loại vũ khí cận chiến khác.</Brave88.baseDesc>
+	<Brave88.title>Chiến binh bộ lạc</Brave88.title>
+	<Brave88.titleShort>Chiến binh</Brave88.titleShort>
+	<Butcher40.description>[PAWN_nameDef] có nhiệm vụ chính trong đội săn là mổ xẻ các con thú đã săn được. [PAWN_pronoun] trở thành một tay mổ giỏi, có thể lấy ra từng phần có giá trị từ xác chết trong thời gian ngắn nhất.</Butcher40.description>
+	<Butcher40.baseDesc>[PAWN_nameDef] có nhiệm vụ chính trong đội săn là mổ xẻ các con thú đã săn được. [PAWN_pronoun] trở thành một tay mổ giỏi, có thể lấy ra từng phần có giá trị từ xác chết trong thời gian ngắn nhất.</Butcher40.baseDesc>
+	<Butcher40.title>Người mổ</Butcher40.title>
+	<Butcher40.titleShort>Người mổ</Butcher40.titleShort>
+	<Carver1.description>[PAWN_nameDef] tạo ra các tác phẩm điêu khắc từ gỗ, đá hoặc các vật liệu tốt hơn cho bộ lạc của [PAWN_possessive]. Một số tác phẩm được bán, trong khi một số khác được giữ lại để trang trí cho khu định cư hoặc dùng trong các nghi lễ tôn giáo.</Carver1.description>
+	<Carver1.baseDesc>[PAWN_nameDef] tạo ra các tác phẩm điêu khắc từ gỗ, đá hoặc các vật liệu tốt hơn cho bộ lạc của [PAWN_possessive]. Một số tác phẩm được bán, trong khi một số khác được giữ lại để trang trí cho khu định cư hoặc dùng trong các nghi lễ tôn giáo.</Carver1.baseDesc>
+	<Carver1.title>Người điêu khắc bộ lạc</Carver1.title>
+	<Carver1.titleShort>Người điêu khắc</Carver1.titleShort>
+	<CaveBuilder81.description>[PAWN_nameDef] chuyên về việc khai thác và xây dựng trong các hang động.</CaveBuilder81.description>
+	<CaveBuilder81.baseDesc>[PAWN_nameDef] chuyên về việc khai thác và xây dựng trong các hang động.</CaveBuilder81.baseDesc>
+	<CaveBuilder81.title>Người xây dựng hang động</CaveBuilder81.title>
+	<CaveBuilder81.titleShort>Người xây dựng hang động</CaveBuilder81.titleShort>
+	<Digger31.description>[PAWN_nameDef] làm việc trong các mỏ và hang động, khai thác đất đá cho kho và nơi trú ẩn. Những thành quả của [PAWN_possessive] đã giúp bạn bè tránh khỏi nhiều cuộc khủng hoảng.</Digger31.description>
+	<Digger31.baseDesc>[PAWN_nameDef] làm việc trong các mỏ và hang động, khai thác đất đá cho kho và nơi trú ẩn. Những thành quả của [PAWN_possessive] đã giúp bạn bè tránh khỏi nhiều cuộc khủng hoảng.</Digger31.baseDesc>
+	<Digger31.title>Người khai thác</Digger31.title>
+	<Digger31.titleShort>Người khai thác</Digger31.titleShort>
+	<Digger66.description>[PAWN_nameDef] và bộ lạc của [PAWN_possessive] đã khai thác những ngôi nhà thoải mái của mình sâu trong vách núi. Công việc tìm kiếm đá và gia cố tường đã khiến [PAWN_nameDef] cảm thấy rất gắn bó với quê hương.</Digger66.description>
+	<Digger66.baseDesc>[PAWN_nameDef] và bộ lạc của [PAWN_possessive] đã khai thác những ngôi nhà thoải mái của mình sâu trong vách núi. Công việc tìm kiếm đá và gia cố tường đã khiến [PAWN_nameDef] cảm thấy rất gắn bó với quê hương.</Digger66.baseDesc>
+	<Digger66.title>Người khai thác bộ lạc</Digger66.title>
+	<Digger66.titleShort>Người khai thác</Digger66.titleShort>
+	<Excavator55.description>[PAWN_nameDef] làm việc tại công trường khai thác, tìm kiếm các vật phẩm và nguyên liệu có giá trị từ những di tích cổ đại bị bỏ hoang. [PAWN_pronoun] đã học được cách phát hiện các vật thể có giá trị trên mặt đất và các kỹ năng sử dụng nhiều công cụ khai thác khác nhau.</Excavator55.description>
+	<Excavator55.baseDesc>[PAWN_nameDef] làm việc tại công trường khai thác, tìm kiếm các vật phẩm và nguyên liệu có giá trị từ những di tích cổ đại bị bỏ hoang. [PAWN_pronoun] đã học được cách phát hiện các vật thể có giá trị trên mặt đất và các kỹ năng sử dụng nhiều công cụ khai thác khác nhau.</Excavator55.baseDesc>
+	<Excavator55.title>Công nhân khai thác</Excavator55.title>
+	<Excavator55.titleShort>Công nhân khai thác</Excavator55.titleShort>
+	<Framer37.description>[PAWN_nameDef] chịu trách nhiệm xây dựng nơi ở cho những người khác trong bộ lạc của [PAWN_possessive]. Điều này bao gồm cả nơi tạm trú cho các đoàn thám hiểm và nhà ở cố định. Việc thu thập nguyên liệu từ thực vật địa phương cũng là một phần của công việc.</Framer37.description>
+	<Framer37.baseDesc>[PAWN_nameDef] chịu trách nhiệm xây dựng nơi ở cho những người khác trong bộ lạc của [PAWN_possessive]. Điều này bao gồm cả nơi tạm trú cho các đoàn thám hiểm và nhà ở cố định. Việc thu thập nguyên liệu từ thực vật địa phương cũng là một phần của công việc.</Framer37.baseDesc>
+	<Framer37.title>Thợ xây bộ lạc</Framer37.title>
+	<Framer37.titleShort>Thợ xây</Framer37.titleShort>
+	<Gatherer70.description>Với kiến thức sâu sắc về các loại thực vật, rễ, và quả mọng, [PAWN_nameDef] có thể tìm thấy thức ăn ngay cả trong những nơi khô cằn nhất. [PAWN_pronoun] luôn giữ khoảng cách với động vật.</Gatherer70.description>
+	<Gatherer70.baseDesc>Với kiến thức sâu sắc về các loại thực vật, rễ, và quả mọng, [PAWN_nameDef] có thể tìm thấy thức ăn ngay cả trong những nơi khô cằn nhất. [PAWN_pronoun] luôn giữ khoảng cách với động vật.</Gatherer70.baseDesc>
+	<Gatherer70.title>Người thu thập</Gatherer70.title>
+	<Gatherer70.titleShort>Người thu thập</Gatherer70.titleShort>
+	<Healer46.description>Khi thầy thuốc già của bộ lạc qua đời trong một cuộc tấn công, [PAWN_nameDef] đã đảm nhận vai trò này. [PAWN_pronoun] hàng ngày tìm kiếm các loại thảo dược và hợp chất khoáng gần đó, và áp dụng chúng vào những phương pháp chữa bệnh kỳ diệu và hiệu quả.</Healer46.description>
+	<Healer46.baseDesc>Khi thầy thuốc già của bộ lạc qua đời trong một cuộc tấn công, [PAWN_nameDef] đã đảm nhận vai trò này. [PAWN_pronoun] hàng ngày tìm kiếm các loại thảo dược và hợp chất khoáng gần đó, và áp dụng chúng vào những phương pháp chữa bệnh kỳ diệu và hiệu quả.</Healer46.baseDesc>
+	<Healer46.title>Thầy thuốc bộ lạc</Healer46.title>
+	<Healer46.titleShort>Thầy thuốc</Healer46.titleShort>
+	<HearthTender66.description>Khi mọi người ra ngoài săn bắn và tìm kiếm thức ăn, [PAWN_nameDef] thường ở nhà nấu ăn và chăm sóc người già, trẻ em và những người bệnh tật.</HearthTender66.description>
+	<HearthTender66.baseDesc>Khi mọi người ra ngoài săn bắn và tìm kiếm thức ăn, [PAWN_nameDef] thường ở nhà nấu ăn và chăm sóc người già, trẻ em và những người bệnh tật.</HearthTender66.baseDesc>
+	<HearthTender66.title>Người chăm sóc bên bếp lửa</HearthTender66.title>
+	<HearthTender66.titleShort>Người chăm sóc</HearthTender66.titleShort>
+	<Herder33.description>[PAWN_nameDef] chịu trách nhiệm chăn nuôi nhiều loại động vật và duy trì sản lượng của chúng khi [PAWN_possessive] bộ lạc di cư. [PAWN_nameDef] biết cách dẫn dắt và làm cho động vật bình tĩnh, cũng như truy tìm thức ăn cho [PAWN_possessive].</Herder33.description>
+	<Herder33.baseDesc>[PAWN_nameDef] chịu trách nhiệm chăn nuôi nhiều loại động vật và duy trì sản lượng của chúng khi [PAWN_possessive] bộ lạc di cư. [PAWN_nameDef] biết cách dẫn dắt và làm cho động vật bình tĩnh, cũng như truy tìm thức ăn cho [PAWN_possessive].</Herder33.baseDesc>
+	<Herder33.title>Người chăn cừu</Herder33.title>
+	<Herder33.titleShort>Người chăn cừu</Herder33.titleShort>
+	<Hunter74.description>[PAWN_nameDef] theo dõi, bẫy và giết động vật để lấy da và thịt của chúng.\n\n[PAWN_nameDef] cũng thành thạo cả vũ khí tầm xa và cận chiến. Đôi khi [PAWN_pronoun] cũng săn cùng với các động vật ăn thịt khác.</Hunter74.description>
+	<Hunter74.baseDesc>[PAWN_nameDef] theo dõi, bẫy và giết động vật để lấy da và thịt của chúng.\n\n[PAWN_nameDef] cũng thành thạo cả vũ khí tầm xa và cận chiến. Đôi khi [PAWN_pronoun] cũng săn cùng với các động vật ăn thịt khác.</Hunter74.baseDesc>
+	<Hunter74.title>Thợ săn</Hunter74.title>
+	<Hunter74.titleShort>Người săn</Hunter74.titleShort>
+	<Logger16.description>[PAWN_nameDef] chặt và vận chuyển gỗ cho bộ lạc. Khi [PAWN_pronoun] cầm rìu, dường như có kỹ năng của một nghệ sĩ và sức mạnh như một con bò tuyết.</Logger16.description>
+	<Logger16.baseDesc>[PAWN_nameDef] chặt và vận chuyển gỗ cho bộ lạc. Khi [PAWN_pronoun] cầm rìu, dường như có kỹ năng của một nghệ sĩ và sức mạnh như một con bò tuyết.</Logger16.baseDesc>
+	<Logger16.title>Thợ mộc bộ lạc</Logger16.title>
+	<Logger16.titleShort>Thợ mộc</Logger16.titleShort>
+	<Loner61.description>[PAWN_nameDef] không thích tham gia các cuộc họp của bộ lạc và các lễ hội hàng năm. [PAWN_pronoun] thích ngồi một mình trên những đồng cỏ rộng lớn và lắng nghe tiếng gió thổi qua những viên đá.\n\n[PAWN_nameDef] mặc dù thỉnh thoảng trở về [PAWN_possessive] bộ lạc, nhưng phần lớn thời gian [PAWN_pronoun] tự chăm sóc bản thân bằng kỹ năng sinh tồn của mình.</Loner61.description>
+	<Loner61.baseDesc>[PAWN_nameDef] không thích tham gia các cuộc họp của bộ lạc và các lễ hội hàng năm. [PAWN_pronoun] thích ngồi một mình trên những đồng cỏ rộng lớn và lắng nghe tiếng gió thổi qua những viên đá.\n\n[PAWN_nameDef] mặc dù thỉnh thoảng trở về [PAWN_possessive] bộ lạc, nhưng phần lớn thời gian [PAWN_pronoun] tự chăm sóc bản thân bằng kỹ năng sinh tồn của mình.</Loner61.baseDesc>
+	<Loner61.title>Người độc hành của bộ lạc</Loner61.title>
+	<Loner61.titleShort>Người độc hành</Loner61.titleShort>
+	<LoreKeeper51.description>[PAWN_nameDef] là trưởng lão của [PAWN_possessive] bộ lạc, có kiến thức sâu rộng. Mỗi tối, ngồi quanh đống lửa, [PAWN_pronoun] truyền đạt kiến thức và trí tuệ cổ xưa cho các thành viên trẻ trong bộ lạc thông qua những câu chuyện huyền thoại.</LoreKeeper51.description>
+	<LoreKeeper51.baseDesc>[PAWN_nameDef] là trưởng lão của [PAWN_possessive] bộ lạc, có kiến thức sâu rộng. Mỗi tối, ngồi quanh đống lửa, [PAWN_pronoun] truyền đạt kiến thức và trí tuệ cổ xưa cho các thành viên trẻ trong bộ lạc thông qua những câu chuyện huyền thoại.</LoreKeeper51.baseDesc>
+	<LoreKeeper51.title>Trưởng lão bộ lạc</LoreKeeper51.title>
+	<LoreKeeper51.titleShort>Trưởng lão</LoreKeeper51.titleShort>
+	<Malingerer28.description>[PAWN_nameDef] thường giả vờ ốm để tránh [PAWN_possessive] trách nhiệm. Khi nghỉ ngơi trong bệnh viện tạm thời, [PAWN_pronoun] thường kể chuyện cho trẻ em.</Malingerer28.description>
+	<Malingerer28.baseDesc>[PAWN_nameDef] thường giả vờ ốm để tránh [PAWN_possessive] trách nhiệm. Khi nghỉ ngơi trong bệnh viện tạm thời, [PAWN_pronoun] thường kể chuyện cho trẻ em.</Malingerer28.baseDesc>
+	<Malingerer28.title>Người giả vờ ốm</Malingerer28.title>
+	<Malingerer28.titleShort>Người giả vờ ốm</Malingerer28.titleShort>
+	<MuffaloShaman95.description>Bởi vì sự điềm tĩnh, thông minh và sức mạnh to lớn, [PAWN_nameDef] đã trở thành nhà lãnh đạo tinh thần của bộ lạc du mục. Người ta nói rằng [PAWN_nameDef] có thể giao tiếp trực tiếp với thần bò tuyết.</MuffaloShaman95.description>
+	<MuffaloShaman95.baseDesc>Bởi vì sự điềm tĩnh, thông minh và sức mạnh to lớn, [PAWN_nameDef] đã trở thành nhà lãnh đạo tinh thần của bộ lạc du mục. Người ta nói rằng [PAWN_nameDef] có thể giao tiếp trực tiếp với thần bò tuyết.</MuffaloShaman95.baseDesc>
+	<MuffaloShaman95.title>Shaman bò tuyết</MuffaloShaman95.title>
+	<MuffaloShaman95.titleShort>Shaman</MuffaloShaman95.titleShort>
+	<PlankCutter72.description>[PAWN_nameDef] giúp [PAWN_possessive] bộ lạc xây dựng các công trình lớn bằng cách cắt gỗ thành những tấm ván bền. [PAWN_nameDef] biết cách tối đa hóa việc sử dụng và trồng cây gỗ.</PlankCutter72.description>
+	<PlankCutter72.baseDesc>[PAWN_nameDef] giúp [PAWN_possessive] bộ lạc xây dựng các công trình lớn bằng cách cắt gỗ thành những tấm ván bền. [PAWN_nameDef] biết cách tối đa hóa việc sử dụng và trồng cây gỗ.</PlankCutter72.baseDesc>
+	<PlankCutter72.title>Người cắt ván</PlankCutter72.title>
+	<PlankCutter72.titleShort>Người cắt ván</PlankCutter72.titleShort>
+	<Scout59.description>Bộ lạc của [PAWN_nameDef] đã thiết lập quan hệ hợp tác với những người ngoại lai địa phương, và nhiệm vụ của [PAWN_pronoun] là làm hướng dẫn cho họ. Sự tiếp xúc thường xuyên với công nghệ cổ xưa làm cho [PAWN_pronoun] không ghét những thiết bị máy móc lạc lõng đó.</Scout59.description>
+	<Scout59.baseDesc>Bộ lạc của [PAWN_nameDef] đã thiết lập quan hệ hợp tác với những người ngoại lai địa phương, và nhiệm vụ của [PAWN_pronoun] là làm hướng dẫn cho họ. Sự tiếp xúc thường xuyên với công nghệ cổ xưa làm cho [PAWN_pronoun] không ghét những thiết bị máy móc lạc lõng đó.</Scout59.baseDesc>
+	<Scout59.title>Hướng dẫn bộ lạc</Scout59.title>
+	<Scout59.titleShort>Hướng dẫn</Scout59.titleShort>
+	<StewKeeper95.description>[PAWN_nameDef] chuẩn bị thức ăn từ động thực vật do người thu thập, nông dân và thợ săn trong bộ lạc mang về. [PAWN_nameDef] phải đảm bảo rằng bữa ăn đủ năng lượng và lành mạnh. Đôi khi [PAWN_pronoun] cũng tự đi thu thập thực vật.</StewKeeper95.description>
+	<StewKeeper95.baseDesc>[PAWN_nameDef] chuẩn bị thức ăn từ động thực vật do người thu thập, nông dân và thợ săn trong bộ lạc mang về. [PAWN_nameDef] phải đảm bảo rằng bữa ăn đủ năng lượng và lành mạnh. Đôi khi [PAWN_pronoun] cũng tự đi thu thập thực vật.</StewKeeper95.baseDesc>
+	<StewKeeper95.title>Người quản lý bữa ăn</StewKeeper95.title>
+	<StewKeeper95.titleShort>Người quản lý bữa ăn</StewKeeper95.titleShort>
+	<Tamer79.description>[PAWN_nameDef] chịu trách nhiệm kết nối tâm hồn với thiên nhiên trong [PAWN_possessive] bộ lạc - đặc biệt là với động vật. Ngoài các nghi lễ, [PAWN_pronoun] cũng chăm sóc những con vật làm việc cho bộ lạc.</Tamer79.description>
+	<Tamer79.baseDesc>[PAWN_nameDef] chịu trách nhiệm kết nối tâm hồn với thiên nhiên trong [PAWN_possessive] bộ lạc - đặc biệt là với động vật. Ngoài các nghi lễ, [PAWN_pronoun] cũng chăm sóc những con vật làm việc cho bộ lạc.</Tamer79.baseDesc>
+	<Tamer79.title>Người thuần hóa bộ lạc</Tamer79.title>
+	<Tamer79.titleShort>Người thuần hóa</Tamer79.titleShort>
+	<TreehouseBuilder86.description>[PAWN_nameDef] xây dựng nhà cho các đồng bào trong đoàn thám hiểm [PAWN_possessive] trên cây, thậm chí đôi khi giữa những cái cây. [PAWN_nameDef] biết cách tìm và sử dụng những phần tốt nhất của thực vật hoang dã, cũng như biết cách xua đuổi hầu hết các động vật hoang dã.</TreehouseBuilder86.description>
+	<TreehouseBuilder86.baseDesc>[PAWN_nameDef] xây dựng nhà cho các đồng bào trong đoàn thám hiểm [PAWN_possessive] trên cây, thậm chí đôi khi giữa những cái cây. [PAWN_nameDef] biết cách tìm và sử dụng những phần tốt nhất của thực vật hoang dã, cũng như biết cách xua đuổi hầu hết các động vật hoang dã.</TreehouseBuilder86.baseDesc>
+	<TreehouseBuilder86.title>Người xây dựng nhà trên cây</TreehouseBuilder86.title>
+	<TreehouseBuilder86.titleShort>Người xây dựng nhà trên cây</TreehouseBuilder86.titleShort>
+	<VengefulHunter32.description>Sau khi một người bạn thân bị chết vì một cuộc tấn công của động vật, [PAWN_nameDef] đã đi săn con thú đã giết chết người bạn của mình. [PAWN_pronoun] theo dõi con thú đến một ngôi làng gần đó, và thấy một người dân đã giết con thú đó, còn thắt lưng thì quấn da của nó.</VengefulHunter32.description>
+	<VengefulHunter32.baseDesc>Sau khi một người bạn thân bị chết vì một cuộc tấn công của động vật, [PAWN_nameDef] đã đi săn con thú đã giết chết người bạn của mình. [PAWN_pronoun] theo dõi con thú đến một ngôi làng gần đó, và thấy một người dân đã giết con thú đó, còn thắt lưng thì quấn da của nó.</VengefulHunter32.baseDesc>
+	<VengefulHunter32.title>Thợ săn báo thù</VengefulHunter32.title>
+	<VengefulHunter32.titleShort>Người báo thù</VengefulHunter32.titleShort>
+	<Warrior94.description>[PAWN_nameDef] là một chiến binh đáng sợ. [PAWN_pronoun] đã trải qua nhiều trận chiến và thành thạo nhiều loại vũ khí.</Warrior94.description>
+	<Warrior94.baseDesc>[PAWN_nameDef] là một chiến binh đáng sợ. [PAWN_pronoun] đã trải qua nhiều trận chiến và thành thạo nhiều loại vũ khí.</Warrior94.baseDesc>
+	<Warrior94.title>Chiến binh dày dạn</Warrior94.title>
+	<Warrior94.titleShort>Chiến binh</Warrior94.titleShort>
+	<Weaver63.description>[PAWN_nameDef] là một chuyên gia dệt xuất sắc, có khả năng sử dụng lông bò tuyết, sợi thực vật và thuốc nhuộm tự nhiên để dệt ra những bộ quần áo đẹp cho [PAWN_possessive] gia đình. Những sản phẩm thủ công đẹp đẽ của [PAWN_pronoun] thường được trao đổi trong các bộ lạc địa phương.</Weaver63.description>
+	<Weaver63.baseDesc>[PAWN_nameDef] là một chuyên gia dệt xuất sắc, có khả năng sử dụng lông bò tuyết, sợi thực vật và thuốc nhuộm tự nhiên để dệt ra những bộ quần áo đẹp cho [PAWN_possessive] gia đình. Những sản phẩm thủ công đẹp đẽ của [PAWN_pronoun] thường được trao đổi trong các bộ lạc địa phương.</Weaver63.baseDesc>
+	<Weaver63.title>Thợ dệt chuyên nghiệp</Weaver63.title>
+	<Weaver63.titleShort>Thợ dệt</Weaver63.titleShort>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Abasia.label>Liệt</Abasia.label>
+<Abasia.description>Một trạng thái ảnh hưởng đến vỏ não vận động của bệnh nhân, dẫn đến không thể đi lại. Sau một thời gian đủ lâu, não có thể tự phục hồi thông qua việc tái cấu trúc mạng nơ-ron, nhưng quá trình này khá chậm. Tuy nhiên, cũng có một xác suất nhỏ có thể phục hồi trực tiếp. Bệnh này có thể được phục hồi thông qua phẫu thuật đặc biệt, cần nhiều thuốc y học từ thế giới chói lọi.</Abasia.description>
+<Abasia.descriptionShort>Một bệnh lý hệ thần kinh khiến người ta không thể đi lại. Bệnh nhân tự phục hồi, nhưng quá trình rất chậm.</Abasia.descriptionShort>
+<BloodRot.label>Độc huyết</BloodRot.label>
+<BloodRot.description>Một bệnh vi khuẩn phát triển chậm. Ở giai đoạn đầu, vi khuẩn ảnh hưởng rất ít đến bệnh nhân, nhưng khi đạt đến mức bão hòa, sẽ gây ra cơn bão độc tố, dẫn đến cái chết. Hệ miễn dịch cần rất nhiều thời gian để loại bỏ độc huyết, vì vậy phác đồ điều trị tiêu chuẩn là sử dụng thuốc thông thường để ức chế độc huyết cho đến khi phục hồi bình thường. Các bác sĩ từ thế giới chói lọi có thể sử dụng liều lớn thuốc nano để loại bỏ nhiễm độc huyết trong một lần, nhưng chi phí tương đối đắt.</BloodRot.description>
+<BloodRot.descriptionShort>Một bệnh vi khuẩn phát triển chậm. Khi đạt đến mức bão hòa hoàn toàn, nó sẽ giết chết người bị ảnh hưởng.</BloodRot.descriptionShort>
+<BloodRot.stages.minor.label>Nhẹ</BloodRot.stages.minor.label>
+<BloodRot.stages.major.label>Nặng</BloodRot.stages.major.label>
+<BloodRot.stages.extreme.label>Rất nặng</BloodRot.stages.extreme.label>
+</LanguageData>

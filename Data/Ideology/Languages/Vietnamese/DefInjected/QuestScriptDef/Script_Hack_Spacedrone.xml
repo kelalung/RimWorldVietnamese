@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Hack_Spacedrone.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn phát hiện một drone không người lái trên quỹ đạo, có thể mang theo thông tin bí mật về [relic_name]. Bạn có thể gửi tín hiệu để buộc nó hạ cánh tại [map_definite].\n\nĐể lấy thông tin, bạn cần xâm nhập vào máy tính của drone không người lái. Quá trình xâm nhập cần thời gian, những người có trình độ thông minh cao có thể tăng tốc quá trình này. [raidsDescription]\n\nSau khi hạ cánh, drone không người lái sẽ tự hủy trong vòng [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_name] [enemyFaction_pawnsPlural] có thể [droneDetectionMethod]. Chừng nào drone không người lái còn tồn tại, họ sẽ cử một cuộc tấn công mỗi [raidIntervalAvg_duration] để cố gắng phá hủy nó và đánh cắp những gì họ cho là tài sản có giá trị. Trước khi họ đến, bạn sẽ có một khoảng thời gian để chuẩn bị phòng thủ.</li>
+    <li>raidsDescription(allowViolence==false)-&gt;</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)-&gt; phát hiện nó khi drone không người lái chưa bị phá hủy</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)-&gt; phát hiện tín hiệu năng lượng của drone không người lái</li>
+</Hack_Spacedrone.questDescriptionRules.rulesStrings>
+<Hack_Spacedrone.questNameRules.rulesStrings>
+    <li>questName-&gt; Xâm nhập [droneAdj][drone]</li>
+    <li>questName-&gt; Xâm nhập [drone][data]</li>
+    <li>droneAdj-&gt; trên quỹ đạo</li>
+    <li>droneAdj-&gt; dữ liệu</li>
+    <li>droneAdj-&gt; cổ đại</li>
+    <li>drone-&gt; drone không người lái</li>
+    <li>drone-&gt; phương tiện bay không người lái</li>
+    <li>drone-&gt; drone không người lái ngoài không gian</li>
+    <li>drone-&gt; drone mã hóa</li>
+    <li>data-&gt; dữ liệu</li>
+    <li>data-&gt; thông tin tình báo</li>
+    <li>data-&gt; thông tin</li>
+</Hack_Spacedrone.questNameRules.rulesStrings>
+</LanguageData>

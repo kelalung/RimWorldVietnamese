@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LuciferiumAddiction.label>Nghiện Luciferium</LuciferiumAddiction.label>
+	<LuciferiumAddiction.description>Các cơ chế nano có nguồn gốc từ Luciferium trong cơ thể đang dần biến mất theo thời gian; chỉ có việc sử dụng Luciferium định kỳ mới có thể ngăn chặn quá trình này. Khi vật chủ ngừng sử dụng Luciferium, sự ổn định của các cơ chế nano sẽ đạt đến trạng thái ngưỡng theo thời gian, dẫn đến rối loạn tâm thần và tử vong cho vật chủ.</LuciferiumAddiction.description>
+	<LuciferiumAddiction.stages.unmet.label>Chưa được đáp ứng</LuciferiumAddiction.stages.unmet.label>
+	<LuciferiumHigh.label>Luciferium</LuciferiumHigh.label>
+	<LuciferiumHigh.description>Các cơ chế nano Luciferium đang ở trạng thái kích hoạt trong cơ thể vật chủ. Chúng có khả năng cải thiện nhiều chức năng cơ thể của vật chủ. Tuy nhiên, cái giá phải trả là nếu không bổ sung thêm liều Luciferium định kỳ, chúng sẽ mất kiểm soát và khiến vật chủ rơi vào tình trạng sắp sụp đổ, cuối cùng giết chết vật chủ.</LuciferiumHigh.description>
+</LanguageData>

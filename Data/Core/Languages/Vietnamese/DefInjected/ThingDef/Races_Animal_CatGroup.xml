@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Cat.label>Mèo</Cat.label>
+<Cat.description>Một trong những loài thú cưng đầu tiên mà con người nuôi dưỡng, mèo là một loài động vật có vú nhỏ săn bắt côn trùng. Nổi tiếng với vẻ đẹp kiêu sa, nhưng vì tính cách yên tĩnh, độc lập và bộ lông đẹp mắt, mèo vẫn là thú cưng rất được yêu thích.</Cat.description>
+<Cat.tools.left_claw.label>Móng trái</Cat.tools.left_claw.label>
+<Cat.tools.left_claw.labelNoLocation>Móng</Cat.tools.left_claw.labelNoLocation>
+<Cat.tools.right_claw.label>Móng phải</Cat.tools.right_claw.label>
+<Cat.tools.right_claw.labelNoLocation>Móng</Cat.tools.right_claw.labelNoLocation>
+<Cat.tools.head.label>Đầu</Cat.tools.head.label>
+<GuineaPig.label>Chuột lang</GuineaPig.label>
+<GuineaPig.description>Các loài gặm nhấm nhỏ này thường được nuôi làm thú cưng trong gia đình hoặc được chế biến thành bữa tối ngon miệng.</GuineaPig.description>
+<GuineaPig.tools.left_claw.label>Móng trái</GuineaPig.tools.left_claw.label>
+<GuineaPig.tools.left_claw.labelNoLocation>Móng</GuineaPig.tools.left_claw.labelNoLocation>
+<GuineaPig.tools.right_claw.label>Móng phải</GuineaPig.tools.right_claw.label>
+<GuineaPig.tools.right_claw.labelNoLocation>Móng</GuineaPig.tools.right_claw.labelNoLocation>
+<GuineaPig.tools.head.label>Đầu</GuineaPig.tools.head.label>
+<Husky.label>Chó Husky</Husky.label>
+<Husky.description>Một loài chó lớn tràn đầy năng lượng, với lớp lông dày giúp giữ ấm trong môi trường Bắc Cực.</Husky.description>
+<Husky.tools.left_claw.label>Móng trái</Husky.tools.left_claw.label>
+<Husky.tools.left_claw.labelNoLocation>Móng</Husky.tools.left_claw.labelNoLocation>
+<Husky.tools.right_claw.label>Móng phải</Husky.tools.right_claw.label>
+<Husky.tools.right_claw.labelNoLocation>Móng</Husky.tools.right_claw.labelNoLocation>
+<Husky.tools.head.label>Đầu</Husky.tools.head.label>
+<LabradorRetriever.label>Chó Labrador</LabradorRetriever.label>
+<LabradorRetriever.description>Một loài chó trung bình rất thông minh. Mặc dù Labrador ban đầu được nuôi để tìm kiếm con mồi trong khi săn bắn, nhưng chúng cũng là những chú chó canh gác xuất sắc, bạn đồng hành và thành viên trong gia đình.</LabradorRetriever.description>
+<LabradorRetriever.tools.left_claw.label>Móng trái</LabradorRetriever.tools.left_claw.label>
+<LabradorRetriever.tools.left_claw.labelNoLocation>Móng</LabradorRetriever.tools.left_claw.labelNoLocation>
+<LabradorRetriever.tools.right_claw.label>Móng phải</LabradorRetriever.tools.right_claw.label>
+<LabradorRetriever.tools.right_claw.labelNoLocation>Móng</LabradorRetriever.tools.right_claw.labelNoLocation>
+<LabradorRetriever.tools.head.label>Đầu</LabradorRetriever.tools.head.label>
+<Monkey.label>Khỉ</Monkey.label>
+<Monkey.description>Loài khỉ này có thể sử dụng đuôi cong để bám vào cành cây, để giải phóng tay làm những việc khác.</Monkey.description>
+<Monkey.tools.left_fist.label>Đấm trái</Monkey.tools.left_fist.label>
+<Monkey.tools.left_fist.labelNoLocation>Đấm</Monkey.tools.left_fist.labelNoLocation>
+<Monkey.tools.right_fist.label>Đấm phải</Monkey.tools.right_fist.label>
+<Monkey.tools.right_fist.labelNoLocation>Đấm</Monkey.tools.right_fist.labelNoLocation>
+<Monkey.tools.head.label>Đầu</Monkey.tools.head.label>
+<YorkshireTerrier.label>Chó Yorkshire</YorkshireTerrier.label>
+<YorkshireTerrier.description>Một loài chó nhỏ có tính cách hiền lành. Ban đầu được nuôi để săn chuột, nhưng sau đó trở thành loài động vật cảnh và bạn đồng hành.</YorkshireTerrier.description>
+<YorkshireTerrier.tools.left_claw.label>Móng trái</YorkshireTerrier.tools.left_claw.label>
+<YorkshireTerrier.tools.left_claw.labelNoLocation>Móng</YorkshireTerrier.tools.left_claw.labelNoLocation>
+<YorkshireTerrier.tools.right_claw.label>Móng phải</YorkshireTerrier.tools.right_claw.label>
+<YorkshireTerrier.tools.right_claw.labelNoLocation>Móng</YorkshireTerrier.tools.right_claw.labelNoLocation>
+<YorkshireTerrier.tools.cute_little_teeth.label>Răng nhỏ dễ thương</YorkshireTerrier.tools.cute_little_teeth.label>
+<YorkshireTerrier.tools.head.label>Đầu</YorkshireTerrier.tools.head.label>
+</LanguageData>

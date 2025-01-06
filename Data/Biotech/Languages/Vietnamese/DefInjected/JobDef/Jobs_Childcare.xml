@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BabyPlay.reportString>Đang chơi với TargetA.</BabyPlay.reportString>
+<BabySuckle.reportString>Đang được TargetA cho bú.</BabySuckle.reportString>
+<BottleFeedBaby.reportString>Đang cho TargetA bú bằng TargetB.</BottleFeedBaby.reportString>
+<Breastfeed.reportString>Đang cho TargetA bú mẹ.</Breastfeed.reportString>
+<BreastfeedCarryToMom.reportString>Đang bế TargetA đi đến TargetB.</BreastfeedCarryToMom.reportString>
+<BringBabyToSafety.reportString>Đang đưa TargetA đến nơi an toàn.</BringBabyToSafety.reportString>
+<BringBabyToSafetyUnforced.reportString>Đang đưa TargetA đến nơi an toàn.</BringBabyToSafetyUnforced.reportString>
+<CarryToMomAfterBirth.reportString>Đang bế TargetA đi đến TargetB.</CarryToMomAfterBirth.reportString>
+<FertilizeOvum.reportString>Đang làm cho TargetA thụ tinh.</FertilizeOvum.reportString>
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Một [asker_royalTitleInCurrentFaction] của [asker_faction_name], [asker_nameFull] đang liên lạc với chúng tôi gần đây. [asker_possessive] vệ sĩ đã bị giết trong một cuộc tấn công. [asker_pronoun] đã chạy trốn, nhưng giờ đang bị (*Threat) những [animalKindDef_label] săn lùng (/Threat).\n\n[asker_nameDef] hy vọng bạn có thể bảo vệ [asker_objective] trong vài giờ tại [map_definite], cho đến khi [asker_possessive] tàu vũ trụ đến đón [asker_objective].\n\n[asker_pronoun] sẽ trao cho người nhận nhiệm vụ này [royalFavorReward]x[asker_faction_royalFavorLabel]. Phần thưởng này đủ để giúp một thường dân đạt được danh hiệu danh dự, và còn có những phần thưởng tương ứng - bao gồm cả việc nâng cao sức mạnh tâm linh.</li>
+</Intro_Wimp.questDescriptionRules.rulesStrings>
+<Intro_Wimp.questNameRules.rulesStrings>
+    <li>questName-&gt;[adjAny][asker_royalTitleInCurrentFaction]</li>
+    <li>adjAny-&gt;Lo lắng</li>
+    <li>adjAny-&gt;Trốn chạy</li>
+    <li>adjAny-&gt;Cô đơn</li>
+    <li>adjAny-&gt;Bị truy đuổi</li>
+</Intro_Wimp.questNameRules.rulesStrings>
+<Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] đã đến</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
+<Intro_Wimp.LetterTextAnimalArrived.slateRef>[animalKindDef_label] đang đuổi theo [asker_nameDef] đã đến.\n\nKết quả là nó trông rất hiền lành, không hề hung dữ chút nào!</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+<Intro_Wimp.LetterLabelAngryAnimal.slateRef>[animalKindDef_label] săn lùng con người</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
+<Intro_Wimp.LetterTextAngryAnimal.slateRef>[animalKindDef_label] đến đây để đuổi theo [asker_nameFull].</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+<Intro_Wimp.InspectStringDepartShuttle.slateRef>Phải rời đi bằng tàu vũ trụ</Intro_Wimp.InspectStringDepartShuttle.slateRef>
+<Intro_Wimp.LetterLabelShuttleArrived.slateRef>Tàu vũ trụ đã đến</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+<Intro_Wimp.LetterTextShuttleArrived.slateRef>Tàu vũ trụ đến để đón [asker_nameDef] đã đến.</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+<Intro_Wimp.LetterLabelGuestDied.slateRef>Khách đã chết: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
+<Intro_Wimp.LetterTextGuestDied.slateRef>{SUBJECT_definite} mà bạn cần bảo vệ đã chết.[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
+<Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>Phẫu thuật không được phép: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
+<Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>{SUBJECT_definite} mà bạn cần bảo vệ đã trải qua một ca phẫu thuật không được phép. Vì bạn vi phạm trước,[asker_pronoun] sẽ phải rời khỏi đây.[failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+<Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>Phôi giống ngoại lai đã được hấp thụ: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>{SUBJECT_definite} mà bạn được chỉ định bảo vệ đã bị hấp thụ phôi giống ngoại lai trong thuộc địa của bạn. Đây là một hành vi xâm phạm, {SUBJECT_pronoun} bây giờ sẽ rời đi ngay lập tức [failLetterEndingCommon].</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+<Intro_Wimp.LetterLabelCaptured.slateRef>Đã bị bắt: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
+<Intro_Wimp.LetterTextCaptured.slateRef>{SUBJECT_definite} mà bạn cần bảo vệ đã bị bắt.[failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
+<Intro_Wimp.LetterLabelGuestLost.slateRef>Khách mất tích: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
+<Intro_Wimp.LetterTextGuestLost.slateRef>{SUBJECT_definite} mà bạn cần bảo vệ đã trở về tự nhiên trong thuộc địa của bạn.[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
+<Intro_Wimp.LetterLabelLodgerRanWild.slateRef>Khách mất tích: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+<Intro_Wimp.LetterTextLodgerRanWild.slateRef>{SUBJECT_definite} mà bạn cần bảo vệ đã trở về tự nhiên trong thuộc địa của bạn.[failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+<Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>Tàu vũ trụ đã bị phá hủy</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
+<Intro_Wimp.LetterTextShuttleDestroyed.slateRef>Tàu vũ trụ đến đón [asker_nameDef] đã bị phá hủy. [asker_pronoun] giờ chỉ có thể đi bộ về.[failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+<Intro_Wimp.LetterLabelQuestFailed.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
+<Intro_Wimp.LetterTextQuestFailed.slateRef>Tàu vũ trụ đến đón [asker_nameDef] đã rơi xuống [asker_objective] vì một số lý do. [asker_pronoun] giờ chỉ có thể đi bộ về.[failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
+</LanguageData>

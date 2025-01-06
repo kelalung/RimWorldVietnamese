@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<StatsReport_Slave>Hệ số nô lệ (tâm trạng thấp)</StatsReport_Slave>
+<StatsReport_Terror>Giá trị sợ hãi</StatsReport_Terror>
+<StatsReport_LeaderOffset>Phần thưởng lãnh đạo phái</StatsReport_LeaderOffset>
+<StatsReport_OccupiedCorpseCasket>Chứa xác chết</StatsReport_OccupiedCorpseCasket>
+<StatsReport_InstalledRelicConvertPowerFactor>Khả năng giao tiếp trên bản đồ</StatsReport_InstalledRelicConvertPowerFactor>
+<StatsReport_RelicAtRitualMoodBonus>Các nghi lễ trong nhà có ảnh hưởng tích cực đến tâm trạng</StatsReport_RelicAtRitualMoodBonus>
+<Stat_Thing_RelicOf_Name>Thánh vật:</Stat_Thing_RelicOf_Name>
+<Stat_Thing_RelicOf_Desc>Văn hóa liên quan đến thánh vật này.</Stat_Thing_RelicOf_Desc>
+<Stat_Thing_RelicStatus>Thánh vật</Stat_Thing_RelicStatus>
+<Stat_Thing_RelicStatus_Desc>Đồ vật được yêu thích có ý nghĩa tôn giáo hoặc văn hóa.</Stat_Thing_RelicStatus_Desc>
+<Stat_Thing_RelatedToIdeos_Name>Liên quan</Stat_Thing_RelatedToIdeos_Name>
+<Stat_Thing_RelatedToIdeos_Desc>Văn hóa liên quan đến đồ vật này.</Stat_Thing_RelatedToIdeos_Desc>
+<StatsReports_HasRelic>Đang sở hữu thánh vật</StatsReports_HasRelic>
+<StatsReport_BlindPsychicSensitivityOffset>Thêm vào do mù lòa</StatsReport_BlindPsychicSensitivityOffset>
+<StatsReport_SightPsychicSensitivityOffset>Thêm vào do thị giác</StatsReport_SightPsychicSensitivityOffset>
+<Stat_Thing_StyleDominanceCategory>Phong cách chủ đạo</Stat_Thing_StyleDominanceCategory>
+<Stat_Thing_StyleDominanceCategoryDesc>Phong cách của đồ vật này, phong cách có thể liên quan đến văn hóa, những người có tín ngưỡng văn hóa khác nhau sẽ có phản ứng khác nhau với cùng một phong cách.</Stat_Thing_StyleDominanceCategoryDesc>
+<Stat_Thing_IdeosSatisfied>Đem lại sự hài lòng cho những hình thức văn hóa này</Stat_Thing_IdeosSatisfied>
+<Style>Phong cách</Style>
+<Stat_Pawn_DarknessCombatShooting_Name>Độ chính xác khi bắn trong bóng tối</Stat_Pawn_DarknessCombatShooting_Name>
+<Stat_Pawn_DarknessCombatShooting_Desc>Giá trị thêm vào độ chính xác dựa trên độ sáng của mục tiêu</Stat_Pawn_DarknessCombatShooting_Desc>
+<Stat_Pawn_DarknessMeleeDodgeChance_Name>Xác suất né tránh cận chiến trong bóng tối</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+<Stat_Pawn_DarknessMeleeDodgeChance_Desc>Giá trị thêm vào xác suất né tránh cận chiến dựa trên độ sáng của vị trí hiện tại</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+<Stat_Pawn_DarknessMeleeHitChance_Name>Tỷ lệ trúng cận chiến trong bóng tối</Stat_Pawn_DarknessMeleeHitChance_Name>
+<Stat_Pawn_DarknessMeleeHitChance_Desc>Giá trị thêm vào tỷ lệ trúng cận chiến dựa trên độ sáng của mục tiêu</Stat_Pawn_DarknessMeleeHitChance_Desc>
+<Stat_PawnDarkness_FollowingOffset>Các giá trị lệch sau có thể áp dụng</Stat_PawnDarkness_FollowingOffset>
+<StatsReport_BiosculptingSpeedFactor>Tốc độ tạo hình</StatsReport_BiosculptingSpeedFactor>
+<Stat_Thing_HackingProgress>Tiến độ bẻ khóa vật thể này.</Stat_Thing_HackingProgress>
+</LanguageData>

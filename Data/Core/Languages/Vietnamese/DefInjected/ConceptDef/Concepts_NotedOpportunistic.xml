@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalsDontAttackDoors.label>Động vật không tấn công cửa</AnimalsDontAttackDoors.label>
+	<AnimalsDontAttackDoors.helpText>Nếu động vật săn mồi thấy các thuộc địa của bạn đi qua cửa, chúng sẽ tấn công cửa. Đồng thời, chúng cũng sẽ tấn công các tháp không được kết nối điện.</AnimalsDontAttackDoors.helpText>
+	<BillsTab.label>Tab "Danh sách"</BillsTab.label>
+	<BillsTab.helpText>Để cho các thuộc địa làm việc tại bàn chế tạo, hãy chọn bàn chế tạo và mở tab "Danh sách". Tại đây, bạn có thể chỉ định món ăn nào cần nấu, đồ vật nào cần chế tạo, xác chết nào cần mổ xẻ, v.v.</BillsTab.helpText>
+	<Books.label>Sách</Books.label>
+	<Books.helpText>Các thuộc địa có thể thỏa mãn nhu cầu giải trí, nâng cao kỹ năng hoặc nhận điểm nghiên cứu thông qua việc đọc sách. Chọn sách và mở tab "Chi tiết" để xem hiệu ứng cụ thể.\n\nĐể chỉ định nội dung đọc cho thuộc địa, hãy mở tab "Kế hoạch" và cấu hình kế hoạch đọc.\n\nKệ sách có thể tăng tốc độ nghiên cứu trong phòng, kinh nghiệm kỹ năng và giá trị giải trí từ việc đọc. Tủ sách chứa sách cũng có thể nâng cao trình độ tri thức và hiệu suất đọc của các thuộc địa gần đó, đồng thời cải thiện độ đẹp của môi trường.</Books.helpText>
+	<BuildOrbitalTradeBeacon.label>Xây dựng đèn hiệu giao dịch quỹ đạo</BuildOrbitalTradeBeacon.label>
+	<BuildOrbitalTradeBeacon.helpText>Để gửi hàng hóa hoặc bạc cho thương nhân quỹ đạo, bạn phải xây dựng một "đèn hiệu giao dịch quỹ đạo", sau đó tạo một khu vực lưu trữ bên cạnh nó.</BuildOrbitalTradeBeacon.helpText>
+	<Capturing.label>Bắt giữ</Capturing.label>
+	<Capturing.helpText>Khi một kẻ thù không thể di chuyển, bạn có thể "bắt giữ" chúng!\n\nĐể bắt giữ kẻ thù, hãy chọn một thuộc địa và nhấp chuột phải vào kẻ thù không thể di chuyển, sau đó chọn "Bắt giữ".\n\nBạn cần chuẩn bị một chỗ ngủ "dành riêng cho tù nhân".</Capturing.helpText>
+	<Capturing.helpTextController>Khi một kẻ thù không thể di chuyển, bạn có thể "bắt giữ" chúng!\n\nĐể bắt giữ kẻ thù, hãy chọn một thuộc địa và nhấn nút kích hoạt trái vào kẻ thù không thể di chuyển, sau đó chọn "Bắt giữ".\n\nBạn cần chuẩn bị một chỗ ngủ "dành riêng cho tù nhân".</Capturing.helpTextController>
+	<DoorOpenSpeed.label>Tốc độ mở cửa</DoorOpenSpeed.label>
+	<DoorOpenSpeed.helpText>Tốc độ mở cửa phụ thuộc vào vật liệu xây dựng của cửa.\n\nLưu ý: Cửa bằng đá mở rất chậm, và bất kỳ ai đi qua sẽ bị giảm tốc độ đáng kể.</DoorOpenSpeed.helpText>
+	<Drafting.label>Triệu tập chiến đấu</Drafting.label>
+	<Drafting.helpText>Để điều khiển trực tiếp các thuộc địa tham gia chiến đấu, hãy chọn họ và nhấp vào nút "Triệu tập" trong thanh lệnh phía dưới.\n\nCác thuộc địa được triệu tập chỉ tuân theo lệnh bạn trực tiếp đưa ra và sẽ giữ trạng thái chiến đấu. Các thuộc địa trang bị vũ khí sẽ tự động sử dụng vũ khí.\n\nKhông nên giữ trạng thái triệu tập quá lâu, các thuộc địa sẽ đói và trở nên không hài lòng.</Drafting.helpText>
+	<DrugAddiction.label>Nghiện chất gây nghiện</DrugAddiction.label>
+	<DrugAddiction.helpText>Bạn có thể xem mức độ thèm thuốc của các thuộc địa trong tab "Nhu cầu".\n\nKhi nhu cầu giảm xuống 0, họ sẽ bước vào trạng thái "cai nghiện", dẫn đến nhiều cảm xúc tiêu cực.\n\nNhưng chỉ cần kiên trì cai nghiện đủ lâu, họ sẽ cuối cùng không còn nghiện, và phản ứng cai nghiện cũng sẽ biến mất.</DrugAddiction.helpText>
+	<DrugBurning.label>Tiêu hủy chất gây nghiện</DrugBurning.label>
+	<DrugBurning.helpText>Các chất gây nghiện rất hữu ích, nhưng cũng có thể dẫn đến nghiện.\n\nNếu bạn muốn hoàn toàn cấm sử dụng chất gây nghiện trong thuộc địa, bạn có thể chọn tiêu hủy chúng bằng "lửa trại" hoặc "lò hỏa táng".</DrugBurning.helpText>
+	<DrugPolicies.label>Chính sách sử dụng thuốc</DrugPolicies.label>
+	<DrugPolicies.helpText>Bạn có thể chỉ định thời gian sử dụng một loại thuốc hoặc chất gây nghiện cho các thuộc địa theo lịch trình quy định. Ví dụ, sử dụng penicillin định kỳ hoặc cho phép một chai bia mỗi ngày để giữ cho họ vui vẻ.\n\nMở bảng "Kế hoạch", nhấp vào nút "Quản lý chính sách thuốc" để điều chỉnh.\n\nNhưng đôi khi quy định của bạn không hiệu quả, các thuộc địa có thể bị thúc đẩy bởi ham muốn của chính họ mà phớt lờ nó!</DrugPolicies.helpText>
+	<GroupGotoHereDragging.label>Định vị lính</GroupGotoHereDragging.label>
+	<GroupGotoHereDragging.helpText>Giữ chuột phải và kéo các thành viên đã triệu tập, điều này có thể giúp họ xếp thành hàng.\n\nPhân tán - Mục tiêu tập trung rất dễ bị bắn trúng!</GroupGotoHereDragging.helpText>
+	<GroupGotoHereDragging.helpTextController>Giữ nút kích hoạt trái và kéo các thành viên đã triệu tập, điều này có thể giúp họ xếp thành hàng.\n\nPhân tán - Mục tiêu tập trung rất dễ bị bắn trúng!</GroupGotoHereDragging.helpTextController>
+	<InteractingWithTraders.label>Tương tác với thương nhân</InteractingWithTraders.label>
+	<InteractingWithTraders.helpText>Bạn có thể tương tác với những nhân vật có dấu "?" trên đầu.\n\nChọn một thuộc địa, sau đó nhấp chuột phải vào nhân vật có dấu "?" trên đầu.</InteractingWithTraders.helpText>
+	<InteractingWithTraders.helpTextController>Bạn có thể tương tác với những nhân vật có dấu "?" trên đầu.\n\nChọn một thuộc địa, sau đó nhấn nút kích hoạt trái vào nhân vật có dấu "?" trên đầu.</InteractingWithTraders.helpTextController>
+	<OpeningComms.label>Sử dụng trạm liên lạc</OpeningComms.label>
+	<OpeningComms.helpText>Để liên lạc với các phe phái khác, hãy chọn một thuộc địa và nhấp chuột phải vào trạm liên lạc.</OpeningComms.helpText>
+	<OpeningComms.helpTextController>Để liên lạc với các phe phái khác, hãy chọn một thuộc địa và nhấn nút kích hoạt trái vào trạm liên lạc.</OpeningComms.helpTextController>
+	<PrisonerTab.label>Tab tù nhân</PrisonerTab.label>
+	<PrisonerTab.helpText>Xem tab "Tù nhân" của một tù nhân để quyết định cách đối xử với họ.\n\nBạn có thể thiết lập xem có tuyển dụng, bỏ qua hoặc xử án tù nhân. Bạn có thể thiết lập xem họ có nhận thức ăn hay không và nhận mức độ chăm sóc y tế nào.\n\nBạn cần chỉ định một thuộc địa làm cai ngục để chăm sóc tù nhân.</PrisonerTab.helpText>
+	<QueueOrders.label>Hàng đợi lệnh</QueueOrders.label>
+	<QueueOrders.helpText>Khi bạn phát lệnh cho các thuộc địa, bạn có thể giữ phím "Shift" để tạo hàng đợi nhiều lệnh, họ sẽ lần lượt hoàn thành các lệnh trong hàng đợi. Điều này cũng áp dụng cho việc phát lệnh cho các thuộc địa chưa được triệu tập.</QueueOrders.helpText>
+	<QueueOrders.helpTextController>Khi bạn phát lệnh cho các thuộc địa, bạn có thể giữ {Key:QueueOrder} để tạo hàng đợi nhiều lệnh, họ sẽ lần lượt hoàn thành các lệnh trong hàng đợi. Điều này cũng áp dụng cho việc phát lệnh cho các thuộc địa chưa được triệu tập.</QueueOrders.helpTextController>
+	<ReformCaravan.label>Tổ chức lại đoàn xe</ReformCaravan.label>
+	<ReformCaravan.helpText>Sau khi một trận giao tranh kết thúc, bạn có thể tổ chức lại đoàn xe qua lệnh "Tổ chức lại đoàn xe" trong chế độ "Thế giới".</ReformCaravan.helpText>
+	<Rescuing.label>Cứu hộ</Rescuing.label>
+	<Rescuing.helpText>Để cứu một thuộc địa, hãy chọn một thuộc địa khỏe mạnh và nhấp chuột phải vào nhân vật bị thương.\n\nNếu bạn cứu một người ngoài thuộc địa của mình, họ sẽ không gia nhập bạn sau khi hồi phục, mà sẽ chọn rời đi. Nếu bạn muốn tuyển dụng họ, bạn phải bắt giữ và giam giữ họ trước.</Rescuing.helpText>
+	<Rescuing.helpTextController>Để cứu một thuộc địa, hãy chọn một thuộc địa khỏe mạnh và nhấn nút kích hoạt trái vào nhân vật bị thương.\n\nNếu bạn cứu một người ngoài thuộc địa của mình, họ sẽ không gia nhập bạn sau khi hồi phục, mà sẽ chọn rời đi. Nếu bạn muốn tuyển dụng họ, bạn phải bắt giữ và giam giữ họ trước.</Rescuing.helpTextController>
+	<SetGrowingZonePlant.label>Cài đặt khu vực trồng trọt</SetGrowingZonePlant.label>
+	<SetGrowingZonePlant.helpText>Bạn có thể quyết định trồng loại cây nào, thậm chí bao gồm nhiều loại cây khác nhau!\n\nChọn một khu vực trồng trọt, sau đó nhấp vào nút "Trồng" và chọn một loại cây.</SetGrowingZonePlant.helpText>
+	<Shelves.label>Kệ chứa đồ</Shelves.label>
+	<Shelves.helpText>Kệ chứa đồ có khả năng lưu trữ gấp ba lần không gian trống. Các vật phẩm trên kệ sẽ không bao giờ bị lão hóa và không ảnh hưởng đến vẻ đẹp môi trường xung quanh. Bạn có thể liên kết các kệ thành nhóm và cấu hình chúng như một tổng thể. Đầu tiên, hãy chọn hai hoặc nhiều kệ chứa đồ, sau đó nhấp vào nút "Liên kết".</Shelves.helpText>
+	<ShieldBelts.label>Đai khiên</ShieldBelts.label>
+	<ShieldBelts.helpText>Đai khiên có thể chặn các cuộc tấn công từ xa, nhưng không có tác dụng với các cuộc tấn công cận chiến.\n\nKhi đối mặt với kẻ thù trang bị đai khiên, bạn có thể chọn bắn áp đảo hoặc chiến đấu cận chiến, hoặc sử dụng vũ khí EMP để chống lại.</ShieldBelts.helpText>
+	<TVForSickPeople.label>Xem TV cho người bệnh</TVForSickPeople.label>
+	<TVForSickPeople.helpText>Nếu bạn muốn tìm chút giải trí cho những người bệnh nằm liệt giường, bạn có thể lắp đặt một chiếc TV ở nơi họ có thể nhìn thấy.</TVForSickPeople.helpText>
+</LanguageData>

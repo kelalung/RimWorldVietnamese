@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Actor72.description>[PAWN_nameDef] cùng một nhóm diễn viên đi lưu diễn trên hành tinh của [PAWN_possessive], nơi có những nhà hát đông đúc và khán giả mê mẩn. Là một người hoàn hảo, [PAWN_pronoun] chỉ sử dụng đạo cụ và trang phục do chính mình làm ra.</Actor72.description>
+	<Actor72.baseDesc>[PAWN_nameDef] cùng một nhóm diễn viên đi lưu diễn trên hành tinh của [PAWN_possessive], nơi có những nhà hát đông đúc và khán giả mê mẩn. Là một người hoàn hảo, [PAWN_pronoun] chỉ sử dụng đạo cụ và trang phục do chính mình làm ra.</Actor72.baseDesc>
+	<Actor72.title>Diễn viên hoàn hảo</Actor72.title>
+	<Actor72.titleShort>Diễn viên</Actor72.titleShort>
+	<AnimalFarmer21.description>[PAWN_nameDef] nuôi nhiều loại gia súc để cung cấp thịt, sữa, trứng và sản phẩm da.</AnimalFarmer21.description>
+	<AnimalFarmer21.baseDesc>[PAWN_nameDef] nuôi nhiều loại gia súc để cung cấp thịt, sữa, trứng và sản phẩm da.</AnimalFarmer21.baseDesc>
+	<AnimalFarmer21.title>Chủ trang trại</AnimalFarmer21.title>
+	<AnimalFarmer21.titleShort>Chủ trang trại</AnimalFarmer21.titleShort>
+	<AsceticPriest84.description>Hành tinh mà [PAWN_nameDef] sống yên bình và tách biệt với thế giới. Sau khi phát nguyện giữ im lặng, [PAWN_pronoun] vào một tu viện và dành cả ngày để thiền định. \n\n[PAWN_pronoun] trồng rau trong vườn và làm phô mai trong hầm của tu viện, điều này khiến [PAWN_objective] cảm thấy hạnh phúc.</AsceticPriest84.description>
+	<AsceticPriest84.baseDesc>Hành tinh mà [PAWN_nameDef] sống yên bình và tách biệt với thế giới. Sau khi phát nguyện giữ im lặng, [PAWN_pronoun] vào một tu viện và dành cả ngày để thiền định. \n\n[PAWN_pronoun] trồng rau trong vườn và làm phô mai trong hầm của tu viện, điều này khiến [PAWN_objective] cảm thấy hạnh phúc.</AsceticPriest84.baseDesc>
+	<AsceticPriest84.title>Tu sĩ khổ hạnh</AsceticPriest84.title>
+	<AsceticPriest84.titleShort>Tu sĩ</AsceticPriest84.titleShort>
+	<Bartender62.description>[PAWN_nameDef] làm bartender trong một cơ sở lớn đã xuống cấp. Để làm tốt công việc này, không chỉ cần kỹ năng pha chế và giao tiếp, mà còn phải sẵn sàng đánh mạnh vào đầu những khách hàng gây rối.</Bartender62.description>
+	<Bartender62.baseDesc>[PAWN_nameDef] làm bartender trong một cơ sở lớn đã xuống cấp. Để làm tốt công việc này, không chỉ cần kỹ năng pha chế và giao tiếp, mà còn phải sẵn sàng đánh mạnh vào đầu những khách hàng gây rối.</Bartender62.baseDesc>
+	<Bartender62.title>Người pha chế</Bartender62.title>
+	<Bartender62.titleShort>Người pha chế</Bartender62.titleShort>
+	<Bodyguard58.description>Công việc của [PAWN_nameDef] là bảo vệ bất kỳ ai trả tiền cho [PAWN_objective] khỏi bị tổn hại. [PAWN_pronoun] thành thạo nhiều phương pháp chiến đấu khác nhau và nổi tiếng với sự tàn nhẫn đối với những kẻ cố gắng vượt qua hàng rào của [PAWN_possessive].</Bodyguard58.description>
+	<Bodyguard58.baseDesc> Công việc của [PAWN_nameDef] là bảo vệ bất kỳ ai trả tiền cho [PAWN_objective] khỏi bị tổn hại. [PAWN_pronoun] thành thạo nhiều phương pháp chiến đấu khác nhau và nổi tiếng với sự tàn nhẫn đối với những kẻ cố gắng vượt qua hàng rào của [PAWN_possessive].</Bodyguard58.baseDesc>
+	<Bodyguard58.title>Vệ sĩ tàn nhẫn</Bodyguard58.title>
+	<Bodyguard58.titleShort>Vệ Sĩ</Bodyguard58.titleShort>
+	<CaveExplorer45.description>[PAWN_nameDef] vẽ bản đồ động cần thiết cho việc thăm dò các đường hầm tối tăm và những khe nứt gần như không thể đi qua. Công việc của [PAWN_possessive] rất nguy hiểm nhưng mang lại nhiều phần thưởng.</CaveExplorer45.description>
+	<CaveExplorer45.baseDesc>[PAWN_nameDef] vẽ bản đồ động cần thiết cho việc thăm dò các đường hầm tối tăm và những khe nứt gần như không thể đi qua. Công việc của [PAWN_possessive] rất nguy hiểm nhưng mang lại nhiều phần thưởng.</CaveExplorer45.baseDesc>
+	<CaveExplorer45.title>Người khám phá hang động</CaveExplorer45.title>
+	<CaveExplorer45.titleShort>Người khám phá hang động</CaveExplorer45.titleShort>
+	<Chef52.description>[PAWN_nameDef] điều hành một nhà hàng cao cấp. [PAWN_pronoun] nổi tiếng với việc sáng tạo các món ăn độc đáo, nhưng [PAWN_pronoun] lại nổi tiếng xấu trong số các nhân viên bếp vì khinh thường công việc nặng nhọc.</Chef52.description>
+	<Chef52.baseDesc>[PAWN_nameDef] điều hành một nhà hàng cao cấp. [PAWN_pronoun] nổi tiếng với việc sáng tạo các món ăn độc đáo, nhưng [PAWN_pronoun] lại nổi tiếng xấu trong số các nhân viên bếp vì khinh thường công việc nặng nhọc.</Chef52.baseDesc>
+	<Chef52.title>Đầu bếp nhà hàng</Chef52.title>
+	<Chef52.titleShort>Đầu bếp</Chef52.titleShort>
+	<CivilServant2.description>[PAWN_nameDef] làm việc như một nhân viên hành chính cấp thấp trong một hệ thống quan liêu đang trên bờ vực sụp đổ. [PAWN_pronoun] thường xuyên ở nhà viết các tài liệu phức tạp và tham gia vào chính trị văn phòng.</CivilServant2.description>
+	<CivilServant2.baseDesc>[PAWN_nameDef] làm việc như một nhân viên hành chính cấp thấp trong một hệ thống quan liêu đang trên bờ vực sụp đổ. [PAWN_pronoun] thường xuyên ở nhà viết các tài liệu phức tạp và tham gia vào chính trị văn phòng.</CivilServant2.baseDesc>
+	<CivilServant2.title>Nhân viên chính phủ</CivilServant2.title>
+	<CivilServant2.titleShort>Cán bộ</CivilServant2.titleShort>
+	<ConArtist80.description>[PAWN_nameDef] chưa bao giờ tạo ra bất cứ điều gì trong suốt cuộc đời, nhưng lại rất tự nhiên trong việc lấy những gì người khác đã tạo ra.</ConArtist80.description>
+	<ConArtist80.baseDesc>[PAWN_nameDef] chưa bao giờ tạo ra bất cứ điều gì trong suốt cuộc đời, nhưng lại rất tự nhiên trong việc lấy những gì người khác đã tạo ra.</ConArtist80.baseDesc>
+	<ConArtist80.title>Người lừa đảo</ConArtist80.title>
+	<ConArtist80.titleShort>Đồ lừa đảo</ConArtist80.titleShort>
+	<ConceptualArtist39.description>[PAWN_nameDef] nổi tiếng trong giới nghệ thuật trên hành tinh của [PAWN_pronoun] với những tác phẩm nghệ thuật mang tính khái niệm độc đáo và sáng tạo. \n\nChưa ai từng biết [PAWN_pronoun] muốn truyền tải điều gì, nhưng các tác phẩm của [PAWN_possessive] được các nhà sưu tầm đánh giá cao.</ConceptualArtist39.description>
+	<ConceptualArtist39.baseDesc>[PAWN_nameDef] nổi tiếng trong giới nghệ thuật trên hành tinh của [PAWN_pronoun] với những tác phẩm nghệ thuật mang tính khái niệm độc đáo và sáng tạo. \n\nChưa ai từng biết [PAWN_pronoun] muốn truyền tải điều gì, nhưng các tác phẩm của [PAWN_possessive] được các nhà sưu tầm đánh giá cao.</ConceptualArtist39.baseDesc>
+	<ConceptualArtist39.title>Họa sĩ khái niệm</ConceptualArtist39.title>
+	<ConceptualArtist39.titleShort>Họa sĩ</ConceptualArtist39.titleShort>
+	<ConstructionEngineer32.description>[PAWN_nameDef] là một kỹ sư xây dựng. [PAWN_pronoun] dẫn dắt một đội ngũ xây dựng các loại công trình khác nhau, từ văn phòng đến nhà thờ lớn. \n\nCông việc bận rộn và hàng loạt cửa hàng thức ăn nhanh xung quanh có nghĩa là [PAWN_pronoun] không bao giờ phải tự nấu ăn.</ConstructionEngineer32.description>
+	<ConstructionEngineer32.baseDesc>[PAWN_nameDef] là một kỹ sư xây dựng. [PAWN_pronoun] dẫn dắt một đội ngũ xây dựng các loại công trình khác nhau, từ văn phòng đến nhà thờ lớn. \n\nCông việc bận rộn và hàng loạt cửa hàng thức ăn nhanh xung quanh có nghĩa là [PAWN_pronoun] không bao giờ phải tự nấu ăn.</ConstructionEngineer32.baseDesc>
+	<ConstructionEngineer32.title>Kỹ sư xây dựng</ConstructionEngineer32.title>
+	<ConstructionEngineer32.titleShort>Kỹ sư</ConstructionEngineer32.titleShort>
+	<ContractMiner86.description>[PAWN_nameDef] chuyển từ công việc này sang công việc khác, khai thác khoáng sản và cổ vật cổ xưa trong các đường hầm và mỏ lộ thiên. Mặc dù công việc khó khăn và bẩn thỉu, nhưng [PAWN_pronoun] thấy rằng nó mang lại phần thưởng xứng đáng.</ContractMiner86.description>
+	<ContractMiner86.baseDesc>[PAWN_nameDef] chuyển từ công việc này sang công việc khác, khai thác khoáng sản và cổ vật cổ xưa trong các đường hầm và mỏ lộ thiên. Mặc dù công việc khó khăn và bẩn thỉu, nhưng [PAWN_pronoun] thấy rằng nó mang lại phần thưởng xứng đáng.</ContractMiner86.baseDesc>
+	<ContractMiner86.title>Thợ mỏ hợp đồng</ContractMiner86.title>
+	<ContractMiner86.titleShort>Thợ mỏ</ContractMiner86.titleShort>
+	<CorporateManager76.description>[PAWN_nameDef] làm việc trong một văn phòng lớn mở, nhằm giám sát đội ngũ nhân viên của [PAWN_possessive] hoàn thành nhiệm vụ một cách nghiêm túc. \n\nVì công việc này có tính chất chính trị mạnh mẽ, để thăng tiến, [PAWN_nameDef] đã học cách khéo léo phân chia công việc cho cấp dưới, sau đó tự nhận công lao và thành tích.</CorporateManager76.description>
+	<CorporateManager76.baseDesc>[PAWN_nameDef] làm việc trong một văn phòng lớn mở, nhằm giám sát đội ngũ nhân viên của [PAWN_possessive] hoàn thành nhiệm vụ một cách nghiêm túc. \n\nVì công việc này có tính chất chính trị mạnh mẽ, để thăng tiến, [PAWN_nameDef] đã học cách khéo léo phân chia công việc cho cấp dưới, sau đó tự nhận công lao và thành tích.</CorporateManager76.baseDesc>
+	<CorporateManager76.title>Giám đốc công ty</CorporateManager76.title>
+	<CorporateManager76.titleShort>Giám đốc</CorporateManager76.titleShort>
+	<Counselor26.description>Vì một căn bệnh khủng khiếp trong thời trẻ, [PAWN_nameDef] đã mắc chứng biếng ăn nghiêm trọng. Sau khi trải qua liệu pháp tâm lý, [PAWN_pronoun] đã phục hồi lại chế độ ăn uống lành mạnh và quyết định sử dụng kỹ năng mới của mình để giúp người khác vượt qua các vấn đề tâm lý.</Counselor26.description>
+	<Counselor26.baseDesc>Vì một căn bệnh khủng khiếp trong thời trẻ, [PAWN_nameDef] đã mắc chứng biếng ăn nghiêm trọng. Sau khi trải qua liệu pháp tâm lý, [PAWN_pronoun] đã phục hồi lại chế độ ăn uống lành mạnh và quyết định sử dụng kỹ năng mới của mình để giúp người khác vượt qua các vấn đề tâm lý.</Counselor26.baseDesc>
+	<Counselor26.title>Nhà tư vấn tâm lý</Counselor26.title>
+	<Counselor26.titleShort>Nhà tư vấn</Counselor26.titleShort>
+	<CropFarmer17.description>[PAWN_nameDef] điều hành một trang trại ngũ cốc. [PAWN_pronoun] phân tích thành phần đất, thiết bị nông nghiệp, mô hình thời tiết và xu hướng giá cả để tối ưu hóa việc trồng trọt và thu hoạch quy mô lớn.</CropFarmer17.description>
+	<CropFarmer17.baseDesc>[PAWN_nameDef] điều hành một trang trại ngũ cốc. [PAWN_pronoun] phân tích thành phần đất, thiết bị nông nghiệp, mô hình thời tiết và xu hướng giá cả để tối ưu hóa việc trồng trọt và thu hoạch quy mô lớn.</CropFarmer17.baseDesc>
+	<CropFarmer17.title>Chủ trang trại</CropFarmer17.title>
+	<CropFarmer17.titleShort>Chủ trang trại</CropFarmer17.titleShort>
+	<Defector78.description>Ngay khi trưởng thành, [PAWN_nameDef] quyết định trốn thoát khỏi chế độ độc tài mà [PAWN_pronoun] đang sống. Tuy nhiên, hành động phản bội này rõ ràng là không được phép, do đó có rất nhiều đặc vụ được cử đi truy lùng [PAWN_objective]. \n\n[PAWN_pronoun] đã mất nhiều năm để chạy trốn, và để tránh bị bác sĩ bán đứng, [PAWN_objective] đã học cách tự chữa trị. Những nỗi khổ đã khiến [PAWN_pronoun] trở nên cực đoan và đa nghi.</Defector78.description>
+	<Defector78.baseDesc>Ngay khi trưởng thành, [PAWN_nameDef] quyết định trốn thoát khỏi chế độ độc tài mà [PAWN_pronoun] đang sống. Tuy nhiên, hành động phản bội này rõ ràng là không được phép, do đó có rất nhiều đặc vụ được cử đi truy lùng [PAWN_objective]. \n\n[PAWN_pronoun] đã mất nhiều năm để chạy trốn, và để tránh bị bác sĩ bán đứng, [PAWN_objective] đã học cách tự chữa trị. Những nỗi khổ đã khiến [PAWN_pronoun] trở nên cực đoan và đa nghi.</Defector78.baseDesc>
+	<Defector78.title>Người đào tẩu bị truy nã</Defector78.title>
+	<Defector78.titleShort>Kẻ đào tẩu</Defector78.titleShort>
+	<Drifter67.description>[PAWN_nameDef] chưa bao giờ nghĩ về việc [PAWN_possessive] cuộc đời cần gì. [PAWN_pronoun] thường xuyên đi du lịch, làm các công việc tạm thời và sống một cách ngẫu hứng. \n\n[PAWN_nameDef] cũng đôi khi cầm bút viết một cuốn tiểu thuyết mà [PAWN_pronoun] tin rằng sẽ trở thành bestseller - miễn là tìm được một nhà xuất bản quan tâm.</Drifter67.description>
+	<Drifter67.baseDesc>[PAWN_nameDef] chưa bao giờ nghĩ về việc [PAWN_possessive] cuộc đời cần gì. [PAWN_pronoun] thường xuyên đi du lịch, làm các công việc tạm thời và sống một cách ngẫu hứng. \n\n[PAWN_nameDef] cũng đôi khi cầm bút viết một cuốn tiểu thuyết mà [PAWN_pronoun] tin rằng sẽ trở thành bestseller - miễn là tìm được một nhà xuất bản quan tâm.</Drifter67.baseDesc>
+	<Drifter67.title>Nhà văn lang thang</Drifter67.title>
+	<Drifter67.titleShort>Người lang thang</Drifter67.titleShort>
+	<EscapedConvict90.description>Mặc dù [PAWN_nameDef] kịch liệt phủ nhận các cáo buộc tội phạm, [PAWN_pronoun] vẫn bị đưa đến một nơi đầy rẫy sự quản lý khắc nghiệt cho tội nhân. [PAWN_pronoun] đã đào một đường hầm để trốn thoát bằng cách sử dụng các dụng cụ ăn uống đã được cải tạo.</EscapedConvict90.description>
+	<EscapedConvict90.baseDesc>Mặc dù [PAWN_nameDef] kịch liệt phủ nhận các cáo buộc tội phạm, [PAWN_pronoun] vẫn bị đưa đến một nơi đầy rẫy sự quản lý khắc nghiệt cho tội nhân. [PAWN_pronoun] đã đào một đường hầm để trốn thoát bằng cách sử dụng các dụng cụ ăn uống đã được cải tạo.</EscapedConvict90.baseDesc>
+	<EscapedConvict90.title>Tội phạm đã trốn thoát thành công</EscapedConvict90.title>
+	<EscapedConvict90.titleShort>Kẻ trốn thoát</EscapedConvict90.titleShort>
+	<Evangelist39.description>Trong thời niên thiếu, [PAWN_nameDef] đã trải qua một cuộc giác ngộ tôn giáo. [PAWN_pronoun] quyết định dành phần còn lại của cuộc đời để truyền bá phúc âm của Chúa, văn hóa tuyệt đẹp và truyền thống y học phi thường.</Evangelist39.description>
+	<Evangelist39.baseDesc>Trong thời niên thiếu, [PAWN_nameDef] đã trải qua một cuộc giác ngộ tôn giáo. [PAWN_pronoun] quyết định dành phần còn lại của cuộc đời để truyền bá phúc âm của Chúa, văn hóa tuyệt đẹp và truyền thống y học phi thường.</Evangelist39.baseDesc>
+	<Evangelist39.title>Người truyền giáo</Evangelist39.title>
+	<Evangelist39.titleShort>Người truyền giáo</Evangelist39.titleShort>
+	<ExplosivesExpert26.description>[PAWN_nameDef] là một kỹ sư nổ được thuê bởi một mỏ. [PAWN_pronoun] rất nghiêm túc với công việc và thành thạo tất cả các kỹ thuật - đến mức mỗi lần thực hiện một vụ nổ chính xác, [PAWN_nameDef] không bao giờ hạ thấp bản thân để giúp dọn dẹp hiện trường vụ nổ.</ExplosivesExpert26.description>
+	<ExplosivesExpert26.baseDesc>[PAWN_nameDef] là một kỹ sư nổ được thuê bởi một mỏ. [PAWN_pronoun] rất nghiêm túc với công việc và thành thạo tất cả các kỹ thuật - đến mức mỗi lần thực hiện một vụ nổ chính xác, [PAWN_nameDef] không bao giờ hạ thấp bản thân để giúp dọn dẹp hiện trường vụ nổ.</ExplosivesExpert26.baseDesc>
+	<ExplosivesExpert26.title>Chuyên gia nổ</ExplosivesExpert26.title>
+	<ExplosivesExpert26.titleShort>Chuyên gia nổ</ExplosivesExpert26.titleShort>
+	<Forester96.description>[PAWN_nameDef] lớn lên trong rừng và sống nhờ vào sản phẩm của rừng. [PAWN_pronoun] hiểu rõ về đất, gió, mưa và tất cả những kiến thức cần thiết để duy trì sự tồn tại lâu dài của rừng.</Forester96.description>
+	<Forester96.baseDesc>[PAWN_nameDef] lớn lên trong rừng và sống nhờ vào sản phẩm của rừng. [PAWN_pronoun] hiểu rõ về đất, gió, mưa và tất cả những kiến thức cần thiết để duy trì sự tồn tại lâu dài của rừng.</Forester96.baseDesc>
+	<Forester96.title>Người bảo vệ rừng</Forester96.title>
+	<Forester96.titleShort>Người bảo vệ rừng</Forester96.titleShort>
+	<FurnitureBuilder83.description>[PAWN_nameDef] lớn lên gần rừng và dành cả cuộc đời để chế tạo những món đồ nội thất đẹp cho những khách hàng giàu có trong thế giới lấp lánh.</FurnitureBuilder83.description>
+	<FurnitureBuilder83.baseDesc>[PAWN_nameDef] lớn lên gần rừng và dành cả cuộc đời để chế tạo những món đồ nội thất đẹp cho những khách hàng giàu có trong thế giới lấp lánh.</FurnitureBuilder83.baseDesc>
+	<FurnitureBuilder83.title>Thợ làm đồ nội thất</FurnitureBuilder83.title>
+	<FurnitureBuilder83.titleShort>Thợ làm đồ nội thất</FurnitureBuilder83.titleShort>
+	<Gardener99.description>[PAWN_nameDef] làm việc trong một biệt thự của một gia đình giàu có, là một phần của đội ngũ người hầu, chăm sóc khu vườn sang trọng.</Gardener99.description>
+	<Gardener99.baseDesc>[PAWN_nameDef] làm việc trong một biệt thự của một gia đình giàu có, là một phần của đội ngũ người hầu, chăm sóc khu vườn sang trọng.</Gardener99.baseDesc>
+	<Gardener99.title>Người làm vườn biệt thự</Gardener99.title>
+	<Gardener99.titleShort>Người làm vườn</Gardener99.titleShort>
+	<Geologist66.description>[PAWN_nameDef] làm việc cùng với thợ mỏ và máy khoan hang động, xác định các loại đá và hình thái tự nhiên. \n\nNhiều năm làm việc dưới lòng đất cũng đã giúp [PAWN_pronoun] có được một số kinh nghiệm trong việc sửa chữa các thiết bị như máy khoan.</Geologist66.description>
+	<Geologist66.baseDesc>[PAWN_nameDef] làm việc cùng với thợ mỏ và máy khoan hang động, xác định các loại đá và hình thái tự nhiên. \n\nNhiều năm làm việc dưới lòng đất cũng đã giúp [PAWN_pronoun] có được một số kinh nghiệm trong việc sửa chữa các thiết bị như máy khoan.</Geologist66.baseDesc>
+	<Geologist66.title>Nhà địa chất</Geologist66.title>
+	<Geologist66.titleShort>Nhà địa chất</Geologist66.titleShort>
+	<Housemate8.description>Với tư cách là một người lớn, khi bạn đời ra ngoài làm việc, [PAWN_nameDef] chịu trách nhiệm dọn dẹp nhà cửa và chăm sóc trẻ em.</Housemate8.description>
+	<Housemate8.baseDesc>Với tư cách là một người lớn, khi bạn đời ra ngoài làm việc, [PAWN_nameDef] chịu trách nhiệm dọn dẹp nhà cửa và chăm sóc trẻ em.</Housemate8.baseDesc>
+	<Housemate8.title>Người nội trợ</Housemate8.title>
+	<Housemate8.titleFemale>Người nội trợ</Housemate8.titleFemale>
+	<Housemate8.titleShort>Người nội trợ</Housemate8.titleShort>
+	<Housemate8.titleShortFemale>Người nội trợ</Housemate8.titleShortFemale>
+	<HouseServant63.description>[PAWN_nameDef] là người hầu trong một gia đình giàu có. \n\nMặc dù [PAWN_pronoun] rất rành rẽ về bếp núc và hầm rượu trong biệt thự của chủ, nhưng chưa bao giờ làm việc bên ngoài.</HouseServant63.description>
+	<HouseServant63.baseDesc>[PAWN_nameDef] là người hầu trong một gia đình giàu có. \n\nMặc dù [PAWN_pronoun] rất rành rẽ về bếp núc và hầm rượu trong biệt thự của chủ, nhưng chưa bao giờ làm việc bên ngoài.</HouseServant63.baseDesc>
+	<HouseServant63.title>Người hầu trong biệt thự</HouseServant63.title>
+	<HouseServant63.titleShort>Người hầu</HouseServant63.titleShort>
+	<Hunter89.description>[PAWN_nameDef] săn bắn thú rừng để giúp nuôi sống cộng đồng của [PAWN_possessive]. Khi những thời điểm khó khăn đến, mọi người coi [PAWN_objective] như hy vọng dẫn dắt họ vượt qua thử thách.</Hunter89.description>
+	<Hunter89.baseDesc>[PAWN_nameDef] săn bắn thú rừng để giúp nuôi sống cộng đồng của [PAWN_possessive]. Khi những thời điểm khó khăn đến, mọi người coi [PAWN_objective] như hy vọng dẫn dắt họ vượt qua thử thách.</Hunter89.baseDesc>
+	<Hunter89.title>Thợ săn</Hunter89.title>
+	<Hunter89.titleShort>Thợ săn</Hunter89.titleShort>
+	<Inventor6.description>[PAWN_nameDef] là một nhà phát minh khá thành công trên hành tinh của [PAWN_possessive]. [PAWN_pronoun] đã phát triển một số công nghệ nhỏ.</Inventor6.description>
+	<Inventor6.baseDesc>[PAWN_nameDef] là một nhà phát minh khá thành công trên hành tinh của [PAWN_possessive]. [PAWN_pronoun] đã phát triển một số công nghệ nhỏ.</Inventor6.baseDesc>
+	<Inventor6.title>Nhà phát minh</Inventor6.title>
+	<Inventor6.titleShort>Nhà phát minh</Inventor6.titleShort>
+	<Jailbird40.description>[PAWN_nameDef] đã sống phần lớn cuộc đời trong tù, nơi [PAWN_pronoun] được phân công làm việc trong bếp. [PAWN_pronoun] không chỉ có thói quen đánh nhau mà còn dần dần hình thành cách nói chuyện mang tính chất bạo lực.</Jailbird40.description>
+	<Jailbird40.baseDesc>[PAWN_nameDef] đã sống phần lớn cuộc đời trong tù, nơi [PAWN_pronoun] được phân công làm việc trong bếp. [PAWN_pronoun] không chỉ có thói quen đánh nhau mà còn dần dần hình thành cách nói chuyện mang tính chất bạo lực.</Jailbird40.baseDesc>
+	<Jailbird40.title>Người thường xuyên vào tù</Jailbird40.title>
+	<Jailbird40.titleShort>Tội phạm</Jailbird40.titleShort>
+	<LivestockFarmer8.description>[PAWN_nameDef] điều hành một trang trại chăn nuôi. [PAWN_pronoun] học cách phân tích gen của động vật, loại thức ăn, phương pháp sinh sản và giết mổ, cũng như sự biến động của giá cả thị trường để tối ưu hóa lợi ích.</LivestockFarmer8.description>
+	<LivestockFarmer8.baseDesc>[PAWN_nameDef] điều hành một trang trại chăn nuôi. [PAWN_pronoun] học cách phân tích gen của động vật, loại thức ăn, phương pháp sinh sản và giết mổ, cũng như sự biến động của giá cả thị trường để tối ưu hóa lợi ích.</LivestockFarmer8.baseDesc>
+	<LivestockFarmer8.title>Chủ trang trại chăn nuôi</LivestockFarmer8.title>
+	<LivestockFarmer8.titleShort>Chủ trang trại</LivestockFarmer8.titleShort>
+	<Logger95.description>[PAWN_nameDef] chặt cây và thu thập gỗ gần những ngọn núi và dòng suối. [PAWN_pronoun] biết cách chặt cây an toàn và duy trì một khu rừng khỏe mạnh.</Logger95.description>
+	<Logger95.baseDesc>[PAWN_nameDef] chặt cây và thu thập gỗ gần những ngọn núi và dòng suối. [PAWN_pronoun] biết cách chặt cây an toàn và duy trì một khu rừng khỏe mạnh.</Logger95.baseDesc>
+	<Logger95.title>Thợ rừng</Logger95.title>
+	<Logger95.titleShort>Thợ rừng</Logger95.titleShort>
+	<LowWageWorker7.description>[PAWN_nameDef] làm nhiều công việc tạm thời để hỗ trợ gia đình của [PAWN_possessive], từ đó phát triển một bộ kỹ năng thực tế cơ bản.</LowWageWorker7.description>
+	<LowWageWorker7.baseDesc>[PAWN_nameDef] làm nhiều công việc tạm thời để hỗ trợ gia đình của [PAWN_possessive], từ đó phát triển một bộ kỹ năng thực tế cơ bản.</LowWageWorker7.baseDesc>
+	<LowWageWorker7.title>Công nhân lương thấp</LowWageWorker7.title>
+	<LowWageWorker7.titleShort>Công nhân</LowWageWorker7.titleShort>
+	<MachineCollector55.description>[PAWN_nameDef] rất mê những chiếc máy cũ và các bộ phận công nghệ bí ẩn. [PAWN_pronoun] luôn cố gắng có được chúng và thích tháo dỡ để xem chúng hoạt động như thế nào. \n\n[PAWN_nameDef] thường xuyên kể cho mọi người nghe về bộ sưu tập của mình, đến mức mọi người xung quanh đã trở nên thờ ơ.</MachineCollector55.description>
+	<MachineCollector55.baseDesc>[PAWN_nameDef] rất mê những chiếc máy cũ và các bộ phận công nghệ bí ẩn. [PAWN_pronoun] luôn cố gắng có được chúng và thích tháo dỡ để xem chúng hoạt động như thế nào. \n\n[PAWN_nameDef] thường xuyên kể cho mọi người nghe về bộ sưu tập của mình, đến mức mọi người xung quanh đã trở nên thờ ơ.</MachineCollector55.baseDesc>
+	<MachineCollector55.title>Người sưu tầm máy móc</MachineCollector55.title>
+	<MachineCollector55.titleShort>Người sưu tầm</MachineCollector55.titleShort>
+	<Mathematician6.description>[PAWN_nameDef] từng làm nghiên cứu toán học tại một trường đại học. \n\n[PAWN_pronoun] dành phần lớn thời gian rảnh rỗi cho các trò chơi bắn súng mô phỏng, mặc dù luôn bị các game thủ khác chế nhạo vì kỹ năng bắn súng kém.</Mathematician6.description>
+	<Mathematician6.baseDesc>[PAWN_nameDef] từng làm nghiên cứu toán học tại một trường đại học. \n\n[PAWN_pronoun] dành phần lớn thời gian rảnh rỗi cho các trò chơi bắn súng mô phỏng, mặc dù luôn bị các game thủ khác chế nhạo vì kỹ năng bắn súng kém.</Mathematician6.baseDesc>
+	<Mathematician6.title>Nhà toán học</Mathematician6.title>
+	<Mathematician6.titleShort>Giáo sư</Mathematician6.titleShort>
+	<Model99.description>[PAWN_nameDef] là một người mẫu cho quảng cáo thời trang và trang sức, cũng như là hình mẫu cho một nhân vật trong thực tế ảo.</Model99.description>
+	<Model99.baseDesc>[PAWN_nameDef] là một người mẫu cho quảng cáo thời trang và trang sức, cũng như là hình mẫu cho một nhân vật trong thực tế ảo.</Model99.baseDesc>
+	<Model99.title>Người mẫu</Model99.title>
+	<Model99.titleShort>Người mẫu</Model99.titleShort>
+	<Nurse61.description>[PAWN_nameDef] làm việc tại một bệnh viện lớn, thực hiện các công việc hàng ngày như thay băng và đo nhiệt độ. \n\nCông việc luôn bận rộn, nhưng [PAWN_pronoun] vẫn có thời gian trò chuyện với bệnh nhân.</Nurse61.description>
+	<Nurse61.baseDesc>[PAWN_nameDef] làm việc tại một bệnh viện lớn, thực hiện các công việc hàng ngày như thay băng và đo nhiệt độ. \n\nCông việc luôn bận rộn, nhưng [PAWN_pronoun] vẫn có thời gian trò chuyện với bệnh nhân.</Nurse61.baseDesc>
+	<Nurse61.title>Nữ y tá thân thiện</Nurse61.title>
+	<Nurse61.titleShort>Nữ y tá</Nurse61.titleShort>
+	<Paramedic45.description>[PAWN_nameDef] có nhiệm vụ phản ứng nhanh trong các tình huống khẩn cấp. [PAWN_pronoun] thường phải xử lý các trường hợp chấn thương nghiêm trọng với nguồn tài nguyên y tế hạn chế. \n\nNhiều năm qua, [PAWN_pronoun] đã xử lý không biết bao nhiêu vết thương do súng, đến mức giờ đây chỉ cần nhìn thấy súng là đã cảm thấy khó chịu.</Paramedic45.description>
+	<Paramedic45.baseDesc>[PAWN_nameDef] có nhiệm vụ phản ứng nhanh trong các tình huống khẩn cấp. [PAWN_pronoun] thường phải xử lý các trường hợp chấn thương nghiêm trọng với nguồn tài nguyên y tế hạn chế. \n\nNhiều năm qua, [PAWN_pronoun] đã xử lý không biết bao nhiêu vết thương do súng, đến mức giờ đây chỉ cần nhìn thấy súng là đã cảm thấy khó chịu.</Paramedic45.baseDesc>
+	<Paramedic45.title>Bác sĩ cấp cứu</Paramedic45.title>
+	<Paramedic45.titleShort>Bác sĩ quân y</Paramedic45.titleShort>
+	<Policeman45.description>[PAWN_nameDef] là một viên cảnh sát trong lực lượng cảnh sát thành phố, duy trì trật tự công cộng. \n\n[PAWN_pronoun] đã được đào tạo về quản lý trật tự, kiểm soát cơ thể và các kỹ năng bắn súng.</Policeman45.description>
+	<Policeman45.baseDesc>[PAWN_nameDef] là một viên cảnh sát trong lực lượng cảnh sát thành phố, duy trì trật tự công cộng. \n\n[PAWN_pronoun] đã được đào tạo về quản lý trật tự, kiểm soát cơ thể và các kỹ năng bắn súng.</Policeman45.baseDesc>
+	<Policeman45.title>Cảnh sát</Policeman45.title>
+	<Policeman45.titleFemale>Cảnh sát nữ</Policeman45.titleFemale>
+	<Policeman45.titleShort>Cảnh sát</Policeman45.titleShort>
+	<Policeman45.titleShortFemale>Cảnh sát nữ</Policeman45.titleShortFemale>
+	<QuarryWorker29.description>[PAWN_nameDef] làm việc tại một mỏ đá, phụ trách khai thác đá quý từ các sườn đồi. [PAWN_pronoun] học cách cảm nhận cơ hội và nguy hiểm trong đá chỉ bằng mắt, cảm giác và trực giác.</QuarryWorker29.description>
+	<QuarryWorker29.baseDesc>[PAWN_nameDef] làm việc tại một mỏ đá, phụ trách khai thác đá quý từ các sườn đồi. [PAWN_pronoun] học cách cảm nhận cơ hội và nguy hiểm trong đá chỉ bằng mắt, cảm giác và trực giác.</QuarryWorker29.baseDesc>
+	<QuarryWorker29.title>Công nhân mỏ đá</QuarryWorker29.title>
+	<QuarryWorker29.titleShort>Công nhân mỏ</QuarryWorker29.titleShort>
+	<Rancher43.description>[PAWN_nameDef] sở hữu một trang trại thành công, nơi [PAWN_pronoun] nuôi các loại gia súc để lấy thịt và lông. \n\n[PAWN_pronoun] từ chối làm bất kỳ công việc chân tay nào mà [PAWN_pronoun] có thể thuê người khác làm.</Rancher43.description>
+	<Rancher43.baseDesc>[PAWN_nameDef] sở hữu một trang trại thành công, nơi [PAWN_pronoun] nuôi các loại gia súc để lấy thịt và lông. \n\n[PAWN_pronoun] từ chối làm bất kỳ công việc chân tay nào mà [PAWN_pronoun] có thể thuê người khác làm.</Rancher43.baseDesc>
+	<Rancher43.title>Chủ trang trại</Rancher43.title>
+	<Rancher43.titleShort>Chủ trang trại</Rancher43.titleShort>
+	<Ranger96.description>[PAWN_nameDef] theo dõi động vật mục tiêu hoặc nhân vật mục tiêu cho nhiều khách hàng. [PAWN_pronoun] có nhiều thành tích trong việc tìm kiếm thức ăn, theo dõi và tiêu diệt chúng trong tự nhiên.</Ranger96.description>
+	<Ranger96.baseDesc>[PAWN_nameDef] theo dõi động vật mục tiêu hoặc nhân vật mục tiêu cho nhiều khách hàng. [PAWN_pronoun] có nhiều thành tích trong việc tìm kiếm thức ăn, theo dõi và tiêu diệt chúng trong tự nhiên.</Ranger96.baseDesc>
+	<Ranger96.title>Thợ săn</Ranger96.title>
+	<Ranger96.titleShort>Thợ săn</Ranger96.titleShort>
+	<Recruiter14.description>[PAWN_nameDef] là một phần của một nhóm võ sĩ đáng gờm, nổi tiếng với sức mạnh chiến đấu phi thường và phong cách không khoan nhượng. \n\n[PAWN_pronoun] đi khắp hành tinh của [PAWN_possessive], xem xét những người trẻ mà [PAWN_pronoun] gặp có đủ điều kiện để được đào tạo hay không.</Recruiter14.description>
+	<Recruiter14.baseDesc>[PAWN_nameDef] là một phần của một nhóm võ sĩ đáng gờm, nổi tiếng với sức mạnh chiến đấu phi thường và phong cách không khoan nhượng. \n\n[PAWN_pronoun] đi khắp hành tinh của [PAWN_possessive], xem xét những người trẻ mà [PAWN_pronoun] gặp có đủ điều kiện để được đào tạo hay không.</Recruiter14.baseDesc>
+	<Recruiter14.title>Huấn luyện viên tuyển sinh</Recruiter14.title>
+	<Recruiter14.titleShort>Huấn luyện viên tuyển sinh</Recruiter14.titleShort>
+	<Slaughterer58.description>[PAWN_nameDef] kiếm sống bằng cách giết mổ động vật. Nhiều người cho rằng công việc này đơn giản và bẩn thỉu, nhưng kỹ năng cần thiết để giết mổ một cách sạch sẽ và hiệu quả không hề đơn giản.</Slaughterer58.description>
+	<Slaughterer58.baseDesc>[PAWN_nameDef] kiếm sống bằng cách giết mổ động vật. Nhiều người cho rằng công việc này đơn giản và bẩn thỉu, nhưng kỹ năng cần thiết để giết mổ một cách sạch sẽ và hiệu quả không hề đơn giản.</Slaughterer58.baseDesc>
+	<Slaughterer58.title>Thợ mổ</Slaughterer58.title>
+	<Slaughterer58.titleShort>Thợ mổ</Slaughterer58.titleShort>
+	<Teacher20.description>[PAWN_nameDef] tốt nghiệp từ khoa văn học và làm giáo viên tại một trường công lập. [PAWN_pronoun] rất hiểu biết và được học sinh yêu mến.</Teacher20.description>
+	<Teacher20.baseDesc>[PAWN_nameDef] tốt nghiệp từ khoa văn học và làm giáo viên tại một trường công lập. [PAWN_pronoun] rất hiểu biết và được học sinh yêu mến.</Teacher20.baseDesc>
+	<Teacher20.title>Giáo viên được yêu thích</Teacher20.title>
+	<Teacher20.titleShort>Giá viên</Teacher20.titleShort>
+	<Torturer37.description>[PAWN_nameDef] làm việc cho một vị vua tàn bạo, nổi tiếng với khả năng "thuyết phục" người khác. Bất kỳ tù nhân nào bước vào ngục tối đều không thể rời đi với bí mật - và nụ cười của [PAWN_nameDef] sẽ mãi mãi trở thành cơn ác mộng của họ.</Torturer37.description>
+	<Torturer37.baseDesc>[PAWN_nameDef] làm việc cho một vị vua tàn bạo, nổi tiếng với khả năng "thuyết phục" người khác. Bất kỳ tù nhân nào bước vào ngục tối đều không thể rời đi với bí mật - và nụ cười của [PAWN_nameDef] sẽ mãi mãi trở thành cơn ác mộng của họ.</Torturer37.baseDesc>
+	<Torturer37.title>Người tra tấn</Torturer37.title>
+	<Torturer37.titleShort>Người tra tấn</Torturer37.titleShort>
+	<Veterinarian99.description>[PAWN_nameDef] kiếm sống bằng cách chữa trị cho những con thú bệnh tật và bị thương. Hình ảnh những con vật đau đớn đã ảnh hưởng đến quan điểm của [PAWN_pronoun] về việc ăn thịt. Trong nhiều năm, [PAWN_nameDef] đã trở thành một người ăn chay, phản đối truyền thống nấu thịt của hành tinh mình.</Veterinarian99.description>
+	<Veterinarian99.baseDesc>[PAWN_nameDef] kiếm sống bằng cách chữa trị cho những con thú bệnh tật và bị thương. Hình ảnh những con vật đau đớn đã ảnh hưởng đến quan điểm của [PAWN_pronoun] về việc ăn thịt. Trong nhiều năm, [PAWN_nameDef] đã trở thành một người ăn chay, phản đối truyền thống nấu thịt của hành tinh mình.</Veterinarian99.baseDesc>
+	<Veterinarian99.title>Thú y</Veterinarian99.title>
+	<Veterinarian99.titleShort>Bác sĩ thú y</Veterinarian99.titleShort>
+</LanguageData>

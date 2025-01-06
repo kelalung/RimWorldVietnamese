@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<GlucosoidRush.label>Chạy đường glucose</GlucosoidRush.label>
+<GlucosoidRush.description>Người này đã sử dụng bơm chạy đường glucose trong khi ngủ chết, do đó nhận được tăng tốc độ di chuyển.</GlucosoidRush.description>
+<GlucosoidRush.extraTooltip>Hiệu ứng này sẽ kéo dài cho đến khi bắt đầu giấc ngủ chết tiếp theo.</GlucosoidRush.extraTooltip>
+<HemogenAmplified.label>Tăng cường huyết nguyên</HemogenAmplified.label>
+<HemogenAmplified.description>Người này đã sử dụng bộ khuếch đại huyết nguyên trong khi ngủ chết, do đó có thể nhận được nhiều huyết nguyên chất hơn từ bất kỳ nguồn nào.</HemogenAmplified.description>
+<HemogenAmplified.extraTooltip>Hiệu ứng này sẽ kéo dài cho đến khi bắt đầu giấc ngủ chết tiếp theo.</HemogenAmplified.extraTooltip>
+<PsychofluidRush.label>Tăng cường tâm linh</PsychofluidRush.label>
+<PsychofluidRush.description>Người này đã sử dụng bơm tăng cường tâm linh trong khi ngủ chết, do đó nhận được tăng cường độ nhạy cảm tâm linh.</PsychofluidRush.description>
+<PsychofluidRush.extraTooltip>Hiệu ứng này sẽ kéo dài cho đến khi bắt đầu giấc ngủ chết tiếp theo.</PsychofluidRush.extraTooltip>
+</LanguageData>

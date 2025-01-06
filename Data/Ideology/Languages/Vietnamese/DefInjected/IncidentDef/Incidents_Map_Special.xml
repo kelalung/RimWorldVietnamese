@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<GauranlenPodSpawn.label>Gai mẹ nảy mầm</GauranlenPodSpawn.label>
+<GauranlenPodSpawn.letterLabel>Gai mẹ nảy mầm</GauranlenPodSpawn.letterLabel>
+<GauranlenPodSpawn.letterText>Có một cây gai mẹ gần đó đã nảy mầm!\n\nTừ quả gai, bạn có thể thu hoạch một hạt giống cây mẹ. Hạt giống đặc biệt này có thể dùng để trồng cây mẹ hùng vĩ.\n\nCác thực dân có thể thiết lập mối liên kết với cây mẹ để giúp cây mẹ sản xuất tài nguyên và hỗ trợ bạn trong công việc hoặc chiến đấu.</GauranlenPodSpawn.letterText>
+<GiveQuest_Beggars.label>Người ăn xin đã đến</GiveQuest_Beggars.label>
+<GiveQuest_Beggars.letterLabel>Người ăn xin đã đến</GiveQuest_Beggars.letterLabel>
+<GiveQuest_ReliquaryPilgrims.label>Nhà hành hương đã đến</GiveQuest_ReliquaryPilgrims.label>
+<GiveQuest_ReliquaryPilgrims.letterLabel>Nhà hành hương đã đến</GiveQuest_ReliquaryPilgrims.letterLabel>
+<Infestation_Jelly.label>Nhựa côn trùng</Infestation_Jelly.label>
+<Infestation_Jelly.letterLabel>Nhựa côn trùng</Infestation_Jelly.letterLabel>
+<Infestation_Jelly.letterText>Côn trùng khổng lồ đã chui ra từ những lỗ dưới đất, để lại một ít nhựa côn trùng đã ăn dở trên bề mặt.</Infestation_Jelly.letterText>
+<WanderersSkylantern.label>Những kẻ lang thang</WanderersSkylantern.label>
+<WanderersSkylantern.letterLabel>Khách viếng thăm thân thiện</WanderersSkylantern.letterLabel>
+<WanderersSkylantern.letterText>Đèn trời mà các bạn thả đã thu hút một nhóm khách du lịch thân thiện. Họ cảm thấy ngạc nhiên trước cảnh tượng mà các bạn tạo ra và hy vọng sẽ tham gia vào lần sau.\n\nHọ sẽ tham dự nghi lễ và để lại quà tặng.</WanderersSkylantern.letterText>
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BondedAnimalLost.stages.bonded_animal_lost.label>Động vật gắn bó {0} mất tích</BondedAnimalLost.stages.bonded_animal_lost.label>
+<BondedAnimalLost.stages.bonded_animal_lost.description>Nó thật dịu dàng và độc nhất, số phận thật tàn nhẫn.</BondedAnimalLost.stages.bonded_animal_lost.description>
+<BondedAnimalReleased.stages.bonded_animal_released.label>Động vật gắn bó {0} được thả tự do</BondedAnimalReleased.stages.bonded_animal_released.label>
+<BondedAnimalReleased.stages.bonded_animal_released.description>Động vật dịu dàng và độc đáo như vậy. Tại sao nó phải ra đi?</BondedAnimalReleased.stages.bonded_animal_released.description>
+<ColonistLost.stages.colonist_lost.label>Thành viên mất tích</ColonistLost.stages.colonist_lost.label>
+<ColonistLost.stages.colonist_lost.description>Chỉ mới đây, một thành viên trong chúng ta đã không may mất tích.</ColonistLost.stages.colonist_lost.description>
+<MyAuntLost.stages.my_aunt_lost.label>Thím tôi (cô/dì) {0} mất tích</MyAuntLost.stages.my_aunt_lost.label>
+<MyAuntLost.stages.my_aunt_lost.description>Thím tôi (cô/dì) đã mất tích. Tôi hy vọng một ngày nào đó bà có thể trở về bên chúng tôi.</MyAuntLost.stages.my_aunt_lost.description>
+<MyBrotherLost.stages.my_brother_lost.label>Anh trai tôi {0} mất tích</MyBrotherLost.stages.my_brother_lost.label>
+<MyBrotherLost.stages.my_brother_lost.description>Anh trai tôi đã mất tích. Tôi hy vọng một ngày nào đó anh có thể trở về bên chúng tôi.</MyBrotherLost.stages.my_brother_lost.description>
+<MyCousinLost.stages.my_cousin_lost.label>Người anh em họ {0} mất tích</MyCousinLost.stages.my_cousin_lost.label>
+<MyCousinLost.stages.my_cousin_lost.description>Người anh em họ đã mất tích.</MyCousinLost.stages.my_cousin_lost.description>
+<MyDaughterLost.stages.my_daughter_lost.label>Cô con gái {0} mất tích</MyDaughterLost.stages.my_daughter_lost.label>
+<MyDaughterLost.stages.my_daughter_lost.description>Cô con gái đã mất tích. Tôi hy vọng một ngày nào đó cô có thể trở về bên chúng tôi.</MyDaughterLost.stages.my_daughter_lost.description>
+<MyFatherLost.stages.my_father_lost.label>Cha tôi {0} mất tích</MyFatherLost.stages.my_father_lost.label>
+<MyFatherLost.stages.my_father_lost.description>Cha tôi đã mất tích. Tôi hy vọng một ngày nào đó ông có thể trở về bên chúng tôi.</MyFatherLost.stages.my_father_lost.description>
+<MyFianceeLost.stages.my_fiance_lost.label>Vị hôn thê {0} mất tích</MyFianceeLost.stages.my_fiance_lost.label>
+<MyFianceeLost.stages.my_fiance_lost.description>Vị hôn thê của tôi đã mất tích. Tôi hy vọng một ngày nào đó cô có thể trở về bên chúng tôi.</MyFianceeLost.stages.my_fiance_lost.description>
+<MyFianceLost.stages.my_fiance_lost.label>Vị hôn phu {0} mất tích</MyFianceLost.stages.my_fiance_lost.label>
+<MyFianceLost.stages.my_fiance_lost.description>Vị hôn phu của tôi đã mất tích. Tôi hy vọng một ngày nào đó anh có thể trở về bên chúng tôi.</MyFianceLost.stages.my_fiance_lost.description>
+<MyGrandchildLost.stages.my_grandchild_lost.label>Đứa cháu {0} mất tích</MyGrandchildLost.stages.my_grandchild_lost.label>
+<MyGrandchildLost.stages.my_grandchild_lost.description>Đứa cháu đã mất tích. Tôi hy vọng đứa trẻ có thể trở về bên chúng tôi một ngày nào đó.</MyGrandchildLost.stages.my_grandchild_lost.description>
+<MyGrandparentLost.stages.my_grandparent_lost.label>Ông bà {0} mất tích</MyGrandparentLost.stages.my_grandparent_lost.label>
+<MyGrandparentLost.stages.my_grandparent_lost.description>Ông bà đã mất tích.</MyGrandparentLost.stages.my_grandparent_lost.description>
+<MyHalfSiblingLost.stages.my_halfsibling_lost.label>Người anh em khác mẹ {0} mất tích</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+<MyHalfSiblingLost.stages.my_halfsibling_lost.description>Người anh em khác mẹ đã mất tích.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+<MyHusbandLost.stages.my_husband_lost.label>Chồng tôi {0} mất tích</MyHusbandLost.stages.my_husband_lost.label>
+<MyHusbandLost.stages.my_husband_lost.description>Chồng tôi đã mất tích. Tôi hy vọng một ngày nào đó anh có thể trở về bên chúng tôi.</MyHusbandLost.stages.my_husband_lost.description>
+<MyKinLost.stages.my_kin_lost.label>Người thân {0} mất tích</MyKinLost.stages.my_kin_lost.label>
+<MyKinLost.stages.my_kin_lost.description>Người thân đã mất tích.</MyKinLost.stages.my_kin_lost.description>
+<MyLoverLost.stages.my_lover_lost.label>Người tình {0} mất tích</MyLoverLost.stages.my_lover_lost.label>
+<MyLoverLost.stages.my_lover_lost.description>Người tình đã mất tích, không biết khi nào mới gặp lại.</MyLoverLost.stages.my_lover_lost.description>
+<MyMotherLost.stages.my_mother_lost.label>Mẹ tôi {0} mất tích</MyMotherLost.stages.my_mother_lost.label>
+<MyMotherLost.stages.my_mother_lost.description>Mẹ tôi đã mất tích. Tôi hy vọng một ngày nào đó bà có thể trở về bên chúng tôi.</MyMotherLost.stages.my_mother_lost.description>
+<MyNephewLost.stages.my_nephew_lost.label>Cháu trai {0} mất tích</MyNephewLost.stages.my_nephew_lost.label>
+<MyNephewLost.stages.my_nephew_lost.description>Cháu trai đã mất tích. Tôi hy vọng một ngày nào đó cháu có thể trở về bên chúng tôi.</MyNephewLost.stages.my_nephew_lost.description>
+<MyNieceLost.stages.my_niece_lost.label>Cháu gái {0} mất tích</MyNieceLost.stages.my_niece_lost.label>
+<MyNieceLost.stages.my_niece_lost.description>Cháu gái đã mất tích. Tôi hy vọng một ngày nào đó cháu có thể trở về bên chúng tôi.</MyNieceLost.stages.my_niece_lost.description>
+<MySisterLost.stages.my_sister_lost.label>Chị gái {0} mất tích</MySisterLost.stages.my_sister_lost.label>
+<MySisterLost.stages.my_sister_lost.description>Chị gái đã mất tích. Tôi hy vọng một ngày nào đó chị có thể trở về bên chúng tôi.</MySisterLost.stages.my_sister_lost.description>
+<MySonLost.stages.my_son_lost.label>Con trai {0} mất tích</MySonLost.stages.my_son_lost.label>
+<MySonLost.stages.my_son_lost.description>Con trai đã mất tích. Tôi hy vọng một ngày nào đó con có thể trở về bên chúng tôi.</MySonLost.stages.my_son_lost.description>
+<MyUncleLost.stages.my_uncle_lost.label>Chú {0} mất tích</MyUncleLost.stages.my_uncle_lost.label>
+<MyUncleLost.stages.my_uncle_lost.description>Chú đã mất tích. Tôi hy vọng một ngày nào đó chú có thể trở về bên chúng tôi.</MyUncleLost.stages.my_uncle_lost.description>
+<MyWifeLost.stages.my_wife_lost.label>Vợ tôi {0} mất tích</MyWifeLost.stages.my_wife_lost.label>
+<MyWifeLost.stages.my_wife_lost.description>Vợ tôi đã mất tích. Tôi hy vọng một ngày nào đó cô có thể trở về bên chúng tôi.</MyWifeLost.stages.my_wife_lost.description>
+<PawnWithBadOpinionLost.stages.my_rival_lost.label>Kẻ thù {0} đã mất tích</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+<PawnWithBadOpinionLost.stages.my_rival_lost.description>Trời có mắt, mất tích là đúng.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+<PawnWithGoodOpinionLost.stages.my_friend_lost.label>Bạn {0} mất tích</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+<PawnWithGoodOpinionLost.stages.my_friend_lost.description>Thật là một người tốt, giờ đây đã mất tích, khiến thế giới trở nên u ám.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+</LanguageData>

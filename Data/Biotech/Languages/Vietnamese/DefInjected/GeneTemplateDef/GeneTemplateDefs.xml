@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AddictionImmune.label>{0} miễn dịch</AddictionImmune.label>
+<AddictionImmune.description>Người mang gen này sẽ không bao giờ {0} nghiện.</AddictionImmune.description>
+<AddictionImmune.labelShortAdj>{0} miễn dịch</AddictionImmune.labelShortAdj>
+<AddictionResistant.label>{0} chịu đựng</AddictionResistant.label>
+<AddictionResistant.description>Người mang gen này có xác suất {0} nghiện chỉ bằng một nửa.</AddictionResistant.description>
+<AddictionResistant.labelShortAdj>{0} chịu đựng</AddictionResistant.labelShortAdj>
+<AptitudePoor.label>{0} tài hèn</AptitudePoor.label>
+<AptitudePoor.description>Người mang gen này có {0} tài năng giảm 4 cấp độ kỹ năng, sẽ tăng hoặc giảm cấp độ kỹ năng tùy theo tài năng.</AptitudePoor.description>
+<AptitudeRemarkable.label>{0} xuất sắc</AptitudeRemarkable.label>
+<AptitudeRemarkable.description>Người mang gen này có {0} tài năng tăng 8 cấp độ kỹ năng, sẽ tăng hoặc giảm cấp độ kỹ năng tùy theo tài năng. Đồng thời tăng một mức độ hứng thú cho kỹ năng {0} của người mang gen.</AptitudeRemarkable.description>
+<AptitudeStrong.label>{0} xuất sắc</AptitudeStrong.label>
+<AptitudeStrong.description>Người mang gen này có {0} tài năng tăng 4 cấp độ kỹ năng, sẽ tăng hoặc giảm cấp độ kỹ năng tùy theo tài năng.</AptitudeStrong.description>
+<AptitudeTerrible.label>{0} vô năng</AptitudeTerrible.label>
+<AptitudeTerrible.description>Người mang gen này có {0} tài năng giảm 8 cấp độ kỹ năng, sẽ tăng hoặc giảm cấp độ kỹ năng tùy theo tài năng. Đồng thời loại bỏ tất cả mức độ hứng thú của kỹ năng {0} của người mang gen.</AptitudeTerrible.description>
+<ChemicalDependency.label>{0} phụ thuộc</ChemicalDependency.label>
+<ChemicalDependency.description>Người mang gen này cần định kỳ tiêu thụ {0} để sống sót. Nếu {DEFICIENCYDURATION} không tiêu thụ {0}, người mang gen sẽ thiếu {0}. Sau {COMADURATION}, người mang gen sẽ rơi vào hôn mê. Sau {DEATHDURATION}, người mang gen sẽ chết.</ChemicalDependency.description>
+<ChemicalDependency.labelShortAdj>{0} phụ thuộc</ChemicalDependency.labelShortAdj>
+</LanguageData>

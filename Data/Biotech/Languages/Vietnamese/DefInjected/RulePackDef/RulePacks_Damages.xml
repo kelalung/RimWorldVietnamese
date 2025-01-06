@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Damage_MechBandShockwave.rulePack.rulesStrings>
+    <li>damaged_past-&gt;Bị chấn động</li>
+    <li>damaged_past-&gt;Bị tác động</li>
+    <li>damaged_past-&gt;Bị tiêu diệt</li>
+    <li>destroyed_past-&gt;damaged_past</li>
+</Damage_MechBandShockwave.rulePack.rulesStrings>
+</LanguageData>

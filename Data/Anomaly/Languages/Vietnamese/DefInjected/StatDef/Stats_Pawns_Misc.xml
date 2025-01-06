@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ActivitySuppressionRate.label>Tốc độ ức chế hoạt động</ActivitySuppressionRate.label>
+<ActivitySuppressionRate.description>Tốc độ mà người này ức chế hoạt động của thực thể bất thường. Tốc độ càng nhanh, có nghĩa là thời gian cần thiết để ức chế mỗi thực thể càng ngắn.</ActivitySuppressionRate.description>
+<ActivitySuppressionRate.formatString>{0}/giờ</ActivitySuppressionRate.formatString>
+<EntityStudyRate.label>Tốc độ nghiên cứu thực thể</EntityStudyRate.label>
+<EntityStudyRate.description>Tốc độ mà người này thu thập kiến thức về hiện tượng thông qua việc nghiên cứu thực thể bất thường.</EntityStudyRate.description>
+<StudyEfficiency.label>Hiệu quả nghiên cứu</StudyEfficiency.label>
+<StudyEfficiency.description>Hệ số mà một người thu thập kiến thức về hiện tượng khi nghiên cứu thực thể bất thường.</StudyEfficiency.description>
+</LanguageData>

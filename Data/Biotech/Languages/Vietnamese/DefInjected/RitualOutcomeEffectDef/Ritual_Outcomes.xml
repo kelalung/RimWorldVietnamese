@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChildBirth.description>Tất cả các yếu tố chất lượng quyết định sức khỏe của mẹ và bé.</ChildBirth.description>
+<ChildBirth.comps.0.label>{PAWN_labelShort} tuổi</ChildBirth.comps.0.label>
+<ChildBirth.comps.0.labelAbstract>Tuổi của mẹ</ChildBirth.comps.0.labelAbstract>
+<ChildBirth.comps.1.label>{PAWN_labelShort} kỹ năng y tế</ChildBirth.comps.1.label>
+<ChildBirth.comps.1.labelAbstract>Kỹ năng y tế của bác sĩ</ChildBirth.comps.1.labelAbstract>
+<ChildBirth.comps.2.label>Người yêu có mặt</ChildBirth.comps.2.label>
+<ChildBirth.comps.2.labelNotMet>Người yêu không có mặt</ChildBirth.comps.2.labelNotMet>
+<ChildBirth.comps.3.label>Trong nhà</ChildBirth.comps.3.label>
+<ChildBirth.comps.4.label>Độ sạch sẽ của phòng</ChildBirth.comps.4.label>
+<ChildBirth.comps.5.label>Ảnh hưởng sức khỏe của giường</ChildBirth.comps.5.label>
+<ChildBirth.extraOutcomeDescriptions.0.description>Hơn nữa, mẹ có {0_percentage} khả năng tử vong trong quá trình sinh nở.</ChildBirth.extraOutcomeDescriptions.0.description>
+<ChildBirth.outcomeChances.0.label>Thai chết</ChildBirth.outcomeChances.0.label>
+<ChildBirth.outcomeChances.0.description>Đứa trẻ của {MOTHER_labelShort} là thai chết.</ChildBirth.outcomeChances.0.description>
+<ChildBirth.outcomeChances.1.label>Yếu ớt</ChildBirth.outcomeChances.1.label>
+<ChildBirth.outcomeChances.1.description>{MOTHER_labelShort} đã sinh ra một em bé, nhưng có vẻ không khỏe mạnh.</ChildBirth.outcomeChances.1.description>
+<ChildBirth.outcomeChances.2.label>Khỏe mạnh</ChildBirth.outcomeChances.2.label>
+<ChildBirth.outcomeChances.2.description>{MOTHER_labelShort} đã sinh ra một em bé khỏe mạnh!</ChildBirth.outcomeChances.2.description>
+</LanguageData>

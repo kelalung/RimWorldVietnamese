@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Mining_Disapproved.label>Phản cảm</Mining_Disapproved.label>
+<Mining_Disapproved.description>Khai thác trên bề mặt tự nhiên là một hành vi xấu xa.</Mining_Disapproved.description>
+<Mining_Disapproved.comps.0.description>Có người đã khai thác đá</Mining_Disapproved.comps.0.description>
+<Mining_Disapproved.comps.2.description>Có người đã khai thác đá</Mining_Disapproved.comps.2.description>
+<Mining_Disapproved.comps.3.description>Có người đã khai thác đá</Mining_Disapproved.comps.3.description>
+<Mining_Horrible.label>Kinh khủng</Mining_Horrible.label>
+<Mining_Horrible.description>Sử dụng công cụ khai thác xâm phạm môi trường tự nhiên là một hành vi đáng sợ.</Mining_Horrible.description>
+<Mining_Horrible.comps.0.description>Có người đã khai thác đá</Mining_Horrible.comps.0.description>
+<Mining_Horrible.comps.2.description>Có người đã khai thác đá</Mining_Horrible.comps.2.description>
+<Mining_Horrible.comps.3.description>Có người đã khai thác đá</Mining_Horrible.comps.3.description>
+<Mining_Prohibited.label>Cấm kỵ</Mining_Prohibited.label>
+<Mining_Prohibited.description>Sử dụng công cụ khai thác để xúc phạm môi trường tự nhiên là một hành động tội lỗi đáng sợ.</Mining_Prohibited.description>
+<Mining_Prohibited.comps.0.description>Khai thác</Mining_Prohibited.comps.0.description>
+<Mining_Prohibited.comps.2.description>Có người đã khai thác đá</Mining_Prohibited.comps.2.description>
+<Mining_Prohibited.comps.3.description>Có người đã khai thác đá</Mining_Prohibited.comps.3.description>
+<MiningYield_High.label>Cao hiệu quả</MiningYield_High.label>
+<MiningYield_High.description>Khai thác có ý nghĩa lớn lao, chúng tôi thực hiện với sự tập trung và tôn kính, và do đó chúng tôi thu được nhiều tài nguyên hơn.</MiningYield_High.description>
+</LanguageData>

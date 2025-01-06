@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AwokenCorpse.label>Xác chết tỉnh dậy</AwokenCorpse.label>
+	<Ghoul.label>Thực thể ăn xác</Ghoul.label>
+	<Ghoul.description>Những con người đã bị biến đổi thành thực thể ăn xác.\n\nVề thực thể ăn xác: Chúng là những cỗ máy giết chóc khủng khiếp được tạo ra từ các mảnh vụn siêu phàm tối tăm và sắt sống.\n\nThực thể ăn xác rất nguy hiểm trong chiến đấu cận chiến. Tuy nhiên, do cách chúng được tạo ra, chúng không có khả năng tư duy cao và không thể cầm vũ khí hay công cụ. Chúng không thể làm bất kỳ công việc nào và trong trạng thái không chiến đấu, chỉ lang thang một cách mơ hồ.\n\nNhiều người cảm thấy tư thế co giật không ngừng của thực thể ăn xác rất rùng rợn. Nhưng điều đáng sợ hơn là chúng có cơn thèm khát và sự phụ thuộc mãnh liệt vào thịt sống. Khi chúng cảm thấy đói, chúng sẽ ngay lập tức trở nên thù địch, thậm chí tấn công cả những người đã tạo ra chúng để thỏa mãn cơn đói của mình.</Ghoul.description>
+	<Ghoul.deathLetter>Một thực thể ăn xác thuộc về bạn đã chết.</Ghoul.deathLetter>
+	<Ghoul.deathLetterExtra>Khác với những người định cư bình thường, thực thể ăn xác không cần được chôn cất, cái chết của chúng cũng không khiến người khác cảm thấy buồn bã. Tất nhiên, nếu bạn muốn, bạn cũng có thể chọn chôn cất chúng.</Ghoul.deathLetterExtra>
+	<Ghoul.tools.teeth.label>Răng</Ghoul.tools.teeth.label>
+	<Ghoul.tools.left_claw.label>Claw trái</Ghoul.tools.left_claw.label>
+	<Ghoul.tools.left_claw.labelNoLocation>Claw</Ghoul.tools.left_claw.labelNoLocation>
+	<Ghoul.tools.right_claw.label>Claw phải</Ghoul.tools.right_claw.label>
+	<Ghoul.tools.right_claw.labelNoLocation>Claw</Ghoul.tools.right_claw.labelNoLocation>
+	<Shambler.label>Quái vật lê bước</Shambler.label>
+	<Shambler.description>Những sinh vật được “hồi sinh” bởi vi máy siêu phàm bị biến chất.\n\nVề quái vật lê bước: Chúng là những xác chết được hồi phục khả năng di chuyển nhờ ảnh hưởng của vi máy siêu phàm. Chúng sẽ tấn công bất kỳ sinh vật sống nào mà không phân biệt, và do không sợ đau đớn nên rất khó bị tiêu diệt. Tuy nhiên, vi máy siêu phàm không thể duy trì cơ thể đang phân hủy của quái vật lê bước trong thời gian dài, vì vậy chúng sẽ chết vì suy kiệt chuyển hóa sau vài ngày hoặc thậm chí vài giờ.\n\nBạn có thể tạo ra quái vật lê bước cho riêng mình bằng nhiều cách, chúng sẽ không tấn công người định cư và động vật của bạn.</Shambler.description>
+	<Shambler.namePrefix>Quái vật lê bước</Shambler.namePrefix>
+	<Shambler.renderNodeProperties.0.debugLabel>Vết thương của quái vật lê bước</Shambler.renderNodeProperties.0.debugLabel>
+	<Shambler.renderNodeProperties.1.debugLabel>Vết thương của quái vật lê bước</Shambler.renderNodeProperties.1.debugLabel>
+	<Shambler.tools.teeth.label>Răng</Shambler.tools.teeth.label>
+	<Shambler.tools.left_hand.label>Tay trái</Shambler.tools.left_hand.label>
+	<Shambler.tools.left_hand.labelNoLocation>Tay</Shambler.tools.left_hand.labelNoLocation>
+	<Shambler.tools.right_hand.label>Tay phải</Shambler.tools.right_hand.label>
+	<Shambler.tools.right_hand.labelNoLocation>Tay</Shambler.tools.right_hand.labelNoLocation>
+</LanguageData>

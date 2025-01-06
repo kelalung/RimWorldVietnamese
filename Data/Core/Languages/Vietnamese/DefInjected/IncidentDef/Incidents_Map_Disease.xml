@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Disease_AnimalFlu.label>Cúm (động vật)</Disease_AnimalFlu.label>
+	<Disease_AnimalFlu.letterLabel>Bệnh động vật (cúm)</Disease_AnimalFlu.letterLabel>
+	<Disease_AnimalFlu.letterText>{0} động vật đã mắc {2}.\n\nĐảm bảo chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác động vật sau đây đã bị bệnh</Disease_AnimalFlu.letterText>
+	<Disease_AnimalPlague.label>Bệnh dịch (động vật)</Disease_AnimalPlague.label>
+	<Disease_AnimalPlague.letterLabel>Bệnh động vật (dịch)</Disease_AnimalPlague.letterLabel>
+	<Disease_AnimalPlague.letterText>{0} động vật đã mắc {2}.\n\nĐảm bảo chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác động vật sau đây đã bị bệnh</Disease_AnimalPlague.letterText>
+	<Disease_FibrousMechanites.label>Nhiễm trùng cơ học sợi</Disease_FibrousMechanites.label>
+	<Disease_FibrousMechanites.letterLabel>Bệnh (nhiễm trùng cơ học sợi)</Disease_FibrousMechanites.letterLabel>
+	<Disease_FibrousMechanites.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh:</Disease_FibrousMechanites.letterText>
+	<Disease_Flu.label>Cúm</Disease_Flu.label>
+	<Disease_Flu.letterLabel>Bệnh (cúm)</Disease_Flu.letterLabel>
+	<Disease_Flu.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_Flu.letterText>
+	<Disease_GutWorms.label>Sán đường ruột</Disease_GutWorms.label>
+	<Disease_GutWorms.letterLabel>Bệnh (sán đường ruột)</Disease_GutWorms.letterLabel>
+	<Disease_GutWorms.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_GutWorms.letterText>
+	<Disease_Malaria.label>Sốt rét</Disease_Malaria.label>
+	<Disease_Malaria.letterLabel>Bệnh (sốt rét)</Disease_Malaria.letterLabel>
+	<Disease_Malaria.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_Malaria.letterText>
+	<Disease_MuscleParasites.label>Ký sinh trùng cơ</Disease_MuscleParasites.label>
+	<Disease_MuscleParasites.letterLabel>Bệnh (ký sinh trùng cơ)</Disease_MuscleParasites.letterLabel>
+	<Disease_MuscleParasites.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_MuscleParasites.letterText>
+	<Disease_OrganDecay.label>Suy giảm chức năng cơ quan</Disease_OrganDecay.label>
+	<Disease_OrganDecay.diseaseLethalLetterText>Nếu không có sự chăm sóc định kỳ hoặc cơ quan thay thế có thể cấy ghép, {PAWN_labelShort} sẽ chết.</Disease_OrganDecay.diseaseLethalLetterText>
+	<Disease_OrganDecay.letterLabel>Suy giảm chức năng cơ quan: {PAWN_labelShort}</Disease_OrganDecay.letterLabel>
+	<Disease_OrganDecay.letterText>{PAWN_labelShort} đang đối mặt với sự suy giảm của {2}!\n\nCác cơ quan bị ảnh hưởng sẽ dần mất chức năng trong {3} ngày tới, cho đến khi hoàn toàn hoại tử.\n\nVì sức khỏe của {PAWN_labelShort}, hãy nhanh chóng thay thế {PAWN_possessive}{2}. Có thể xem xét sử dụng cơ quan sinh học giả, hoặc lấy từ các "người hiến tặng" khác.</Disease_OrganDecay.letterText>
+	<Disease_Plague.label>Dịch</Disease_Plague.label>
+	<Disease_Plague.letterLabel>Bệnh (dịch)</Disease_Plague.letterLabel>
+	<Disease_Plague.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_Plague.letterText>
+	<Disease_SensoryMechanites.label>Nhiễm trùng cơ học cảm giác</Disease_SensoryMechanites.label>
+	<Disease_SensoryMechanites.letterLabel>Bệnh (nhiễm trùng cơ học cảm giác)</Disease_SensoryMechanites.letterLabel>
+	<Disease_SensoryMechanites.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_SensoryMechanites.letterText>
+	<Disease_SleepingSickness.label>Bệnh ngủ</Disease_SleepingSickness.label>
+	<Disease_SleepingSickness.letterLabel>Bệnh (bệnh ngủ)</Disease_SleepingSickness.letterLabel>
+	<Disease_SleepingSickness.letterText>{0}{1} đã mắc {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để chúng nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nCác {1} sau đây đã bị bệnh</Disease_SleepingSickness.letterText>
+</LanguageData>

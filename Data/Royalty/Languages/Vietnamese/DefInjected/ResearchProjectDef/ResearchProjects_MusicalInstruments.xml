@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Harp.label>Đàn hạc</Harp.label>
+<Harp.description>Mở khóa chế tạo "Đàn hạc", một loại nhạc cụ đơn giản được quý tộc yêu thích trong một số nền văn hóa.</Harp.description>
+<Harp.generalRules.rulesStrings>
+    <li>subject-&gt;Đàn hạc</li>
+    <li>subject-&gt;Nhạc cụ dây đơn giản</li>
+    <li>subject_story-&gt;Đã được đào tạo tại một trường âm nhạc</li>
+    <li>subject_story-&gt;Xây dựng một cây đàn hạc từ các vật liệu phổ biến trong thế giới hoang dã</li>
+    <li>subject_story-&gt;Độc tấu đàn hạc cho các quý tộc trong đế chế</li>
+    <li>subject_story-&gt;Thực hành chơi đàn hạc hàng ngày</li>
+    <li>subject_story-&gt;Nghiên cứu ý nghĩa văn hóa của việc sử dụng nhạc cụ dây</li>
+    <li>subject_gerund-&gt;Chơi đàn hạc</li>
+</Harp.generalRules.rulesStrings>
+<Harpsichord.label>Đàn harpsichord</Harpsichord.label>
+<Harpsichord.description>Chế tạo đàn harpsichord, một loại nhạc cụ phức tạp.</Harpsichord.description>
+<Harpsichord.generalRules.rulesStrings>
+    <li>subject-&gt;Đàn harpsichord</li>
+    <li>subject_story-&gt;Dẫn dắt sự phục hưng đàn harpsichord tại các hệ sao trung tâm</li>
+    <li>subject_story-&gt;Đã lên dây cho đàn harpsichord sẽ được sử dụng trong buổi hòa nhạc của thế giới rực rỡ</li>
+    <li>subject_story-&gt;Đảm nhiệm vị trí nghệ sĩ đàn harpsichord chính trong dàn nhạc giao hưởng địa phương</li>
+    <li>subject_story-&gt;Đàn harpsichord đôi mà tôi chế tạo tập trung vào hòa âm</li>
+    <li>subject_gerund-&gt;Chơi đàn harpsichord</li>
+</Harpsichord.generalRules.rulesStrings>
+<Piano.label>Đàn piano</Piano.label>
+<Piano.description>Chế tạo đàn piano, một loại nhạc cụ tiên tiến.</Piano.description>
+<Piano.generalRules.rulesStrings>
+    <li>subject-&gt;Đàn piano</li>
+    <li>subject_story-&gt;Hiểu biết về hầu hết các loại nhạc cụ dây</li>
+    <li>subject_story-&gt;Đã đăng ký vào một học viện âm nhạc nơi sinh viên không chỉ chơi đàn piano mà còn học cách sáng tác</li>
+    <li>subject_story-&gt;Vận chuyển đàn piano giữa các hệ sao trung tâm</li>
+    <li>subject_story-&gt;Ghi lại kỹ thuật biểu diễn của một số nghệ sĩ piano nổi tiếng</li>
+    <li>subject_story-&gt;Chế tạo một cây đàn piano kỳ lạ</li>
+    <li>subject_gerund-&gt;Chơi đàn piano</li>
+</Piano.generalRules.rulesStrings>
+</LanguageData>

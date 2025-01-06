@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallArchotechArm.label>Cài đặt cánh tay siêu nhiên</InstallArchotechArm.label>
+	<InstallArchotechArm.description>Cài đặt cánh tay siêu nhiên.</InstallArchotechArm.description>
+	<InstallArchotechArm.jobString>Đang cài đặt cánh tay siêu nhiên.</InstallArchotechArm.jobString>
+	<InstallArchotechEye.label>Cài đặt mắt siêu nhiên</InstallArchotechEye.label>
+	<InstallArchotechEye.description>Cài đặt mắt siêu nhiên.</InstallArchotechEye.description>
+	<InstallArchotechEye.jobString>Đang cài đặt mắt siêu nhiên.</InstallArchotechEye.jobString>
+	<InstallArchotechLeg.label>Cài đặt chân siêu nhiên</InstallArchotechLeg.label>
+	<InstallArchotechLeg.description>Cài đặt chân siêu nhiên.</InstallArchotechLeg.description>
+	<InstallArchotechLeg.jobString>Đang cài đặt chân siêu nhiên.</InstallArchotechLeg.jobString>
+</LanguageData>

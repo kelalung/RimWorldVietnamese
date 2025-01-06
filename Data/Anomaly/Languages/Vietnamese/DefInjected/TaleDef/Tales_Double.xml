@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<HealedMe.label>Đã chữa lành cho tôi</HealedMe.label>
+<MutatedMyArm.label>Cánh tay đã biến đổi</MutatedMyArm.label>
+<StudiedEntity.label>Đã nghiên cứu thực thể</StudiedEntity.label>
+<StudiedEntity.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[STUDIER_nameDef] đang nghiên cứu [ENTITY_nameIndef]</li>
+    <li>image-&gt;[STUDIER_nameFull][circumstance_group], đang kiểm tra [ENTITY_nameDef] một cách tỉ mỉ</li>
+    <li>image-&gt;[STUDIER_nameFull][circumstance_group], đang tiến hành thí nghiệm, hy vọng hiểu được bí ẩn của [ENTITY_nameDef]</li>
+    <li>image-&gt;[STUDIER_nameFull][circumstance_group], cố gắng hiểu bản chất của [ENTITY_nameDef]</li>
+    <li>circumstance_phrase-&gt;Ánh mắt gần như không thể che giấu sự ghê tởm</li>
+    <li>circumstance_phrase-&gt;Viết viết trong sổ tay</li>
+    <li>circumstance_phrase-&gt;Thỉnh thoảng tham khảo sách cổ</li>
+    <li>desc_sentence-&gt;Trong nền có thể thấy máy thu thập thép sống đang hoạt động ổn định.</li>
+    <li>desc_sentence-&gt;Sự say mê sâu sắc của những người định cư đối với [ENTITY_nameDef] là điều rõ ràng.</li>
+    <li>desc_sentence-&gt;[STUDIER_nameDef] hoàn toàn đắm chìm trong cuộc nghiên cứu hiện tại. Cố gắng khám phá bí mật của [ENTITY_nameDef].</li>
+    <li>desc_sentence-&gt;[ENTITY_nameDef] chỉ có thể tồn tại nhờ vào hoạt động không ngừng của máy cản điện.</li>
+    <li>desc_sentence-&gt;[ENTITY_nameDef] dường như không phản ứng với nỗ lực của [STUDIER_nameDef].</li>
+</StudiedEntity.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MessageActivityRisingDamage>Hoạt động của {0_definite} đã tăng lên do bị thương.</MessageActivityRisingDamage>
+	<EntityDiedOnHoldingPlatform>Một {0_labelShort} đã chết trên nền tảng giam giữ.</EntityDiedOnHoldingPlatform>
+	<MessageEntityDiscovered>Đã phát hiện thực thể mới</MessageEntityDiscovered>
+	<MessageHateChantersAbsorbed>Các tín đồ thuyết giáo đang trong trạng thái mơ màng, không phản ứng khi bị tấn công.</MessageHateChantersAbsorbed>
+	<MessageHateChantIncreased>Âm thanh nguyền rủa đã trở nên lớn hơn.</MessageHateChantIncreased>
+	<SelfResurrectText>Có thể ra lệnh cho {0_nameDef} sử dụng khả năng tránh cái chết để tự hồi sinh.</SelfResurrectText>
+	<MessageUsingSelfResurrection>{0_nameDef} đang sử dụng khả năng tránh cái chết để tự hồi sinh.</MessageUsingSelfResurrection>
+	<MessagePitGateCollapsed>Cái hố đã sụp đổ.</MessagePitGateCollapsed>
+	<MessagePitBurrowCollapsed>Một cái hố đã sụp đổ.</MessagePitBurrowCollapsed>
+	<FleshmassContainedMessage>Có gì đó trong túi thịt</FleshmassContainedMessage>
+	<MessagePsychicRitualAssault>{0_pawnsPluralDef} đang tấn công!</MessagePsychicRitualAssault>
+	<MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef} đang tiến hành nghi lễ tâm linh</MessageAIPsychicRitualBegan>
+	<MessageBiomutationLanceInvalidTargetRace>Mục tiêu không hợp lệ: {0_nameDef} không phải là động vật hoặc con người.</MessageBiomutationLanceInvalidTargetRace>
+	<MessageBiomutationLanceTargetTooBig>Mục tiêu không hợp lệ: {0_nameDef} quá lớn.</MessageBiomutationLanceTargetTooBig>
+	<MessageNoRoomWithMinimumContainmentStrength>Cảnh báo: Không đủ không gian để cung cấp sức mạnh kiềm chế tối thiểu cho {0}. Nó rất có thể sẽ trốn thoát.</MessageNoRoomWithMinimumContainmentStrength>
+	<MessageTargetBelowMinimumContainmentStrength>Cảnh báo: {0} hiện đang ở dưới tiêu chuẩn sức mạnh kiềm chế tối thiểu {1}. Nó rất có thể sẽ trốn thoát.</MessageTargetBelowMinimumContainmentStrength>
+	<MessageHolderReserved>Không thể chuyển đến {0}, đã bị người khác đặt trước.</MessageHolderReserved>
+	<MessageEntityExecuted>{EXECUTIONER_labelShort} đã xử án {VICTIM_kindIndef}.</MessageEntityExecuted>
+	<MessageOccupiedHoldingPlatformReinstalled>Cảnh báo: Cài đặt lại một nền tảng giam giữ đã bị chiếm sẽ khiến thực thể bên trong trốn thoát. Hãy chuyển thực thể sang nền tảng khác trước.</MessageOccupiedHoldingPlatformReinstalled>
+	<MessageOccupiedHoldingPlatformUninstalled>Cảnh báo: Gỡ bỏ một nền tảng giam giữ đã bị chiếm sẽ khiến thực thể bên trong trốn thoát. Hãy chuyển thực thể sang nền tảng khác trước.</MessageOccupiedHoldingPlatformUninstalled>
+	<MessageOccupiedHoldingPlatformDeconstructed>Cảnh báo: Phá hủy một nền tảng giam giữ đã bị chiếm sẽ khiến thực thể bên trong trốn thoát. Hãy chuyển thực thể sang nền tảng khác trước.</MessageOccupiedHoldingPlatformDeconstructed>
+	<MessageHostileDuplicate>Một bản sao thù địch của {0_nameDef} đã xuất hiện.</MessageHostileDuplicate>
+	<MessageProximityDetectorTriggered>Máy phát hiện gần đã phát hiện một sinh vật vô hình.</MessageProximityDetectorTriggered>
+	<MessagePawnAttackedInDarkness>Có một cái gì đó ẩn nấp trong bóng tối đã tấn công {0_nameDef}.</MessagePawnAttackedInDarkness>
+	<MessageRevenantForcedVisibility>Đã phát hiện một linh hồn ẩn giấu!</MessageRevenantForcedVisibility>
+	<MessageRevenantHeard>{PAWN_nameDef} nghe thấy tiếng của {1} linh hồn gần đó!</MessageRevenantHeard>
+	<MessageCannotUseOnNonBleeder>{ABILITY_label} không thể sử dụng trên sinh vật không chảy máu.</MessageCannotUseOnNonBleeder>
+	<MessageFingerspikeDisturbed>{WAKER_nameDef} đã chọc giận một con quái vật móng vuốt.</MessageFingerspikeDisturbed>
+	<MessageFingerspikeDisturbedPlural>{WAKER_nameDef} đã chọc giận một nhóm quái vật móng vuốt.</MessageFingerspikeDisturbedPlural>
+	<DeathPallResurrectedMessage>Đám sương mù chết chóc đã khiến {0_indefinite} hồi sinh.</DeathPallResurrectedMessage>
+	<!--<AbilityCannotCastHoraxian>{0_nameDef} trung thành với Horaxian.</AbilityCannotCastHoraxian>-->
+</LanguageData>

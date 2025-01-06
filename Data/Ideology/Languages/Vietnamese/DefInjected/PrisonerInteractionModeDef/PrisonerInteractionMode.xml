@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Convert.label>Giáo hóa</Convert.label>
+<Convert.description>Người gác tù sẽ cố gắng giáo hóa hình thái văn hóa của tù nhân thành giống như của họ.</Convert.description>
+<Enslave.label>Nô dịch</Enslave.label>
+<Enslave.description>Người gác tù sẽ đàn áp tù nhân để giảm bớt ý chí của họ. Khi họ mất đi ý chí, người gác tù có thể nô dịch họ.</Enslave.description>
+<ReduceWill.label>Giảm ý chí</ReduceWill.label>
+<ReduceWill.description>Người gác tù sẽ đàn áp tù nhân để giảm bớt ý chí của họ, nhưng không nô dịch họ.</ReduceWill.description>
+</LanguageData>

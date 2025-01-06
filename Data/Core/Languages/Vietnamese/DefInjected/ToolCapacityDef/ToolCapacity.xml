@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bite.label>Cắn</Bite.label>
+<Blunt.label>Cú đánh tê</Blunt.label>
+<Cut.label>Cắt</Cut.label>
+<Demolish.label>Phá hủy</Demolish.label>
+<KickMaterialInEyes.label>Quăng bụi</KickMaterialInEyes.label>
+<Poke.label>Đâm</Poke.label>
+<Scratch.label>Cào</Scratch.label>
+<ScratchToxic.label>Cào độc</ScratchToxic.label>
+<Stab.label>Đâm</Stab.label>
+<ToxicBite.label>Cắn độc</ToxicBite.label>
+</LanguageData>

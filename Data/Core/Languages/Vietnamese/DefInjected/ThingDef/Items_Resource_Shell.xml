@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bullet_Shell_AntigrainWarhead.label>Đạn đầu đạn phản hạt</Bullet_Shell_AntigrainWarhead.label>
+	<Bullet_Shell_EMP.label>Đạn EMP</Bullet_Shell_EMP.label>
+	<Bullet_Shell_Firefoam.label>Đạn foam chữa cháy</Bullet_Shell_Firefoam.label>
+	<Bullet_Shell_HighExplosive.label>Đạn nổ mạnh</Bullet_Shell_HighExplosive.label>
+	<Bullet_Shell_Incendiary.label>Đạn cháy</Bullet_Shell_Incendiary.label>
+	<Bullet_Shell_Smoke.label>Đạn khói</Bullet_Shell_Smoke.label>
+	<Shell_AntigrainWarhead.label>Đầu đạn phản hạt</Shell_AntigrainWarhead.label>
+	<Shell_AntigrainWarhead.description>Một đầu đạn công nghệ cực kỳ tiên tiến, thường được sử dụng trên tàu vũ trụ hoặc máy chiến đấu từ thế giới xa xôi. Được cung cấp năng lượng bởi một hạt phản vật chất, gây ra vụ nổ lớn và đốt cháy các mục tiêu xung quanh. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_AntigrainWarhead.description>
+	<Shell_EMP.label>Đạn EMP</Shell_EMP.label>
+	<Shell_EMP.description>Đạn được nạp pin và ăng-ten. Xung điện từ phát ra sau khi nổ sẽ tạm thời làm tê liệt các máy móc, tháp pháo và súng cối gần đó, và ngay lập tức tiêu hao năng lượng của lá chắn. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_EMP.description>
+	<Shell_Firefoam.label>Đạn foam chữa cháy</Shell_Firefoam.label>
+	<Shell_Firefoam.description>Đạn nén chứa foam chống cháy. Sau khi nổ, nó có thể dập tắt lửa trong một khu vực. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_Firefoam.description>
+	<Shell_HighExplosive.label>Đạn nổ mạnh</Shell_HighExplosive.label>
+	<Shell_HighExplosive.description>Đạn chứa thuốc nổ mạnh. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_HighExplosive.description>
+	<Shell_Incendiary.label>Đạn cháy</Shell_Incendiary.label>
+	<Shell_Incendiary.description>Đạn chứa gel dễ cháy và một lượng nhỏ thuốc nổ. Sau khi nổ, nó sẽ khiến một khu vực bốc cháy. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_Incendiary.description>
+	<Shell_Smoke.label>Đạn khói</Shell_Smoke.label>
+	<Shell_Smoke.description>Đạn chứa chất tạo khói. Sau khi nổ, khói được tạo ra có thể làm rối tầm ngắm của vũ khí tầm xa và ngăn chặn các đơn vị trong khu vực khói bị tháp pháo khóa mục tiêu. Có thể được bắn bằng súng cối hoặc lắp đặt thành một cái bẫy. Nổ khi bị hư hại.</Shell_Smoke.description>
+</LanguageData>

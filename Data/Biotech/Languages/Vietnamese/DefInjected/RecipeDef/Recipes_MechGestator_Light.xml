@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Agrihand.label>Nuôi dưỡng máy làm vườn</Agrihand.label>
+<Agrihand.description>Nuôi dưỡng một máy làm vườn.</Agrihand.description>
+<Agrihand.jobString>Đang nuôi dưỡng máy móc.</Agrihand.jobString>
+<Cleansweeper.label>Nuôi dưỡng máy dọn dẹp</Cleansweeper.label>
+<Cleansweeper.description>Nuôi dưỡng một máy dọn dẹp.</Cleansweeper.description>
+<Cleansweeper.jobString>Đang nuôi dưỡng máy móc.</Cleansweeper.jobString>
+<Constructoid.label>Nuôi dưỡng máy xây dựng</Constructoid.label>
+<Constructoid.description>Nuôi dưỡng một máy xây dựng.</Constructoid.description>
+<Constructoid.jobString>Đang nuôi dưỡng máy móc.</Constructoid.jobString>
+<Fabricor.label>Nuôi dưỡng máy chế tác</Fabricor.label>
+<Fabricor.description>Nuôi dưỡng một máy chế tác.</Fabricor.description>
+<Fabricor.jobString>Đang nuôi dưỡng máy móc.</Fabricor.jobString>
+<Lifter.label>Nuôi dưỡng máy nâng</Lifter.label>
+<Lifter.description>Nuôi dưỡng một máy nâng.</Lifter.description>
+<Lifter.jobString>Đang nuôi dưỡng máy móc.</Lifter.jobString>
+<Militor.label>Nuôi dưỡng máy trợ chiến</Militor.label>
+<Militor.description>Nuôi dưỡng một máy trợ chiến.</Militor.description>
+<Militor.jobString>Đang nuôi dưỡng máy móc.</Militor.jobString>
+<Paramedic.label>Nuôi dưỡng máy cứu hộ</Paramedic.label>
+<Paramedic.description>Nuôi dưỡng một máy cứu hộ.</Paramedic.description>
+<Paramedic.jobString>Đang nuôi dưỡng máy móc.</Paramedic.jobString>
+</LanguageData>

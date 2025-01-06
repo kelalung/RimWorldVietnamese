@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Cougar.label>Báo sư tử(Puma)</Cougar.label>
+<Cougar.description>Một trong những loài mèo lớn nguy hiểm nhất, báo sư tử có hàm răng và móng vuốt dài sắc bén, là thợ săn đơn độc. Chúng thường phục kích gần con mồi trước khi tấn công.\n\nThực đơn của chúng thường không bao gồm con người yếu đuối, nhưng cũng không từ chối những bữa tiệc thịt người được đưa đến bên miệng.</Cougar.description>
+<Cougar.tools.left_claw.label>Móng trái</Cougar.tools.left_claw.label>
+<Cougar.tools.left_claw.labelNoLocation>Móng</Cougar.tools.left_claw.labelNoLocation>
+<Cougar.tools.right_claw.label>Móng phải</Cougar.tools.right_claw.label>
+<Cougar.tools.right_claw.labelNoLocation>Móng</Cougar.tools.right_claw.labelNoLocation>
+<Cougar.tools.head.label>Đầu</Cougar.tools.head.label>
+<Lynx.label>Rái cá</Lynx.label>
+<Lynx.description>Một loài mèo hoang dã lớn hơn mèo nhà nhưng nhỏ hơn báo sư tử. Rái cá sống bằng cách săn lùng các loài chim và động vật nhỏ. Bộ lông ấm áp của chúng giúp bảo vệ chúng trong cái lạnh của vùng Bắc.</Lynx.description>
+<Lynx.tools.left_claw.label>Móng trái</Lynx.tools.left_claw.label>
+<Lynx.tools.left_claw.labelNoLocation>Móng</Lynx.tools.left_claw.labelNoLocation>
+<Lynx.tools.right_claw.label>Móng phải</Lynx.tools.right_claw.label>
+<Lynx.tools.right_claw.labelNoLocation>Móng</Lynx.tools.right_claw.labelNoLocation>
+<Lynx.tools.head.label>Đầu</Lynx.tools.head.label>
+<Panther.label>Báo đen</Panther.label>
+<Panther.description>Một loài mèo lớn nhanh nhẹn và hung dữ, có nguồn gốc từ rừng rậm của Trái Đất cổ đại. Là một động vật ăn thịt đơn độc, báo đen là bậc thầy trong việc săn lùng cả con mồi lớn và nhỏ. Những người chứng kiến thường chú ý đến sự duyên dáng của chúng, nhưng chỉ những người đã tiếp xúc gần mới hiểu được sức mạnh có thể phá hủy hộp sọ của chúng.</Panther.description>
+<Panther.tools.left_claw.label>Móng trái</Panther.tools.left_claw.label>
+<Panther.tools.left_claw.labelNoLocation>Móng</Panther.tools.left_claw.labelNoLocation>
+<Panther.tools.right_claw.label>Móng phải</Panther.tools.right_claw.label>
+<Panther.tools.right_claw.labelNoLocation>Móng</Panther.tools.right_claw.labelNoLocation>
+<Panther.tools.head.label>Đầu</Panther.tools.head.label>
+</LanguageData>

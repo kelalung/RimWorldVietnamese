@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodRain.label>Mưa máu giận dữ</BloodRain.label>
+	<BloodRain.letterLabel>Mưa máu giận dữ</BloodRain.letterLabel>
+	<CreepJoinerJoin.label>Đồng minh kỳ quái gia nhập</CreepJoinerJoin.label>
+	<CreepJoinerJoin_Metalhorror.label>Đồng minh kỳ quái gia nhập</CreepJoinerJoin_Metalhorror.label>
+	<DeathPall.label>Sương mù chết chóc</DeathPall.label>
+	<DeathPall.letterLabel>Sương mù chết chóc</DeathPall.letterLabel>
+	<FleshmassHeart.label>Trái tim thịt</FleshmassHeart.label>
+	<FleshmassHeart.letterLabel>Động đất dưới lòng đất</FleshmassHeart.letterLabel>
+	<FleshmassHeart.letterText>Một mảnh đất bắt đầu rung chuyển và nứt ra. Có cái gì đó đang đào bới từ dưới lòng đất. Những nhịp đập có nhịp điệu từ dưới lòng đất đang làm rung chuyển mặt đất.</FleshmassHeart.letterText>
+	<GiveQuest_DistressCall.label>Thông điệp cầu cứu</GiveQuest_DistressCall.label>
+	<GiveQuest_DistressCall.letterLabel>Thông điệp cầu cứu</GiveQuest_DistressCall.letterLabel>
+	<GoldenCubeArrival.label>Khối lập phương vàng xuất hiện</GoldenCubeArrival.label>
+	<HarbingerTreeProvoked.label>Cây báo trước thảm họa</HarbingerTreeProvoked.label>
+	<HarbingerTreeProvoked.letterLabel>Cây báo trước thảm họa nảy mầm</HarbingerTreeProvoked.letterLabel>
+	<HarbingerTreeProvoked.letterText>Một cây báo trước thảm họa đã nảy mầm gần đây. Những cây lớn với lớp vỏ giống như thịt này ăn xác chết, thịt sống và đầu người xung quanh. Nếu có đủ dinh dưỡng, sẽ có thêm cây báo trước thảm họa mới xuất hiện gần đó.\n\nTrong một huyền thoại bộ lạc, cây này là sứ giả của một vị thần vô hình, điên rồ, cai trị đại dương đen tối vô tận, và cuối cùng sẽ trỗi dậy từ nước, xé toạc bầu trời, chấm dứt mọi thứ.</HarbingerTreeProvoked.letterText>
+	<MetalhorrorImplantation.label>Cấy ghép quái vật kim loại</MetalhorrorImplantation.label>
+	<MysteriousCargoCube.label>Khối lập phương hàng hóa bí ẩn</MysteriousCargoCube.label>
+	<MysteriousCargoRevenantSpine.label>Xương sống của hàng hóa bí ẩn</MysteriousCargoRevenantSpine.label>
+	<MysteriousCargoUnnaturalCorpse.label>Xác chết của hàng hóa bí ẩn</MysteriousCargoUnnaturalCorpse.label>
+	<Nociosphere.label>Cầu đau đớn</Nociosphere.label>
+	<Nociosphere.letterLabel>Cầu đau đớn</Nociosphere.letterLabel>
+	<Nociosphere.letterText>Một quả cầu kim loại kỳ lạ xuất hiện. Chỉ cần lại gần cũng khiến bạn cảm thấy đau đớn.\n\nBạn có thể tấn công nó, mặc dù không rõ nó sẽ tự vệ như thế nào. Hoặc bạn có thể sử dụng nền tảng chứa để bắt giữ nó và học cách tận dụng sức mạnh của nó.\n\nNó tạm thời vẫn yên lặng, nhưng thực tế đang tích lũy sức mạnh. Khi bạn bắt giữ quả cầu này trên nền tảng chứa, bạn có thể sử dụng các biện pháp kiềm chế để làm yếu năng lượng của nó.</Nociosphere.letterText>
+	<PitGate.label>Hố khổng lồ</PitGate.label>
+	<PitGate.letterLabel>Hố khổng lồ hình thành</PitGate.letterLabel>
+	<PitGate.letterText>Một vùng đất lớn bắt đầu sụp xuống, hình thành một hố khổng lồ. Với tốc độ này, nó sẽ nhanh chóng sụp xuống sâu không thấy đáy. Từ sâu thẳm đó phát ra tiếng kêu của những sinh vật không người.</PitGate.letterText>
+	<RevenantEmergence.label>Xuất hiện hồn ma</RevenantEmergence.label>
+	<RevenantEmergence.letterLabel>Tiếng rên của xương sống hồn ma</RevenantEmergence.letterLabel>
+	<RevenantEmergence.letterText>Xương sống hồn ma ngày càng hoạt động mạnh mẽ và phát ra tiếng rên không lành. Hãy phá hủy nó trước khi quá muộn, hoặc chuyển nó đến nền tảng chứa.</RevenantEmergence.letterText>
+	<UnnaturalCorpseArrival.label>Xác chết bất thường đã đến</UnnaturalCorpseArrival.label>
+	<UnnaturalDarkness.label>Tối tăm bất thường</UnnaturalDarkness.label>
+	<WarpedObelisk_Abductor.label>Obelisk méo mó</WarpedObelisk_Abductor.label>
+	<WarpedObelisk_Abductor.letterLabel>Obelisk méo mó</WarpedObelisk_Abductor.letterLabel>
+	<WarpedObelisk_Abductor.letterText>Một obelisk bí ẩn đã rơi xuống gần đây.\n\nObelisk này phát ra tiếng rên mang năng lượng tâm linh ô uế, và ngày càng mạnh mẽ, dường như đang đến gần một giới hạn nguy hiểm nào đó. Bạn có thể cử người thuộc địa kiềm chế obelisk, ngăn nó kích hoạt.\n\nBạn cũng có thể đánh dấu obelisk là đối tượng điều tra, cố gắng hiểu ý định của nó, có thể bạn sẽ tận dụng được nó.\n\nBạn luôn có thể tấn công obelisk để phá hủy nó, nhưng làm như vậy có thể gây ra nguy hiểm.</WarpedObelisk_Abductor.letterText>
+	<WarpedObelisk_Duplicator.label>Obelisk thối rữa</WarpedObelisk_Duplicator.label>
+	<WarpedObelisk_Duplicator.letterLabel>Obelisk thối rữa</WarpedObelisk_Duplicator.letterLabel>
+	<WarpedObelisk_Duplicator.letterText>Một obelisk bí ẩn đã rơi xuống gần đây.\n\nObelisk này phát ra tiếng rên mang năng lượng tâm linh ô uế, và ngày càng mạnh mẽ, dường như đang đến gần một giới hạn nguy hiểm nào đó. Bạn có thể cử người thuộc địa kiềm chế obelisk, ngăn nó kích hoạt.\n\nBạn cũng có thể đánh dấu obelisk là đối tượng điều tra, cố gắng hiểu ý định của nó, có thể bạn sẽ tận dụng được nó.\n\nBạn luôn có thể tấn công obelisk để phá hủy nó, nhưng làm như vậy có thể gây ra nguy hiểm.</WarpedObelisk_Duplicator.letterText>
+	<WarpedObelisk_Mutator.label>Obelisk biến dạng</WarpedObelisk_Mutator.label>
+	<WarpedObelisk_Mutator.letterLabel>Obelisk biến dạng</WarpedObelisk_Mutator.letterLabel>
+	<WarpedObelisk_Mutator.letterText>Một obelisk bí ẩn đã rơi xuống gần đây.\n\nObelisk này phát ra tiếng rên mang năng lượng tâm linh ô uế, và ngày càng mạnh mẽ, dường như đang đến gần một giới hạn nguy hiểm nào đó. Bạn có thể cử người thuộc địa kiềm chế obelisk, ngăn nó kích hoạt.\n\nBạn cũng có thể đánh dấu obelisk là đối tượng điều tra, cố gắng hiểu ý định của nó, có thể bạn sẽ tận dụng được nó.\n\nBạn luôn có thể tấn công obelisk để phá hủy nó, nhưng làm như vậy có thể gây ra nguy hiểm.</WarpedObelisk_Mutator.letterText>
+</LanguageData>

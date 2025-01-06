@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MeleeWeapon_Gladius.label>Kiếm ngắn</MeleeWeapon_Gladius.label>
+	<MeleeWeapon_Gladius.description>Một thanh kiếm ngắn theo kiểu cổ. Rất hiệu quả trong việc chém hoặc đâm. Đặc điểm nhẹ và linh hoạt giúp nó đôi khi có thể vượt qua các vũ khí lớn và nặng hơn.</MeleeWeapon_Gladius.description>
+	<MeleeWeapon_Gladius.tools.handle.label>Cán kiếm</MeleeWeapon_Gladius.tools.handle.label>
+	<MeleeWeapon_Gladius.tools.point.label>Đầu kiếm</MeleeWeapon_Gladius.tools.point.label>
+	<MeleeWeapon_Gladius.tools.edge.label>Lưỡi kiếm</MeleeWeapon_Gladius.tools.edge.label>
+	<MeleeWeapon_LongSword.label>Kiếm dài</MeleeWeapon_LongSword.label>
+	<MeleeWeapon_LongSword.description>Vũ khí cổ xưa thường thuộc về các vị vua, kiếm dài có thể được sử dụng để chém hoặc đâm, rất chết người trong tay người phù hợp.</MeleeWeapon_LongSword.description>
+	<MeleeWeapon_LongSword.tools.handle.label>Cán kiếm</MeleeWeapon_LongSword.tools.handle.label>
+	<MeleeWeapon_LongSword.tools.point.label>Đầu kiếm</MeleeWeapon_LongSword.tools.point.label>
+	<MeleeWeapon_LongSword.tools.edge.label>Lưỡi kiếm</MeleeWeapon_LongSword.tools.edge.label>
+	<MeleeWeapon_Mace.label>Búa có đầu nhọn</MeleeWeapon_Mace.label>
+	<MeleeWeapon_Mace.description>Một cây gậy tinh xảo, có thiết kế đặc biệt cho việc vung và gây sát thương.</MeleeWeapon_Mace.description>
+	<MeleeWeapon_Mace.tools.handle.label>Cán búa</MeleeWeapon_Mace.tools.handle.label>
+	<MeleeWeapon_Mace.tools.head.label>Đầu búa</MeleeWeapon_Mace.tools.head.label>
+</LanguageData>

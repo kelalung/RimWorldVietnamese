@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AdrenalHeart.label>Trái tim adrenaline</AdrenalHeart.label>
+	<AdrenalHeart.description>Một trái tim người đã được cải tiến, cho phép xác sống bơm adrenaline, tăng cường khả năng di chuyển và tấn công trong thời gian ngắn.</AdrenalHeart.description>
+	<CorrosiveHeart.label>Trái tim axit</CorrosiveHeart.label>
+	<CorrosiveHeart.description>Một trái tim người đã được cải tiến, cho phép xác sống phun ra axit ăn mòn.</CorrosiveHeart.description>
+	<FleshmassLung.label>Phổi máu thịt</FleshmassLung.label>
+	<FleshmassLung.description>Một khối u máu thịt có nhận thức không hoàn chỉnh. Tổ chức trên đó liên tục tái sinh, giúp người cấy ghép miễn dịch với bệnh phổi, hen suyễn và các bệnh khác.\n\nCơ quan này có cấu trúc thần kinh riêng, việc loại bỏ nó có thể gây nguy hiểm.</FleshmassLung.description>
+	<FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>Phẫu thuật máu thịt</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
+	<FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>Thử phẫu thuật loại bỏ phổi máu thịt của {PAWN_nameDef} đã khiến khối u biến thành một quái thú máu thịt! Nó đã tách ra khỏi {PAWN_nameDef}!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+	<FleshmassLung.labelNoun>Phổi máu thịt</FleshmassLung.labelNoun>
+	<FleshmassStomach.label>Dạ dày máu thịt</FleshmassStomach.label>
+	<FleshmassStomach.description>Một khối u máu thịt có nhận thức không hoàn chỉnh. Axit mạnh bên trong sẽ gây đau đớn cho người cấy ghép, nhưng cũng có thể hoàn toàn ngăn ngừa ngộ độc thực phẩm.\n\nCơ quan này có cấu trúc thần kinh riêng, việc loại bỏ nó có thể gây nguy hiểm.</FleshmassStomach.description>
+	<FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>Phẫu thuật máu thịt</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
+	<FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>Thử phẫu thuật loại bỏ dạ dày máu thịt của {PAWN_nameDef} đã khiến khối u biến thành một quái thú máu thịt! Nó đã tách ra khỏi {PAWN_nameDef}!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+	<FleshmassStomach.labelNoun>Dạ dày máu thịt</FleshmassStomach.labelNoun>
+	<FleshWhip.label>Đuôi thịt</FleshWhip.label>
+	<FleshWhip.description>Đuôi thịt khỏe mạnh, phát triển, với đầu có lưỡi dao. Đuôi thịt này là một vũ khí cận chiến tuyệt vời.\n\nCơ quan này có cấu trúc thần kinh riêng, việc loại bỏ nó có thể gây nguy hiểm.</FleshWhip.description>
+	<FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>Dao lưỡi liềm</FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>
+	<FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>Phẫu thuật máu thịt</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>
+	<FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>Thử phẫu thuật loại bỏ đuôi thịt của {PAWN_nameDef} đã khiến khối u biến thành một quái thú máu thịt! Nó đã tách ra khỏi {PAWN_nameDef}!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
+	<FleshWhip.labelNoun>Đuôi thịt</FleshWhip.labelNoun>
+	<GhoulBarbs.label>Cọc nhọn xác sống</GhoulBarbs.label>
+	<GhoulBarbs.description>Các cọc nhọn bằng sắt sống được cấy ghép vào xác sống này qua phẫu thuật.</GhoulBarbs.description>
+	<GhoulBarbs.renderNodeProperties.0.debugLabel>Cọc nhọn xác sống</GhoulBarbs.renderNodeProperties.0.debugLabel>
+	<GhoulBarbs.renderNodeProperties.1.debugLabel>Cọc nhọn xác sống</GhoulBarbs.renderNodeProperties.1.debugLabel>
+	<GhoulPlating.label>Giáp xác sống</GhoulPlating.label>
+	<GhoulPlating.description>Các tấm bảo vệ lớn bằng sắt sống được cấy ghép vào xác sống này qua phẫu thuật.</GhoulPlating.description>
+	<GhoulPlating.renderNodeProperties.0.debugLabel>Giáp xác sống</GhoulPlating.renderNodeProperties.0.debugLabel>
+	<MetalbloodHeart.label>Trái tim máu thép</MetalbloodHeart.label>
+	<MetalbloodHeart.description>Một trái tim người đã được cải tiến, có thể bơm máu thép vào cơ thể, giúp xác sống chống chịu nhiều sát thương hơn trong thời gian ngắn, nhưng sẽ trở nên dễ bị tổn thương hơn khi gặp lửa.</MetalbloodHeart.description>
+	<RevenantVertebrae.label>Đốt sống hồn ma</RevenantVertebrae.label>
+	<RevenantVertebrae.description>Một bộ phận giả có thể khiến người cấy ghép tạm thời vô hình. Bộ phận này được cải tiến từ đốt sống của hồn ma, sử dụng các mảnh vụn siêu nhiên để kiềm chế hồn ma đang ngủ. Người cấy ghép có thể điều khiển trung tâm thị giác của các cá thể xung quanh, khiến bản thân tạm thời trở nên vô hình.</RevenantVertebrae.description>
+	<Tentacle.label>Râu máu thịt</Tentacle.label>
+	<Tentacle.description>Một cái râu thịt khỏe mạnh, đã có hình dạng của quái thú máu thịt. Cái râu này rất dễ điều khiển.\n\nRâu máu thịt này có cấu trúc thần kinh riêng, việc loại bỏ nó có thể gây nguy hiểm.</Tentacle.description>
+	<Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>Phẫu thuật máu thịt</Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>
+	<Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>Thử phẫu thuật loại bỏ râu máu thịt của {PAWN_nameDef} đã khiến khối u này trở nên hung dữ. Nó đã tách ra khỏi {PAWN_nameDef} và biến thành một quái thú máu thịt!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
+	<Tentacle.labelNoun>Râu máu thịt</Tentacle.labelNoun>
+</LanguageData>

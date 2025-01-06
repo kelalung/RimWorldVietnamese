@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalPersonhood_AnimalPersonhood.label>Các đồng minh quyền động vật</AnimalPersonhood_AnimalPersonhood.label>
+<Cannibal_Cannibal.label>Các đồng minh ăn thịt người</Cannibal_Cannibal.label>
+<Cannibal_FleshPurity.label>Ăn thịt người vs Tinh khiết thịt</Cannibal_FleshPurity.label>
+<Cannibal_PainIsVirtue.label>Ăn thịt người vs Đau đớn là đức hạnh</Cannibal_PainIsVirtue.label>
+<Collectivist_Collectivist.label>Các đồng minh tập thể</Collectivist_Collectivist.label>
+<Collectivist_Individualist.label>Tập thể vs Cá nhân</Collectivist_Individualist.label>
+<FemaleSupremacy_FemaleSupremacy.label>Các đồng minh nữ quyền tối cao</FemaleSupremacy_FemaleSupremacy.label>
+<FemaleSupremacy_Individualist.label>Nữ quyền tối cao vs Cá nhân</FemaleSupremacy_Individualist.label>
+<FemaleSupremacy_MaleSupremacy.label>Nữ quyền tối cao vs Nam quyền tối cao</FemaleSupremacy_MaleSupremacy.label>
+<FleshPurity_FleshPurity.label>Các đồng minh tinh khiết thịt</FleshPurity_FleshPurity.label>
+<FleshPurity_Transhumanist.label>Tinh khiết thịt vs Hợp nhất công nghệ</FleshPurity_Transhumanist.label>
+<Guilty_All.label>Các kẻ chuộc tội</Guilty_All.label>
+<HighLife_FleshPurity.label>Hóa học cực lạc vs Tinh khiết thịt</HighLife_FleshPurity.label>
+<HighLife_HighLife.label>Các đồng minh hóa học cực lạc</HighLife_HighLife.label>
+<HumanPrimacy_AnimalPersonhood.label>Nhân loại tối cao vs Quyền động vật</HumanPrimacy_AnimalPersonhood.label>
+<HumanPrimacy_FleshPurity.label>Nhân loại tối cao vs Tinh khiết thịt</HumanPrimacy_FleshPurity.label>
+<HumanPrimacy_HumanPrimacy.label>Các đồng minh nhân loại tối cao</HumanPrimacy_HumanPrimacy.label>
+<HumanPrimacy_Transhumanist.label>Nhân loại tối cao vs Hợp nhất công nghệ</HumanPrimacy_Transhumanist.label>
+<Individualist_Cannibal.label>Cá nhân vs Ăn thịt người</Individualist_Cannibal.label>
+<Individualist_Individualist.label>Các đồng minh cá nhân</Individualist_Individualist.label>
+<Individualist_Proselytizer.label>Cá nhân vs Tín đồ truyền giáo</Individualist_Proselytizer.label>
+<Loyalist_All.label>Trung thành tuyệt đối</Loyalist_All.label>
+<MaleSupremacy_Individualist.label>Nam quyền tối cao vs Cá nhân</MaleSupremacy_Individualist.label>
+<MaleSupremacy_MaleSupremacy.label>Các đồng minh nam quyền tối cao</MaleSupremacy_MaleSupremacy.label>
+<NaturePrimacy_AnimalPersonhood.label>Tự nhiên tối cao vs Quyền động vật</NaturePrimacy_AnimalPersonhood.label>
+<NaturePrimacy_HumanPrimacy.label>Tự nhiên tối cao vs Nhân loại tối cao</NaturePrimacy_HumanPrimacy.label>
+<NaturePrimacy_NaturePrimacy.label>Các đồng minh tự nhiên tối cao</NaturePrimacy_NaturePrimacy.label>
+<NaturePrimacy_Transhumanist.label>Tự nhiên tối cao vs Hợp nhất công nghệ</NaturePrimacy_Transhumanist.label>
+<Nudism_Nudism.label>Các đồng minh khỏa thân</Nudism_Nudism.label>
+<PainIsVirtue_PainIsVirtue.label>Các đồng minh đau đớn là đức hạnh</PainIsVirtue_PainIsVirtue.label>
+<Raider_All.label>Các kẻ cướp</Raider_All.label>
+<Rancher_AnimalPersonhood.label>Chủ trang trại vs Quyền động vật</Rancher_AnimalPersonhood.label>
+<Rancher_NaturePrimacy.label>Chủ trang trại vs Tự nhiên tối cao</Rancher_NaturePrimacy.label>
+<SameIdeo.label>Đều thuộc về {0_name}</SameIdeo.label>
+<Supremacist_All.label>Các đồng minh bá quyền</Supremacist_All.label>
+<Transhumanist_Transhumanist.label>Các đồng minh hợp nhất công nghệ</Transhumanist_Transhumanist.label>
+</LanguageData>

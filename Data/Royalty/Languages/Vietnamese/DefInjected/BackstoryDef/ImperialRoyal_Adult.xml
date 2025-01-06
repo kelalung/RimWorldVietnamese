@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ArtsPatron54.description>[PAWN_nameDef] quản lý các khoản đầu tư nghệ thuật của gia đình [PAWN_possessive].\n\n[PAWN_pronoun] chọn các nghệ sĩ được tài trợ và hợp tác với họ để tạo ra những tác phẩm đẹp nhất cho gia đình [PAWN_possessive], nhà thờ Đế Quốc và chính Đế Quốc.</ArtsPatron54.description>
+<ArtsPatron54.baseDesc>[PAWN_nameDef] quản lý các khoản đầu tư nghệ thuật của gia đình [PAWN_possessive].\n\n[PAWN_pronoun] chọn các nghệ sĩ được tài trợ và hợp tác với họ để tạo ra những tác phẩm đẹp nhất cho gia đình [PAWN_possessive], nhà thờ Đế Quốc và chính Đế Quốc.</ArtsPatron54.baseDesc>
+<ArtsPatron54.title>Nhà Đầu Tư Nghệ Thuật</ArtsPatron54.title>
+<ArtsPatron54.titleShort>Nhà Đầu Tư</ArtsPatron54.titleShort>
+<Beastmaster67.description>[PAWN_nameDef] đến từ một gia đình có nhiều con cái hơn cả những danh hiệu có thể thừa kế. Do vị trí sinh thứ thấp, [PAWN_nameDef] được trao danh hiệu "Thầy Quản Thú".\n\n[PAWN_nameDef] phụ trách quản lý một sở thú lớn của gia đình, mặc dù [PAWN_pronoun] chưa bao giờ tiếp xúc với những con thú hoang dã này, [PAWN_pronoun] đã nhanh chóng thiết lập được mối liên kết với chúng. Rất ít người có thể làm được như [PAWN_objective].</Beastmaster67.description>
+<Beastmaster67.baseDesc>[PAWN_nameDef] đến từ một gia đình có nhiều con cái hơn cả những danh hiệu có thể thừa kế. Do vị trí sinh thứ thấp, [PAWN_nameDef] được trao danh hiệu "Thầy Quản Thú".\n\n[PAWN_nameDef] phụ trách quản lý một sở thú lớn của gia đình, mặc dù [PAWN_pronoun] chưa bao giờ tiếp xúc với những con thú hoang dã này, [PAWN_pronoun] đã nhanh chóng thiết lập được mối liên kết với chúng. Rất ít người có thể làm được như [PAWN_objective].</Beastmaster67.baseDesc>
+<Beastmaster67.title>Thầy Quản Thú</Beastmaster67.title>
+<Beastmaster67.titleShort>Thầy Quản Thú</Beastmaster67.titleShort>
+<Landworker98.description>[PAWN_nameDef] đảm nhận vai trò quản lý đất đai trong triều đình mà [PAWN_possessive] phục vụ. [PAWN_pronoun] phụ trách quản lý đất đai và tài nguyên trên đó, bao gồm nông sản và khoáng sản.\n\nMặc dù [PAWN_pronoun] không trực tiếp vận hành các thiết bị sản xuất, nhưng việc quản lý các ngành công nghiệp này cũng cần rất nhiều kinh nghiệm về nông nghiệp và khai thác khoáng sản.</Landworker98.description>
+<Landworker98.baseDesc>[PAWN_nameDef] đảm nhận vai trò quản lý đất đai trong triều đình mà [PAWN_possessive] phục vụ. [PAWN_pronoun] phụ trách quản lý đất đai và tài nguyên trên đó, bao gồm nông sản và khoáng sản.\n\nMặc dù [PAWN_pronoun] không trực tiếp vận hành các thiết bị sản xuất, nhưng việc quản lý các ngành công nghiệp này cũng cần rất nhiều kinh nghiệm về nông nghiệp và khai thác khoáng sản.</Landworker98.baseDesc>
+<Landworker98.title>Quản Lý Đất Đai Hoàng Gia</Landworker98.title>
+<Landworker98.titleShort>Quản Lý Đất Đai</Landworker98.titleShort>
+<Regent9.description>Khi gia đình [PAWN_nameDef] đồng minh bị giết, và con trai nhỏ của đồng minh thừa kế ngôi vua, [PAWN_nameDef] được bổ nhiệm làm nhiếp chính để thay mặt đứa trẻ thực hiện quyền lực.\n\n[PAWN_pronoun] quyền lực lớn, từ tài chính đến chiến tranh, cho đến việc giải quyết các âm mưu lật đổ tiềm ẩn. Nhưng [PAWN_nameDef] chưa bao giờ lạm dụng quyền lực của mình.</Regent9.description>
+<Regent9.baseDesc>Khi gia đình [PAWN_nameDef] đồng minh bị giết, và con trai nhỏ của đồng minh thừa kế ngôi vua, [PAWN_nameDef] được bổ nhiệm làm nhiếp chính để thay mặt đứa trẻ thực hiện quyền lực.\n\n[PAWN_pronoun] quyền lực lớn, từ tài chính đến chiến tranh, cho đến việc giải quyết các âm mưu lật đổ tiềm ẩn. Nhưng [PAWN_nameDef] chưa bao giờ lạm dụng quyền lực của mình.</Regent9.baseDesc>
+<Regent9.title>Nhiếp Chính</Regent9.title>
+<Regent9.titleShort>Nhiếp Chính</Regent9.titleShort>
+<Spymaster41.description>[PAWN_nameDef] khi trưởng thành, đã được trao chức vụ thủ lĩnh gián điệp của gia đình [PAWN_pronoun]. [PAWN_nameDef] với bản chất lạnh lùng và tính toán khiến [PAWN_pronoun] trở nên xuất sắc trong nghệ thuật của dao găm, thuốc độc và phản bội.</Spymaster41.description>
+<Spymaster41.baseDesc>[PAWN_nameDef] khi trưởng thành, đã được trao chức vụ thủ lĩnh gián điệp của gia đình [PAWN_pronoun]. [PAWN_nameDef] với bản chất lạnh lùng và tính toán khiến [PAWN_pronoun] trở nên xuất sắc trong nghệ thuật của dao găm, thuốc độc và phản bội.</Spymaster41.baseDesc>
+<Spymaster41.title>Thủ Lĩnh Gián Điệp</Spymaster41.title>
+<Spymaster41.titleShort>Thủ Lĩnh Gián Điệp</Spymaster41.titleShort>
+<Warmaster54.description>[PAWN_nameDef] là một chỉ huy của một gia đình quý tộc trung tầng. [PAWN_pronoun] phụ trách tất cả các chi tiết quân sự của gia đình.\n\nTrong những cuộc chiến thỉnh thoảng xảy ra, [PAWN_nameDef] sẽ trở thành chỉ huy của quân đội.</Warmaster54.description>
+<Warmaster54.baseDesc>[PAWN_nameDef] là một chỉ huy của một gia đình quý tộc trung tầng. [PAWN_pronoun] phụ trách tất cả các chi tiết quân sự của gia đình.\n\nTrong những cuộc chiến thỉnh thoảng xảy ra, [PAWN_nameDef] sẽ trở thành chỉ huy của quân đội.</Warmaster54.baseDesc>
+<Warmaster54.title>Chỉ Huy Quân Đội</Warmaster54.title>
+<Warmaster54.titleShort>Chỉ Huy</Warmaster54.titleShort>
+</LanguageData>

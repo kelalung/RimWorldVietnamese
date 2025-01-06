@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_ThumpCannon.label>Đạn phá thành</Bullet_ThumpCannon.label>
+<Gun_ThumpCannon.label>Phá thành pháo</Gun_ThumpCannon.label>
+<Gun_ThumpCannon.description>Một loại máy phóng bom phá thành sử dụng bởi máy móc. Viên đạn sóng xung mà nó phóng ra rất hiệu quả đối với tường và cấu trúc xây dựng, nhưng gây sát thương nhỏ hơn đối với các mục tiêu nhỏ.</Gun_ThumpCannon.description>
+<Gun_ThumpCannon.tools.barrel.label>Ống pháo</Gun_ThumpCannon.tools.barrel.label>
+<Gun_ThumpCannon.verbs.Verb_Shoot.label>Phá thành pháo</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+</LanguageData>

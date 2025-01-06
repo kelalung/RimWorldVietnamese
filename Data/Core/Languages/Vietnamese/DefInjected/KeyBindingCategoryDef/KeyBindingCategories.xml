@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Architect.label>   Kế hoạch xây dựng</Architect.label>
+	<Architect.description>Phím cho menu kế hoạch xây dựng.</Architect.description>
+	<DebugMenu.label>Menu gỡ lỗi</DebugMenu.label>
+	<DebugMenu.description>Các điều khiển cho chức năng gỡ lỗi, chỉ kích hoạt trong chế độ nhà phát triển.</DebugMenu.description>
+	<Development.label>Công cụ phát triển</Development.label>
+	<Development.description>Các phím liên quan đến nhà phát triển và người tạo Mod. Chỉ có hiệu lực trong chế độ nhà phát triển.</Development.description>
+	<Game.label>Thao tác toàn cầu trong trò chơi</Game.label>
+	<Game.description>Phím thao tác cho thuộc địa trong hầu hết các trường hợp.</Game.description>
+	<GameMapCamera.label>Camera</GameMapCamera.label>
+	<GameMapCamera.description>Phím điều khiển camera.</GameMapCamera.description>
+	<MainTabs.label>Tab chính</MainTabs.label>
+	<MainTabs.description>Phím điều khiển mở và đóng các tab chính.</MainTabs.description>
+	<Modifiers.label>Bộ điều chỉnh</Modifiers.label>
+	<Modifiers.description>Các điều khiển để điều chỉnh các thao tác khác.</Modifiers.description>
+	<SelectionMisc.label>Các thao tác khác</SelectionMisc.label>
+	<SelectionMisc.description>Phím chung cho nhiều vật phẩm trong trò chơi.</SelectionMisc.description>
+	<SelectionSpecial.label>Các thao tác đặc biệt</SelectionSpecial.label>
+	<SelectionSpecial.description>Phím dành cho các chức năng đặc biệt của vật phẩm đặc biệt.</SelectionSpecial.description>
+</LanguageData>

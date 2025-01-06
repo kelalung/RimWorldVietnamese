@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Architect_Floors.label>Kế hoạch xây dựng - Sàn nhà</Architect_Floors.label>
+	<Architect_Floors.description>Phím tắt cho danh mục "Sàn nhà" trong kế hoạch xây dựng.</Architect_Floors.description>
+	<Architect_Furniture.label>Kế hoạch xây dựng - Nội thất</Architect_Furniture.label>
+	<Architect_Furniture.description>Phím tắt cho danh mục "Nội thất" trong kế hoạch xây dựng.</Architect_Furniture.description>
+	<Architect_Joy.label>Kế hoạch xây dựng - Giải trí</Architect_Joy.label>
+	<Architect_Joy.description>Phím tắt cho danh mục "Giải trí" trong kế hoạch xây dựng.</Architect_Joy.description>
+	<Architect_Misc.label>Kế hoạch xây dựng - Vật dụng khác</Architect_Misc.label>
+	<Architect_Misc.description>Phím tắt cho danh mục "Vật dụng khác" trong kế hoạch xây dựng.</Architect_Misc.description>
+	<Architect_Orders.label>Kế hoạch xây dựng - Lệnh</Architect_Orders.label>
+	<Architect_Orders.description>Phím tắt cho danh mục "Lệnh" trong kế hoạch xây dựng.</Architect_Orders.description>
+	<Architect_Power.label>Kế hoạch xây dựng - Điện năng</Architect_Power.label>
+	<Architect_Power.description>Phím tắt cho danh mục "Điện năng" trong kế hoạch xây dựng.</Architect_Power.description>
+	<Architect_Production.label>Kế hoạch xây dựng - Sản xuất</Architect_Production.label>
+	<Architect_Production.description>Phím tắt cho danh mục "Sản xuất" trong kế hoạch xây dựng.</Architect_Production.description>
+	<Architect_Security.label>Kế hoạch xây dựng - An ninh</Architect_Security.label>
+	<Architect_Security.description>Phím tắt cho danh mục "An ninh" trong kế hoạch xây dựng.</Architect_Security.description>
+	<Architect_Ship.label>Kế hoạch xây dựng - Tàu vũ trụ</Architect_Ship.label>
+	<Architect_Ship.description>Phím tắt cho danh mục "Tàu vũ trụ" trong kế hoạch xây dựng.</Architect_Ship.description>
+	<Architect_Structure.label>Kế hoạch xây dựng - Cấu trúc</Architect_Structure.label>
+	<Architect_Structure.description>Phím tắt cho danh mục "Cấu trúc" trong kế hoạch xây dựng.</Architect_Structure.description>
+	<Architect_Temperature.label>Kế hoạch xây dựng - Nhiệt độ</Architect_Temperature.label>
+	<Architect_Temperature.description>Phím tắt cho danh mục "Nhiệt độ" trong kế hoạch xây dựng.</Architect_Temperature.description>
+	<Architect_Zone.label>Kế hoạch xây dựng - Khu vực</Architect_Zone.label>
+	<Architect_Zone.description>Phím tắt cho danh mục "Khu vực" trong kế hoạch xây dựng.</Architect_Zone.description>
+</LanguageData>

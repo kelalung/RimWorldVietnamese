@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DestroyApparel.label>Tiêu hủy quần áo</DestroyApparel.label>
+	<DestroyApparel.description>Sử dụng nhiệt độ cao để hoàn toàn tiêu hủy quần áo không cần thiết. Công việc này ít tốn công hơn so với nấu chảy. Phù hợp để xử lý các vật phẩm không thể nấu chảy, nhưng sẽ không thu được tài nguyên nào.</DestroyApparel.description>
+	<DestroyApparel.jobString>Đang tiêu hủy quần áo.</DestroyApparel.jobString>
+	<DestroyWeapon.label>Tiêu hủy vũ khí</DestroyWeapon.label>
+	<DestroyWeapon.description>Sử dụng nhiệt độ cao để hoàn toàn tiêu hủy vũ khí không cần thiết. Công việc này ít tốn công hơn so với nấu chảy. Phù hợp để xử lý các vật phẩm không thể nấu chảy, nhưng sẽ không thu được tài nguyên nào.</DestroyWeapon.description>
+	<DestroyWeapon.jobString>Đang tiêu hủy vũ khí.</DestroyWeapon.jobString>
+	<ExtractMetalFromSlag.label>Nấu chảy xỉ &amp; mảnh cơ khí</ExtractMetalFromSlag.label>
+	<ExtractMetalFromSlag.description>Sử dụng nhiệt độ cao và điện từ để chiết xuất kim loại hữu ích từ xỉ hoặc mảnh cơ khí.</ExtractMetalFromSlag.description>
+	<ExtractMetalFromSlag.jobString>Đang nấu chảy xỉ &amp; mảnh cơ khí.</ExtractMetalFromSlag.jobString>
+	<Make_ChemfuelFromOrganics.label>Chế tạo nhiên liệu hóa học từ nguyên liệu hữu cơ</Make_ChemfuelFromOrganics.label>
+	<Make_ChemfuelFromOrganics.description>Chiết xuất sinh học từ nguyên liệu hữu cơ để chế tạo một nhóm nhiên liệu hóa học.</Make_ChemfuelFromOrganics.description>
+	<Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>Nguyên liệu</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+	<Make_ChemfuelFromOrganics.jobString>Đang chiết xuất nhiên liệu hóa học từ nguyên liệu hữu cơ.</Make_ChemfuelFromOrganics.jobString>
+	<Make_ChemfuelFromWood.label>Chế tạo nhiên liệu hóa học từ gỗ</Make_ChemfuelFromWood.label>
+	<Make_ChemfuelFromWood.description>Chế tạo một nhóm nhiên liệu hóa học bằng cách khí hóa gỗ.</Make_ChemfuelFromWood.description>
+	<Make_ChemfuelFromWood.jobString>Đang chiết xuất nhiên liệu hóa học từ gỗ.</Make_ChemfuelFromWood.jobString>
+	<Make_ComponentIndustrial.label>Chế tạo linh kiện công nghiệp</Make_ComponentIndustrial.label>
+	<Make_ComponentIndustrial.description>Chế tạo linh kiện công nghiệp.</Make_ComponentIndustrial.description>
+	<Make_ComponentIndustrial.jobString>Đang chế tạo linh kiện công nghiệp.</Make_ComponentIndustrial.jobString>
+	<Make_ComponentSpacer.label>Chế tạo linh kiện cao cấp</Make_ComponentSpacer.label>
+	<Make_ComponentSpacer.description>Chế tạo linh kiện cao cấp.</Make_ComponentSpacer.description>
+	<Make_ComponentSpacer.jobString>Đang chế tạo linh kiện cao cấp.</Make_ComponentSpacer.jobString>
+	<Make_Patchleather.label>May da hỗn hợp</Make_Patchleather.label>
+	<Make_Patchleather.description>May nhiều loại da lại với nhau để tạo thành da hỗn hợp kém chất lượng.</Make_Patchleather.description>
+	<Make_Patchleather.jobString>Đang may da hỗn hợp.</Make_Patchleather.jobString>
+	<Make_StoneBlocksAny.label>Chế tạo gạch đá (bất kỳ)</Make_StoneBlocksAny.label>
+	<Make_StoneBlocksAny.description>Cắt đá thành gạch có thể sử dụng.</Make_StoneBlocksAny.description>
+	<Make_StoneBlocksAny.jobString>Đang cắt đá.</Make_StoneBlocksAny.jobString>
+	<SmeltApparel.label>Nấu chảy quần áo</SmeltApparel.label>
+	<SmeltApparel.description>Sử dụng nhiệt độ cao và điện từ để phân hủy các loại quần áo kim loại như giáp thành tài nguyên hữu ích.</SmeltApparel.description>
+	<SmeltApparel.jobString>Đang nấu chảy quần áo.</SmeltApparel.jobString>
+	<SmeltOrDestroyThing.label>Nấu chảy &amp; tiêu hủy vật phẩm</SmeltOrDestroyThing.label>
+	<SmeltOrDestroyThing.description>Sử dụng nhiệt độ cao và điện từ để phân hủy các vật phẩm kim loại như giáp, vũ khí thành tài nguyên hữu ích, hoặc tiêu hủy trực tiếp các vật phẩm không thể nấu chảy.</SmeltOrDestroyThing.description>
+	<SmeltOrDestroyThing.jobString>Đang nấu chảy &amp; tiêu hủy vật phẩm.</SmeltOrDestroyThing.jobString>
+	<SmeltWeapon.label>Nấu chảy vũ khí</SmeltWeapon.label>
+	<SmeltWeapon.description>Sử dụng nhiệt độ cao và điện từ để phân hủy vũ khí thành tài nguyên hữu ích.</SmeltWeapon.description>
+	<SmeltWeapon.jobString>Đang nấu chảy vũ khí.</SmeltWeapon.jobString>
+</LanguageData>

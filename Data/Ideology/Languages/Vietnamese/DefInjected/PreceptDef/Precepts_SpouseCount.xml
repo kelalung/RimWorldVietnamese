@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SpouseCount_Female_MaxFour.label>Tối đa bốn</SpouseCount_Female_MaxFour.label>
+<SpouseCount_Female_MaxFour.description>Phụ nữ tối đa có thể có bốn người chồng.</SpouseCount_Female_MaxFour.description>
+<SpouseCount_Female_MaxThree.label>Tối đa ba</SpouseCount_Female_MaxThree.label>
+<SpouseCount_Female_MaxThree.description>Phụ nữ tối đa có thể có ba người chồng.</SpouseCount_Female_MaxThree.description>
+<SpouseCount_Female_MaxTwo.label>Tối đa hai</SpouseCount_Female_MaxTwo.label>
+<SpouseCount_Female_MaxTwo.description>Phụ nữ tối đa có thể có hai người chồng.</SpouseCount_Female_MaxTwo.description>
+<SpouseCount_Female_Unlimited.label>Không giới hạn</SpouseCount_Female_Unlimited.label>
+<SpouseCount_Female_Unlimited.description>Phụ nữ có thể có nhiều chồng theo ý muốn của mình.</SpouseCount_Female_Unlimited.description>
+<SpouseCount_Male_MaxFour.label>Tối đa bốn</SpouseCount_Male_MaxFour.label>
+<SpouseCount_Male_MaxFour.description>Nam giới tối đa có thể có bốn người vợ.</SpouseCount_Male_MaxFour.description>
+<SpouseCount_Male_MaxThree.label>Tối đa ba</SpouseCount_Male_MaxThree.label>
+<SpouseCount_Male_MaxThree.description>Nam giới tối đa có thể có ba người vợ.</SpouseCount_Male_MaxThree.description>
+<SpouseCount_Male_MaxTwo.label>Tối đa hai</SpouseCount_Male_MaxTwo.label>
+<SpouseCount_Male_MaxTwo.description>Nam giới tối đa có thể có hai người vợ.</SpouseCount_Male_MaxTwo.description>
+<SpouseCount_Male_Unlimited.label>Không giới hạn</SpouseCount_Male_Unlimited.label>
+<SpouseCount_Male_Unlimited.description>Nam giới có thể có nhiều vợ theo ý muốn của mình.</SpouseCount_Male_Unlimited.description>
+</LanguageData>

@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttendedParty.label>Tham dự tiệc</AttendedParty.label>
+<AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] tham dự tiệc của [ORGANIZER_nameDef]</li>
+    <li>tale_noun->[ATTENDER_nameDef] thư giãn tại tiệc do [ORGANIZER_nameDef] tổ chức</li>
+    <li>image->[ATTENDER_nameFull] đang nói chuyện với [ORGANIZER_nameFull],[circumstance_group]</li>
+    <li>image->Tại tiệc của [ORGANIZER_nameFull],[ATTENDER_nameFull] đang lấy đồ uống,[circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] đang trò chuyện với [ORGANIZER_nameFull],[circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] chào đón [ATTENDER_nameFull] tham gia tiệc,[circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] đang giới thiệu [ATTENDER_nameFull] cho bạn bè,[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang nụ cười tươi</li>
+    <li>circumstance_phrase->đang mỉm cười</li>
+    <li>circumstance_phrase->đang mang nụ cười [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->đồng thời phát ra tiếng cười lớn</li>
+    <li>circumstance_phrase->Không khí tại hiện trường rất [AdjectiveFriendly]</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] tham gia vào cuộc trò chuyện.</li>
+    <li>desc_sentence->Hiện trường được trang trí bằng màu [Color] và [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang chơi đùa gần đó.</li>
+</AttendedParty.rulePack.rulesStrings>
+  <BuiltSnowman.label>Xây dựng người tuyết</BuiltSnowman.label>
+<BuiltSnowman.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đang xây dựng người tuyết</li>
+    <li>tale_noun->[PAWN_nameDef] đang chơi đùa trong tuyết</li>
+    <li>image->[PAWN_nameFull] đang làm một quả cầu tuyết,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang lăn một quả cầu tuyết lớn trên mặt đất,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] dùng [Vegetable] để tạo hình khuôn mặt thô sơ cho người tuyết,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên tuyết,[circumstance_group]</li>
+    <li>circumstance_phrase->đội mũ tuyết [Quantity_adjphrase]</li>
+    <li>circumstance_phrase->Bầu trời xám xịt đang rơi những bông tuyết nhỏ</li>
+    <li>circumstance_phrase->Trong khi [PAWN_possessive] bạn bè xây dựng một pháo đài</li>
+    <li>circumstance_phrase->Trong khi [PAWN_possessive] bạn bè xây dựng một gia đình người tuyết</li>
+    <li>desc_sentence->Ánh sáng cực quang màu [Color] chớp nháy trong nền.</li>
+    <li>desc_sentence->[Community] ở xa được phủ trắng bởi tuyết.</li>
+    <li>desc_sentence->Cánh đồng trồng [Vegetable] bị tuyết chôn vùi, gần như không thể nhìn thấy.</li>
+    <li>desc_sentence->[TerrainFeature] bị băng tuyết phủ xuất hiện ở xa.</li>
+</BuiltSnowman.rulePack.rulesStrings>
+  <BuriedCorpse.label>Chôn cất xác chết</BuriedCorpse.label>
+<BuriedCorpse.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] chôn cất [CORPSE_nameDef]</li>
+    <li>tale_noun->[PAWN_nameDef] giúp [CORPSE_nameDef] được yên nghỉ</li>
+    <li>image->[PAWN_nameFull] đứng trước mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngồi xổm trước mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] dựa vào mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] khắc chữ lên bia mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thực hiện nghệ thuật trên quan tài của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đặt xác của [CORPSE_nameFull] vào mộ,[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang trầm tư</li>
+    <li>circumstance_phrase->nhìn về phía [TerrainFeature] ở xa</li>
+    <li>circumstance_phrase->thì thầm với bia mộ</li>
+    <li>desc_sentence->Ánh sáng cực quang màu [Color] chớp nháy trong nền.</li>
+    <li>desc_sentence->[Community] ở xa được phủ trắng bởi tuyết.</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] nhìn xuống xung quanh với vẻ mặt [AdjectiveFriendly].</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đứng bên cạnh [PAWN_nameDef], với vẻ mặt [AdjectiveFriendly].</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] nhìn xuống xung quanh với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đứng bên cạnh [PAWN_nameDef], với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi gần đó.</li>
+</BuriedCorpse.rulePack.rulesStrings>
+  <CompletedLongConstructionProject.label>Hoàn thành dự án xây dựng dài hạn</CompletedLongConstructionProject.label>
+<CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đã hoàn thành việc xây dựng [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] đang lắp ráp một thiết bị phức tạp bên trong [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang đánh bóng bề mặt của [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang thêm chi tiết vào bề mặt của [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] khắc tên mình lên [OBJECT_label],[circumstance_group]</li>
+    <li>circumstance_phrase->Ánh sáng lấp lánh trong mắt [PAWN_possessive]</li>
+    <li>circumstance_phrase->đồng thời lau mồ hôi trên trán</li>
+    <li>circumstance_phrase->Người xây dựng đầy bụi bẩn</li>
+    <li>circumstance_phrase->đang mang nụ cười tự mãn</li>
+    <li>circumstance_phrase->Vẻ mặt hài lòng trên khuôn mặt của [PAWN_possessive]</li>
+    <li>desc_sentence->[OBJECT_label] đứng vững trước mặt [PAWN_nameDef].</li>
+    <li>desc_sentence->[OBJECT_label] phát ra ánh sáng [Color] nhẹ nhàng.</li>
+    <li>desc_sentence->[OBJECT_label] được chế tác tinh xảo</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] ngưỡng mộ [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] gửi ánh mắt kính trọng.</li>
+</CompletedLongConstructionProject.rulePack.rulesStrings>
+  <CompletedLongCraftingProject.label>Hoàn thành dự án chế tác dài hạn</CompletedLongCraftingProject.label>
+<CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đã hoàn thành việc chế tác [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] đang lắp ráp một thiết bị phức tạp bên trong [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang đánh bóng bề mặt của [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang thêm chi tiết vào bề mặt của [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] khắc tên mình lên [OBJECT_label],[circumstance_group]</li>
+    <li>circumstance_phrase->Ánh sáng lấp lánh trong mắt [PAWN_possessive]</li>
+    <li>circumstance_phrase->đồng thời lau mồ hôi trên trán</li>
+    <li>circumstance_phrase->Người chế tác đầy bụi bẩn</li>
+    <li>circumstance_phrase->đang mang nụ cười tự mãn</li>
+    <li>circumstance_phrase->Vẻ mặt hài lòng trên khuôn mặt của [PAWN_possessive]</li>
+    <li>desc_sentence->[OBJECT_label] phát ra ánh sáng [Color] nhẹ nhàng.</li>
+    <li>desc_sentence->[OBJECT_label] được chế tác tinh xảo.</li>
+    <li>desc_sentence->[PAWN_nameDef] có vẻ như không tốn sức nâng [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] thán phục tác phẩm.</li>
+<li>desc_sentence->[Quantity_adjphrase][PersonJob] gửi ánh mắt kính trọng.</li>
+</CompletedLongCraftingProject.rulePack.rulesStrings>
+<EnteredCryptosleep.label>Vào trạng thái ngủ đông</EnteredCryptosleep.label>
+<EnteredCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] vào trạng thái ngủ đông</li>
+    <li>image->[PAWN_nameFull] nằm trong buồng ngủ đông,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] mở một buồng ngủ đông trống,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tự nhốt mình trong buồng ngủ đông,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn thế giới sắp rời xa qua bức tường buồng ngủ đông,[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang trầm tư</li>
+    <li>circumstance_phrase->nhìn về phía [TerrainFeature] ở xa</li>
+    <li>circumstance_phrase->thì thầm một mình</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi gần đó.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Enemy] đang tiến gần đến khu vực này.</li>
+    <li>desc_sentence->[PAWN_nameDef] có ánh mắt kiên định.</li>
+    <li>desc_sentence->[PAWN_nameDef] rõ ràng là đã bị thương.</li>
+    <li>desc_sentence->Ánh sáng cực quang màu [Color] chớp nháy trong nền.</li>
+    <li>desc_sentence->Các buồng ngủ đông chứa sinh vật xếp thành hàng xung quanh.</li>
+</EnteredCryptosleep.rulePack.rulesStrings>
+<GainedMasterSkillWithoutPassion.label>Thành thạo kỹ năng</GainedMasterSkillWithoutPassion.label>
+<GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] trở thành bậc thầy trong lĩnh vực [SKILL_label]</li>
+    <li>image->[PAWN_nameFull] đang luyện tập [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang đọc một cuốn sách về [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tham gia vào việc đào tạo liên quan đến [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] làm việc say mê,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đã hoàn thành một dự án,[circumstance_group]</li>
+    <li>circumstance_phrase->đầy mồ hôi</li>
+    <li>circumstance_phrase->trông rất mệt mỏi</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt chán chường</li>
+    <li>desc_sentence->Hiện trường chất đống [Quantity_adjphrase] tác phẩm thất bại.</li>
+    <li>desc_sentence->Hiện trường chất đống [Quantity_adjphrase] sách.</li>
+    <li>desc_sentence->Kỹ năng của [PAWN_possessive] phát huy tác dụng ngay lập tức.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] thể hiện sự ngạc nhiên.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] thể hiện sự ngạc nhiên.</li>
+    <li>desc_sentence->[Quantity_adjphrase] các bậc thầy cổ xưa đang hiện ra và quan sát mọi thứ.</li>
+</GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+<GainedMasterSkillWithPassion.label>Thành thạo kỹ năng với đam mê</GainedMasterSkillWithPassion.label>
+<GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] trở thành bậc thầy trong lĩnh vực [SKILL_label]</li>
+    <li>image->[PAWN_nameFull] đang vui vẻ luyện tập [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang hứng thú đọc một cuốn sách về [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang vui vẻ tham gia vào đào tạo liên quan đến [SKILL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] làm việc nhiệt tình,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đã hoàn thành một dự án,[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt vui vẻ</li>
+    <li>circumstance_phrase->trông rất [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->hò reo phấn khởi</li>
+    <li>circumstance_phrase->đầy mồ hôi</li>
+    <li>circumstance_phrase->trông rất mệt mỏi</li>
+    <li>desc_sentence->Hiện trường chất đống [Quantity_adjphrase] tác phẩm thất bại.</li>
+    <li>desc_sentence->Hiện trường chất đống [Quantity_adjphrase] sách.</li>
+    <li>desc_sentence->Kỹ năng của [PAWN_possessive] phát huy tác dụng ngay lập tức.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] thể hiện sự ngạc nhiên.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] thể hiện sự ngạc nhiên.</li>
+    <li>desc_sentence->[Quantity_adjphrase] các bậc thầy cổ xưa đang hiện ra và quan sát mọi thứ.</li>
+</GainedMasterSkillWithPassion.rulePack.rulesStrings>
+<IncreasedMenagerie.label>Thuần hóa động vật</IncreasedMenagerie.label>
+<IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun->[HUMAN_nameDef] đã thêm thành viên mới vào [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] đã thêm thành viên mới vào [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] đã thêm thành viên mới vào [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] được [AnimalGroup] bao quanh</li>
+    <li>tale_noun->[HUMAN_nameDef] thuần hóa [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] đang cố gắng thuần hóa [ANIMAL_nameFull],[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] chuẩn bị thức ăn cho [ANIMAL_nameFull],[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] thì thầm bên cạnh [ANIMAL_label] khó thuần hóa,[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] đang an ủi một con [ANIMAL_label] hoang dã,[circumstance_group]</li>
+    <li>circumstance_phrase->đồng thời cẩn thận</li>
+    <li>circumstance_phrase->và mỉm cười</li>
+    <li>circumstance_phrase->mệt mỏi nhưng rất vui vẻ</li>
+    <li>circumstance_phrase->[AnimalGroup] xuất hiện trong nền</li>
+    <li>desc_sentence->[HUMAN_nameDef] bị bao quanh bởi vô số [Animal].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] đang tiến về phía [AnimalGroup] và gia nhập cùng chúng.</li>
+    <li>desc_sentence->Hiện trường tràn ngập [Animal] và [Animal].</li>
+    <li>desc_sentence->Một hàng dài [Animal] đang chờ được thuần hóa bởi [HUMAN_nameDef].</li>
+</IncreasedMenagerie.rulePack.rulesStrings>
+  <Meditated.label>Suy tư</Meditated.label>
+<Meditated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] suy tư</li>
+    <li>image->[PAWN_nameFull] ngồi dưới một cây [TreeType],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngồi yên tĩnh,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn xa xăm,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhắm mắt lại,[circumstance_group]</li>
+    <li>circumstance_phrase->toát lên cảm giác bình yên</li>
+    <li>circumstance_phrase->đang mang nụ cười thanh thản</li>
+    <li>circumstance_phrase->đang mang nụ cười [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->vẻ mặt dịu dàng</li>
+    <li>circumstance_phrase->được bao quanh bởi ánh sáng [Color]</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang nhìn vào [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] được [Quantity_adjphrase][Animal] bao quanh.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi yên tĩnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Enemy] tỏ ra kính trọng trước cảnh tượng trước mắt.</li>
+</Meditated.rulePack.rulesStrings>
+<MinedValuable.label>Khai thác mỏ</MinedValuable.label>
+<MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] khai thác mỏ [MATERIAL_label] giàu tài nguyên</li>
+    <li>image->[PAWN_nameFull] làm việc trước một vách đá chứa đầy [MATERIAL_label] bằng công cụ khai thác,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] chiếm một khu vực lớn mỏ [MATERIAL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] dựa vào bức tường làm từ [MATERIAL_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang chỉ huy đội khai thác khai thác một mỏ [MATERIAL_label] phong phú,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang khảo sát kỹ lưỡng một mỏ [MATERIAL_label] phong phú,[circumstance_group]</li>
+    <li>circumstance_phrase->để mồ hôi tự do chảy</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->đang mang nụ cười tự mãn</li>
+    <li>circumstance_phrase->[PAWN_possessive] trông có vẻ hài lòng</li>
+    <li>desc_sentence->[Quantity_adjphrase][ally] đã giúp đỡ.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang đi lang thang ở đó.</li>
+    <li>desc_sentence->Cộng đồng xuất hiện ở nền là [Community].</li>
+    <li>desc_sentence->Mỏ [Quantity_adjphrase] nằm trong tầm nhìn.</li>
+    <li>desc_sentence->Có thể nhìn thấy [TerrainFeature] không xa.</li>
+    <li>desc_sentence->Công việc khiến [PAWN_nameDef] trở nên đầy mồ hôi và bẩn thỉu.</li>
+</MinedValuable.rulePack.rulesStrings>
+<PlayedGame.label>Chơi game</PlayedGame.label>
+<PlayedGame.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] thư giãn với [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] chơi game với [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] giết thời gian với [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] ngồi trên ghế chờ,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tự tin khi chơi với [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngồi bên cạnh [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thắng trong trò chơi [OBJECT_label],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thua trong trò chơi [OBJECT_label],[circumstance_group]</li>
+    <li>circumstance_phrase->trông rất tập trung</li>
+    <li>circumstance_phrase->[PAWN_possessive] cảm thấy thư giãn</li>
+    <li>circumstance_phrase->đang lên kế hoạch cho bước đi tiếp theo của [PAWN_possessive]</li>
+    <li>circumstance_phrase->nhẹ nhàng xoa bóp cổ tay của [PAWN_possessive]</li>
+    <li>circumstance_phrase->trông rất [angstyverb], với vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->trông rất [angstyverb]</li>
+    <li>desc_sentence->Ánh sáng cực quang màu [Color] chớp nháy trong nền.</li>
+    <li>desc_sentence->[Community] ở xa mờ mờ hiện ra.</li>
+    <li>desc_sentence->[TerrainFeature] ở xa mờ mờ hiện ra.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] cũng đang chơi game.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang chơi gần đó.</li>
+    <li>desc_sentence->[PAWN_nameDef] tỏa ra ánh sáng màu [Color].</li>
+    <li>desc_sentence->Biểu cảm của [PAWN_nameDef] rất phóng đại.</li>
+    <li>desc_sentence->[PAWN_nameDef] đứng giữa khung cảnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] thì thất bại thảm hại.</li>
+</PlayedGame.rulePack.rulesStrings>
+<Prayed.label>Cầu nguyện</Prayed.label>
+<Prayed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] cầu nguyện</li>
+    <li>tale_noun->[PAWN_nameDef] cầu xin trở nên mạnh mẽ hơn</li>
+    <li>image->[PAWN_nameFull] nhìn xa xăm,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhắm mắt lại,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nắm chặt tay,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn lên bầu trời,[circumstance_group]</li>
+    <li>circumstance_phrase->toát lên cảm giác bình yên</li>
+    <li>circumstance_phrase->thì thầm nhẹ nhàng</li>
+    <li>circumstance_phrase->đang mang vẻ mặt đầy hy vọng</li>
+    <li>circumstance_phrase->vẻ mặt dịu dàng</li>
+    <li>circumstance_phrase->được bao quanh bởi ánh sáng [Color]</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang nhìn vào [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] được [Quantity_adjphrase][Animal] bao quanh.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi yên tĩnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Enemy] tỏ ra kính trọng trước cảnh tượng trước mắt.</li>
+</Prayed.rulePack.rulesStrings>
+ <PutIntoCryptosleep.label>Đưa vào buồng ngủ đông</PutIntoCryptosleep.label>
+<PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đưa [SLEEPER_nameDef] vào buồng ngủ đông</li>
+    <li>image->[PAWN_nameFull] đưa [SLEEPER_nameDef] vào buồng ngủ đông,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] mở một buồng ngủ đông trống để chứa [SLEEPER_nameDef],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đóng kín [SLEEPER_nameDef] trong buồng ngủ đông,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] quay lưng rời đi, [SLEEPER_nameDef] nhìn ra ngoài qua bức tường của buồng ngủ đông,[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->đang chìm trong suy tư</li>
+    <li>circumstance_phrase->nhìn xa xăm về phía [TerrainFeature]</li>
+    <li>circumstance_phrase->mâu thuẫn giữa hai người rõ ràng</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi gần đó.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Enemy] đang tiến gần đến khu vực này.</li>
+    <li>desc_sentence->[PAWN_nameDef] có ánh mắt kiên định.</li>
+    <li>desc_sentence->Bầu trời thì xám xịt.</li>
+</PutIntoCryptosleep.rulePack.rulesStrings>
+<Stripped.label>Cởi bỏ quần áo</Stripped.label>
+<Stripped.rulePack.rulesStrings>
+    <li>tale_noun->[TAKER_nameDef] cởi bỏ quần áo của [STRIPPED_nameDef]</li>
+    <li>image->[TAKER_nameFull] đã cởi bỏ quần áo của [STRIPPED_nameFull] trước đám đông,[circumstance_group]</li>
+    <li>image->[TAKER_nameFull] đã lột bỏ quần áo của [STRIPPED_nameFull],[circumstance_group]</li>
+    <li>image->[TAKER_nameFull] ôm một đống [Apparel] đứng bên cạnh [STRIPPED_nameFull] đang hoàn toàn khỏa thân,[circumstance_group]</li>
+    <li>image->[TAKER_nameFull] kiên nhẫn chờ [STRIPPED_nameFull] cởi bỏ quần áo của [STRIPPED_possessive],[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang mục đích rõ ràng</li>
+    <li>circumstance_phrase->không hề có chút xấu hổ</li>
+    <li>circumstance_phrase->người khác đứng xung quanh quan sát</li>
+    <li>circumstance_phrase->không có lý do rõ ràng</li>
+    <li>circumstance_phrase->động vật không hiểu chuyện đứng bên cạnh quan sát</li>
+    <li>desc_sentence->[STRIPPED_nameDef] rõ ràng rất tức giận về mọi chuyện.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] đầy hơi nước không rõ nguyên nhân.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] thở hổn hển không có lý do.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] nhẹ nhàng vuốt ve một bụi cây.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] chỉ thể hiện vẻ mặt [AdjectiveAngsty].</li>
+</Stripped.rulePack.rulesStrings>
+<VisitedGrave.label>Thăm mộ</VisitedGrave.label>
+<VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] thăm mộ của [CORPSE_nameDef]</li>
+    <li>tale_noun->[PAWN_nameDef] tưởng niệm [CORPSE_nameDef]</li>
+    <li>image->[PAWN_nameFull] đứng trước mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngồi xổm trước mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] dựa vào mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đọc những dòng chữ khắc trên bia mộ của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngắm nhìn tác phẩm nghệ thuật trên quan tài của [CORPSE_nameFull],[circumstance_group]</li>
+    <li>circumstance_phrase->đang mang vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->đang chìm trong suy tư</li>
+    <li>circumstance_phrase->nhìn xa xăm về phía [TerrainFeature]</li>
+    <li>circumstance_phrase->thì thầm bên bia mộ</li>
+    <li>desc_sentence->Ánh sáng cực quang màu [Color] chớp nháy trong nền.</li>
+    <li>desc_sentence->[Community] ở xa bị bao phủ bởi tuyết trắng.</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đang mang vẻ mặt [AdjectiveFriendly] nhìn xuống xung quanh.</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đứng bên cạnh [PAWN_nameDef], mang vẻ mặt [AdjectiveFriendly].</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đang mang vẻ mặt [AdjectiveAngsty] nhìn xuống xung quanh.</li>
+    <li>desc_sentence->Linh hồn của [CORPSE_nameDef] đứng bên cạnh [PAWN_nameDef], mang vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang nghỉ ngơi gần đó.</li>
+</VisitedGrave.rulePack.rulesStrings>
+</LanguageData>

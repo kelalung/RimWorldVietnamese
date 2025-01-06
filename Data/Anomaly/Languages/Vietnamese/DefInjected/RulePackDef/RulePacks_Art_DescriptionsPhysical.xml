@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArtDescription_CubeSculpture.rulePack.rulesStrings>
+		<li>r_art_description->Đây là [cubeWork][cubeDepicts][aCube]。[cube_style_group]</li>
+		<li>cube_style_group(p=2)->[cubeDescSentence]。[cubeExtraSentence]。</li>
+		<li>cube_style_group(p=3)->[cubeDescSentence]。</li>
+		<li>cube_style_group-></li>
+		<li>cubeDescSentence(p=3)->[cubeLocation]，[aPawn] đang [worshipsTheCube]</li>
+		<li>cubeDescSentence(p=3)->[cubeLocation]，[pawnsPlural] đang [worshippingTheCube]</li>
+		<li>cubeDescSentence->[cubeWork] mời khách tham quan [worshippingTheCube]</li>
+		<li>cubeDescSentence->[worshippingTheCube] của [cubeWork] tạo thành trung tâm</li>
+		<li>cubeWork->Tác phẩm</li>
+		<li>cubeWork->Tượng điêu khắc</li>
+		<li>cubeWork->Tác phẩm nghệ thuật</li>
+		<li>cubeWork->Tác phẩm</li>
+		<li>aCube->Khối lập phương trừu tượng</li>
+		<li>aCube->Khối lập phương hoàn hảo</li>
+		<li>aCube->Khối lập phương không ổn định</li>
+		<li>aCube->Khối lập phương phong cách</li>
+		<li>aCube->Đa diện</li>
+		<li>aCube->Khối lập phương thô sơ</li>
+		<li>aCube->Khối lập phương biến dạng</li>
+		<li>aCube->Khối lập phương đáng sợ</li>
+		<li>aCube->Khối lập phương tối tăm</li>
+		<li>cubeLocation->Vị trí gần trung tâm</li>
+		<li>cubeLocation->Trên mỗi mặt</li>
+		<li>cubeLocation->Ở trung tâm của mỗi mặt</li>
+		<li>cubeLocation->Trên mẫu chính</li>
+		<li>cubeLocation->Dưới mẫu chính</li>
+		<li>cubeLocation->Sau mẫu chính</li>
+		<li>cubeLocation->Gần mỗi cạnh</li>
+		<li>cubeLocation->Trên mỗi cạnh</li>
+		<li>cubeLocation->Trên mỗi cạnh</li>
+		<li>cubeDepicts->Miêu tả</li>
+		<li>cubeDepicts->Trình bày</li>
+		<li>cubeDepicts->Thể hiện</li>
+		<li>cubeDepicts->Khắc họa</li>
+		<li>aPawn->Chân dung tác giả</li>
+		<li>aPawn->Một sinh vật đánh đập</li>
+		<li>aPawn->Người gầy gò với nhiều mắt</li>
+		<li>aPawn->Một trong những người thuộc địa của bạn</li>
+		<li>aPawn->Một người Ni</li>
+		<li>aPawn->Một lãnh đạo thế giới lấp lánh</li>
+		<li>aPawn->Hình bóng mờ ảo</li>
+		<li>aPawn->Một shaman bộ lạc</li>
+		<li>aPawn->Một ma cà rồng đội mũ trùm</li>
+		<li>aPawn->Một công chúa phong kiến</li>
+		<li>aPawn->Lãnh đạo từ xa [Community]</li>
+		<li>aPawn->Một phụ nữ vung [Weapon]</li>
+		<li>aPawn->Một nhóm người trong áo choàng</li>
+		<li>pawnsPlural->Những người thuộc địa của bạn</li>
+		<li>pawnsPlural->Một nhóm cướp</li>
+		<li>pawnsPlural->Hội nghị bộ lạc</li>
+		<li>pawnsPlural->Đàn sâu cơ khí</li>
+		<li>pawnsPlural->Băng cướp biển</li>
+		<li>pawnsPlural->Nhà nông dân dân gian</li>
+		<li>pawnsPlural->Một nhóm [Animal]</li>
+		<li>pawnsPlural->Một nhóm người từ [Community]</li>
+		<li>pawnsPlural->[Quantity_adjphrase] cá nhân</li>
+		<li>worshippingTheCube->Thờ phụng khối lập phương</li>
+		<li>worshippingTheCube->Cúi chào khối lập phương</li>
+		<li>worshippingTheCube->Quỳ lạy khối lập phương</li>
+		<li>worshippingTheCube->Quanh khối lập phương</li>
+		<li>worshippingTheCube->Tán dương khối lập phương</li>
+		<li>worshippingTheCube->Kính sợ khối lập phương</li>
+		<li>worshippingTheCube->Cầu xin khối lập phương</li>
+		<li>worshippingTheCube->Khóc lóc với khối lập phương</li>
+		<li>worshippingTheCube->Chơi đùa với khối lập phương</li>
+		<li>worshippingTheCube->Kết bạn với khối lập phương</li>
+		<li>worshippingTheCube->Quan sát khối lập phương</li>
+		<li>worshippingTheCube->Đắm chìm trong khối lập phương</li>
+		<li>worshippingTheCube->Dâng hiến cho khối lập phương</li>
+		<li>worshippingTheCube->Dâng lễ vật cho khối lập phương</li>
+		<li>worshippingTheCube->Phản đối khối lập phương</li>
+		<li>worshippingTheCube->Tôn trọng khối lập phương</li>
+		<li>worshippingTheCube->Chôn vùi khối lập phương</li>
+		<li>worshippingTheCube->Đặt khối lập phương lên bệ</li>
+		<li>worshippingTheCube->Sao chép khối lập phương</li>
+		<li>worshippingTheCube->Đưa khối lập phương đến một thế giới khác</li>
+		<li>worshipsTheCube->Thờ phụng khối lập phương</li>
+		<li>worshipsTheCube->Cúi chào khối lập phương</li>
+		<li>worshipsTheCube->Quỳ lạy khối lập phương</li>
+		<li>worshipsTheCube->Quanh khối lập phương</li>
+		<li>worshipsTheCube->Tán dương khối lập phương</li>
+		<li>worshipsTheCube->Kính sợ khối lập phương</li>
+		<li>worshipsTheCube->Cầu xin khối lập phương</li>
+		<li>worshipsTheCube->Khóc lóc với khối lập phương</li>
+		<li>worshipsTheCube->Chơi đùa với khối lập phương</li>
+		<li>worshipsTheCube->Kết bạn với khối lập phương</li>
+		<li>worshipsTheCube->Quan sát khối lập phương</li>
+		<li>worshipsTheCube->Đắm chìm trong khối lập phương</li>
+		<li>worshipsTheCube->Dâng hiến cho khối lập phương</li>
+		<li>worshipsTheCube->Dâng lễ vật cho khối lập phương</li>
+		<li>worshipsTheCube->Phản đối khối lập phương</li>
+		<li>worshipsTheCube->Tấn công khối lập phương</li>
+		<li>worshipsTheCube->Chôn vùi khối lập phương</li>
+		<li>worshipsTheCube->Đặt khối lập phương lên bệ</li>
+		<li>worshipsTheCube->Sao chép khối lập phương</li>
+		<li>worshipsTheCube->Đưa khối lập phương đến một thế giới khác</li>
+		<li>cubeExtraSentence->Khối lập phương do đó mà [cubeEmotion]</li>
+		<li>cubeExtraSentence->[pawnsPlural] cũng tiến lại gần làm điều tương tự</li>
+		<li>cubeExtraSentence->[aPawn] cũng tiến lại gần làm điều tương tự</li>
+		<li>cubeExtraSentence->[aPawn] buồn bã nhìn mọi thứ</li>
+		<li>cubeExtraSentence->[pawnsPlural] cố gắng đánh cắp khối lập phương</li>
+		<li>cubeExtraSentence->Khối lập phương dường như phát ra ánh sáng nhẹ nhàng</li>
+		<li>cubeEmotion->Rơi vào hỗn loạn</li>
+		<li>cubeEmotion->Cảm thấy vui vẻ</li>
+		<li>cubeEmotion->Rất buồn</li>
+		<li>cubeEmotion->Không bị ảnh hưởng</li>
+		<li>cubeEmotion->Cực kỳ tức giận</li>
+		<li>cubeEmotion->Rất vui mừng</li>
+		<li>cubeEmotion->Bị kích thích</li>
+	</ArtDescription_CubeSculpture.rulePack.rulesStrings>
+	<ArtDescription_VoidSculpture.rulePack.rulesStrings>
+		<li>r_art_description->Tượng [voidStrange] này [voidVerbphrase]。[voidDesc]</li>
+		<li>voidStrange->Kỳ quái</li>
+		<li>voidStrange->Kỳ lạ</li>
+		<li>voidStrange->Rối loạn</li>
+		<li>voidStrange->Sợ hãi</li>
+		<li>voidStrange->Biến dạng</li>
+		<li>voidStrange->Thiếu sót</li>
+		<li>voidStrange->Không phải con người</li>
+		<li>voidStrange->Bất thường</li>
+		<li>voidVerbphrase->Cuộn lại thành hình dạng khó chịu</li>
+		<li>voidVerbphrase->Biến dạng, như thể cố gắng làm hại những người xung quanh</li>
+		<li>voidVerbphrase->Dường như đã thay đổi dưới ánh nhìn</li>
+		<li>voidVerbphrase->Phát ra một chút tức giận</li>
+		<li>voidVerbphrase->Phát ra một chút buồn bã và tuyệt vọng</li>
+		<li>voidVerbphrase->Gây ra nỗi sợ hãi và tự nghi ngờ cho mọi người</li>
+		<li>voidVerbphrase->Mở rộng ngẫu nhiên về các hướng khác nhau</li>
+		<li>voidVerbphrase->Dường như đang run rẩy, chỉ dừng lại khi nhìn chằm chằm vào nó</li>
+		<li>voidVerbphrase->Giống như đang thở</li>
+		<li>voidVerbphrase->Không giống bất kỳ sinh vật nào</li>
+		<li>voidVerbphrase->Dường như là một phép ẩn dụ cho sự đau khổ</li>
+		<li>voidDesc->Hàng chục xúc tu giống như ngón tay đang đau khổ bám chặt vào hình mẫu ở giữa.</li>
+		<li>voidDesc->Vật liệu hình cầu ép chặt vào nhau, tạo thành hình dạng kéo dài.</li>
+		<li>voidDesc->Các bộ phận sắc nhọn uốn cong và quấn lại với nhau, giống như một khuôn mặt đang la hét trong sợ hãi.</li>
+		<li>voidDesc->Các phần nhô ra giống như cánh tay ép chặt vào nhau, như thể muốn tự hủy diệt.</li>
+		<li>voidDesc->Những mũi kim nhô ra từ bề mặt dường như sẵn sàng đâm xuyên qua bất kỳ ai di chuyển gần đó.</li>
+		<li>voidDesc->Bề mặt hiện ra hình xoáy và cuộn tròn, từ kết cấu hữu cơ chuyển sang các cạnh sắc như máy móc.</li>
+		<li>voidDesc->Nó trông như thể đã bị một sức mạnh khổng lồ xé nát thành từng mảnh, nhưng không hiểu sao, nó vẫn còn kết nối.</li>
+		<li>voidDesc->Một bộ phận giống như bàn tay đang chờ đợi, như thể sẵn sàng tấn công.</li>
+		<li>voidDesc->Hai hình mẫu dường như đang dùng những ngón tay cong và răng cưa xuyên thủng và hành hạ nhau.</li>
+		<li>voidDesc->Một khuôn mặt đang la hét hiện lên một hình dạng phức tạp.</li>
+		<li>voidDesc->Hình mẫu trừu tượng giống như động vật dường như muốn xé bỏ một chi của chính nó.</li>
+		<li>voidDesc->Trên một quả cầu bị biến dạng, hàng trăm hình mẫu trừu tượng đang chen chúc nhau.</li>
+	</ArtDescription_VoidSculpture.rulePack.rulesStrings>
+</LanguageData>

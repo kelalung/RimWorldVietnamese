@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BiosculpterPodSpeedFactor.label>Hệ số tốc độ buồng định hình</BiosculpterPodSpeedFactor.label>
+<BiosculpterPodSpeedFactor.description>Hệ số tốc độ của buồng định hình sinh học. Bị ảnh hưởng bởi độ sạch sẽ của phòng — phòng sạch hơn có thể tăng tốc chu kỳ định hình sinh học.</BiosculpterPodSpeedFactor.description>
+<BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>Độ sạch sẽ của phòng</BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Apocriton.label>Oán hận độc ong</Apocriton.label>
+<Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+<Apocriton.corePart.parts.front_left_leg.customLabel>Chân trước trái</Apocriton.corePart.parts.front_left_leg.customLabel>
+<Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>Chân trước trái</Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+<Apocriton.corePart.parts.front_right_leg.customLabel>Chân trước phải</Apocriton.corePart.parts.front_right_leg.customLabel>
+<Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>Chân trước phải</Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+<Apocriton.corePart.parts.rear_left_leg.customLabel>Chân sau trái</Apocriton.corePart.parts.rear_left_leg.customLabel>
+<Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>Chân sau trái</Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+<Apocriton.corePart.parts.rear_right_leg.customLabel>Chân sau phải</Apocriton.corePart.parts.rear_right_leg.customLabel>
+<Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>Chân sau phải</Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+<Scorcher.label>Máy móc thiêu đốt</Scorcher.label>
+<Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+<Scorcher.corePart.parts.front_left_leg.customLabel>Chân trước trái</Scorcher.corePart.parts.front_left_leg.customLabel>
+<Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>Chân trước trái</Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+<Scorcher.corePart.parts.front_right_leg.customLabel>Chân trước phải</Scorcher.corePart.parts.front_right_leg.customLabel>
+<Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>Chân trước phải</Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+<Scorcher.corePart.parts.rear_left_leg.customLabel>Chân sau trái</Scorcher.corePart.parts.rear_left_leg.customLabel>
+<Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>Chân sau trái</Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+<Scorcher.corePart.parts.rear_right_leg.customLabel>Chân sau phải</Scorcher.corePart.parts.rear_right_leg.customLabel>
+<Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>Chân sau phải</Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MainTab_Animals.label>Bật tắt tab "Động vật"</MainTab_Animals.label>
+	<MainTab_Architect.label>Bật tắt tab "Kế hoạch xây dựng"</MainTab_Architect.label>
+	<MainTab_Assign.label>Bật tắt tab "Phân công"</MainTab_Assign.label>
+	<MainTab_History.label>Bật tắt tab "Lịch sử"</MainTab_History.label>
+	<MainTab_Quests.label>Bật tắt tab "Nhiệm vụ"</MainTab_Quests.label>
+	<MainTab_Research.label>Bật tắt tab "Nghiên cứu"</MainTab_Research.label>
+	<MainTab_Schedule.label>Bật tắt tab "Lịch trình"</MainTab_Schedule.label>
+	<MainTab_Wildlife.label>Bật tắt tab "Động vật hoang dã"</MainTab_Wildlife.label>
+	<MainTab_Work.label>Bật tắt tab "Công việc"</MainTab_Work.label>
+	<MainTab_World.label>Bật tắt tab "Thế giới"</MainTab_World.label>
+</LanguageData>

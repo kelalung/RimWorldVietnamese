@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AlcoholWithdrawal.stages.alcohol_withdrawal.label>Cai nghiện rượu</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+<AlcoholWithdrawal.stages.alcohol_withdrawal.description>Tôi cảm thấy chóng mặt, mọi thứ thật tồi tệ. Tôi muốn uống thêm một ngụm.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+<Hungover.stages.mild_hangover.label>Say rượu (nhẹ)</Hungover.stages.mild_hangover.label>
+<Hungover.stages.mild_hangover.description>Cơn đau đầu gần như đã biến mất.</Hungover.stages.mild_hangover.description>
+<Hungover.stages.serious_hangover.label>Say rượu (nặng)</Hungover.stages.serious_hangover.label>
+<Hungover.stages.serious_hangover.description>Các loại rượu tôi đã uống khiến tôi đau đầu.</Hungover.stages.serious_hangover.description>
+<Hungover.stages.pounding_hangover.label>Say rượu (đau đầu dữ dội)</Hungover.stages.pounding_hangover.label>
+<Hungover.stages.pounding_hangover.description>Cảm giác này... giống như một bầy ngỗng đang mổ vào đầu tôi.</Hungover.stages.pounding_hangover.description>
+<Inebriated.stages.alcohol_warmth.label>Say rượu (ấm áp)</Inebriated.stages.alcohol_warmth.label>
+<Inebriated.stages.alcohol_warmth.description>Sau khi uống một chút rượu, tôi cảm thấy thư giãn hơn. Thật tuyệt vời.</Inebriated.stages.alcohol_warmth.description>
+<Inebriated.stages.quite_inebriated.label>Say rượu (hơi say)</Inebriated.stages.quite_inebriated.label>
+<Inebriated.stages.quite_inebriated.description>Tôi cảm thấy hơi choáng váng! Thật là vui vẻ.</Inebriated.stages.quite_inebriated.description>
+<Inebriated.stages.drunk.label>Say rượu (say sưa)</Inebriated.stages.drunk.label>
+<Inebriated.stages.drunk.description>Tôi cảm thấy thật tự do và không sợ hãi! Đây thật sự là một khoảng thời gian tuyệt vời!</Inebriated.stages.drunk.description>
+<Inebriated.stages.hammered.label>Say rượu (mất trí)</Inebriated.stages.hammered.label>
+<Inebriated.stages.hammered.description>Ôi! Đã xảy ra... chuyện gì vậy?</Inebriated.stages.hammered.description>
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>Tôi đã làm nô lệ cho một người. Rất khó để biện minh cho những hành động này.</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>
+<EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>Tôi đã biến ai đó thành nô lệ. Những người đó không còn lựa chọn nào khác ngoài việc khuất phục trước tôi.</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>
+<EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>Tôi đã buộc một người trở thành nô lệ. Tôi sẽ giải thích điều này như thế nào?</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>
+<EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>Tù nhân bị nô lệ</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>
+<EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>Chúng tôi đã làm nô lệ cho một người. Chúng tôi không nên làm như vậy.</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>
+<EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>Tù nhân bị nô lệ</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>
+<EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>Chúng tôi đã làm nô lệ cho một người. Đã đến lúc cho họ thấy phẩm giá và sức mạnh của chúng tôi!</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>
+<EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>Đô hộ tù nhân</EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>
+<EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>Tù nhân bị nô lệ</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>
+<EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>Chúng tôi đã làm nô lệ cho một người. Thật khủng khiếp khi nô lệ người khác.</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>
+<Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>Có nô lệ trong thuộc địa</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>
+<Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>Chúng tôi đang nuôi nô lệ, điều này thật man rợ.</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>
+<Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>Có nô lệ trong thuộc địa</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>
+<Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>Chúng tôi đang nuôi nô lệ, dù có cần thiết, điều này vẫn khiến tôi cảm thấy ghê tởm, tôi hy vọng chúng tôi không làm như vậy.</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>
+<Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>Không có nô lệ trong thuộc địa</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>
+<Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>Không có nô lệ, không ai sẽ tôn trọng chúng tôi.</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>
+<Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>Có nô lệ trong thuộc địa</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>
+<Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>Chúng tôi có nô lệ, điều này có nghĩa là chúng tôi đang đi đúng hướng.</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>
+<Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>Có nô lệ trong thuộc địa</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>
+<Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>Chúng tôi đang nuôi nô lệ, điều này thật sai trái.</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>
+<SoldSlave_Disapproved.stages.sold_slave.label>Bán nô lệ</SoldSlave_Disapproved.stages.sold_slave.label>
+<SoldSlave_Disapproved.stages.sold_slave.description>Tôi đã bán một người làm nô lệ, hy vọng sẽ không có gì khủng khiếp xảy ra.</SoldSlave_Disapproved.stages.sold_slave.description>
+<SoldSlave_Honorable.stages.sold_slave.label>Bán nô lệ</SoldSlave_Honorable.stages.sold_slave.label>
+<SoldSlave_Honorable.stages.sold_slave.description>Tôi đã bán nô lệ, điều này sẽ khiến mọi người chú ý đến danh tiếng của tôi.</SoldSlave_Honorable.stages.sold_slave.description>
+<SoldSlave_Horrible.stages.sold_slave.label>Bán nô lệ</SoldSlave_Horrible.stages.sold_slave.label>
+<SoldSlave_Horrible.stages.sold_slave.description>Tôi đã bán một người làm nô lệ, tôi không chắc mình có thể tha thứ cho bản thân.</SoldSlave_Horrible.stages.sold_slave.description>
+<SoldSlave_Know_Abhorrent.stages.sold_slave.label>Bán nô lệ</SoldSlave_Know_Abhorrent.stages.sold_slave.label>
+<SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>Nô lệ bị bán</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>
+<SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>Chúng tôi đã bán một người làm nô lệ, đây là một hành vi man rợ đáng ghê tởm.</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>
+<SoldSlave_Know_Disapproved.stages.sold_slave.label>Bán nô lệ</SoldSlave_Know_Disapproved.stages.sold_slave.label>
+<SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>Nô lệ bị bán</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>
+<SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>Chúng tôi đã bán một người làm nô lệ, chúng tôi không nên làm như vậy.</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>
+<SoldSlave_Know_Honorable.stages.sold_slave.label>Bán nô lệ</SoldSlave_Know_Honorable.stages.sold_slave.label>
+<SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>Nô lệ bị bán</SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>
+<SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>Chúng tôi đã bán nô lệ! Điều này thể hiện phẩm giá và sức mạnh của chúng tôi.</SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>
+<SoldSlave_Know_Horrible.stages.sold_slave.label>Bán nô lệ</SoldSlave_Know_Horrible.stages.sold_slave.label>
+<SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>Nô lệ bị bán</SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>
+<SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>Chúng tôi đã bán một người làm nô lệ, điều này thật sự khủng khiếp.</SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>
+</LanguageData>

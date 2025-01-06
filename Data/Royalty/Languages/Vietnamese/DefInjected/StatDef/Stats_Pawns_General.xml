@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PsychicEntropyGain.label>Tỷ lệ tăng entropy tâm linh</PsychicEntropyGain.label>
+<PsychicEntropyGain.description>Hệ số nhân khi nhận được giá trị entropy tâm linh bằng bất kỳ cách nào, entropy tâm linh thu được khi sử dụng khả năng sẽ được nhân với giá trị này.</PsychicEntropyGain.description>
+</LanguageData>

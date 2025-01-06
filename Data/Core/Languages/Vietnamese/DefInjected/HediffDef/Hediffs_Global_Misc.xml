@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Anesthetic.label>Gây mê</Anesthetic.label>
+	<Anesthetic.description>Thuốc gây mê sẽ khiến sinh vật mất ý thức.</Anesthetic.description>
+	<Anesthetic.stages.wearing_off.label>Đang dần hồi phục</Anesthetic.stages.wearing_off.label>
+	<Anesthetic.stages.woozy.label>Chóng mặt</Anesthetic.stages.woozy.label>
+	<Anesthetic.stages.sedated.label>Gây tê</Anesthetic.stages.sedated.label>
+	<BloodLoss.label>Mất máu</BloodLoss.label>
+	<BloodLoss.description>Giảm lượng máu trong cơ thể do chảy máu nhiều.\nTác động của mất máu nhẹ tương đối ít, nhưng khi mất máu trở nên nghiêm trọng, do thiếu tế bào hồng cầu vận chuyển oxy trong máu, dẫn đến tế bào trong cơ thể thiếu oxy và cuối cùng làm chết bệnh nhân do suy đa tạng.\nTheo thời gian, các tế bào gốc tạo máu trong cơ thể sẽ dần phục hồi nguồn cung cấp máu, và bệnh nhân sẽ hồi phục sau một thời gian.</BloodLoss.description>
+	<BloodLoss.stages.minor-0.label>Nhẹ</BloodLoss.stages.minor-0.label>
+	<BloodLoss.stages.minor-1.label>Nhẹ</BloodLoss.stages.minor-1.label>
+	<BloodLoss.stages.moderate.label>Vừa phải</BloodLoss.stages.moderate.label>
+	<BloodLoss.stages.severe.label>Nghiêm trọng</BloodLoss.stages.severe.label>
+	<BloodLoss.stages.extreme.label>Cực kỳ nghiêm trọng</BloodLoss.stages.extreme.label>
+	<BrainShock.label>Sốc não</BrainShock.label>
+	<BrainShock.description>Trạng thái phản hồi bất thường do các cấy ghép trong não bị tấn công bởi EMP.</BrainShock.description>
+	<BrainShock.labelNoun>Sốc não</BrainShock.labelNoun>
+	<CatatonicBreakdown.label>Đổ vỡ tâm lý</CatatonicBreakdown.label>
+	<CatatonicBreakdown.description>Triệu chứng sụp đổ tâm lý mất ý thức do căng thẳng tinh thần cực độ, bệnh nhân sẽ ngã xuống và hoàn toàn mất khả năng tự chăm sóc.</CatatonicBreakdown.description>
+	<CatatonicBreakdown.labelNoun>Đổ vỡ tâm lý</CatatonicBreakdown.labelNoun>
+	<CoveredInFirefoam.label>Bị phủ foam chống cháy</CoveredInFirefoam.label>
+	<CoveredInFirefoam.description>Bị phủ foam chống cháy.</CoveredInFirefoam.description>
+	<CryptosleepSickness.label>Bệnh ngủ đông</CryptosleepSickness.label>
+	<CryptosleepSickness.description>Phản ứng bất lợi do sử dụng buồng ngủ đông. Để ngăn chặn lão hóa và cái chết, ngủ đông đã tạm ngừng và thay thế nhiều chức năng cơ thể. Khi rời khỏi trạng thái ngủ đông, cơ thể sẽ cần thời gian để tái thiết lập chức năng và cân bằng quá trình trao đổi chất tự nhiên. Trong quá trình này, bệnh nhân thường sẽ cảm thấy buồn nôn, chóng mặt và tâm trạng lơ lửng.</CryptosleepSickness.description>
+	<CryptosleepSickness.descriptionShort>Triệu chứng buồn nôn, chóng mặt và tâm trạng lơ lửng do sử dụng buồng ngủ đông.</CryptosleepSickness.descriptionShort>
+	<DrugOverdose.label>Quá liều chất gây nghiện</DrugOverdose.label>
+	<DrugOverdose.description>Phản ứng ngộ độc toàn thân do nồng độ chất gây nghiện trong máu quá cao.</DrugOverdose.description>
+	<DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Quá liều chất gây nghiện: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+	<DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} đã sử dụng quá liều chất gây nghiện!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+	<DrugOverdose.labelNoun>Quá liều chất gây nghiện</DrugOverdose.labelNoun>
+	<DrugOverdose.stages.minor-0.label>Nhẹ</DrugOverdose.stages.minor-0.label>
+	<DrugOverdose.stages.minor-1.label>Nhẹ</DrugOverdose.stages.minor-1.label>
+	<DrugOverdose.stages.major.label>Nghiêm trọng</DrugOverdose.stages.major.label>
+	<FoodPoisoning.label>Ngộ độc thực phẩm</FoodPoisoning.label>
+	<FoodPoisoning.description>Bệnh dạ dày do ăn phải thực phẩm bị thối hoặc không sạch. Nó có thể do ăn thực phẩm hư hỏng, không vệ sinh hoặc không an toàn, hoặc do môi trường nấu ăn không sạch sẽ và đầu bếp không đủ tiêu chuẩn. Bệnh nhân thường sẽ nôn mửa và cảm thấy buồn nôn trong một khoảng thời gian.</FoodPoisoning.description>
+	<FoodPoisoning.stages.recovering.label>Đang hồi phục</FoodPoisoning.stages.recovering.label>
+	<FoodPoisoning.stages.major.label>Nghiêm trọng</FoodPoisoning.stages.major.label>
+	<FoodPoisoning.stages.initial.label>Nhẹ</FoodPoisoning.stages.initial.label>
+	<HeartAttack.label>Đau tim</HeartAttack.label>
+	<HeartAttack.description>Sự rối loạn hoặc ngừng đột ngột nhịp tim bình thường. Đau tim sẽ khiến người bệnh rất đau đớn và yếu đuối. Tình trạng có thể xấu đi và dẫn đến cái chết, nhưng cũng có thể dần cải thiện và ổn định.</HeartAttack.description>
+	<HeartAttack.labelNoun>Đau tim</HeartAttack.labelNoun>
+	<HeartAttack.stages.painful.label>Đau nhói</HeartAttack.stages.painful.label>
+	<HeartAttack.stages.debilitating.label>Yếu đuối</HeartAttack.stages.debilitating.label>
+	<HeartAttack.stages.fatal.label>Chết người</HeartAttack.stages.fatal.label>
+	<Pregnant.label>Thai kỳ</Pregnant.label>
+	<Pregnant.description>Loài sinh vật này đang mang thai. Nếu thai kỳ đủ tháng, nó sẽ tự nhiên sinh con. Nhưng nếu trong thời gian mang thai bị đói hoặc bị thương, nó có thể bị sảy thai.</Pregnant.description>
+	<Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} đã mang thai!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+	<Pregnant.labelNoun>Thai kỳ</Pregnant.labelNoun>
+	<Pregnant.stages.earlystage.label>Giai đoạn đầu</Pregnant.stages.earlystage.label>
+	<Pregnant.stages.middlestage.label>Giai đoạn giữa</Pregnant.stages.middlestage.label>
+	<Pregnant.stages.latestage.label>Giai đoạn cuối</Pregnant.stages.latestage.label>
+	<PsychicComa.label>Hôn mê tâm linh</PsychicComa.label>
+	<PsychicComa.description>Một trạng thái hôn mê lành tính giúp não bộ nhanh chóng phục hồi khỏi trạng thái áp lực tâm linh.</PsychicComa.description>
+	<PsychicComa.labelNoun>Hôn mê tâm linh</PsychicComa.labelNoun>
+	<PsychicHangover.label>Say tinh thần</PsychicHangover.label>
+	<PsychicHangover.description>Trạng thái bất thường do bùng nổ năng lượng tâm linh. Say tinh thần gây khó chịu nhưng không nguy hiểm.</PsychicHangover.description>
+	<PsychicHangover.labelNoun>Say tinh thần</PsychicHangover.labelNoun>
+	<PsychicHangover.stages.forming.label>Hình thành</PsychicHangover.stages.forming.label>
+	<PsychicHangover.stages.buzzing.label>Bùng nổ</PsychicHangover.stages.buzzing.label>
+	<PsychicInvisibility.label>Vô hình tâm linh</PsychicInvisibility.label>
+	<PsychicInvisibility.description>Trạng thái vô hình do năng lượng tâm linh tạo ra. Bằng cách ảnh hưởng đến não bộ của những người xung quanh, nó khiến họ không thể nhận thấy sinh vật ở dạng thị giác mà không gây hại cho mắt.</PsychicInvisibility.description>
+	<PsychicShock.label>Sốc tâm linh</PsychicShock.label>
+	<PsychicShock.description>Trạng thái rối loạn tâm thần của não bộ. Do sóng tâm linh gây ra sự mất cân bằng hormone trong não hoặc sự gia tăng năng lượng tâm linh, hiệu ứng này sẽ khiến sinh vật ở trong trạng thái suy nhược tinh thần cho đến khi ảnh hưởng biến mất.</PsychicShock.description>
+	<PsychicShock.labelNoun>Sốc tâm linh</PsychicShock.labelNoun>
+	<ResurrectionSickness.label>Sự yếu đuối sau khi phục sinh</ResurrectionSickness.label>
+	<ResurrectionSickness.description>Di chứng của việc được phục sinh. Cơ thể được phục sinh cần một khoảng thời gian nhất định để phục hồi chức năng.</ResurrectionSickness.description>
+	<ToxicBuildup.label>Tích tụ độc tố</ToxicBuildup.label>
+	<ToxicBuildup.description>Độc tố lưu thông trong máu. Nguồn gốc có thể từ: độc tố môi trường, cắn của sinh vật độc hại, hoặc vũ khí độc hại.\nTích tụ độc tố là nguy hiểm, ngay cả liều thấp cũng có thể gây ung thư.\n\nNếu sinh vật chết do tích tụ độc tố, có thể dẫn đến việc không thể tiêu thụ được, càng nhiều độc tố tích tụ thì khả năng không thể tiêu thụ càng cao.</ToxicBuildup.description>
+	<ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} có dấu hiệu sớm của việc tích tụ độc tố. Hãy giữ {PAWN_objective} xa nguồn độc.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+	<ToxicBuildup.stages.initial-0.label>Nhẹ</ToxicBuildup.stages.initial-0.label>
+	<ToxicBuildup.stages.initial-1.label>Nhẹ</ToxicBuildup.stages.initial-1.label>
+	<ToxicBuildup.stages.minor.label>Khá nhẹ</ToxicBuildup.stages.minor.label>
+	<ToxicBuildup.stages.moderate.label>Vừa phải</ToxicBuildup.stages.moderate.label>
+	<ToxicBuildup.stages.serious.label>Nghiêm trọng</ToxicBuildup.stages.serious.label>
+	<ToxicBuildup.stages.extreme.label>Cực kỳ nghiêm trọng</ToxicBuildup.stages.extreme.label>
+</LanguageData>

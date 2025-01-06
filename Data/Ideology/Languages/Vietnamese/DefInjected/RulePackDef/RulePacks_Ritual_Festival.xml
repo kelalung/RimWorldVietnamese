@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerFestivalGlobal.rulePack.rulesStrings>
+<li>festivalName(p=2)-&gt;[memeAdjective][festival]</li>
+    <li>festivalName-&gt;[chosenTheme][festival]</li>
+    <li>festivalName-&gt;[chosenAdjective][festival]</li>
+    <li>festivalName-&gt;[keyDeity][festival]</li>
+    <li>festivalName-&gt;[keyDeity][festival]</li>
+    <li>festivalName-&gt;[memeConcept] [festival]</li>
+    <li>festivalName-&gt;[chosenIdeoName][festival]</li>
+    <li>festival-&gt;Ngày</li>
+    <li>festival-&gt;Lễ hội</li>
+    <li>festival-&gt;Tiệc tùng</li>
+    <li>festival-&gt;Ngày lễ</li>
+    <li>festival-&gt;Ngày</li>
+    <li>festival-&gt;Lễ hội</li>
+    <li>festival-&gt;Ngày</li>
+  </NamerFestivalGlobal.rulePack.rulesStrings>
+  <NamerRitualFestival.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[festivalName]</li>
+  </NamerRitualFestival.rulePack.rulesStrings>
+</LanguageData>

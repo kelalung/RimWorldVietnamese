@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CentipedeBurner.label>Nuôi dưỡng máy côn trùng lửa</CentipedeBurner.label>
+<CentipedeBurner.description>Nuôi dưỡng một máy côn trùng trang bị đại bác địa ngục.</CentipedeBurner.description>
+<CentipedeBurner.jobString>Đang nuôi dưỡng máy móc.</CentipedeBurner.jobString>
+<CentipedeGunner.label>Nuôi dưỡng máy côn trùng bắn nhanh</CentipedeGunner.label>
+<CentipedeGunner.description>Nuôi dưỡng một máy côn trùng trang bị súng máy bắn nhanh.</CentipedeGunner.description>
+<CentipedeGunner.jobString>Đang nuôi dưỡng máy móc.</CentipedeGunner.jobString>
+<Diabolus.label>Nuôi dưỡng lãnh chúa địa ngục</Diabolus.label>
+<Diabolus.description>Nuôi dưỡng một lãnh chúa địa ngục.</Diabolus.description>
+<Diabolus.jobString>Đang nuôi dưỡng máy móc.</Diabolus.jobString>
+<Tunneler.label>Nuôi dưỡng máy đào</Tunneler.label>
+<Tunneler.description>Nuôi dưỡng một máy đào.</Tunneler.description>
+<Tunneler.jobString>Đang nuôi dưỡng máy móc.</Tunneler.jobString>
+</LanguageData>

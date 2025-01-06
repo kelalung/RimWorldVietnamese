@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RequestChangeRoyalHeir>Thay Đổi Người Thừa Kế Danh Hiệu {HOLDER_labelShort} ({TITLE}) (Hiện tại: {HEIR_labelShort})</RequestChangeRoyalHeir>
+<RequestSetRoyalHeir>Chỉ Định Người Thừa Kế Cho Danh Hiệu {HOLDER_labelShort} ({TITLE})</RequestSetRoyalHeir>
+<RequestChangeRoyalHeirAlreadyInProgress>Đang Thực Hiện Cho {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
+</LanguageData>

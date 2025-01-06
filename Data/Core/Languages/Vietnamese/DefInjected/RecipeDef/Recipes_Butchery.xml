@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ButcherCorpseFlesh.label>Thịt xác chết</ButcherCorpseFlesh.label>
+	<ButcherCorpseFlesh.description>Thịt xác chết để lấy thịt có thể sử dụng.</ButcherCorpseFlesh.description>
+	<ButcherCorpseFlesh.jobString>Đang thịt xác chết.</ButcherCorpseFlesh.jobString>
+	<ButcherCorpseMechanoid.label>Tháo dỡ cơ thể máy</ButcherCorpseMechanoid.label>
+	<ButcherCorpseMechanoid.description>Tháo dỡ cơ thể máy đã ngừng hoạt động để cố gắng lấy một số tài nguyên hữu ích.</ButcherCorpseMechanoid.description>
+	<ButcherCorpseMechanoid.jobString>Đang tháo dỡ cơ thể máy.</ButcherCorpseMechanoid.jobString>
+	<SmashCorpseMechanoid.label>Đập nát cơ thể máy</SmashCorpseMechanoid.label>
+	<SmashCorpseMechanoid.description>Sử dụng công cụ thủ công đơn giản để đập nát một cơ thể máy, cố gắng thu hồi một số vật liệu hữu ích.</SmashCorpseMechanoid.description>
+	<SmashCorpseMechanoid.jobString>Đang đập nát cơ thể máy.</SmashCorpseMechanoid.jobString>
+</LanguageData>

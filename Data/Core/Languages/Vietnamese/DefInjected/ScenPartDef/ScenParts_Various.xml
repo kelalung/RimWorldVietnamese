@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CreateIncident.label>Tạo sự kiện</CreateIncident.label>
+	<DisableIncident.label>Vô hiệu hóa sự kiện</DisableIncident.label>
+	<ForcedHediff.label>Trạng thái sức khỏe bắt buộc</ForcedHediff.label>
+	<ForcedTrait.label>Đặc điểm bắt buộc</ForcedTrait.label>
+	<GameCondition_Planetkiller.label>Vũ khí hủy diệt hành tinh đang đến</GameCondition_Planetkiller.label>
+	<GameStartDialog.label>Thông tin mở đầu</GameStartDialog.label>
+	<Naked.label>Trần trụi</Naked.label>
+	<NoPossessions.label>Không có tài sản</NoPossessions.label>
+	<OnPawnDeathExplode.label>Tự nổ khi nhân vật chết</OnPawnDeathExplode.label>
+	<PawnFilter_Age.label>Phạm vi tuổi tác</PawnFilter_Age.label>
+	<PermanentGameCondition.label>Trạng thái trò chơi vĩnh viễn</PermanentGameCondition.label>
+	<Rule_DisallowBuilding.label>Cấm xây dựng</Rule_DisallowBuilding.label>
+	<Rule_DisallowDesignator_Hunt.label>Cấm săn bắn</Rule_DisallowDesignator_Hunt.label>
+	<Rule_DisallowDesignator_Hunt.description>Cấm săn bắn.</Rule_DisallowDesignator_Hunt.description>
+	<Rule_DisallowDesignator_Mine.label>Cấm khai thác</Rule_DisallowDesignator_Mine.label>
+	<Rule_DisallowDesignator_Mine.description>Cấm khai thác đá.</Rule_DisallowDesignator_Mine.description>
+	<Rule_DisallowDesignator_Tame.label>Cấm thuần hóa</Rule_DisallowDesignator_Tame.label>
+	<Rule_DisallowDesignator_Tame.description>Cấm thuần hóa động vật.</Rule_DisallowDesignator_Tame.description>
+	<Rule_DisallowDesignator_ZoneAdd_Growing.label>Cấm trồng trọt</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+	<Rule_DisallowDesignator_ZoneAdd_Growing.description>Không thể trồng trên đất.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+	<ScatterThingsAnywhere.label>Rải rác tài nguyên trên bản đồ</ScatterThingsAnywhere.label>
+	<ScatterThingsNearPlayerStart.label>Tài nguyên xung quanh điểm khởi đầu</ScatterThingsNearPlayerStart.label>
+	<SetNeedLevel.label>Thiết lập mức độ nhu cầu</SetNeedLevel.label>
+	<StartingAnimal.label>Động vật khởi đầu</StartingAnimal.label>
+	<StartingResearch.label>Công nghệ khởi đầu</StartingResearch.label>
+	<StartingThing_Defined.label>Tài nguyên khởi đầu</StartingThing_Defined.label>
+	<StatFactor.label>Hệ số thuộc tính</StatFactor.label>
+</LanguageData>

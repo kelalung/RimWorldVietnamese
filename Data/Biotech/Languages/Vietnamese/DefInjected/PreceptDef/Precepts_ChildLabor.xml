@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChildLabor_Disapproved.label>Phản đối lao động trẻ em</ChildLabor_Disapproved.label>
+<ChildLabor_Disapproved.description>Tuổi thơ là thiêng liêng. Chúng ta nên để trẻ em chơi đùa như những đứa trẻ.</ChildLabor_Disapproved.description>
+<ChildLabor_Disapproved.comps.0.description>Trẻ em bị giao việc</ChildLabor_Disapproved.comps.0.description>
+<ChildLabor_Encouraged.label>Khuyến khích lao động trẻ em</ChildLabor_Encouraged.label>
+<ChildLabor_Encouraged.description>Trẻ em phát triển tính cách thông qua công việc. Mọi người đều cần đóng góp, điều này rất quan trọng.</ChildLabor_Encouraged.description>
+<ChildLabor_Encouraged.comps.0.description>Trẻ em được giao chơi đùa</ChildLabor_Encouraged.comps.0.description>
+</LanguageData>

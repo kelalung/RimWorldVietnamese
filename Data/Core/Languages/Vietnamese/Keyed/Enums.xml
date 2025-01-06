@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Dark>Tối</Dark>
+	<Lit>Sáng</Lit>
+	<LitBrightly>Rất sáng</LitBrightly>
+	<PriceTypeVeryCheap>Rất rẻ</PriceTypeVeryCheap>
+	<PriceTypeCheap>Rẻ</PriceTypeCheap>
+	<PriceTypeNormal>Bình thường</PriceTypeNormal>
+	<PriceTypeExpensive>Đắt</PriceTypeExpensive>
+	<PriceTypeExorbitant>Rất đắt</PriceTypeExorbitant>
+	<StoragePriorityUnstored>Không lưu trữ</StoragePriorityUnstored>
+	<StoragePriorityLow>Thấp</StoragePriorityLow>
+	<StoragePriorityNormal>Bình thường</StoragePriorityNormal>
+	<StoragePriorityPreferred>Ưu tiên</StoragePriorityPreferred>
+	<StoragePriorityImportant>Quan trọng</StoragePriorityImportant>
+	<StoragePriorityCritical>Cấp bách</StoragePriorityCritical>
+	<FoodTypeFlags_VegetableOrFruit>Rau quả</FoodTypeFlags_VegetableOrFruit>
+	<FoodTypeFlags_Meat>Thịt sống</FoodTypeFlags_Meat>
+	<FoodTypeFlags_Corpse>Xác chết</FoodTypeFlags_Corpse>
+	<FoodTypeFlags_Seed>Hạt giống</FoodTypeFlags_Seed>
+	<FoodTypeFlags_AnimalProduct>Sản phẩm động vật</FoodTypeFlags_AnimalProduct>
+	<FoodTypeFlags_Plant>Cây cối</FoodTypeFlags_Plant>
+	<FoodTypeFlags_Tree>Cây</FoodTypeFlags_Tree>
+	<FoodTypeFlags_Meal>Thức ăn nấu chín</FoodTypeFlags_Meal>
+	<FoodTypeFlags_Processed>Thức ăn chế biến</FoodTypeFlags_Processed>
+	<FoodTypeFlags_Liquor>Rượu</FoodTypeFlags_Liquor>
+	<FoodTypeFlags_Kibble>Thức ăn cho động vật</FoodTypeFlags_Kibble>
+	<QualityCategory_Awful>Kém</QualityCategory_Awful>
+	<QualityCategory_Poor>Tệ</QualityCategory_Poor>
+	<QualityCategory_Normal>Bình thường</QualityCategory_Normal>
+	<QualityCategory_Good>Tốt</QualityCategory_Good>
+	<QualityCategory_Excellent>Xuất sắc</QualityCategory_Excellent>
+	<QualityCategory_Masterwork>Kiệt tác</QualityCategory_Masterwork>
+	<QualityCategory_Legendary>Huyền thoại</QualityCategory_Legendary>
+	<QualityCategoryShort_Awful>Kém</QualityCategoryShort_Awful>
+	<QualityCategoryShort_Poor>Tệ</QualityCategoryShort_Poor>
+	<QualityCategoryShort_Normal>Bình thường</QualityCategoryShort_Normal>
+	<QualityCategoryShort_Good>Tốt</QualityCategoryShort_Good>
+	<QualityCategoryShort_Excellent>Xuất sắc</QualityCategoryShort_Excellent>
+	<QualityCategoryShort_Masterwork>Kiệt tác</QualityCategoryShort_Masterwork>
+	<QualityCategoryShort_Legendary>Huyền thoại</QualityCategoryShort_Legendary>
+	<HungerLevel_Starving>Rất đói</HungerLevel_Starving>
+	<HungerLevel_UrgentlyHungry>Rất đói</HungerLevel_UrgentlyHungry>
+	<HungerLevel_Hungry>Đói</HungerLevel_Hungry>
+	<HungerLevel_Fed>No</HungerLevel_Fed>
+	<HungerLevel_Exhausted>Rất mệt</HungerLevel_Exhausted>
+	<HungerLevel_VeryTired>Rất mệt mỏi</HungerLevel_VeryTired>
+	<HungerLevel_Tired>Mệt mỏi</HungerLevel_Tired>
+	<HungerLevel_Rested>Tràn đầy năng lượng</HungerLevel_Rested>
+	<Hilliness_Flat>Bằng phẳng</Hilliness_Flat>
+	<Hilliness_SmallHills>Đồi nhỏ</Hilliness_SmallHills>
+	<Hilliness_LargeHills>Đồi lớn</Hilliness_LargeHills>
+	<Hilliness_Mountainous>Núi</Hilliness_Mountainous>
+	<Hilliness_Impassable>Không thể vượt qua</Hilliness_Impassable>
+	<WorkshopInteractStage_CreatingItem>Tạo sản phẩm</WorkshopInteractStage_CreatingItem>
+	<WorkshopInteractStage_SubmittingItem>Nộp sản phẩm</WorkshopInteractStage_SubmittingItem>
+	<EItemUpdateStatus_k_EItemUpdateStatusInvalid>Không hợp lệ</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+	<EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Chuẩn bị dữ liệu cấu hình</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+	<EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Chuẩn bị tệp nội dung</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+	<EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Tải lên tệp nội dung</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+	<EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Tải lên tệp xem trước</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+	<EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Đang xác nhận thay đổi</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+	<ContentSource_OfficialModsFolder>Nội dung chính thức</ContentSource_OfficialModsFolder>
+	<ContentSource_ModsFolder>Tệp cục bộ</ContentSource_ModsFolder>
+	<ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+	<MedicalCareCategory_NoCare>Không có bác sĩ chăm sóc</MedicalCareCategory_NoCare>
+	<MedicalCareCategory_NoMeds>Có bác sĩ chăm sóc, không sử dụng thuốc</MedicalCareCategory_NoMeds>
+	<MedicalCareCategory_HerbalOrWorse>Cung cấp thuốc thảo dược hoặc thấp hơn</MedicalCareCategory_HerbalOrWorse>
+	<MedicalCareCategory_NormalOrWorse>Cung cấp thuốc bình thường hoặc thấp hơn</MedicalCareCategory_NormalOrWorse>
+	<MedicalCareCategory_Best>Cung cấp thuốc tốt nhất</MedicalCareCategory_Best>
+	<HostilityResponseMode_Ignore>Phớt lờ</HostilityResponseMode_Ignore>
+	<HostilityResponseMode_Attack>Phản công</HostilityResponseMode_Attack>
+	<HostilityResponseMode_Flee>Chạy trốn</HostilityResponseMode_Flee>
+	<HediffGrowthMode_Growing>Tăng nặng</HediffGrowthMode_Growing>
+	<HediffGrowthMode_Stable>Ổn định</HediffGrowthMode_Stable>
+	<HediffGrowthMode_Remission>Thuyên giảm</HediffGrowthMode_Remission>
+	<TechLevel_Animal>Thời kỳ nguyên thủy</TechLevel_Animal>
+	<TechLevel_Neolithic>Thời kỳ đồ đá mới</TechLevel_Neolithic>
+	<TechLevel_Medieval>Thời kỳ trung cổ</TechLevel_Medieval>
+	<TechLevel_Industrial>Thời kỳ công nghiệp</TechLevel_Industrial>
+	<TechLevel_Spacer>Thời kỳ không gian</TechLevel_Spacer>
+	<TechLevel_Ultra>Thời kỳ cực hạn</TechLevel_Ultra>
+	<TechLevel_Archotech>Thời kỳ siêu công nghệ</TechLevel_Archotech>
+	<PlayerPawnsArriveMethod_Standing>Cố định</PlayerPawnsArriveMethod_Standing>
+	<PlayerPawnsArriveMethod_DropPods>Thùng hàng</PlayerPawnsArriveMethod_DropPods>
+	<PawnGenerationContext_All>Tất cả nhân vật</PawnGenerationContext_All>
+	<PawnGenerationContext_PlayerStarter>Nhân vật khởi đầu của người chơi</PawnGenerationContext_PlayerStarter>
+	<PawnGenerationContext_NonPlayer>NPC</PawnGenerationContext_NonPlayer>
+	<ScreenShakeIntensity>Cường độ rung màn hình</ScreenShakeIntensity>
+	<ShowAnimalNames>Hiển thị tên động vật</ShowAnimalNames>
+	<AnimalNameDisplayMode_TameNamed>Đã thuần hóa (đã đặt tên)</AnimalNameDisplayMode_TameNamed>
+	<AnimalNameDisplayMode_TameAll>Đã thuần hóa (tất cả)</AnimalNameDisplayMode_TameAll>
+	<DotHighlightDisplayMode>Chế độ làm nổi bật</DotHighlightDisplayMode>
+	<DotHighlightDisplayMode_HighlightHostiles>Nổi bật kẻ thù</DotHighlightDisplayMode_HighlightHostiles>
+	<DotHighlightDisplayMode_HighlightAll>Nổi bật tất cả</DotHighlightDisplayMode_HighlightAll>
+	<HighlightStyleMode>Chế độ làm nổi bật</HighlightStyleMode>
+	<HighlightStyleMode_Dots>Điểm</HighlightStyleMode_Dots>
+	<HighlightStyleMode_Silhouettes>Hình bóng</HighlightStyleMode_Silhouettes>
+	<VisibleMood>Cảm xúc hiển thị</VisibleMood>
+	<VisibleMoodDesc>Nếu tùy chọn này được bật, khi nhân vật của bạn có nguy cơ bị suy sụp tinh thần, nền của khung hình trên cùng sẽ thay đổi màu sắc.</VisibleMoodDesc>
+	<ShowMechNames>Hiển thị tên cơ giới của người chơi</ShowMechNames>
+	<MechNameDisplayMode_WhileDrafted>Khi được triệu tập</MechNameDisplayMode_WhileDrafted>
+	<MechNameDisplayMode_Always>Luôn luôn</MechNameDisplayMode_Always>
+	<ShowWeaponsUnderPortrait>Hiển thị vũ khí dưới chân dung</ShowWeaponsUnderPortrait>
+	<ShowWeaponsUnderPortraitTooltip>Hiển thị vũ khí dưới hình ảnh của từng người trong hàng nhân vật ở phía trên màn hình</ShowWeaponsUnderPortraitTooltip>
+	<ShowWeapons_Always>Luôn luôn</ShowWeapons_Always>
+	<ShowWeapons_WhileDrafted>Khi được triệu tập</ShowWeapons_WhileDrafted>
+	<Celsius>Độ C</Celsius>
+	<Fahrenheit>Độ F</Fahrenheit>
+	<Kelvin>Kelvin</Kelvin>
+	<Direction8Way_North_Short>Bắc</Direction8Way_North_Short>
+	<Direction8Way_NorthEast_Short>Đông Bắc</Direction8Way_NorthEast_Short>
+	<Direction8Way_East_Short>Đông</Direction8Way_East_Short>
+	<Direction8Way_SouthEast_Short>Đông Nam</Direction8Way_SouthEast_Short>
+	<Direction8Way_South_Short>Nam</Direction8Way_South_Short>
+	<Direction8Way_SouthWest_Short>Tây Nam</Direction8Way_SouthWest_Short>
+	<Direction8Way_West_Short>Tây</Direction8Way_West_Short>
+	<Direction8Way_NorthWest_Short>Đông Bắc</Direction8Way_NorthWest_Short>
+	<DietCategory_NeverEats>Không ăn</DietCategory_NeverEats>
+	<DietCategory_Herbivorous>Ăn cỏ</DietCategory_Herbivorous>
+	<DietCategory_Dendrovorous>Ăn cây</DietCategory_Dendrovorous>
+	<DietCategory_Ovivorous>Ăn trứng</DietCategory_Ovivorous>
+	<DietCategory_Omnivorous>Ăn tạp</DietCategory_Omnivorous>
+	<DietCategory_Carnivorous>Ăn thịt</DietCategory_Carnivorous>
+	<DietCategory_NeverEats_Short>x</DietCategory_NeverEats_Short>
+	<DietCategory_Herbivorous_Short>Cỏ</DietCategory_Herbivorous_Short>
+	<DietCategory_Dendrovorous_Short>Cây</DietCategory_Dendrovorous_Short>
+	<DietCategory_Ovivorous_Short>Trứng</DietCategory_Ovivorous_Short>
+	<DietCategory_Omnivorous_Short>Tạp</DietCategory_Omnivorous_Short>
+	<DietCategory_Carnivorous_Short>Thịt</DietCategory_Carnivorous_Short>
+	<FoodPoisonCause_IncompetentCook>Đầu bếp kém</FoodPoisonCause_IncompetentCook>
+	<FoodPoisonCause_FilthyKitchen>Nhà bếp bẩn thỉu</FoodPoisonCause_FilthyKitchen>
+	<FoodPoisonCause_Rotten>Thực phẩm thối</FoodPoisonCause_Rotten>
+	<FoodPoisonCause_DangerousFoodType>Loại thực phẩm nguy hiểm</FoodPoisonCause_DangerousFoodType>
+	<PsychicDroneLevel_None>Không có</PsychicDroneLevel_None>
+	<PsychicDroneLevel_GoodMedium>Tốt trung bình</PsychicDroneLevel_GoodMedium>
+	<PsychicDroneLevel_BadLow>Xấu thấp</PsychicDroneLevel_BadLow>
+	<PsychicDroneLevel_BadMedium>Xấu trung bình</PsychicDroneLevel_BadMedium>
+	<PsychicDroneLevel_BadHigh>Xấu cao</PsychicDroneLevel_BadHigh>
+	<PsychicDroneLevel_BadExtreme>Xấu cực kỳ</PsychicDroneLevel_BadExtreme>
+	<AutomaticPauseMode_Never>Không bao giờ</AutomaticPauseMode_Never>
+	<AutomaticPauseMode_MajorThreat>Mối đe dọa lớn</AutomaticPauseMode_MajorThreat>
+	<AutomaticPauseMode_AnyThreat>Bất kỳ mối đe dọa nào</AutomaticPauseMode_AnyThreat>
+	<AutomaticPauseMode_AnyLetter>Bất kỳ sự kiện nào</AutomaticPauseMode_AnyLetter>
+	<PainCategory_LowPain>Ngứa</PainCategory_LowPain>
+	<PainCategory_MediumPain>Đau nhức</PainCategory_MediumPain>
+	<PainCategory_HighPain>Đau đớn</PainCategory_HighPain>
+	<ExtraFactionType_HomeFaction>Thành phần thuộc về</ExtraFactionType_HomeFaction>
+	<ExtraFactionType_HostFaction>Thành phần chủ</ExtraFactionType_HostFaction>
+	<ExtraFactionType_MiniFaction>Nhóm</ExtraFactionType_MiniFaction>
+	<DrugCategory>Phân loại chất gây nghiện</DrugCategory>
+	<DrugCategory_None>Không có</DrugCategory_None>
+	<DrugCategory_Medical>Y tế</DrugCategory_Medical>
+	<DrugCategory_Social>Xã hội</DrugCategory_Social>
+	<DrugCategory_Hard>Cứng</DrugCategory_Hard>
+	<DrugCategory_Any>Bất kỳ</DrugCategory_Any>
+</LanguageData>

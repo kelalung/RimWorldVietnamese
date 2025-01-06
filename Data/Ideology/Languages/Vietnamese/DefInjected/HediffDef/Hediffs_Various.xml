@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BiosculptingSickness.label>Bệnh hình thể sinh học</BiosculptingSickness.label>
+<BiosculptingSickness.description>Một trạng thái hậu quả do không hoàn thành đúng cách trong quá trình hình thể sinh học. Gây ra cảm giác buồn nôn, chóng mặt và ý thức mơ hồ.</BiosculptingSickness.description>
+<Blindfold.label>Khăn che mắt</Blindfold.label>
+<Blindfold.description>Khăn che mắt sẽ cản trở tầm nhìn của nhân vật.</Blindfold.description>
+<NeuralSupercharge.label>Tăng cường thần kinh</NeuralSupercharge.label>
+<NeuralSupercharge.description>Độ nhạy và đồng bộ thần kinh do tác động bên ngoài tăng lên. Có thể cải thiện nhận thức và khả năng học tập, nhưng cũng làm tăng tốc độ đói.</NeuralSupercharge.description>
+<TortureCrown.label>Vương miện tra tấn</TortureCrown.label>
+<TortureCrown.description>Một loại mũ như vương miện, phủ đầy những mũi nhọn ngắn. Khiến người đeo phải chịu đựng đau đớn khôn cùng.</TortureCrown.description>
+<WorkFocus.label>Tập trung làm việc</WorkFocus.label>
+<WorkFocus.description>Người này đã nhận được năng lượng từ việc tham gia một nghi lễ hoặc sự kiện. Năng lượng này giúp họ làm việc chăm chỉ hơn.</WorkFocus.description>
+</LanguageData>

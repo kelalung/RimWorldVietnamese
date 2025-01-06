@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AIPersonaCore.label>Hạt nhân nhân cách AI</AIPersonaCore.label>
+	<AIPersonaCore.description>Một bộ vi xử lý máy tính cực kỳ tiên tiến, được trang bị trí tuệ nhân tạo giống như siêu nhân. Hiện đang ở trạng thái ngủ không kết nối. Khi được lắp đặt trên một cấu trúc tàu vũ trụ phù hợp, nó sẽ trở thành bộ não với khả năng đáng kinh ngạc.</AIPersonaCore.description>
+	<ElephantTusk.label>Ngà voi</ElephantTusk.label>
+	<ElephantTusk.description>Ngà dài của voi. Rất cứng và quý giá. Mặc dù có thể gây chết người, nhưng rất khó để sử dụng như một vũ khí.</ElephantTusk.description>
+	<ElephantTusk.tools.point.label>Mũi nhọn</ElephantTusk.tools.point.label>
+	<ElephantTusk.tools.base.label>Gốc</ElephantTusk.tools.base.label>
+	<MechSerumHealer.label>Serum chữa trị cơ khí</MechSerumHealer.label>
+	<MechSerumHealer.description>Nanomechanics liều cao dùng một lần được điều chỉnh để chữa trị các tình trạng sức khỏe tiêu cực. Sau khi sử dụng trên người bị thương, nanomechanics sẽ ngay lập tức định vị và chữa trị một tình trạng sức khỏe tiêu cực nghiêm trọng nhất (vết thương, bệnh tật, v.v.). Nanomechanics thậm chí có thể chuyển đổi thành vật liệu hữu cơ, tạo thành và sửa chữa các chi thể hoặc cơ quan bị thiếu.</MechSerumHealer.description>
+	<MechSerumHealer.comps.CompUsable.useLabel>Sử dụng {0_label}</MechSerumHealer.comps.CompUsable.useLabel>
+	<MechSerumResurrector.label>Serum hồi sinh cơ khí</MechSerumResurrector.label>
+	<MechSerumResurrector.description>Nanomechanics liều cao dùng một lần được điều chỉnh để hồi sinh người chết. Sau khi sử dụng trên xác chết, nanomechanics sẽ sửa chữa các mô đã chết, mang lại sức sống cho cơ thể. Thật không may, người được hồi sinh đôi khi sẽ gặp phải tổn thương não, mù lòa hoặc các bệnh tâm thần tiến triển. Serum hoạt động tốt nhất trên xác chết tươi. Chỉ cần xác chết được bảo quản tốt, ngay cả khi đã chết lâu cũng có thể hồi sinh.\n\nNgười được hồi sinh cũng sẽ trải qua một chút mất trí nhớ hồi quy, quên một số ký ức và mối quan hệ xã hội gần đây.</MechSerumResurrector.description>
+	<MechSerumResurrector.comps.CompUsable.useLabel>Sử dụng {0_label}</MechSerumResurrector.comps.CompUsable.useLabel>
+	<TechprofSubpersonaCore.label>Hạt nhân công nghệ</TechprofSubpersonaCore.label>
+	<TechprofSubpersonaCore.description>Một hạt nhân AI nhỏ, được trang bị nhân cách phụ chuyên về giáo dục công nghệ. Sau khi sử dụng, AI sẽ ngay lập tức dạy bạn về dự án nghiên cứu mà bạn đang thực hiện. Chỉ có thể sử dụng một lần.</TechprofSubpersonaCore.description>
+	<TechprofSubpersonaCore.comps.CompUsable.useLabel>Sử dụng {0_label}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+	<ThrumboHorn.label>Gạc của Thrumbo</ThrumboHorn.label>
+	<ThrumboHorn.description>Gạc của Thrumbo, sắc bén và cứng cáp, rất quý giá trên hầu hết các thị trường. Đây là một chiến lợi phẩm thực sự, đồng thời cũng là một vũ khí cận chiến đủ để gây chết người.</ThrumboHorn.description>
+	<ThrumboHorn.tools.point.label>Đầu gạc</ThrumboHorn.tools.point.label>
+	<ThrumboHorn.tools.base.label>Gốc gạc</ThrumboHorn.tools.base.label>
+</LanguageData>

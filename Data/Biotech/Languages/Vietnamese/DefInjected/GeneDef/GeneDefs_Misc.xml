@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DarkVision.label>Thị lực ban đêm</DarkVision.label>
+<DarkVision.description>Người mang gen này có thể nhìn rõ xung quanh trong môi trường ánh sáng yếu mà không bị giảm sút tâm trạng liên quan đến bóng tối. Họ có một lớp màng phản chiếu sau võng mạc để tăng cường khả năng thu nhận ánh sáng của đồng tử.</DarkVision.description>
+<DarkVision.symbolPack.prefixSymbols.0.symbol>Thị lực ban đêm</DarkVision.symbolPack.prefixSymbols.0.symbol>
+<DarkVision.symbolPack.prefixSymbols.1.symbol>Đi đêm</DarkVision.symbolPack.prefixSymbols.1.symbol>
+<DarkVision.symbolPack.prefixSymbols.2.symbol>Ánh sáng yếu</DarkVision.symbolPack.prefixSymbols.2.symbol>
+<DarkVision.symbolPack.prefixSymbols.3.symbol>Hơi tối</DarkVision.symbolPack.prefixSymbols.3.symbol>
+<DarkVision.symbolPack.prefixSymbols.4.symbol>Tối tăm</DarkVision.symbolPack.prefixSymbols.4.symbol>
+<DarkVision.symbolPack.prefixSymbols.5.symbol>Sâu thẳm</DarkVision.symbolPack.prefixSymbols.5.symbol>
+<DarkVision.symbolPack.prefixSymbols.6.symbol>Bóng tối</DarkVision.symbolPack.prefixSymbols.6.symbol>
+<DarkVision.symbolPack.suffixSymbols.0.symbol>Bóng</DarkVision.symbolPack.suffixSymbols.0.symbol>
+<FireResistant.label>Kháng lửa</FireResistant.label>
+<FireResistant.description>Người mang gen này có tuyến mồ hôi phản ứng rất nhanh và lớp da kháng nhiệt. Họ chỉ chịu một phần tư sát thương từ lửa so với người bình thường và khó bị bắt lửa hơn.</FireResistant.description>
+<FireResistant.labelShortAdj>Chống lửa</FireResistant.labelShortAdj>
+<FireResistant.symbolPack.prefixSymbols.0.symbol>Bọt</FireResistant.symbolPack.prefixSymbols.0.symbol>
+<FireResistant.symbolPack.prefixSymbols.1.symbol>Ẩm ướt</FireResistant.symbolPack.prefixSymbols.1.symbol>
+<FireResistant.symbolPack.suffixSymbols.0.symbol>Bọt</FireResistant.symbolPack.suffixSymbols.0.symbol>
+<Inbred.label>Inbreeding</Inbred.label>
+<Inbred.description>Gen này ảnh hưởng đến khả năng sinh sản, miễn dịch và sức mạnh tinh thần của người mang nó.</Inbred.description>
+<Instability_Major.label>Mất kiểm soát tế bào</Instability_Major.label>
+<Instability_Major.description>Người mang gen này cần lượng thức ăn để sinh tồn ít hơn người bình thường, nhưng giá phải trả là khả năng sao chép tế bào của họ trở nên rất không ổn định.</Instability_Major.description>
+<Instability_Mild.label>Mất cân bằng tế bào</Instability_Mild.label>
+<Instability_Mild.description>Người mang gen này cần lượng thức ăn để sinh tồn ít hơn người bình thường, nhưng giá phải trả là khả năng sao chép tế bào của họ hơi không ổn định.</Instability_Mild.description>
+<KillThirst.label>Khao khát giết chóc</KillThirst.label>
+<KillThirst.description>Người mang gen này khao khát kết thúc mạng sống của người khác. Nếu không giết ai trong khoảng thời gian dài trong trận chiến gần, họ sẽ trở nên tức giận.</KillThirst.description>
+<KillThirst.labelShortAdj>Khao khát giết chóc</KillThirst.labelShortAdj>
+<KillThirst.symbolPack.prefixSymbols.0.symbol>Giết chóc</KillThirst.symbolPack.prefixSymbols.0.symbol>
+<KillThirst.symbolPack.prefixSymbols.1.symbol>Khao khát cái chết</KillThirst.symbolPack.prefixSymbols.1.symbol>
+<KillThirst.symbolPack.prefixSymbols.2.symbol>Giết người</KillThirst.symbolPack.prefixSymbols.2.symbol>
+<KillThirst.symbolPack.prefixSymbols.3.symbol>Thợ săn</KillThirst.symbolPack.prefixSymbols.3.symbol>
+<KillThirst.symbolPack.prefixSymbols.4.symbol>Bạo lực</KillThirst.symbolPack.prefixSymbols.4.symbol>
+<KillThirst.symbolPack.prefixSymbols.5.symbol>Ghê tởm</KillThirst.symbolPack.prefixSymbols.5.symbol>
+<KillThirst.symbolPack.prefixSymbols.6.symbol>Tiêu diệt</KillThirst.symbolPack.prefixSymbols.6.symbol>
+<KillThirst.symbolPack.suffixSymbols.0.symbol>Khao khát mạng sống</KillThirst.symbolPack.suffixSymbols.0.symbol>
+<KillThirst.symbolPack.suffixSymbols.1.symbol>Kẻ giết người</KillThirst.symbolPack.suffixSymbols.1.symbol>
+<KillThirst.symbolPack.suffixSymbols.2.symbol>Kẻ sát nhân</KillThirst.symbolPack.suffixSymbols.2.symbol>
+<KindInstinct.label>Thiện lương</KindInstinct.label>
+  <KindInstinct.description>Người mang gen này có tính cách hiền hòa và rất nghiêm túc. Họ có khả năng thấp hơn để xúc phạm người khác và khởi xướng đánh nhau, và đôi khi sẽ giao tiếp với những người xung quanh có tâm trạng thấp để cải thiện tâm trạng của họ. Họ cũng không bao giờ đánh giá người khác qua vẻ bề ngoài.</KindInstinct.description>
+<KindInstinct.labelShortAdj>Hiền lành</KindInstinct.labelShortAdj>
+<KindInstinct.symbolPack.prefixSymbols.0.symbol>Hiền lành</KindInstinct.symbolPack.prefixSymbols.0.symbol>
+<KindInstinct.symbolPack.prefixSymbols.1.symbol>Thân thiện</KindInstinct.symbolPack.prefixSymbols.1.symbol>
+<KindInstinct.symbolPack.prefixSymbols.2.symbol>Quân tử</KindInstinct.symbolPack.prefixSymbols.2.symbol>
+<KindInstinct.symbolPack.prefixSymbols.3.symbol>Hòa nhã</KindInstinct.symbolPack.prefixSymbols.3.symbol>
+<KindInstinct.symbolPack.prefixSymbols.4.symbol>Điềm tĩnh</KindInstinct.symbolPack.prefixSymbols.4.symbol>
+<KindInstinct.symbolPack.prefixSymbols.5.symbol>Mềm mại</KindInstinct.symbolPack.prefixSymbols.5.symbol>
+<KindInstinct.symbolPack.prefixSymbols.6.symbol>Hiền hòa</KindInstinct.symbolPack.prefixSymbols.6.symbol>
+<KindInstinct.symbolPack.prefixSymbols.7.symbol>Nhẹ nhàng</KindInstinct.symbolPack.prefixSymbols.7.symbol>
+<KindInstinct.symbolPack.prefixSymbols.8.symbol>Thuyết phục</KindInstinct.symbolPack.prefixSymbols.8.symbol>
+<NakedSpeed.label>Hạn chế bởi trang phục</NakedSpeed.label>
+<NakedSpeed.description>Người mang gen này di chuyển chậm hơn khi mặc quần áo, nhưng di chuyển nhanh hơn khi không mặc gì.</NakedSpeed.description>
+<Nearsighted.label>Khó nhìn xa</Nearsighted.label>
+<Nearsighted.description>Người mang gen này khó khăn trong việc nhìn rõ các vật ở xa, độ chính xác khi bắn ở khoảng cách xa bị giảm.</Nearsighted.description>
+<Nearsighted.symbolPack.prefixSymbols.0.symbol>Mù</Nearsighted.symbolPack.prefixSymbols.0.symbol>
+<Nearsighted.symbolPack.prefixSymbols.1.symbol>Mờ ảo</Nearsighted.symbolPack.prefixSymbols.1.symbol>
+<Nearsighted.symbolPack.prefixSymbols.2.symbol>Chéo mắt</Nearsighted.symbolPack.prefixSymbols.2.symbol>
+<Nearsighted.symbolPack.prefixSymbols.3.symbol>Mắt híp</Nearsighted.symbolPack.prefixSymbols.3.symbol>
+<Nearsighted.symbolPack.prefixSymbols.4.symbol>Mắt lác</Nearsighted.symbolPack.prefixSymbols.4.symbol>
+<Nearsighted.symbolPack.suffixSymbols.0.symbol>Gần mắt</Nearsighted.symbolPack.suffixSymbols.0.symbol>
+<Nearsighted.symbolPack.suffixSymbols.1.symbol>Mắt híp</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+<PollutionRush.label>Kích thích ô nhiễm</PollutionRush.label>
+<PollutionRush.description>Người mang gen này nhận được sự gia tăng hợp chất khi tiếp xúc với môi trường ô nhiễm, giúp họ di chuyển nhanh hơn và tư duy rõ ràng hơn. Một gen tương tự có thể được tìm thấy ở những sinh vật biến đổi gen dùng trong chiến đấu.</PollutionRush.description>
+<PollutionRush.customEffectDescriptions.0>Nhận được sự gia tăng khi tiếp xúc với môi trường ô nhiễm.</PollutionRush.customEffectDescriptions.0>
+<PsychicBonding.label>Liên kết tâm linh</PsychicBonding.label>
+<PsychicBonding.description>Người mang gen này có một cơ quan thần kinh đặc biệt, cho phép họ hình thành một liên kết tâm hồn suốt đời với người yêu. Chỉ cần hai người ở bên nhau, họ sẽ luôn vui vẻ, nếu bị tách rời về mặt vật lý, họ sẽ nhận được sự giảm sút tâm trạng tùy thuộc vào khoảng cách. Nếu một trong hai người chết, người sống sót sẽ bị rối loạn tâm trí nghiêm trọng.</PsychicBonding.description>
+<PsychicBonding.customEffectDescriptions.0>Các yêu cầu lãng mạn do nhân vật này đưa ra sẽ luôn thành công.</PsychicBonding.customEffectDescriptions.0>
+<PsychicBonding.customEffectDescriptions.1>Xây dựng liên kết tâm linh với người bạn tình lãng mạn đầu tiên.</PsychicBonding.customEffectDescriptions.1>
+<RobustDigestion.label>Tiêu hóa nhanh</RobustDigestion.label>
+<RobustDigestion.description>Người mang gen này có dạ dày nhiều lớp, khả năng tiêu hóa thực phẩm sống của họ cao hơn nhiều so với người bình thường. Cụ thể: họ nhận được dinh dưỡng tương đương như khi ăn thực phẩm đã nấu chín từ việc ăn thực phẩm sống. Họ cũng không quan tâm đến hương vị của thực phẩm sống.</RobustDigestion.description>
+<RobustDigestion.symbolPack.prefixSymbols.0.symbol>Tham ăn</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.1.symbol>Ăn sống</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.2.symbol>Dạ dày bốn ngăn</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.3.symbol>Dạ dày bò</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.4.symbol>Thực phẩm sống</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.5.symbol>Nhai</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.6.symbol>Bò</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
+<RobustDigestion.symbolPack.suffixSymbols.0.symbol>Tham ăn</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
+<RobustDigestion.symbolPack.suffixSymbols.1.symbol>Miệng lớn</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
+<RobustDigestion.symbolPack.suffixSymbols.2.symbol>Người ăn</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+<RobustDigestion.symbolPack.suffixSymbols.3.symbol>Nhai to</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
+<RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>Ăn sống</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
+<RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>Người nhai</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+<RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>Ăn không ngừng</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+<StrongStomach.label>Dạ dày sắt</StrongStomach.label>
+<StrongStomach.description>Người mang gen này có một cơ quan lọc độc tố bổ sung trong dạ dày, giúp họ không bao giờ bị ngộ độc thực phẩm, bao gồm cả việc ăn thực phẩm thối rữa.</StrongStomach.description>
+<StrongStomach.symbolPack.prefixSymbols.0.symbol>Kháng độc</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+<StrongStomach.symbolPack.prefixSymbols.1.symbol>Ăn uống</StrongStomach.symbolPack.prefixSymbols.1.symbol>
+<StrongStomach.symbolPack.prefixSymbols.2.symbol>Thực phẩm</StrongStomach.symbolPack.prefixSymbols.2.symbol>
+<StrongStomach.symbolPack.prefixSymbols.3.symbol>Thỏa thích ăn uống</StrongStomach.symbolPack.prefixSymbols.3.symbol>
+<StrongStomach.symbolPack.suffixSymbols.0.symbol>Nuốt</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+<Unstoppable.label>Không thể ngăn cản</Unstoppable.label>
+<Unstoppable.description>Người mang gen này không bị giảm tốc độ do bị thương.</Unstoppable.description>
+<ViolenceDisabled.label>Không bạo lực</ViolenceDisabled.label>
+<ViolenceDisabled.description>Người mang gen này từ chối bạo lực cả về thể chất và tinh thần, họ cảm thấy hoảng sợ và kháng cự mạnh mẽ với hành động gây hại cho người khác.</ViolenceDisabled.description>
+<ViolenceDisabled.labelShortAdj>Phi bạo lực</ViolenceDisabled.labelShortAdj>
+<ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>Hòa bình</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+<ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>Điềm tĩnh</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
+<ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>Hòa hợp</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
+<ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>Người hòa bình</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
+  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>Người hòa bình</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+</LanguageData>

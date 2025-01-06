@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cassandra.label>「Cổ điển」Cassandra</Cassandra.label>
+	<Cassandra.description>Cassandra tạo ra những câu chuyện ngày càng căng thẳng và đầy thách thức. Cô ấy sẽ dựa vào một đường cong cổ điển để tạo ra các sự kiện trong câu chuyện, đầu tiên là một số sự kiện đe dọa, sau đó cho bạn một chút không gian thở, rồi lại đến một số sự kiện đe dọa.</Cassandra.description>
+	<Phoebe.label>「Kiến trúc sư」Phoebe</Phoebe.label>
+	<Phoebe.description>Phoebe sẽ cho bạn thời gian khá rộng rãi giữa hai sự kiện để bạn có thể thoải mái quản lý thuộc địa. Lưu ý: Nếu bạn chọn độ khó cao hơn, cô ấy sẽ tàn nhẫn như những người khác!</Phoebe.description>
+	<Randy.label>「Ngẫu nhiên」Randy</Randy.label>
+	<Randy.description>Randy không tuân theo bất kỳ quy tắc nào. Anh ấy sẽ tạo ra các sự kiện ngẫu nhiên mà không quan tâm đến kết quả của câu chuyện, dù là thành công lớn hay đầy tuyệt vọng, đối với anh ấy chỉ là một vở kịch.\n\nCảnh báo: Câu chuyện của Randy đầy sự ngẫu nhiên, đôi khi anh ấy sẽ tạo ra những sự kiện cực đoan hoặc những nhóm sự kiện không công bằng, làm tăng thêm tính kịch tính - những hy sinh không thể tránh khỏi.</Randy.description>
+	<Tutor.label>Hướng dẫn - Ẩn</Tutor.label>
+</LanguageData>

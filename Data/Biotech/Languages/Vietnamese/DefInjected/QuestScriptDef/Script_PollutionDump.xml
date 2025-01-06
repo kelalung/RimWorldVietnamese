@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PollutionDump.questContentRules.rulesStrings>
+    <li>wastepacksLetterLabel-&gt;Rác đã đến</li>
+    <li>wastepacksLetterText-&gt;Rác độc hại đã được gửi đến.</li>
+</PollutionDump.questContentRules.rulesStrings>
+<PollutionDump.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==True)-&gt;Một AI thông minh trên một chiếc tàu bay đang ở trên quỹ đạo đã đưa ra yêu cầu đặc biệt, cô ấy muốn dỡ bỏ lượng rác độc hại thừa và hy vọng bạn có thể quản lý chúng một cách có trách nhiệm.\n\nNếu bạn đồng ý, cô ấy sẽ gửi đến [wastepackCount] gói rác độc hại qua khoang vận chuyển.\n\nNếu không được giữ đông lạnh, rác độc hại sẽ làm ô nhiễm đất đai xung quanh.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_faction_name] của [asker_royalTitleInCurrentFaction] [asker_nameFull] đã đưa ra yêu cầu đặc biệt. [asker_pronoun] đã tạo ra một lượng lớn rác độc hại mà [asker_pronoun] không muốn lưu trữ.\n\nNếu bạn đồng ý, [asker_nameDef] sẽ gửi đến [wastepackCount] gói rác độc hại qua khoang vận chuyển.\n\nNếu không được giữ đông lạnh, rác độc hại sẽ làm ô nhiễm đất đai xung quanh.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_name] của [asker_faction_leaderTitle][asker_nameFull] đã đưa ra yêu cầu đặc biệt. Có ai đó đã đổ một lượng lớn rác độc hại gần thuộc địa của [asker_pronoun] và [asker_pronoun] không thể lưu trữ chúng một cách an toàn.\n\nNếu bạn đồng ý, [asker_nameDef] sẽ gửi đến [wastepackCount] gói rác độc hại qua khoang vận chuyển.\n\nNếu không được giữ đông lạnh, rác độc hại sẽ làm ô nhiễm đất đai xung quanh.</li>
+</PollutionDump.questDescriptionRules.rulesStrings>
+<PollutionDump.questNameRules.rulesStrings>
+    <li>questName-&gt;[waste][dump]</li>
+    <li>questName(askerIsNull==False)-&gt;[asker_faction_pawnSingular][waste][dump]</li>
+    <li>questName(askerIsNull==False,asker_royalInCurrentFaction==False)-&gt;[asker_nameDef] của [waste][dump]</li>
+    <li>waste-&gt;Chất thải</li>
+    <li>waste-&gt;Ô nhiễm</li>
+    <li>waste-&gt;Độc tố</li>
+    <li>waste-&gt;Rác thải</li>
+    <li>dump-&gt;Đổ</li>
+    <li>dump-&gt;Thả hàng</li>
+    <li>dump-&gt;Dọn dẹp</li>
+    <li>dump-&gt;Vấn đề</li>
+</PollutionDump.questNameRules.rulesStrings>
+</LanguageData>

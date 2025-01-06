@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ManhunterOnDamageChance.headerTip>Xác suất phản công khi sinh vật bị thương.\n\nXác suất này sẽ tăng gấp ba lần nếu kẻ tấn công quá gần.\n\nMỗi lần bị thương, xác suất này sẽ có hiệu lực. Điều này có nghĩa là vũ khí có tốc độ bắn chậm, sát thương cao sẽ khó kích hoạt phản công hơn khi săn bắn.</ManhunterOnDamageChance.headerTip>
+	<ManhunterOnTameFailChance.headerTip>Xác suất phản công của sinh vật khi người thuần hóa thất bại trong việc thuần hóa.</ManhunterOnTameFailChance.headerTip>
+</LanguageData>

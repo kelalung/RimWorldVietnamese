@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Centurion.label>Trung úy máy móc</Mech_Centurion.label>
+<Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Mech_Centurion.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+<Mech_Centurion.corePart.parts.front_left_leg.customLabel>Chân trước trái</Mech_Centurion.corePart.parts.front_left_leg.customLabel>
+<Mech_Centurion.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>Chân trước trái</Mech_Centurion.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+<Mech_Centurion.corePart.parts.front_right_leg.customLabel>Chân trước phải</Mech_Centurion.corePart.parts.front_right_leg.customLabel>
+<Mech_Centurion.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>Chân trước phải</Mech_Centurion.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+<Mech_Centurion.corePart.parts.rear_left_leg.customLabel>Chân sau trái</Mech_Centurion.corePart.parts.rear_left_leg.customLabel>
+<Mech_Centurion.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>Chân sau trái</Mech_Centurion.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+<Mech_Centurion.corePart.parts.rear_right_leg.customLabel>Chân sau phải</Mech_Centurion.corePart.parts.rear_right_leg.customLabel>
+<Mech_Centurion.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>Chân sau phải</Mech_Centurion.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+<Mech_Centurion.corePart.parts.bulb_turret.customLabel>Tháp pháo hình cầu</Mech_Centurion.corePart.parts.bulb_turret.customLabel>
+<Mech_Diabolus.label>Quỷ dữ</Mech_Diabolus.label>
+<Mech_Diabolus.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Mech_Diabolus.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Mech_Diabolus.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Mech_Diabolus.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Mech_Diabolus.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Mech_Diabolus.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Mech_Diabolus.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Mech_Diabolus.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+<Mech_Diabolus.corePart.parts.bulb_turret.customLabel>Tháp pháo hình cầu</Mech_Diabolus.corePart.parts.bulb_turret.customLabel>
+<Mech_Warqueen.label>Nữ hoàng chiến tranh</Mech_Warqueen.label>
+<Mech_Warqueen.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Mech_Warqueen.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Mech_Warqueen.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Mech_Warqueen.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Mech_Warqueen.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Mech_Warqueen.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Mech_Warqueen.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Mech_Warqueen.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Mech_Warqueen.corePart.parts.bulb_turret.customLabel>Tháp pháo hình cầu</Mech_Warqueen.corePart.parts.bulb_turret.customLabel>
+</LanguageData>

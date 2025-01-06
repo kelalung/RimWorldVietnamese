@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ManualPriorities>Tùy chỉnh ưu tiên</ManualPriorities>
+	<HigherPriority>Ưu tiên cao</HigherPriority>
+	<LowerPriority>Ưu tiên thấp</LowerPriority>
+	<RelevantSkills>Kỹ năng liên quan: {0}\nCấp độ kỹ năng (trung bình): {1}</RelevantSkills>
+	<ClickToJumpTo>Nhấn để chuyển đến: </ClickToJumpTo>
+	<CannotDoThisWork>{1_labelShort} không thể thực hiện loại công việc này.</CannotDoThisWork>
+	<NoneBrackets>（Không có）</NoneBrackets>
+	<IncapableOfWorkTypeBecauseOfCapacities>Người định cư này không thể thực hiện loại công việc này vì lý do sức khỏe.</IncapableOfWorkTypeBecauseOfCapacities>
+	<EmergencyWorkMarker>Cấp bách</EmergencyWorkMarker>
+	<SelectedWorkTypeWithVeryBadSkill>Cảnh báo: Cấp độ kỹ năng liên quan rất thấp.</SelectedWorkTypeWithVeryBadSkill>
+	<PriorityOneDoneFirst>Ưu tiên 1 hoàn thành trước. Ưu tiên 4 để lại sau cùng.</PriorityOneDoneFirst>
+	<Priority0>Không cho phép</Priority0>
+	<Priority1>Ưu tiên cao nhất</Priority1>
+	<Priority2>Ưu tiên cao</Priority2>
+	<Priority3>Ưu tiên trung bình</Priority3>
+	<Priority4>Ưu tiên thấp</Priority4>
+	<PawnFactionInfo>{0}\n\nHiện tại thuộc về {1_nameDef}.\n\nNhấn để xem phe.</PawnFactionInfo>
+	<WorkDisabledByBackstory>Đã bị vô hiệu hóa do câu chuyện nền {0}</WorkDisabledByBackstory>
+	<WorkDisabledByTrait>Đã bị vô hiệu hóa do đặc điểm {0}</WorkDisabledByTrait>
+	<WorkDisabledByQuest>Đã bị vô hiệu hóa do nhiệm vụ '{0}'</WorkDisabledByQuest>
+	<Unchangeable>Không thể thay đổi</Unchangeable>
+	<ClearForcedApparel>Hủy bỏ cưỡng chế</ClearForcedApparel>
+	<ApparelForcedLower>Cưỡng chế</ApparelForcedLower>
+	<ApparelLockedLower>Khóa</ApparelLockedLower>
+	<ForcedApparel>Cưỡng chế trang phục</ForcedApparel>
+	<AssignTabEdit>Chỉnh sửa</AssignTabEdit>
+	<ManageApparelPolicies>Quản lý chính sách trang phục</ManageApparelPolicies>
+	<ManageDrugPolicies>Quản lý chính sách thuốc</ManageDrugPolicies>
+	<ManageFoodPolicies>Quản lý chính sách thực phẩm</ManageFoodPolicies>
+	<ManageReadingPolicies>Quản lý chính sách đọc sách</ManageReadingPolicies>
+	<Copy>Sao chép</Copy>
+	<Paste>Dán</Paste>
+	<AllowedArea>Khu vực cho phép hoạt động</AllowedArea>
+	<Master>Chủ</Master>
+	<PregnantIconDesc>Mang thai（{0} / {1}）</PregnantIconDesc>
+	<BondedTo>Ràng buộc với</BondedTo>
+	<SterilizeAnimal>Triệt sản động vật.</SterilizeAnimal>
+	<AnimalAlreadySterile>Động vật đã được triệt sản.</AnimalAlreadySterile>
+	<IsPredator>Loài này là động vật ăn thịt. Khi đói, chúng sẽ săn các loài nhỏ hơn — có thể bao gồm cả con người.</IsPredator>
+	<IsInMentalState>Trạng thái tinh thần hiện tại của sinh vật: {0}</IsInMentalState>
+	<Hostile>Thù địch</Hostile>
+	<Ally>Đồng minh</Ally>
+	<HostileLower>Thù địch</HostileLower>
+	<AllyLower>Đồng minh</AllyLower>
+	<DefeatedLower>Bị đánh bại</DefeatedLower>
+	<HostileTo>Thù địch với các phe: {0}</HostileTo>
+	<EnemyOf>Phe thù địch:</EnemyOf>
+	<RecentEvents>Sự kiện gần đây</RecentEvents>
+	<OngoingEvents>Sự kiện đang diễn ra</OngoingEvents>
+	<CurrentGoodwillTip_PermanentEnemy>Phe này là kẻ thù vĩnh viễn. Họ sẽ tấn công khu định cư và đoàn người của bạn. Mối quan hệ với họ sẽ không bao giờ cải thiện vì bất kỳ lý do gì.</CurrentGoodwillTip_PermanentEnemy>
+	<CurrentGoodwillTip_Ally>Phe này là đồng minh. Họ sẽ gửi chiến binh giúp đỡ bạn khi có thể. Nếu mối quan hệ giảm xuống dưới {0}, họ sẽ trở thành trung lập.</CurrentGoodwillTip_Ally>
+	<CurrentGoodwillTip_Neutral>Phe này là trung lập. Họ sẽ tự do thương mại và giao tiếp với bạn. Nếu mối quan hệ giảm xuống dưới {0}, họ sẽ trở thành kẻ thù. Nếu mối quan hệ tăng lên trên {1}, họ sẽ trở thành đồng minh và chủ động hơn trong việc giúp đỡ bạn.</CurrentGoodwillTip_Neutral>
+	<CurrentGoodwillTip_Hostile>Phe này là thù địch. Họ sẽ tấn công khu định cư và đoàn người của bạn. Nếu mối quan hệ tăng lên trên {0}, họ sẽ trở thành trung lập.</CurrentGoodwillTip_Hostile>
+	<Friend>Bạn bè</Friend>
+	<Rival>Kẻ thù</Rival>
+	<Acquaintance>Người quen</Acquaintance>
+	<Graph>Biểu đồ thống kê</Graph>
+	<Messages>Thông điệp</Messages>
+	<Statistics>Thống kê</Statistics>
+	<SelectGraph>Chọn biểu đồ</SelectGraph>
+	<Last30Days>30 ngày gần đây</Last30Days>
+	<Last100Days>100 ngày gần đây</Last100Days>
+	<Last300Days>300 ngày gần đây</Last300Days>
+	<AllDays>Tất cả</AllDays>
+	<Value>Giá trị</Value>
+	<External>Bên ngoài</External>
+	<ShowLetters>Hiển thị thư</ShowLetters>
+	<ShowMessages>Hiển thị tin nhắn</ShowMessages>
+	<PinArchivableTip>Ghim tin nhắn này hoặc hủy ghim.\n\nKhi số lượng tin nhắn đạt giới hạn {0} tin, tin nhắn cũ nhất và không được ghim sẽ tự động bị xóa.</PinArchivableTip>
+	<NoMessages>Không có tin nhắn</NoMessages>
+	<Playtime>Tổng thời gian chơi</Playtime>
+	<Storyteller>Người kể chuyện hiện tại</Storyteller>
+	<ThisMapColonyWealthTotal>Giá trị thuộc địa (khu vực hiện tại)</ThisMapColonyWealthTotal>
+	<ThisMapColonyWealthItems>Giá trị thuộc địa (vật phẩm) (khu vực hiện tại)</ThisMapColonyWealthItems>
+	<ThisMapColonyWealthBuildings>Giá trị thuộc địa (công trình) (khu vực hiện tại)</ThisMapColonyWealthBuildings>
+	<ThisMapColonyWealthColonistsAndTameAnimals>Giá trị thuộc địa (người và động vật) (khu vực hiện tại)</ThisMapColonyWealthColonistsAndTameAnimals>
+	<NumThreatBigs>Số lần sự kiện đe dọa lớn</NumThreatBigs>
+	<NumEnemyRaids>Số lần bị tấn công bởi kẻ thù</NumEnemyRaids>
+	<ThisMapDamageTaken>Tổng số thiệt hại (khu vực hiện tại)</ThisMapDamageTaken>
+	<ColonistsKilled>Tổng số người định cư đã chết</ColonistsKilled>
+	<ColonistsLaunched>Tổng số người định cư đã vào không gian</ColonistsLaunched>
+	<Research>Nghiên cứu</Research>
+	<Study>Điều tra</Study>
+	<StudyThing>Điều tra {0}</StudyThing>
+	<Unresearched>Chưa nghiên cứu</Unresearched>
+	<Finished>Đã hoàn thành</Finished>
+	<InProgress>Đang nghiên cứu</InProgress>
+	<Locked>Chưa mở khóa</Locked>
+	<Prerequisites>Các dự án nghiên cứu trước</Prerequisites>
+	<ResearchTechprintRequirement>Yêu cầu bản vẽ nghiên cứu {0} / {1}</ResearchTechprintRequirement>
+	<InsufficientTechprintsApplied>Bản vẽ nghiên cứu đã sử dụng không đủ ({0} / {1})</InsufficientTechprintsApplied>
+	<PrerequisitesNotCompleted>Các dự án nghiên cứu trước chưa hoàn thành</PrerequisitesNotCompleted>
+	<NoProjectSelected>Không có dự án nghiên cứu nào đã kích hoạt.</NoProjectSelected>
+	<ActiveProjectPlural>Các dự án nghiên cứu đã kích hoạt</ActiveProjectPlural>
+	<ActiveProject>Dự án nghiên cứu đã kích hoạt</ActiveProject>
+	<StopResearch>Ngừng nghiên cứu</StopResearch>
+	<MissingRequiredResearchFacilities>Thiếu cơ sở nghiên cứu cần thiết</MissingRequiredResearchFacilities>
+	<RequiredResearchBench>Cần bàn nghiên cứu</RequiredResearchBench>
+	<RequiredResearchBenchFacilities>Cần cơ sở nghiên cứu</RequiredResearchBenchFacilities>
+	<ResearchCostComparison>Do cấp độ công nghệ của bạn, khối lượng công việc cơ bản của dự án {0} đã trở thành {1}.</ResearchCostComparison>
+	<ResearchTechprintsFromFactions>Các bản vẽ nghiên cứu này có thể nhận được thông qua giao dịch với các phe và nhiệm vụ:</ResearchTechprintsFromFactions>
+	<TechLevelTooLow>Cấp độ công nghệ của phe bạn là {0}, nhưng cấp độ công nghệ của dự án này là {1}. Tốc độ nghiên cứu sẽ bị giảm {2} lần.</TechLevelTooLow>
+	<UnlockedWith>Mở khóa liên kết</UnlockedWith>
+	<UnknownResearchDescription>Hoàn thành một hoặc nhiều dự án nghiên cứu trước để khám phá nó.</UnknownResearchDescription>
+	<UnknownResearch>Không xác định</UnknownResearch>
+	<FactionsTab>Phe</FactionsTab>
+	<NoFactions>Không có phe nào được biết đến</NoFactions>
+	<AvailableQuests>Nhiệm vụ có sẵn</AvailableQuests>
+	<ActiveQuests>Nhiệm vụ đang diễn ra</ActiveQuests>
+	<HistoricalQuests>Nhiệm vụ lịch sử</HistoricalQuests>
+	<NoQuestSelected>Không có nhiệm vụ nào được chọn</NoQuestSelected>
+	<AppearedDaysAgo>Xuất hiện {0} ngày trước</AppearedDaysAgo>
+	<AppearedOn>Xuất hiện vào {0}</AppearedOn>
+	<AcceptedAgo>Đã chấp nhận {0} trước</AcceptedAgo>
+	<AcceptedOn>Đã chấp nhận vào {0}</AcceptedOn>
+	<AcceptedAgoBy>{1} đã chấp nhận {0} trước</AcceptedAgoBy>
+	<AcceptedOnBy>{1} đã chấp nhận vào {0}</AcceptedOnBy>
+	<QuestExpiresIn>Hết hạn sau {0}</QuestExpiresIn>
+	<QuestExpiresOn>Hết hạn vào {0}</QuestExpiresOn>
+	<QuestAveragePawnMood>Tâm trạng trung bình của khách (trong {0} lần trước): {1}</QuestAveragePawnMood>
+	<QuestAveragePawnMoodTargets>Tâm trạng trung bình trước đây của {0}: {1}</QuestAveragePawnMoodTargets>
+	<ShuttleArrivesIn>Máy bay sẽ đến sau {0}</ShuttleArrivesIn>
+	<ShuttleArrivesOn>Máy bay sẽ đến vào {0}</ShuttleArrivesOn>
+	<ShuttleDepartsIn>Máy bay sẽ rời đi sau {0}</ShuttleDepartsIn>
+	<ShuttleDepartsOn>Máy bay sẽ rời đi vào {0}</ShuttleDepartsOn>
+	<GuestsDepartsIn>Khách sẽ rời đi sau {0}</GuestsDepartsIn>
+	<GuestsDepartsOn>Khách sẽ rời đi vào {0}</GuestsDepartsOn>
+	<QuestFinishedAgo>Đã hoàn thành {0} trước</QuestFinishedAgo>
+	<AcceptQuest>Chấp nhận nhiệm vụ</AcceptQuest>
+	<AcceptWith>{0_labelShort} đảm nhận</AcceptWith>
+	<AcceptQuestFor>Nhận nhiệm vụ cho</AcceptQuestFor>
+	<AcceptQuestForTip>Nhấn để chấp nhận nhiệm vụ này và chọn phần thưởng.</AcceptQuestForTip>
+	<QuestOutcomeInfo_OfferExpired>Yêu cầu đã hết hạn</QuestOutcomeInfo_OfferExpired>
+	<QuestOutcomeInfo_UnknownOrSuccess>Bạn đã hoàn thành nhiệm vụ này.</QuestOutcomeInfo_UnknownOrSuccess>
+	<QuestOutcomeInfo_Failed>Bạn đã không hoàn thành nhiệm vụ này.</QuestOutcomeInfo_Failed>
+	<QuestOutcomeInfo_Invalid>Nhiệm vụ này đã không còn hiệu lực trước khi được chấp nhận.</QuestOutcomeInfo_Invalid>
+	<JumpToTargetCustom>Nhảy đến {0}</JumpToTargetCustom>
+	<SelectHiveTargets>Chọn tổ ong</SelectHiveTargets>
+	<QuestChallengeRatingTip>Xếp hạng thách thức. Đây là một xếp hạng độ khó tổng hợp, cho thấy nhiệm vụ này khó khăn như thế nào so với sức mạnh hiện tại của bạn. Nhiệm vụ khó hơn sẽ mang lại phần thưởng lớn hơn.\n\n1: Bình thường\n2: Khó\n3: Rất khó\n4: Tối thượng</QuestChallengeRatingTip>
+	<QuestAcceptanceRequirementsDescription>Để chấp nhận nhiệm vụ này, bạn cần</QuestAcceptanceRequirementsDescription>
+	<QuestBedroomRequirementsUnsatisfied>Phòng ngủ trống đáp ứng yêu cầu danh hiệu</QuestBedroomRequirementsUnsatisfied>
+	<QuestBedroomRequirementsUnsatisfiedSingle>Phòng ngủ trống đáp ứng yêu cầu danh hiệu</QuestBedroomRequirementsUnsatisfiedSingle>
+	<QuestThroneRoomRequirementsUnsatisfied>Phòng hội nghị đáp ứng yêu cầu danh hiệu {PAWN_definite} của {TITLE}.</QuestThroneRoomRequirementsUnsatisfied>
+	<QuestNoThroneRoom>Chỉ định một ngai vàng cho {PAWN_definite}</QuestNoThroneRoom>
+	<QuestNoColonistWithTitle>Một người định cư có danh hiệu {0}</QuestNoColonistWithTitle>
+	<QuestPawnNotOnColonyMap>{PAWN_definite} không có trong bản đồ thuộc địa chính</QuestPawnNotOnColonyMap>
+	<QuestRequiresNoDangerOnMap>Tất cả những kẻ thù thuộc phe của nhà tài trợ phải bị tiêu diệt!</QuestRequiresNoDangerOnMap>
+	<QuestCanNotStartUntilBestowingCeremonyFinished>Hoàn thành lễ phong tặng đang diễn ra</QuestCanNotStartUntilBestowingCeremonyFinished>
+	<ChooseRewards>Ưu tiên phần thưởng</ChooseRewards>
+	<ChooseRewardsDesc>Để thông báo cho các phe khác về loại phần thưởng bạn muốn nhận trong tương lai. Điều này sẽ không ảnh hưởng đến các nhiệm vụ đã được phát hành.</ChooseRewardsDesc>
+	<AcceptRoyalFavor>Chấp nhận {FACTION_royalFavorLabel}</AcceptRoyalFavor>
+	<AcceptRoyalFavorDesc>Bạn có muốn nhận {FACTION_royalFavorLabel} từ {FACTION_name} không?\n\nNếu bạn tắt tùy chọn này, {FACTION_name} sẽ cung cấp các loại phần thưởng khác.\n\nTùy chọn này chỉ ảnh hưởng đến các nhiệm vụ mới được nhận.</AcceptRoyalFavorDesc>
+	<AcceptGoodwill>Chấp nhận thiện cảm</AcceptGoodwill>
+	<AcceptGoodwillDesc>Bạn có muốn cải thiện mối quan hệ với {FACTION_name} không?\n\nNếu bạn tắt tùy chọn này, {FACTION_name} sẽ cung cấp các loại phần thưởng khác.\n\nTùy chọn này chỉ ảnh hưởng đến các nhiệm vụ mới được tạo ra.</AcceptGoodwillDesc>
+	<RoyalFavorOn>Hiện tại chọn chấp nhận {FACTION_royalFavorLabel}.</RoyalFavorOn>
+	<RoyalFavorOff>Hiện tại chọn không chấp nhận {FACTION_royalFavorLabel}.</RoyalFavorOff>
+	<GoodwillTip>Mối quan hệ của bạn với {0_name} sẽ được cải thiện {1}.\n\nMối quan hệ hiện tại: {4}（{5}）.\n\nMối quan hệ được sử dụng để đo lường thái độ giữa các phe. Nếu nó giảm xuống dưới {2}, phe này sẽ trở thành kẻ thù của bạn và tấn công khu định cư và đoàn người của bạn. Nếu nó tăng lên trên {3}, phe này sẽ trở thành đồng minh của bạn và sẽ gửi chiến binh giúp đỡ bạn khi có thể. Nếu không, phe này sẽ giữ trung lập, có thể giao dịch và giao tiếp tự do với bạn.</GoodwillTip>
+	<PawnQuestReward>{0_labelShort} tham gia</PawnQuestReward>
+	<QuestBetrayalOffer>Phản bội: có {0} mục tiêu</QuestBetrayalOffer>
+	<QuestBetrayalOfferTip>{0} sẽ thưởng cho bạn vì đã giết tất cả các thành viên của {1}.</QuestBetrayalOfferTip>
+	<QuestRequiredPlayerWealth>Một thuộc địa có giá trị tối thiểu là {0}</QuestRequiredPlayerWealth>
+	<QuestAlliedTo>Liên minh với {0}</QuestAlliedTo>
+	<QuestHostileTo>Thù địch với {0}</QuestHostileTo>
+	<QuestNeutralTo>Trung lập với {0}</QuestNeutralTo>
+	<QuestRequiredThingStudied>Đã nghiên cứu {0_labelShort}</QuestRequiredThingStudied>
+	<CreatesNeed>Tạo nhu cầu</CreatesNeed>
+	<ChangeDefaults>Thay đổi cài đặt mặc định...</ChangeDefaults>
+	<ClickToEdit>Nhấn để chỉnh sửa</ClickToEdit>
+	<AssignButton>Gán</AssignButton>
+	<UnassignButton>Hủy gán</UnassignButton>
+	<BookMentalBreakChance>Xác suất suy sụp tinh thần</BookMentalBreakChance>
+	<BookJoyFactor>Hệ số tăng cường giải trí</BookJoyFactor>
+	<!--<ManageOutfits>Quản lý trang phục</ManageOutfits>
+	<ManageFoodRestrictions>Quản lý hạn chế thực phẩm</ManageFoodRestrictions>
+	<ResearchPrerequisites>Các yêu cầu nghiên cứu trước</ResearchPrerequisites>-->
+</LanguageData>

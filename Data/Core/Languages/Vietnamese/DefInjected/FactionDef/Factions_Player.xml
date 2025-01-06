@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PlayerColony.label>Những người định cư mới</PlayerColony.label>
+	<PlayerColony.description>Một nhóm những người định cư vừa mới đến thế giới biên giới.</PlayerColony.description>
+	<PlayerColony.leaderTitle>Lãnh đạo</PlayerColony.leaderTitle>
+	<PlayerColony.pawnSingular>Người định cư</PlayerColony.pawnSingular>
+	<PlayerColony.pawnsPlural>Những người định cư</PlayerColony.pawnsPlural>
+	<PlayerTribe.label>Bộ lạc mới</PlayerTribe.label>
+	<PlayerTribe.description>Một bộ lạc nhỏ.</PlayerTribe.description>
+	<PlayerTribe.leaderTitle>Trưởng bộ lạc</PlayerTribe.leaderTitle>
+	<PlayerTribe.pawnSingular>Bộ lạc</PlayerTribe.pawnSingular>
+	<PlayerTribe.pawnsPlural>Bộ lạc</PlayerTribe.pawnsPlural>
+</LanguageData>

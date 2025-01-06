@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DefoliatorShipPart.label>Phần tàu vũ trụ (Héo úa)</DefoliatorShipPart.label>
+<DefoliatorShipPart.description>Một mảnh vỡ cổ đại của tàu vũ trụ không rõ nguồn gốc, có thể đã tồn tại hàng ngàn năm.\n\nMảnh vỡ này chứa một thiết bị đặc biệt có khả năng tiêu diệt thực vật xung quanh mà không ảnh hưởng đến con người và động vật. Loại vũ khí này đôi khi được rải rác xuống đồng ruộng hoặc rừng để loại bỏ nguồn cung cấp lương thực và nơi ẩn náu của kẻ thù mà không phá hủy đất đai. Chúng thường liên quan đến các lực lượng cơ khí được thả từ quỹ đạo.</DefoliatorShipPart.description>
+<PsychicDronerShipPart.label>Phần tàu vũ trụ (Tâm linh)</PsychicDronerShipPart.label>
+<PsychicDronerShipPart.description>Một mảnh vỡ cổ đại của tàu vũ trụ không rõ nguồn gốc, có thể đã tồn tại hàng ngàn năm.\n\nMảnh vỡ này chứa một thiết bị gây rối tâm linh. Nhờ vào công nghệ siêu phàm không thể hiểu nổi, nó có thể phát ra tín hiệu tâm linh đặc biệt khiến những người và động vật xung quanh phát điên.</PsychicDronerShipPart.description>
+<ShipChunk.label>Mảnh vỡ tàu vũ trụ</ShipChunk.label>
+<ShipChunk.description>Một phần của tàu vũ trụ, có vẻ như đã bị ảnh hưởng bởi lực hấp dẫn hoặc bị tấn công bởi một số vũ khí và rơi xuống.\n\nNó vừa mới rơi xuống, có thể tháo ra những vật liệu hữu ích.</ShipChunk.description>
+<Shuttle.label>Tàu con thoi</Shuttle.label>
+<Shuttle.description>Một tàu con thoi không gian dùng để di chuyển giữa bề mặt và quỹ đạo hoặc giữa vệ tinh và hành tinh.</Shuttle.description>
+<ShuttleCrashed.label>Tàu con thoi bị rơi</ShuttleCrashed.label>
+<ShuttleCrashed.description>Một tàu con thoi không gian dùng để di chuyển giữa bề mặt và quỹ đạo hoặc giữa vệ tinh và hành tinh.</ShuttleCrashed.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BondedThoughtCalm.stages.s_calm_thoughts.label>Sự Bình Yên Của {WEAPON}</BondedThoughtCalm.stages.s_calm_thoughts.label>
+<BondedThoughtCalm.stages.s_calm_thoughts.description>Vũ khí liên kết của tôi {WEAPON} đang thì thầm những bí mật bình yên vào tai tôi.</BondedThoughtCalm.stages.s_calm_thoughts.description>
+<BondedThoughtKind.stages.s_kind_thoughts.label>Sự Dịu Dàng Của {WEAPON}</BondedThoughtKind.stages.s_kind_thoughts.label>
+<BondedThoughtKind.stages.s_kind_thoughts.description>Vũ khí liên kết của tôi {WEAPON} đang truyền đạt hạnh phúc đến tôi.</BondedThoughtKind.stages.s_kind_thoughts.description>
+<BondedThoughtMuttering.stages.s_muttering.label>Những Lời Thì Thầm Của {WEAPON}</BondedThoughtMuttering.stages.s_muttering.label>
+<BondedThoughtMuttering.stages.s_muttering.description>Vũ khí liên kết của tôi {WEAPON} đang lảm nhảm trong đầu tôi, thật khó để bỏ qua.</BondedThoughtMuttering.stages.s_muttering.description>
+<BondedThoughtWailing.stages.s_wailing.label>Tiếng Than Khóc Của {WEAPON}</BondedThoughtWailing.stages.s_wailing.label>
+<BondedThoughtWailing.stages.s_wailing.description>Vũ khí liên kết của tôi {WEAPON} đang gào thét điên cuồng trong tâm trí tôi, tôi thật sự mong có thể bỏ qua nó.</BondedThoughtWailing.stages.s_wailing.description>
+<JealousRage.stages.s_jealousy.label>Sự Ghen Tị Của {WEAPON}</JealousRage.stages.s_jealousy.label>
+<JealousRage.stages.s_jealousy.description>Vũ khí liên kết của tôi {WEAPON} cảm thấy ghen tị khi tôi sử dụng vũ khí khác, tôi có thể cảm nhận được tiếng thét giận dữ trong tâm trí nó.</JealousRage.stages.s_jealousy.description>
+<KillThirst_Weapon.stages.s_kill_thirst.label>Sự Khát Khao Giết Chóc Của {WEAPON}</KillThirst_Weapon.stages.s_kill_thirst.label>
+<KillThirst_Weapon.stages.s_kill_thirst.description>Vũ khí liên kết của tôi {WEAPON} đang bùng nổ cơn giận dữ, nó đã lâu không được giết chóc. Tôi có thể cảm nhận được sự kích động của nó.</KillThirst_Weapon.stages.s_kill_thirst.description>
+<OnKill_BadThought.stages.s_kill_sorrow.label>Sự Đau Khổ Của {WEAPON}</OnKill_BadThought.stages.s_kill_sorrow.label>
+<OnKill_BadThought.stages.s_kill_sorrow.description>{WEAPON} cảm thấy buồn vì những cái chết mà nó gây ra, điều này cũng ảnh hưởng đến tôi.</OnKill_BadThought.stages.s_kill_sorrow.description>
+<OnKill_GoodThought.stages.s_kill_happiness.label>Sự Vui Mừng Của {WEAPON}</OnKill_GoodThought.stages.s_kill_happiness.label>
+<OnKill_GoodThought.stages.s_kill_happiness.description>{WEAPON} vui mừng với những cái chết của nó, tôi cũng cảm nhận được niềm vui tương tự.</OnKill_GoodThought.stages.s_kill_happiness.description>
+</LanguageData>

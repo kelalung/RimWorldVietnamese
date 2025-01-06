@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Plant_Brambles.label>Bụi gai</Plant_Brambles.label>
+<Plant_Brambles.description>Bụi nhỏ có nhiều lá và gai. Đi qua sẽ làm giảm tốc độ một chút.</Plant_Brambles.description>
+<Plant_Bush.label>Bụi cây</Plant_Bush.label>
+<Plant_Bush.description>Bụi cây thấp. Không giống như bụi cây, nó không thích nói chuyện.</Plant_Bush.description>
+<Plant_Grass.label>Cỏ</Plant_Grass.label>
+<Plant_Grass.description>Cỏ dại, sẽ mọc lên ở những nơi có một chút ánh sáng và đất.</Plant_Grass.description>
+<Plant_HealrootWild.label>Cây thuốc hoang dã</Plant_HealrootWild.label>
+<Plant_HealrootWild.description>Loài thực vật phát triển chậm, có thể thu hoạch thảo dược.\n\nLoài thuốc hoang dã này rất khó trồng. Được các bộ lạc coi trọng ở những vùng lạnh hơn.</Plant_HealrootWild.description>
+<Plant_TallGrass.label>Cỏ cao</Plant_TallGrass.label>
+<Plant_TallGrass.description>Cỏ dại cao. Đi qua sẽ làm giảm tốc độ rõ rệt.</Plant_TallGrass.description>
+</LanguageData>

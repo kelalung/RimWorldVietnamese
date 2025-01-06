@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>Không có động vật</Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>Chúng tôi hoàn toàn không có động vật! Đây chính là điều tôi phản đối.</Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>
+<Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>Hầu như không có động vật</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>Động vật trong thuộc địa quá ít. Chúng tôi thậm chí còn chưa gần đến việc sống đúng cách.</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>
+<Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>Động vật rất ít</Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>Động vật trong thuộc địa rất ít, điều này không đúng.</Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>
+<Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>Có một số động vật</Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>Nuôi một số động vật là điều tốt, tất nhiên càng nhiều càng tốt.</Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>
+<Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>Có rất nhiều động vật</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>Thật tuyệt khi chúng tôi nuôi rất nhiều động vật, và nếu có thêm thì cũng không sao.</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>
+<Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>Động vật rất đông</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>
+<Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>Trang trại của chúng tôi đang phát triển mạnh, đây là cách đúng đắn.</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>
+<Ranching_SowedPlant.stages.sowed_human_food_plant.label>Trồng thực vật có thể ăn được</Ranching_SowedPlant.stages.sowed_human_food_plant.label>
+<Ranching_SowedPlant.stages.sowed_human_food_plant.description>Tôi đã trồng một loại thực vật có thể ăn được. Điều này là sai - con người nên ăn động vật, và động vật nên ăn thực vật tự nhiên.</Ranching_SowedPlant.stages.sowed_human_food_plant.description>
+</LanguageData>

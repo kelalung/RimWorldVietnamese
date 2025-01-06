@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MeleeWeapon_BreachAxe.label>Rìu phá tường</MeleeWeapon_BreachAxe.label>
+	<MeleeWeapon_BreachAxe.description>Vũ khí kết hợp lưỡi sắc và đầu công cụ trên một tay cầm chắc chắn. Mặc dù khả năng sát thương đối với kẻ thù sinh học không bằng các vũ khí khác, nhưng có thể phá hủy nhanh chóng và hiệu quả các cấu trúc như tường và cửa.</MeleeWeapon_BreachAxe.description>
+	<MeleeWeapon_BreachAxe.tools.handle.label>Tay cầm</MeleeWeapon_BreachAxe.tools.handle.label>
+	<MeleeWeapon_BreachAxe.tools.head.label>Đầu rìu</MeleeWeapon_BreachAxe.tools.head.label>
+</LanguageData>

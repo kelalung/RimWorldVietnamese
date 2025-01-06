@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnyMechanitor>Ngẫu nhiên Kỹ sư máy móc</AnyMechanitor>
+<BossgroupWarningDialog>Gọi {LEADERKIND_label} sẽ thu hút các máy móc thù địch sau:\n\n{PAWNS}\n\nCác máy móc này sẽ đến trong vài giờ hoặc vài ngày tới. Bạn đã sẵn sàng để chiến đấu chưa?</BossgroupWarningDialog>
+<MechControllerDowned>{PAWN_labelShort} không thể hành động.</MechControllerDowned>
+<MechControllerImprisoned>{PAWN_labelShort} là tù nhân.</MechControllerImprisoned>
+<MechControllerInsideContainer>{PAWN_labelShort} ở trong {CONTAINER}</MechControllerInsideContainer>
+<MechControllerInsufficientBandwidth>{PAWN_labelShort} thiếu băng thông</MechControllerInsufficientBandwidth>
+<MechControllerMentalState>{PAWN_labelShort} đã rơi vào trạng thái “{MENTALSTATE_label}”.</MechControllerMentalState>
+<ConfirmDisassemblingMech>Bạn có chắc chắn muốn tháo rời {0} vĩnh viễn không?\n\nTháo rời {0} sẽ thu hồi</ConfirmDisassemblingMech>
+<ConfirmInstallMechlink_Smithing>Một kỹ sư máy móc phải có khả năng “rèn” để phát triển máy móc.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmInstallMechlink_Smithing>
+<ConfirmInstallMechlink_Intellectual>Một kỹ sư máy móc phải có khả năng “rèn” để mở khóa các dự án nghiên cứu liên quan đến máy móc.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmInstallMechlink_Intellectual>
+<InsufficientBandwidth>Thiếu băng thông</InsufficientBandwidth>
+<MechanitorLeftMapWithoutMechs>Các máy móc sau đã bị {PAWN_labelShort} bỏ lại:\n\n{MECHS}\n\nCác máy móc này sẽ ở lại đây cho đến khi chúng được tiếp quản.\n\nBạn có muốn thiết lập chế độ hành động của chúng thành bảo vệ để chúng theo {PAWN_labelShort} rời khỏi bản đồ không?</MechanitorLeftMapWithoutMechs>
+<ApparelRequirementAnyMechlordApparel>Bất kỳ trang phục nào của Mechlord</ApparelRequirementAnyMechlordApparel>
+<ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>Hoặc bất kỳ trang phục nào của Psycaster, quý tộc hoặc Mechlord</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+<GestationCyclesCompleted>Chu kỳ phát triển đã hoàn thành</GestationCyclesCompleted>
+<FormerIngredients>Nguyên liệu đã thu thập</FormerIngredients>
+<ConfirmRipscanPawn>Quét phân rã {PAWN_nameDef} sẽ giết chết {PAWN_objective}. Bạn có chắc chắn muốn tiếp tục không?</ConfirmRipscanPawn>
+<ConfirmCancelRipscan>Hủy quét phân rã vẫn sẽ giết chết {PAWN_nameDef}. Bạn có chắc chắn muốn tiếp tục không?</ConfirmCancelRipscan>
+<AssembleGenes>Lắp ráp gen</AssembleGenes>
+<CreateXenotype>Tạo hình thái ngoại lai</CreateXenotype>
+<SelectIcon>Chọn biểu tượng</SelectIcon>
+<SelectIconDesc>Biểu tượng của hình thái ngoại lai.</SelectIconDesc>
+<InspectGenesDesc>Kiểm tra gen trong {0_labelShort}.</InspectGenesDesc>
+<InspectGenesHediffDesc>Kiểm tra gen của thai nhi.</InspectGenesHediffDesc>
+<InspectGenesEmbryoDesc>Kiểm tra gen của phôi thai.</InspectGenesEmbryoDesc>
+<NoGenePacks>Không có gen nào</NoGenePacks>
+<StartCombining>Bắt đầu kết hợp</StartCombining>
+<SelectedGenepacks>Gen đã chọn</SelectedGenepacks>
+<GenepackLibrary>Thư viện gen</GenepackLibrary>
+<ClickToAddOrRemove>Nhấp để thêm hoặc xóa</ClickToAddOrRemove>
+<ClickToAdd>Nhấp để thêm</ClickToAdd>
+<ClickToRemove>Nhấp để xóa</ClickToRemove>
+<SelectXenogerm>Chọn phôi ngoại lai</SelectXenogerm>
+<WarningPawnWillDieFromReimplanting>Cảnh báo: Gen của {PAWN_nameDef} đang được tái cấu trúc. Nếu {PAWN_pronoun} cấy ghép phôi ngoại lai trước khi gen của {PAWN_possessive} hoàn toàn tái cấu trúc, điều này sẽ dẫn đến cái chết của {PAWN_objective}.\n\nBạn có chắc chắn muốn tiếp tục không?</WarningPawnWillDieFromReimplanting>
+<NotEnoughArchites>Không đủ viên nang siêu nhiên.</NotEnoughArchites>
+<XenogenesDesc>Gen ngoại lai đến từ bộ gen của phôi ngoại lai được cấy ghép. Nếu phôi ngoại lai bị loại bỏ hoặc thay thế, các gen tương ứng cũng sẽ biến mất. Do gen ngoại lai không phải là một phần của DNA dòng giống của sinh vật, chúng sẽ không di truyền cho thế hệ sau.</XenogenesDesc>
+<EndogenesDesc>Gen nội sinh là gen di truyền tự nhiên, tồn tại trong từng tế bào của sinh vật mà không cần hỗ trợ bên ngoài. Chúng được di truyền từ cha mẹ sang con cái.</EndogenesDesc>
+<MemberXenotypeChances>Các thành viên hình thái ngoại lai</MemberXenotypeChances>
+<XenotypeName>Tên hình thái ngoại lai</XenotypeName>
+<LockNameButtonDesc>Khóa hoặc mở khóa tên của hình thái ngoại lai. Khi khóa, tên sẽ không tự động tạo lại khi thêm hoặc xóa gen.</LockNameButtonDesc>
+<LockNameOn>Tên hình thái ngoại lai đã bị khóa. Khi thêm hoặc xóa gen, tên sẽ không được tạo lại.</LockNameOn>
+<LockNameOff>Tên hình thái ngoại lai đã được mở khóa. Khi thêm hoặc xóa gen, tên sẽ được tạo lại.</LockNameOff>
+<CreatingXenogerm>Đang tạo phôi ngoại lai</CreatingXenogerm>
+<GenepackUnusableGenebankUnpowered>Gen này được lưu trong một ngân hàng gen không có điện. Nếu thêm, việc xây dựng phôi ngoại lai sẽ bị tạm dừng cho đến khi có điện trở lại.</GenepackUnusableGenebankUnpowered>
+<GeneProcessorUnpowered>Độ phức tạp di truyền của phôi ngoại lai này vượt quá khả năng của bộ lắp ráp gen và bộ xử lý gen gần đó có điện.</GeneProcessorUnpowered>
+<RecombineDuration>Thời gian tái kết hợp dự kiến</RecombineDuration>
+<RecombineDurationDesc>Một công nhân có trình độ trung bình mất bao lâu để kết hợp các gen đã chọn thành phôi ngoại lai. Thời gian tái kết hợp tăng lên theo độ phức tạp tổng thể của bộ gen trong phôi ngoại lai.</RecombineDurationDesc>
+<MustResearchProject>Bạn phải nghiên cứu {0_label} trước khi có thể lắp ráp phôi ngoại lai bằng viên nang siêu nhiên.</MustResearchProject>
+<AssemblingRequiresResearch>Lắp ráp phôi ngoại lai bằng viên nang siêu nhiên yêu cầu nghiên cứu {0_label}.</AssemblingRequiresResearch>
+<ConfirmStartNewXenogerm>Bạn đang tái kết hợp một phôi ngoại lai {XENOGERMNAME}. Nếu bắt đầu tái kết hợp một phôi ngoại lai mới, phôi ngoại lai hiện tại sẽ bị hủy bỏ.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmStartNewXenogerm>
+<SelectAGeneToRandomizeName>Ít nhất hãy chọn một bộ gen để ngẫu nhiên một tên cho hình thái ngoại lai này.</SelectAGeneToRandomizeName>
+<SelectAGeneToChooseAName>Ít nhất hãy chọn một bộ gen để chọn một tên cho hình thái ngoại lai này.</SelectAGeneToChooseAName>
+<InspectGenes>Kiểm tra gen</InspectGenes>
+<InspectBabyGenes>Kiểm tra gen của trẻ sơ sinh</InspectBabyGenes>
+<NoXenogermImplanted>Chưa cấy ghép phôi ngoại lai</NoXenogermImplanted>
+<Endogenes>Gen nội sinh</Endogenes>
+<Xenogenes>Gen ngoại lai</Xenogenes>
+<Overridden>Đã ghi đè</Overridden>
+<OverriddenByGene>Được ghi đè bởi gen</OverriddenByGene>
+<OverriddenByIdenticalGene>Được ghi đè bởi gen giống hệt</OverriddenByIdenticalGene>
+<MoreInfoInInfoScreen>Thêm thông tin có thể tìm thấy trong giao diện thông tin của hình thái ngoại lai này.</MoreInfoInInfoScreen>
+<TakesEffectAfterAge>Tuổi có hiệu lực</TakesEffectAfterAge>
+<XenotypeEditor>Sửa hình thái ngoại lai</XenotypeEditor>
+<AnyNonArchite>Ngẫu nhiên (không có bộ gen siêu nhiên)</AnyNonArchite>
+<SelectedGenes>Gen đã chọn</SelectedGenes>
+<Custom>Tùy chỉnh</Custom>
+<Hybrid>Hỗn hợp</Hybrid>
+<GenesAreInheritable>Các gen có thể di truyền</GenesAreInheritable>
+<GenesAreInheritableXenotypeDef>Hình thái ngoại lai này có thể di truyền cho thế hệ sau không.</GenesAreInheritableXenotypeDef>
+<GenesAreInheritableDesc>Tất cả các gen của hình thái ngoại lai này có thể di truyền cho thế hệ sau.</GenesAreInheritableDesc>
+<GeneWillBeRandomChosen>Đối với mỗi cá thể, một gen ngẫu nhiên trong số các gen dưới đây sẽ được chọn làm gen trội</GeneWillBeRandomChosen>
+<GeneIncompatibleDesc>Gen này không tương thích với các gen khác trong hình thái ngoại lai này. Chỉ một trong các gen này sẽ được thể hiện</GeneIncompatibleDesc>
+<GeneLeftmostActive>Trong số các gen dưới đây, gen bên trái nhất sẽ luôn có hiệu lực, các gen khác sẽ không được thể hiện</GeneLeftmostActive>
+<GeneOneActive>Trong số các gen dưới đây, chỉ một gen sẽ được thể hiện, các gen khác sẽ bị ức chế</GeneOneActive>
+<WarnChangingXenotypeWillRandomizePawn>Thay đổi hình thái ngoại lai sẽ khiến thuộc địa ngẫu nhiên thay đổi, tiếp tục không?</WarnChangingXenotypeWillRandomizePawn>
+<DeleteThisXenotype>Xóa hình thái ngoại lai này.</DeleteThisXenotype>
+<IgnoreRestrictions>Bỏ qua hạn chế</IgnoreRestrictions>
+<IgnoreRestrictionsDesc>Gen của hình thái ngoại lai được tạo ra không có giới hạn ổn định sinh học. Có thể thêm các gen yêu cầu viên nang siêu nhiên.</IgnoreRestrictionsDesc>
+<XenotypeBreaksLimits>Hình thái ngoại lai này vượt qua các giới hạn thông thường</XenotypeBreaksLimits>
+<XenotypeBreaksLimits_Archites>Nó có thể được di truyền, nhưng các gen siêu nhiên mà nó bao gồm thường sẽ không được di truyền.</XenotypeBreaksLimits_Archites>
+<XenotypeBreaksLimits_Exceeds>{STAT} là {VALUE}, vượt quá giới hạn bình thường {MAX}.</XenotypeBreaksLimits_Exceeds>
+<XenotypeBreaksLimits_Below>{STAT} là {VALUE}, thấp hơn giới hạn bình thường {MIN}.</XenotypeBreaksLimits_Below>
+<SaveAnyway>Bạn có chắc chắn muốn lưu không?</SaveAnyway>
+<IgnoreRestrictionsConfirmation>Bỏ qua hạn chế cho phép bạn vượt qua các giới hạn ổn định sinh học để tạo ra các tổ hợp gen không thể. Nó cũng cho phép bạn có được các gen siêu nhiên mạnh mẽ, điều này có thể làm cho trò chơi trở nên rất dễ dàng.\n\nBạn có chắc chắn muốn bỏ qua những hạn chế này không?</IgnoreRestrictionsConfirmation>
+<DevelopmentalAgeSelectionDesc>Các thuộc địa sẽ luôn ở trong phạm vi tuổi của giai đoạn sống này khi được tạo ra.</DevelopmentalAgeSelectionDesc>
+<XenotypeSelectionDesc>Các thuộc địa sẽ luôn mang bộ gen được xác định bởi hình thái ngoại lai này.</XenotypeSelectionDesc>
+<SaveAndApply>Lưu và áp dụng</SaveAndApply>
+<LoadCustom>Tải tùy chỉnh</LoadCustom>
+<LoadPremade>Tải trước</LoadPremade>
+<GenesConflict>Xung đột gen</GenesConflict>
+<GenesConflictDesc>{FIRST_label} và {SECOND_label}</GenesConflictDesc>
+<LoadXenogermTemplate>Tải mẫu</LoadXenogermTemplate>
+<SaveXenogermTemplate>Lưu mẫu</SaveXenogermTemplate>
+<CannotSaveXenogermTemplate>Không thể lưu mẫu nếu không có {0}.</CannotSaveXenogermTemplate>
+<XenogermTemplateSaved>Mẫu {NAME} đã được lưu</XenogermTemplateSaved>
+<MissingGenepacksForXenogerm>Mẫu {NAME} thiếu {COUNT} bộ gen.</MissingGenepacksForXenogerm>
+<MissingGenepackForXenogerm>Mẫu {NAME} thiếu bộ gen</MissingGenepackForXenogerm>
+<DeleteThisXenogerm>Xóa phôi ngoại lai này.</DeleteThisXenogerm>
+<ChooseChildOrAdult>Ít nhất chọn một trẻ em hoặc người lớn.</ChooseChildOrAdult>
+<WarningWakingInterruptsDeathrest>Đánh thức {PAWN_nameDef} trước {MINDURATION} sẽ làm gián đoạn giấc ngủ chết của {PAWN_possessive}, điều này có thể khiến {PAWN_objective} yếu đuối trong vài ngày trong thời gian hồi phục. Đánh thức sớm có nghĩa là {PAWN_nameDef} sẽ không nhận được bất kỳ lợi ích nào từ thiết bị ngủ chết. {PAWN_pronoun} đã trải qua {CURDURATION} giấc ngủ chết.\n\nBạn có chắc chắn muốn đánh thức {PAWN_nameDef} không?</WarningWakingInterruptsDeathrest>
+<NumWoundsTended>Đã băng {0} vết thương</NumWoundsTended>
+<MechWeightClass>Cấp trọng lượng</MechWeightClass>
+<MechWeightClassExplanation>Cấp độ trọng lượng của máy móc này.</MechWeightClassExplanation>
+<MechOverseer>Người giám sát của máy móc này là {0}.</MechOverseer>
+<MechWorkActivities>Loại công việc</MechWorkActivities>
+<MechWorkActivitiesExplanation>Loại công việc mà máy móc này có thể thực hiện.\n\nDanh sách dưới đây chi tiết các công việc có thể hoàn thành trong mỗi loại công việc</MechWorkActivitiesExplanation>
+<MechRechargeSettingsTitle>Cài đặt sạc</MechRechargeSettingsTitle>
+<MechRechargeSettingsExplanation>Thay đổi khi nào máy móc bắt đầu và dừng việc bổ sung năng lượng.\n\nMáy móc có năng lượng thấp hơn mức này sẽ tự động tìm một trạm sạc. Khi chúng đạt đến mức tối đa trong khoảng này, chúng sẽ dừng việc bổ sung năng lượng. Những cài đặt này chỉ áp dụng cho chế độ hành động.</MechRechargeSettingsExplanation>
+<MechWorkSkill>Cấp độ kỹ năng</MechWorkSkill>
+<MechWorkSkillDesc>Cấp độ kỹ năng của máy móc này.</MechWorkSkillDesc>
+<AnyMech>Bất kỳ máy móc nào</AnyMech>
+<AnyNonMech>Bất kỳ con người nào</AnyNonMech>
+<CaravanLacksMechMechanitorWarning>Đoàn thương mại của bạn có máy móc, nhưng không có người giám sát cho chúng. Khi bạn đến đích, quyền kiểm soát máy móc sẽ bị hạn chế.</CaravanLacksMechMechanitorWarning>
+<MechsSection>Máy móc</MechsSection>
+<RenameMech>Đổi tên máy móc</RenameMech>
+<MechGainsName>Tên của máy móc này hiện là {0}.</MechGainsName>
+<FertilizeOvumInbredChance>{FATHER_nameDef} là {MOTHER_nameDef} của {RELATION}. Do cận huyết, con cái của họ có {CHANCE} cơ hội xuất hiện bất thường di truyền.\n\nBạn có chắc chắn muốn tiếp tục không?</FertilizeOvumInbredChance>
+<ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} đã có thai. Việc cấy đặt một dụng cụ tránh thai trong giai đoạn đầu của thai kỳ sẽ chấm dứt thai kỳ.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmationPawnPregnancyTerminated>
+<ConfirmSettleNearPollution>Khu vực này gần với địa hình ô nhiễm, vì vậy sẽ xảy ra sương axit khoảng mỗi {0} ngày. Sương axit sẽ làm giảm tốc độ phát triển của thực vật, làm cho các vật phẩm tiếp xúc nhanh chóng lão hóa, và khiến mọi người không vui.</ConfirmSettleNearPollution>
+<PawnIsAway>{PAWN_nameDef} đã rời đi.</PawnIsAway>
+<PawnsHaveSameGender>{PAWN1_nameDef} và {PAWN2_nameDef} có cùng giới tính.</PawnsHaveSameGender>
+<PawnsAreSterile>{PAWN1_nameDef} và {PAWN2_nameDef} đã được triệt sản.</PawnsAreSterile>
+<PawnIsSterile>{PAWN_nameDef} đã được triệt sản.</PawnIsSterile>
+<PawnsAreInfertile>{PAWN1_nameDef} và {PAWN2_nameDef} không thể sinh sản.</PawnsAreInfertile>
+<PawnIsInfertile>{PAWN_nameDef} không thể sinh sản.</PawnIsInfertile>
+<PawnsAreTooYoung>{PAWN1_nameDef} và {PAWN2_nameDef} chưa đủ tuổi sinh sản.</PawnsAreTooYoung>
+<PawnIsTooYoung>{PAWN_nameDef} chưa đủ tuổi sinh sản.</PawnIsTooYoung>
+<PawnIsDead>{PAWN_nameDef} đã chết.</PawnIsDead>
+  <PsychicBondDistanceWillBeActive_Cryptosleep>Đưa {PAWN_nameDef} vào trạng thái ngủ đông sẽ gây áp lực lên mối liên kết tâm linh với {BOND_nameDef}, điều này sẽ tạo ra một số căng thẳng cho cả hai bên.\n\nBạn có chắc chắn muốn tiếp tục không?</PsychicBondDistanceWillBeActive_Cryptosleep>
+<PsychicBondDistanceWillBeActive_Caravan>Một người trong đoàn đang duy trì mối liên kết tâm linh với bạn đồng hành chưa tham gia. Họ sẽ cảm thấy căng thẳng do mối liên kết tâm linh tạm thời bị gián đoạn.</PsychicBondDistanceWillBeActive_Caravan>
+<Partner>Đối tác tâm linh {0_nameFull}</Partner>
+<ChooseMechAccentColor>Chọn màu sắc trang trí cho máy móc</ChooseMechAccentColor>
+<PigFactionGreetingHostile>{0} đã chửi rủa qua micro và sau đó đã ngắt kết nối.</PigFactionGreetingHostile>
+<PigFactionGreetingHostileAppreciative>{0} tức giận nháy mắt yêu cầu bạn thể hiện thiện chí, chẳng hạn như mang quà đến một khu định cư của {0_possessive} hoặc thả tự do cho tù nhân của {0_possessive} phe. Trước khi đó, {0_pronoun} không muốn nói chuyện chi tiết.\n\nVới sự khinh miệt, {0_pronoun} đã ngắt kết nối.</PigFactionGreetingHostileAppreciative>
+<PigFactionGreetingWary>{0} ho hắng chào hỏi và hỏi bạn cần làm gì.</PigFactionGreetingWary>
+<PigFactionGreetingWarm>{0} chào {NEGOTIATOR_labelShort} và hỏi {LEADER_pronoun} có thể làm gì để giúp bạn.</PigFactionGreetingWarm>
+<PigMilitaryAidSent>{0} đồng ý gửi chiến binh lợn đến giúp bạn.</PigMilitaryAidSent>
+<YttakinFactionGreetingHostile>{0} đã gào lên qua micro và sau đó ngắt kết nối.</YttakinFactionGreetingHostile>
+<YttakinFactionGreetingHostileAppreciative>{0_possessive} thở như đang gầm gừ, {0} yêu cầu bạn thể hiện thiện chí, chẳng hạn như mang quà đến một khu định cư của {0_possessive} hoặc thả tự do cho tù nhân của {0_possessive} phe. Trước khi đó, {0_pronoun} không muốn nói chuyện.\n\nVới sự gầm gừ, {0_pronoun} đã ngắt kết nối.</YttakinFactionGreetingHostileAppreciative>
+<YttakinFactionGreetingWary>{0} lầm bầm chào {NEGOTIATOR_labelShort} và hỏi tại sao bạn gọi.</YttakinFactionGreetingWary>
+<YttakinFactionGreetingWarm>{0} gửi lời chào thân thiện và hỏi {LEADER_pronoun} có thể làm gì để giúp bạn.</YttakinFactionGreetingWarm>
+<NeanderthalFactionGreetingHostile>{0} tức giận hừ một tiếng và ngắt kết nối.</NeanderthalFactionGreetingHostile>
+<NeanderthalFactionGreetingHostileAppreciative>{0} hằm hằm hừ một tiếng. Trừ khi bạn thể hiện đủ thiện chí, {0_pronoun} sẽ không làm ăn với bạn. Bạn có thể cải thiện mối quan hệ bằng cách mang quà đến một khu định cư của {0_possessive} hoặc thả tự do cho tù nhân của {0_possessive} phe.\n\n{0_pronoun} đã ngắt kết nối đột ngột.</NeanderthalFactionGreetingHostileAppreciative>
+<NeanderthalFactionGreetingWary>{0} lầm bầm chào.</NeanderthalFactionGreetingWary>
+<NeanderthalFactionGreetingWarm>{0} lầm bầm chào hỏi thân thiện đến {NEGOTIATOR_labelShort}.</NeanderthalFactionGreetingWarm>
+<MaxTier>Cấp độ tối đa</MaxTier>
+<MaxTierDesc>{PAWN_nameDef} đã tích lũy được số điểm phát triển tối đa.</MaxTierDesc>
+<ProgressToNextGrowthTier>Tiến trình đến cấp độ phát triển tiếp theo.</ProgressToNextGrowthTier>
+<ThisGrowthTier>Cấp độ phát triển hiện tại</ThisGrowthTier>
+<NextGrowthTier>Cấp độ phát triển tiếp theo</NextGrowthTier>
+<NumPassionsFromOptions>Chọn {0} sở thích từ {1} tùy chọn.</NumPassionsFromOptions>
+<NumTraitsFromOptions>Chọn {0} đặc điểm từ {1} tùy chọn.</NumTraitsFromOptions>
+<NextGrowthMomentAt>Tuổi của giai đoạn phát triển tiếp theo</NextGrowthMomentAt>
+<RoomRequirementNoBiotechBuildings>Không được có công trình sinh học</RoomRequirementNoBiotechBuildings>
+<WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>Việc hút máu từ {PAWN_nameDef} sẽ khiến {PAWN_objective} mất máu nghiêm trọng và có thể ngất xỉu.\n\nBạn có chắc chắn không?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+<WarningPawnWillDieFromBloodfeeding>Việc hút máu từ {PAWN_nameDef} sẽ dẫn đến cái chết của {PAWN_objective}.\n\nBạn có chắc chắn không?</WarningPawnWillDieFromBloodfeeding>
+<AbilityMustHaveTendableWound>{0_labelShort} phải có vết thương có thể băng bó.</AbilityMustHaveTendableWound>
+<ConfirmAbandonHomeWithColonyPawnsIncMechs>Có một số thuộc địa, động vật hoặc máy móc trong khu vực này. Bạn có chắc chắn muốn bỏ nó không?\n\nCác nhân viên, động vật và máy móc sau đây sẽ bị bỏ lại:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
+<!-- <ConfirmInstallMechlink>Kỹ sư máy móc phải có khả năng rèn để chế tạo máy móc.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmInstallMechlink> -->
+</LanguageData>

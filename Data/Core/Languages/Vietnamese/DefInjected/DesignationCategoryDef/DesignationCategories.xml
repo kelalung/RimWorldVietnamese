@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Floors.label>Sàn nhà</Floors.label>
+	<Furniture.label>Nội thất</Furniture.label>
+	<Joy.label>Giải trí</Joy.label>
+	<Misc.label>Các mục khác</Misc.label>
+	<Orders.label>Lệnh</Orders.label>
+	<Power.label>Năng lượng</Power.label>
+	<Production.label>Sản xuất</Production.label>
+	<Security.label>Bảo vệ</Security.label>
+	<Ship.label>Tàu</Ship.label>
+	<Structure.label>Cấu trúc</Structure.label>
+	<Temperature.label>Nhiệt độ</Temperature.label>
+	<Zone.label>Khu vực</Zone.label>
+</LanguageData>

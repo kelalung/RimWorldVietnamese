@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Concrete.label>Mặt đất bê tông</Concrete.label>
+	<Concrete.description>Mặt đất bê tông thô được lát. Dễ lát và chi phí thấp, nhưng khá xấu xí.</Concrete.description>
+	<GoldTile.label>Gạch vàng</GoldTile.label>
+	<GoldTile.description>Không có gì xa hoa và kiêu ngạo hơn gạch vàng. Chúng rất đắt và đẹp, nếu bạn thực sự sống trên đó, mọi người sẽ nghĩ bạn rất hợm hĩnh.</GoldTile.description>
+	<MetalTile.label>Gạch thép</MetalTile.label>
+	<MetalTile.description>Gạch thép với vẻ ngoài giống như tàu vũ trụ. Bề mặt bóng loáng giúp tăng tốc độ vệ sinh, độ sạch sẽ cao rất phù hợp cho mục đích y tế.</MetalTile.description>
+	<PavedTile.label>Gạch lát</PavedTile.label>
+	<PavedTile.description>Gạch bê tông chi phí thấp và thực dụng. Trông rất bình thường và tốc độ lát chậm.</PavedTile.description>
+	<SilverTile.label>Gạch bạc</SilverTile.label>
+	<SilverTile.description>Gạch bạc mang lại cảm giác sang trọng và tương lai, hoàn hảo cho những căn phòng sang trọng. Chúng dễ dàng vệ sinh và cũng nâng cao độ sạch sẽ của căn phòng.</SilverTile.description>
+	<SterileTile.label>Gạch vô trùng</SterileTile.label>
+	<SterileTile.description>Gạch vô trùng có chức năng tăng cường độ sạch sẽ đặc biệt. Những căn phòng siêu sạch rất thích hợp làm phòng y tế và phòng thí nghiệm. Gạch này lát rất chậm nhưng dễ dàng vệ sinh.</SterileTile.description>
+	<StrawMatting.label>Thảm rơm</StrawMatting.label>
+	<StrawMatting.description>Thảm rơm thô phù hợp cho chuồng gia súc. Chi phí thấp, ít để lại bẩn khi người và động vật đi lên.</StrawMatting.description>
+	<WoodPlankFloor.label>Sàn gỗ</WoodPlankFloor.label>
+	<WoodPlankFloor.description>Sàn gỗ trông ấm cúng như ở nhà. Dễ lát nhưng rất dễ cháy.</WoodPlankFloor.description>
+</LanguageData>

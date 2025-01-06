@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DetoxifierKidney.label>Thận giải độc</DetoxifierKidney.label>
+<DetoxifierKidney.description>Một quả thận giải độc đã được lắp đặt, có thể nhanh chóng loại bỏ các chất độc hại trong máu của người lắp đặt. Hiệu quả với độc tố môi trường, độc tố và chất độc tiêm.</DetoxifierKidney.description>
+<DetoxifierKidney.labelNoun>Thận giải độc</DetoxifierKidney.labelNoun>
+<DetoxifierLung.label>Phổi giải độc</DetoxifierLung.label>
+<DetoxifierLung.description>Một phổi giải độc đã được lắp đặt, có thể giảm hiệu quả lượng độc tố môi trường mà người lắp đặt hít vào, kéo dài thời gian sống sót của họ trong môi trường ô nhiễm. Ngoài ra, nó còn bảo vệ người lắp đặt khỏi ảnh hưởng của sương acid và bệnh phổi.</DetoxifierLung.description>
+<DetoxifierLung.labelNoun>Phổi giải độc</DetoxifierLung.labelNoun>
+</LanguageData>

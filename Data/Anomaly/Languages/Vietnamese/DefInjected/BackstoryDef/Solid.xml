@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<UnknownAdulthood.description>[PAWN_nameDef] có nguồn gốc chưa rõ ràng.</UnknownAdulthood.description>
+	<UnknownAdulthood.title>Không rõ</UnknownAdulthood.title>
+	<UnknownAdulthood.titleShort>Không rõ</UnknownAdulthood.titleShort>
+	<UnknownChildhood.description>[PAWN_nameDef] có nguồn gốc chưa rõ ràng.</UnknownChildhood.description>
+	<UnknownChildhood.title>Không rõ</UnknownChildhood.title>
+	<UnknownChildhood.titleShort>Không rõ</UnknownChildhood.titleShort>
+</LanguageData>

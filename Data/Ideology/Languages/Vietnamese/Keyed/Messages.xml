@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <MessageMustChooseIdeo>Hãy tạo hoặc chọn một hình thức văn hóa cho phái của bạn.</MessageMustChooseIdeo>
+<MessageIdeoNameCantBeEmpty>Tên hình thức văn hóa không được để trống.</MessageIdeoNameCantBeEmpty>
+<MessageIdeoIncompatiblePrecepts>{PRECEPT1} không tương thích với {PRECEPT2}.</MessageIdeoIncompatiblePrecepts>
+<MessageIdeoWarnRoleApparelOverlapsDesiredApparel>Ưu tiên trang phục {DESIREDAPPAREL} trùng lặp với yêu cầu trang phục {ROLE}.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+<DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} và yêu cầu trang phục {ROLE} có sự trùng lặp ({ROLEAPPAREL}). Điều này sẽ khiến {ROLE} không thể mặc cả trang phục ưu thích và trang phục yêu cầu cùng lúc.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+<MessageRitualMissingTarget>{PRECEPT} cần một trong những công trình này</MessageRitualMissingTarget>
+<MessageBuildingMissingRitual>{PRECEPT} cần nghi lễ liên quan.</MessageBuildingMissingRitual>
+<MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} từ chối làm điều đó vì hình thức văn hóa của {0_possessive}.</MessagePawnUnwillingToDoDueToIdeo>
+<MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} đã cố gắng giáo hóa {RECIPIENT_nameDef} thành hình thức văn hóa của {INITIATOR_possessive}. Độ công nhận của {RECIPIENT_nameDef} đã giảm từ {CERTAINTYBEFORE} xuống {CERTAINTYAFTER}. {RECIPIENT_pronoun} không hài lòng với nỗ lực giáo hóa.</MessageFailedConvertIdeoAttempt>
+<MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} đã cố gắng giáo hóa {PAWN2_nameDef} thành hình thức văn hóa của {PAWN1_possessive}. Điều này đã dẫn đến một cuộc cãi vã!</MessageFailedConvertIdeoAttemptSocialFight>
+<MessageNotEnoughMemes>Bạn phải chọn ít nhất {0} meme.</MessageNotEnoughMemes>
+<MessageTooManyMemes>Số meme đã chọn không được vượt quá {0}.</MessageTooManyMemes>
+<MessageNotEnoughStructureMemes>Bạn phải chọn một meme cấu trúc.</MessageNotEnoughStructureMemes>
+<MessageIncompatibleMemes>{0_label} và {1_label} không tương thích với nhau.</MessageIncompatibleMemes>
+<MessageNoRequiredRolePawnToBeginRitual>Cần có {0} để bắt đầu {1}.</MessageNoRequiredRolePawnToBeginRitual>
+<MessageNotEnoughSpectators>Cần ít nhất {0} khán giả để khởi động {1}.</MessageNotEnoughSpectators>
+<MessageRoleChangeChooseDifferentRole>Bạn phải chọn một vị trí khác.</MessageRoleChangeChooseDifferentRole>
+<MessageNeedAssignedRoleToBeginRitual>Phải có người được phân công cho vị trí {0} trước khi bắt đầu {1}.</MessageNeedAssignedRoleToBeginRitual>
+<MessageNeedAtLeastOneParticipantOfIdeo>Cần ít nhất một {0} tham gia</MessageNeedAtLeastOneParticipantOfIdeo>
+<MessageRoleAssigned>{0_labelShort} hiện có vị trí {1}.</MessageRoleAssigned>
+<MessageRoleUnassignedPrisoner>Do {0_labelShort} trở thành tù nhân, {0_pronoun} không còn có thể giữ vị trí {1}.</MessageRoleUnassignedPrisoner>
+<MessageWarningPlayerDesignatedTreeChopped>Cảnh báo: Nếu cây bị chặt, {0} sẽ bị xáo trộn.</MessageWarningPlayerDesignatedTreeChopped>
+<MessageWarningPlayerDesignatedMining>Cảnh báo: Nếu khai thác, {0} sẽ cảm thấy không thoải mái.</MessageWarningPlayerDesignatedMining>
+<MessageConnectedPawnDied>{TREE_label} đã giao hưởng với {PAWN_nameDef}. Phải mất {DURATION} để bắt đầu lại giao hưởng.</MessageConnectedPawnDied>
+<MessageSlaveEmancipated>{0_nameDef} đã được {1_nameDef} giải phóng.</MessageSlaveEmancipated>
+<MessagePrisonerEnslaved>{0_nameDef} đã bị {1_nameDef} nô lệ hóa.</MessagePrisonerEnslaved>
+<MessagePrisonerWillBroken>Ý chí của tù nhân {1_nameDef} đã bị {0_nameDef} phá vỡ.</MessagePrisonerWillBroken>
+<MessagePrisonerWillBroken_RecruitAttempsWillBegin>Bắt đầu nô lệ hóa.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+<MessageNoWardenCapableOfEnslavement>Không có người gác nào có khả năng nô lệ hóa.</MessageNoWardenCapableOfEnslavement>
+<MessageNoWardenOfIdeo>Không có người gác {MEMBERNAME} để giáo hóa {PRISONER_nameDef}. Chế độ tương tác của {PRISONER_possessive} đã thay đổi thành "Không tương tác".</MessageNoWardenOfIdeo>
+<MessageCampDetected>Đã phát hiện một {CAMP_label} do {FACTION_name} kiểm soát gần đây.</MessageCampDetected>
+<MessageCharityEventRefused>Từ chối sự kiện từ thiện</MessageCharityEventRefused>
+<MessageCharityEventFulfilled>Sự kiện từ thiện đã hoàn thành</MessageCharityEventFulfilled>
+<MessageBeggarsLeavingWithNoItems>{0} rời đi tay không.</MessageBeggarsLeavingWithNoItems>
+<MessageBeggarsLeavingWithItemsSingular>{0} rời đi với một món đồ được cầu xin.</MessageBeggarsLeavingWithItemsSingular>
+<MessageBeggarsLeavingWithItemsPlural>{0} rời đi với những món đồ được cầu xin.</MessageBeggarsLeavingWithItemsPlural>
+<MessageWandererLeftToDie>{0_nameDef} đã chết mà không được chữa trị.</MessageWandererLeftToDie>
+<MessageWandererRecruited>{0_nameDef} đã được tuyển dụng.</MessageWandererRecruited>
+<MessageWandererLeftHealthy>{0_nameDef} vẫn khỏe mạnh.</MessageWandererLeftHealthy>
+<MessageCharityQuestEndedFailed>{0} đã thất bại.</MessageCharityQuestEndedFailed>
+<MessageCharityQuestEndedSuccess>{0} đã hoàn thành thành công.</MessageCharityQuestEndedSuccess>
+<CannotRemove>Không thể xóa</CannotRemove>
+<CannotRemoveMemeRequired>Không thể xóa {MEME}</CannotRemoveMemeRequired>
+<CannotRemoveMemeRequiredPlayer>Không thể xóa {MEME}: cần thiết cho phái người chơi.</CannotRemoveMemeRequiredPlayer>
+<RequiredByFaction>{FACTION_name} cần thiết.</RequiredByFaction>
+<OverlappingRoleApparel>Không thể thiết lập yêu cầu trang phục trùng lặp.</OverlappingRoleApparel>
+<SelfDestructCountdown>{0} sẽ tự hủy trong {1}.</SelfDestructCountdown>
+<PreceptNameTooLong>Tên quy tắc quá dài (tối đa {0} ký tự)</PreceptNameTooLong>
+<MessageAncientTerminalDiscovered>Bạn đã phát hiện một máy chủ cổ xưa chứa thông tin về {0}!</MessageAncientTerminalDiscovered>
+<MessageAncientComplexBackToShuttle>Bạn đã phát hiện thông tin bí mật về {0}! Quay trở lại tàu vũ trụ để phóng nó.</MessageAncientComplexBackToShuttle>
+<MessageAncientSignalActivated>Một vệ tinh cung cấp cổ xưa đã được kích hoạt. Cung cấp sẽ được thả xuống gần đây.</MessageAncientSignalActivated>
+<MessageAncientSignalHostileDetected>{0} của {1} đã phát hiện tín hiệu cung cấp và đang tấn công.</MessageAncientSignalHostileDetected>
+<MessageAncientAltarThreatsWokenUp>Tất cả hệ thống an ninh đã thức dậy!</MessageAncientAltarThreatsWokenUp>
+<MessageAncientAltarThreatsAlerted>Tất cả hệ thống an ninh sẽ chú ý đến sự hiện diện của bạn.</MessageAncientAltarThreatsAlerted>
+<MessageAnimalIsVeneratedForAllColonists>Cảnh báo: {PAWNKINDLABELPLURAL} được tất cả {PAWNS} tôn thờ, thần thú không thể bị thương.</MessageAnimalIsVeneratedForAllColonists>
+<MessageNewColonyMax>Chọn tối đa {0} {1} để đưa đến thuộc địa mới.</MessageNewColonyMax>
+<MessageNewColoyRequiresOneColonist>Bạn phải chọn ít nhất một thuộc địa.</MessageNewColoyRequiresOneColonist>
+<MessageFuelNodeTriggered>Một {0} đã được kích hoạt, sắp nổ tung!</MessageFuelNodeTriggered>
+<MessageSleepingThreatDelayActivated>{0_pawnsPlural} sẽ tỉnh dậy trong {1}.</MessageSleepingThreatDelayActivated>
+<MessageInfestationDelayActivated>Các cuộc tấn công đang đến.</MessageInfestationDelayActivated>
+<MessageFuelNodeDelayActivated>{0} đã bị xáo trộn, có thể sắp nổ!</MessageFuelNodeDelayActivated>
+<MessageDevelopmentPointsEarned>Điểm phát triển đã thay đổi từ {0} sang {1} ({2}).</MessageDevelopmentPointsEarned>
+<MessageFluidIdeoOneChangeAllowed>Chỉ cho phép thay đổi một trong các cấu trúc, meme và phong cách.</MessageFluidIdeoOneChangeAllowed>
+<!-- <MessageBeggarsLeavingWithItems>{0} rời đi với những món đồ được cầu xin.</MessageBeggarsLeavingWithItems> -->
+</LanguageData>

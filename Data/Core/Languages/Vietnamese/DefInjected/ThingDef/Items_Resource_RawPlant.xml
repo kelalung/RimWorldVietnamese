@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Hay.label>Rơm</Hay.label>
+	<Hay.description>Cỏ và mầm non giàu dinh dưỡng, được thu hoạch và nén để bảo quản. Rơm là thức ăn tốt, nhưng khó ăn đối với con người.</Hay.description>
+	<PsychoidLeaves.label>Lá tâm linh</PsychoidLeaves.label>
+	<PsychoidLeaves.description>Lá tươi thu hoạch từ cây tâm linh. Có thể được chiết xuất thành nhiều loại thuốc tâm linh khác nhau.</PsychoidLeaves.description>
+	<RawAgave.label>Quả cây thùa</RawAgave.label>
+	<RawAgave.description>Quả cây thùa tươi. Ăn sống có vị rất tệ.</RawAgave.description>
+	<RawBerries.label>Quả mọng</RawBerries.label>
+	<RawBerries.description>Nhiều loại quả mọng khác nhau, ăn sống vẫn rất ngon.</RawBerries.description>
+	<RawCorn.label>Bắp</RawCorn.label>
+	<RawCorn.description>Bắp tươi. Ăn sống có vị rất tệ.</RawCorn.description>
+	<RawFungus.label>Nấm tươi</RawFungus.label>
+	<RawFungus.description>Nấm tươi.</RawFungus.description>
+	<RawHops.label>Bông hoa bia</RawHops.label>
+	<RawHops.description>Bông hoa bia tươi. Là gia vị và chất bảo quản cần thiết trong quá trình làm bia.</RawHops.description>
+	<RawPotatoes.label>Khoai tây</RawPotatoes.label>
+	<RawPotatoes.description>Khoai tây tươi. Ăn sống có vị rất tệ.</RawPotatoes.description>
+	<RawRice.label>Gạo</RawRice.label>
+	<RawRice.description>Gạo tươi. Ăn sống có vị rất tệ.</RawRice.description>
+	<SmokeleafLeaves.label>Lá cần sa</SmokeleafLeaves.label>
+	<SmokeleafLeaves.description>Lá tươi thu hoạch từ cây cần sa, có thể được chế biến thành thuốc lá cần sa tại các điểm chế biến thủ công.</SmokeleafLeaves.description>
+</LanguageData>

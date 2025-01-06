@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ResearchExpedition.label>Đoàn thám hiểm nghiên cứu</ResearchExpedition.label>
+  <ResearchExpedition.description>Một nhóm gồm các nhà khoa học.</ResearchExpedition.description>
+  <ResearchExpedition.leaderTitle>Lãnh đạo</ResearchExpedition.leaderTitle>
+  <ResearchExpedition.pawnSingular>Người định cư</ResearchExpedition.pawnSingular>
+  <ResearchExpedition.pawnsPlural>Người định cư</ResearchExpedition.pawnsPlural>
+</LanguageData>

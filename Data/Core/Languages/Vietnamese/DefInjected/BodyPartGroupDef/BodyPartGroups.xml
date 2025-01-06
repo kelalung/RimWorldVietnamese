@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Arms.label>Cánh tay</Arms.label>
+	<Beak.label>Mỏ chim</Beak.label>
+	<Eyes.label>Mắt</Eyes.label>
+	<Feet.label>Chân</Feet.label>
+	<FrontLeftClaws.label>Vuốt trước trái</FrontLeftClaws.label>
+	<FrontLeftClaws.labelShort>Vuốt</FrontLeftClaws.labelShort>
+	<FrontLeftLeg.label>Chân trước trái</FrontLeftLeg.label>
+	<FrontLeftLeg.labelShort>Chân</FrontLeftLeg.labelShort>
+	<FrontLeftPaw.label>Bàn chân trước trái</FrontLeftPaw.label>
+	<FrontLeftPaw.labelShort>Bàn chân</FrontLeftPaw.labelShort>
+	<FrontRightClaws.label>Vuốt trước phải</FrontRightClaws.label>
+	<FrontRightClaws.labelShort>Vuốt</FrontRightClaws.labelShort>
+	<FrontRightLeg.label>Chân trước phải</FrontRightLeg.label>
+	<FrontRightLeg.labelShort>Chân</FrontRightLeg.labelShort>
+	<FrontRightPaw.label>Bàn chân trước phải</FrontRightPaw.label>
+	<FrontRightPaw.labelShort>Bàn chân</FrontRightPaw.labelShort>
+	<FullHead.label>Đầu</FullHead.label>
+	<Hands.label>Hai tay</Hands.label>
+	<HeadAttackTool.label>Công cụ tấn công đầu</HeadAttackTool.label>
+	<HeadClaw.label>Vuốt đầu</HeadClaw.label>
+	<HornAttackTool.label>Gạc nhọn</HornAttackTool.label>
+	<LeftBlade.label>Dao trái</LeftBlade.label>
+	<LeftBlade.labelShort>Dao</LeftBlade.labelShort>
+	<LeftHand.label>Tay trái</LeftHand.label>
+	<LeftHand.labelShort>Đấm tay</LeftHand.labelShort>
+	<Legs.label>Chân</Legs.label>
+	<MiddleFingers.label>Ngón giữa</MiddleFingers.label>
+	<MiddleFingers.labelShort>Ngón giữa</MiddleFingers.labelShort>
+	<Mouth.label>Mồm</Mouth.label>
+	<Neck.label>Cổ</Neck.label>
+	<RightBlade.label>Dao phải</RightBlade.label>
+	<RightBlade.labelShort>Dao</RightBlade.labelShort>
+	<RightHand.label>Tay phải</RightHand.label>
+	<RightHand.labelShort>Đấm tay</RightHand.labelShort>
+	<Shoulders.label>Vai</Shoulders.label>
+	<Teeth.label>Răng</Teeth.label>
+	<Torso.label>Thân</Torso.label>
+	<TurtleBeakAttackTool.label>Mỏ rùa</TurtleBeakAttackTool.label>
+	<TuskAttackTool.label>Ngà</TuskAttackTool.label>
+	<UpperHead.label>Trán</UpperHead.label>
+	<Waist.label>Eo</Waist.label>
+</LanguageData>

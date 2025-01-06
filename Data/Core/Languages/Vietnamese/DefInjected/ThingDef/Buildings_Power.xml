@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Battery.label>Pin lưu trữ</Battery.label>
+	<Battery.description>Lưu trữ điện năng dư thừa và phát điện khi nguồn cung cấp không đủ.\n\nChú ý: Pin lưu trữ đã sạc sẽ phát nổ khi tiếp xúc với nước mưa hoặc lửa.</Battery.description>
+	<ChemfuelPoweredGenerator.label>Máy phát điện nhiên liệu hóa học</ChemfuelPoweredGenerator.label>
+	<ChemfuelPoweredGenerator.description>Phát điện bằng cách tiêu thụ nhiên liệu hóa học. Cần phải thêm nhiên liệu bằng tay.</ChemfuelPoweredGenerator.description>
+	<GeothermalGenerator.label>Máy phát điện hơi nước</GeothermalGenerator.label>
+	<GeothermalGenerator.description>Sử dụng hơi nước từ suối nước nóng để phát điện. Cần đặt trên suối nước nóng.</GeothermalGenerator.description>
+	<HiddenConduit.label>Cáp ẩn</HiddenConduit.label>
+	<HiddenConduit.description>Một bó cáp ẩn dùng để truyền tải điện. Bền hơn cáp thông thường nhưng xây dựng chậm hơn và tốn kém hơn. Có thể lắp đặt trong tường, đá mài và các công trình khác nhưng không thể chôn trong núi.</HiddenConduit.description>
+	<PowerConduit.label>Cáp điện</PowerConduit.label>
+	<PowerConduit.description>Một bó cáp dùng để truyền tải điện. Có thể lắp đặt trong tường, đá mài và các công trình khác nhưng không thể chôn trong núi.</PowerConduit.description>
+	<PowerSwitch.label>Công tắc điện</PowerSwitch.label>
+	<PowerSwitch.description>Kết nối/ngắt kết nối lưới điện, quyết định xem điện có thể đi qua hay không.</PowerSwitch.description>
+	<SolarGenerator.label>Pin mặt trời</SolarGenerator.label>
+	<SolarGenerator.description>Phát điện từ ánh sáng mặt trời, ngừng hoạt động khi thiếu ánh sáng mặt trời, không thể sử dụng nguồn sáng nhân tạo để phát điện.</SolarGenerator.description>
+	<WatermillGenerator.label>Máy phát điện nước</WatermillGenerator.label>
+	<WatermillGenerator.description>Phát điện từ động năng của dòng nước. Cần đặt bên cạnh dòng nước chảy.</WatermillGenerator.description>
+	<WaterproofConduit.label>Cáp chống thấm nước</WaterproofConduit.label>
+	<WaterproofConduit.description>Cáp cách điện có thể lắp đặt dưới nước nông để an toàn truyền tải điện.</WaterproofConduit.description>
+	<WindTurbine.label>Tuabin gió</WindTurbine.label>
+	<WindTurbine.description>Một máy phát điện chạy bằng gió, cần không gian rộng lớn phía trước và phía sau để nhận luồng gió tốt nhất.</WindTurbine.description>
+	<WoodFiredGenerator.label>Máy phát điện bằng gỗ</WoodFiredGenerator.label>
+	<WoodFiredGenerator.description>Phát điện bằng cách tiêu thụ gỗ. Cần phải thêm nhiên liệu bằng tay.</WoodFiredGenerator.description>
+</LanguageData>

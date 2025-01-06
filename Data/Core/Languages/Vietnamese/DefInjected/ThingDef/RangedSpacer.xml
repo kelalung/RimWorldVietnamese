@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_ChargeLance.label>Đạn giáo điện tích</Bullet_ChargeLance.label>
+<Bullet_ChargeRifle.label>Đạn điện tích</Bullet_ChargeRifle.label>
+<Gun_ChargeLance.label>Giáo điện tích</Gun_ChargeLance.label>
+<Gun_ChargeLance.description>Vũ khí gia tốc quỹ đạo phóng đạn giáo điện tích cao. Mỗi viên đạn siêu tốc được nạp năng lượng bởi năng lượng không ổn định trước khi rời khỏi quỹ đạo gia tốc.</Gun_ChargeLance.description>
+<Gun_ChargeLance.tools.barrel.label>Khẩu súng</Gun_ChargeLance.tools.barrel.label>
+<Gun_ChargeLance.verbs.Verb_Shoot.label>Giáo điện tích</Gun_ChargeLance.verbs.Verb_Shoot.label>
+<Gun_ChargeRifle.label>Súng trường điện tích</Gun_ChargeRifle.label>
+<Gun_ChargeRifle.description>Súng trường tấn công phóng đạn điện tích cao. Công nghệ đạn điện tích cho phép mỗi viên đạn nạp năng lượng không ổn định khi rời khỏi nòng súng và hoàn toàn giải phóng khi trúng mục tiêu, tăng đáng kể sát thương của đạn.</Gun_ChargeRifle.description>
+<Gun_ChargeRifle.tools.stock.label>Thân súng</Gun_ChargeRifle.tools.stock.label>
+<Gun_ChargeRifle.tools.barrel.label>Khẩu súng</Gun_ChargeRifle.tools.barrel.label>
+<Gun_ChargeRifle.verbs.Verb_Shoot.label>Súng trường điện tích</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

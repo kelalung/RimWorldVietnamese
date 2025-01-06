@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+		<li>rewardDescription->Một người tên là [joiner_nameDef], [joiner_age] tuổi, [joiner_title] sẽ đến bằng phương tiện vận chuyển. [joinerFactionInfo][joiner_relationInfo]</li>
+		<li>joinerFactionInfo(priority=1)->[joiner_pronoun] là một thành viên của [joiner_factionName].</li>
+		<li>joinerFactionInfo-></li>
+	</Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+	<Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+		<li>rewardDescription->Một người tên là [joiner_nameDef], [joiner_age] tuổi, [joiner_title] sẽ đến và gia nhập thuộc địa của chúng ta. [joiner_relationInfo]</li>
+	</Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+	<Util_SendItemPods.questDescriptionRules.rulesStrings>
+		<li>rewardDescription->Một cabin chứa các vật phẩm sau sẽ đến (Tổng giá trị: [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+	</Util_SendItemPods.questDescriptionRules.rulesStrings>
+</LanguageData>

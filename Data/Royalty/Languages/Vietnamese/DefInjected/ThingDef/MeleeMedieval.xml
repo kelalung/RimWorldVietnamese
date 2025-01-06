@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeleeWeapon_Axe.label>Chiến Đao</MeleeWeapon_Axe.label>
+<MeleeWeapon_Axe.description>Chiến đao là một trong những vũ khí lạnh cổ xưa nhất của con người, nó bao gồm một phần lưỡi sắc bén và một cán để cố định. Cấu trúc đơn giản của vũ khí cổ này chủ yếu dựa vào lực cắt tạo ra khi vung vũ khí theo nguyên lý đòn bẩy.</MeleeWeapon_Axe.description>
+<MeleeWeapon_Axe.tools.handle.label>Cán Đao</MeleeWeapon_Axe.tools.handle.label>
+<MeleeWeapon_Axe.tools.edge.label>Lưỡi Đao</MeleeWeapon_Axe.tools.edge.label>
+<MeleeWeapon_Warhammer.label>Chiến Búa</MeleeWeapon_Warhammer.label>
+<MeleeWeapon_Warhammer.description>Một vũ khí dài cán tàn bạo. Có thể dễ dàng đập vỡ xương của kẻ thù, ngay cả khi họ đang mặc giáp nặng.</MeleeWeapon_Warhammer.description>
+<MeleeWeapon_Warhammer.tools.handle.label>Cán Búa</MeleeWeapon_Warhammer.tools.handle.label>
+<MeleeWeapon_Warhammer.tools.head.label>Đầu Búa</MeleeWeapon_Warhammer.tools.head.label>
+</LanguageData>

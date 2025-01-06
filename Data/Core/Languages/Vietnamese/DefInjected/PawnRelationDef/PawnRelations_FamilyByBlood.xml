@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Child.label>Con trai</Child.label>
+	<Child.labelFemale>Con gái</Child.labelFemale>
+	<Cousin.label>Anh chị em họ</Cousin.label>
+	<Cousin.labelFemale>Chị em họ</Cousin.labelFemale>
+	<CousinOnceRemoved.label>Người họ hàng</CousinOnceRemoved.label>
+	<CousinOnceRemoved.labelFemale>Người họ hàng</CousinOnceRemoved.labelFemale>
+	<Grandchild.label>Cháu trai</Grandchild.label>
+	<Grandchild.labelFemale>Cháu gái</Grandchild.labelFemale>
+	<GrandnephewOrGrandniece.label>Cháu nội</GrandnephewOrGrandniece.label>
+	<GrandnephewOrGrandniece.labelFemale>Cháu ngoại</GrandnephewOrGrandniece.labelFemale>
+	<Grandparent.label>Ông</Grandparent.label>
+	<Grandparent.labelFemale>Bà</Grandparent.labelFemale>
+	<GranduncleOrGrandaunt.label>Chú bác</GranduncleOrGrandaunt.label>
+	<GranduncleOrGrandaunt.labelFemale>Cô bác</GranduncleOrGrandaunt.labelFemale>
+	<GreatGrandchild.label>Cháu chắt trai</GreatGrandchild.label>
+	<GreatGrandchild.labelFemale>Cháu chắt gái</GreatGrandchild.labelFemale>
+	<GreatGrandparent.label>Ông cố</GreatGrandparent.label>
+	<GreatGrandparent.labelFemale>Bà cố</GreatGrandparent.labelFemale>
+	<HalfSibling.label>Em cùng cha khác mẹ</HalfSibling.label>
+	<HalfSibling.labelFemale>Chị cùng cha khác mẹ</HalfSibling.labelFemale>
+	<Kin.label>Người thân</Kin.label>
+	<Kin.labelFemale>Người thân</Kin.labelFemale>
+	<NephewOrNiece.label>Cháu trai</NephewOrNiece.label>
+	<NephewOrNiece.labelFemale>Cháu gái</NephewOrNiece.labelFemale>
+	<Parent.label>Cha</Parent.label>
+	<Parent.labelFemale>Mẹ</Parent.labelFemale>
+	<SecondCousin.label>Người họ hàng xa</SecondCousin.label>
+	<SecondCousin.labelFemale>Người họ hàng xa</SecondCousin.labelFemale>
+	<Sibling.label>Anh em</Sibling.label>
+	<Sibling.labelFemale>Chị em</Sibling.labelFemale>
+	<UncleOrAunt.label>Chú</UncleOrAunt.label>
+	<UncleOrAunt.labelFemale>Cô</UncleOrAunt.labelFemale>
+</LanguageData>

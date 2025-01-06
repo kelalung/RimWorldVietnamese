@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimalProductsSellImprovement.label>Cải thiện giá trị sản phẩm động vật</AnimalProductsSellImprovement.label>
+<AnimalProductsSellImprovement.description>Khi người này giao dịch thịt, da hoặc lông, giá trị sẽ cải thiện theo tỷ lệ phần trăm này.</AnimalProductsSellImprovement.description>
+<SlaveSuppressionFallRate.label>Tỷ lệ giảm áp lực nô lệ</SlaveSuppressionFallRate.label>
+<SlaveSuppressionFallRate.description>Tốc độ giảm áp lực nô lệ.</SlaveSuppressionFallRate.description>
+<SlaveSuppressionFallRate.formatString>Mỗi ngày {0}</SlaveSuppressionFallRate.formatString>
+<SlaveSuppressionFallRate.formatStringUnfinalized>Mỗi ngày {0}</SlaveSuppressionFallRate.formatStringUnfinalized>
+</LanguageData>

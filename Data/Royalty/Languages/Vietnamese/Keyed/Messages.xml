@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ShuttleBlocked>Máy bay vũ trụ không thể hạ cánh tại khu vực: {0}</ShuttleBlocked>
+<MessageShuttleArrived>Máy bay vũ trụ đã đến nơi</MessageShuttleArrived>
+<MessageShuttleArrivedContentsLost>Máy bay vũ trụ đã đến nơi, nhưng vì không có thuộc địa nào bên trong, tất cả hàng hóa đã bị mất.</MessageShuttleArrivedContentsLost>
+<CannotCallShuttle>Không thể gọi máy bay vũ trụ</CannotCallShuttle>
+<ShuttleCannotLand_Fogged>Không thể hạ cánh ở khu vực chưa được phát hiện.</ShuttleCannotLand_Fogged>
+<ShuttleCannotLand_Unwalkable>Khu vực phải có thể đi lại.</ShuttleCannotLand_Unwalkable>
+<MessageBestowerWaiting>Chọn {BESTOWER_definite} và nhấp vào "Bắt đầu nghi lễ trao giải" để bắt đầu một nghi lễ.</MessageBestowerWaiting>
+<MessageBestowerUnreachable>Không thể liên lạc với người trao giải!</MessageBestowerUnreachable>
+<MessageBestowingTargetIsBusy>{0} đang bận.</MessageBestowingTargetIsBusy>
+<MessageBestowingSpotUnreachable>Người trao giải cảm thấy khó chịu vì sự cản trở này và quyết định rời đi.</MessageBestowingSpotUnreachable>
+<MessageBestowingDanger>Người trao giải đã rời đi vì nguy hiểm đến tính mạng.</MessageBestowingDanger>
+<MessageBestowingDangerTemperature>Người trao giải đã rời đi vì nhiệt độ nguy hiểm.</MessageBestowingDangerTemperature>
+<MessageBestowingDangerGas>Người trao giải đã rời đi vì khói độc.</MessageBestowingDangerGas>
+<MessageBestowingInterrupted>Nghi lễ trao giải đã bị gián đoạn.</MessageBestowingInterrupted>
+<MessageBestowingCeremonyStarted>Nghi lễ trao giải cho {PAWN_definite} đã bắt đầu.</MessageBestowingCeremonyStarted>
+<MessageMissionGetBackToShuttle>Bạn đã đánh bại {FACTION_pawnsPlural}! Trở về máy bay vũ trụ và phóng nó.</MessageMissionGetBackToShuttle>
+<MessagePermitTransportDrop>{FACTION_name} đã thả một số tài nguyên gần đây.</MessagePermitTransportDrop>
+<MessagePermitTransportDropCaravan>{FACTION_name} đã giao hàng hóa cho đoàn của {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+<MessageNoFactionForVerbMechCluster>Không tìm thấy cơ thể cơ khí trên quỹ đạo.</MessageNoFactionForVerbMechCluster>
+</LanguageData>

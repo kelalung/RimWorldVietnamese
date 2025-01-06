@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BotchedMySurgery.stages.botched_my_surgery.label>Có sự cố trong ca phẫu thuật của tôi</BotchedMySurgery.stages.botched_my_surgery.label>
+	<BrokeUpWithMe.stages.broke_up_with_me.label>Chia tay với tôi</BrokeUpWithMe.stages.broke_up_with_me.label>
+	<BrokeUpWithMeMood.stages.broken_up_with_by.label>Bị chia tay bởi {0}</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+	<BrokeUpWithMeMood.stages.broken_up_with_by.description>Tôi cảm thấy như một đống rác bị vứt bỏ.</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+	<CheatedOnMe.stages.cheated_on_me.label>Bắt phản bội tôi</CheatedOnMe.stages.cheated_on_me.label>
+	<CheatedOnMeMood.stages.cheated_on_by.label>Bị phản bội bởi {0}</CheatedOnMeMood.stages.cheated_on_by.label>
+	<CheatedOnMeMood.stages.cheated_on_by.description>Làm sao có thể phản bội tôi như vậy!</CheatedOnMeMood.stages.cheated_on_by.description>
+	<Chitchat.stages.chitchat.label>Trò chuyện</Chitchat.stages.chitchat.label>
+	<CrashedTogether.stages.crashed_together.label>Hạ cánh cùng nhau</CrashedTogether.stages.crashed_together.label>
+	<DeepTalk.stages.deep_talk.label>Cuộc trò chuyện sâu sắc</DeepTalk.stages.deep_talk.label>
+	<DivorcedMe.stages.divorced_me.label>Ly hôn với tôi</DivorcedMe.stages.divorced_me.label>
+	<DivorcedMeMood.stages.divorced_by.label>Bị ly hôn bởi {0}</DivorcedMeMood.stages.divorced_by.label>
+	<DivorcedMeMood.stages.divorced_by.description>Những lời hứa trước đây giờ đây chẳng còn nghĩa lý gì.</DivorcedMeMood.stages.divorced_by.description>
+	<FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>Bị từ chối tỏ tình</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+	<FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>Bắt buộc phải từ chối {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+	<FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>Người mà tôi không thích muốn hẹn hò với tôi.</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+	<ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>Bị ép sử dụng chất gây nghiện</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+	<ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>Bị ép sử dụng chất gây nghiện</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+	<ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>Tôi ghét chất gây nghiện. Tôi chắc chắn không bao giờ chọn sử dụng chúng. Nhưng tôi đã bị ép buộc! Tôi cảm thấy không sạch sẽ.</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+	<ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>Bị ép sử dụng Luciferium</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+	<ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>Bị ép sử dụng Luciferium</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+	<ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>Tôi là người theo chủ nghĩa thuần khiết. Tôi chắc chắn không bao giờ chọn sử dụng Luciferium. Nhưng tôi đã bị ép buộc! Tôi cảm thấy không sạch sẽ.</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+	<GotSomeLovin.stages.got_some_lovin.label>Thân mật</GotSomeLovin.stages.got_some_lovin.label>
+	<GotSomeLovin.stages.got_some_lovin.description>Không có gì vui hơn việc thân mật, hehe!</GotSomeLovin.stages.got_some_lovin.description>
+	<HadAngeringFight.stages.angering_fight.label>Có một trận đánh tức giận</HadAngeringFight.stages.angering_fight.label>
+	<HadCatharticFight.stages.cathartic_fight.label>Có một trận đánh giải tỏa</HadCatharticFight.stages.cathartic_fight.label>
+	<HarmedMe.stages.harmed_me.label>Đã làm tổn thương tôi</HarmedMe.stages.harmed_me.label>
+	<HoneymoonPhase.stages.honeymoon_phase.label>Giai đoạn trăng mật</HoneymoonPhase.stages.honeymoon_phase.label>
+	<Insulted.stages.insulted.label>Bị xúc phạm</Insulted.stages.insulted.label>
+	<InsultedMood.stages.insulted.label>Bị xúc phạm</InsultedMood.stages.insulted.label>
+	<InsultedMood.stages.insulted.description>Tôi bị người khác xúc phạm! Gã đó thật đáng ghét!</InsultedMood.stages.insulted.description>
+	<IRejectedTheirProposal.stages.I_rejected_their_proposal.label>Từ chối lời cầu hôn của họ</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+	<KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>Giết con vật gắn bó của tôi</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+	<KilledMyBrother.stages.killed_my_brother.label>Giết anh trai của tôi</KilledMyBrother.stages.killed_my_brother.label>
+	<KilledMyDaughter.stages.killed_my_daughter.label>Giết con gái của tôi</KilledMyDaughter.stages.killed_my_daughter.label>
+	<KilledMyFather.stages.killed_my_father.label>Giết cha của tôi</KilledMyFather.stages.killed_my_father.label>
+	<KilledMyFiance.stages.killed_my_fiance.label>Giết vị hôn phu/hôn thê của tôi</KilledMyFiance.stages.killed_my_fiance.label>
+	<KilledMyFriend.stages.killed_my_friend.label>Giết bạn của tôi</KilledMyFriend.stages.killed_my_friend.label>
+	<KilledMyKin.stages.killed_my_kin.label>Giết người thân của tôi</KilledMyKin.stages.killed_my_kin.label>
+	<KilledMyLover.stages.killed_my_lover.label>Giết người yêu của tôi</KilledMyLover.stages.killed_my_lover.label>
+	<KilledMyMother.stages.killed_my_mother.label>Giết mẹ của tôi</KilledMyMother.stages.killed_my_mother.label>
+	<KilledMyRival.stages.killed_my_rival.label>Giết kẻ thù của tôi</KilledMyRival.stages.killed_my_rival.label>
+	<KilledMySister.stages.killed_my_sister.label>Giết chị/em gái của tôi</KilledMySister.stages.killed_my_sister.label>
+	<KilledMySon.stages.killed_my_son.label>Giết con trai của tôi</KilledMySon.stages.killed_my_son.label>
+	<KilledMySpouse.stages.killed_my_spouse.label>Giết bạn đời của tôi</KilledMySpouse.stages.killed_my_spouse.label>
+	<KindWords.stages.kind_words.label>Những lời tốt đẹp</KindWords.stages.kind_words.label>
+	<KindWordsMood.stages.kind_words.label>Những lời tốt đẹp</KindWordsMood.stages.kind_words.label>
+	<KindWordsMood.stages.kind_words.description>Có người đã nói với tôi những lời tốt đẹp! Thật là một người tốt!</KindWordsMood.stages.kind_words.description>
+	<RapportBuilt.stages.rapport_built.label>Xây dựng mối quan hệ tốt</RapportBuilt.stages.rapport_built.label>
+	<RebuffedMyRomanceAttempt.stages.rebuffed_me.label>Từ chối nỗ lực tỏ tình của tôi</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+	<RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>Bị từ chối bởi {0}</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+	<RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>Tôi muốn hẹn hò nhưng bị lạnh nhạt, điều đó khiến tôi rất buồn.</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+	<RecruitedMe.stages.recruited_me.label>Được tuyển dụng</RecruitedMe.stages.recruited_me.label>
+	<RejectedMyProposal.stages.rejected_my_proposal.label>Từ chối lời cầu hôn của tôi</RejectedMyProposal.stages.rejected_my_proposal.label>
+	<RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>Bị từ chối lời cầu hôn bởi {0}</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+	<RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>Tôi tưởng chúng tôi yêu nhau thật lòng, nhưng hóa ra chỉ là tôi tự lừa dối mình.</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+	<RescuedMe.stages.rescued_me.label>Cứu tôi</RescuedMe.stages.rescued_me.label>
+	<RescuedMeByOfferingHelp.stages.rescued_me.label>Cứu tôi</RescuedMeByOfferingHelp.stages.rescued_me.label>
+	<RescuedMeByOfferingHelp.stages.rescued_me.description>Tôi đã được cứu! Tôi gần như nghĩ rằng mình đã hết hy vọng, thật sự cảm ơn.</RescuedMeByOfferingHelp.stages.rescued_me.description>
+	<Slighted.stages.slighted.label>Bị xem thường</Slighted.stages.slighted.label>
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.label>Con vật gắn bó đã bị cho đi</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.description>Con vật tôi gắn bó đã bị cho đi!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>Con vật gắn bó của tôi đã bị cho đi</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>Con vật gắn bó đã bị cho đi</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>Con vật tôi gắn bó đã bị cho đi!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>Con vật gắn bó của tôi đã bị cho đi</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+	<SoldMyLovedOne.stages.loved_one_sold.label>Người yêu bị bán</SoldMyLovedOne.stages.loved_one_sold.label>
+	<SoldMyLovedOne.stages.loved_one_sold.description>Người tôi yêu đã bị bán như một món hàng!</SoldMyLovedOne.stages.loved_one_sold.description>
+	<SoldMyLovedOne.stages.loved_one_sold.labelSocial>Bán người tôi yêu</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+</LanguageData>

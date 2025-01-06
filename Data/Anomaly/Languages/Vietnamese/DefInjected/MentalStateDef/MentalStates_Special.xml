@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BerserkShort.label>Cuồng bạo</BerserkShort.label>
+	<BerserkShort.baseInspectLine>Trạng thái tinh thần: Cuồng bạo</BerserkShort.baseInspectLine>
+	<BerserkShort.beginLetter>{0} đã rơi vào cơn cuồng bạo.\n\n{PAWN_pronoun} sẽ tấn công bất kỳ ai mà {PAWN_pronoun} thấy.</BerserkShort.beginLetter>
+	<BerserkShort.recoveryMessage>Trạng thái cuồng bạo của {0} đã kết thúc.</BerserkShort.recoveryMessage>
+	<CubeSculpting.label>Điêu khắc khối lập phương</CubeSculpting.label>
+	<CubeSculpting.baseInspectLine>Trạng thái tinh thần: Điêu khắc khối lập phương</CubeSculpting.baseInspectLine>
+	<CubeSculpting.beginLetter>{PAWN_nameDef} đã trở nên mê mẩn với khối lập phương vàng, khiến {PAWN_objective} trở nên mơ hồ. {PAWN_pronoun} muốn xây dựng một tác phẩm điêu khắc để giải tỏa áp lực tích tụ trong lòng.</CubeSculpting.beginLetter>
+	<CubeSculpting.beginLetterLabel>Mê mẩn khối lập phương</CubeSculpting.beginLetterLabel>
+	<CubeSculpting.recoveryMessage>{PAWN_nameDef} đã hoàn thành tác phẩm điêu khắc khối lập phương của {PAWN_possessive}.</CubeSculpting.recoveryMessage>
+	<HumanityBreak.label>Sự sụp đổ nhân tính</HumanityBreak.label>
+	<HumanityBreak.baseInspectLine>Trạng thái tinh thần: Sự sụp đổ nhân tính</HumanityBreak.baseInspectLine>
+	<HumanityBreak.beginLetter>{PAWN_nameDef} đã từ bỏ những liên kết cuối cùng với nhân loại, lao vào vòng tay của văn hóa thờ phụng hư không. {PAWN_pronoun} không còn quan tâm đến sức khỏe, gia đình, tình bạn, tình yêu nữa.\n\n{PAWN_nameDef} giờ đây đã rơi vào trạng thái phi nhân hóa, và sẽ sụp đổ khi phải vật lộn với điểm tựa tinh thần mới của mình.</HumanityBreak.beginLetter>
+	<ManhunterBloodRain.label>Săn lùng nhân loại</ManhunterBloodRain.label>
+	<ManhunterBloodRain.baseInspectLine>Phát cuồng: Săn lùng nhân loại</ManhunterBloodRain.baseInspectLine>
+	<ManhunterBloodRain.recoveryMessage>{0} không còn săn lùng nhân loại nữa.</ManhunterBloodRain.recoveryMessage>
+</LanguageData>

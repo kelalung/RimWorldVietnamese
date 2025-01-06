@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PsychicEntropyMaxOffset.label>neural heat limit offset</PsychicEntropyMaxOffset.label>
+<PsychicEntropyMaxOffset.description>An offset applied to the user's neural heat limit.</PsychicEntropyMaxOffset.description>
+<PsychicEntropyRecoveryRateOffset.label>neural heat recovery rate offset</PsychicEntropyRecoveryRateOffset.label>
+<PsychicEntropyRecoveryRateOffset.description>An offset applied to the user's neural heat recovery rate.</PsychicEntropyRecoveryRateOffset.description>
+<PsychicEntropyRecoveryRateOffset.formatString>{0}/s</PsychicEntropyRecoveryRateOffset.formatString>
+<MeditationFocusGain.label>meditation psyfocus gain</MeditationFocusGain.label>
+<MeditationFocusGain.description>The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects.</MeditationFocusGain.description>
+<MeditationFocusGain.formatString>{0} / day</MeditationFocusGain.formatString>
+<MeditationFocusGain.formatStringUnfinalized>{0} / day</MeditationFocusGain.formatStringUnfinalized>
+<PsychicEntropyMax.label>neural heat limitneural heat limit</PsychicEntropyMax.label>
+<PsychicEntropyMax.description>The maximum amount of neural heat individual can tolerate safely.</PsychicEntropyMax.description>
+<PsychicEntropyRecoveryRate.label>neural heat recovery rate</PsychicEntropyRecoveryRate.label>
+<PsychicEntropyRecoveryRate.description>The rate at which this person reduces neural heat.</PsychicEntropyRecoveryRate.description>
+<PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+<EMPResistance.label>EMP resistance</EMPResistance.label>
+<EMPResistance.description>This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP.</EMPResistance.description>
+<!-- <WorkSpeedGlobal.parts.1.label>Offset from mechanitor</WorkSpeedGlobal.parts.1.label> -->
+</LanguageData>

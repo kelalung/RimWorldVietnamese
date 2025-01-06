@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DamageEvent_Ceiling.rulePack.rulesStrings>
+		<li>damage_source->[roof][collapsed] đè lên</li>
+		<li>roof->mái nhà</li>
+		<li>roof->mái</li>
+		<li>roof->trần nhà</li>
+		<li>collapsed->sập</li>
+		<li>collapsed->rơi xuống</li>
+		<li>collapsed->sụp đổ</li>
+		<li>damaged_present->bị thương</li>
+		<li>damaged_present->bị đè</li>
+		<li>damaged_present->bị trầy xước</li>
+		<li>damaged_present->bị rách</li>
+		<li>destroyed_present->bị nghiền nát</li>
+		<li>destroyed_present->bị ép nát</li>
+		<li>destroyed_present->bị phá hủy</li>
+		<li>destroyed_present->bị tiêu diệt</li>
+		<li>destroyed_present->bị hủy hoại</li>
+	</DamageEvent_Ceiling.rulePack.rulesStrings>
+	<DamageEvent_Fire.rulePack.rulesStrings>
+		<li>damage_source->[fire] đã bùng cháy</li>
+		<li>fire(p=3)->lửa</li>
+		<li>fire(p=3)->một ngọn lửa</li>
+		<li>fire(p=3)->một đám cháy lớn</li>
+		<li>fire->nhiệt độ cao</li>
+		<li>fire->lửa lớn</li>
+		<li>fire->địa ngục</li>
+		<li>damaged_present->bị bỏng</li>
+		<li>damaged_present->bị thiêu đốt</li>
+		<li>damaged_present->bị nướng</li>
+		<li>damaged_present->bị cháy xém</li>
+		<li>destroyed_present->bị cháy xém</li>
+		<li>destroyed_present->bị thiêu rụi</li>
+		<li>destroyed_present->bị nướng chín</li>
+		<li>destroyed_present->bị thiêu thành tro</li>
+	</DamageEvent_Fire.rulePack.rulesStrings>
+	<DamageEvent_Include.rulePack.rulesStrings>
+		<li>r_logentry->[damage_source][RECIPIENT_nameDef],[destroyed_present][RECIPIENT_possessive][destroyed_targets].</li>
+		<li>r_logentry->[damage_source][RECIPIENT_nameDef],[destroyed_present][RECIPIENT_possessive][destroyed_targets] và [damaged_present][RECIPIENT_possessive][damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)->[damage_source][RECIPIENT_nameDef],[damaged_present][RECIPIENT_possessive][damaged_targets].</li>
+		<li>r_logentry(p=0.1)->[damage_source][RECIPIENT_nameDef].</li>
+	</DamageEvent_Include.rulePack.rulesStrings>
+	<DamageEvent_PowerBeam.rulePack.rulesStrings>
+		<li>damage_source->[sky] xé toạc một vết nứt, sự phán xét ập xuống</li>
+		<li>damage_source->một chùm [power][damaged_past]</li>
+		<li>damage_source->một chuỗi [light][damaged_past]</li>
+		<li>sky->bầu trời</li>
+		<li>sky->đám mây</li>
+		<li>sky->thiên đường</li>
+		<li>power->sức mạnh</li>
+		<li>power->năng lượng</li>
+		<li>power->ánh sáng nóng bỏng</li>
+		<li>light->ánh sáng</li>
+		<li>light->nhiệt độ cao</li>
+		<li>light->lửa dữ dội</li>
+		<li>light(p=0.2)->bức xạ nóng bỏng</li>
+	</DamageEvent_PowerBeam.rulePack.rulesStrings>
+	<DamageEvent_Tornado.rulePack.rulesStrings>
+		<li>damage_source->một cơn gió [spiraling] xoáy [enveloped]</li>
+		<li>destroyed_present(p=3)->xé toạc</li>
+		<li>spiraling->quay cuồng</li>
+		<li>spiraling->xoáy tròn</li>
+		<li>spiraling->xoáy ốc</li>
+		<li>spiraling(p=10)-></li>
+		<li>enveloped(p=8)->bao vây</li>
+		<li>enveloped->nuốt chửng</li>
+		<li>enveloped->quanh quẩn</li>
+	</DamageEvent_Tornado.rulePack.rulesStrings>
+	<DamageEvent_TrapSpike.rulePack.rulesStrings>
+		<li>damage_source->[spiketrap] đâm</li>
+		<li>damage_source->[spiketrap] tấn công</li>
+		<li>damage_source->[spiketrap] công kích</li>
+		<li>spiketrap(p=3)->một cái bẫy có gai</li>
+		<li>spiketrap(p=3)->bẫy gai</li>
+		<li>spiketrap->nhiều gai nhọn</li>
+		<li>spiketrap->bẫy sắc nhọn</li>
+		<li>spiketrap->một cái bẫy có gai</li>
+		<li>damaged_present->đâm xuyên</li>
+		<li>damaged_present->đâm vào</li>
+		<li>damaged_present->xuyên qua</li>
+		<li>damaged_present->đâm vào</li>
+		<li>destroyed_present->xé toạc</li>
+		<li>destroyed_present->xé vụn</li>
+		<li>destroyed_present->mang đi</li>
+		<li>destroyed_present->phá hủy</li>
+	</DamageEvent_TrapSpike.rulePack.rulesStrings>
+</LanguageData>

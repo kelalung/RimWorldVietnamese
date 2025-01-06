@@ -1,0 +1,16 @@
+﻿//Common with outlanders
+Thị tộc liên minh
+Dân tộc thống nhất trận tuyến
+Đại bộ lạc
+Liên hợp thị tộc
+Tù trưởng đồng minh
+Gia tộc liên minh
+Thị tộc nghị hội đồng minh
+Thị tộc hiệp ước
+Thị tộc công ước
+Bộ lạc liên hợp
+
+//Tribe specific
+Thị tộc
+Dân tự do
+Bộ lạc

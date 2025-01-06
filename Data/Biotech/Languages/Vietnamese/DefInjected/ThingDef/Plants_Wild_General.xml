@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ChoppedStump_Polluted.label>Gốc cây bị ô nhiễm</ChoppedStump_Polluted.label>
+<ChoppedStump_Polluted.description>Một gốc cây bị ô nhiễm còn lại sau khi cây bị chặt. Gốc cây có thể được chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ dần dần lão hóa theo thời gian.</ChoppedStump_Polluted.description>
+<Plant_GrayGrass.label>Cỏ xám</Plant_GrayGrass.label>
+<Plant_GrayGrass.description>Một loại cỏ dại có khả năng thích ứng với độc tố. Chỉ cần thời tiết không xấu đến mức không thể sống sót, nó có thể phát triển mạnh mẽ trong các khu vực ô nhiễm cằn cỗi.</Plant_GrayGrass.description>
+<Plant_PebbleCactus.label>Xương rồng sỏi</Plant_PebbleCactus.label>
+<Plant_PebbleCactus.description>Một loại xương rồng nhỏ có hình dạng giống như đống sỏi. Nó chỉ có thể phát triển trên vùng đất ô nhiễm. Mặc dù không phải là cây, nhưng nó cũng có thể thu hoạch được một lượng nhỏ sợi thực vật có thể sử dụng làm gỗ.</Plant_PebbleCactus.description>
+<Plant_RatPalm.label>Cây cọ chuột</Plant_RatPalm.label>
+<Plant_RatPalm.description>Loại cây có hình dạng tương tự như cây cọ, với hệ thống rễ phát triển quá mức và lộ ra ngoài mặt đất. Nó chỉ có thể phát triển trên vùng đất ô nhiễm. Khi thu hoạch, lượng gỗ có thể thu được không nhiều.</Plant_RatPalm.description>
+<Plant_Ripthorn.label>Bụi cây gai</Plant_Ripthorn.label>
+<Plant_Ripthorn.description>Một loại bụi cây thấp có khả năng thích ứng với độc tố, trông như nhiều nhánh cây gai cứng nhắc xoắn vào nhau. Khi đi qua trên đó, tốc độ sẽ giảm rõ rệt. Nó chỉ có thể phát triển trên vùng đất ô nhiễm.</Plant_Ripthorn.description>
+<Plant_TreeGrayPine.label>Thông xám</Plant_TreeGrayPine.label>
+<Plant_TreeGrayPine.description>Một loại thông nhỏ có khả năng thích ứng với độc tố, với hình dáng nhánh cây khá kỳ lạ. Nó chỉ có thể phát triển trên vùng đất ô nhiễm. Khi thu hoạch, lượng gỗ có thể thu được không nhiều.</Plant_TreeGrayPine.description>
+<Plant_Witchwood.label>Cây phù thủy</Plant_Witchwood.label>
+<Plant_Witchwood.description>Một loại cây nhỏ có khả năng thích ứng với độc tố, với hình dáng thân cây khá kỳ lạ. Nó chỉ có thể phát triển trên vùng đất ô nhiễm. Khi thu hoạch, lượng gỗ có thể thu được không nhiều.</Plant_Witchwood.description>
+<SmashedStump_Polluted.label>Gốc cây bị nghiền nát (ô nhiễm)</SmashedStump_Polluted.label>
+<SmashedStump_Polluted.description>Một gốc cây bị ô nhiễm còn lại sau khi cây bị phá hủy. Nó trông không đẹp. Gốc cây có thể được chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ dần dần lão hóa theo thời gian.</SmashedStump_Polluted.description>
+</LanguageData>

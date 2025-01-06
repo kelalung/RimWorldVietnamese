@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Plant_Chokevine.label>Cây leo thắt cổ</Plant_Chokevine.label>
+	<Plant_Chokevine.description>Rất nhiều dây leo có hình dạng giống như dây thừng, có gai, bám vào mặt đất. Cây leo thắt cổ làm giảm tốc độ di chuyển của tất cả sinh vật đi qua. Nhiều bộ lạc truyền tai nhau câu chuyện về trẻ em bị nó siết cổ và chết ngạt vào ban đêm, như một cách để dọa trẻ em quay về nhà trước khi trời tối.</Plant_Chokevine.description>
+	<Plant_TreeCypress.label>Cây bách</Plant_TreeCypress.label>
+	<Plant_TreeCypress.description>Loài cây cao lớn, phát triển chậm. Thường xuất hiện trong các vùng đầm lầy. Mặc dù cây phát triển chậm, nhưng việc trồng những cây này rất có lợi, vì chúng có thể sản xuất ra lượng gỗ hữu ích lớn.</Plant_TreeCypress.description>
+	<Plant_TreeMaple.label>Cây phong</Plant_TreeMaple.label>
+	<Plant_TreeMaple.description>Loài cây trung bình phổ biến. Thường xuất hiện trong các vùng đầm lầy và địa hình ẩm ướt.</Plant_TreeMaple.description>
+	<Plant_TreeWillow.label>Cây liễu</Plant_TreeWillow.label>
+	<Plant_TreeWillow.description>Một trong những cây che bóng phát triển nhanh nhất, với tán lá đẹp và xanh tươi. Không sản xuất nhiều gỗ hữu ích.</Plant_TreeWillow.description>
+</LanguageData>

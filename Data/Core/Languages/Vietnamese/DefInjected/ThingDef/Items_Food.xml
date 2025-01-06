@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Kibble.label>Thức ăn thô</Kibble.label>
+	<Kibble.description>Thức ăn thô cho động vật được làm từ thịt và nguyên liệu thực vật/rau khô trộn lẫn. Người cũng có thể ăn, nhưng thật sự, không ai thích điều đó.</Kibble.description>
+	<MealFine.label>Thức ăn tinh tế</MealFine.label>
+	<MealFine.description>Một món ăn phức tạp được chế biến từ nhiều nguyên liệu kết hợp với nhau.</MealFine.description>
+	<MealFine_Meat.label>Thịt tinh tế</MealFine_Meat.label>
+	<MealFine_Meat.description>Một món ăn phức tạp được chế biến từ nguyên liệu thịt.</MealFine_Meat.description>
+	<MealFine_Veg.label>Thực phẩm chay tinh tế</MealFine_Veg.label>
+	<MealFine_Veg.description>Một món ăn phức tạp được chế biến từ nguyên liệu thực vật.</MealFine_Veg.description>
+	<MealLavish.label>Thức ăn xa hoa</MealLavish.label>
+	<MealLavish.description>Một tác phẩm nghệ thuật bậc thầy trong ẩm thực, món ăn này nuôi dưỡng cơ thể, tâm trí và linh hồn.</MealLavish.description>
+	<MealLavish_Meat.label>Thịt xa hoa</MealLavish_Meat.label>
+	<MealLavish_Meat.description>Một tác phẩm nghệ thuật bậc thầy trong ẩm thực, món ăn này nuôi dưỡng cơ thể, tâm trí và linh hồn.</MealLavish_Meat.description>
+	<MealLavish_Veg.label>Thực phẩm chay xa hoa</MealLavish_Veg.label>
+	<MealLavish_Veg.description>Một tác phẩm nghệ thuật bậc thầy trong ẩm thực, món ăn này nuôi dưỡng cơ thể, tâm trí và linh hồn.</MealLavish_Veg.description>
+	<MealNutrientPaste.label>Bột dinh dưỡng</MealNutrientPaste.label>
+	<MealNutrientPaste.description>Một hợp chất tổng hợp được làm từ protein, carbohydrate, vitamin, amino acid và khoáng chất trộn lẫn. Đáp ứng tất cả nhu cầu cơ thể, nhưng rất khó ăn.</MealNutrientPaste.description>
+	<MealSimple.label>Thức ăn đơn giản</MealSimple.label>
+	<MealSimple.description>Thức ăn đơn giản được chế biến nhanh chóng từ bất kỳ nguyên liệu nào.</MealSimple.description>
+	<MealSurvivalPack.label>Thực phẩm đóng gói sinh tồn</MealSurvivalPack.label>
+	<MealSurvivalPack.description>Thực phẩm đóng gói chất lượng cao, được sản xuất để sử dụng trong các môi trường sống cực đoan. Mặc dù không hỏng, nhưng để ngoài trời vẫn sẽ bị lão hóa, là lựa chọn thực phẩm hàng đầu cho các chuyến đi dài.</MealSurvivalPack.description>
+	<Pemmican.label>Bánh thịt khô</Pemmican.label>
+	<Pemmican.description>Một loại thực phẩm được làm từ thịt và thực vật trộn lẫn và sấy khô. Hương vị bình thường nhưng không làm người ta khó chịu. Không cần bảo quản lạnh và có thể giữ lâu, phù hợp cho các chuyến đi dài.</Pemmican.description>
+</LanguageData>

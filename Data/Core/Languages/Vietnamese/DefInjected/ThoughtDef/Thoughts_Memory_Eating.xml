@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AteCorpse.stages.ate_corpse.label>Ăn xác chết</AteCorpse.stages.ate_corpse.label>
+<AteCorpse.stages.ate_corpse.description>Tôi buộc phải ăn xác chết như một con thú. Thật kinh tởm.</AteCorpse.stages.ate_corpse.description>
+<AteFineMeal.stages.ate_fine_meal.label>Ăn món ăn tinh tế</AteFineMeal.stages.ate_fine_meal.label>
+<AteFineMeal.stages.ate_fine_meal.description>Tôi đã ăn một món ăn rất ngon. Thật tuyệt!</AteFineMeal.stages.ate_fine_meal.description>
+<AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>Ăn thịt người đã nấu chín</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+<AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>Tôi đã ăn một món ăn làm từ thịt người. Thật kinh khủng.</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+<AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>Ăn thịt người đã nấu chín</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+<AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>Tôi đã ăn một món ăn làm từ thịt người, thật tuyệt vời. Nếu có thêm đậu tằm và rượu Chianti thì càng tốt.</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+<AteHumanlikeMeatDirect.stages.raw_cannibalism.label>Ăn thịt người sống</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+<AteHumanlikeMeatDirect.stages.raw_cannibalism.description>Tôi đã ăn thịt người sống như một con thú. Thật là một cơn ác mộng.</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+<AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>Ăn thịt người sống</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+<AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>Tôi đã ăn thịt người sống như một con thú. Thịt thật sự rất ngon và mọng nước, thật tuyệt vời.</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+<AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>Ăn thịt côn trùng đã nấu chín</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+<AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>Tôi đã ăn một bữa ăn làm từ thịt côn trùng dính dính màu xám, mặc dù gia vị đã che lấp một phần hương vị, nhưng tôi vẫn cảm nhận được nhiều bọng kỳ lạ.</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+<AteInsectMeatDirect.stages.ate_insect_meat.label>Ăn thịt côn trùng sống</AteInsectMeatDirect.stages.ate_insect_meat.label>
+<AteInsectMeatDirect.stages.ate_insect_meat.description>Tôi đã ăn sống một số thịt côn trùng dính dính màu xám. Đây có thể là thứ kinh tởm nhất mà tôi từng ăn trong đời!</AteInsectMeatDirect.stages.ate_insect_meat.description>
+<AteKibble.stages.ate_kibble.label>Ăn thức ăn thô</AteKibble.stages.ate_kibble.label>
+<AteKibble.stages.ate_kibble.description>Tôi buộc phải ăn thức ăn thô dành cho động vật. Cảm giác như tôi không thể sống như một con người nữa.</AteKibble.stages.ate_kibble.description>
+<AteLavishMeal.stages.ate_lavish_meal.label>Ăn món ăn xa xỉ</AteLavishMeal.stages.ate_lavish_meal.label>
+<AteLavishMeal.stages.ate_lavish_meal.description>Món ăn xa xỉ này thật tuyệt vời, tôi cảm thấy cả cơ thể và tâm hồn đều được nuôi dưỡng.</AteLavishMeal.stages.ate_lavish_meal.description>
+<AteRawFood.stages.ate_raw_food.label>Ăn thực phẩm sống</AteRawFood.stages.ate_raw_food.label>
+<AteRawFood.stages.ate_raw_food.description>Tôi buộc phải ăn thực phẩm sống, sao chúng ta không thể nấu nướng một chút, hoặc thậm chí tổng hợp một ít bột dinh dưỡng nhỉ?</AteRawFood.stages.ate_raw_food.description>
+<AteRottenFood.stages.ate_rotten_food.label>Ăn thực phẩm thối</AteRottenFood.stages.ate_rotten_food.label>
+<AteRottenFood.stages.ate_rotten_food.description>Tôi đã ăn một số thực phẩm bị hỏng. Nó tan chảy trong miệng tôi, khiến tôi cảm thấy rất khó chịu.</AteRottenFood.stages.ate_rotten_food.description>
+</LanguageData>

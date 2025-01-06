@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CureScaria.label>Chữa trị bệnh cuồng loạn</CureScaria.label>
+	<CureScaria.description>Phẫu thuật y tế đặc biệt này có thể chữa trị bệnh cuồng loạn.</CureScaria.description>
+	<CureScaria.jobString>Đang chữa trị bệnh cuồng loạn.</CureScaria.jobString>
+	<CureScaria.successfullyRemovedHediffMessage>{0} đã chữa khỏi bệnh cuồng loạn của {1} thành công.</CureScaria.successfullyRemovedHediffMessage>
+	<Sterilize.label>Triệt sản</Sterilize.label>
+	<Sterilize.description>Thực hiện triệt sản cho một sinh vật, ngăn không cho nó sinh sản.</Sterilize.description>
+	<Sterilize.jobString>Đang triệt sản cho TargetA.</Sterilize.jobString>
+	<Sterilize.successfullyRemovedHediffMessage>{0} đã khử trùng thành công cho {1}.</Sterilize.successfullyRemovedHediffMessage>
+</LanguageData>

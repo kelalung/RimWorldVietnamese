@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Burn.label>Cháy</Burn.label>
+	<Burn.deathMessage>{0} đã bị cháy chết.</Burn.deathMessage>
+	<Flame.label>Ngọn lửa</Flame.label>
+	<Flame.deathMessage>{0} đã bị cháy chết.</Flame.deathMessage>
+	<Frostbite.label>Bị lạnh cóng</Frostbite.label>
+	<Frostbite.deathMessage>{0} đã bị lạnh cóng chết.</Frostbite.deathMessage>
+	<TornadoScratch.label>Cào xước</TornadoScratch.label>
+	<TornadoScratch.deathMessage>{0} đã chết do lốc xoáy.</TornadoScratch.deathMessage>
+</LanguageData>

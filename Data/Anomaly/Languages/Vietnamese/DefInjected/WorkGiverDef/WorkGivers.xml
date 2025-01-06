@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivitySuppression.label>Ngăn chặn hoạt động của thực thể</ActivitySuppression.label>
+<ActivitySuppression.gerund>Ngăn chặn</ActivitySuppression.gerund>
+<ActivitySuppression.verb>Ngăn chặn</ActivitySuppression.verb>
+<DoBillsBioferriteShaper.label>Chế tạo tại bàn tạo hình sinh học</DoBillsBioferriteShaper.label>
+<DoBillsBioferriteShaper.gerund>Thực hiện tại</DoBillsBioferriteShaper.gerund>
+<DoBillsBioferriteShaper.verb>Thực hiện tại</DoBillsBioferriteShaper.verb>
+<DoBillsSerumCentrifuge.label>Chế tạo vật phẩm tại phòng thí nghiệm serum</DoBillsSerumCentrifuge.label>
+<DoBillsSerumCentrifuge.gerund>Thực hiện tại</DoBillsSerumCentrifuge.gerund>
+<DoBillsSerumCentrifuge.verb>Thực hiện tại</DoBillsSerumCentrifuge.verb>
+<DoctorTendToEntities.label>Chữa trị cho thực thể</DoctorTendToEntities.label>
+<DoctorTendToEntities.gerund>Chữa trị</DoctorTendToEntities.gerund>
+<DoctorTendToEntities.verb>Chữa trị</DoctorTendToEntities.verb>
+<ExecuteEntity.label>Xử lý thực thể</ExecuteEntity.label>
+<ExecuteEntity.gerund>Xử lý</ExecuteEntity.gerund>
+<ExecuteEntity.verb>Xử lý</ExecuteEntity.verb>
+<ExtractBioferrite.label>Chiết xuất sinh vật từ thực thể</ExtractBioferrite.label>
+<ExtractBioferrite.gerund>Chiết xuất sinh vật từ</ExtractBioferrite.gerund>
+<ExtractBioferrite.verb>Chiết xuất sinh vật từ</ExtractBioferrite.verb>
+<FillIn.label>Nhốt</FillIn.label>
+<FillIn.gerund>Nhốt</FillIn.gerund>
+<FillIn.verb>Nhốt</FillIn.verb>
+<InterrogatePrisoner.label>Thẩm vấn tù nhân</InterrogatePrisoner.label>
+<InterrogatePrisoner.gerund>Thẩm vấn</InterrogatePrisoner.gerund>
+<InterrogatePrisoner.verb>Thẩm vấn</InterrogatePrisoner.verb>
+<ReleaseEntity.label>Thả tự do cho thực thể</ReleaseEntity.label>
+<ReleaseEntity.gerund>Thả tự do</ReleaseEntity.gerund>
+<ReleaseEntity.verb>Thả tự do</ReleaseEntity.verb>
+<StudyInteract.label>Điều tra</StudyInteract.label>
+<StudyInteract.gerund>Điều tra</StudyInteract.gerund>
+<StudyInteract.verb>Điều tra</StudyInteract.verb>
+<TakeBioferriteOutOfHarvester.label>Lấy sản phẩm từ máy thu hoạch sinh vật</TakeBioferriteOutOfHarvester.label>
+<TakeBioferriteOutOfHarvester.gerund>Lấy sản phẩm từ</TakeBioferriteOutOfHarvester.gerund>
+<TakeBioferriteOutOfHarvester.verb>Lấy ra sản phẩm</TakeBioferriteOutOfHarvester.verb>
+<TakeBioferriteOutOfHarvester.verb>Lấy sản phẩm</TakeBioferriteOutOfHarvester.verb>
+<TakeEntityToHoldingPlatform.label>Bắt giữ thực thể</TakeEntityToHoldingPlatform.label>
+<TakeEntityToHoldingPlatform.gerund>Bắt giữ</TakeEntityToHoldingPlatform.gerund>
+<TakeEntityToHoldingPlatform.verb>Bắt giữ</TakeEntityToHoldingPlatform.verb>
+<TransferEntity.label>Chuyển giao thực thể</TransferEntity.label>
+<TransferEntity.gerund>Chuyển giao</TransferEntity.gerund>
+<TransferEntity.verb>Chuyển giao</TransferEntity.verb>
+</LanguageData>

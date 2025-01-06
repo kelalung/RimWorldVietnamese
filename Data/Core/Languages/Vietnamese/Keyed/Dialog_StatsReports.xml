@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Tool>Công cụ</Tool>
+	<DamageLower>Thiệt hại</DamageLower>
+	<SecondsPerAttackLower>Giây/mỗi đòn</SecondsPerAttackLower>
+	<StatsReport_BaseValue>Giá trị cơ bản</StatsReport_BaseValue>
+	<StatsReport_RelevantTraits>Các đặc điểm liên quan</StatsReport_RelevantTraits>
+	<StatsReport_RelevantGear>Các trang bị liên quan</StatsReport_RelevantGear>
+	<StatsReport_RelevantHediffs>Các tình trạng sức khỏe liên quan</StatsReport_RelevantHediffs>
+	<StatsReport_LifeStage>Giai đoạn sống</StatsReport_LifeStage>
+	<StatsReport_ShamblerCrawling>Xác sống bò</StatsReport_ShamblerCrawling>
+	<StatsReport_Material>Vật liệu</StatsReport_Material>
+	<StatsReport_CharacterQuality>Chất lượng nhân vật</StatsReport_CharacterQuality>
+	<StatsReport_Skills>Kỹ năng</StatsReport_Skills>
+	<StatsReport_OtherStats>Các thuộc tính khác xử lý sau</StatsReport_OtherStats>
+	<StatsReport_Health>Sức khỏe</StatsReport_Health>
+	<HealthFactorPercentImpact>Trọng số {0}</HealthFactorPercentImpact>
+	<HealthOffsetScale>Ảnh hưởng {0}</HealthOffsetScale>
+	<HealthFactorMaxImpact>Tác động tối đa {0}</HealthFactorMaxImpact>
+	<HealthFactorAllowedDefect>Nếu dưới {0}</HealthFactorAllowedDefect>
+	<StatsReport_PostProcessed>Đường cong xử lý sau</StatsReport_PostProcessed>
+	<StatsReport_ShootingExampleDistances>Tỷ lệ trúng ở khoảng cách xa hơn</StatsReport_ShootingExampleDistances>
+	<StatsReport_FinalValue>Giá trị cuối cùng</StatsReport_FinalValue>
+	<StatsReport_MaxValue>Giá trị tối đa</StatsReport_MaxValue>
+	<StatsReport_MultiplierFor>Hệ số {0}</StatsReport_MultiplierFor>
+	<StatsReport_MarketValueFromStuffsAndWork>Giá trị thị trường được tính từ nguyên liệu và công sức.</StatsReport_MarketValueFromStuffsAndWork>
+	<StatsReport_QualityMultiplier>Hệ số chất lượng</StatsReport_QualityMultiplier>
+	<StatsReport_QualityOffset>Độ lệch chất lượng</StatsReport_QualityOffset>
+	<StatsReport_MaxGain>Lợi ích tối đa</StatsReport_MaxGain>
+	<StatsReport_AgeMultiplier>Hệ số tuổi ({0})</StatsReport_AgeMultiplier>
+	<StatsReport_AgeOffset>Độ lệch tuổi ({0})</StatsReport_AgeOffset>
+	<StatsReport_HealthMultiplier>Độ bền ({0}) hệ số</StatsReport_HealthMultiplier>
+	<StatsReport_ReloadMarketValue>Chi phí nạp lại ({COUNT}x{AMMO_label})</StatsReport_ReloadMarketValue>
+	<StatsReport_ReloadRemainingChargesMultipler>Các khoản {CHARGENOUN_plural} còn lại ({0})</StatsReport_ReloadRemainingChargesMultipler>
+	<StatsReport_MoodMultiplier>Tâm trạng ({0}) hệ số</StatsReport_MoodMultiplier>
+	<StatsReport_LightMultiplier>Ánh sáng ({0}) hệ số</StatsReport_LightMultiplier>
+	<StatsReport_DifficultyMultiplier>Độ khó ({0}) hệ số</StatsReport_DifficultyMultiplier>
+	<StatsReport_InBed>Trên giường</StatsReport_InBed>
+	<StatsReport_Facilities>Cơ sở vật chất</StatsReport_Facilities>
+	<StatsReport_BodySize>Kích thước cơ thể ({0}) hệ số</StatsReport_BodySize>
+	<StatsReport_HasHediffExplanation>Bị thương</StatsReport_HasHediffExplanation>
+	<StatsReport_MeleeDPSExplanation>DPS = Thiệt hại cận chiến * Tỷ lệ trúng cận chiến / Thời gian hồi chiêu (giây)</StatsReport_MeleeDPSExplanation>
+	<StatsReport_MeleeDamage>Thiệt hại cận chiến</StatsReport_MeleeDamage>
+	<StatsReport_Cooldown>Thời gian hồi chiêu</StatsReport_Cooldown>
+	<StatsReport_MeleeHitChance>Tỷ lệ trúng cận chiến</StatsReport_MeleeHitChance>
+	<StatsReport_CooldownFormat>{0} giây</StatsReport_CooldownFormat>
+	<StatsReport_BlockedByFences>Bị hàng rào chặn</StatsReport_BlockedByFences>
+	<StatsReport_RoamInterval>Khoảng thời gian di chuyển</StatsReport_RoamInterval>
+	<StatsReport_CaravanRideableAge>Tuổi có thể cưỡi</StatsReport_CaravanRideableAge>
+	<StatsReport_LifeExpectancy>Tuổi thọ dự kiến</StatsReport_LifeExpectancy>
+	<StatsReport_MissingBodyParts>Hệ số thiếu bộ phận cơ thể</StatsReport_MissingBodyParts>
+	<StatsReport_GearAndInventoryMass>Khối lượng trang bị và hàng hóa</StatsReport_GearAndInventoryMass>
+	<StatsReport_WornByCorpse>Hệ số trang phục của xác chết</StatsReport_WornByCorpse>
+	<AverageOfAllAttacks>Trung bình của tất cả các đòn tấn công</AverageOfAllAttacks>
+	<StatsReport_ScenarioFactor>Kịch bản</StatsReport_ScenarioFactor>
+	<StatsReport_IngredientsMass>Khối lượng nguyên liệu</StatsReport_IngredientsMass>
+	<StatsReport_PermanentlyDisabled>Vĩnh viễn bị vô hiệu hóa.</StatsReport_PermanentlyDisabled>
+	<StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+	<StatsReport_AddedBodyPartsMass>Khối lượng các bộ phận cơ thể thêm vào</StatsReport_AddedBodyPartsMass>
+	<StatsReport_StuffEffectMultiplier>Hệ số hiệu ứng vật liệu</StatsReport_StuffEffectMultiplier>
+	<StatsReport_Resting>Nghỉ ngơi</StatsReport_Resting>
+	<StatsReport_JoyKind>Loại giải trí</StatsReport_JoyKind>
+	<StatsReport_WorkToUninstall>Công việc (gỡ bỏ)</StatsReport_WorkToUninstall>
+	<StatsReport_Fence>Hàng rào</StatsReport_Fence>
+	<StatsReport_PlantGrowth>Tăng trưởng {0} hệ số</StatsReport_PlantGrowth>
+	<StatsReport_PlantGrowth_Wild>Hệ số hoang dã</StatsReport_PlantGrowth_Wild>
+	<StatsReport_NotFlesh>Không phải thịt</StatsReport_NotFlesh>
+	<StatsReport_NotFresh>Không tươi</StatsReport_NotFresh>
+	<StatsReport_WildMan>Người hoang dã</StatsReport_WildMan>
+	<StatsReport_NonToolAttack>Tấn công</StatsReport_NonToolAttack>
+	<StatsReport_Ideoligion>Văn hóa</StatsReport_Ideoligion>
+	<StatsReport_Malnutrition>Suy dinh dưỡng {0} hệ số</StatsReport_Malnutrition>
+	<StatReport_PossibleOffsets>Các độ lệch có thể</StatReport_PossibleOffsets>
+	<StatsReport_RoomImpressiveness>Ấn tượng của phòng</StatsReport_RoomImpressiveness>
+	<StatsReport_Lit>Ánh sáng</StatsReport_Lit>
+	<StatsReport_GraveFull>Chứa {0}</StatsReport_GraveFull>
+	<StatsReport_GraveFullAbstract>Có xác người</StatsReport_GraveFullAbstract>
+	<StatsReport_GraveCorpseRelatedAbstract>Người thiền định có liên quan đến xác chết</StatsReport_GraveCorpseRelatedAbstract>
+	<StatsReport_FromQuality>Từ chất lượng</StatsReport_FromQuality>
+	<StatsReport_NearbyArtificialStructures>Gần các cấu trúc nhân tạo</StatsReport_NearbyArtificialStructures>
+	<StatsReport_SatisfiesTitle>Đáp ứng danh hiệu của người sử dụng</StatsReport_SatisfiesTitle>
+	<Stat_Age_Label>Tuổi</Stat_Age_Label>
+	<Stat_RecreationType_Desc>Các hình thức giải trí khác nhau có thể đáp ứng các nhu cầu giải trí khác nhau. Các thuộc địa sẽ dần chán ngán các hoạt động giải trí giống nhau, vì vậy việc cung cấp đa dạng giải trí là rất quan trọng.</Stat_RecreationType_Desc>
+	<Stat_JoyKind_AllTypes>Tất cả các loại giải trí</Stat_JoyKind_AllTypes>
+	<Stat_MineableThing_Name>Sản phẩm khai thác</Stat_MineableThing_Name>
+	<Stat_MineableThing_Desc>Những vật phẩm được tạo ra khi khai thác.</Stat_MineableThing_Desc>
+	<Stat_MiningYield_Name>Năng suất khai thác</Stat_MiningYield_Name>
+	<Stat_MiningYield_Desc>Số lượng tối đa sản phẩm tạo ra khi khai thác vật thể này. Năng suất thực tế sẽ được điều chỉnh theo kỹ năng khai thác của thợ mỏ.</Stat_MiningYield_Desc>
+	<Stat_SourceSpecies_Name>Loài nguồn</Stat_SourceSpecies_Name>
+	<Stat_SourceSpecies_Desc>Cho biết các sinh vật nào đã được lấy từ.</Stat_SourceSpecies_Desc>
+	<Stat_Stuff_Name>Vật liệu</Stat_Stuff_Name>
+	<Stat_Stuff_Desc>Vật này được làm từ gì. Điều này sẽ ảnh hưởng đến nhiều thuộc tính khác, bao gồm thiệt hại vũ khí, giáp quần áo và cách nhiệt, giá trị thị trường, v.v.</Stat_Stuff_Desc>
+	<Stat_Weapon_Name>Vũ khí</Stat_Weapon_Name>
+	<Stat_Weapon_Desc>Vũ khí dùng cho tháp pháo</Stat_Weapon_Desc>
+	<Stat_HitPoints_Desc>Số lượng thiệt hại mà vật thể có thể chịu trước khi bị phá hủy.</Stat_HitPoints_Desc>
+	<Stat_Thing_WorkToUninstall_Desc>Công việc cần thiết để gỡ bỏ nó.</Stat_Thing_WorkToUninstall_Desc>
+	<Stat_Thing_Fence_Desc>Cấu trúc này có phải là một hàng rào hay không. Hàng rào ngăn chặn những động vật này</Stat_Thing_Fence_Desc>
+	<Stat_Thing_CreatedAt_Desc>Các cơ sở nào có thể được sử dụng để sản xuất sản phẩm này.</Stat_Thing_CreatedAt_Desc>
+	<Stat_Thing_Damage_Desc>Thiệt hại mà vũ khí này gây ra.\n\nĐiều này có thể bị giảm bớt bởi giáp của mục tiêu.</Stat_Thing_Damage_Desc>
+	<Stat_Thing_Drug_MedicineXpGainFactor_Desc>Hệ số kinh nghiệm mà bác sĩ nhận được khi chăm sóc bệnh nhân.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+	<Stat_Thing_Plant_Attributes_Desc>Các thuộc tính của loại cây này.</Stat_Thing_Plant_Attributes_Desc>
+	<Stat_Thing_Apparel_CountsAsClothingNudity_Name>Quần áo</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+	<Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Các nhà theo chủ nghĩa khỏa thân có coi vật này là quần áo hay không. Nếu không, các nhà theo chủ nghĩa khỏa thân sẽ không bao giờ cảm thấy khó chịu vì mặc nó.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+	<Stat_Thing_Apparel_Gender>Giới tính</Stat_Thing_Apparel_Gender>
+	<Stat_Thing_Apparel_Gender_Desc>Các loại trang phục nhất định sẽ được một số giới tính cụ thể ưa thích. Những người khác mặc nó có thể không hài lòng.</Stat_Thing_Apparel_Gender_Desc>
+	<Stat_Thing_Apparel_Covers_Desc>Các bộ phận nào của cơ thể được che phủ.\n\nGiáp không thể bảo vệ các bộ phận mà nó không che phủ.</Stat_Thing_Apparel_Covers_Desc>
+	<Stat_Thing_Apparel_Layer_Desc>Cho biết các lớp trang phục nào được che phủ.\n\nMỗi bộ phận cơ thể chỉ có thể mặc một lớp trang phục cho mỗi lớp.</Stat_Thing_Apparel_Layer_Desc>
+	<Stat_Thing_Plant_FertilityRequirement_Desc>Yêu cầu độ màu mỡ tối thiểu của đất để cây này phát triển.</Stat_Thing_Plant_FertilityRequirement_Desc>
+	<Stat_Thing_Plant_FertilitySensitivity_Desc>Độ nhạy của cây này đối với độ màu mỡ của đất. Độ nhạy thấp có nghĩa là cây có thể phát triển với tốc độ giống nhau trên đất màu mỡ hoặc cằn cỗi. Độ nhạy cao có nghĩa là cây phát triển chậm hơn trên đất cằn cỗi và nhanh hơn trên đất màu mỡ.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+	<Stat_Thing_Plant_LightRequirement_Desc>Lượng ánh sáng cần thiết để cây này phát triển.</Stat_Thing_Plant_LightRequirement_Desc>
+	<Stat_Thing_Plant_LifeSpan_Desc>Tuổi thọ của cây. Ngay cả khi không được thu hoạch, cây cũng sẽ chết tự nhiên sau một thời gian nhất định.</Stat_Thing_Plant_LifeSpan_Desc>
+	<Stat_Thing_Plant_HarvestYield_Desc>Sản lượng thu hoạch của cây này.</Stat_Thing_Plant_HarvestYield_Desc>
+	<Stat_Thing_Plant_MinGrowthTemperature_Desc>Nhiệt độ tối thiểu mà cây này có thể sống. Nhiệt độ thấp hơn giá trị này sẽ gây hại theo thời gian.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+	<Stat_Thing_Plant_MaxGrowthTemperature_Desc>Nhiệt độ tối đa mà cây này có thể chịu đựng. Nhiệt độ cao hơn giá trị này sẽ gây hại theo thời gian.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+	<Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Cấp độ kỹ năng tối thiểu cần thiết để gieo hạt cây này.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+	<Stat_Race_Diet_Desc>Loại thực phẩm mà sinh vật này có thể ăn.\n\nCó thể ăn: {0}</Stat_Race_Diet_Desc>
+	<Stat_Race_LeatherType_Desc>Loại da mà sinh vật này nhận được khi bị giết.</Stat_Race_LeatherType_Desc>
+	<Stat_Race_Animal_TameFailedRevengeChance_Desc>Xác suất sinh vật này sẽ tấn công khi việc thuần hóa thất bại.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+	<Stat_Race_Trainability_Desc>Mức độ thông minh mà sinh vật này có thể được thuần hóa. Đây là sự kết hợp giữa trí thông minh và sự tập trung. Nó quyết định các khả năng mà sinh vật này có thể học.</Stat_Race_Trainability_Desc>
+	<Stat_Race_LifeExpectancy_Desc>Tuổi thọ trung bình của sinh vật này.</Stat_Race_LifeExpectancy_Desc>
+	<Stat_Race_BlockedByFences_Desc>Liệu sinh vật này có bị hàng rào và chướng ngại vật chặn không.</Stat_Race_BlockedByFences_Desc>
+	<Stat_Race_RoamInterval_Desc>Thời gian mà một con vật đã thuần hóa sẽ cố gắng di cư và rời khỏi bản đồ.\n\nĐộng vật chỉ di cư khi có một con đường trực tiếp dẫn đến rìa bản đồ. Bạn có thể sử dụng hàng rào, chướng ngại vật, tường và cửa để ngăn chặn điều này.\n\nNgười chăn nuôi có thể dùng dây thừng để giữ động vật đang di cư và đưa chúng trở lại chuồng.</Stat_Race_RoamInterval_Desc>
+	<Stat_Thing_Ingestible_Joy_Desc>Giá trị giải trí mà việc tiêu thụ vật phẩm này mang lại. Giá trị cao hơn sẽ đáp ứng nhiều nhu cầu giải trí hơn.</Stat_Thing_Ingestible_Joy_Desc>
+	<Stat_Race_BodySize_Desc>Kích thước của sinh vật này so với một người lớn bình thường.</Stat_Race_BodySize_Desc>
+	<Stat_Race_Growth_Desc>Độ gần gũi của sinh vật này đến tuổi trưởng thành.\n\nSự phát triển cần đủ dinh dưỡng. Một con vật đói sẽ phát triển chậm hơn so với một con vật đã no.</Stat_Race_Growth_Desc>
+	<Stat_Thing_Weapon_MeleeWarmupTime_Desc>Thời gian từ khi phát động tấn công cận chiến đến khi đánh trúng mục tiêu với vũ khí này.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+	<Stat_Thing_Weapon_RangedWarmupTime_Desc>Thời gian từ khi ngắm bắn đến khi bắn với vũ khí này trong tấn công tầm xa.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+	<Stat_Thing_Weapon_BurstShotCount_Desc>Số lượng viên đạn được bắn ra trong mỗi lần tấn công với vũ khí này.</Stat_Thing_Weapon_BurstShotCount_Desc>
+	<Stat_Thing_Weapon_BurstShotFireRate_Desc>Tốc độ bắn của vũ khí này khi bắn.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+	<Stat_Thing_Weapon_Range_Desc>Tầm bắn tối đa của vũ khí này.</Stat_Thing_Weapon_Range_Desc>
+	<Stat_Thing_Weapon_MissRadius_Desc>Bán kính phân tán ngẫu nhiên khi vũ khí này bắn. Giá trị cao hơn sẽ làm cho đạn phát tán rộng hơn quanh mục tiêu.</Stat_Thing_Weapon_MissRadius_Desc>
+	<Stat_Thing_Weapon_DirectHitChance_Desc>Xác suất bắn trúng mục tiêu nếu không bị chặn, né tránh hoặc dừng lại.</Stat_Thing_Weapon_DirectHitChance_Desc>
+	<Stat_Thing_MoodChange_Desc>Mức độ ảnh hưởng của bộ phận cơ thể này đến tâm trạng.※</Stat_Thing_MoodChange_Desc>
+	<Stat_Recipe_Skill_Desc>Kỹ năng chính được sử dụng khi thực hiện danh sách này.\n\nNó quyết định chất lượng sản phẩm và cung cấp kinh nghiệm kỹ năng tương ứng trong quá trình sản xuất.</Stat_Recipe_Skill_Desc>
+	<Stat_Recipe_Ingredients_Desc>Nguyên liệu cần thiết để thực hiện danh sách này.</Stat_Recipe_Ingredients_Desc>
+	<Stat_Recipe_SkillRequirements_Desc>Kỹ năng cần thiết để thực hiện danh sách này.</Stat_Recipe_SkillRequirements_Desc>
+	<Stat_Recipe_Products_Desc>Các sản phẩm tạo ra từ danh sách này.</Stat_Recipe_Products_Desc>
+	<Stat_Recipe_WorkSpeedStat_Desc>Các thuộc tính nào của nhân vật quyết định tốc độ làm việc của sản phẩm này.\n\nTrạng thái của người lao động càng cao, hiệu suất làm việc càng nhanh.</Stat_Recipe_WorkSpeedStat_Desc>
+	<Stat_Recipe_EfficiencyStat_Desc>Trạng thái nào quyết định chất lượng hoặc số lượng sản phẩm.\n\nTrạng thái của người lao động càng cao, chất lượng hoặc sản lượng càng cao.</Stat_Recipe_EfficiencyStat_Desc>
+	<Stat_Thing_Surgery_SuccessChanceFactor_Desc>Xác suất thành công của ca phẫu thuật này. Ca phẫu thuật khó hơn có hệ số thấp hơn.\n\nXác suất thành công thực tế của ca phẫu thuật cũng bị ảnh hưởng bởi bác sĩ, thiết bị liên quan và thuốc sử dụng.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+	<Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Không thể thất bại</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+	<Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Việc thực hiện ca phẫu thuật này là an toàn cho bệnh nhân.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+	<Stat_Thing_Surgery_DeathOnFailChance_Desc>Xác suất bệnh nhân tử vong do phẫu thuật thất bại.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+	<Stat_Hediff_TotalBleedFactor_Name>Hệ số mất máu</Stat_Hediff_TotalBleedFactor_Name>
+	<Stat_Hediff_TotalBleedFactor_Desc>Hệ số áp dụng cho lượng máu mất.</Stat_Hediff_TotalBleedFactor_Desc>
+	<Stat_Hediff_NaturalHealingFactor_Name>Hệ số tự chữa lành</Stat_Hediff_NaturalHealingFactor_Name>
+	<Stat_Hediff_NaturalHealingFactor_Desc>Hệ số áp dụng cho tốc độ tự chữa lành vết thương.</Stat_Hediff_NaturalHealingFactor_Desc>
+	<Stat_Hediff_FoodPoisoningChanceFactor_Name>Hệ số ngộ độc thực phẩm</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+	<Stat_Hediff_FoodPoisoningChanceFactor_Desc>Hệ số xác suất ngộ độc khi ăn thực phẩm có thể độc.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+	<Stat_Hediff_BleedingRate_Desc>Tốc độ mất máu trong tình huống này.</Stat_Hediff_BleedingRate_Desc>
+	<Stat_Hediff_Pain_Desc>Mức độ đau đớn gây ra trong tình huống này.</Stat_Hediff_Pain_Desc>
+	<Stat_Hediff_PartEfficiency_Desc>Độ lệch hiệu suất áp dụng cho bộ phận cơ thể bị ảnh hưởng.</Stat_Hediff_PartEfficiency_Desc>
+	<Stat_Hediff_PartEfficiencyAbsolute_Desc>So với bộ phận cơ thể tự nhiên, hiệu suất của nó cao đến mức nào.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+	<Stat_Hediff_Affects_Desc>Ảnh hưởng của sức khỏe đến tình trạng tâm lý.※</Stat_Hediff_Affects_Desc>
+	<Stat_Hediff_HungerRateOffset_Name>Tỷ lệ đói</Stat_Hediff_HungerRateOffset_Name>
+	<Stat_Hediff_HungerRateFactor_Desc>Hệ số áp dụng cho tốc độ tiêu thụ thực phẩm.</Stat_Hediff_HungerRateFactor_Desc>
+	<Stat_Hediff_HungerRateOffset_Desc>Độ lệch trong lượng thực phẩm cần thiết.</Stat_Hediff_HungerRateOffset_Desc>
+	<Stat_Hediff_TirednessOffset_Name>Tỷ lệ mệt mỏi</Stat_Hediff_TirednessOffset_Name>
+	<Stat_Hediff_TirednessOffset_Desc>Độ lệch áp dụng cho tỷ lệ nghỉ ngơi cần thiết của sinh vật.</Stat_Hediff_TirednessOffset_Desc>
+	<Stat_Hediff_TirednessFactor_Desc>Hệ số áp dụng cho tỷ lệ giảm nhu cầu nghỉ ngơi của sinh vật.</Stat_Hediff_TirednessFactor_Desc>
+	<Stat_Hediff_PreventsInfection_Desc>Có thể ngăn ngừa nhiễm trùng hay không.</Stat_Hediff_PreventsInfection_Desc>
+	<Stat_Thing_Terrain_Supports_Desc>Các vật thể mà địa hình này hỗ trợ.</Stat_Thing_Terrain_Supports_Desc>
+	<Stat_Thing_TerrainRequirement_Desc>Chỉ có thể đặt trên các loại địa hình này.</Stat_Thing_TerrainRequirement_Desc>
+	<Stat_Thing_Terrain_Fine_Name>Ấn tượng</Stat_Thing_Terrain_Fine_Name>
+	<Stat_Thing_Terrain_Fine_Value>Tinh tế</Stat_Thing_Terrain_Fine_Value>
+	<Stat_Thing_Terrain_Fine_Desc>Loại sàn này rất tinh tế và phù hợp cho quý tộc sử dụng.</Stat_Thing_Terrain_Fine_Desc>
+	<Stat_Thing_PowerConsumption_Desc>Lượng điện mà tòa nhà này sẽ lấy từ lưới điện.</Stat_Thing_PowerConsumption_Desc>
+	<Stat_Thing_ReloadChargesRemaining_Name>Số lượng {CHARGENOUN_plural} còn lại</Stat_Thing_ReloadChargesRemaining_Name>
+	<Stat_Thing_ReloadChargesRemaining_Desc>Số lượng {CHARGENOUN_plural} còn lại trên vật này. Nếu hết, khả năng đặc biệt này sẽ không thể sử dụng.</Stat_Thing_ReloadChargesRemaining_Desc>
+	<Stat_Thing_ReloadMaxCharges_Name>Tối đa {CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+	<Stat_Thing_ReloadMaxCharges_Desc>Số lượng {CHARGENOUN_plural} tối đa mà vật này có thể giữ.</Stat_Thing_ReloadMaxCharges_Desc>
+	<Stat_Thing_ReloadRefill_Name>Chi phí nạp lại {CHARGENOUN}</Stat_Thing_ReloadRefill_Name>
+	<Stat_Thing_ReloadRefill_Desc>Số lượng vật phẩm cần thiết để nạp đầy vật này.\n\nVật này cũng có thể được nạp lại trước khi hết, nhưng chi phí sẽ giống như khi nạp từ đầu.</Stat_Thing_ReloadRefill_Desc>
+	<Stat_Thing_ReloadPerCharge_Name>Chi phí nạp mỗi {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
+	<Stat_Thing_ReloadPerCharge_Desc>Số lượng vật phẩm cần thiết để nạp một {CHARGENOUN}. Nhiều {CHARGENOUN_plural} có thể được nạp cùng một lúc.</Stat_Thing_ReloadPerCharge_Desc>
+	<Stat_Thing_ReloadDestroyOnEmpty_Name>Biến mất khi hết</Stat_Thing_ReloadDestroyOnEmpty_Name>
+	<Stat_Thing_ReloadDestroyOnEmpty_Desc>Đồ vật này sẽ biến mất sau khi sử dụng hết {CHARGENOUN} cuối cùng.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+	<Stat_Thing_BodyPartEfficiency_Desc>Hiệu suất tổng thể của bộ phận cơ thể này.</Stat_Thing_BodyPartEfficiency_Desc>
+	<Stat_Thing_InstallSites>Các vị trí lắp đặt</Stat_Thing_InstallSites>
+	<Stat_Thing_InstallSites_Desc>Các vị trí trên cơ thể có thể được lắp đặt.</Stat_Thing_InstallSites_Desc>
+	<Stat_Thing_ReplacesParts>Các bộ phận thay thế</Stat_Thing_ReplacesParts>
+	<Stat_Thing_ReplacesParts_Desc>Các bộ phận cơ thể sẽ bị thay thế sau khi lắp đặt.</Stat_Thing_ReplacesParts_Desc>
+	<Stat_Thing_Biocoded_Name>Nhận diện sinh học</Stat_Thing_Biocoded_Name>
+	<Stat_Thing_Biocoded_Desc>Vật phẩm này được mã hóa sinh học chỉ cho phép sử dụng bởi một người nhất định.</Stat_Thing_Biocoded_Desc>
+	<Stat_Pawn_RequiredApparel_Name>Cần quần áo</Stat_Pawn_RequiredApparel_Name>
+	<Stat_Thing_Plant_GrowthRate>Tốc độ phát triển</Stat_Thing_Plant_GrowthRate>
+	<Stat_Thing_Plant_GrowthRate_Desc>Tốc độ phát triển của cây.\n\nTốc độ phát triển bị ảnh hưởng bởi độ màu mỡ của đất, nhiệt độ, ánh sáng và điều kiện môi trường.</Stat_Thing_Plant_GrowthRate_Desc>
+	<Stat_Thing_Plant_Age>Tuổi</Stat_Thing_Plant_Age>
+	<Stat_Thing_Plant_AgeDesc>Thời gian đã sống.</Stat_Thing_Plant_AgeDesc>
+	<Stat_Thing_Plant_Lifespan>Tuổi thọ</Stat_Thing_Plant_Lifespan>
+	<Stat_Building_Paintable>Có thể sơn</Stat_Building_Paintable>
+	<Stat_Building_PaintableDesc>Vật phẩm này có thể được nhuộm màu hay không.</Stat_Building_PaintableDesc>
+	<Stat_Building_PaintColor>Màu sơn</Stat_Building_PaintColor>
+	<Stat_Building_PaintColorDesc>Màu sắc đã được sơn cho tòa nhà này.</Stat_Building_PaintColorDesc>
+	<Stat_Building_ResourcesToMake>Tài nguyên xây dựng</Stat_Building_ResourcesToMake>
+	<Stat_Building_ResourcesToMakeDesc>Tài nguyên cần thiết để xây dựng nó.</Stat_Building_ResourcesToMakeDesc>
+	<Stat_Thing_TurretDesc>Vũ khí được lắp đặt trên sinh vật này.</Stat_Thing_TurretDesc>
+	<Stat_Thing_Ingredients>Nguyên liệu cấu thành nên vật này.</Stat_Thing_Ingredients>
+	<Stat_Thing_Drug_Chemical_Desc>Chất hóa học hoạt tính của loại thuốc này.\n\nTrong một số trường hợp, nhiều loại thuốc khác nhau có thể chứa cùng một thành phần hóa học. Những loại thuốc khác nhau này có thể đáp ứng nhu cầu nghiện bằng những cách khác nhau.</Stat_Thing_Drug_Chemical_Desc>
+	<Stat_Thing_Drug_Category_Desc>Danh mục mà loại chất gây nghiện này thuộc về.</Stat_Thing_Drug_Category_Desc>
+	<Stat_Thing_Drug_HighGainPerDose_Desc>Nồng độ mà mỗi liều thuốc này có thể cung cấp.</Stat_Thing_Drug_HighGainPerDose_Desc>
+	<Stat_Thing_Drug_HighFallPerDay_Desc>Nồng độ giảm mỗi ngày của loại thuốc này.</Stat_Thing_Drug_HighFallPerDay_Desc>
+	<Stat_Thing_Drug_HighDurationPerDose_Desc>Thời gian duy trì nồng độ hiệu quả sau khi sử dụng loại thuốc này.\n\nĐiều này được tính toán từ nồng độ mỗi liều thuốc và tốc độ giảm nồng độ.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+	<Stat_Thing_Drug_ToleranceGainPerDose_Desc>Kháng thuốc mà người sử dụng sẽ tăng lên mỗi liều thuốc này.\n\nĐối với cùng một chất hóa học, các phương pháp thu được khác nhau sẽ có mức kháng thuốc khác nhau.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+	<Stat_Thing_Drug_ToleranceFallPerDay_Desc>Số lượng kháng thuốc mà người sử dụng giảm mỗi ngày đối với chất hóa học này.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+	<Stat_Thing_Drug_MinToleranceForAddiction_Desc>Mức kháng thuốc tối thiểu cần thiết để nghiện lần đầu.\n\nNếu kháng thuốc của người sử dụng thấp hơn giá trị này, họ sẽ không bị nghiện khi sử dụng loại thuốc này mà không nghiện.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+	<Stat_Thing_Drug_SafeDoseInterval_Desc>Khoảng thời gian an toàn để sử dụng, nếu người sử dụng trưởng thành chưa bao giờ vượt quá tần suất này thì họ sẽ không bị nghiện.\n\nĐiều này được tính toán dựa trên ngưỡng kháng thuốc gây nghiện, kháng thuốc mỗi liều và tốc độ giảm kháng thuốc.\n\nLưu ý rằng một số loại thuốc không có khoảng thời gian an toàn, loại thuốc này sẽ gây nghiện ở bất kỳ liều lượng nào.\n\nLưu ý rằng khoảng thời gian liều an toàn phụ thuộc vào kích thước cơ thể của mỗi người.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+	<Stat_Thing_Drug_RandomODChance_Desc>Có khả năng ngẫu nhiên gây ra quá liều khi sử dụng loại thuốc này. Dù là lần thử đầu tiên hay người nghiện có kinh nghiệm hàng trăm lần, vẫn có khả năng xảy ra quá liều ngẫu nhiên khi sử dụng.</Stat_Thing_Drug_RandomODChance_Desc>
+	<Stat_Thing_Drug_Addictiveness_Desc>Độ gây nghiện của loại thuốc này, xác suất gây nghiện mỗi liều thuốc.\n\nNếu loại thuốc này có một mức kháng thuốc gây nghiện tối thiểu, thì chỉ khi kháng thuốc cao hơn giá trị này mới có thể gây nghiện. Ngược lại, bất kỳ liều nào cũng có thể dẫn đến nghiện.</Stat_Thing_Drug_Addictiveness_Desc>
+	<Stat_Thing_Drug_AddictionSeverityInitial_Desc>Mức độ nghiêm trọng ban đầu của việc gây nghiện do loại thuốc này gây ra.\n\nViệc sử dụng nhiều thuốc hơn sẽ làm tăng mức độ nghiện, trong khi theo thời gian sẽ giảm dần.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+	<Stat_Thing_Drug_AddictionRecoveryTime_Desc>Thời gian cần thiết để thoát khỏi nghiện lần đầu của loại thuốc này.\n\nĐiều này được tính toán dựa trên mức độ nghiện ban đầu chia cho tốc độ phục hồi nghiện, mức độ nghiện tích lũy sẽ cần thời gian lâu hơn.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+	<Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Mức độ nghiêm trọng gia tăng của nghiện cho mỗi liều thuốc này.\n\nMức độ nghiện không thể vượt quá 100%.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+	<Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Khoảng thời gian mà người nghiện cần sử dụng loại thuốc này để tránh cơn thèm thuốc.\n\nĐiều này được tính toán dựa trên tốc độ giảm nhu cầu nghiện và lượng đáp ứng nhu cầu cho mỗi liều.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+	<Stat_Thing_Drug_AddictionNeedOffset_Desc>Lượng đáp ứng nhu cầu của chất hóa học tương ứng mà mỗi liều thuốc này có thể cung cấp.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+	<Stat_Thing_Drug_AddictionNeedFallRate_Desc>Tốc độ giảm độ thỏa mãn nhu cầu của người nghiện đối với chất hóa học này.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+	<Stat_Thing_Drug_AddictionCost_Desc>Giá trị thị trường hàng ngày mà người nghiện phải chi tiêu để thỏa mãn nhu cầu mà không gây ra cơn thèm thuốc.\n\nGiá trị này được tính toán dựa trên nhu cầu mỗi liều hóa chất, tốc độ giảm nhu cầu và giá trị thị trường của loại thuốc này.\n\nCần lưu ý rằng có thể có nhiều cách khác nhau để có được cùng một chất hóa học.</Stat_Thing_Drug_AddictionCost_Desc>
+	<Stat_Thing_StyleLabel>Phong cách</Stat_Thing_StyleLabel>
+	<Stat_Thing_StyleDesc>Phong cách của một vật thể quyết định vẻ ngoài của nó. Điều này không có tác động đến trò chơi. Phong cách thường hình thành các phương pháp xây dựng khác nhau được sử dụng bởi những người có niềm tin và văn hóa khác nhau.</Stat_Thing_StyleDesc>
+	<Stat_Animal_GestationTime>Thời gian thai nghén</Stat_Animal_GestationTime>
+	<Stat_Animal_GestationTimeDesc>Thời gian mà loài này mang thai con cái hoặc trứng của nó.</Stat_Animal_GestationTimeDesc>
+	<Stat_Animal_LitterSize>Kích thước lứa</Stat_Animal_LitterSize>
+	<Stat_Animal_LitterSizeDesc>Số lượng con cái mà sinh vật này sinh ra mỗi lần. Nếu đây là một khoảng, bất kỳ số lượng con cái cụ thể nào sẽ có một số ngẫu nhiên trong khoảng này.</Stat_Animal_LitterSizeDesc>
+	<Stat_Animal_AdultMeatAmount>Số lượng thịt trưởng thành</Stat_Animal_AdultMeatAmount>
+	<Stat_Animal_AdultMeatAmountDesc>Số lượng thịt cơ bản tạo ra khi giết một thành viên trưởng thành của loài này. Sản lượng thực tế bị ảnh hưởng bởi các yếu tố khác như tổn thương cơ thể và kỹ năng của người giết mổ.</Stat_Animal_AdultMeatAmountDesc>
+	<Stat_Animal_GrowthTime>Thời gian phát triển</Stat_Animal_GrowthTime>
+	<Stat_Animal_GrowthTimeDesc>Thời gian trung bình mà sinh vật này cần để đạt đến tuổi trưởng thành. Nếu sinh vật đói, thời gian này sẽ dài hơn.</Stat_Animal_GrowthTimeDesc>
+	<Stat_Animal_MeatPerDayDuringGrowth>Số lượng thịt mỗi ngày trong quá trình phát triển</Stat_Animal_MeatPerDayDuringGrowth>
+	<Stat_Animal_MeatPerDayDuringGrowthDesc>Số lượng thịt mà sinh vật này nhận được mỗi ngày cho đến khi nó đạt tuổi trưởng thành.\n\nGiá trị này được tính toán từ lượng thịt và thời gian phát triển.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+	<Stat_Animal_GrassToMaintain>Số lượng cỏ cần thiết hàng ngày</Stat_Animal_GrassToMaintain>
+	<Stat_Animal_GrassToMaintainDesc>Số lượng cây cỏ điển hình mà sinh vật này cần để đáp ứng nhu cầu dinh dưỡng của nó. Điều này dựa trên tốc độ phát triển điển hình của cỏ bình thường, bỏ qua mùa đông.</Stat_Animal_GrassToMaintainDesc>
+	<Stat_Animal_EggType>Loại trứng</Stat_Animal_EggType>
+	<Stat_Animal_EggTypeDesc>Loại trứng mà sinh vật này sinh ra.</Stat_Animal_EggTypeDesc>
+	<Stat_Animal_EggsPerYear>Số lượng trứng mỗi năm</Stat_Animal_EggsPerYear>
+	<Stat_Animal_EggsPerYearDesc>Số lượng trứng mà sinh vật này sinh ra mỗi năm. Một số sinh vật cần thụ tinh trước khi sinh trứng. Nếu sinh vật đói, tốc độ sinh trứng sẽ chậm lại.</Stat_Animal_EggsPerYearDesc>
+	<Stat_Animal_EggNutrition>Giá trị dinh dưỡng của trứng</Stat_Animal_EggNutrition>
+	<Stat_Animal_EggNutritionDesc>Giá trị dinh dưỡng trong một quả trứng do sinh vật này sinh ra.</Stat_Animal_EggNutritionDesc>
+	<Stat_Animal_EggNutritionYearly>Giá trị dinh dưỡng hàng năm từ trứng</Stat_Animal_EggNutritionYearly>
+	<Stat_Animal_EggNutritionYearlyDesc>Giá trị dinh dưỡng từ trứng mà sinh vật này sinh ra mỗi năm.\n\nGiá trị này được tính toán từ số lượng trứng hàng năm và giá trị dinh dưỡng của trứng.</Stat_Animal_EggNutritionYearlyDesc>
+	<Stat_Animal_EggMarketValue>Giá thị trường của trứng</Stat_Animal_EggMarketValue>
+	<Stat_Animal_EggMarketValueDesc>Giá thị trường của một quả trứng.</Stat_Animal_EggMarketValueDesc>
+	<Stat_Animal_EggMarketValueYearly>Giá trị thị trường hàng năm của trứng</Stat_Animal_EggMarketValueYearly>
+	<Stat_Animal_EggMarketValueYearlyDesc>Tổng giá trị của trứng sản sinh trong một năm.\n\nĐiều này được tính toán từ sản lượng trứng hàng năm và giá trị thị trường của trứng.</Stat_Animal_EggMarketValueYearlyDesc>
+	<Stat_Animal_MilkType>Loại sản phẩm</Stat_Animal_MilkType>
+	<Stat_Animal_MilkTypeDesc>Loại sản phẩm mà sinh vật này sản xuất.</Stat_Animal_MilkTypeDesc>
+	<Stat_Animal_MilkAmount>Sản lượng</Stat_Animal_MilkAmount>
+	<Stat_Animal_MilkAmountDesc>Số lượng sản phẩm mà sinh vật này sản xuất mỗi lần thu hoạch.</Stat_Animal_MilkAmountDesc>
+	<Stat_Animal_MilkGrowthTime>Thời gian sản xuất</Stat_Animal_MilkGrowthTime>
+	<Stat_Animal_MilkGrowthTimeDesc>Thời gian mà sinh vật này cần giữa hai lần thu hoạch.</Stat_Animal_MilkGrowthTimeDesc>
+	<Stat_Animal_MilkPerYear>Sản lượng hàng năm</Stat_Animal_MilkPerYear>
+	<Stat_Animal_MilkPerYearDesc>Tổng sản lượng sản phẩm của sinh vật này trong một năm.\n\nĐiều này được tính toán từ sản lượng và thời gian sản xuất.</Stat_Animal_MilkPerYearDesc>
+	<Stat_Animal_MilkValue>Giá trị thị trường của sản phẩm</Stat_Animal_MilkValue>
+	<Stat_Animal_MilkValueDesc>Giá trị của một đơn vị sản phẩm của sinh vật này.</Stat_Animal_MilkValueDesc>
+	<Stat_Animal_MilkValuePerYear>Giá trị hàng năm</Stat_Animal_MilkValuePerYear>
+	<Stat_Animal_MilkValuePerYearDesc>Tổng giá trị sản phẩm của sinh vật này trong một năm, giả sử nó không bao giờ đói và thu hoạch ngay khi kết thúc mỗi chu kỳ sản xuất.\n\nĐiều này được tính toán từ sản lượng hàng năm và giá trị thị trường của sản phẩm.</Stat_Animal_MilkValuePerYearDesc>
+	<Stat_Animal_WoolType>Loại lông</Stat_Animal_WoolType>
+	<Stat_Animal_WoolTypeDesc>Loại lông mà sinh vật này sản xuất.</Stat_Animal_WoolTypeDesc>
+	<Stat_Animal_WoolAmount>Số lượng lông</Stat_Animal_WoolAmount>
+	<Stat_Animal_WoolAmountDesc>Số lượng lông mà sinh vật này sản xuất mỗi lần cắt lông.</Stat_Animal_WoolAmountDesc>
+	<Stat_Animal_WoolGrowthTime>Thời gian sản xuất lông</Stat_Animal_WoolGrowthTime>
+	<Stat_Animal_WoolGrowthTimeDesc>Thời gian mà sinh vật này cần để có thể cắt lông lần tiếp theo.</Stat_Animal_WoolGrowthTimeDesc>
+	<Stat_Animal_WoolPerYear>Sản lượng lông hàng năm</Stat_Animal_WoolPerYear>
+	<Stat_Animal_WoolPerYearDesc>Số lượng lông mà sinh vật này sản xuất mỗi năm.\n\nĐiều này được tính toán từ sản lượng lông và thời gian sản xuất lông.</Stat_Animal_WoolPerYearDesc>
+	<Stat_Animal_WoolValue>Giá trị thị trường của lông</Stat_Animal_WoolValue>
+	<Stat_Animal_WoolValueDesc>Giá trị của một đơn vị lông do sinh vật này sản xuất.</Stat_Animal_WoolValueDesc>
+	<Stat_Animal_WoolValuePerYear>Giá trị lông hàng năm</Stat_Animal_WoolValuePerYear>
+	<Stat_Animal_WoolValuePerYearDesc>Tổng giá trị lông của sinh vật này trong một năm.\n\nĐiều này được tính toán từ sản lượng lông hàng năm và giá trị thị trường của lông.</Stat_Animal_WoolValuePerYearDesc>
+	<Stat_Studiable_Desc>Tổng số điểm có thể điều tra đối với đối tượng này.</Stat_Studiable_Desc>
+	<Stat_Source_Label>Xuất xứ</Stat_Source_Label>
+	<Stat_Source_OfficialExpansionReport>Đến từ bản mở rộng chính thức</Stat_Source_OfficialExpansionReport>
+	<Stat_Source_ModReport>Đến từ mod cộng đồng</Stat_Source_ModReport>
+	<ContainedBookBeauty>Độ thẩm mỹ của sách chứa đựng</ContainedBookBeauty>
+	<Stat_TrapDamageHitCount>{0} lần</Stat_TrapDamageHitCount>
+	<!--<HeldBookCount>Số lượng sách đang nắm giữ</HeldBookCount>-->
+</LanguageData>

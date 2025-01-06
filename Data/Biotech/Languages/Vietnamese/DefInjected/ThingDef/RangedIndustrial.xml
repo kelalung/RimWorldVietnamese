@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bullet_ToxbombLauncher.label>Đạn khí độc</Bullet_ToxbombLauncher.label>
+	<Flamebow.label>Cung lửa</Flamebow.label>
+	<Flamebow.description>Một cây cung ngắn đơn giản có thể bắn ra mũi tên lửa. Khi va chạm, nhiên liệu trên mũi tên sẽ được phun ra xung quanh, sau đó sẽ được thiết bị đánh lửa nhanh chóng đốt cháy.</Flamebow.description>
+	<Flamebow.tools.limb.label>Báng cung</Flamebow.tools.limb.label>
+	<Flamebow.verbs.Verb_Shoot.label>Cung lửa</Flamebow.verbs.Verb_Shoot.label>
+	<Gun_ToxbombLauncher.label>Máy phóng đạn khí độc</Gun_ToxbombLauncher.label>
+	<Gun_ToxbombLauncher.description>Một máy phóng khí độc tự nạp. Đạn sẽ phát tán một đám khí độc chết người có thể tồn tại trong vài giây khi va chạm.\n\nKhí độc sẽ gây bỏng cho mắt và phổi của sinh vật, làm giảm tạm thời khả năng nhìn và hô hấp. Sự tiếp xúc kéo dài với khí độc có thể gây ngộ độc.</Gun_ToxbombLauncher.description>
+	<Gun_ToxbombLauncher.tools.stock.label>Cán súng</Gun_ToxbombLauncher.tools.stock.label>
+	<Gun_ToxbombLauncher.tools.barrel.label>Ống súng</Gun_ToxbombLauncher.tools.barrel.label>
+	<Gun_ToxbombLauncher.verbs.Verb_Shoot.label>Máy phóng đạn khí độc</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+	<Proj_FireArrow.label>Mũi tên lửa</Proj_FireArrow.label>
+	<Proj_GrenadeTox.label>Lựu đạn khí độc</Proj_GrenadeTox.label>
+	<Weapon_GrenadeTox.label>Lựu đạn khí độc</Weapon_GrenadeTox.label>
+	<Weapon_GrenadeTox.description>Lựu đạn chứa khí độc hóa lỏng. Khi va chạm, nó sẽ phát tán một đám khí độc chết người có thể tồn tại trong vài giây.\n\nKhí độc sẽ gây bỏng cho mắt và phổi của sinh vật, làm giảm tạm thời khả năng nhìn và hô hấp. Sự tiếp xúc kéo dài với khí độc có thể gây ngộ độc.</Weapon_GrenadeTox.description>
+	<Weapon_GrenadeTox.verbs.throw_tox_grenade.label>Ném lựu đạn khí độc</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
+</LanguageData>

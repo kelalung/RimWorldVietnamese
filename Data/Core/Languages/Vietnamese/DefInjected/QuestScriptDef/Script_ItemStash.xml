@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->Theo thông tin mà chúng ta vừa thu thập được, có một lô hàng hóa quý giá trị khoảng [itemStashContentsValue] đang được giấu gần [map_definite].\nBao gồm:\n\n[itemStashContents]\n\nThật không may, vị trí của lô hàng này không an toàn:\n\nCó [allSitePartsDescriptionsExceptFirst]</li>
+		<li>questDescription(asker_factionLeader==True)->[asker_faction_name] của [asker_faction_leaderTitle],[asker_nameDef] cho chúng ta biết rằng, [asker_pronoun] có một lô hàng hóa quý giá trị khoảng [itemStashContentsValue] được để lại không xa chúng ta và muốn chuyển giao cho chúng ta.\nBao gồm:\n\n[itemStashContents]\n\n[asker_label] tiết lộ với chúng ta rằng, vị trí của lô hàng này không an toàn:\n\nCó [allSitePartsDescriptionsExceptFirst]</li>
+	</OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+	<OpportunitySite_ItemStash.questNameRules.rulesStrings>
+		<li>questName(priority=1)->[asker_nameDef][stash] của [treasure]</li>
+		<li>questName->[stash][treasure]</li>
+		<li>stash->Kho giấu</li>
+		<li>stash->Ẩn giấu</li>
+		<li>stash->Sưu tập</li>
+		<li>stash->Lưu trữ</li>
+		<li>treasure->Kho báu</li>
+		<li>treasure->Đồ quý</li>
+		<li>treasure->Tài sản</li>
+		<li>treasure->Vật phẩm quý giá</li>
+		<li>treasure->Hàng hóa quý giá</li>
+	</OpportunitySite_ItemStash.questNameRules.rulesStrings>
+	<OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn：[resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+	<OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Thông tin vừa thu thập cho thấy lô hàng quý giá đã bị người khác lấy mất. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+</LanguageData>

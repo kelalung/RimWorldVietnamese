@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BeamWound.label>Phỏng laser</BeamWound.label>
+<BeamWound.description>Phỏng laser.</BeamWound.description>
+<BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>Phỏng vĩnh viễn</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+<BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>Phỏng cũ</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+<BeamWound.injuryProps.destroyedLabel>Bị thiêu rụi</BeamWound.injuryProps.destroyedLabel>
+<BeamWound.injuryProps.destroyedOutLabel>Bị đốt cháy</BeamWound.injuryProps.destroyedOutLabel>
+<BeamWound.labelNoun>Phỏng laser</BeamWound.labelNoun>
+<BeamWound.labelNounPretty>{1} trong {0}</BeamWound.labelNounPretty>
+</LanguageData>

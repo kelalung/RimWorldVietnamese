@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>Quần áo ràng buộc (không phải vùng kín)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+<AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>Che phủ da là sai, chỉ nên che phủ vùng kín.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
+<AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>Quần áo ràng buộc (không phải vùng kín)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+<AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>Che phủ da là sai, chỉ nên che phủ vùng kín.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
+<AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>Quần áo ràng buộc (không phải vùng kín)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+<AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>Che phủ da là sai, nhưng tôi vẫn làm vậy, chỉ nên che phủ vùng kín.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
+<AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>Quần áo ràng buộc (không phải vùng kín)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
+<AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>Quần áo ràng buộc (không phải vùng kín)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
+<AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>Quần áo ràng buộc</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
+<AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>Tôi không đồng ý việc dùng quần áo ràng buộc bản thân, nhưng tôi đã làm vậy.</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
+<AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>Quần áo ràng buộc</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
+<AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>Tôi không đồng ý việc dùng quần áo ràng buộc bản thân, nhưng tôi đã làm vậy.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
+<AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>Quần áo ràng buộc</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
+<AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>Tôi dùng quần áo ràng buộc cơ thể mình, đây là hành vi sai trái.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
+<AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>Quần áo ràng buộc</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
+<AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>Quần áo ràng buộc</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
+<GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>
+<GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>Phơi bày bản thân trước thế giới là sai, tôi nên được che phủ hoàn toàn.</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>
+<GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>
+<GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>Phơi bày bản thân trước thế giới là sai, tôi nên được che phủ hoàn toàn.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>
+<GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
+<GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+<GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>Phơi bày vùng kín/ngực/tóc</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>
+<GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>Phơi bày bản thân trước thế giới là sai, chỉ nên để mặt ngoài.</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>
+<GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>Phơi bày vùng kín/ngực/tóc</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>
+<GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>Phơi bày bản thân trước thế giới là sai, chỉ nên để mặt ngoài.</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>
+<GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
+<GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>Phơi bày cơ thể</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+<GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>Phơi bày vùng kín/ngực</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>
+<GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>Tôi không thích phơi bày vùng kín hoặc ngực của mình.</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>
+<GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>Phơi bày vùng kín/ngực</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>
+<GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>Tôi không thích phơi bày vùng kín hoặc ngực của mình.</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>
+<GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>Phơi bày vùng kín/ngực</GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>
+<GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>Phơi bày vùng kín/ngực</GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>
+<GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>Phơi bày vùng kín</GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>
+<GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>Tôi không nên để lộ vùng kín của mình.</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
+<GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>Phơi bày vùng kín</GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>
+<GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>Tôi không nên để lộ vùng kín của mình.</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
+<GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>Phơi bày vùng kín</GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>
+<GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>Phơi bày vùng kín</GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>
+</LanguageData>

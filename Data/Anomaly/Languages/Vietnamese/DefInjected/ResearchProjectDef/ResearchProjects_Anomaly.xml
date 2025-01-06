@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AdvancedPsychicRituals.label>Nghi lễ tâm linh nâng cao</AdvancedPsychicRituals.label>
+	<AdvancedPsychicRituals.description>Nghiên cứu cách tổ chức các nghi lễ tâm linh nâng cao.</AdvancedPsychicRituals.description>
+	<AdvancedPsychicRituals.generalRules.rulesStrings>
+		<li>subject->Nghi lễ tâm linh nâng cao</li>
+		<li>subject_story->Được giới thiệu gia nhập một giáo phái</li>
+		<li>subject_story->Gặp một lãnh đạo giáo phái bị lưu đày, người luôn khoe khoang về bí mật của mình</li>
+		<li>subject_story->Đã sâu sắc hiểu biết về sự hy sinh trong nghi lễ của [ANYPAWN_possessive]</li>
+		<li>subject_story->Được Ix đại học bổ nhiệm làm giáo sư lịch sử tâm linh</li>
+		<li>subject_gerund->Thực hiện nghi lễ tâm linh nâng cao</li>
+	</AdvancedPsychicRituals.generalRules.rulesStrings>
+	<AtmosphericHeater.label>Thiết bị làm nóng khí quyển</AtmosphericHeater.label>
+	<AtmosphericHeater.description>Mở khóa xây dựng "Thiết bị làm nóng khí quyển" tiêu tốn sắt sống, nhiệt lượng tạo ra đủ để làm tăng nhiệt độ của toàn khu vực.</AtmosphericHeater.description>
+	<AtmosphericHeater.generalRules.rulesStrings>
+		<li>subject->Sử dụng sắt sống để làm nóng</li>
+		<li>subject_story->Nâng cấp nhà máy địa nhiệt cổ xưa</li>
+		<li>subject_story->Nghiên cứu sản lượng nhiệt của kim loại sinh học</li>
+		<li>subject_story->Nghiên cứu công nghệ lưu trữ siêu phàm siêu lớn</li>
+		<li>subject_story->Nghiên cứu hệ thống hố nhiệt ở thế giới băng tuyết đông đúc</li>
+		<li>subject_gerund->Sử dụng sắt sống để làm nóng</li>
+		<li>subject_gerund->Xây dựng thiết bị làm nóng tiêu tốn sắt sống</li>
+	</AtmosphericHeater.generalRules.rulesStrings>
+	<BasicPsychicRituals.label>Rối loạn hư không</BasicPsychicRituals.label>
+	<BasicPsychicRituals.description>Mở khóa xây dựng điểm tổ chức nghi lễ tâm linh, dùng để thực hiện nghi lễ tâm linh. Sử dụng nghi lễ rối loạn hư không để phát hiện thực thể mới.</BasicPsychicRituals.description>
+	<BasicPsychicRituals.generalRules.rulesStrings>
+		<li>subject->Nghi lễ tâm linh</li>
+		<li>subject_story->Nghiên cứu nghi lễ của tín đồ Horax</li>
+		<li>subject_story->Xây dựng lại bàn thờ nguyên thủy</li>
+		<li>subject_story->Hiểu biết về cơ bản của giao tiếp tâm linh</li>
+		<li>subject_story->Xem một nghi lễ rối loạn hư không thất bại ở thế giới chết chóc</li>
+		<li>subject_story->Giao tiếp với các mảnh siêu phàm tăm tối trên đỉnh cột đá sa mạc</li>
+		<li>subject_gerund->Thực hiện nghi lễ tâm linh</li>
+		<li>subject_gerund->Xây dựng điểm tổ chức nghi lễ</li>
+		<li>subject_gerund->Kích thích thực thể hư không</li>
+	</BasicPsychicRituals.generalRules.rulesStrings>
+	<BioferriteExtraction.label>Chiết xuất sắt sống</BioferriteExtraction.label>
+	<BioferriteExtraction.description>Chiết xuất sắt sống trực tiếp từ thực thể bị bắt giữ thông qua phẫu thuật. Vật liệu này có thể được sử dụng để chế tạo vũ khí và trang phục tại điểm chế tạo hoặc bàn tạo hình sắt sống.</BioferriteExtraction.description>
+	<BioferriteExtraction.generalRules.rulesStrings>
+		<li>subject->Chiết xuất sắt sống</li>
+		<li>subject_story->Chiết xuất một hợp chất hữu cơ từ mẫu máu thịt đột biến nhanh chóng</li>
+		<li>subject_story->Lột bỏ và nấu máu thịt của cây ăn thịt xấu số</li>
+		<li>subject_story->Báo cáo điều tra về một hiện tượng siêu phàm</li>
+		<li>subject_story->Phát hiện một loại kim loại hữu cơ quý hiếm</li>
+		<li>subject_gerund->Chiết xuất sắt sống</li>
+	</BioferriteExtraction.generalRules.rulesStrings>
+	<BioferriteGenerator.label>Máy phát điện sắt sống</BioferriteGenerator.label>
+	<BioferriteGenerator.description>Xây dựng máy phát điện sử dụng sắt sống làm nhiên liệu.</BioferriteGenerator.description>
+	<BioferriteGenerator.generalRules.rulesStrings>
+		<li>subject->Phát điện bằng sắt sống</li>
+		<li>subject_story->Được đào tạo sử dụng nguồn năng lượng mới</li>
+		<li>subject_story->Khám phá việc sử dụng kim loại và nhiên liệu sợi</li>
+		<li>subject_story->Phát hiện niềm đam mê với ngọn lửa và vật liệu cháy</li>
+		<li>subject_story->Đảm nhận vai trò kỹ thuật viên, phụ trách bảo trì hệ thống năng lượng đường ray</li>
+		<li>subject_story->Chiết xuất thành phần có thể sử dụng làm nhiên liệu từ động vật hoang dã</li>
+		<li>subject_gerund->Xây dựng máy phát điện sắt sống</li>
+		<li>subject_gerund->Sử dụng sắt sống để cung cấp năng lượng cho máy phát điện</li>
+	</BioferriteGenerator.generalRules.rulesStrings>
+	<BioferriteHarvesting.label>Thu hoạch sắt sống</BioferriteHarvesting.label>
+	<BioferriteHarvesting.description>Mở khóa xây dựng "Máy thu hoạch sắt sống", có thể tự động thu thập sắt sống từ thực thể bị bắt. Hiệu quả hơn so với chiết xuất phẫu thuật, sản lượng sắt sống cũng nhiều hơn.</BioferriteHarvesting.description>
+	<BioferriteHarvesting.generalRules.rulesStrings>
+		<li>subject->Sắt sống</li>
+		<li>subject_story->Điều tra một loại vật chất sợi kim loại kỳ lạ</li>
+		<li>subject_story->Thực hiện giải phẫu một xác chết đáng sợ</li>
+		<li>subject_story->Phát hiện một đống kim loại hữu cơ</li>
+		<li>subject_story->Phát hiện động vật hoang dã kỳ lạ, có vẻ như bị nhiễm kim loại</li>
+		<li>subject_gerund->Thu hoạch sắt sống</li>
+	</BioferriteHarvesting.generalRules.rulesStrings>
+	<BioferriteIgnition.label>Vũ khí sắt sống</BioferriteIgnition.label>
+	<BioferriteIgnition.description>Mở khóa chế tạo vũ khí tiên tiến sử dụng sắt sống làm nhiên liệu.</BioferriteIgnition.description>
+	<BioferriteIgnition.generalRules.rulesStrings>
+		<li>subject->Sắt sống cháy</li>
+		<li>subject->Vũ khí sắt sống</li>
+		<li>subject_story->Đã thực hiện công việc thu hoạch trên một tiểu hành tinh siêu phàm</li>
+		<li>subject_story->Nghiên cứu điểm cháy của các vật liệu quý hiếm</li>
+		<li>subject_story->Đã tham gia vào bộ phận nghiên cứu của một công ty vũ khí quân sự</li>
+		<li>subject_story->Đã dọn dẹp khoáng sản sinh học trong vùng hoang dã công nghệ siêu phàm</li>
+		<li>subject_gerund->Chế tạo vũ khí sắt sống</li>
+	</BioferriteIgnition.generalRules.rulesStrings>
+	<BioferriteShaping.label>Định hình sắt sống</BioferriteShaping.label>
+	<BioferriteShaping.description>Định hình sắt sống thành các công cụ, vũ khí, sàn nhà và nhiều thứ hữu ích khác.</BioferriteShaping.description>
+	<BioferriteShaping.generalRules.rulesStrings>
+		<li>subject->Định hình sắt sống</li>
+		<li>subject_story->Học được kỹ thuật đúc và điêu khắc độc đáo</li>
+		<li>subject_story->Được đào tạo về định hình nhiệt</li>
+		<li>subject_story->Đã làm việc tại một xưởng đúc vật liệu quý hiếm</li>
+		<li>subject_story->Đã hỗ trợ một nhà khoa học vật liệu siêu phàm</li>
+		<li>subject_story->Nghiên cứu sự hình thành của các bảo vật siêu phàm</li>
+		<li>subject_gerund->Định hình sắt sống</li>
+	</BioferriteShaping.generalRules.rulesStrings>
+	<BlissLobotomy.label>Phẫu thuật não hạnh phúc</BlissLobotomy.label>
+	<BlissLobotomy.description>Thực hiện phẫu thuật cắt bỏ não cho bệnh nhân, khiến họ trở nên vô tư, nhưng đồng thời cũng mất khả năng làm việc trí thức và chuyên môn.</BlissLobotomy.description>
+	<BlissLobotomy.generalRules.rulesStrings>
+		<li>subject->Phẫu thuật não hạnh phúc</li>
+		<li>subject_story->Cuối cùng bị cắt bỏ não do phản ứng tư tưởng</li>
+		<li>subject_story->Cung cấp điều trị phục hồi cho một số ít người sống sót sau thí nghiệm Eldorf</li>
+		<li>subject_story->Có tư cách là thực tập sinh phẫu thuật thần kinh và thợ cắt tóc</li>
+		<li>subject_gerund->Thực hiện phẫu thuật não hạnh phúc</li>
+		<li>subject_gerund->Kích thích mô não</li>
+	</BlissLobotomy.generalRules.rulesStrings>
+	<BloodRain.label>Mưa máu giận dữ</BloodRain.label>
+	<BloodRain.description>Thực hiện nghi lễ tâm linh, khiến chất lỏng tâm linh giống như máu rơi xuống từ trên trời. Bất kỳ ai tiếp xúc sẽ cảm thấy một cơn giận không tên, cuối cùng rơi vào cơn cuồng loạn.</BloodRain.description>
+	<BloodRain.generalRules.rulesStrings>
+		<li>subject->Mưa máu giận dữ</li>
+		<li>subject_story->Đã điều tra về những huyền thoại cổ đại về mưa hữu cơ</li>
+		<li>subject_story->Đã nghiên cứu các mạch thần kinh của bệnh nhân cuồng loạn</li>
+		<li>subject_story->Đã lấy mẫu chất lỏng tâm linh từ thế giới Ix thăng thiên</li>
+		<li>subject_story->Bị ướt bởi chất lỏng tâm linh, tâm trí tràn đầy giận dữ khó kiểm soát</li>
+		<li>subject_gerund->Gọi mưa máu giận dữ</li>
+	</BloodRain.generalRules.rulesStrings>
+	<Brainwipe.label>Xóa não</Brainwipe.label>
+	<Brainwipe.description>Thực hiện nghi lễ tâm linh, loại bỏ phần lớn ký ức tình tiết của một người. Các sự kiện chấn thương sẽ bị quên lãng. Những tù nhân không hợp tác cũng sẽ dễ dàng bị tuyển mộ hơn.</Brainwipe.description>
+	<Brainwipe.generalRules.rulesStrings>
+		<li>subject->Xóa ý thức</li>
+		<li>subject_story->Đã nghiên cứu các trường hợp mất trí nhớ ngẫu nhiên</li>
+		<li>subject_story->Đã làm việc tại một phòng khám phục vụ cho những người sống sót sau tổn thương não</li>
+		<li>subject_story->Đã nghiên cứu các mạch thần kinh của bệnh nhân mất trí nhớ</li>
+		<li>subject_story->Quản lý một cơ sở xóa não sau khi chiến tranh bị lãng quên kết thúc</li>
+		<li>subject_gerund->Xóa ý thức của đối tượng thử nghiệm</li>
+		<li>subject_gerund->Thực hiện nghi lễ tâm linh để xóa ý thức của đối tượng thử nghiệm</li>
+	</Brainwipe.generalRules.rulesStrings>
+	<Chronophagy.label>Nuốt thời gian</Chronophagy.label>
+	<Chronophagy.description>Thực hiện nghi lễ tâm linh có thể khiến mục tiêu nhanh chóng lão hóa. Trong quá trình này, người thực hiện nghi lễ sẽ trở nên trẻ hơn. Mục tiêu cũng sẽ bị tổn thương não, điều này có thể gây chết người cho những mục tiêu lớn tuổi.</Chronophagy.description>
+	<Chronophagy.generalRules.rulesStrings>
+		<li>subject->Nuốt thời gian</li>
+		<li>subject_story->Đã nghiên cứu các bệnh thoái hóa liên quan đến tuổi tác</li>
+		<li>subject_story->Đã sao chép mô khỏe mạnh từ một sinh vật sang sinh vật khác một cách phá hoại</li>
+		<li>subject_story->Đã lý thuyết hóa nhiều nghi lễ chứa đầy công nghệ siêu phàm</li>
+		<li>subject_story->Đã quan sát nhiều liệu pháp kéo dài tuổi thọ tại một phòng khám thuộc tầng lớp thượng lưu</li>
+		<li>subject_gerund->Đánh cắp tuổi trẻ</li>
+		<li>subject_gerund->Thực hiện nuốt thời gian</li>
+		<li>subject_gerund->Thực hiện nghi lễ nuốt thời gian</li>
+	</Chronophagy.generalRules.rulesStrings>
+	<DeadlifeDust.label>Bụi xác chết</DeadlifeDust.label>
+	<DeadlifeDust.description>Mở khóa chế tạo thiết bị có thể phát tán vi cơ siêu phàm. Vi cơ siêu phàm có thể khiến xác chết hồi phục khả năng hoạt động, biến chúng thành những quái vật đi lê chỉ tấn công kẻ thù.</DeadlifeDust.description>
+	<DeadlifeDust.generalRules.rulesStrings>
+		<li>subject->Bụi xác chết</li>
+		<li>subject_story->Tổng hợp một hệ thống phát tán khí sương mù thiết kế cho vi cơ siêu phàm</li>
+		<li>subject_story->Đã tách biệt các loại vi cơ siêu phàm khác nhau bằng máy ly tâm nguyên tử</li>
+		<li>subject_story->Đã xem video về các sự kiện tấn công chết người của quái vật đi lê được phát tán trong thế giới đô thị</li>
+		<li>subject_story->Phát triển một thiết bị điều khiển vi cơ siêu phàm có hệ thống nhận diện kẻ thù tự động</li>
+		<li>subject_gerund->Chế tạo bụi xác chết</li>
+		<li>subject_gerund->Phát tán vi cơ siêu phàm để tạo ra quái vật đi lê</li>
+	</DeadlifeDust.generalRules.rulesStrings>
+	<DeathRefusal.label>Tránh né cái chết</DeathRefusal.label>
+	<DeathRefusal.description>Thực hiện nghi lễ tâm linh, ban cho ai đó khả năng "tránh né cái chết", có thể sống lại một lần sau khi chết.</DeathRefusal.description>
+	<DeathRefusal.generalRules.rulesStrings>
+		<li>subject->Nghi lễ tránh né cái chết</li>
+		<li>subject_story->Đã nghiên cứu huyền thoại về sự bất tử</li>
+		<li>subject_story->Đã quan sát hành vi của nhiều người bị thương nặng trong lúc hấp hối trong trận chiến cuối cùng thứ bảy</li>
+		<li>subject_story->Tham gia vào nỗ lực hồi sinh tiên tri Ashael</li>
+		<li>subject_story->Đã thu thập chứng cứ về việc tránh né cái chết trong thư viện của thế giới cốt lõi</li>
+		<li>subject_gerund->Lừa dối thần chết</li>
+		<li>subject_gerund->Thực hiện nghi lễ để xua đuổi thần chết</li>
+	</DeathRefusal.generalRules.rulesStrings>
+	<DisruptorFlares.label>Đạn sáng gây rối</DisruptorFlares.label>
+	<DisruptorFlares.description>Đạn sáng làm từ sắt sống, có thể tiết lộ sinh vật vô hình và chiếu sáng toàn bộ khu vực.</DisruptorFlares.description>
+	<DisruptorFlares.generalRules.rulesStrings>
+		<li>subject->Đạn sáng làm từ sắt sống</li>
+		<li>subject->Chiếu sáng tạm thời</li>
+		<li>subject_story->Đã nghiên cứu phổ điện từ không thể nhìn thấy bằng mắt thường</li>
+		<li>subject_story->Đã phá hủy trung tâm thị giác của đối tượng thử nghiệm</li>
+		<li>subject_story->Đã nghiên cứu hiện tượng sinh học phát quang của động vật trong thế giới đêm tối</li>
+		<li>subject_story->Đã nghiên cứu và thu nhỏ phổ điện từ của vi cơ siêu phàm</li>
+		<li>subject_gerund->Tăng cường khả năng nhìn tạm thời</li>
+		<li>subject_gerund->Chế tạo đạn sáng làm từ sắt sống</li>
+	</DisruptorFlares.generalRules.rulesStrings>
+	<Electroharvester.label>Máy hút điện</Electroharvester.label>
+	<Electroharvester.description>Mở khóa xây dựng máy phát điện có thể hút điện từ các thực thể bị bắt giữ. Quá trình này sẽ làm tăng gánh nặng cho thực thể, khiến việc giam giữ trở nên khó khăn hơn.</Electroharvester.description>
+	<Electroharvester.generalRules.rulesStrings>
+		<li>subject->Phát điện từ thực thể</li>
+		<li>subject_story->Đã nghiên cứu bơm ion màng tế bào</li>
+		<li>subject_story->Đã điều tra thói quen sống của cá điện hiếm gặp</li>
+		<li>subject_story->Đã kích thích vi cơ siêu phàm và nghiên cứu nhiệt lượng phát ra của chúng</li>
+		<li>subject_story->Đã lý thuyết hóa tiềm năng năng lượng của công nghệ siêu phàm</li>
+		<li>subject_gerund->Hút điện từ thực thể</li>
+		<li>subject_gerund->Xây dựng máy hút điện</li>
+	</Electroharvester.generalRules.rulesStrings>
+	<EntityContainment.label>Giam giữ thực thể</EntityContainment.label>
+	<EntityContainment.description>Mở khóa xây dựng nền tảng giam giữ và thiết bị chặn để bố trí tốt hơn cho các thực thể bị bắt giữ.</EntityContainment.description>
+	<EntityContainment.generalRules.rulesStrings>
+		<li>subject->Giam giữ thực thể</li>
+		<li>subject_story->Đã làm việc tại một cơ sở nghiên cứu trên hành tinh nhà tù</li>
+		<li>subject_story->Đã từng ở tù trên hành tinh nhà tù</li>
+		<li>subject_story->Đã lén lút xâm nhập vào cơ sở giam giữ cùng với du kích</li>
+		<li>subject_story->Đã xây dựng nhà máy chế biến thịt cho chuỗi cửa hàng trên thế giới khủng long</li>
+		<li>subject_gerund->Đang giam giữ thực thể</li>
+		<li>subject_gerund->Xây dựng cơ sở giam giữ thực thể</li>
+	</EntityContainment.generalRules.rulesStrings>
+	<FrenzyInducer.label>Thiết bị kích thích cuồng loạn</FrenzyInducer.label>
+	<FrenzyInducer.description>Mở khóa xây dựng thiết bị được điều khiển bởi mảnh vụn siêu phàm tối, tạo ra một trường tâm linh khiến người gần đó hành động và làm việc nhanh hơn. Nhưng năng lượng tâm trạng không ổn định có thể gây ra xu hướng bạo lực, làm tức giận bất kỳ ai xung quanh.</FrenzyInducer.description>
+	<FrenzyInducer.generalRules.rulesStrings>
+		<li>subject->Thiết bị kích thích cuồng loạn siêu phàm</li>
+		<li>subject_story->Đã từng là nhà trị liệu tâm lý động lực</li>
+		<li>subject_story->Đã gõ trống trên thuyền ở thế giới hoang dã</li>
+		<li>subject_story->Đã nghiên cứu ảnh hưởng của các trường tâm linh siêu phàm khác nhau đến ý thức con người</li>
+		<li>subject_story->Đã quản lý một trạm thôi miên trong câu lạc bộ ngầm ở thế giới đô thị</li>
+		<li>subject_gerund->Kích thích cuồng loạn</li>
+		<li>subject_gerund->Xây dựng thiết bị kích thích cuồng loạn siêu phàm</li>
+	</FrenzyInducer.generalRules.rulesStrings>
+	<GhoulEnhancements.label>Cơ thể giả của xác sống</GhoulEnhancements.label>
+	<GhoulEnhancements.description>Mở khóa chế tạo cơ thể giả từ sắt sống để tăng cường sức mạnh cho xác sống.</GhoulEnhancements.description>
+	<GhoulEnhancements.generalRules.rulesStrings>
+		<li>subject->Cơ thể giả của xác sống</li>
+		<li>subject_story->Đã thực hiện thí nghiệm trên xác chết và xác chết sống lại</li>
+		<li>subject_story->Đã cấy ghép nhiều vật thể kỳ lạ vào xác sống</li>
+		<li>subject_story->Đã nghiên cứu các cơ thể giả phức tạp hơn của xác sống</li>
+		<li>subject_gerund->Sử dụng cơ thể giả từ sắt sống để tăng cường xác sống</li>
+	</GhoulEnhancements.generalRules.rulesStrings>
+	<GhoulInfusion.label>Cấy ghép xác sống</GhoulInfusion.label>
+	<GhoulInfusion.description>Thực hiện phẫu thuật cấy ghép mảnh vụn siêu phàm tối và sắt sống vào cơ thể người, biến họ thành những xác sống đáng sợ. Xác sống có khả năng chiến đấu cận chiến mạnh mẽ nhưng không thể làm việc. Nếu không ăn đủ thịt tươi, xác sống sẽ phát điên.</GhoulInfusion.description>
+	<GhoulInfusion.generalRules.rulesStrings>
+		<li>subject->Chế tạo xác sống</li>
+		<li>subject_story->Đã cung cấp quân lính tù nhân từ thế giới nhà tù cho chiến tranh ở thế giới đô thị</li>
+		<li>subject_story->Đã tham gia vào dự án thí nghiệm cấy ghép vi cơ siêu phàm vào quân đội</li>
+		<li>subject_story->Đã nghiên cứu xác sống hoang dã trong đống đổ nát của thế giới chết chóc</li>
+		<li>subject_gerund->Cấy ghép mảnh vụn siêu phàm vào cơ thể sống</li>
+		<li>subject_gerund->Chế tạo xác sống</li>
+	</GhoulInfusion.generalRules.rulesStrings>
+	<GhoulResurrection.label>Hồi sinh xác sống</GhoulResurrection.label>
+	<GhoulResurrection.description>Mở khóa tổng hợp huyết thanh có thể hồi sinh xác sống từ cõi chết.</GhoulResurrection.description>
+	<GhoulResurrection.generalRules.rulesStrings>
+		<li>subject->Hồi sinh xác sống</li>
+		<li>subject_story->Đã phát triển một phương pháp mới để hồi sinh xác sống</li>
+		<li>subject_story->Đã tiêm nhiều hợp chất công nghệ siêu phàm vào xác chết</li>
+		<li>subject_story->Đã nghiên cứu tác động của nồng độ cao hơn của công nghệ siêu phàm đến xác sống</li>
+		<li>subject_story->Đã chứng kiến một xác sống hồi sinh nhiều lần</li>
+		<li>subject_gerund->Hồi sinh xác sống</li>
+		<li>subject_gerund->Tổng hợp huyết thanh hồi sinh xác sống</li>
+	</GhoulResurrection.generalRules.rulesStrings>
+	<InsanityWeaponry.label>Vũ khí tâm thần điên loạn</InsanityWeaponry.label>
+	<InsanityWeaponry.description>Tái cấu trúc mảnh vụn siêu phàm tối thành vũ khí có giới hạn số lần sử dụng, sử dụng sức mạnh của công nghệ siêu phàm để đe dọa, điều khiển và tiêu diệt tâm trí kẻ thù.</InsanityWeaponry.description>
+	<InsanityWeaponry.generalRules.rulesStrings>
+		<li>subject->Vũ khí tâm thần điên loạn siêu phàm</li>
+		<li>subject_story->Đã nghiên cứu chiến tranh tâm lý cho bài luận của [ANYPAWN_possessive]</li>
+		<li>subject_story->Đã chứng kiến toàn bộ tiểu đoàn quân đội Đế chế tan rã, hiểu được giá trị của sự sợ hãi</li>
+		<li>subject_story->Đã làm việc tại một bệnh viện tâm thần, nơi có những nạn nhân của công nghệ siêu phàm</li>
+		<li>subject_story->Đã thực hiện giải phẫu sống trên động vật hoang dã nhiễm vi cơ siêu phàm để hiểu ảnh hưởng của chúng đối với não bộ động vật có vú</li>
+		<li>subject_gerund->Tái cấu trúc mảnh vụn siêu phàm tối thành vũ khí gây cuồng loạn</li>
+	</InsanityWeaponry.generalRules.rulesStrings>
+	<JuggernautSerum.label>Huyết thanh mạnh mẽ</JuggernautSerum.label>
+	<JuggernautSerum.description>Mở khóa tổng hợp huyết thanh có thể tạm thời tăng cường sức mạnh và tốc độ của người sử dụng, giúp họ hồi phục nhanh hơn từ chấn thương. Nhưng nó cũng sẽ làm giảm tâm trạng của họ.</JuggernautSerum.description>
+	<JuggernautSerum.generalRules.rulesStrings>
+		<li>subject->Huyết thanh mạnh mẽ</li>
+		<li>subject_story->[ANYPAWN_pronoun] bị cấm tham gia giải đấu thế giới cốt lõi vì đã bị phát hiện tiêm huyết thanh mạnh mẽ cho đội</li>
+		<li>subject_story->Đã phát huy huyết thanh mạnh mẽ cho các binh sĩ khi họ hết đạn</li>
+		<li>subject_story->Đã nghiên cứu việc sử dụng huyết thanh trong bộ phận xây dựng hợp đồng</li>
+		<li>subject_story->Đã vô tình ngã vào một thùng đầy huyết thanh mạnh mẽ</li>
+		<li>subject_gerund->Tổng hợp huyết thanh mạnh mẽ</li>
+	</JuggernautSerum.generalRules.rulesStrings>
+	<MetalbloodSerum.label>Huyết thanh thép</MetalbloodSerum.label>
+	<MetalbloodSerum.description>Mở khóa tổng hợp huyết thanh thép, giúp người sử dụng có khả năng chống chịu nhiều tổn thương hơn.</MetalbloodSerum.description>
+	<MetalbloodSerum.generalRules.rulesStrings>
+		<li>subject->Huyết thanh thép</li>
+		<li>subject_story->Đã nghiên cứu chất lỏng hoạt tính được sử dụng để chế tạo áo giáp quân sự</li>
+		<li>subject_story->Là người tiên phong trong nghiên cứu công nghệ thay thế máu</li>
+		<li>subject_story->Đã phát hiện một máy tổng hợp huyết thanh thép trong thế giới chết chóc</li>
+		<li>subject_story->Đã sử dụng súng phun lửa để đối phó với dân quân sử dụng huyết thanh thép</li>
+		<li>subject_gerund->Tổng hợp huyết thanh thép</li>
+	</MetalbloodSerum.generalRules.rulesStrings>
+	<MindNumbSerum.label>Huyết thanh làm tê liệt tâm trí</MindNumbSerum.label>
+	<MindNumbSerum.description>Mở khóa tổng hợp huyết thanh có khả năng ổn định cảm xúc của con người, ngăn ngừa sự sụp đổ tinh thần.</MindNumbSerum.description>
+	<MindNumbSerum.generalRules.rulesStrings>
+		<li>subject->Huyết thanh làm tê liệt tâm trí</li>
+		<li>subject_story->Đã bí mật gây mê ca sĩ chính, phá hỏng một buổi biểu diễn tuyệt vời</li>
+		<li>subject_story->Đã tiêm huyết thanh làm tê liệt ở liều thấp vào hệ thống nước của nơi trú ẩn</li>
+		<li>subject_story->Đã phân phát huyết thanh làm tê liệt cho các binh sĩ cấp dưới trước và sau trận chiến</li>
+		<li>subject_story->Đã nghiên cứu việc sử dụng công nghệ siêu phàm để làm tê liệt cơn đau</li>
+		<li>subject_gerund->Tổng hợp huyết thanh làm tê liệt tâm trí</li>
+	</MindNumbSerum.generalRules.rulesStrings>
+	<MutationWeaponry.label>Vũ khí đột biến</MutationWeaponry.label>
+	<MutationWeaponry.description>Tái cấu trúc mảnh vụn siêu phàm tối thành các đồ vật tâm linh có giới hạn số lần sử dụng, biến sinh vật thành những quái vật đáng sợ.</MutationWeaponry.description>
+	<MutationWeaponry.generalRules.rulesStrings>
+		<li>subject->Gây ra đột biến</li>
+		<li>subject->Vũ khí đột biến siêu phàm</li>
+		<li>subject_story->Đã tiêm vi cơ siêu phàm vì mong muốn có một cuộc sống mới</li>
+		<li>subject_story->Đã chứng kiến sự biến dạng của thực vật do trí thông minh siêu phàm</li>
+		<li>subject_story->Đã thử nghiệm vũ khí mới</li>
+		<li>subject_story->Đã điều tra các sinh vật mới trên thế giới thăng thiên</li>
+		<li>subject_story->Đã nuôi cấy sinh vật vi cơ siêu phàm trong phòng thí nghiệm</li>
+		<li>subject_gerund->Gây ra đột biến</li>
+		<li>subject_gerund->Tái cấu trúc mảnh vụn siêu phàm tối thành vũ khí đột biến</li>
+	</MutationWeaponry.generalRules.rulesStrings>
+	<NeurosisPulse.label>Nhịp đập của lo âu</NeurosisPulse.label>
+	<NeurosisPulse.description>Thực hiện nghi lễ tâm linh, tăng tốc độ làm việc của mọi người trong khu vực, nhưng những người này cũng sẽ trở nên cáu kỉnh hơn.</NeurosisPulse.description>
+	<NeurosisPulse.generalRules.rulesStrings>
+		<li>subject->Nhịp đập của lo âu</li>
+		<li>subject->Bắt buộc lao động</li>
+		<li>subject_story->Đã tham gia một giáo phái công nhân trong thế giới đô thị</li>
+		<li>subject_story->Đã cảm nhận được áp lực tâm linh trong công việc</li>
+		<li>subject_story->Đã nghiên cứu các đường dẫn thần kinh của chứng lo âu</li>
+		<li>subject_story->Đã điều tra mối quan hệ giữa quản lý và nghi lễ giáo phái</li>
+		<li>subject_gerund->Sử dụng năng lực tâm linh để gây ra lo âu</li>
+		<li>subject_gerund->Thực hiện nghi lễ để tăng cường động lực sản xuất của công nhân</li>
+	</NeurosisPulse.generalRules.rulesStrings>
+	<Philophagy.label>Rút kinh nghiệm</Philophagy.label>
+	<Philophagy.description>Thực hiện nghi lễ tâm linh, rút kinh nghiệm từ nạn nhân và truyền đạt lại cho người thực hiện. Quá trình này sẽ làm cho mục tiêu trở nên chậm chạp, giảm cấp độ kỹ năng của họ và có thể gây tổn thương não.</Philophagy.description>
+	<Philophagy.generalRules.rulesStrings>
+		<li>subject->Rút kinh nghiệm</li>
+		<li>subject->Chuyển giao kỹ năng</li>
+		<li>subject_story->Đã theo dõi một chuỗi nạn nhân bị rút kinh nghiệm</li>
+		<li>subject_story->Đã nghiên cứu quá trình sao chép thần kinh trong phòng thí nghiệm ở thế giới chớp nhoáng</li>
+		<li>subject_story->Đã điều tra tâm trí bị tổn thương của nạn nhân giáo phái</li>
+		<li>subject_story->Đã phát hiện [ANYPAWN_possessive] kỹ năng giảm sút sau khi bị tấn công tâm linh</li>
+		<li>subject_gerund->Chuyển giao kinh nghiệm từ đối tượng</li>
+		<li>subject_gerund->Thực hiện nghi lễ để đánh cắp kỹ năng của nạn nhân</li>
+	</Philophagy.generalRules.rulesStrings>
+	<PleasurePulse.label>Nhịp đập của niềm vui</PleasurePulse.label>
+	<PleasurePulse.description>Thực hiện nghi lễ tâm linh, khiến mọi người trong khu vực trở nên vui vẻ hơn, nhưng sự nhiệt tình trong công việc của họ cũng sẽ giảm.</PleasurePulse.description>
+	<PleasurePulse.generalRules.rulesStrings>
+		<li>subject->Kích thích niềm vui</li>
+		<li>subject_story->Đã đọc một câu chuyện cổ xưa từ Trái Đất ca ngợi một loại thực phẩm kỳ diệu có tên là "Soma"</li>
+		<li>subject_story->Đã nghiên cứu truyền thuyết về trái cây quên sầu</li>
+		<li>subject_story->Đã hợp tác với các nhà triết học xã hội để tạo ra một nghi lễ vị lợi</li>
+		<li>subject_story->Đã tham gia vào một giáo phái siêu phàm rất hiếm, theo đuổi sự thư giãn và vui vẻ</li>
+		<li>subject_gerund->Sử dụng năng lực tâm linh để kích thích niềm vui</li>
+		<li>subject_gerund->Thực hiện nghi lễ tâm linh để kích thích niềm vui</li>
+	</PleasurePulse.generalRules.rulesStrings>
+	<ProximityDetector.label>Máy phát hiện gần</ProximityDetector.label>
+	<ProximityDetector.description>Mở khóa xây dựng thiết bị có khả năng phát hiện sinh vật vô hình.</ProximityDetector.description>
+	<ProximityDetector.generalRules.rulesStrings>
+		<li>subject->Máy phát hiện gần</li>
+		<li>subject->Cảm biến chuyển động</li>
+		<li>subject_story->Đã xem một bộ phim giải trí cổ xưa và được truyền cảm hứng</li>
+		<li>subject_story->Đã chế tạo một thiết bị tăng cường tâm linh đơn giản</li>
+		<li>subject_story->Đã bảo trì hệ thống cảnh báo tại một trạm kiểm soát ở thế giới chết chóc</li>
+		<li>subject_story->Đã nghiên cứu máy quét đa tần số dùng để phát hiện mô hình liên sao</li>
+		<li>subject_gerund->Khám phá những điều chưa thấy</li>
+		<li>subject_gerund->Phát hiện sinh vật vô hình</li>
+	</ProximityDetector.generalRules.rulesStrings>
+	<Psychophagy.label>Phản ứng tâm linh</Psychophagy.label>
+	<Psychophagy.description>Thực hiện nghi lễ tâm linh, giảm độ nhạy cảm tâm linh của mục tiêu và tạm thời nâng cao độ nhạy cảm tâm linh của người thực hiện nghi lễ. Tác dụng phụ là mục tiêu có thể bị tổn thương não.</Psychophagy.description>
+	<Psychophagy.generalRules.rulesStrings>
+		<li>subject->Phản ứng tâm linh</li>
+		<li>subject_story->Đã điều tra tác dụng tăng cường quản lý đối với hiệu ứng tâm linh</li>
+		<li>subject_story->Đã quản lý việc chuyển giao vi cơ siêu phàm của các đối tượng đã khuất</li>
+		<li>subject_story->Đã tổng hợp các tin đồn về nghi lễ chuyển giao tâm linh</li>
+		<li>subject_story->Đã chứng kiến các tín đồ của Horax hút cạn năng lượng từ quý tộc Đế chế</li>
+		<li>subject_gerund->Đánh cắp năng lực tâm linh</li>
+		<li>subject_gerund->Thực hiện nghi lễ tâm linh</li>
+	</Psychophagy.generalRules.rulesStrings>
+	<RevenantInvisibility.label>Vô hình của linh hồn</RevenantInvisibility.label>
+	<RevenantInvisibility.description>Cải tạo cột sống của linh hồn để có thể cấy ghép vào cơ thể người, khiến họ tạm thời trở nên vô hình.</RevenantInvisibility.description>
+	<RevenantInvisibility.generalRules.rulesStrings>
+		<li>subject->Vô hình</li>
+		<li>subject_story->Đã liều lĩnh cấy ghép cột sống của quái vật vào cơ thể người</li>
+		<li>subject_story->Đã viết một tiểu thuyết về đạo đức của việc người vô hình biến mất</li>
+		<li>subject_story->Đã phát hiện cột sống kim loại kỳ lạ trong hệ sao chết chóc</li>
+		<li>subject_story->Có ước mơ thành lập một đội quân vô hình</li>
+		<li>subject_gerund->Cải tạo cột sống của linh hồn</li>
+		<li>subject_gerund->Cấy ghép cột sống của linh hồn vào cơ thể người</li>
+	</RevenantInvisibility.generalRules.rulesStrings>
+	<SerumSynthesis.label>Tổng hợp huyết thanh</SerumSynthesis.label>
+	<SerumSynthesis.description>Mở khóa xây dựng "Bàn thí nghiệm huyết thanh", dùng để tổng hợp huyết thanh công nghệ cao. Huyết thanh sử dụng sức mạnh của công nghệ siêu phàm để mang lại hiệu ứng tạm thời cho người sử dụng.</SerumSynthesis.description>
+	<SerumSynthesis.generalRules.rulesStrings>
+		<li>subject->Tổng hợp huyết thanh</li>
+		<li>subject_story->Đã tiêm vi cơ siêu phàm để hiểu ảnh hưởng của nó</li>
+		<li>subject_story->Đã phát hiện một vũng chất lỏng đen trong ngôi đền ở thế giới chết chóc</li>
+		<li>subject_story->Đã sống sót sau một cú ngã nguy hiểm nhờ sử dụng huyết thanh</li>
+		<li>subject_story->Đã quản lý chương trình kiểm tra huyết thanh cho quân đội thế giới cốt lõi</li>
+		<li>subject_gerund->Tổng hợp huyết thanh</li>
+	</SerumSynthesis.generalRules.rulesStrings>
+	<SkipAbductionPlayer.label>Bắt cóc nhảy vọt</SkipAbductionPlayer.label>
+	<SkipAbductionPlayer.description>Thực hiện nghi lễ tâm linh, bắt cóc một kẻ thù ngẫu nhiên từ bất kỳ vị trí nào trên thế giới và khiến họ rơi vào trạng thái hôn mê tạm thời để dễ dàng bắt giữ.</SkipAbductionPlayer.description>
+	<SkipAbductionPlayer.generalRules.rulesStrings>
+		<li>subject->Bắt cóc tâm linh</li>
+		<li>subject->Bắt cóc nhảy vọt</li>
+		<li>subject_story->Đã chứng kiến một vụ bắt cóc quý tộc Đế chế</li>
+		<li>subject_story->Đã được một kẻ lén lút cứu thoát khỏi tay những kẻ lén lút</li>
+		<li>subject_story->Đã chứng kiến một nghi lễ truyền tải thất bại của một giáo phái</li>
+		<li>subject_story->Đã nghiên cứu việc chuyển giao không gian bằng công nghệ siêu phàm</li>
+		<li>subject_gerund->Bắt cóc kẻ thù thông qua nghi lễ tâm linh</li>
+		<li>subject_gerund->Thực hiện nghi lễ bắt cóc nhảy vọt</li>
+	</SkipAbductionPlayer.generalRules.rulesStrings>
+	<SleepSuppressor.label>Thiết bị ức chế giấc ngủ</SleepSuppressor.label>
+	<SleepSuppressor.description>Mở khóa xây dựng một công trình sử dụng mảnh vụn siêu phàm tối, kích thích bất kỳ ai gần đó để ngăn chặn sự mệt mỏi của họ.</SleepSuppressor.description>
+	<SleepSuppressor.generalRules.rulesStrings>
+		<li>subject->Ức chế giấc ngủ</li>
+		<li>subject_story->Đã điều tra vấn đề thiếu ngủ của công nhân nhà máy</li>
+		<li>subject_story->Đã nghiên cứu việc sử dụng thuốc kích thích của quân lính Đế chế</li>
+		<li>subject_story->Đã nghiên cứu ảnh hưởng của các trường tâm linh siêu phàm khác nhau đến ý thức con người</li>
+		<li>subject_story->Đã làm việc trong phòng thí nghiệm thôi miên ở thế giới chớp nhoáng, nơi những người giàu có sống cả đời trong giấc mơ</li>
+		<li>subject_story->Đã quản lý lịch trình tắt đèn tại trại lao động của thế giới nhà tù</li>
+		<li>subject_gerund->Xây dựng thiết bị ức chế giấc ngủ siêu phàm</li>
+		<li>subject_gerund->Sử dụng công nghệ siêu phàm để ức chế giấc ngủ</li>
+	</SleepSuppressor.generalRules.rulesStrings>
+	<SummonAnimals.label>Gọi động vật</SummonAnimals.label>
+	<SummonAnimals.description>Thực hiện nghi lễ tâm linh có thể thu hút một đàn động vật lớn.</SummonAnimals.description>
+	<SummonAnimals.generalRules.rulesStrings>
+		<li>subject->Thu hút đàn thú</li>
+		<li>subject_story->Đã từng làm người chăn cừu ở những ngọn núi của thế giới nguyên thủy</li>
+		<li>subject_story->Đã học cách sống hòa hợp với các loài thú trong cánh đồng</li>
+		<li>subject_story->Đã thử nghiệm tác động của vi cơ siêu phàm lên các loài động vật khác nhau</li>
+		<li>subject_story->Đã quan sát một giáo phái tự nhiên giao tiếp với động vật mà họ nuôi dưỡng</li>
+		<li>subject_gerund->Gọi đàn thú</li>
+	</SummonAnimals.generalRules.rulesStrings>
+	<SummonFleshbeastsPlayer.label>Gọi quái thú thịt</SummonFleshbeastsPlayer.label>
+	<SummonFleshbeastsPlayer.description>Thực hiện nghi lễ tâm linh để triệu hồi quái thú thịt từ dưới lòng đất gần kẻ thù, tấn công bất phân biệt bất kỳ ai gần đó.</SummonFleshbeastsPlayer.description>
+	<SummonFleshbeastsPlayer.generalRules.rulesStrings>
+		<li>subject->Gọi quái thú thịt</li>
+		<li>subject_story->Đã đọc sách cổ về nguồn gốc sự sống</li>
+		<li>subject_story->Đã trải nghiệm quá trình tự phát sinh của chuột nổ Sahak</li>
+		<li>subject_story->Đã xem một bộ phim cổ về sự hòa trộn thịt và bị ảnh hưởng sâu sắc</li>
+		<li>subject_story->Đã nghiên cứu sự chuyển giao và tách biệt của ý thức trong sự hòa trộn hữu cơ</li>
+		<li>subject_story->Đã quan sát một cộng đồng chuột lén lút gặp phải quái vật kinh hoàng dưới lòng đất</li>
+		<li>subject_gerund->Gọi quái thú thịt</li>
+		<li>subject_gerund->Thực hiện nghi lễ triệu hồi quái thú thịt</li>
+	</SummonFleshbeastsPlayer.generalRules.rulesStrings>
+	<SummonPitGate.label>Gọi hố khổng lồ</SummonPitGate.label>
+	<SummonPitGate.description>Thực hiện nghi lễ tâm linh, dụ dỗ quái thú thịt đang nằm im dưới lòng đất mở ra một hố khổng lồ trên mặt đất. Cửa hố dẫn đến một hang động có quái thú thịt, nơi có thể khám phá và thu thập tài nguyên.</SummonPitGate.description>
+	<SummonPitGate.generalRules.rulesStrings>
+		<li>subject->Kích thích hố khổng lồ</li>
+		<li>subject_story->Đã nghiên cứu sự xâm lấn của sự hòa trộn thịt</li>
+		<li>subject_story->Đã thu thập câu chuyện về các sinh vật hữu cơ hoàn chỉnh</li>
+		<li>subject_story->Đã quản lý thư viện của một giáo phái tà ác trong thế giới chết chóc</li>
+		<li>subject_story->Đã chủ trì một nghi lễ lún xuống</li>
+		<li>subject_gerund->Thực hiện nghi lễ tạo ra hố khổng lồ</li>
+		<li>subject_gerund->Gọi hố khổng lồ</li>
+	</SummonPitGate.generalRules.rulesStrings>
+	<SummonShamblers.label>Gọi quái vật đi lang thang</SummonShamblers.label>
+	<SummonShamblers.description>Thực hiện nghi lễ tâm linh để thu hút một đàn quái vật đi lang thang đầy thối rữa. Mặc dù những quái vật này rất thù địch, nhưng chúng sẽ không tấn công trực tiếp vào thuộc địa. Có thể bắt chúng để nghiên cứu.</SummonShamblers.description>
+	<SummonShamblers.generalRules.rulesStrings>
+		<li>subject->Nghi lễ triệu hồi quái vật đi lang thang</li>
+		<li>subject_story->Đã điều tra sự tôn thờ xác chết trong thế giới chết chóc tại một thư viện đại học an toàn</li>
+		<li>subject_story->Đã thu thập câu chuyện về các cuộc tấn công của quái vật đi lang thang</li>
+		<li>subject_story->Đã nghiên cứu sự hình thành vi cơ siêu phàm của các sinh vật đã chết</li>
+		<li>subject_story->Đã chứng kiến nhiều điều kỳ lạ khi là quản lý của một thế giới chết chóc</li>
+		<li>subject_gerund->Gọi quái vật đi lang thang</li>
+		<li>subject_gerund->Triệu hồi quái vật đi lang thang qua nghi lễ</li>
+	</SummonShamblers.generalRules.rulesStrings>
+	<VoidSculptures.label>Tượng hư vô</VoidSculptures.label>
+	<VoidSculptures.description>Mở khóa việc chế tạo các bức tượng hư vô đặc biệt được làm từ sắt sống, có khả năng nâng cao chất lượng của các nghi lễ tâm linh.</VoidSculptures.description>
+	<VoidSculptures.generalRules.rulesStrings>
+		<li>subject->Tượng hư vô</li>
+		<li>subject->Tượng sắt sống</li>
+		<li>subject_story->Đã mô phỏng không gian khả năng công nghệ siêu phàm bằng máy tính</li>
+		<li>subject_story->Đã được một nữ tiên tri thuê để khắc họa giấc mơ của bà</li>
+		<li>subject_story->Muốn tạo ra một bức tượng sống động</li>
+		<li>subject_story->Đã thấy một đại dương vô biên do con người điều khiển trong giấc mơ</li>
+		<li>subject_story->Đã quan sát công việc của các nhà truyền thông Đế chế</li>
+		<li>subject_gerund->Khắc tượng bằng sắt sống</li>
+		<li>subject_gerund->Chế tạo tượng nghi lễ bằng sắt sống</li>
+	</VoidSculptures.generalRules.rulesStrings>
+</LanguageData>

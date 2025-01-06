@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SanguophageMeetingHost.questContentRules.rulesStrings>
+    <li>sanguophagesArriveLetterLabel-&gt;Máu tộc đã đến</li>
+    <li>sanguophagesArriveLetterText-&gt;[sanguophageCount] máu tộc từ [map_definite] đến từ nhiều hướng khác nhau, họ sẽ gặp nhau tại thuộc địa và tiến hành thương thuyết.</li>
+    <li>argumentLetterLabel-&gt;Tranh cãi giữa máu tộc</li>
+    <li>argumentLetterText-&gt;Máu tộc xảy ra tranh cãi, và bây giờ đã leo thang thành bạo lực!</li>
+    <li>successLetterLabel-&gt;Cuộc họp hoàn thành</li>
+    <li>successLetterText-&gt;Máu tộc đã hoàn thành cuộc họp, và bây giờ sẽ trao cho bạn phần thưởng.</li>
+    <li>raidArrivedLetterLabel-&gt;Thợ săn máu tộc</li>
+    <li>raidArrivedLetterText-&gt;Một nhóm thợ săn máu tộc từ [enemyFaction_name] đang tiến gần!\n\nHọ sẽ tấn công máu tộc đang họp và những người tiếp đón họ.</li>
+</SanguophageMeetingHost.questContentRules.rulesStrings>
+<SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Một máu tộc tên là [asker_nameDef] đang tìm kiếm một nơi an toàn để gặp gỡ với [sanguophageCountMinusOne] máu tộc khác, nơi họ sẽ không bị theo dõi. Lãnh đạo của họ, [asker_nameDef], yêu cầu bạn tổ chức cuộc họp tại [map_definite].\n\nNếu bạn đồng ý, [sanguophageCount] máu tộc sẽ đến từ nhiều hướng khác nhau tại [map_definite]. Họ sẽ dành vài giờ để thảo luận về các vấn đề bí mật của mình và sau đó rời đi, hứa hẹn sẽ trao cho bạn phần thưởng trước khi ra đi.\n\nBạn có thể phản bội những máu tộc này và tấn công họ, buộc máu tộc bị hạ gục để biến một tín đồ của bạn thành máu tộc.\n\n[sanguophageInfo]</li>
+    <li>sanguophageSingOrPlural(sanguophageCountMinusOne==1)-&gt;Máu tộc</li>
+    <li>sanguophageSingOrPlural(sanguophageCountMinusOne&gt;=2)-&gt;Máu tộc</li>
+    <li>sanguophageInfo-&gt;(*Gray) Về máu tộc (Huyết tộc): Máu tộc là những sinh vật siêu nhiên được tăng cường, và Huyết tộc là dòng tộc nổi tiếng nhất trong số đó. Họ rất đẹp và thông minh, có khả năng tự chữa lành mọi vết thương, không bao giờ bị bệnh tật hay độc tố làm phiền. Trong chiến đấu, họ có thể bắn ra những mũi nhọn chết người và chữa lành đồng đội. Tuy nhiên, cái giá phải trả là họ phải thường xuyên tiêu thụ máu người và thường xuyên rơi vào trạng thái ngủ chết dài hạn. Họ sợ lửa và sẽ bị yếu đi bởi tia UV. (/Gray)</li>
+</SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+<SanguophageMeetingHost.questNameRules.rulesStrings>
+    <li>questName-&gt;[meetAdjective][meetNoun]</li>
+    <li>meetAdjective-&gt;Máu tộc</li>
+    <li>meetAdjective-&gt;Khát máu</li>
+    <li>meetAdjective-&gt;Máu</li>
+    <li>meetAdjective-&gt;Bóng tối</li>
+    <li>meetAdjective-&gt;Đen tối</li>
+    <li>meetAdjective-&gt;Đỏ thẫm</li>
+    <li>meetAdjective-&gt;Đỏ tươi</li>
+    <li>meetAdjective-&gt;Vết máu</li>
+    <li>meetAdjective-&gt;Huyết tộc</li>
+    <li>meetAdjective-&gt;Màu máu</li>
+    <li>meetNoun-&gt;Cuộc họp</li>
+    <li>meetNoun-&gt;Tiếp đón</li>
+    <li>meetNoun-&gt;Buổi tiệc</li>
+    <li>meetNoun-&gt;Tái ngộ</li>
+    <li>meetNoun-&gt;Tập hợp</li>
+    <li>meetNoun-&gt;Cuộc họp bí mật</li>
+    <li>meetNoun-&gt;Nghị viện</li>
+    <li>meetNoun-&gt;Đàm phán</li>
+</SanguophageMeetingHost.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelConvertIdeoAttempt_Success>Giáo hóa</LetterLabelConvertIdeoAttempt_Success>
+<LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} đã thành công trong việc chuyển {RECIPIENT_nameDef} từ {OLDIDEO_name} sang {IDEO_name}.</LetterConvertIdeoAttempt_Success>
+<LetterLabelGrandSlaveRebellion>Nổi loạn nô lệ quy mô lớn</LetterLabelGrandSlaveRebellion>
+<LetterGrandSlaveRebellion>Một cuộc nổi loạn nô lệ chưa từng có đã bắt đầu! Tất cả nô lệ của bạn đang nổi loạn. Họ sẽ tìm kiếm vũ khí và cố gắng tiêu diệt các thuộc địa của bạn.\n\nCác nô lệ bao gồm:\n\n{0}</LetterGrandSlaveRebellion>
+<LetterLabelLocalSlaveRebellion>Nổi loạn nô lệ cục bộ</LetterLabelLocalSlaveRebellion>
+<LetterLocalSlaveRebellion>Một cuộc nổi loạn nô lệ cục bộ đã bắt đầu! {0_nameDef} và một số nô lệ gần đó đang nổi loạn. Họ sẽ tìm kiếm vũ khí và cố gắng tiêu diệt các thuộc địa của bạn.\n\nCác nô lệ bao gồm:\n\n{1}</LetterLocalSlaveRebellion>
+<LetterLabelSingleSlaveRebellion>Nổi loạn nô lệ</LetterLabelSingleSlaveRebellion>
+<LetterSingleSlaveRebellion>{0_nameDef} đang nổi loạn! {0_pronoun} sẽ tìm kiếm vũ khí và cố gắng tiêu diệt các thuộc địa của bạn.</LetterSingleSlaveRebellion>
+<LetterLabelGrandSlaveEscape>Trốn thoát nô lệ quy mô lớn</LetterLabelGrandSlaveEscape>
+<LetterGrandSlaveEscape>Một cuộc trốn thoát nô lệ hoành tráng đã bắt đầu! Tất cả nô lệ của bạn đang chạy trốn.\n\nCác nô lệ bao gồm:\n\n{0}</LetterGrandSlaveEscape>
+<LetterLabelLocalSlaveEscape>Trốn thoát nô lệ cục bộ</LetterLabelLocalSlaveEscape>
+<LetterLocalSlaveEscape>Một số nô lệ đã bắt đầu chạy trốn! {0_nameDef} và một số nô lệ gần đó đang trốn thoát.\n\nCác nô lệ bao gồm:\n\n{1}</LetterLocalSlaveEscape>
+<LetterLabelSingleSlaveEscape>Nô lệ trốn thoát</LetterLabelSingleSlaveEscape>
+<LetterSingleSlaveEscape>{0_nameDef} đang cố gắng trốn thoát!</LetterSingleSlaveEscape>
+<SlaveRebellionSuppressionExplanation>Khi mức độ đàn áp đối với nô lệ thấp, họ có nhiều khả năng nổi loạn hơn.</SlaveRebellionSuppressionExplanation>
+<LetterLabelRoleActive>{0} vị trí có sẵn</LetterLabelRoleActive>
+<LetterLabelRoleActiveDesc>Số lượng {0} trong nhóm đã đạt {1}. Bạn hiện có thể gán vị trí {ROLE_labelDef} cho một thuộc địa.\n\nĐể gán vị trí, hãy chọn một thuộc địa, chuyển đến tab "Xã hội" và nhấp vào nút "Gán vị trí"; hoặc chọn một điểm tổ chức nghi lễ hoặc bàn thờ và nhấp vào "Bắt đầu thay đổi vị trí".</LetterLabelRoleActiveDesc>
+<LetterLabelRoleInactive>{0} vị trí đã không còn hoạt động</LetterLabelRoleInactive>
+<LetterLabelRoleInactiveDesc>Số lượng {0} trong nhóm đã giảm xuống {1}. Vị trí {ROLE_labelDef} không còn hoạt động. Khi số lượng {0} đạt {2}, vị trí này sẽ lại có sẵn.</LetterLabelRoleInactiveDesc>
+<LetterLabelRoleLost>{PAWN_labelShort} đã mất vị trí {ROLE_labelIndef}</LetterLabelRoleLost>
+<LetterRoleLostDesc>{PAWN_labelShort} không còn giữ vị trí {ROLE_labelIndef}. Lý do:</LetterRoleLostDesc>
+<LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} chưa được gán.</LetterRoleLostReasonUnassignedDesc>
+<LetterRoleLostReasonLowBelieversDesc>Do số lượng {0} thấp, vị trí trở nên không còn hoạt động.</LetterRoleLostReasonLowBelieversDesc>
+<LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} đã mất vị trí {pawn_possession} là {ROLE_labelDef} vì {PAWN_pronoun} đã từ bỏ {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+<LetterObligationRoleInactive>{0} đã bị bỏ qua.</LetterObligationRoleInactive>
+<LetterObligationRoleInactiveDateDesc>{0} là ngày của {1}, nhưng vì vị trí {ROLE_labelDef} không còn hoạt động, {2}s sẽ bỏ qua {1}.</LetterObligationRoleInactiveDateDesc>
+<LetterSpeechConvertedListeners>Diễn thuyết của {PAWN_pronoun} đã giáo hóa những người sau đây thành {IDEO}</LetterSpeechConvertedListeners>
+<LetterTitleObligationsActivated>Nghi lễ {0} đã được kích hoạt</LetterTitleObligationsActivated>
+<LetterTitleObligationsDeactivated>Nghi lễ {0} đã bị vô hiệu hóa</LetterTitleObligationsDeactivated>
+<LetterTitleObligationsDeactivatedTooFewBelievers>Hiện tại có ít hơn {1} {IDEO_memberNamePlural} trong phái của bạn. Do đó, {IDEO_memberNamePlural} sẽ không yêu cầu thực hiện nghi lễ {IDEO} cho đến khi phái của bạn có ít nhất {1} thành viên.</LetterTitleObligationsDeactivatedTooFewBelievers>
+<LetterTitleObligationsActivatedEnoughBelievers>Vì hiện tại có {1} {IDEO_memberNamePlural} trong phái của bạn, họ sẽ yêu cầu thực hiện nghi lễ {IDEO}.</LetterTitleObligationsActivatedEnoughBelievers>
+<LetterTitleObligationsActivatedIdeoBecameMajor>Vì {IDEO} hiện là hình thức văn hóa chính của phái bạn, {IDEO_memberNamePlural} sẽ yêu cầu thực hiện nghi lễ {IDEO}.</LetterTitleObligationsActivatedIdeoBecameMajor>
+<LetterBondRemoved>Ràng buộc đã bị xóa</LetterBondRemoved>
+<LetterBondRemovedDesc>{PAWN_nameDef} đã gia nhập {IDEO}. Vì {IDEO} không ủng hộ việc thiết lập ràng buộc với động vật, {PAWN_pronoun} đã từ bỏ ràng buộc với động vật của {PAWN_possessive}:\n\n{BONDS}</LetterBondRemovedDesc>
+<LetterLabelEnslavementSuccess>Đô hộ</LetterLabelEnslavementSuccess>
+<LetterEnslavementSuccess>{0_nameDef} đã thành công trong việc nô lệ hóa {1_nameDef}.</LetterEnslavementSuccess>
+<LetterLabelNewPrimaryIdeo>Thay đổi hình thức văn hóa chính</LetterLabelNewPrimaryIdeo>
+<LetterNewPrimaryIdeo>Hình thức văn hóa chính của phái bạn đã thay đổi từ {OLDIDEO_name} sang {NEWIDEO_name}.\n\nĐiều này xảy ra vì {NEWIDEO_name} hiện phổ biến hơn bất kỳ hình thức văn hóa nào khác trong {FACTION_pawnsPlural} của bạn.\n\nHình thức văn hóa chính của bạn ảnh hưởng đến mối quan hệ với các phái khác, dựa trên mức độ tương đồng văn hóa của bạn với họ.</LetterNewPrimaryIdeo>
+<JoinerCharityInfo>Đây là một sự kiện từ thiện. Nếu bạn từ chối {0}, những tín đồ có niềm tin từ thiện sẽ không vui.</JoinerCharityInfo>
+<AfflictedJoinerChartityInfo>Đây là một sự kiện từ thiện. Nếu {0} chết khi không có ai chăm sóc (và sau {1}), những tín đồ có niềm tin từ thiện sẽ không vui. Nếu {0} được chăm sóc hoặc tuyển dụng, tín đồ sẽ vui vẻ.</AfflictedJoinerChartityInfo>
+<PawnsHaveCharitableBeliefs>Các tín đồ sau đây có niềm tin từ thiện</PawnsHaveCharitableBeliefs>
+<LetterIdeoChangeConverted>{PAWN_pronoun} cảm thấy sự công nhận của {PAWN_possessive} đối với {OLDIDEO_name} không còn ý nghĩa.\n\n{PAWN_pronoun} giờ đây bắt đầu theo {NEWIDEO_name}.</LetterIdeoChangeConverted>
+<LetterIdeoChangeNotConverted>{PAWN_nameDef} sự công nhận đối với {OLDIDEO_name} đã giảm xuống {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+<LetterIdeoChangedWanderOwnRoom>Để thực hiện niềm tin của {PAWN_possessive}, {PAWN_nameDef} giờ đây đang ẩn mình trong phòng của {PAWN_possessive}.</LetterIdeoChangedWanderOwnRoom>
+<LetterIdeoChangedSadWander>{PAWN_nameDef} đang đi lang thang trong sự sốc vì niềm tin của {PAWN_possessive} đã bị lung lay.</LetterIdeoChangedSadWander>
+<LetterIdeoChangedDivorce>Ly hôn</LetterIdeoChangedDivorce>
+<LetterIdeoChangedDivorcedPawns>{PAWN_nameDef} niềm tin mới cấm số lượng bạn đời hiện tại của {PAWN_possessive}.\n\n{PAWN_nameDef} đã quyết định ly hôn với những người này:\n{1}</LetterIdeoChangedDivorcedPawns>
+<LetterLabelSurpriseReinforcements>Tiếp viện bất ngờ!</LetterLabelSurpriseReinforcements>
+<LetterSurpriseReinforcements>Các lực lượng từ {1} đã đến! Họ đến để giúp {0}.</LetterSurpriseReinforcements>
+<LetterWantLookChange>Mong muốn thay đổi diện mạo</LetterWantLookChange>
+<LetterWantLookChangeDesc>{PAWN_nameDef} muốn thay đổi diện mạo của {PAWN_possessive} vì nó không còn phù hợp với niềm tin của {PAWN_pronoun}.\n\n{PAWN_pronoun} sẽ tự động sử dụng bàn trang điểm có sẵn và chọn diện mạo. Nếu muốn tùy chỉnh diện mạo của {PAWN_possessive}, hãy chọn {PAWN_objective} và nhấp chuột phải vào bàn trang điểm.</LetterWantLookChangeDesc>
+<LetterLabelSpacedroneIncoming>Drone không gian đang đến</LetterLabelSpacedroneIncoming>
+<LetterTextSpacedroneIncoming>Một drone không gian đang hạ cánh gần đây.</LetterTextSpacedroneIncoming>
+<LetterTextRaidSpacedrone>Cuộc tấn công từ {0} đã đến để phá hủy {1} hạ cánh gần đây.</LetterTextRaidSpacedrone>
+<LetterTextSpacedroneHacked>Bạn đã hoàn thành việc bẻ khóa {0} và biết thêm thông tin về thánh vật cổ đại {1}.</LetterTextSpacedroneHacked>
+<LetterLabelRelicDestroyed>Thánh vật bị phá hủy</LetterLabelRelicDestroyed>
+<LetterTextRelicDestroyed>{0} đã bị phá hủy!\n\nNhững người sau đây sẽ cảm thấy không vui:\n{1}</LetterTextRelicDestroyed>
+<LetterLabelRelicLost>Thánh vật bị mất</LetterLabelRelicLost>
+<LetterTextRelicLost>{0} đã bị mất!\n\nNhững người sau đây sẽ cảm thấy không vui:\n{1}</LetterTextRelicLost>
+<LetterOnlySlaveCaravanColonistsLeft>Tất cả thành viên không phải nô lệ của {0} đã chết. Những nô lệ còn lại đã trốn thoát. Đoàn caravan đã bị giải tán.</LetterOnlySlaveCaravanColonistsLeft>
+<LetterLabelLastHackerLost>Hacker cuối cùng đã mất tích</LetterLabelLastHackerLost>
+<LetterTextLastHackerLost>Hacker cuối cùng có thể mở khóa bí mật của cấu trúc cổ đại đã mất tích. Gọi hỗ trợ có khả năng hacker, hoặc từ bỏ nhiệm vụ.</LetterTextLastHackerLost>
+<LetterLabelRelicFound>Thánh vật được phát hiện</LetterLabelRelicFound>
+<LetterTextRelicFoundLocation>Bạn cuối cùng đã phát hiện ra vị trí của thánh vật {0}!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>Thánh vật được đặt trong một cấu trúc siêu nhiên. Nó được bảo vệ bởi một hệ thống an ninh có nhiều đơn vị độc lập. Bạn có thể chọn tiêu diệt các đơn vị an ninh trước khi lấy thánh vật, hoặc cố gắng đánh cắp và rời khỏi đây trước khi bị phát hiện.\n\nSau {0}, tất cả hệ thống an ninh sẽ nhận được cảnh báo.</LetterTextRelicFoundSecurityThreats>
+<LetterLabelRelicsCollected>Thánh vật đã được thu thập</LetterLabelRelicsCollected>
+<LetterTextRelicsCollected>Tất cả thánh vật thuộc về {0} đã được thu thập. Những người này sẽ rất vui.</LetterTextRelicsCollected>
+<LetterTextRelicsCollectedClassic>Bạn đã thu thập tất cả thánh vật đã biết trên thế giới này. Những người này sẽ rất vui.</LetterTextRelicsCollectedClassic>
+<LetterLabelPawnConnected>Giao hưởng {TREE_label}</LetterLabelPawnConnected>
+<LetterTextPawnConnected>{CONNECTOR_nameDef} đã giao hưởng với {TREE_definite}. Cây mẹ sẽ định kỳ sản sinh ra một loại động vật nhỏ gọi là tinh linh cây, và trồng chúng trong các túi dưới gốc cây. Những tinh linh cây này có thể được phân loại thành nhiều loại khác nhau. Bạn có thể chọn loại tinh linh cây mà bạn muốn cây này sản sinh ra.\n\nMối liên hệ giữa cây mẹ và con người càng mạnh, tinh linh cây càng có khả năng sinh sản nhiều hơn. {CONNECTOR_nameDef} có thể tăng cường giao hưởng bằng cách tỉa {TREE_definite}. Để duy trì cường độ giao hưởng cao, cần phải tỉa thường xuyên hơn.</LetterTextPawnConnected>
+<LetterLabelConnectedTreeDestroyed>Cây {TREE_label} giao hưởng đã bị phá hủy</LetterLabelConnectedTreeDestroyed>
+<LetterTextConnectedTreeDestroyed>Cây {TREE_label} giao hưởng với {CONNECTEDPAWN_nameDef} đã bị phá hủy, giết chết nữ hoàng tinh linh bên trong.\n\nKhông còn nữ hoàng, ý thức của tinh linh cây sẽ sụp đổ. Tất cả tinh linh thuộc về cây mẹ đó sẽ chết.</LetterTextConnectedTreeDestroyed>
+<LetterLabelArchonexusWealthReached>Nhiệm vụ “{0}” có sẵn</LetterLabelArchonexusWealthReached>
+<LetterTextArchonexusWealthReached>Bạn đã đạt yêu cầu về tài sản cho nhiệm vụ “{0}”. Bây giờ bạn có thể nhận nhiệm vụ đó.</LetterTextArchonexusWealthReached>
+<LetterLabelArchonexusStructureResearched>{0_labelShort} đã được nghiên cứu</LetterLabelArchonexusStructureResearched>
+<LetterTextArchonexusStructureResearched>Bạn đã hoàn thành việc nghiên cứu {0_labelShort}.</LetterTextArchonexusStructureResearched>
+<LetterLabelArchotechStructuresAbandoned>Bạn đã hoàn thành việc nghiên cứu {0_labelShort}.\n\nBạn đảm bảo rằng bạn hoàn toàn hiểu nó, nhưng bạn đã phát hiện ra cách hành xử của nó và cách nó dường như truyền đạt thông tin.\n\nVới kiến thức này, bạn sẽ có thể tìm thấy địa điểm của siêu điểm tiếp theo.</LetterLabelArchotechStructuresAbandoned>
+<LetterTextArchotechStructuresAbandoned>Bạn đã từ bỏ việc khám phá công nghệ cấu trúc siêu nhiên {0_define}.\n\nCác quan sát viên ở xa cho biết, ngay sau khi bạn rời đi, họ đã thấy một ánh sáng lớn phát ra từ vị trí này.</LetterTextArchotechStructuresAbandoned>
+<LetterLabelReformIdeo>Cải cách văn hóa</LetterLabelReformIdeo>
+<LetterTextReformIdeo>Bạn có đủ điểm phát triển để cải cách {0}!\n\nCải cách cho phép bạn thực hiện các quyết định sau:\n\n- Thêm một meme\n- Xóa một meme\n- Thay đổi cấu trúc\n- Thay đổi phong cách\n\nBạn cũng có thể sửa đổi không giới hạn các quy tắc, thần thánh, câu chuyện và các biểu tượng khác.\n\nĐể cải cách hình thức văn hóa, hãy mở thẻ văn hóa.</LetterTextReformIdeo>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BerserkMechanoid.label>Hệ thống nhận diện kẻ thù bị rối loạn</BerserkMechanoid.label>
+	<BerserkMechanoid.baseInspectLine>Điên cuồng: Hệ thống nhận diện kẻ thù bị rối loạn</BerserkMechanoid.baseInspectLine>
+	<Manhunter.label>Săn lùng con người</Manhunter.label>
+	<Manhunter.baseInspectLine>Điên cuồng: Săn lùng con người</Manhunter.baseInspectLine>
+	<Manhunter.beginLetter>{0} bắt đầu điên cuồng săn lùng con người!</Manhunter.beginLetter>
+	<Manhunter.beginLetterLabel>Săn lùng con người</Manhunter.beginLetterLabel>
+	<Manhunter.recoveryMessage>{0} không còn săn lùng con người nữa.</Manhunter.recoveryMessage>
+	<ManhunterPermanent.label>Săn lùng con người</ManhunterPermanent.label>
+	<ManhunterPermanent.baseInspectLine>Điên cuồng: Săn lùng con người</ManhunterPermanent.baseInspectLine>
+	<ManhunterPermanent.beginLetter>{0} bắt đầu điên cuồng săn lùng con người!</ManhunterPermanent.beginLetter>
+	<ManhunterPermanent.beginLetterLabel>Săn lùng con người</ManhunterPermanent.beginLetterLabel>
+	<ManhunterPermanent.recoveryMessage>{0} không còn săn lùng con người nữa.</ManhunterPermanent.recoveryMessage>
+	<PanicFlee.label>Chạy trốn hoảng loạn</PanicFlee.label>
+	<PanicFlee.baseInspectLine>Tình trạng tâm lý: Chạy trốn hoảng loạn</PanicFlee.baseInspectLine>
+	<PanicFlee.beginLetter>{0} đang chạy trốn hoảng loạn.</PanicFlee.beginLetter>
+	<PanicFlee.beginLetterLabel>Chạy trốn</PanicFlee.beginLetterLabel>
+	<PanicFlee.recoveryMessage>{0} không còn chạy trốn hoảng loạn nữa.</PanicFlee.recoveryMessage>
+	<Roaming.label>Đi lang thang</Roaming.label>
+	<Roaming.baseInspectLine>Tình trạng tâm lý: Đi lang thang</Roaming.baseInspectLine>
+	<SocialFighting.label>Đánh nhau</SocialFighting.label>
+	<SocialFighting.baseInspectLine>Tình trạng tâm lý: Đánh nhau</SocialFighting.baseInspectLine>
+	<WanderConfused.label>Đi lang thang bối rối</WanderConfused.label>
+	<WanderConfused.baseInspectLine>Tình trạng tâm lý: Đi lang thang bối rối</WanderConfused.baseInspectLine>
+	<WanderConfused.beginLetter>{0} đang đi lang thang vì bối rối.</WanderConfused.beginLetter>
+	<WanderConfused.beginLetterLabel>Bối rối</WanderConfused.beginLetterLabel>
+	<WanderConfused.recoveryMessage>{0} đã tỉnh táo lại và không còn đi lang thang bối rối nữa.</WanderConfused.recoveryMessage>
+</LanguageData>

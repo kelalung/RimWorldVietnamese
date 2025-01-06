@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Cannibalism_Abhorrent.label>Ghê tởm</Cannibalism_Abhorrent.label>
+<Cannibalism_Abhorrent.description>Ăn thịt người là một hành động đáng ghê tởm và kinh khủng.</Cannibalism_Abhorrent.description>
+<Cannibalism_Abhorrent.comps.5.description>Trang phục từ da người</Cannibalism_Abhorrent.comps.5.description>
+<Cannibalism_Acceptable.label>Chấp nhận</Cannibalism_Acceptable.label>
+<Cannibalism_Acceptable.description>Thịt người cũng là thịt, giống như thịt khác.</Cannibalism_Acceptable.description>
+<Cannibalism_Disapproved.label>Phản cảm</Cannibalism_Disapproved.label>
+<Cannibalism_Disapproved.description>Ăn thịt người là một điều ghê tởm.</Cannibalism_Disapproved.description>
+<Cannibalism_Disapproved.comps.5.description>Trang phục từ da người</Cannibalism_Disapproved.comps.5.description>
+<Cannibalism_Horrible.label>Kinh khủng</Cannibalism_Horrible.label>
+<Cannibalism_Horrible.description>Ăn thịt người là một điều đáng sợ.</Cannibalism_Horrible.description>
+<Cannibalism_Horrible.comps.5.description>Trang phục từ da người</Cannibalism_Horrible.comps.5.description>
+<Cannibalism_Preferred.label>Thích thú</Cannibalism_Preferred.label>
+<Cannibalism_Preferred.description>Ăn thịt người là một phần cao quý và cần thiết trong cuộc sống.</Cannibalism_Preferred.description>
+<Cannibalism_Preferred.comps.1.description>{HUMANMEATREQUIREDINTERVAL} ngày không có thịt người</Cannibalism_Preferred.comps.1.description>
+<Cannibalism_Preferred.comps.2.description>Trang phục từ da người</Cannibalism_Preferred.comps.2.description>
+<Cannibalism_RequiredRavenous.label>Tham lam</Cannibalism_RequiredRavenous.label>
+<Cannibalism_RequiredRavenous.description>Thịt người là nhu cầu cơ bản. Không ăn một bữa là điều không thể tưởng tượng nổi.</Cannibalism_RequiredRavenous.description>
+<Cannibalism_RequiredRavenous.comps.3.description>{HUMANMEATREQUIREDINTERVAL} ngày không có thịt người</Cannibalism_RequiredRavenous.comps.3.description>
+<Cannibalism_RequiredRavenous.comps.4.description>Trang phục từ da người</Cannibalism_RequiredRavenous.comps.4.description>
+<Cannibalism_RequiredStrong.label>Khao khát</Cannibalism_RequiredStrong.label>
+<Cannibalism_RequiredStrong.description>Ăn thịt người là rất quan trọng. Nó nên có trong mỗi bữa ăn.</Cannibalism_RequiredStrong.description>
+<Cannibalism_RequiredStrong.comps.3.description>{HUMANMEATREQUIREDINTERVAL} ngày không có thịt người</Cannibalism_RequiredStrong.comps.3.description>
+<Cannibalism_RequiredStrong.comps.4.description>Trang phục từ da người</Cannibalism_RequiredStrong.comps.4.description>
+</LanguageData>

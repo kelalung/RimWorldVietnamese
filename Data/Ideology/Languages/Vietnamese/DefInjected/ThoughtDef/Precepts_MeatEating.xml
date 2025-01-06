@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AteMeat_Abhorrent.stages.ate_meat.label>Ăn thịt</AteMeat_Abhorrent.stages.ate_meat.label>
+<AteMeat_Abhorrent.stages.ate_meat.description>Tôi đã phải ăn thịt, điều này là một sự xâm phạm nghiêm trọng đối với niềm tin của tôi.</AteMeat_Abhorrent.stages.ate_meat.description>
+<AteMeat_Disapproved.stages.ate_meat.label>Ăn thịt</AteMeat_Disapproved.stages.ate_meat.label>
+<AteMeat_Disapproved.stages.ate_meat.description>Tôi đã phải ăn thịt, tôi không thể đồng tình với điều này.</AteMeat_Disapproved.stages.ate_meat.description>
+<AteMeat_Horrible.stages.ate_meat.label>Ăn thịt</AteMeat_Horrible.stages.ate_meat.label>
+<AteMeat_Horrible.stages.ate_meat.description>Tôi đã phải ăn thịt, điều này là một sự xâm phạm đối với niềm tin của tôi.</AteMeat_Horrible.stages.ate_meat.description>
+<AteMeat_Know_Abhorrent.stages.ate_meat.label>Ăn thịt</AteMeat_Know_Abhorrent.stages.ate_meat.label>
+<AteMeat_Know_Disapproved.stages.ate_meat.label>Ăn thịt</AteMeat_Know_Disapproved.stages.ate_meat.label>
+<AteMeat_Know_Horrible.stages.ate_meat.label>Ăn thịt</AteMeat_Know_Horrible.stages.ate_meat.label>
+<AteNonMeat_Abhorrent.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+<AteNonMeat_Abhorrent.stages.ate_vegetarian.description>Tôi đã ăn một bữa không có thịt nào. Điều này đi ngược lại với quy tắc tôi theo. Ít nhất phải có trứng, sữa hoặc thực phẩm chế biến không có rau.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+<AteNonMeat_Disapproved.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+<AteNonMeat_Disapproved.stages.ate_vegetarian.description>Tôi đã ăn một bữa không có thịt nào. Điều này lệch khỏi quy tắc tôi theo. Ít nhất phải có trứng, sữa hoặc thực phẩm chế biến không có rau.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+<AteNonMeat_Horrible.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+<AteNonMeat_Horrible.stages.ate_vegetarian.description>Tôi đã ăn một bữa không có thịt nào. Đây là sự phản bội đối với quy tắc của tôi. Ít nhất phải có trứng, sữa hoặc thực phẩm chế biến không có rau.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+<AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+<AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+<AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>Ăn chay</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
+</LanguageData>

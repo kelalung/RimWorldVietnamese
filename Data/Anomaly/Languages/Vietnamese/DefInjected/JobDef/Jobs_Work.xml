@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ActivitySuppression.reportString>Đang ức chế hoạt động của TargetC.</ActivitySuppression.reportString>
+	<FillIn.reportString>Đang nạp TargetA.</FillIn.reportString>
+	<PrisonerInterrogateIdentity.reportString>Đang thẩm vấn TargetA.</PrisonerInterrogateIdentity.reportString>
+</LanguageData>

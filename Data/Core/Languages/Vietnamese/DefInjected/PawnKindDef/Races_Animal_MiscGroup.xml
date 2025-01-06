@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Alphabeaver.label>Hải ly</Alphabeaver.label>
+	<Alphabeaver.labelFemale>Hải ly cái</Alphabeaver.labelFemale>
+	<Alphabeaver.labelFemalePlural>Hải ly cái</Alphabeaver.labelFemalePlural>
+	<Alphabeaver.labelMale>Hải ly đực</Alphabeaver.labelMale>
+	<Alphabeaver.labelMalePlural>Hải ly đực</Alphabeaver.labelMalePlural>
+	<Alphabeaver.labelPlural>Hải ly</Alphabeaver.labelPlural>
+	<Alphabeaver.lifeStages.0.label>Hải Ly con</Alphabeaver.lifeStages.0.label>
+	<Alphabeaver.lifeStages.0.labelFemale>Hải Ly cái con</Alphabeaver.lifeStages.0.labelFemale>
+	<Alphabeaver.lifeStages.0.labelFemalePlural>Hải Ly cái con</Alphabeaver.lifeStages.0.labelFemalePlural>
+	<Alphabeaver.lifeStages.0.labelMale>Hải Ly đực con</Alphabeaver.lifeStages.0.labelMale>
+	<Alphabeaver.lifeStages.0.labelMalePlural>Hải Ly đực con</Alphabeaver.lifeStages.0.labelMalePlural>
+	<Alphabeaver.lifeStages.0.labelPlural>Hải Ly con</Alphabeaver.lifeStages.0.labelPlural>
+	<Alphabeaver.lifeStages.1.label>Hải Ly tuổi trẻ</Alphabeaver.lifeStages.1.label>
+	<Alphabeaver.lifeStages.1.labelFemale>Hải Ly tuổi trẻ</Alphabeaver.lifeStages.1.labelFemale>
+	<Alphabeaver.lifeStages.1.labelFemalePlural>Hải Ly tuổi trẻ</Alphabeaver.lifeStages.1.labelFemalePlural>
+	<Alphabeaver.lifeStages.1.labelMale>Hải Ly đực tuổi trẻ</Alphabeaver.lifeStages.1.labelMale>
+	<Alphabeaver.lifeStages.1.labelMalePlural>Hải Ly đực tuổi trẻ</Alphabeaver.lifeStages.1.labelMalePlural>
+	<Alphabeaver.lifeStages.1.labelPlural>Hải Ly tuổi trẻ</Alphabeaver.lifeStages.1.labelPlural>
+	<Alphabeaver.lifeStages.2.label>Hải Ly</Alphabeaver.lifeStages.2.label>
+	<Alphabeaver.lifeStages.2.labelFemale>Hải Ly cái</Alphabeaver.lifeStages.2.labelFemale>
+	<Alphabeaver.lifeStages.2.labelFemalePlural>Hải Ly cái</Alphabeaver.lifeStages.2.labelFemalePlural>
+	<Alphabeaver.lifeStages.2.labelMale>Hải Ly đực</Alphabeaver.lifeStages.2.labelMale>
+	<Alphabeaver.lifeStages.2.labelMalePlural>Hải Ly đực</Alphabeaver.lifeStages.2.labelMalePlural>
+	<Alphabeaver.lifeStages.2.labelPlural>Hải ly</Alphabeaver.lifeStages.2.labelPlural>
+	<Cobra.label>Rắn Hổ Mang</Cobra.label>
+	<Cobra.labelFemale>Rắn Hổ Mang cái</Cobra.labelFemale>
+	<Cobra.labelFemalePlural>Rắn Hổ Mang cái</Cobra.labelFemalePlural>
+	<Cobra.labelMale>Rắn Hổ Mang đực</Cobra.labelMale>
+	<Cobra.labelMalePlural>Rắn Hổ Mang đực</Cobra.labelMalePlural>
+	<Cobra.labelPlural>Rắn Hổ Mang</Cobra.labelPlural>
+	<Cobra.lifeStages.0.label>Rắn Hổ Mang con</Cobra.lifeStages.0.label>
+	<Cobra.lifeStages.0.labelFemale>Rắn Hổ Mang con</Cobra.lifeStages.0.labelFemale>
+	<Cobra.lifeStages.0.labelFemalePlural>Rắn Hổ Mang con</Cobra.lifeStages.0.labelFemalePlural>
+	<Cobra.lifeStages.0.labelMale>Rắn Hổ Mang con</Cobra.lifeStages.0.labelMale>
+	<Cobra.lifeStages.0.labelMalePlural>Rắn Hổ Mang con</Cobra.lifeStages.0.labelMalePlural>
+	<Cobra.lifeStages.0.labelPlural>Rắn Hổ Mang con</Cobra.lifeStages.0.labelPlural>
+	<Cobra.lifeStages.1.label>Rắn Hổ Mang tuổi trẻ</Cobra.lifeStages.1.label>
+	<Cobra.lifeStages.1.labelFemale>Rắn Hổ Mang cái tuổi trẻ</Cobra.lifeStages.1.labelFemale>
+	<Cobra.lifeStages.1.labelFemalePlural>Rắn Hổ Mang cái tuổi trẻ</Cobra.lifeStages.1.labelFemalePlural>
+	<Cobra.lifeStages.1.labelMale>Rắn Hổ Mang đực tuổi trẻ</Cobra.lifeStages.1.labelMale>
+	<Cobra.lifeStages.1.labelMalePlural>Rắn Hổ Mang đực tuổi trẻ</Cobra.lifeStages.1.labelMalePlural>
+	<Cobra.lifeStages.1.labelPlural>Rắn Hổ Mang tuổi trẻ</Cobra.lifeStages.1.labelPlural>
+	<Cobra.lifeStages.2.label>Rắn Hổ Mang</Cobra.lifeStages.2.label>
+	<Cobra.lifeStages.2.labelFemale>Rắn Hổ Mang cái</Cobra.lifeStages.2.labelFemale>
+	<Cobra.lifeStages.2.labelFemalePlural>Rắn Hổ Mang cái</Cobra.lifeStages.2.labelFemalePlural>
+	<Cobra.lifeStages.2.labelMale>Rắn Hổ Mang đực</Cobra.lifeStages.2.labelMale>
+	<Cobra.lifeStages.2.labelMalePlural>Rắn Hổ Mang đực</Cobra.lifeStages.2.labelMalePlural>
+	<Cobra.lifeStages.2.labelPlural>Rắn Hổ Mang</Cobra.lifeStages.2.labelPlural>
+	<Thrumbo.label>Thrumbo</Thrumbo.label>
+	<Thrumbo.labelFemale>Thrumbo cái</Thrumbo.labelFemale>
+	<Thrumbo.labelFemalePlural>Thrumbo cái</Thrumbo.labelFemalePlural>
+	<Thrumbo.labelMale>Thrumbo đực</Thrumbo.labelMale>
+	<Thrumbo.labelMalePlural>Thrumbo đực</Thrumbo.labelMalePlural>
+	<Thrumbo.labelPlural>Thrumbo</Thrumbo.labelPlural>
+	<Thrumbo.lifeStages.thrumbo_calf.label>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.label>
+	<Thrumbo.lifeStages.thrumbo_calf.labelFemale>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
+	<Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
+	<Thrumbo.lifeStages.thrumbo_calf.labelMale>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.labelMale>
+	<Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
+	<Thrumbo.lifeStages.thrumbo_calf.labelPlural>Thrumbo con</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+	<Thrumbo.lifeStages.1.label>Thrumbo tuổi trẻ</Thrumbo.lifeStages.1.label>
+	<Thrumbo.lifeStages.1.labelFemale>Thrumbo cái tuổi trẻ</Thrumbo.lifeStages.1.labelFemale>
+	<Thrumbo.lifeStages.1.labelFemalePlural>Thrumbo cái tuổi trẻ</Thrumbo.lifeStages.1.labelFemalePlural>
+	<Thrumbo.lifeStages.1.labelMale>Thrumbo đực tuổi trẻ</Thrumbo.lifeStages.1.labelMale>
+	<Thrumbo.lifeStages.1.labelMalePlural>Thrumbo đực tuổi trẻ</Thrumbo.lifeStages.1.labelMalePlural>
+	<Thrumbo.lifeStages.1.labelPlural>Thrumbo tuổi trẻ</Thrumbo.lifeStages.1.labelPlural>
+	<Thrumbo.lifeStages.2.label>Thrumbo</Thrumbo.lifeStages.2.label>
+	<Thrumbo.lifeStages.2.labelFemale>Thrumbo cái</Thrumbo.lifeStages.2.labelFemale>
+	<Thrumbo.lifeStages.2.labelFemalePlural>Thrumbo cái</Thrumbo.lifeStages.2.labelFemalePlural>
+	<Thrumbo.lifeStages.2.labelMale>Thrumbo đực</Thrumbo.lifeStages.2.labelMale>
+	<Thrumbo.lifeStages.2.labelMalePlural>Thrumbo đực</Thrumbo.lifeStages.2.labelMalePlural>
+	<Thrumbo.lifeStages.2.labelPlural>Thrumbo</Thrumbo.lifeStages.2.labelPlural>
+	<Tortoise.label>Rùa</Tortoise.label>
+	<Tortoise.labelFemale>Rùa cái</Tortoise.labelFemale>
+	<Tortoise.labelFemalePlural>Rùa cái</Tortoise.labelFemalePlural>
+	<Tortoise.labelMale>Rùa đực</Tortoise.labelMale>
+	<Tortoise.labelMalePlural>Rùa đực</Tortoise.labelMalePlural>
+	<Tortoise.labelPlural>Rùa</Tortoise.labelPlural>
+	<Tortoise.lifeStages.0.label>Rùa con</Tortoise.lifeStages.0.label>
+	<Tortoise.lifeStages.0.labelFemale>Rùa con</Tortoise.lifeStages.0.labelFemale>
+	<Tortoise.lifeStages.0.labelFemalePlural>Rùa con</Tortoise.lifeStages.0.labelFemalePlural>
+	<Tortoise.lifeStages.0.labelMale>Rùa con</Tortoise.lifeStages.0.labelMale>
+	<Tortoise.lifeStages.0.labelMalePlural>Rùa con</Tortoise.lifeStages.0.labelMalePlural>
+	<Tortoise.lifeStages.0.labelPlural>Rùa con</Tortoise.lifeStages.0.labelPlural>
+	<Tortoise.lifeStages.1.label>Rùa tuổi trẻ</Tortoise.lifeStages.1.label>
+	<Tortoise.lifeStages.1.labelFemale>Rùa cái tuổi trẻ</Tortoise.lifeStages.1.labelFemale>
+	<Tortoise.lifeStages.1.labelFemalePlural>Rùa cái tuổi trẻ</Tortoise.lifeStages.1.labelFemalePlural>
+	<Tortoise.lifeStages.1.labelMale>Rùa đực tuổi trẻ</Tortoise.lifeStages.1.labelMale>
+	<Tortoise.lifeStages.1.labelMalePlural>Rùa đực tuổi trẻ</Tortoise.lifeStages.1.labelMalePlural>
+	<Tortoise.lifeStages.1.labelPlural>Rùa tuổi trẻ</Tortoise.lifeStages.1.labelPlural>
+	<Tortoise.lifeStages.2.label>Rùa</Tortoise.lifeStages.2.label>
+	<Tortoise.lifeStages.2.labelFemale>Rùa cái</Tortoise.lifeStages.2.labelFemale>
+	<Tortoise.lifeStages.2.labelFemalePlural>Rùa cái</Tortoise.lifeStages.2.labelFemalePlural>
+	<Tortoise.lifeStages.2.labelMale>Rùa đực</Tortoise.lifeStages.2.labelMale>
+	<Tortoise.lifeStages.2.labelMalePlural>Rùa đực</Tortoise.lifeStages.2.labelMalePlural>
+	<Tortoise.lifeStages.2.labelPlural>Rùa</Tortoise.lifeStages.2.labelPlural>
+</LanguageData>

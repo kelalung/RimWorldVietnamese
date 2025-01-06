@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Convert_Failure.label>Giáo hóa thất bại</Convert_Failure.label>
+	<Convert_Failure.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cố gắng giáo hóa [RECIPIENT_nameDef], nhưng đã thất bại.</li>
+	</Convert_Failure.logRulesInitiator.rulesStrings>
+	<Convert_Success.label>Giáo hóa thành công</Convert_Success.label>
+	<Convert_Success.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cố gắng giáo hóa [RECIPIENT_nameDef] và đã thành công.</li>
+	</Convert_Success.logRulesInitiator.rulesStrings>
+	<ConvertIdeoAttempt.label>Cố gắng giáo hóa hình thái văn hóa</ConvertIdeoAttempt.label>
+	<ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cố gắng giáo hóa hình thái văn hóa của [RECIPIENT_nameDef] thành hình thái văn hóa của [INITIATOR_possessive].</li>
+	</ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+	<Counsel_Failure.label>Khuyên bảo thất bại</Counsel_Failure.label>
+	<Counsel_Failure.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cố gắng khuyên bảo [RECIPIENT_nameDef], nhưng đã làm hỏng nỗ lực này và khiến mọi thứ trở nên tồi tệ hơn.</li>
+	</Counsel_Failure.logRulesInitiator.rulesStrings>
+	<Counsel_Success.label>Khuyên bảo thành công</Counsel_Success.label>
+	<Counsel_Success.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã khuyên bảo [RECIPIENT_nameDef] về [problems].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] giúp [RECIPIENT_nameDef] hiểu rõ về [problems].</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã cung cấp cho [RECIPIENT_nameDef] lời khuyên để vượt qua khó khăn.</li>
+		<li>problems-&gt;[RECIPIENT_possessive] vấn đề</li>
+		<li>problems-&gt;[RECIPIENT_possessive] rắc rối</li>
+		<li>problems-&gt;[RECIPIENT_possessive] cảm giác đau đớn</li>
+		<li>problems-&gt;khó khăn gần đây</li>
+	</Counsel_Success.logRulesInitiator.rulesStrings>
+	<PreachHealth.label>Tuyên truyền sức khỏe</PreachHealth.label>
+	<PreachHealth.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã nâng cao sức khỏe của [RECIPIENT_nameDef] thông qua việc tuyên truyền [preaching_topic].</li>
+		<li>preaching_topic-&gt;Ý nghĩa của cuộc sống</li>
+		<li>preaching_topic-&gt;Mục tiêu văn hóa cao hơn</li>
+		<li>preaching_topic-&gt;Ý nghĩa tồn tại của [RECIPIENT_possessive]</li>
+	</PreachHealth.logRulesInitiator.rulesStrings>
+	<Reassure.label>An ủi</Reassure.label>
+	<Reassure.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã củng cố niềm tin của [RECIPIENT_nameDef].</li>
+	</Reassure.logRulesInitiator.rulesStrings>
+	<Trial_Accuse.label>Buộc tội</Trial_Accuse.label>
+	<Trial_Accuse.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã nộp một số bằng chứng.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã khiến khán giả cảm xúc dâng trào.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã buộc tội [RECIPIENT_nameDef] [wrongdoing].</li>
+		<li>wrongdoing-&gt;Hành vi phá hoại thuộc địa</li>
+		<li>wrongdoing-&gt;Trở nên lười biếng</li>
+		<li>wrongdoing-&gt;Ăn quá nhiều</li>
+		<li>wrongdoing-&gt;Ăn cắp</li>
+		<li>wrongdoing-&gt;Trở nên đáng sợ</li>
+		<li>wrongdoing-&gt;Không tôn trọng quan điểm trang nghiêm</li>
+		<li>wrongdoing-&gt;Không tôn trọng nhân vật nổi tiếng</li>
+		<li>wrongdoing-&gt;Làm điều dị giáo</li>
+		<li>wrongdoing-&gt;Giết người</li>
+		<li>wrongdoing-&gt;Phạm tội xúc phạm thần thánh</li>
+		<li>wrongdoing-&gt;Phản bội</li>
+		<li>wrongdoing-&gt;Tư duy thù địch</li>
+		<li>wrongdoing-&gt;Bất trung</li>
+	</Trial_Accuse.logRulesInitiator.rulesStrings>
+	<Trial_Defend.label>Bào chữa</Trial_Defend.label>
+	<Trial_Defend.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã bác bỏ cáo buộc này.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã đưa ra một lời giải thích khác.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã cầu xin bồi thẩm đoàn.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã yêu cầu lòng thương xót.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã trì hoãn tiến trình xét xử.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã bác bỏ cáo buộc.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã gọi phiên tòa là một trò lừa đảo.</li>
+	</Trial_Defend.logRulesInitiator.rulesStrings>
+	<WorkDrive.label>Kích thích công việc</WorkDrive.label>
+	<WorkDrive.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] kêu gọi [RECIPIENT_nameDef] nỗ lực làm việc gấp đôi vì lợi ích của thuộc địa.</li>
+	</WorkDrive.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CultureSpacer.rulePack.rulesStrings>
+		<li>globalAdjective-&gt;Liên sao</li>
+		<li>globalAdjective-&gt;Ngôi sao</li>
+		<li>globalAdjective-&gt;Ngôi sao</li>
+		<li>globalAdjective-&gt;Liên sao</li>
+		<li>globalHyphenPrefix-&gt;Vũ trụ</li>
+		<li>globalHyphenPrefix-&gt;Hệ sao</li>
+	</CultureSpacer.rulePack.rulesStrings>
+	<NamerIdeoCorunan.rulePack.rulesStrings>
+		<li>globalAdjective(p=15)-&gt;Bộ lạc</li>
+	</NamerIdeoCorunan.rulePack.rulesStrings>
+	<NamerIdeoGlobal.rulePack.rulesStrings>
+		<li>r_ideoName-&gt;[keyDeity] chủ nghĩa</li>
+		<li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity] chủ nghĩa</li>
+		<li>r_ideoName-&gt;[keyDeity][creed]</li>
+		<li>r_ideoName-&gt;[keyDeity][creed]</li>
+		<li>r_ideoAdjective-&gt;[keyDeity] của</li>
+		<li>r_memberName-&gt;[keyDeity] chủ nghĩa giả</li>
+		<li>r_memberName-&gt;[keyDeity] tín đồ</li>
+		<li>r_ideoName(p=6)-&gt;[packIdeoName]</li>
+		<li>r_ideoName(p=2,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoName]</li>
+		<li>r_ideoName(p=2,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoNameStructure]</li>
+		<li>r_ideoName(p=2)-&gt;[memeAdjective] [creed]</li>
+		<li>r_ideoName(p=1)-&gt;[packTheme][creed]</li>
+		<li>r_ideoName(p=1)-&gt;[place_adjective] [creed]</li>
+		<li>r_ideoName(p=0.25)-&gt;[memeCreed]</li>
+		<li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+		<li>r_memberName-&gt;[packMember]</li>
+		<li>creed(priority=1)-&gt;[memeCreed]</li>
+		<li>creed-&gt;[genericCreed]</li>
+		<li>genericCreed-&gt;Giáo</li>
+		<li>genericCreed-&gt;Chủ nghĩa</li>
+		<li>genericCreed-&gt;Giáo</li>
+		<li>genericCreed-&gt;Giáo</li>
+		<li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+		<li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+		<li>globalHyphenPrefix(p=4)-&gt;Tái sinh</li>
+		<li>globalHyphenPrefix(p=2)-&gt;Hậu</li>
+		<li>globalHyphenPrefix-&gt;Mới nổi</li>
+		<li>globalHyphenPrefix-&gt;Cổ</li>
+		<li>globalHyphenPrefix-&gt;Siêu</li>
+	</NamerIdeoGlobal.rulePack.rulesStrings>
+</LanguageData>

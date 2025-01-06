@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CochlearImplant.label>Implant ốc tai nhân tạo</CochlearImplant.label>
+	<CochlearImplant.description>Một thiết bị trợ thính nhân tạo. Các điện cực quấn quanh tai trong kích thích dây thần kinh thính giác, truyền tín hiệu âm thanh từ bên ngoài đến người sử dụng. Hiệu suất không bằng tai sinh học ban đầu, nhưng rõ ràng tốt hơn so với việc bị điếc.</CochlearImplant.description>
+	<Joywire.label>Chip vui vẻ</Joywire.label>
+	<Joywire.description>Một thiết bị cấy ghép trong não kích thích trung tâm vui vẻ. Mặc dù nó cải thiện tâm trạng của người sử dụng rất nhiều, nhưng cảm giác vui vẻ làm cho người ta khó tập trung vào bất kỳ việc gì thực sự. Chip vui vẻ bị coi là bất hợp pháp ở nhiều thế giới và nổi tiếng vì đã phá hủy toàn bộ văn hóa.</Joywire.description>
+	<Painstopper.label>Chip giảm đau</Painstopper.label>
+	<Painstopper.description>Một thiết bị cấy ghép trong não để ức chế cảm giác đau. Mặc dù nó giúp người sử dụng hoàn thành nhiều công việc hơn, nhưng cảm giác đau là một cơ chế tự bảo vệ quan trọng đối với sinh vật, nếu mất cảm giác đau, sẽ dễ dàng bị thương nặng hơn.</Painstopper.description>
+	<PowerClaw.label>Vuốt sức mạnh</PowerClaw.label>
+	<PowerClaw.description>Một công cụ thay thế tay được thiết kế cho chiến đấu, bao gồm một bàn tay cơ khí với các móng vuốt sắc nhọn trên mỗi ngón tay. Lực cắt của nó rất mạnh, đủ để nghiền nát hộp sọ như bóp trứng. Các móng vuốt có thể thu lại, cho phép sử dụng như một bàn tay tự nhiên trong các nhiệm vụ không chiến đấu, nhưng điều này sẽ ảnh hưởng đến sự phối hợp cơ thể và giảm khả năng di chuyển.</PowerClaw.description>
+	<SimpleProstheticArm.label>Cánh tay giả đơn giản</SimpleProstheticArm.label>
+	<SimpleProstheticArm.description>Một cánh tay giả nhân tạo, mặc dù không được trang bị giao diện thần kinh, nhưng cấu trúc khớp phức tạp giúp nó mô phỏng hoạt động tự nhiên một cách tối đa. Tuy nhiên, nó vẫn không bằng chi thể sinh học ban đầu.</SimpleProstheticArm.description>
+	<SimpleProstheticHeart.label>Tim nhân tạo đơn giản</SimpleProstheticHeart.label>
+	<SimpleProstheticHeart.description>Một trái tim nhân tạo, được trang bị động cơ điện ổn định để bơm máu đến toàn bộ cơ thể. Mặc dù người sử dụng thường báo cáo cảm thấy yếu đuối, nhưng rõ ràng vẫn tốt hơn các lựa chọn khác.</SimpleProstheticHeart.description>
+	<SimpleProstheticLeg.label>Chân giả đơn giản</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.description>Một chân giả nhân tạo, mặc dù không được trang bị giao diện thần kinh, nhưng cấu trúc khớp phức tạp giúp nó mô phỏng hoạt động tự nhiên một cách tối đa. Tuy nhiên, nó vẫn không bằng chi thể sinh học ban đầu.</SimpleProstheticLeg.description>
+</LanguageData>

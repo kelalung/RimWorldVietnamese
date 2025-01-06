@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chinchilla.label>Sóc chuột</Chinchilla.label>
+	<Chinchilla.description>Loài gặm nhấm nhỏ và nhanh nhẹn này nổi tiếng với bộ lông mềm mại bất thường của nó.</Chinchilla.description>
+	<Chinchilla.tools.left_claw.label>Móng trái</Chinchilla.tools.left_claw.label>
+	<Chinchilla.tools.left_claw.labelNoLocation>Móng</Chinchilla.tools.left_claw.labelNoLocation>
+	<Chinchilla.tools.right_claw.label>Móng phải</Chinchilla.tools.right_claw.label>
+	<Chinchilla.tools.right_claw.labelNoLocation>Móng</Chinchilla.tools.right_claw.labelNoLocation>
+	<Chinchilla.tools.head.label>Đầu</Chinchilla.tools.head.label>
+	<Deer.label>Hươu</Deer.label>
+	<Deer.description>Loài động vật ăn cỏ cỡ trung bình. Thường có tính cách hiền lành khi không bị quấy rầy.</Deer.description>
+	<Deer.race.meatLabel>Thịt hươu</Deer.race.meatLabel>
+	<Deer.tools.left_hoof.label>Móng trái</Deer.tools.left_hoof.label>
+	<Deer.tools.left_hoof.labelNoLocation>Móng</Deer.tools.left_hoof.labelNoLocation>
+	<Deer.tools.right_hoof.label>Móng phải</Deer.tools.right_hoof.label>
+	<Deer.tools.right_hoof.labelNoLocation>Móng</Deer.tools.right_hoof.labelNoLocation>
+	<Deer.tools.teeth.label>Răng</Deer.tools.teeth.label>
+	<Deer.tools.head.label>Đầu</Deer.tools.head.label>
+	<Gazelle.label>Linh dương</Gazelle.label>
+	<Gazelle.description>Loài linh dương nhỏ hơn và rất nhanh nhẹn, nổi tiếng với khả năng nhảy liên tục đáng kinh ngạc.</Gazelle.description>
+	<Gazelle.tools.left_hoof.label>Móng trái</Gazelle.tools.left_hoof.label>
+	<Gazelle.tools.left_hoof.labelNoLocation>Móng</Gazelle.tools.left_hoof.labelNoLocation>
+	<Gazelle.tools.right_hoof.label>Móng phải</Gazelle.tools.right_hoof.label>
+	<Gazelle.tools.right_hoof.labelNoLocation>Móng</Gazelle.tools.right_hoof.labelNoLocation>
+	<Gazelle.tools.head.label>Đầu</Gazelle.tools.head.label>
+	<Ibex.label>Dê núi</Ibex.label>
+	<Ibex.description>Tổ tiên hoang dã của loài dê nhà. Ibex sống ở những khu vực biên giới mà hầu hết các loài linh dương không thể tồn tại, ăn rêu và thực vật núi thưa thớt. Chúng nổi tiếng với khả năng nhảy nhót nhanh nhẹn giữa các vách đá trống trải và sự tấn công bằng sừng dữ dội.</Ibex.description>
+	<Ibex.tools.left_hoof.label>Móng trái</Ibex.tools.left_hoof.label>
+	<Ibex.tools.left_hoof.labelNoLocation>Móng</Ibex.tools.left_hoof.labelNoLocation>
+	<Ibex.tools.right_hoof.label>Móng phải</Ibex.tools.right_hoof.label>
+	<Ibex.tools.right_hoof.labelNoLocation>Móng</Ibex.tools.right_hoof.labelNoLocation>
+	<Ibex.tools.head.label>Đầu</Ibex.tools.head.label>
+	<Pig.label>Heo</Pig.label>
+	<Pig.description>Heo là một trong những loài động vật được con người thuần hóa đầu tiên. Chúng được nuôi rộng rãi vì da và thịt, và do tính ăn tạp, dễ nuôi.</Pig.description>
+	<Pig.race.meatLabel>Thịt heo</Pig.race.meatLabel>
+	<Pig.tools.head.label>Đầu</Pig.tools.head.label>
+	<WildBoar.label>Heo rừng</WildBoar.label>
+	<WildBoar.description>Mặc dù trong một số nền văn hóa, đây là loài động vật không sạch sẽ, tổ tiên của loài heo này lại được ưa chuộng vì thịt đậm đà của chúng.</WildBoar.description>
+	<WildBoar.tools.tusk.label>Ngà</WildBoar.tools.tusk.label>
+	<WildBoar.tools.head.label>Đầu</WildBoar.tools.head.label>
+</LanguageData>

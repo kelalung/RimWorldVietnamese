@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <QuestHospitalityCommon.rulePack.rulesStrings>
+    <li>allLodgerInfo-&gt;[healthInfo] [minMoodInfo] [workInfo] [includesChildren]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-&gt;</li>
+    <li>includesChildren(childCount==1)-&gt;\n\nMột trong những [lodgersLabelSingOrPluralDef] là một đứa trẻ.</li>
+    <li>includesChildren(childCount&gt;=2)-&gt;\n\nMột số [lodgersLabelSingOrPluralDef] là trẻ em.</li>
+    <li>healthInfo-&gt;</li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)-&gt;\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)-&gt;\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)-&gt;\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo-&gt;[lodgersLabelSingOrPluralDef][areIs] phải nằm liệt giường do bị liệt.</li>
+    <li>bloodRotInfo-&gt;[lodgersLabelSingOrPluralDef][areIs] phải điều trị hàng ngày vì bị nhiễm độc máu. Sự tiến triển của căn bệnh này có thể được làm chậm lại bằng cách chăm sóc và thuốc men chất lượng cao, nhưng thường không thể chữa khỏi. Nếu bệnh trở nên đủ nghiêm trọng, sẽ dẫn đến cái chết của [lodgersLabelSingOrPluralDef], vì vậy hãy đảm bảo bạn có đủ thuốc chữa bệnh.</li>
+    <li>minMoodInfo-&gt;</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold&gt;0,priority=1)-&gt;\n\nBạn phải giữ cho tâm trạng của [lodgersLabelSingOrPluralDef] trên mức [lodgersMoodThreshold_percent].</li>
+    <li>workInfo-&gt;</li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)-&gt;\n\n[lodgersLabelSingOrPluralDef] sẽ không làm bất kỳ công việc nào.</li>
+    <li>commonDescEnding-&gt;[helpersParagraph]</li>
+    <li>enemyGroupsParagraph-&gt;[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)-&gt;Sẽ có một cuộc tấn công (*Threat) có quy mô tương đương với:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize&gt;1)-&gt;Sẽ có một cuộc tấn công (*Threat) có cường độ là [threatSize]x, có quy mô tương đương với:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize==1)-&gt;Sẽ có [threatCount] cuộc tấn công (*Threat) có quy mô tương đương với:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize&gt;1)-&gt;Sẽ có [threatCount] cuộc tấn công (*Threat) có cường độ là [threatSize]x, có quy mô tương đương với:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)-&gt;(*Threat) Một cụm máy móc (/Threat) sẽ được triển khai gần đó.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)-&gt;(*Threat) Hai cụm máy móc (/Threat) sẽ được triển khai gần đó.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize&gt;1)-&gt;(*Threat) Một cụm máy móc quy mô [threatSize]x (/Threat) sẽ được triển khai gần đó.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize&gt;1)-&gt;(*Threat) Hai cụm máy móc quy mô [threatSize]x (/Threat) sẽ được triển khai gần đó.</li>
+    <li>threatsInfoMechClustersSingleHuman-&gt;[lodgers0_nameDef] đã [mechViolation] gần đây, và đã bị một số lượng lớn máy móc trên quỹ đạo khóa chặt.</li>
+    <li>threatsInfoMechClustersMultiPrisoners-&gt;Các tù nhân đã [mechViolation] gần đây, và đã bị một số lượng lớn máy móc trên quỹ đạo khóa chặt.</li>
+    <li>threatsInfoMechRaidsSingleHuman-&gt;[lodgers0_nameDef] đã [mechViolation] gần đây, và đã bị một số lượng lớn máy móc khóa chặt.</li>
+    <li>threatsInfoMechRaidsMultiHuman-&gt;Họ đã [mechViolation] gần đây, và đã bị một số lượng lớn máy móc khóa chặt.</li>
+    <li>mechViolation-&gt;Chọc giận một trí tuệ nhân tạo</li>
+    <li>mechViolation-&gt;Cản trở một siêu máy tính cổ xưa</li>
+    <li>mechViolation-&gt;Giết một đứa trẻ được trí tuệ siêu phàm ưu ái</li>
+    <li>mechViolation-&gt;Cố gắng xâm nhập vào nút điều khiển máy móc</li>
+    <li>mechViolation-&gt;Cố gắng đánh cắp từ một điểm lưu trữ cổ xưa</li>
+    <li>letterSubject-&gt;{SUBJECT_definite}</li>
+    <li>lodgersHasHave(lodgersCount==1)-&gt;Có</li>
+    <li>lodgersHasHave(lodgersCount&gt;=2)-&gt;Có</li>
+    <li>lodgersObjective(lodgersCount==1)-&gt;[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount&gt;=2)-&gt;Họ</li>
+    <li>areIs(lodgersCount==1)-&gt;Là</li>
+    <li>areIs(lodgersCount&gt;=2)-&gt;Là</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-&gt;</li>
+    <li>remainingWillNowLeave(lodgersCount&gt;=2)-&gt;Tất cả các [lodgersLabelPlural] còn lại sẽ rời đi ngay bây giờ.</li>
+    <li>failLetterEndingQuest-&gt;Bạn đã không hoàn thành nhiệm vụ “[resolvedQuestName]”.</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)-&gt;[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon-&gt;[failLetterEndingQuest]\n\nMối quan hệ của bạn với [asker_faction_name] đã giảm [goodwillPenalty]。</li>
+</QuestHospitalityCommon.rulePack.rulesStrings>
+</LanguageData>

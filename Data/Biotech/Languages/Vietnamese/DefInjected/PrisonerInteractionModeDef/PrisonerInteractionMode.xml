@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bloodfeed.label>Hút máu</Bloodfeed.label>
+<Bloodfeed.description>Khi mức huyết nguyên chất của người huyết tộc rất thấp, họ có thể ăn thịt tù nhân này. Các người hút máu khác trong cùng một phòng giam cũng có thể ăn thịt tù nhân này.</Bloodfeed.description>
+<HemogenFarm.label>Thu thập huyết nguyên chất</HemogenFarm.label>
+<HemogenFarm.description>Chỉ cần có thể thực hiện phẫu thuật mà không giết chết tù nhân, quy trình lấy huyết nguyên sẽ tự động áp dụng cho tù nhân này. Quy trình này sẽ được thực hiện bởi một bác sĩ.</HemogenFarm.description>
+</LanguageData>

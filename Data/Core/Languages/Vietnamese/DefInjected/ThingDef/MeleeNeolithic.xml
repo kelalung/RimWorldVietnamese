@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MeleeWeapon_Club.label>Cái gậy</MeleeWeapon_Club.label>
+	<MeleeWeapon_Club.description>Cái gậy nặng đầu dùng để đánh chết kẻ thù. Vũ khí cổ xưa này là một phần của lịch sử tiến hóa của con người, các nhà tiến hóa học cho biết, một trong những lý do chính khiến con người có thể nghiêng cổ tay sang một bên (thay vì chỉ có thể nghiêng về trước và sau như các loài linh trưởng khác) là để dễ dàng vung gậy.</MeleeWeapon_Club.description>
+	<MeleeWeapon_Club.tools.handle.label>Cán gậy</MeleeWeapon_Club.tools.handle.label>
+	<MeleeWeapon_Club.tools.head.label>Đầu gậy</MeleeWeapon_Club.tools.head.label>
+	<MeleeWeapon_Ikwa.label>Giáo ngắn</MeleeWeapon_Ikwa.label>
+	<MeleeWeapon_Ikwa.description>Một cây giáo ngắn với đầu lưỡi dài, thiết kế để nhanh chóng đâm vào các cơ quan quan trọng.</MeleeWeapon_Ikwa.description>
+	<MeleeWeapon_Ikwa.tools.handle.label>Cán giáo</MeleeWeapon_Ikwa.tools.handle.label>
+	<MeleeWeapon_Ikwa.tools.head.label>Đầu giáo</MeleeWeapon_Ikwa.tools.head.label>
+	<MeleeWeapon_Ikwa.tools.edge.label>Lưỡi giáo</MeleeWeapon_Ikwa.tools.edge.label>
+	<MeleeWeapon_Knife.label>Dao găm</MeleeWeapon_Knife.label>
+	<MeleeWeapon_Knife.description>Một trong những vũ khí cổ xưa nhất của con người, dao găm vừa là công cụ hàng ngày vừa là vũ khí chết người. Dao găm có nhiều kiểu dáng khác nhau, nhưng ý tưởng cơ bản chưa bao giờ thay đổi: một tay cầm và một lưỡi dao sắc bén gắn trên đó.</MeleeWeapon_Knife.description>
+	<MeleeWeapon_Knife.tools.handle.label>Cán dao</MeleeWeapon_Knife.tools.handle.label>
+	<MeleeWeapon_Knife.tools.blade.label>Lưỡi dao</MeleeWeapon_Knife.tools.blade.label>
+	<MeleeWeapon_Knife.tools.point.label>Đầu dao</MeleeWeapon_Knife.tools.point.label>
+	<MeleeWeapon_Spear.label>Giáo dài</MeleeWeapon_Spear.label>
+	<MeleeWeapon_Spear.description>Một loại vũ khí có cán dài, một đầu có mũi nhọn để đâm kẻ thù trong chiến đấu cận chiến.</MeleeWeapon_Spear.description>
+	<MeleeWeapon_Spear.tools.shaft.label>Cán giáo</MeleeWeapon_Spear.tools.shaft.label>
+	<MeleeWeapon_Spear.tools.point.label>Mũi giáo</MeleeWeapon_Spear.tools.point.label>
+</LanguageData>

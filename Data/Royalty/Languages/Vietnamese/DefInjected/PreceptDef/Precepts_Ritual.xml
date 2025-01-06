@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimaTreeLinking.label>Cộng hưởng cây linh</AnimaTreeLinking.label>
+<AnimaTreeLinking.description>Một người sẽ cộng hưởng với một cây linh. Người cộng hưởng sẽ thiền trước cây linh, tạo thành một cộng hưởng tâm linh. Những người khác đứng xung quanh xem và tăng cường sức mạnh tâm linh cho nghi lễ.</AnimaTreeLinking.description>
+<ThroneSpeech.label>Bài phát biểu uy nghi</ThroneSpeech.label>
+<ThroneSpeech.description>Phát biểu từ ngai vàng. {ORGANIZER_labelShort} sẽ đến ngai vàng của {ORGANIZER_possessive} và triệu tập tất cả các thuộc địa đến đó để nghe bài phát biểu. Một bài phát biểu thành công sẽ khích lệ khán giả và khiến họ tôn trọng {ORGANIZER_labelShort} hơn. Nếu tiến trình không suôn sẻ, bài phát biểu sẽ gây tổn hại xã hội. Kết quả phụ thuộc vào khả năng xã hội của {ORGANIZER_labelShort}.</ThroneSpeech.description>
+</LanguageData>

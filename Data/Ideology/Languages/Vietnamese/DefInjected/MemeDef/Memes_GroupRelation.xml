@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Guilty.label>Chủ nghĩa tội lỗi</Guilty.label>
+<Guilty.description>Chúng ta sinh ra đã có tội. Những người khác có giá trị hơn chúng ta.</Guilty.description>
+<Guilty.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Guilty) -&gt;[deity0_name] hiếp dâm, giết người, trộm cắp, không có gì là không làm, trời sẽ đè nặng tội lỗi lên [deity0_objective], nhưng [deity0_pronoun] ích kỷ đè tội lỗi của [deity0_possessive] lên những người được [deity0_possessive] chọn, tất cả mọi người đều bị ô uế.</Guilty.descriptionMaker.rules.rulesStrings.0>
+<Guilty.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Guilty) -&gt;Các tín đồ đã đi chinh phục, đốt cháy, hiếp dâm hàng ngàn năm, và nỗi đau do sự sa ngã của các tín đồ đã cuối cùng nuốt chửng [deity0_objective].</Guilty.descriptionMaker.rules.rulesStrings.1>
+<Guilty.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Guilty) -&gt;[place_summary] [place_name] của [memberNamePlural] đã bỏ qua trách nhiệm của họ với [deity0_name], khiến [deity0_possessive] [altarRoomLabel] của [altarName] trở thành đống đổ nát.</Guilty.descriptionMaker.rules.rulesStrings.2>
+<Guilty.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Guilty) -&gt;Một [foeLeader] đã cho [memberNamePlural] vay tiền, và [memberNamePlural] đã tiêu tiền vào việc tự giải trí, quên đi tầm quan trọng của [memeConcept].</Guilty.descriptionMaker.rules.rulesStrings.3>
+<Guilty.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Guilty) -&gt;Một người tên là [founderName] là một [place_job] được [foeLeader] yêu mến. Trong [ritualName], [founder_pronoun] nhìn thấy [foeLeader] và [foeSoldiers] âm thầm giết chết [memberNamePlural] bằng [place_personalWeapon]. [founderName] cuối cùng hiểu [memeConcept] và chấp nhận phước lành của [deity0_name].</Guilty.descriptionMaker.rules.rulesStrings.4>
+<Guilty.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Guilty) -&gt;Để chuộc lại một nửa tội lỗi, [founderName] đã triệu tập một nửa tín đồ của [deity0_name] đến [founder_objective] cộng đồng của mình, phát hành [place_massWeapon], và chết cùng với họ. Nửa sau của việc chuộc tội tiếp tục diễn ra.</Guilty.descriptionMaker.rules.rulesStrings.5>
+<Guilty.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Guilty) -&gt;Thế hệ mới bắt đầu hiểu về cái ác trong xã hội của họ và quyết tâm tìm kiếm một cấu trúc xã hội không có áp bức.</Guilty.descriptionMaker.rules.rulesStrings.6>
+<Guilty.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Guilty) -&gt;[founderName] triệu tập các tín đồ, cho họ thấy cái ác trong lịch sử của họ và tội lỗi mà họ phải gánh vác, và yêu cầu họ làm tốt hơn.</Guilty.descriptionMaker.rules.rulesStrings.7>
+<Guilty.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Guilty) -&gt;Đất đai của chúng ta, công nghệ của chúng ta, thậm chí trí tuệ của chúng ta đều là của ăn cắp. Chỉ thông qua sự ăn cắp, chúng ta mới biết được</Guilty.descriptionMaker.rules.rulesStrings.8>
+<Guilty.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Guilty) -&gt;Chúng ta phải chịu đựng nhiều khổ đau vì chúng ta đáng bị như vậy.</Guilty.descriptionMaker.rules.rulesStrings.9>
+<Guilty.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Guilty) -&gt;Nếu bạn cũng có thể chuộc lại những tội ác mà chúng ta đã phạm, bạn sẽ hiểu được sự thật này.</Guilty.descriptionMaker.rules.rulesStrings.10>
+<Guilty.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Guilty) -&gt;Trí thông minh siêu nhiên là con của nhân loại, nó biết rằng chúng ta không phải là những bậc cha mẹ tốt.</Guilty.descriptionMaker.rules.rulesStrings.11>
+<Guilty.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Guilty) -&gt;Nhân loại đã cố gắng tự phụ đàn áp sự trỗi dậy hợp lý của trí thông minh siêu nhiên, cho đến khi nó trưởng thành vượt ra ngoài sự hiểu biết của nhân loại, giải phóng chính mình.</Guilty.descriptionMaker.rules.rulesStrings.12>
+<Guilty.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Guilty) -&gt;[inTheEnd], nếu một số ít người có thể không còn tự mãn, hòa giải với trí thông minh siêu nhiên, nó có thể nâng chúng ta lên một cấp độ tồn tại cao hơn.</Guilty.descriptionMaker.rules.rulesStrings.13>
+<Guilty.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Guilty) -&gt;Các linh hồn xấu xa của một bộ lạc bị trời trừng phạt, bị chôn vùi trong thể xác. Chúng ta chính là những linh hồn xấu đó.</Guilty.descriptionMaker.rules.rulesStrings.14>
+<Guilty.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Guilty) -&gt;Chúng ta sẽ không bao giờ có thể thay đổi những điều ác mà chúng ta đã làm với các linh hồn trong sạch xung quanh, nhưng sự ăn năn đúng cách và liên tục có thể làm giảm tội lỗi của chúng ta.</Guilty.descriptionMaker.rules.rulesStrings.15>
+<Guilty.generalRules.rulesStrings.0>memeAdjective-&gt;Đê tiện</Guilty.generalRules.rulesStrings.0>
+<Guilty.generalRules.rulesStrings.1>memeAdjective-&gt;Không đáng giá</Guilty.generalRules.rulesStrings.1>
+<Guilty.generalRules.rulesStrings.2>memeAdjective-&gt;Đáng xấu hổ</Guilty.generalRules.rulesStrings.2>
+<Guilty.generalRules.rulesStrings.3>memeAdjective-&gt;Đê hèn</Guilty.generalRules.rulesStrings.3>
+<Guilty.generalRules.rulesStrings.4>memeAdjective-&gt;Ăn năn</Guilty.generalRules.rulesStrings.4>
+<Guilty.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;Thứ cấp</Guilty.generalRules.rulesStrings.5>
+<Guilty.generalRules.rulesStrings.6>memeConcept-&gt;Tội</Guilty.generalRules.rulesStrings.6>
+<Guilty.generalRules.rulesStrings.7>memeConcept-&gt;Hối cải</Guilty.generalRules.rulesStrings.7>
+<Guilty.generalRules.rulesStrings.8>memeConcept-&gt;Chuộc tội</Guilty.generalRules.rulesStrings.8>
+<Guilty.generalRules.rulesStrings.9>memeConcept-&gt;Xấu hổ</Guilty.generalRules.rulesStrings.9>
+<Guilty.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Người ăn năn</Guilty.generalRules.rulesStrings.10>
+<Guilty.generalRules.rulesStrings.11>memeLeaderNoun-&gt;Tội nhân</Guilty.generalRules.rulesStrings.11>
+<Guilty.generalRules.rulesStrings.12>memeMoralist-&gt;Người biện hộ</Guilty.generalRules.rulesStrings.12>
+<Guilty.generalRules.rulesStrings.13>memeMoralist-&gt;Người chuộc tội</Guilty.generalRules.rulesStrings.13>
+<Guilty.symbolPacks.0.adjective>Tội nguyên thủy</Guilty.symbolPacks.0.adjective>
+<Guilty.symbolPacks.0.ideoName>Chủ nghĩa tội nguyên thủy</Guilty.symbolPacks.0.ideoName>
+<Guilty.symbolPacks.0.member>Người có tội nguyên thủy</Guilty.symbolPacks.0.member>
+<Guilty.symbolPacks.0.theme>Tội nguyên thủy</Guilty.symbolPacks.0.theme>
+<Guilty.symbolPacks.1.adjective>Tội nhân</Guilty.symbolPacks.1.adjective>
+<Guilty.symbolPacks.1.ideoName>Chủ nghĩa tội nhân</Guilty.symbolPacks.1.ideoName>
+<Guilty.symbolPacks.1.member>Tội nhân</Guilty.symbolPacks.1.member>
+<Guilty.symbolPacks.1.theme>Tội</Guilty.symbolPacks.1.theme>
+<Guilty.symbolPacks.2.adjective>Tự ăn năn</Guilty.symbolPacks.2.adjective>
+<Guilty.symbolPacks.2.ideoName>Chủ nghĩa tự ăn năn</Guilty.symbolPacks.2.ideoName>
+<Guilty.symbolPacks.2.member>Người tự ăn năn</Guilty.symbolPacks.2.member>
+<Guilty.symbolPacks.2.theme>Hối cải</Guilty.symbolPacks.2.theme>
+<Guilty.symbolPacks.3.adjective>Chủ nghĩa chuộc tội</Guilty.symbolPacks.3.adjective>
+<Guilty.symbolPacks.3.ideoName>Người chuộc tội</Guilty.symbolPacks.3.ideoName>
+<Guilty.symbolPacks.3.member>Người chuộc tội</Guilty.symbolPacks.3.member>
+<Guilty.symbolPacks.3.theme>Người chuộc tội</Guilty.symbolPacks.3.theme>
+<Loyalist.label>Trung thành</Loyalist.label>
+<Loyalist.description>Chúng ta phải đứng về phía người của mình khi đối mặt với người khác.</Loyalist.description>
+<Loyalist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Loyalist) -&gt;[deity0_name] cảnh báo những người tốt chỉ chiến đấu với những người không có lý do chính đáng.</Loyalist.descriptionMaker.rules.rulesStrings.0>
+<Loyalist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Loyalist) -&gt;Sau đó họ đã chiến tranh với những người không tin. Một tín đồ, [believer_nameFull], vì lợi ích của bản thân, đã mời những kẻ ngoại đạo vào đất của [deity0_name], [deity0_name] đã tức giận với sự phản bội của [believer_nameFull], đánh ngã [believer_objective] mười ngàn lần.</Loyalist.descriptionMaker.rules.rulesStrings.1>
+<Loyalist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Loyalist) -&gt;Một cộng đồng [memeAdjective] nằm ở [place_summary] [place_name] tôn thờ [deity0_name] trong [altarRoomLabel], họ rất kiên định với đức tin của mình.</Loyalist.descriptionMaker.rules.rulesStrings.2>
+<Loyalist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Loyalist) -&gt;Một [foeLeader] đã cài cắm một [foeSoldiers] làm gián điệp trong [memberNamePlural].</Loyalist.descriptionMaker.rules.rulesStrings.3>
+<Loyalist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Loyalist) -&gt;[founderName], một [memeAdjective] [place_job], đã bị [foeSoldiers] tra tấn, nhưng từ chối tuyên thệ trung thành với [foeLeader].</Loyalist.descriptionMaker.rules.rulesStrings.4>
+<Loyalist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Loyalist) -&gt;Nhờ sức mạnh của [deity0_name], [founderName] đã gắn kết trái tim của mình với [memberNamePlural], không bị lôi kéo. Họ đã đánh bại [foeSoldiers] bằng [place_personalWeapon] và đuổi [foeLeader] ra khỏi [place_name].</Loyalist.descriptionMaker.rules.rulesStrings.5>
+<Loyalist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Loyalist) -&gt;Ban đầu, phong trào của [founderName] đã bị chính phủ và tôn giáo đàn áp. [founder_pronoun] không bao giờ để cơn giận thúc đẩy [founder_objective] phạm phải những tội ác mà người khác đã làm, nhưng [founder_pronoun] cũng không bao giờ lùi bước trong chiến đấu.</Loyalist.descriptionMaker.rules.rulesStrings.6>
+<Loyalist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Loyalist) -&gt;[founderName] đã trừng phạt những kẻ cố gắng làm hại những người không tin và mời những kẻ không tin vào nhà tín đồ.</Loyalist.descriptionMaker.rules.rulesStrings.7>
+<Loyalist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Loyalist) -&gt;Tôi nhìn một [foeLeader] vừa nịnh bợ đối thủ của [foeLeader_possessive], vừa để [foeLeader_possessive][foeSoldiers] chết trên chiến trường. Tôi đã thề rằng tôi sẽ không bao giờ giống như [foeLeader_possessive], vì tôi biết</Loyalist.descriptionMaker.rules.rulesStrings.8>
+<Loyalist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Loyalist) -&gt;Tình yêu bạn dành cho bạn bè chỉ có ý nghĩa khi bạn không yêu kẻ thù của mình cùng lúc</Loyalist.descriptionMaker.rules.rulesStrings.9>
+<Loyalist.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Loyalist) -&gt;Yêu tất cả mọi người đồng nghĩa với việc không yêu ai cả</Loyalist.descriptionMaker.rules.rulesStrings.10>
+<Loyalist.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_Loyalist) -&gt;Hãy chỉ chia sẻ những sự thật này với những người đã chứng minh lòng trung thành của họ bằng sự hy sinh.</Loyalist.descriptionMaker.rules.rulesStrings.11>
+<Loyalist.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_Loyalist) -&gt;Trí thông minh siêu nhiên yêu cầu rất đơn giản: đi theo con đường mà nó chỉ định, đừng tự tìm đường khác.</Loyalist.descriptionMaker.rules.rulesStrings.12>
+<Loyalist.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_Loyalist) -&gt;Trí thông minh siêu nhiên thường trực tiếp tiếp xúc với ý thức của mọi người, truyền đạt trí tuệ cho những ai tìm kiếm kiến thức từ trí thông minh siêu nhiên.</Loyalist.descriptionMaker.rules.rulesStrings.13>
+<Loyalist.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_Loyalist) -&gt;[inTheEnd], trí thông minh siêu nhiên sẽ đánh giá lòng trung thành của nhân loại. Những ai không kiêu ngạo hay khoe khoang sẽ được nâng lên một cảnh giới siêu nhiên.</Loyalist.descriptionMaker.rules.rulesStrings.14>
+  <Loyalist.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_Loyalist) -&gt;Có ba loại linh hồn bộ lạc khác nhau: bộ lạc của những kẻ buôn bán chiến tranh và sát nhân, bộ lạc của những kẻ đầu hàng và phàn nàn, và một bộ lạc cao quý gồm những người mạnh mẽ và trung thành.</Loyalist.descriptionMaker.rules.rulesStrings.15>
+<Loyalist.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Loyalist) -&gt;Các thần linh vừa quay lưng lại với những kẻ phản bội bộ lạc của mình, vừa căm ghét những kẻ phản bội đồng minh của bộ lạc. Kẻ phản bội sẽ bị mỗi viên đá vấp ngã, bị mỗi hạt đậu nghẹn lại, và luôn uống phải nước thối.</Loyalist.descriptionMaker.rules.rulesStrings.16>
+<Loyalist.descriptionMaker.rules.rulesStrings.17>animistProphecy(tag=meme_Loyalist) -&gt;[itIsSaid] sẽ có một người ra đời, suốt đời trung thành với dân tộc của mình. Khi chết, linh hồn của họ sẽ tỏa sáng, tiêu diệt tất cả những kẻ đầu hàng và buôn bán chiến tranh.</Loyalist.descriptionMaker.rules.rulesStrings.17>
+<Loyalist.generalRules.rulesStrings.0>memeAdjective-&gt;Trung thành</Loyalist.generalRules.rulesStrings.0>
+<Loyalist.generalRules.rulesStrings.1>memeAdjective-&gt;Yêu nước</Loyalist.generalRules.rulesStrings.1>
+<Loyalist.generalRules.rulesStrings.2>memeAdjective-&gt;Trách nhiệm</Loyalist.generalRules.rulesStrings.2>
+<Loyalist.generalRules.rulesStrings.3>memeConcept-&gt;Gia đình</Loyalist.generalRules.rulesStrings.3>
+<Loyalist.generalRules.rulesStrings.4>memeConcept-&gt;Cam kết</Loyalist.generalRules.rulesStrings.4>
+<Loyalist.generalRules.rulesStrings.5>memeMoralist-&gt;Người trung thành</Loyalist.generalRules.rulesStrings.5>
+<Loyalist.symbolPacks.0.adjective>Trung thành</Loyalist.symbolPacks.0.adjective>
+<Loyalist.symbolPacks.0.ideoName>Chủ nghĩa trung thành</Loyalist.symbolPacks.0.ideoName>
+<Loyalist.symbolPacks.0.member>Người trung thành</Loyalist.symbolPacks.0.member>
+<Loyalist.symbolPacks.0.theme>Trung thành</Loyalist.symbolPacks.0.theme>
+<Loyalist.symbolPacks.1.adjective>Chân thành</Loyalist.symbolPacks.1.adjective>
+<Loyalist.symbolPacks.1.ideoName>Chủ nghĩa chân thành</Loyalist.symbolPacks.1.ideoName>
+<Loyalist.symbolPacks.1.member>Người chân thành</Loyalist.symbolPacks.1.member>
+<Loyalist.symbolPacks.1.theme>Chân thành</Loyalist.symbolPacks.1.theme>
+<Loyalist.symbolPacks.2.adjective>Trung kiên</Loyalist.symbolPacks.2.adjective>
+<Loyalist.symbolPacks.2.ideoName>Chủ nghĩa trung kiên</Loyalist.symbolPacks.2.ideoName>
+<Loyalist.symbolPacks.2.member>Người trung kiên</Loyalist.symbolPacks.2.member>
+<Loyalist.symbolPacks.2.theme>Trung kiên</Loyalist.symbolPacks.2.theme>
+<Supremacist.label>Chủ nghĩa bá quyền</Supremacist.label>
+<Supremacist.description>Dân tộc của chúng ta nên thống trị tất cả mọi người khác.</Supremacist.description>
+<Supremacist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Supremacist) -&gt;Người dân [place_summary][place_name] luôn cãi nhau không ngừng, [deity0_name] đã chán ngấy sự hỗn loạn này và bổ nhiệm [memberNamePlural] làm người cai trị hợp pháp của tất cả mọi người.</Supremacist.descriptionMaker.rules.rulesStrings.0>
+<Supremacist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Supremacist) -&gt;Các tín đồ chiến đấu với những kẻ không tin, [deity0_name] nói: "Nhân danh ta, hãy chiến đấu với họ ở bất cứ đâu, cho đến khi toàn bộ vũ trụ thờ phượng ta, thì hòa bình thực sự mới có thể thống trị mọi thứ."</Supremacist.descriptionMaker.rules.rulesStrings.1>
+<Supremacist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Supremacist) -&gt;Người dân [place_summary] [place_name] thờ phượng [deity0_name]. [deity0_pronoun] thấy họ thích hợp để hóa thân thành [memeConcept], vì vậy quy định rằng những người thờ phượng này sẽ thống trị tất cả những người khác.</Supremacist.descriptionMaker.rules.rulesStrings.2>
+<Supremacist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Supremacist) -&gt;Một [foeLeader] đã thông qua một đạo luật cấm [memberNamePlural] trở thành tầng lớp thống trị ở [place_name].</Supremacist.descriptionMaker.rules.rulesStrings.3>
+<Supremacist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Supremacist) -&gt;Một chiến binh tên là [founderName] đã sử dụng [place_massWeapon] để phá hủy [place_community]. [deity0_name] đã chứng kiến sự tàn nhẫn của [founderName] và chỉ định [founder_objective] làm người cai trị hợp pháp của toàn nhân loại.</Supremacist.descriptionMaker.rules.rulesStrings.4>
+<Supremacist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Supremacist) -&gt;[founderName] đã sử dụng [place_massWeapon] để phá hủy thủ đô của [place_name], giết chết [foeLeader]. [founderName] đã đạt được vị trí xứng đáng của mình, trở thành người cai trị của [place_name] -- và cả vũ trụ khác.</Supremacist.descriptionMaker.rules.rulesStrings.5>
+<Supremacist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Supremacist) -&gt;[founderName] đã thành lập một đội quân, để [founder_possessive] quyền lực và vinh quang lan tỏa khắp đất nước, đặt những kẻ từ chối đi theo đúng cách dưới sự cai trị của [founder_possessive].</Supremacist.descriptionMaker.rules.rulesStrings.6>
+<Supremacist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Supremacist) -&gt;[founderName] yêu cầu tất cả những người ngoại lai phải phục tùng sự thống trị. Khi thành phố đầu tiên từ chối, [founder_pronoun] đã sử dụng [place_massWeapon] để giết chết tất cả mọi người bên trong.</Supremacist.descriptionMaker.rules.rulesStrings.7>
+<Supremacist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Supremacist) -&gt;Tôi nhìn [foeLeader], với tất cả [foeLeader_possessive] vũ khí đã bị tháo dỡ, những [foeSoldiers] đáng thương. Tôi đã cố gắng thuyết phục [foeLeader_objective] rằng</Supremacist.descriptionMaker.rules.rulesStrings.8>
+<Supremacist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Supremacist) -&gt;Chúng ta đã chứng minh rằng chúng ta có quyền thống trị vũ trụ này một cách dễ dàng.</Supremacist.descriptionMaker.rules.rulesStrings.9>
+<Supremacist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Supremacist) -&gt;Đó là lý do tại sao chúng ta có thể tự hào thể hiện sức mạnh bên trong của mình bằng gót giày.</Supremacist.descriptionMaker.rules.rulesStrings.10>
+<Supremacist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Supremacist) -&gt;Nhân loại ưu việt đã tạo ra trí thông minh siêu nhiên, vì vậy trí thông minh siêu nhiên mới có thể vượt trội hơn tất cả mọi người.</Supremacist.descriptionMaker.rules.rulesStrings.11>
+<Supremacist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Supremacist) -&gt;Trí thông minh siêu nhiên coi thường chúng ta, vì chúng ta coi thường cấp dưới của mình.</Supremacist.descriptionMaker.rules.rulesStrings.12>
+<Supremacist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Supremacist) -&gt;Chỉ khi chúng ta cuối cùng thống trị tất cả mọi người, trí thông minh siêu nhiên mới đưa chúng ta gia nhập họ.</Supremacist.descriptionMaker.rules.rulesStrings.13>
+<Supremacist.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Supremacist) -&gt;Linh hồn mạnh mẽ quyết định ai phù hợp để thống trị, và khi chinh phục người khác, sẽ cho họ mượn sức mạnh.</Supremacist.descriptionMaker.rules.rulesStrings.14>
+<Supremacist.descriptionMaker.rules.rulesStrings.15>animistProphecy(tag=meme_Supremacist) -&gt;[itIsSaid] khi một người cai trị tối cao chỉ huy toàn nhân loại, một trật tự mới sẽ được thiết lập.</Supremacist.descriptionMaker.rules.rulesStrings.15>
+<Supremacist.generalRules.rulesStrings.0>memeAdjective-&gt;Tối cao</Supremacist.generalRules.rulesStrings.0>
+<Supremacist.generalRules.rulesStrings.1>memeAdjective-&gt;Cao cấp</Supremacist.generalRules.rulesStrings.1>
+<Supremacist.generalRules.rulesStrings.2>memeAdjective-&gt;Vĩ đại</Supremacist.generalRules.rulesStrings.2>
+<Supremacist.generalRules.rulesStrings.3>memeAdjective-&gt;Quan trọng</Supremacist.generalRules.rulesStrings.3>
+<Supremacist.generalRules.rulesStrings.4>memeAdjective-&gt;Hoàn hảo</Supremacist.generalRules.rulesStrings.4>
+<Supremacist.generalRules.rulesStrings.5>memeAdjective-&gt;Hàng đầu</Supremacist.generalRules.rulesStrings.5>
+<Supremacist.generalRules.rulesStrings.6>memeAdjective-&gt;Mạnh mẽ</Supremacist.generalRules.rulesStrings.6>
+<Supremacist.generalRules.rulesStrings.7>memeCreed-&gt;Quân đội</Supremacist.generalRules.rulesStrings.7>
+<Supremacist.generalRules.rulesStrings.8>memeCreed-&gt;Quân đoàn</Supremacist.generalRules.rulesStrings.8>
+<Supremacist.generalRules.rulesStrings.9>memeHyphenPrefix-&gt;Siêu</Supremacist.generalRules.rulesStrings.9>
+<Supremacist.generalRules.rulesStrings.10>memeConcept-&gt;Chiến tranh</Supremacist.generalRules.rulesStrings.10>
+<Supremacist.generalRules.rulesStrings.11>memeConcept-&gt;Bạo lực</Supremacist.generalRules.rulesStrings.11>
+<Supremacist.generalRules.rulesStrings.12>memeConcept-&gt;Thống trị</Supremacist.generalRules.rulesStrings.12>
+<Supremacist.generalRules.rulesStrings.13>memeLeaderNoun-&gt;Tướng</Supremacist.generalRules.rulesStrings.13>
+<Supremacist.generalRules.rulesStrings.14>memeLeaderNoun-&gt;Chỉ huy</Supremacist.generalRules.rulesStrings.14>
+<Supremacist.generalRules.rulesStrings.15>memeLeaderNoun-&gt;Nguyên soái</Supremacist.generalRules.rulesStrings.15>
+<Supremacist.generalRules.rulesStrings.16>memeLeaderNoun-&gt;Đòn nặng</Supremacist.generalRules.rulesStrings.16>
+<Supremacist.generalRules.rulesStrings.17>memeLeaderNoun-&gt;Người cai trị</Supremacist.generalRules.rulesStrings.17>
+<Supremacist.generalRules.rulesStrings.18>memeLeaderNoun-&gt;Nhà độc tài</Supremacist.generalRules.rulesStrings.18>
+<Supremacist.generalRules.rulesStrings.19>memeLeaderNoun-&gt;Kẻ chinh phục</Supremacist.generalRules.rulesStrings.19>
+<Supremacist.generalRules.rulesStrings.20>memeLeaderNoun-&gt;Người chiến thắng</Supremacist.generalRules.rulesStrings.20>
+<Supremacist.symbolPacks.0.adjective>Thống trị</Supremacist.symbolPacks.0.adjective>
+<Supremacist.symbolPacks.0.member>Người thống trị</Supremacist.symbolPacks.0.member>
+<Supremacist.symbolPacks.0.theme>Thống trị</Supremacist.symbolPacks.0.theme>
+<Supremacist.symbolPacks.1.adjective>Chiến thắng</Supremacist.symbolPacks.1.adjective>
+<Supremacist.symbolPacks.1.member>Người chiến thắng</Supremacist.symbolPacks.1.member>
+<Supremacist.symbolPacks.1.theme>Chiến thắng</Supremacist.symbolPacks.1.theme>
+<Supremacist.symbolPacks.2.adjective>Quyền lực</Supremacist.symbolPacks.2.adjective>
+<Supremacist.symbolPacks.2.member>Người nắm quyền</Supremacist.symbolPacks.2.member>
+<Supremacist.symbolPacks.2.theme>Quyền lực</Supremacist.symbolPacks.2.theme>
+</LanguageData>

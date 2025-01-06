@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+</EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+<EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+    <li>questName-&gt;</li>
+</EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+<EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[descriptionIntro] đang cố gắng mở rộng ảnh hưởng của họ và có ý định hoàn toàn tiếp quản [playerSettlements] và [itsTheir] toàn bộ công nghệ. Nếu bạn có thể tăng tổng giá trị tài sản của mình lên đến [requiredWealth_money], họ sẽ tiếp quản [settlementsSingularOrPlural].\n\nĐổi lại, họ sẽ cung cấp cho bạn một mảnh bản đồ chứa thông tin về vị trí của một trung tâm siêu phàm cổ đại. Trung tâm siêu phàm được cho là phương tiện mà trí tuệ siêu phàm sử dụng để ảnh hưởng đến thế giới khách quan. Với sức mạnh của nó, bạn có thể vượt qua những giới hạn của các quy luật vật lý.\n\n[onlyHaveHas] một mảnh bản đồ. Các phần khác được giữ bởi các phe phái khác.\n\nNếu bạn chấp nhận đề nghị, [factionPawnsPlural] sẽ chiếm hữu [playerSettlements], bao gồm hàng hóa, nhân sự khác và công nghệ đã được ghi lại. Họ cũng sẽ giúp bạn vận chuyển [colonistsAllowed] người và [animalsAllowed] động vật đến bất kỳ vị trí nào bạn muốn thiết lập thuộc địa mới trên hành tinh.\n\nSau đó, bạn có thể cố gắng giao dịch hai mảnh bản đồ còn lại với những người khác.</li>
+    <li>itsTheir(playerSettlementsCount==1)-&gt; của nó</li>
+    <li>itsTheir(playerSettlementsCount&gt;=2)-&gt; của chúng</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount==1)-&gt; căn cứ</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount&gt;=2)-&gt; căn cứ</li>
+    <li>onlyHaveHas(factionless==false)-&gt;[civilOutlander_name] chỉ có</li>
+    <li>onlyHaveHas(factionless==true)-&gt; họ chỉ có</li>
+    <li>factionPawnsPlural(factionless==false)-&gt;[civilOutlander_pawnsPlural]</li>
+    <li>factionPawnsPlural(factionless==true)-&gt; người hoang dã</li>
+    <li>descriptionIntro(factionless==false)-&gt;[civilOutlander_name] đang</li>
+    <li>descriptionIntro(factionless==true)-&gt; một nhóm người hoang dã đang</li>
+</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+<EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+    <li>questName-&gt; Trung tâm siêu phàm</li>
+</EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+<EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Sau khi giải mã thông tin từ mảnh bản đồ trung tâm siêu phàm đầu tiên, bạn cần chuẩn bị cho hành trình tiếp theo của mình.\n\n[cycle1Faction] đã cho bạn biết về thảm họa đã hủy diệt thế giới này. Vài thế kỷ trước, con người đã xây dựng một cỗ máy thông minh khổng lồ. Nó đã phản bội loài người và phát động một cuộc chiến tranh. Khi trí tuệ máy móc hoàn tất quá trình thăng hoa và rơi vào trạng thái ngủ, chỉ còn lại một số ít người sống sót.\n\nMảnh bản đồ trung tâm siêu phàm có ba phần, bạn đã giữ một phần. [otherMapPartHolders] nắm giữ các phần còn lại. Họ có xu hướng muốn trao đổi với bạn một thuộc địa giàu có và tất cả công nghệ của nó. [descriptionStudyRequirement]\n\nĐã đến lúc bắt đầu xây dựng.</li>
+    <li>cycle1Faction(factionless==false)-&gt;[civilOutlander_leader_nameDef]</li>
+    <li>cycle1Faction(factionless==true)-&gt;[wildPeople]</li>
+    <li>otherMapPartHolders(factionless==false)-&gt;[roughOutlander_name] và [roughTribe_name]</li>
+    <li>otherMapPartHolders(factionless==true)-&gt; các [wildPeople] khác</li>
+    <li>takeoverPawnsPlural(factionless==false)-&gt;[roughOutlander_pawnsPlural]</li>
+    <li>takeoverPawnsPlural(factionless==true)-&gt;[wildPeople]</li>
+    <li>wildPeople-&gt; người hoang dã</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)-&gt;\n\nCác mảnh bản đồ còn lại được mã hóa theo một cách rất lạ lẫm. Để giải mã nó, bạn phải nâng cao nhận thức về công nghệ siêu phàm bằng cách nghiên cứu các cấu trúc ở đây.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-&gt;</li>
+</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+<EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+    <li>questName-&gt; Trung tâm siêu phàm</li>
+</EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+<EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+    <li>questAcceptedLetterLabel-&gt; Trung tâm siêu phàm đã được phát hiện</li>
+    <li>questAcceptedLetterText-&gt;[questDescriptionBeforeAccepted]</li>
+    <li>questDescriptionBeforeAccepted-&gt;Bạn đã có hai mảnh bản đồ trung tâm siêu phàm. Mảnh cuối cùng thuộc về [factionName], đó là di sản từ tổ tiên của họ sống sót sau thảm họa lớn. Họ có xu hướng muốn trao đổi với bạn một thuộc địa giàu có. [descriptionStudyRequirement]\n\nĐã đến lúc bắt đầu xây dựng.</li>
+    <li>questDescriptionAfterAccepted-&gt;Bạn đã nhận được mảnh bản đồ trung tâm siêu phàm cuối cùng từ [descriptionIntro], với kiến thức của bạn về công nghệ siêu phàm, bạn đã giải mã thành công bản đồ và xác định được vị trí của trung tâm siêu phàm.\n\nCác đồng minh của bạn không tin rằng bạn có thể trở về, vì vậy sau khi bạn rời đi, họ sẽ tiếp quản [playerSettlements] cùng với công nghệ đã ghi lại.\n\n[descriptionThreats] Bây giờ chỉ cần đến trung tâm siêu phàm, triệu hồi sức mạnh của thần máy móc, và xem liệu điều đó có đúng như trong truyền thuyết hay không.</li>
+    <li>factionName(factionless==false)-&gt;[roughTribe_name]</li>
+    <li>factionName(factionless==true)-&gt; người hoang dã</li>
+    <li>descriptionIntro(factionless==false)-&gt;[roughTribe_name] của thủ lĩnh [roughTribe_leader_nameDef]</li>
+    <li>descriptionIntro(factionless==true)-&gt; người hoang dã</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)-&gt;\n\nTrước đó, do bản đồ đã được mã hóa, bạn cần nghiên cứu các cấu trúc công nghệ siêu phàm để tìm ra phương pháp giải mã.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-&gt;</li>
+    <li>descriptionThreats(threatsEnabled==true)-&gt;Có khả năng có các cơ thể máy bảo vệ tại trung tâm siêu phàm, hãy chuẩn bị sẵn sàng.\n\n</li>
+    <li>descriptionThreats(threatsEnabled==false)-&gt;</li>
+</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+<EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+</EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+<EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+    <li>questName-&gt; Trung tâm siêu phàm</li>
+</EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+</LanguageData>

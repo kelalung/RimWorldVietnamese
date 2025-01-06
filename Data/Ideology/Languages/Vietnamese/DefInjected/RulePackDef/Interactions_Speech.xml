@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SpeechUtility.rulePack.rulesStrings>
+		<li>spokeof-&gt;đã nói về</li>
+		<li>spokeof-&gt;đã đề cập đến</li>
+		<li>spokeof-&gt;đã thảo luận về</li>
+		<li>spokeof-&gt;đã giải thích về</li>
+		<li>spokeof-&gt;đã mô tả về</li>
+		<li>praised-&gt;đã có bài phát biểu về</li>
+		<li>praised-&gt;đã nói về</li>
+		<li>praised-&gt;đã khen ngợi</li>
+		<li>praised-&gt;đã ca ngợi đức hạnh về</li>
+		<li>praised-&gt;đã tán dương</li>
+		<li>praised-&gt;đã trò chuyện</li>
+		<li>praised-&gt;đã ca ngợi</li>
+		<li>praised-&gt;đã hết lời khen ngợi</li>
+		<li>praised-&gt;đã ngợi khen</li>
+	</SpeechUtility.rulePack.rulesStrings>
+</LanguageData>

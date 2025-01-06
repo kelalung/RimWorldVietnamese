@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BiomutationPulser.label>Máy phát xung đột biến động vật</BiomutationPulser.label>
+<BiomutationPulser.description>Một công cụ tâm linh dùng một lần, được chế tạo từ một mảnh vụn siêu phàm tối tăm. Nó phát ra xung tâm linh rộng lớn có thể biến đổi mô cơ, biến tất cả động vật trong khu vực hiện tại thành những quái thú thịt đáng sợ. Động vật thuộc về thuộc địa của bạn sẽ không bị ảnh hưởng.</BiomutationPulser.description>
+<BiomutationPulser.comps.CompUsable.useLabel>Kích hoạt {0_label}</BiomutationPulser.comps.CompUsable.useLabel>
+<ShardAnimalPulser.label>Máy phát xung động vật mảnh vụn</ShardAnimalPulser.label>
+<ShardAnimalPulser.description>Một công cụ tâm linh dùng một lần, được chế tạo từ một mảnh vụn siêu phàm tối tăm. Nó phát ra xung tâm linh rộng lớn có thể đưa những hình ảnh đáng sợ vào tâm trí, khiến tất cả động vật trong khu vực hiện tại rơi vào trạng thái "săn lùng con người". Động vật thuộc về thuộc địa của bạn sẽ không bị ảnh hưởng.</ShardAnimalPulser.description>
+<ShardAnimalPulser.comps.CompUsable.useLabel>Kích hoạt {0_label}</ShardAnimalPulser.comps.CompUsable.useLabel>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Granite_Rough.label>Mặt đất granite thô</Granite_Rough.label>
+	<Granite_Rough.description>Mặt đất granite tự nhiên thô.</Granite_Rough.description>
+	<Granite_RoughHewn.label>Mặt đất granite thô được chạm khắc</Granite_RoughHewn.label>
+	<Granite_RoughHewn.description>Mặt đất granite tự nhiên thô được chạm khắc.</Granite_RoughHewn.description>
+	<Granite_Smooth.label>Mặt đất granite nhẵn</Granite_Smooth.label>
+	<Granite_Smooth.description>Mặt đất granite tự nhiên được mài nhẵn.</Granite_Smooth.description>
+	<Limestone_Rough.label>Mặt đất đá vôi thô</Limestone_Rough.label>
+	<Limestone_Rough.description>Mặt đất đá vôi tự nhiên thô.</Limestone_Rough.description>
+	<Limestone_RoughHewn.label>Mặt đất đá vôi thô được chạm khắc</Limestone_RoughHewn.label>
+	<Limestone_RoughHewn.description>Mặt đất đá vôi tự nhiên thô được chạm khắc.</Limestone_RoughHewn.description>
+	<Limestone_Smooth.label>Mặt đất đá vôi nhẵn</Limestone_Smooth.label>
+	<Limestone_Smooth.description>Mặt đất đá vôi tự nhiên được mài nhẵn.</Limestone_Smooth.description>
+	<Marble_Rough.label>Mặt đất đá cẩm thạch thô</Marble_Rough.label>
+	<Marble_Rough.description>Mặt đất đá cẩm thạch tự nhiên thô.</Marble_Rough.description>
+	<Marble_RoughHewn.label>Mặt đất đá cẩm thạch thô được chạm khắc</Marble_RoughHewn.label>
+	<Marble_RoughHewn.description>Mặt đất đá cẩm thạch tự nhiên thô được chạm khắc.</Marble_RoughHewn.description>
+	<Marble_Smooth.label>Mặt đất đá cẩm thạch nhẵn</Marble_Smooth.label>
+	<Marble_Smooth.description>Mặt đất đá cẩm thạch tự nhiên được mài nhẵn.</Marble_Smooth.description>
+	<Sandstone_Rough.label>Mặt đất cát thô</Sandstone_Rough.label>
+	<Sandstone_Rough.description>Mặt đất cát tự nhiên thô.</Sandstone_Rough.description>
+	<Sandstone_RoughHewn.label>Mặt đất cát thô được chạm khắc</Sandstone_RoughHewn.label>
+	<Sandstone_RoughHewn.description>Mặt đất cát tự nhiên thô được chạm khắc.</Sandstone_RoughHewn.description>
+	<Sandstone_Smooth.label>Mặt đất cát nhẵn</Sandstone_Smooth.label>
+	<Sandstone_Smooth.description>Mặt đất cát tự nhiên được mài nhẵn.</Sandstone_Smooth.description>
+	<Slate_Rough.label>Mặt đất phiến thô</Slate_Rough.label>
+	<Slate_Rough.description>Mặt đất phiến tự nhiên thô.</Slate_Rough.description>
+	<Slate_RoughHewn.label>Mặt đất phiến thô được chạm khắc</Slate_RoughHewn.label>
+	<Slate_RoughHewn.description>Mặt đất phiến tự nhiên thô được chạm khắc.</Slate_RoughHewn.description>
+	<Slate_Smooth.label>Mặt đất phiến nhẵn</Slate_Smooth.label>
+	<Slate_Smooth.description>Mặt đất phiến tự nhiên được mài nhẵn.</Slate_Smooth.description>
+</LanguageData>

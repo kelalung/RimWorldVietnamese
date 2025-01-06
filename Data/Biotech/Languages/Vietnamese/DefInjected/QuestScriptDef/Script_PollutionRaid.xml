@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel-&gt;Phản công ô nhiễm</li>
+    <li>retaliationLetterText-&gt;Một nhóm từ [enemyFaction_name] của [enemyFaction_pawnsPlural] đã đến gần đây.\n\nCuộc tấn công này là để trả thù cho việc bạn đã đổ rác độc hại bên ngoài thuộc địa của mình, họ cho rằng điều này đã làm tổn hại đến phái của họ.</li>
+</PollutionRaid.questContentRules.rulesStrings>
+<PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Đánh bại ô nhiễm</li>
+</PollutionRaid.questDescriptionRules.rulesStrings>
+<PollutionRaid.questNameRules.rulesStrings>
+    <li>questDescription-&gt;Đánh bại ô nhiễm</li>
+</PollutionRaid.questNameRules.rulesStrings>
+</LanguageData>

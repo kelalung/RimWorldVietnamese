@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cougar.label>Cougar</Cougar.label>
+	<Cougar.labelFemale>Cougar cái</Cougar.labelFemale>
+	<Cougar.labelFemalePlural>Cougar cái</Cougar.labelFemalePlural>
+	<Cougar.labelMale>Cougar đực</Cougar.labelMale>
+	<Cougar.labelMalePlural>Cougar đực</Cougar.labelMalePlural>
+	<Cougar.labelPlural>Cougar</Cougar.labelPlural>
+	<Cougar.lifeStages.0.label>Cougar con</Cougar.lifeStages.0.label>
+	<Cougar.lifeStages.0.labelFemale>Cougar con cái</Cougar.lifeStages.0.labelFemale>
+	<Cougar.lifeStages.0.labelFemalePlural>Cougar con cái</Cougar.lifeStages.0.labelFemalePlural>
+	<Cougar.lifeStages.0.labelMale>Cougar con đực</Cougar.lifeStages.0.labelMale>
+	<Cougar.lifeStages.0.labelMalePlural>Cougar con đực</Cougar.lifeStages.0.labelMalePlural>
+	<Cougar.lifeStages.0.labelPlural>Cougar con</Cougar.lifeStages.0.labelPlural>
+	<Cougar.lifeStages.1.label>Cougar tuổi thơ</Cougar.lifeStages.1.label>
+	<Cougar.lifeStages.1.labelFemale>Cougar cái tuổi thơ</Cougar.lifeStages.1.labelFemale>
+	<Cougar.lifeStages.1.labelFemalePlural>Cougar cái tuổi thơ</Cougar.lifeStages.1.labelFemalePlural>
+	<Cougar.lifeStages.1.labelMale>Cougar đực tuổi thơ</Cougar.lifeStages.1.labelMale>
+	<Cougar.lifeStages.1.labelMalePlural>Cougar đực tuổi thơ</Cougar.lifeStages.1.labelMalePlural>
+	<Cougar.lifeStages.1.labelPlural>Cougar tuổi thơ</Cougar.lifeStages.1.labelPlural>
+	<Cougar.lifeStages.2.label>Cougar trưởng thành</Cougar.lifeStages.2.label>
+	<Cougar.lifeStages.2.labelFemale>Cougar cái trưởng thành</Cougar.lifeStages.2.labelFemale>
+	<Cougar.lifeStages.2.labelFemalePlural>Cougar cái trưởng thành</Cougar.lifeStages.2.labelFemalePlural>
+	<Cougar.lifeStages.2.labelMale>Cougar đực trưởng thành</Cougar.lifeStages.2.labelMale>
+	<Cougar.lifeStages.2.labelMalePlural>Cougar đực trưởng thành</Cougar.lifeStages.2.labelMalePlural>
+	<Cougar.lifeStages.2.labelPlural>Cougar trưởng thành</Cougar.lifeStages.2.labelPlural>
+	<Lynx.label>Mèo Rừng</Lynx.label>
+	<Lynx.labelFemale>Mèo Rừng cái</Lynx.labelFemale>
+	<Lynx.labelFemalePlural>Mèo Rừng cái</Lynx.labelFemalePlural>
+	<Lynx.labelMale>Mèo Rừng đực</Lynx.labelMale>
+	<Lynx.labelMalePlural>Mèo Rừng đực</Lynx.labelMalePlural>
+	<Lynx.labelPlural>Mèo Rừng</Lynx.labelPlural>
+	<Lynx.lifeStages.lynx_kitten.label>Mèo Rừng con</Lynx.lifeStages.lynx_kitten.label>
+	<Lynx.lifeStages.lynx_kitten.labelFemale>Mèo Rừng con cái</Lynx.lifeStages.lynx_kitten.labelFemale>
+	<Lynx.lifeStages.lynx_kitten.labelFemalePlural>Mèo Rừng con cái</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+	<Lynx.lifeStages.lynx_kitten.labelMale>Mèo Rừng con đực</Lynx.lifeStages.lynx_kitten.labelMale>
+	<Lynx.lifeStages.lynx_kitten.labelMalePlural>Mèo Rừng con đực</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+	<Lynx.lifeStages.lynx_kitten.labelPlural>Mèo Rừng con</Lynx.lifeStages.lynx_kitten.labelPlural>
+	<Lynx.lifeStages.1.label>Mèo Rừng tuổi thơ</Lynx.lifeStages.1.label>
+	<Lynx.lifeStages.1.labelFemale>Mèo Rừng cái tuổi thơ</Lynx.lifeStages.1.labelFemale>
+	<Lynx.lifeStages.1.labelFemalePlural>Mèo Rừng cái tuổi thơ</Lynx.lifeStages.1.labelFemalePlural>
+	<Lynx.lifeStages.1.labelMale>Mèo Rừng đực tuổi thơ</Lynx.lifeStages.1.labelMale>
+	<Lynx.lifeStages.1.labelMalePlural>Mèo Rừng đực tuổi thơ</Lynx.lifeStages.1.labelMalePlural>
+	<Lynx.lifeStages.1.labelPlural>Mèo Rừng tuổi thơ</Lynx.lifeStages.1.labelPlural>
+	<Lynx.lifeStages.2.label>Mèo Rừng trưởng thành</Lynx.lifeStages.2.label>
+	<Lynx.lifeStages.2.labelFemale>Mèo Rừng cái trưởng thành</Lynx.lifeStages.2.labelFemale>
+	<Lynx.lifeStages.2.labelFemalePlural>Mèo Rừng cái trưởng thành</Lynx.lifeStages.2.labelFemalePlural>
+	<Lynx.lifeStages.2.labelMale>Mèo Rừng đực trưởng thành</Lynx.lifeStages.2.labelMale>
+	<Lynx.lifeStages.2.labelMalePlural>Mèo Rừng đực trưởng thành</Lynx.lifeStages.2.labelMalePlural>
+	<Lynx.lifeStages.2.labelPlural>Mèo Rừng trưởng thành</Lynx.lifeStages.2.labelPlural>
+	<Panther.label>Báo đen</Panther.label>
+	<Panther.labelFemale>Báo đen cái</Panther.labelFemale>
+	<Panther.labelFemalePlural>Báo đen cái</Panther.labelFemalePlural>
+	<Panther.labelMale>Báo đen đực</Panther.labelMale>
+	<Panther.labelMalePlural>Báo đen đực</Panther.labelMalePlural>
+	<Panther.labelPlural>Báo đen</Panther.labelPlural>
+	<Panther.lifeStages.0.label>Báo đen con</Panther.lifeStages.0.label>
+	<Panther.lifeStages.0.labelFemale>Báo đen con cái</Panther.lifeStages.0.labelFemale>
+	<Panther.lifeStages.0.labelFemalePlural>Báo đen con cái</Panther.lifeStages.0.labelFemalePlural>
+	<Panther.lifeStages.0.labelMale>Báo đen con đực</Panther.lifeStages.0.labelMale>
+	<Panther.lifeStages.0.labelMalePlural>Báo đen con đực</Panther.lifeStages.0.labelMalePlural>
+	<Panther.lifeStages.0.labelPlural>Báo đen con</Panther.lifeStages.0.labelPlural>
+	<Panther.lifeStages.1.label>Báo đen tuổi thơ</Panther.lifeStages.1.label>
+	<Panther.lifeStages.1.labelFemale>Báo đen cái tuổi thơ</Panther.lifeStages.1.labelFemale>
+	<Panther.lifeStages.1.labelFemalePlural>Báo đen cái tuổi thơ</Panther.lifeStages.1.labelFemalePlural>
+	<Panther.lifeStages.1.labelMale>Báo đen đực tuổi thơ</Panther.lifeStages.1.labelMale>
+	<Panther.lifeStages.1.labelMalePlural>Báo đen đực tuổi thơ</Panther.lifeStages.1.labelMalePlural>
+	<Panther.lifeStages.1.labelPlural>Báo đen tuổi thơ</Panther.lifeStages.1.labelPlural>
+	<Panther.lifeStages.2.label>Báo đen trưởng thành</Panther.lifeStages.2.label>
+	<Panther.lifeStages.2.labelFemale>Báo đen cái trưởng thành</Panther.lifeStages.2.labelFemale>
+	<Panther.lifeStages.2.labelFemalePlural>Báo đen cái trưởng thành</Panther.lifeStages.2.labelFemalePlural>
+	<Panther.lifeStages.2.labelMale>Báo đen đực trưởng thành</Panther.lifeStages.2.labelMale>
+	<Panther.lifeStages.2.labelMalePlural>Báo đen đực trưởng thành</Panther.lifeStages.2.labelMalePlural>
+	<Panther.lifeStages.2.labelPlural>Báo đen trưởng thành</Panther.lifeStages.2.labelPlural>
+</LanguageData>

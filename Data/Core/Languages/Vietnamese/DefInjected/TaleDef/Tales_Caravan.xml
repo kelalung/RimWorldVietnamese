@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CaravanAmbushDefeated.label>Đoàn xe đánh bại phục kích</CaravanAmbushDefeated.label>
+	<CaravanAmbushDefeated.rulePack.rulesStrings>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã thành công trong việc đánh bại phục kích</li>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã đánh bại phục kích của kẻ thù</li>
+		<li>image->[PAWN_nameFull] đã tổ chức kháng cự, và [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] vừa phòng thủ bằng [Weapon], vừa [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đã phản công bằng [PAWN_possessive][Weapon], trong khi [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đã đứng ra, [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] thể hiện vẻ mặt [AdjectiveBadass], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] thể hiện vẻ mặt [AdjectiveAngsty], [circumstance_group]</li>
+		<li>circumstance_phrase->che chở cho đồng đội ở phía trước</li>
+		<li>circumstance_phrase->chạy quanh đoàn xe</li>
+		<li>circumstance_phrase->phát ra tiếng gầm chiến thắng</li>
+		<li>circumstance_phrase->vung [Weapon]</li>
+		<li>circumstance_phrase->không quan tâm đến [Gore] dính đầy người</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] vung [Weapon] tiến lên phía trước.</li>
+		<li>desc_sentence->Nhiều [Enemy] vung [Weapon] tấn công.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] tiến lên, ánh mắt đầy [AdjectiveBadass].</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] tiến lên, ánh mắt đầy [AdjectiveAngsty].</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] lao tới, ánh mắt [Color] phát sáng.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] lao tới, dính đầy [Gore].</li>
+		<li>desc_sentence->khắp nơi đều là [Gore].</li>
+		<li>desc_sentence->[Quantity_adjphrase][PersonJob] chọn cách rời khỏi khu vực này.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] chọn cách rời khỏi khu vực này.</li>
+	</CaravanAmbushDefeated.rulePack.rulesStrings>
+	<CaravanAssaultSuccessful.label>Đoàn xe chiến thắng trong trận chiến</CaravanAssaultSuccessful.label>
+	<CaravanAssaultSuccessful.rulePack.rulesStrings>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã phá hủy căn cứ của kẻ thù</li>
+		<li>image->[PAWN_nameFull] lao vào [Enemy], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] nắm chặt [Weapon], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] vung [Weapon], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đứng ra, [circumstance_group]</li>
+		<li>circumstance_phrase->[PAWN_possessive] ánh mắt đầy [AdjectiveBadass]</li>
+		<li>circumstance_phrase->[PAWN_possessive] ánh mắt đầy [AdjectiveAngsty]</li>
+		<li>circumstance_phrase->phát ra tiếng gầm chiến thắng</li>
+		<li>circumstance_phrase->dính đầy [Gore]</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] bị đánh bại trong trận chiến.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] bỏ chạy trong hoảng loạn.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] chịu tổn thất nặng nề.</li>
+		<li>desc_sentence->Cộng đồng ở xa đang bốc cháy.</li>
+		<li>desc_sentence->Cộng đồng ở xa đang bốc khói mù mịt.</li>
+		<li>desc_sentence->khắp nơi đều là [Gore].</li>
+		<li>desc_sentence->[Quantity_adjphrase][PersonJob] rời khỏi khu vực này để tìm nơi trú ẩn.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] rời khỏi nơi này để tìm nơi trú ẩn.</li>
+	</CaravanAssaultSuccessful.rulePack.rulesStrings>
+	<CaravanFled.label>Đoàn xe rút lui</CaravanFled.label>
+	<CaravanFled.rulePack.rulesStrings>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã thoát nạn</li>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã thoát khỏi tình huống nguy hiểm</li>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã may mắn thoát nạn</li>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] bị kẻ thù đuổi chạy</li>
+		<li>image->[PAWN_nameFull] chạy trốn hoảng loạn để [circumstance_group]</li>
+		<li>image->Để tránh [circumstance_group], [PAWN_nameFull] đã chạy trốn</li>
+		<li>image->[PAWN_nameFull] ẩn nấp trong [TerrainFeature], tránh [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đã tổ chức một trận rút lui để chào đón [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] vô tình tránh [circumstance_group]</li>
+		<li>circumstance_phrase->bị truy đuổi bởi [Quantity_adjphrase][Enemy]</li>
+		<li>circumstance_phrase->sự tìm kiếm của [Quantity_adjphrase][Enemy]</li>
+		<li>circumstance_phrase->[Quantity_adjphrase][Enemy]</li>
+		<li>circumstance_phrase->cuộc săn lùng của [Quantity_adjphrase] [Animal] thù địch</li>
+		<li>circumstance_phrase->[AdjectiveLarge][Enemy]</li>
+		<li>desc_sentence->Những kẻ truy đuổi [PAWN_nameDef] vung [Weapon].</li>
+		<li>desc_sentence->Khói [Color] bao phủ những kẻ truy đuổi [PAWN_nameDef].</li>
+		<li>desc_sentence->Những kẻ truy đuổi [PAWN_nameDef] thể hiện vẻ mặt [AdjectiveAngsty].</li>
+		<li>desc_sentence->Những kẻ truy đuổi [PAWN_nameDef] vung [Weapon].</li>
+		<li>desc_sentence->[PAWN_nameDef] đẫm mồ hôi.</li>
+		<li>desc_sentence->[PAWN_nameDef] thở hổn hển.</li>
+	</CaravanFled.rulePack.rulesStrings>
+	<CaravanFormed.label>Đoàn xe được thành lập</CaravanFormed.label>
+	<CaravanFormed.rulePack.rulesStrings>
+		<li>tale_noun->Đoàn xe của [PAWN_nameDef] đã khởi hành</li>
+		<li>tale_noun->[PAWN_nameDef] đã thành lập đoàn xe</li>
+		<li>image->[PAWN_nameFull] đang tiến về đích, [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] nhìn về phía chân trời, [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đang đóng gói đồ dùng du lịch, [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đang lập kế hoạch cho chuyến đi, [circumstance_group]</li>
+		<li>circumstance_phrase->và đã chuẩn bị cho trận chiến</li>
+		<li>circumstance_phrase->và đã chuẩn bị cho việc sinh tồn</li>
+		<li>circumstance_phrase->và đã chuẩn bị cho việc khám phá</li>
+		<li>circumstance_phrase->Đôi mắt của [PAWN_possessive] ánh lên sự mong đợi</li>
+		<li>circumstance_phrase->Đôi mắt của [PAWN_possessive] ánh lên vẻ [AdjectiveAny]</li>
+		<li>desc_sentence->[Quantity_adjphrase][ally] đứng xem bên cạnh.</li>
+		<li>desc_sentence->[Quantity_adjphrase][ally] đang giúp chuẩn bị.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Enemy] đã rời khỏi hiện trường.</li>
+		<li>desc_sentence->[TerrainFeature] mờ mờ ở xa</li>
+		<li>desc_sentence->[Quantity_adjphrase][PersonJob] đứng xem từ xa.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] đi dạo một cách bình tĩnh.</li>
+	</CaravanFormed.rulePack.rulesStrings>
+	<CaravanRemoteMining.label>Đoàn xe khai thác ngoài trời</CaravanRemoteMining.label>
+	<CaravanRemoteMining.rulePack.rulesStrings>
+		<li>tale_noun->[PAWN_nameDef] đang khai thác khoáng sản phong phú [MATERIAL_label] ở vùng đất xa lạ</li>
+		<li>image->[PAWN_nameFull] đang sử dụng công cụ để khai thác [MATERIAL_label], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đang nâng cao một khối lớn [MATERIAL_label], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] dựa vào bức tường làm từ [MATERIAL_label], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đang chỉ huy đội khai thác để khai thác một mạch khoáng sản phong phú [MATERIAL_label], [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] đang khảo sát một mạch khoáng sản phong phú [MATERIAL_label], [circumstance_group]</li>
+		<li>circumstance_phrase->để mồ hôi chảy tự do</li>
+		<li>circumstance_phrase->đôi mắt ánh lên vẻ [AdjectiveFriendly]</li>
+		<li>circumstance_phrase->đang mỉm cười tự mãn</li>
+		<li>circumstance_phrase->Đôi mắt của [PAWN_possessive] thể hiện sự hài lòng</li>
+		<li>circumstance_phrase->đồng thời quan sát xung quanh, cảnh giác với nguy hiểm</li>
+		<li>desc_sentence->[Quantity_adjphrase][ally] đã cung cấp sự giúp đỡ.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] đang đi lang thang ở đó.</li>
+		<li>desc_sentence->Một nơi trú ẩn tạm thời xuất hiện trong bối cảnh.</li>
+		<li>desc_sentence->[Quantity_adjphrase] nhiều mạch khoáng sản hơn nằm trong tầm nhìn.</li>
+		<li>desc_sentence->Có thể thấy [TerrainFeature] ở không xa.</li>
+		<li>desc_sentence->Công việc làm [PAWN_nameDef] trở nên đầy mồ hôi và bẩn thỉu.</li>
+	</CaravanRemoteMining.rulePack.rulesStrings>
+</LanguageData>

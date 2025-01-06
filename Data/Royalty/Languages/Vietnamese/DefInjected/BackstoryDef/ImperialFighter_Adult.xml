@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Artilleryman28.description>[PAWN_nameDef] lắp đạn vào khẩu pháo, ngắm bắn và tấn công kẻ thù của [PAWN_possessive] từ xa.</Artilleryman28.description>
+<Artilleryman28.baseDesc>[PAWN_nameDef] lắp đạn vào khẩu pháo, ngắm bắn và tấn công kẻ thù của [PAWN_possessive] từ xa.</Artilleryman28.baseDesc>
+<Artilleryman28.title>Pháo Thủ</Artilleryman28.title>
+<Artilleryman28.titleFemale>Nữ Pháo Thủ</Artilleryman28.titleFemale>
+<Artilleryman28.titleShort>Pháo Thủ Phụ</Artilleryman28.titleShort>
+<BrokenSoldier29.description>[PAWN_pronoun] từng là một người lính mạnh mẽ tham gia vào cuộc chiến tranh thừa kế kéo dài. Trong trận chiến cuối cùng của [PAWN_possessive], quân đội của [PAWN_possessive] được lệnh bảo vệ một cuộc rút lui và đã hy sinh. [PAWN_nameDef] đã chứng kiến đồng đội của mình chết và trở thành người sống sót duy nhất trong đơn vị.\n\nKinh nghiệm này đã khiến [PAWN_nameDef] sụp đổ tinh thần, khiến [PAWN_objective] không thể kiểm soát cảm xúc của [PAWN_possessive].\n\n[PAWN_nameDef] đã học vẽ trong bệnh viện.</BrokenSoldier29.description>
+<BrokenSoldier29.baseDesc>[PAWN_pronoun] từng là một người lính mạnh mẽ tham gia vào cuộc chiến tranh thừa kế kéo dài. Trong trận chiến cuối cùng của [PAWN_possessive], quân đội của [PAWN_possessive] được lệnh bảo vệ một cuộc rút lui và đã hy sinh. [PAWN_nameDef] đã chứng kiến đồng đội của mình chết và trở thành người sống sót duy nhất trong đơn vị.\n\nKinh nghiệm này đã khiến [PAWN_nameDef] sụp đổ tinh thần, khiến [PAWN_objective] không thể kiểm soát cảm xúc của [PAWN_possessive].\n\n[PAWN_nameDef] đã học vẽ trong bệnh viện.</BrokenSoldier29.baseDesc>
+<BrokenSoldier29.title>Người Lính Sụp Đổ</BrokenSoldier29.title>
+<BrokenSoldier29.titleShort>Lính</BrokenSoldier29.titleShort>
+<Demolitionist39.description>[PAWN_nameDef] đam mê sử dụng thuốc nổ để phá hủy hệ thống phòng thủ của kẻ thù. [PAWN_objective] luôn nhắc nhở bản thân phải giữ đầu óc tỉnh táo và tay chân vững vàng trong suốt cả ngày làm việc với chất nổ.</Demolitionist39.description>
+<Demolitionist39.baseDesc>[PAWN_nameDef] đam mê sử dụng thuốc nổ để phá hủy hệ thống phòng thủ của kẻ thù. [PAWN_objective] luôn nhắc nhở bản thân phải giữ đầu óc tỉnh táo và tay chân vững vàng trong suốt cả ngày làm việc với chất nổ.</Demolitionist39.baseDesc>
+<Demolitionist39.title>Người Phá Hủy</Demolitionist39.title>
+<Demolitionist39.titleShort>Người Phá Hủy</Demolitionist39.titleShort>
+<Deserter65.description>Sau nhiều trận chiến, [PAWN_pronoun] đã mất hết can đảm và bỏ lại vũ khí để chạy trốn. Kể từ đó, [PAWN_nameDef] sống một cuộc đời cô lập, tránh né những người đang truy đuổi [PAWN_pronoun].</Deserter65.description>
+<Deserter65.baseDesc>Sau nhiều trận chiến, [PAWN_pronoun] đã mất hết can đảm và bỏ lại vũ khí để chạy trốn. Kể từ đó, [PAWN_nameDef] sống một cuộc đời cô lập, tránh né những người đang truy đuổi [PAWN_pronoun].</Deserter65.baseDesc>
+<Deserter65.title>Người Đào Ngũ</Deserter65.title>
+<Deserter65.titleShort>Người Đào Ngũ</Deserter65.titleShort>
+<DisgracedOfficer19.description>[PAWN_nameDef] là một sĩ quan trong Đế Quốc. [PAWN_pronoun] giỏi chỉ huy chiến đấu và được quân lính tôn trọng.\n\nNhưng khi quân đội bị tấn công, [PAWN_nameDef] đã chọn cách trốn chạy, và vì vậy bị giáng chức, không còn có thể ngẩng cao đầu nữa.</DisgracedOfficer19.description>
+<DisgracedOfficer19.baseDesc>[PAWN_nameDef] là một sĩ quan trong Đế Quốc. [PAWN_pronoun] giỏi chỉ huy chiến đấu và được quân lính tôn trọng.\n\nNhưng khi quân đội bị tấn công, [PAWN_nameDef] đã chọn cách trốn chạy, và vì vậy bị giáng chức, không còn có thể ngẩng cao đầu nữa.</DisgracedOfficer19.baseDesc>
+<DisgracedOfficer19.title>Sĩ Quan Bị Xỉ Nhục</DisgracedOfficer19.title>
+<DisgracedOfficer19.titleShort>Sĩ Quan</DisgracedOfficer19.titleShort>
+<Firebomber51.description>[PAWN_nameDef] lái một chiếc máy bay ném bom nhỏ, chuyên phun chất dễ cháy vào các mục tiêu dễ cháy.\n\nNgoài việc thích nhìn thấy mục tiêu bùng cháy, [PAWN_pronoun] còn yêu thích tất cả các hình thức của lửa - chiến tranh, nấu ăn, thậm chí là các ca phẫu thuật có nhiệt độ cao trong bệnh viện.</Firebomber51.description>
+ <Firebomber51.baseDesc>[PAWN_nameDef] lái một chiếc máy bay ném bom nhỏ, chuyên phun chất dễ cháy vào các mục tiêu dễ cháy.\n\nNgoài việc thích nhìn thấy mục tiêu bùng cháy, [PAWN_pronoun] còn yêu thích tất cả các hình thức của lửa - chiến tranh, nấu nướng, thậm chí là những ca phẫu thuật nhiệt độ cao trong bệnh viện.</Firebomber51.baseDesc>
+<Firebomber51.title>Phi Công Bom Cháy</Firebomber51.title>
+<Firebomber51.titleShort>Phi Công</Firebomber51.titleShort>
+<InfantryEngineer46.description>Mặc dù phục vụ trong lực lượng bộ binh, [PAWN_nameDef] rất ít khi sử dụng súng. Điểm mạnh của [PAWN_possessive] là xây dựng các công trình phòng thủ nhanh chóng, đặt bẫy, cải tạo các công trình dân sự, và phá hủy các công sự và đường hầm của kẻ thù.</InfantryEngineer46.description>
+<InfantryEngineer46.baseDesc>Mặc dù phục vụ trong lực lượng bộ binh, [PAWN_nameDef] rất ít khi sử dụng súng. Điểm mạnh của [PAWN_possessive] là xây dựng các công trình phòng thủ nhanh chóng, đặt bẫy, cải tạo các công trình dân sự, và phá hủy các công sự và đường hầm của kẻ thù.</InfantryEngineer46.baseDesc>
+<InfantryEngineer46.title>Kỹ Sư Chiến Đấu</InfantryEngineer46.title>
+<InfantryEngineer46.titleShort>Kỹ Sư</InfantryEngineer46.titleShort>
+<InfantryMedic6.description>[PAWN_nameDef] có trách nhiệm băng bó cho những đồng đội đã ngã xuống của [PAWN_possessive].</InfantryMedic6.description>
+<InfantryMedic6.baseDesc>[PAWN_nameDef] có trách nhiệm băng bó cho những đồng đội đã ngã xuống của [PAWN_possessive].</InfantryMedic6.baseDesc>
+<InfantryMedic6.title>Quân Y</InfantryMedic6.title>
+<InfantryMedic6.titleShort>Quân Y</InfantryMedic6.titleShort>
+<InfantryOfficer49.description>[PAWN_nameDef] từng là một sĩ quan trong quân đoàn bộ binh của Đế Quốc. [PAWN_pronoun] rèn luyện kỹ năng xã hội và chiến đấu để hoàn thành nhiệm vụ của [PAWN_possessive], và vì vậy được cấp dưới tôn trọng.</InfantryOfficer49.description>
+<InfantryOfficer49.baseDesc>[PAWN_nameDef] từng là một sĩ quan trong quân đoàn bộ binh của Đế Quốc. [PAWN_pronoun] rèn luyện kỹ năng xã hội và chiến đấu để hoàn thành nhiệm vụ của [PAWN_possessive], và vì vậy được cấp dưới tôn trọng.</InfantryOfficer49.baseDesc>
+<InfantryOfficer49.title>Sĩ Quan Bộ Binh Đế Quốc</InfantryOfficer49.title>
+<InfantryOfficer49.titleShort>Sĩ Quan</InfantryOfficer49.titleShort>
+<IntelligenceAgent21.description>[PAWN_nameDef] từng là một đặc vụ cao cấp được giao nhiệm vụ chống gián điệp của kẻ thù.</IntelligenceAgent21.description>
+<IntelligenceAgent21.baseDesc>[PAWN_nameDef] từng là một đặc vụ cao cấp được giao nhiệm vụ chống gián điệp của kẻ thù.</IntelligenceAgent21.baseDesc>
+<IntelligenceAgent21.title>Đặc Vụ Chống Thẩm Thấu</IntelligenceAgent21.title>
+<IntelligenceAgent21.titleShort>Đặc Vụ</IntelligenceAgent21.titleShort>
+<LineInfanteer20.description>[PAWN_nameDef] chỉ là một thành viên bình thường trong lực lượng bộ binh của Đế Quốc.\n\nKhi còn nhỏ, [PAWN_nameDef] đã được gọi nhập ngũ để tăng cường quân đội, học hỏi đủ các kỹ thuật chiến đấu để làm hài lòng cấp trên của [PAWN_possessive]. Dù cuộc sống như vậy, [PAWN_pronoun] chưa bao giờ hiểu những gì xảy ra xung quanh [PAWN_objective] là thật.</LineInfanteer20.description>
+<LineInfanteer20.baseDesc>[PAWN_nameDef] chỉ là một thành viên bình thường trong lực lượng bộ binh của Đế Quốc.\n\nKhi còn nhỏ, [PAWN_nameDef] đã được gọi nhập ngũ để tăng cường quân đội, học hỏi đủ các kỹ thuật chiến đấu để làm hài lòng cấp trên của [PAWN_possessive]. Dù cuộc sống như vậy, [PAWN_pronoun] chưa bao giờ hiểu những gì xảy ra xung quanh [PAWN_objective] là thật.</LineInfanteer20.baseDesc>
+<LineInfanteer20.title>Bộ Binh Đế Quốc</LineInfanteer20.title>
+<LineInfanteer20.titleShort>Bộ Binh</LineInfanteer20.titleShort>
+<LoyalJanissary59.description>[PAWN_nameDef] từng phục vụ bên cạnh vị vua vĩ đại, cảm thấy trách nhiệm lớn hơn so với những người khác, và sẵn sàng dành cả cuộc đời để đảm nhận trọng trách này.</LoyalJanissary59.description>
+<LoyalJanissary59.baseDesc>[PAWN_nameDef] từng phục vụ bên cạnh vị vua vĩ đại, cảm thấy trách nhiệm lớn hơn so với những người khác, và sẵn sàng dành cả cuộc đời để đảm nhận trọng trách này.</LoyalJanissary59.baseDesc>
+<LoyalJanissary59.title>Đội Vệ Binh Trung Thành</LoyalJanissary59.title>
+<LoyalJanissary59.titleShort>Vệ Binh</LoyalJanissary59.titleShort>
+<MilitaryChaplain10.description>[PAWN_nameDef] là một mục sư quân đội, có trách nhiệm chăm sóc những người bị thương, an ủi những người sắp chết, và khuyến khích những người còn sống. Như tất cả các mục sư của Đế Quốc, [PAWN_pronoun] thề sẽ không tham gia vào trận chiến. Đôi khi [PAWN_nameDef] cũng đóng vai trò như một bác sĩ, cứu chữa người bệnh.</MilitaryChaplain10.description>
+<MilitaryChaplain10.baseDesc>[PAWN_nameDef] là một mục sư quân đội, có trách nhiệm chăm sóc những người bị thương, an ủi những người sắp chết, và khuyến khích những người còn sống. Như tất cả các mục sư của Đế Quốc, [PAWN_pronoun] thề sẽ không tham gia vào trận chiến. Đôi khi [PAWN_nameDef] cũng đóng vai trò như một bác sĩ, cứu chữa người bệnh.</MilitaryChaplain10.baseDesc>
+<MilitaryChaplain10.title>Mục Sư Quân Đội</MilitaryChaplain10.title>
+<MilitaryChaplain10.titleShort>Mục Sư</MilitaryChaplain10.titleShort>
+<MilitaryCommissar71.description>[PAWN_nameDef] từng là trưởng phòng gián điệp trong quân đội Đế Quốc. [PAWN_pronoun] đảm bảo rằng các quân nhân trung thành, và sẽ không bao giờ rút lui trừ khi có lệnh. Mặc dù điều này khiến [PAWN_objective] không được lòng quân lính, nhưng [PAWN_pronoun] có thể dễ dàng phát hiện bất kỳ dấu hiệu nào của sự không trung thành.</MilitaryCommissar71.description>
+<MilitaryCommissar71.baseDesc>[PAWN_nameDef] từng là trưởng phòng gián điệp trong quân đội Đế Quốc. [PAWN_pronoun] đảm bảo rằng các quân nhân trung thành, và sẽ không bao giờ rút lui trừ khi có lệnh. Mặc dù điều này khiến [PAWN_objective] không được lòng quân lính, nhưng [PAWN_pronoun] có thể dễ dàng phát hiện bất kỳ dấu hiệu nào của sự không trung thành.</MilitaryCommissar71.baseDesc>
+<MilitaryCommissar71.title>Chính Ủy Quân Đội</MilitaryCommissar71.title>
+<MilitaryCommissar71.titleShort>Chính Ủy</MilitaryCommissar71.titleShort>
+<MilitaryCook18.description>Con người là sắt, thức ăn là thép. Nhiệm vụ của [PAWN_nameDef] là đảm bảo cung cấp thực phẩm cho quân đội bằng mọi giá.\n\nCông việc này yêu cầu [PAWN_objective] phải cân nhắc giữa dinh dưỡng và hương vị.</MilitaryCook18.description>
+<MilitaryCook18.baseDesc>Con người là sắt, thức ăn là thép. Nhiệm vụ của [PAWN_nameDef] là đảm bảo cung cấp thực phẩm cho quân đội bằng mọi giá.\n\nCông việc này yêu cầu [PAWN_objective] phải cân nhắc giữa dinh dưỡng và hương vị.</MilitaryCook18.baseDesc>
+<MilitaryCook18.title>Đầu Bếp Quân Đội</MilitaryCook18.title>
+<MilitaryCook18.titleShort>Đầu Bếp</MilitaryCook18.titleShort>
+<PiousSoldier67.description>Khi không huấn luyện hoặc chiến đấu, [PAWN_nameDef] thường ở bên cạnh mục sư. [PAWN_pronoun] đã sẵn sàng để hy sinh vì đức tin của [PAWN_possessive].</PiousSoldier67.description>
+<PiousSoldier67.baseDesc>Khi không huấn luyện hoặc chiến đấu, [PAWN_nameDef] thường ở bên cạnh mục sư. [PAWN_pronoun] đã sẵn sàng để hy sinh vì đức tin của [PAWN_possessive].</PiousSoldier67.baseDesc>
+<PiousSoldier67.title>Người Lính Sùng Đạo</PiousSoldier67.title>
+<PiousSoldier67.titleShort>Người Lính Sùng Đạo</PiousSoldier67.titleShort>
+<Propagandist86.description>[PAWN_nameDef] là một nghệ sĩ và nhà tuyên truyền quân sự tài ba. Các tác phẩm nghệ thuật của [PAWN_pronoun] ca ngợi lãnh chúa và quân đội.</Propagandist86.description>
+<Propagandist86.baseDesc>[PAWN_nameDef] là một nghệ sĩ và nhà tuyên truyền quân sự tài ba. Các tác phẩm nghệ thuật của [PAWN_pronoun] ca ngợi lãnh chúa và quân đội.</Propagandist86.baseDesc>
+<Propagandist86.title>Nhà Tuyên Truyền</Propagandist86.title>
+<Propagandist86.titleShort>Nhà Tuyên Truyền</Propagandist86.titleShort>
+<ReconSniper89.description>[PAWN_nameDef] là một xạ thủ chuyên nghiệp. [PAWN_pronoun] thành thạo chiến thuật "tấn công và rút lui", luôn nhắm vào các mục tiêu quan trọng và nhanh chóng rút lui.</ReconSniper89.description>
+<ReconSniper89.baseDesc>[PAWN_nameDef] là một xạ thủ chuyên nghiệp. [PAWN_pronoun] thành thạo chiến thuật "tấn công và rút lui", luôn nhắm vào các mục tiêu quan trọng và nhanh chóng rút lui.</ReconSniper89.baseDesc>
+<ReconSniper89.title>Xạ Thủ Trinh Sát</ReconSniper89.title>
+<ReconSniper89.titleShort>Xạ Thủ</ReconSniper89.titleShort>
+<RoyalGuard51.description>[PAWN_nameDef] bảo vệ một cung điện riêng của một vị vua có quyền lực.\n\nMặc dù các sự cố bạo lực rất hiếm, nhưng âm mưu trong cung điện thường xuyên xảy ra. [PAWN_nameDef] có khả năng cả văn hóa và quân sự trong lĩnh vực này.</RoyalGuard51.description>
+<RoyalGuard51.baseDesc>[PAWN_nameDef] bảo vệ một cung điện riêng của một vị vua có quyền lực.\n\nMặc dù các sự cố bạo lực rất hiếm, nhưng âm mưu trong cung điện thường xuyên xảy ra. [PAWN_nameDef] có khả năng cả văn hóa và quân sự trong lĩnh vực này.</RoyalGuard51.baseDesc>
+<RoyalGuard51.title>Vệ Binh Hoàng Gia</RoyalGuard51.title>
+<RoyalGuard51.titleShort>Vệ Binh</RoyalGuard51.titleShort>
+<Shipcracker37.description>[PAWN_nameDef] có nhiệm vụ sử dụng thiết bị phóng không gian để hạ cánh lên thân tàu của kẻ thù, khoan vào bên trong, và chinh phục nó trong trận chiến một đối một. [PAWN_nameDef] rất giỏi trong việc sử dụng vũ khí hạng nặng để tấn công kẻ thù.\n\n[PAWN_pronoun] cũng say mê các chất gây nghiện dùng để giảm bớt áp lực tinh thần.</Shipcracker37.description>
+<Shipcracker37.baseDesc>[PAWN_nameDef] có nhiệm vụ sử dụng thiết bị phóng không gian để hạ cánh lên thân tàu của kẻ thù, khoan vào bên trong, và chinh phục nó trong trận chiến một đối một. [PAWN_nameDef] rất giỏi trong việc sử dụng vũ khí hạng nặng để tấn công kẻ thù.\n\n[PAWN_pronoun] cũng say mê các chất gây nghiện dùng để giảm bớt áp lực tinh thần.</Shipcracker37.baseDesc>
+<Shipcracker37.title>Kẻ Tấn Công Tàu Vũ Trụ</Shipcracker37.title>
+<Shipcracker37.titleShort>Kẻ Tấn Công Tàu Vũ Trụ</Shipcracker37.titleShort>
+<Warmonger35.description>[PAWN_nameDef] đã giết chết vô số người. Ngay cả những binh lính phục vụ [PAWN_objective] cũng sợ hãi trước những phương pháp tàn bạo của [PAWN_possessive]. Không ai muốn có mối liên hệ xã hội với [PAWN_nameDef], nhưng [PAWN_pronoun] hoàn toàn không bận tâm đến sự cô đơn này.</Warmonger35.description>
+<Warmonger35.baseDesc>[PAWN_nameDef] đã giết chết vô số người. Ngay cả những binh lính phục vụ [PAWN_objective] cũng sợ hãi trước những phương pháp tàn bạo của [PAWN_possessive]. Không ai muốn có mối liên hệ xã hội với [PAWN_nameDef], nhưng [PAWN_pronoun] hoàn toàn không bận tâm đến sự cô đơn này.</Warmonger35.baseDesc>
+<Warmonger35.title>Cuồng Chiến</Warmonger35.title>
+<Warmonger35.titleShort>Cuồng Chiến</Warmonger35.titleShort>
+</LanguageData>

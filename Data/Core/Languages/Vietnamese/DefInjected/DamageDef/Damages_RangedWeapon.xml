@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Arrow.label>Vết thương do mũi tên</Arrow.label>
+	<Arrow.deathMessage>{0} đã bị bắn chết bởi mũi tên.</Arrow.deathMessage>
+	<ArrowHighVelocity.label>Vết thương do mũi tên tốc độ cao</ArrowHighVelocity.label>
+	<ArrowHighVelocity.deathMessage>{0} đã bị bắn chết bởi mũi tên tốc độ cao.</ArrowHighVelocity.deathMessage>
+	<Bullet.label>Vết thương do đạn</Bullet.label>
+	<Bullet.deathMessage>{0} đã bị bắn chết bởi súng.</Bullet.deathMessage>
+	<RangedStab.label>Vết thương do đâm</RangedStab.label>
+	<RangedStab.deathMessage>{0} đã bị đâm chết.</RangedStab.deathMessage>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ability_CastingTime.label>Thời gian thi triển</Ability_CastingTime.label>
+	<Ability_CastingTime.description>Thời gian cần thiết để thi triển khả năng này.</Ability_CastingTime.description>
+	<Ability_CastingTime.formatString>{0} giây</Ability_CastingTime.formatString>
+	<Ability_DetectChancePerEntropy.label>Tỷ lệ phát hiện</Ability_DetectChancePerEntropy.label>
+	<Ability_DetectChancePerEntropy.description>Khả năng bị phát hiện khi thi triển năng lực tâm linh.\n\nMột số phe phái có thể quy định rằng một số năng lực tâm linh chỉ có thể được sử dụng bởi những người có danh hiệu cụ thể. Khi bạn sử dụng năng lực tâm linh, tín hiệu tâm trí có thể bị phát hiện từ xa, dẫn đến ảnh hưởng ngoại giao.</Ability_DetectChancePerEntropy.description>
+	<Ability_Duration.label>Thời gian tác dụng</Ability_Duration.label>
+	<Ability_Duration.description>Thời gian hiệu lực của khả năng này.</Ability_Duration.description>
+	<Ability_Duration.formatString>{0} giây</Ability_Duration.formatString>
+	<Ability_EffectRadius.label>Phạm vi tác dụng</Ability_EffectRadius.label>
+	<Ability_EffectRadius.description>Phạm vi tác dụng của khả năng này.</Ability_EffectRadius.description>
+	<Ability_EntropyGain.label>Tăng entropy tâm trí</Ability_EntropyGain.label>
+	<Ability_EntropyGain.description>Sẽ tăng bao nhiêu entropy tâm trí khi thi triển khả năng này.</Ability_EntropyGain.description>
+	<Ability_GoodwillImpact.label>Ảnh hưởng quan hệ</Ability_GoodwillImpact.label>
+	<Ability_GoodwillImpact.description>Ảnh hưởng của việc thi triển khả năng này lên quan hệ với phe phái của một người.</Ability_GoodwillImpact.description>
+	<Ability_PsyfocusCost.label>Chi phí tâm lực</Ability_PsyfocusCost.label>
+	<Ability_PsyfocusCost.description>Chi phí tâm lực cần thiết để thi triển khả năng này.</Ability_PsyfocusCost.description>
+	<Ability_Range.label>Khoảng cách</Ability_Range.label>
+	<Ability_Range.description>Khoảng cách xa nhất mà khả năng này có thể được thi triển.</Ability_Range.description>
+	<Ability_RequiredPsylink.label>Cấp độ tâm linh yêu cầu</Ability_RequiredPsylink.label>
+	<Ability_RequiredPsylink.description>Cấp độ tâm linh tối thiểu cần thiết để thi triển khả năng này.</Ability_RequiredPsylink.description>
+</LanguageData>

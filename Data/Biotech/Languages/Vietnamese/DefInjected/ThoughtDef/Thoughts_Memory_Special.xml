@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BabyBorn.stages.was_born_healthy.label>{0} chào đời khỏe mạnh</BabyBorn.stages.was_born_healthy.label>
+	<BabyBorn.stages.was_born_healthy.description>Con tôi mang lại cho tôi rất nhiều niềm vui. Tôi sẵn sàng làm mọi thứ vì con mình.</BabyBorn.stages.was_born_healthy.description>
+	<FedOn.stages.fed_on_by.label>Bị {0} hút máu</FedOn.stages.fed_on_by.label>
+	<FedOn.stages.fed_on_by.description>Tôi như một con vật bị kẻ hút máu đó xâm phạm.</FedOn.stages.fed_on_by.description>
+	<IngestedHemogenPack.stages.ingested_hemogen_pack.label>Đã tiêu thụ gói huyết nguyên</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+	<IngestedHemogenPack.stages.ingested_hemogen_pack.description>Tôi đã tiêu thụ một gói huyết nguyên. Nó có thể giúp tôi sống sót, nhưng hương vị thật kinh khủng.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+	<Miscarried.stages.miscarried.label>Sảy thai</Miscarried.stages.miscarried.label>
+	<Miscarried.stages.miscarried.description>Tôi đã mất con của mình.</Miscarried.stages.miscarried.description>
+	<PartnerMiscarried.stages.miscarried.label>{0} sảy thai</PartnerMiscarried.stages.miscarried.label>
+	<PartnerMiscarried.stages.miscarried.description>Con tôi tội nghiệp... câu chuyện của nó đã kết thúc trước khi bắt đầu...</PartnerMiscarried.stages.miscarried.description>
+	<PregnancyEnded.stages.pregnancy_ended.label>Kết thúc thai kỳ</PregnancyEnded.stages.pregnancy_ended.label>
+	<PregnancyEnded.stages.pregnancy_ended.description>Tôi thở phào nhẹ nhõm, tôi không còn mang thai nữa.</PregnancyEnded.stages.pregnancy_ended.description>
+	<PregnancyTerminated.stages.pregnancy_terminated-0.label>Kết thúc thai kỳ</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+	<PregnancyTerminated.stages.pregnancy_terminated-0.description>Thai kỳ của tôi đã bị kết thúc.</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+	<PregnancyTerminated.stages.pregnancy_terminated-1.label>Kết thúc thai kỳ</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+	<PregnancyTerminated.stages.pregnancy_terminated-1.description>Thai kỳ của tôi đã bị kết thúc.</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+	<PregnancyTerminated.stages.pregnancy_terminated-2.label>Kết thúc thai kỳ</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+	<PregnancyTerminated.stages.pregnancy_terminated-2.description>Thai kỳ của tôi đã bị kết thúc.</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+	<PsychicBondTorn.stages.psychic_bond_torn.label>Liên kết tâm linh bị đứt ( {0} )</PsychicBondTorn.stages.psychic_bond_torn.label>
+	<PsychicBondTorn.stages.psychic_bond_torn.description>Tôi và {OTHERPAWN} đã bị đứt liên kết tâm linh. Tôi cảm thấy như đã mất đi một phần tư tưởng và cảm xúc của mình.</PsychicBondTorn.stages.psychic_bond_torn.description>
+	<Stillbirth.stages.stillbirth.label>Thai chết</Stillbirth.stages.stillbirth.label>
+<Stillbirth.stages.stillbirth.description>Con tôi tội nghiệp... không thể chào đời thành công...</Stillbirth.stages.stillbirth.description>
+<XenogermHarvested_Prisoner.stages.genes_harvested.label>Thu thập gene</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+<XenogermHarvested_Prisoner.stages.genes_harvested.description>Họ đã thu thập gene của tôi như thể tôi là một con chuột thí nghiệm trong phòng lab.</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+</LanguageData>

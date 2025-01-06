@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeatEating_Abhorrent.label>Ghê tởm</MeatEating_Abhorrent.label>
+<MeatEating_Abhorrent.description>Ăn bất kỳ loại thịt nào là một hành động tội lỗi nghiêm trọng.</MeatEating_Abhorrent.description>
+<MeatEating_Disapproved.label>Phản cảm</MeatEating_Disapproved.label>
+<MeatEating_Disapproved.description>Nên tránh ăn bất kỳ loại thịt nào.</MeatEating_Disapproved.description>
+<MeatEating_Horrible.label>Kinh khủng</MeatEating_Horrible.label>
+<MeatEating_Horrible.description>Ăn thịt là một hành vi đáng sợ.</MeatEating_Horrible.description>
+<MeatEating_NonMeat_Abhorrent.label>Ghê tởm ăn chay</MeatEating_NonMeat_Abhorrent.label>
+<MeatEating_NonMeat_Abhorrent.description>Bất kỳ ai ăn chay đều có khuyết điểm lớn về đạo đức. Mỗi bữa ăn nên có một ít thịt. Trứng, sữa và thực phẩm chế biến không có rau cũng được chấp nhận.</MeatEating_NonMeat_Abhorrent.description>
+<MeatEating_NonMeat_Disapproved.label>Phản cảm ăn chay</MeatEating_NonMeat_Disapproved.label>
+<MeatEating_NonMeat_Disapproved.description>Ăn chay là điều ghê tởm. Mỗi bữa ăn nên có một ít thịt. Trứng, sữa và thực phẩm chế biến không có rau cũng được chấp nhận.</MeatEating_NonMeat_Disapproved.description>
+<MeatEating_NonMeat_Horrible.label>Ghê tởm ăn chay</MeatEating_NonMeat_Horrible.label>
+<MeatEating_NonMeat_Horrible.description>Ăn chay là điều đáng sợ. Mỗi bữa ăn nên có một ít thịt. Trứng, sữa và thực phẩm chế biến không có rau cũng được chấp nhận.</MeatEating_NonMeat_Horrible.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MechanitorStartingMech.questContentRules.rulesStrings>
+    <li>arrivalLetterLabel-&gt;[mech_label] thuộc về：[mechanitor_nameDef]</li>
+    <li>arrivalLetterText-&gt;Một [mech_label] đã hạ cánh từ quỹ đạo và đặt mình dưới sự kiểm soát của [mechanitor_nameDef].\n\nNó dường như đã thuộc về trung tâm điều khiển của [mechanitor_possessive] và mong muốn phục vụ lại.</li>
+</MechanitorStartingMech.questContentRules.rulesStrings>
+</LanguageData>

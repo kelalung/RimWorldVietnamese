@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>Chu kỳ vui vẻ khi tạo hình</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>
+<BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>Mỗi phần cơ thể của tôi đều cảm thấy tốt.</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>
+<ConnectedTreeDied.stages.Gauranlen_death.label>Cây mẹ chết</ConnectedTreeDied.stages.Gauranlen_death.label>
+<ConnectedTreeDied.stages.Gauranlen_death.description>Cây mẹ của tôi... sự tồn tại bình yên của nó đã biến thành nỗi đau thuần khiết, rồi trở nên im lặng. Nỗi khổ của nó vang vọng trong tâm trí tôi.</ConnectedTreeDied.stages.Gauranlen_death.description>
+<DryadDied.stages.dryad_died.label>Yêu tinh cây chết</DryadDied.stages.dryad_died.label>
+<DryadDied.stages.dryad_died.description>Yêu tinh của cây mẹ của tôi đã biến mất mãi mãi. Bạn sẽ được nhớ đến, nhỏ bé.</DryadDied.stages.dryad_died.description>
+<RelicsCollected.stages.all_relics_collected.label>Thu thập tất cả các di vật</RelicsCollected.stages.all_relics_collected.label>
+<RelicsCollected.stages.all_relics_collected.description>Chúng tôi đã tìm thấy tất cả các di vật!</RelicsCollected.stages.all_relics_collected.description>
+<SleptInRoomWithSlave.stages.shared_room_with_slave.label>Ngủ trong cùng một phòng với nô lệ</SleptInRoomWithSlave.stages.shared_room_with_slave.label>
+<SleptInRoomWithSlave.stages.shared_room_with_slave.description>Tôi phải ngủ trong cùng một phòng với nô lệ.</SleptInRoomWithSlave.stages.shared_room_with_slave.description>
+<WasEnslaved.stages.was_enslaved.label>Bị nô lệ hóa</WasEnslaved.stages.was_enslaved.label>
+<WasEnslaved.stages.was_enslaved.description>Họ đã biến tôi thành nô lệ. Họ buộc tôi phải chịu đựng đau khổ!</WasEnslaved.stages.was_enslaved.description>
+</LanguageData>

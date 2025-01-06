@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MessageSiegersAssaulting>Đội quân bao vây {0} từ {1} bắt đầu tấn công thuộc địa.</MessageSiegersAssaulting>
+	<MessageRaidersBeginningAssault>Đội quân cướp bóc {0} bắt đầu tấn công thuộc địa từ {1}.</MessageRaidersBeginningAssault>
+	<MessageRaidersDetectedEarlyAssault>Đội quân cướp bóc {0} đã phát hiện bạn và bắt đầu tấn công thuộc địa sớm hơn từ {1}.</MessageRaidersDetectedEarlyAssault>
+	<MessageRaidersKidnapping>Đội quân cướp bóc {0} chuẩn bị bắt cóc những thuộc địa mà họ có thể mang đi từ {1}.</MessageRaidersKidnapping>
+	<MessageRaidersStealing>Đội quân cướp bóc {0} chuẩn bị mang đi những chiến lợi phẩm mà họ có thể lấy từ {1}.</MessageRaidersStealing>
+	<MechanoidsMovingOn>Do không phát hiện được mục tiêu, các cơ giới chuẩn bị tiếp tục di chuyển.</MechanoidsMovingOn>
+	<MessageCaravanDetectedRaidArrived>Đội quân {0} từ {1} đã đến và phát động tấn công! Nhiều cuộc tấn công khác sẽ đến vào {2}.</MessageCaravanDetectedRaidArrived>
+	<MessageRaidersLeaving>Đội quân cướp bóc {0} từ {1} chuẩn bị rời đi.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>Đội quân cướp bóc {0} từ {1} đã quyết định từ bỏ và chuẩn bị rời đi.</MessageRaidersGivenUpLeaving>
+	<MessageRaidersSatisfiedLeaving>Đội quân cướp bóc {0} từ {1} hài lòng chuẩn bị rời đi sau khi gây ra thiệt hại.</MessageRaidersSatisfiedLeaving>
+	<MessageFightersFleeing>Đội quân {0} từ {1} chuẩn bị chạy trốn.</MessageFightersFleeing>
+	<MessageFriendlyFightersLeaving>Đội quân đồng minh {0} từ {1} chuẩn bị rời đi.</MessageFriendlyFightersLeaving>
+	<MessageVisitorsTakingWounded>Đội quân {0} từ {1} đang chuẩn bị mang đi một khách bị thương.</MessageVisitorsTakingWounded>
+	<MessageVisitorsTrappedLeaving>Do bị mắc kẹt, đội quân {0} từ {1} đang chuẩn bị đào đường thoát.</MessageVisitorsTrappedLeaving>
+	<MessageVisitorsDangerousTemperature>Do nhiệt độ nguy hiểm, đội quân {0} từ {1} đang chuẩn bị rời khỏi bản đồ.</MessageVisitorsDangerousTemperature>
+	<MessageVisitorsAnomalousWeather>Do thời tiết khắc nghiệt, đội quân {0} từ {1} đang chuẩn bị rời khỏi bản đồ.</MessageVisitorsAnomalousWeather>
+	<MessageWornApparelDeterioratedAway>{1_nameFull} đã mặc {0} nhưng nó đã hoàn toàn bị hư hỏng.</MessageWornApparelDeterioratedAway>
+	<MessageDeterioratedAway>{0} đã bị hư hỏng trong kho do lão hóa.</MessageDeterioratedAway>
+	<MessageSeasonBegun>Mùa {0} đã bắt đầu.</MessageSeasonBegun>
+	<MessageShipHasLeftCommsRange>{0} đã rời khỏi phạm vi liên lạc của chúng ta.</MessageShipHasLeftCommsRange>
+	<MessageNeedBeaconToTradeWithShip>Bạn cần một tín hiệu giao dịch hoạt động để giao dịch với thương nhân trên quỹ đạo.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedRoyalTitleToCallWithShip>Người gọi ít nhất cần có danh hiệu {0_label}.</MessageNeedRoyalTitleToCallWithShip>
+	<MessageConditionCauserDespawned>{0} đã bị tiêu diệt.</MessageConditionCauserDespawned>
+	<MessageBillComplete>Danh sách đã hoàn thành: {0}.</MessageBillComplete>
+	<MessageFullyHealed>{1_label} đã hoàn toàn hồi phục.</MessageFullyHealed>
+	<MessagePrisonerIsEscaping>Tù nhân {1_labelShort} đang chuẩn bị trốn thoát.</MessagePrisonerIsEscaping>
+	<MessageOutOfNearbyShellsFor>{PAWN_labelShort} không tìm thấy đạn dự trữ cho {GUN_label} ở gần.</MessageOutOfNearbyShellsFor>
+	<MessageOutOfNearbyFuelFor>{PAWN_labelShort} không tìm thấy {FUEL} dự trữ cho {GUN_label} ở gần.</MessageOutOfNearbyFuelFor>
+	<MessageAnimalsGoPsychoHunted>Cảnh báo: {ANIMAL_kindBasePlural} thường sẽ tấn công khi bị thương, với xác suất {1} khi ở khoảng cách súng trường, càng gần thì xác suất càng cao, khả năng ẩn nấp khi săn có thể giảm thiểu xác suất bị tấn công.</MessageAnimalsGoPsychoHunted>
+	<MessageAnimalManhuntsOnTameFailed>Cảnh báo: {ANIMAL_kindBasePlural} thường sẽ tấn công khi việc thuần hóa thất bại (xác suất {1}).</MessageAnimalManhuntsOnTameFailed>
+	<MessageInsectTameDesignated>Chỉ những người có đặc điểm đồng cảm với côn trùng mới có thể thuần hóa {INSECT_indefinite}.</MessageInsectTameDesignated>
+	<MessageInsectsHostileOnTaming>Cảnh báo: {PAWN_labelShort} trở nên thù địch và sẽ tấn công khi thuộc địa của bạn cố gắng thuần hóa.</MessageInsectsHostileOnTaming>
+	<LetterLabelMessageRecruitSuccess>Thành viên mới gia nhập</LetterLabelMessageRecruitSuccess>
+	<MessageRecruitSuccess>{RECRUITER_nameFull} đã thành công trong việc tuyển dụng {RECRUITEE_nameFull}.</MessageRecruitSuccess>
+	<MessageTameSuccess>{RECRUITER_labelShort} đã thành công trong việc thuần hóa {1}.</MessageTameSuccess>
+	<MessageTameAndNameSuccess>{RECRUITER_labelShort} đã thành công trong việc thuần hóa {1} và đặt tên cho {RECRUITEE_objective} là {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+	<MessageTameNoSuitablePens>Không có chuồng nào phù hợp cho {ANIMAL_labelShort}. Nó sẽ di cư đi.</MessageTameNoSuitablePens>
+	<MessageRecruitJoinOfferAccepted>{RECRUITEE} đã gia nhập thuộc địa của bạn.</MessageRecruitJoinOfferAccepted>
+	<MessageColonyCannotAfford>Thuộc địa không đủ khả năng thanh toán cho giao dịch này.</MessageColonyCannotAfford>
+	<MessageColonyNotEnoughSilver>Bạn không có đủ bạc để giao dịch.</MessageColonyNotEnoughSilver>
+	<MessageCriticalAlert>Cảnh báo nghiêm trọng: {0}</MessageCriticalAlert>
+	<MessageMustDesignateHarvestable>Bạn phải chỉ định các nguồn tài nguyên có thể thu hoạch và đủ trưởng thành.</MessageMustDesignateHarvestable>
+	<MessageMustDesignateHarvestableWood>Bạn phải chỉ định các cây có thể thu hoạch và đủ trưởng thành.</MessageMustDesignateHarvestableWood>
+	<MessageMustDesignatePlants>Bạn phải chỉ định các loại cây.</MessageMustDesignatePlants>
+	<MessageMustDesignateHaulable>Bạn phải chỉ định các vật phẩm có thể vận chuyển.</MessageMustDesignateHaulable>
+	<MessageMustDesignateMineable>Bạn phải chỉ định các viên đá có thể khai thác không thể đi qua.</MessageMustDesignateMineable>
+	<MessageMustDesignateHuntable>Bạn phải chỉ định các động vật có thể săn.</MessageMustDesignateHuntable>
+	<MessageMustDesignateTameable>Bạn phải chỉ định các động vật có thể thuần hóa.</MessageMustDesignateTameable>
+	<MessageMustDesignateClaimable>Bạn phải chỉ định các tòa nhà hoặc vật phẩm đã bỏ hoang có thể chiếm đóng.</MessageMustDesignateClaimable>
+	<MessageMustDesignatePaintableBuildings>Bạn phải chỉ định các tòa nhà có thể sơn (chưa sơn {0_label}).</MessageMustDesignatePaintableBuildings>
+	<MessageMustDesignatePaintableFloors>Bạn phải chỉ định các sàn có thể sơn (chưa sơn {0_label}).</MessageMustDesignatePaintableFloors>
+	<MessageMustDesignatePainted>Bạn phải chỉ định các tòa nhà hoặc sàn đã được sơn.</MessageMustDesignatePainted>
+	<MessageMustDesignateDeconstructibleMechCluster>Bạn phải đánh bại cụm cơ giới thuộc về nó trước khi tháo dỡ.</MessageMustDesignateDeconstructibleMechCluster>
+	<MessageMustDesignateSmoothableSurface>Bạn phải chỉ định bề mặt đá thô.</MessageMustDesignateSmoothableSurface>
+	<MessageMustDesignateSmoothableFloor>Bạn phải chỉ định mặt đất đá thô.</MessageMustDesignateSmoothableFloor>
+	<MessageMustDesignateSmoothableWall>Bạn phải chỉ định tường đá thô.</MessageMustDesignateSmoothableWall>
+	<MessageNothingCanRemoveThickRoofs>Không thể loại bỏ mái dày.</MessageNothingCanRemoveThickRoofs>
+	<MessageAlreadyInStorage>Vật phẩm này đã có trong kho, sẽ được vận chuyển đến khu vực kho có độ ưu tiên cao hơn khi cần thiết.</MessageAlreadyInStorage>
+	<MessageMustDesignateStrippable>Bạn phải chỉ định xác chết mặc quần áo, nhân vật ngã, hoặc tù nhân.</MessageMustDesignateStrippable>
+	<MessageMustDesignateSlaughterable>Bạn phải chỉ định động vật đã thuần hóa thuộc về thuộc địa.</MessageMustDesignateSlaughterable>
+	<MessageMustDesignateOpenable>Bạn phải chỉ định ngôi mộ hoặc container hoàn chỉnh.</MessageMustDesignateOpenable>
+	<MessageMustDesignateForbiddable>Bạn phải chỉ định vật phẩm chưa bị cấm.</MessageMustDesignateForbiddable>
+	<MessageMustDesignateUnforbiddable>Bạn phải chỉ định vật phẩm đã bị cấm.</MessageMustDesignateUnforbiddable>
+	<MessageCannotClaimWhenThreatsAreNear>Không thể chiếm {CLAIMABLE_labelShort} khi có {THREAT_factionPawnsPlural} ở gần.</MessageCannotClaimWhenThreatsAreNear>
+	<MessageCannotAdoptWhileThreatsAreNear>Không thể nhận nuôi {CLAIMABLE_labelShort} khi có {THREAT_factionPawnsPlural} ở gần.</MessageCannotAdoptWhileThreatsAreNear>
+	<MessageRefusedArrest>{1_labelShort} từ chối bị bắt!</MessageRefusedArrest>
+	<MessageNoMedicalBeds>Không có giường y tế sẵn có.</MessageNoMedicalBeds>
+	<MessageNoAnimalBeds>Không có điểm ngủ cho động vật hoặc giường sẵn có.</MessageNoAnimalBeds>
+	<MessageWarningNoMedicineForRestriction>Cảnh báo: Giới hạn y tế của {PAWN_nameDef} ({RESTRICTIONLABEL}) khiến phẫu thuật không thể thực hiện. Hãy xem xét việc thay đổi giới hạn y tế của {PAWN_possessive}.</MessageWarningNoMedicineForRestriction>
+	<PawnDiedBecauseOf>{PAWN_labelShort} đã chết. Nguyên nhân: {1}.</PawnDiedBecauseOf>
+	<PawnDied>{1_labelShort} đã chết.</PawnDied>
+	<MessageNoLongerDowned>{1_label} đã hồi phục khả năng di chuyển.</MessageNoLongerDowned>
+	<MessageInvoluntarySleep>{1_labelShort} đã ngất xỉu vì kiệt sức.</MessageInvoluntarySleep>
+	<MessageMedicalOperationWillAngerFaction>Ca phẫu thuật này sẽ làm tức giận {0}.</MessageMedicalOperationWillAngerFaction>
+	<MessageAnimalIsPregnant>{PAWN_nameDef} đang mang thai!</MessageAnimalIsPregnant>
+	<MessageMiscarriedStarvation>{0} đã sảy thai do đói.</MessageMiscarriedStarvation>
+	<MessageMiscarriedPoorHealth>{0} đã sảy thai do sức khỏe kém.</MessageMiscarriedPoorHealth>
+	<MessageGaveBirth>{0} đã sinh con.</MessageGaveBirth>
+	<MessagePsylinkNoSensitivity>Không thể sử dụng Psylink khi độ nhạy tâm linh của {PAWN_labelShort} bằng không.</MessagePsylinkNoSensitivity>
+	<MessageLostImplantLevelFromHediff>{PAWN_labelShort} đã mất {1} cấp độ do {2}.</MessageLostImplantLevelFromHediff>
+	<MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} đã bị tổn thương não {1} điểm do {2}.</MessageReceivedBrainDamageFromHediff>
+	<MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} đã vượt quá giới hạn entropy tâm linh.</MessageWentOverPsychicEntropyLimit>
+	<MessageNoHandlerSkilledEnough>Không có ai có thể thuần hóa {ANIMAL_kindBase} (yêu cầu {2} cấp {1}, người thuần hóa có kỹ năng cao nhất {HANDLER_labelShort} là cấp {4}).</MessageNoHandlerSkilledEnough>
+	<MessageEatenByPredator>{EATEN_labelShort} đã bị {PREDATOR} ăn.</MessageEatenByPredator>
+	<MessageAttackedByPredator>{PREY_labelShort} đang bị {PREDATOR} tấn công!</MessageAttackedByPredator>
+	<MessageRoamerLeaving>{PAWN_labelShort} đã bắt đầu di cư! {PAWN_pronoun} sẽ rời khỏi bản đồ trừ khi có người thuần hóa kéo {PAWN_objective} trở lại chuồng.</MessageRoamerLeaving>
+	<MessageHiveReproduced>Một tổ côn trùng đã sinh ra một tổ mới.</MessageHiveReproduced>
+	<MessageTraderCaravanLeaving>Đoàn thương nhân từ {0} đang chuẩn bị rời đi.</MessageTraderCaravanLeaving>
+	<MessageTraderCaravanDismissed>Đoàn thương nhân từ {0} đã bị giải tán.</MessageTraderCaravanDismissed>
+	<MessageCantSelectDeadPawn>{1_labelShort} đã chết.</MessageCantSelectDeadPawn>
+	<MessageCantSelectOffMapPawn>{1_labelShort} đã rời khỏi bản đồ.</MessageCantSelectOffMapPawn>
+	<MessageSocialFight>{PAWN1_labelShort} và {PAWN2_labelShort} đã đánh nhau.</MessageSocialFight>
+	<MessageNewMarriageCeremony>Các thuộc địa đã tụ tập để tham dự lễ cưới của {PAWN1_labelShort} và {PAWN2_labelShort}.</MessageNewMarriageCeremony>
+	<MessageMarriageCeremonyStarts>{PAWN1_labelShort} và {PAWN2_labelShort} bắt đầu lễ cưới!</MessageMarriageCeremonyStarts>
+	<MessageMarriageCeremonyCalledOff>Lễ cưới của {PAWN1_labelShort} và {PAWN2_labelShort} đã bị hủy bỏ.</MessageMarriageCeremonyCalledOff>
+	<MessageNewlyMarried>{PAWN1_labelShort} và {PAWN2_labelShort} đã kết hôn. Các thuộc địa đang ăn mừng.</MessageNewlyMarried>
+	<MessageMarriageCeremonyAfterPartyFinished>Lễ cưới của {PAWN1_labelShort} và {PAWN2_labelShort} đã kết thúc.</MessageMarriageCeremonyAfterPartyFinished>
+	<MessageNewBondRelation>{HUMAN_labelShort} và {ANIMAL_labelShort} đã hình thành mối liên kết sâu sắc.</MessageNewBondRelation>
+	<MessageNewBondRelationNewName>{HUMAN_labelShort} và {1} đã hình thành mối liên kết sâu sắc. {HUMAN_labelShort} đã đặt tên cho {ANIMAL_objective} là {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+	<MessageBondedAnimalMentalBreak>Vì cái chết của {ANIMAL}, {HUMAN_labelShort} đã bị tâm lý suy sụp.</MessageBondedAnimalMentalBreak>
+	<MessageNamedBondedAnimalMentalBreak>Vì cái chết của {HUMAN_labelShort}, {ANIMAL_label} đã bị tâm lý suy sụp.</MessageNamedBondedAnimalMentalBreak>
+	<MessageBondedAnimalsMentalBreak>Vì cái chết của {HUMAN_labelShort}, {0} động vật đã bị tâm lý suy sụp.</MessageBondedAnimalsMentalBreak>
+	<MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} đã thành công trong việc loại bỏ {PATIENT_labelShort} khỏi {HEDIFF}.</MessageSuccessfullyRemovedHediff>
+	<MessageShipChunkDrop>Các mảnh vỡ tàu đã rơi từ không gian xuống gần đây.\n\nBạn có thể tháo dỡ chúng để lấy tài nguyên hữu ích.</MessageShipChunkDrop>
+	<MessageCannotSellItemsReason>Các vật phẩm không thể giao dịch. Nguyên nhân:</MessageCannotSellItemsReason>
+	<MessageConstructionFailed>{WORKER_labelShort} đã thất bại trong việc xây dựng {0}. Một phần nguyên liệu đã bị lãng phí.</MessageConstructionFailed>
+	<MessageScreenshotSavedAs>Ảnh chụp màn hình đã được lưu tại: {0}</MessageScreenshotSavedAs>
+	<MessageNoLongerSocialFighting>{PAWN1_labelShort} và {PAWN2_labelShort} đã không còn đánh nhau nữa.</MessageNoLongerSocialFighting>
+	<MessageNoLongerBingingOnDrug>{2_labelShort} đã không còn lạm dụng {1} nữa.</MessageNoLongerBingingOnDrug>
+	<MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} không còn xúc phạm {TARGET_label} nữa.</MessageNoLongerOnTargetedInsultingSpree>
+	<MessageRottedAwayInStorage>{1_label} đã bị thối rữa trong kho.</MessageRottedAwayInStorage>
+	<MessageFoodPoisoning>{PAWN_labelShort} đã bị ngộ độc thực phẩm do ăn {FOOD_labelShort}. Nguyên nhân: {2}.</MessageFoodPoisoning>
+	<MessagePawnLostWhileFormingCaravan>{0} đã bị loại khỏi đoàn.</MessagePawnLostWhileFormingCaravan>
+	<MessagePawnLostWhileFormingCaravan_AllLost>Quá trình hình thành đoàn đã bị dừng lại.</MessagePawnLostWhileFormingCaravan_AllLost>
+	<MessageCaravanFormationPaused>Quá trình hình thành đoàn sẽ tiếp tục khi tất cả mọi người hồi phục sau cuộc khủng hoảng tâm lý.</MessageCaravanFormationPaused>
+	<MessageCaravanFormationUnpaused>Các thuộc địa của bạn hiện sẽ tiếp tục hình thành đoàn.</MessageCaravanFormationUnpaused>
+	<MessageCaravanMemberHasExtremeMentalBreak>Một thành viên trong đoàn đã bị khủng hoảng tâm lý nghiêm trọng.</MessageCaravanMemberHasExtremeMentalBreak>
+	<MessageMaxPlanetCoveragePerformanceWarning>Cảnh báo: Việc tạo toàn bộ hành tinh có thể mất rất nhiều thời gian.</MessageMaxPlanetCoveragePerformanceWarning>
+	<MessagePlantDiedOfCold>{0} đã chết do nhiệt độ quá thấp.</MessagePlantDiedOfCold>
+	<MessagePlantDiedOfRot_LeftUnharvested>{0} đã thối rữa và chết do không được thu hoạch kịp thời.</MessagePlantDiedOfRot_LeftUnharvested>
+	<MessagePlantDiedOfRot_ExposedToLight>{0} đã chết do bị ánh sáng chiếu vào.</MessagePlantDiedOfRot_ExposedToLight>
+	<MessagePlantDiedOfRot>{0} đã chết do thối rữa.</MessagePlantDiedOfRot>
+	<MessagePlantDiedOfPoison>{0} đã chết do ngộ độc.</MessagePlantDiedOfPoison>
+	<MessagePlantDiedOfBlight>{1_label} đã chết do bệnh héo.</MessagePlantDiedOfBlight>
+	<MessagePawnBeingBurned>{1_labelShort} đang bị không khí cực nóng thiêu đốt!</MessagePawnBeingBurned>
+	<MessageAccidentalOverdose>{INGESTER} đã quá liều khi sử dụng {DRUG_labelShort}!</MessageAccidentalOverdose>
+	<MessageCaravanArrivedAtDestination>{0} đã đến đích.</MessageCaravanArrivedAtDestination>
+	<MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} đã rời khỏi khu vực và tạo thành đoàn.</MessagePawnLeftMapAndCreatedCaravan>
+	<MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Động vật của bạn đang di chuyển để gia nhập.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+	<MessageSettledInExistingMap>Bạn đã thành công trong việc thiết lập thuộc địa tại khu vực mới.</MessageSettledInExistingMap>
+	<MessagePermanentWoundHealed>{PAWN_labelShort} đã hồi phục {2}. Nguyên nhân: {0}</MessagePermanentWoundHealed>
+	<MessageRescueeDidntJoin>[PAWN_nameDef] đã hồi phục và quyết định rời đi.</MessageRescueeDidntJoin>
+	<MessageTransporterUnreachable>Các khoang vận chuyển không thể đến được.</MessageTransporterUnreachable>
+	<MessageTransportersNotAdjacent>Tất cả các máy phóng kết nối với khoang vận chuyển đã chọn phải ở cạnh nhau.</MessageTransportersNotAdjacent>
+	<MessageTransportersLoadCanceled_TransporterDestroyed>Quá trình tải đã bị hủy do một trong các khoang vận chuyển bị phá hủy.</MessageTransportersLoadCanceled_TransporterDestroyed>
+	<MessageTransporterSingleLoadCanceled_TransporterDestroyed>Quá trình tải đã bị hủy do khoang vận chuyển bị phá hủy.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+	<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Quá trình tải đã bị hủy do một trong các máy phóng bị phá hủy.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+	<MessageTransportersLoadingProcessStarted>Đồ vật và nhân viên đã chỉ định sẽ được tải vào khoang vận chuyển.</MessageTransportersLoadingProcessStarted>
+	<MessageTransporterSingleLoadingProcessStarted>Đồ vật và nhân viên đã chỉ định sẽ được tải vào khoang vận chuyển đơn.</MessageTransporterSingleLoadingProcessStarted>
+	<MessageTransportPodsArrived>Khoang vận chuyển của bạn đã đến đích.</MessageTransportPodsArrived>
+	<MessageTransportPodsArrivedAndLost>Khoang vận chuyển của bạn đã đến đích, nhưng do không có thuộc địa bên trong, hàng hóa đã bị mất.</MessageTransportPodsArrivedAndLost>
+	<MessageTransportPodsArrivedAndAddedToCaravan>Khoang vận chuyển của bạn đã đến đích. Các thành viên hoặc hàng hóa bên trong đã gia nhập {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+	<MessageFinishedLoadingTransporters>Khoang vận chuyển đã được tải xong. Sẵn sàng để phóng.</MessageFinishedLoadingTransporters>
+	<MessageFinishedLoadingTransporterSingle>Khoang vận chuyển đơn đã tải xong hàng hóa cần thiết, sẵn sàng để phóng.</MessageFinishedLoadingTransporterSingle>
+	<MessageCantLoadMoreIntoTransporters>{1} của bạn không thể hoàn thành việc tải khoang vận chuyển, vì một số đồ vật hoặc nhân viên đã trở nên không khả dụng ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+	<MessageCantLoadMoreIntoPortal>{1} của bạn không thể hoàn thành việc tải {0}, vì một số đồ vật hoặc nhân viên không khả dụng ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
+	<MessageTransportPodsDestinationIsInvalid>Điểm đến đã chọn không hợp lệ.</MessageTransportPodsDestinationIsInvalid>
+	<MessageTransportPodsDestinationIsTooFar>Mỗi máy phóng khoang vận chuyển cần ít nhất {0} nhiên liệu hóa học để phóng khoang vận chuyển đến khoảng cách đó.</MessageTransportPodsDestinationIsTooFar>
+	<MessageReformedCaravan>Đoàn đã được tái cấu trúc.</MessageReformedCaravan>
+	<MessageCantBanishLastColonist>Bạn không thể trục xuất thuộc địa cuối cùng.</MessageCantBanishLastColonist>
+	<MessageCantEquipCustom>Không thể trang bị: {0}.</MessageCantEquipCustom>
+	<MessageCantEquipIncapableOfViolence>Không thể trang bị: {1_labelShort} không có khả năng bạo lực.</MessageCantEquipIncapableOfViolence>
+	<MessageCantEquipIncapableOfShooting>Không thể trang bị: {1_labelShort} không có khả năng bắn.</MessageCantEquipIncapableOfShooting>
+	<MessageCantEquipIncapableOfManipulation>Không thể trang bị: không có khả năng.</MessageCantEquipIncapableOfManipulation>
+	<MessageCantWearApparelMissingBodyParts>Không thể mặc: {1_labelShort} thiếu bộ phận cơ thể cần thiết.</MessageCantWearApparelMissingBodyParts>
+	<MessageCantUnequipLockedApparel>Người này từ chối tháo bỏ trang phục đó.</MessageCantUnequipLockedApparel>
+	<MessageWouldReplaceLockedApparel>Không thể mặc: điều này sẽ thay thế trang phục {1_labelShort} mà họ từ chối tháo bỏ.</MessageWouldReplaceLockedApparel>
+	<MessageSlaughteringBondedAnimal>Do mối liên kết giữa họ, việc giết {DESIGNATED_labelShort} sẽ khiến {BONDED_labelShort} không vui.</MessageSlaughteringBondedAnimal>
+	<MessageReleaseBondedAnimal>Vì họ có mối liên kết, việc thả {DESIGNATED_labelShort} sẽ khiến {BONDED_labelShort} không vui.</MessageReleaseBondedAnimal>
+	<MessageCaravanRanOutOfFood>Thực phẩm của {0} đã hết.</MessageCaravanRanOutOfFood>
+	<MessageCaravanDeathCorpseAddedToInventory>Xác của {PAWN_definite} đã được đoàn thu nhặt. Vì xác rất nặng, điều này có thể hạn chế hành động của đoàn, có thể tìm thấy và vứt bỏ trong tab "Đồ vật" của đoàn.</MessageCaravanDeathCorpseAddedToInventory>
+	<MessageSelectOwnBaseToFormCaravan>Để hình thành đoàn, hãy chọn thuộc địa của bạn hoặc nơi có thuộc địa của bạn.</MessageSelectOwnBaseToFormCaravan>
+	<MessageScreenResTooSmallForUIScale>Với độ phân giải và tỷ lệ giao diện hiện tại, giao diện trò chơi sẽ không hiển thị đúng trên màn hình. Vui lòng giảm tỷ lệ giao diện hoặc tăng độ phân giải.</MessageScreenResTooSmallForUIScale>
+	<MessageYouHaveToReformCaravanNow>Bạn hiện phải tái cấu trúc đoàn. Tất cả những người còn lại sẽ bị bỏ lại.</MessageYouHaveToReformCaravanNow>
+	<MessageDefendersAttacking>{0} từ {1} đang tấn công {2} của bạn.</MessageDefendersAttacking>
+	<MessageMechanoidsAssembled>Các cơ giới phòng thủ đã được lắp ráp xong.</MessageMechanoidsAssembled>
+	<MessageMechanoidsLeftToAssemble>Các cơ giới còn lại để lắp ráp</MessageMechanoidsLeftToAssemble>
+	<MessageMechanoidsReinforcementsDrop>Các tín hiệu cơ giới đã triệu hồi một đợt tăng cường hạ cánh gần khu vực.</MessageMechanoidsReinforcementsDrop>
+	<MessageSelfTendUnsatisfied>{1_labelShort} vẫn phải được chỉ định công việc "Bác sĩ" để tự điều trị.</MessageSelfTendUnsatisfied>
+	<MessageCannotSelfTendEver>{1_labelShort} không thể làm công việc "Bác sĩ", vì vậy không bao giờ có thể tự điều trị.</MessageCannotSelfTendEver>
+	<MessageCantAddWaypointBecauseImpassable>Ô này không thể đi qua.</MessageCantAddWaypointBecauseImpassable>
+	<MessageCantAddWaypointBecauseUnreachable>Không thể đến ô này từ điểm đường dẫn cuối cùng.</MessageCantAddWaypointBecauseUnreachable>
+	<MessageCantAddWaypointBecauseLimit>Không thể có quá {0} điểm đường dẫn.</MessageCantAddWaypointBecauseLimit>
+	<MessageCantRemoveWaypointBecauseFirst>Không thể xóa điểm đường dẫn này.</MessageCantRemoveWaypointBecauseFirst>
+	<MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Không có cai ngục nào có khả năng bạo lực. Việc xử án sẽ không được thực hiện.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+	<MessageCanReformCaravanNowNoMoreEnemies>Khu vực này hiện đã an toàn. Bạn có thể tái cấu trúc đoàn trên bản đồ thế giới.</MessageCanReformCaravanNowNoMoreEnemies>
+	<MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Khu vực này hiện đã an toàn, nhưng vẫn còn một số khu vực chưa khám phá. Bạn có thể khám phá thêm hoặc tái cấu trúc đoàn trên bản đồ thế giới.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+	<MessageCantBanishDownedPawn>Không thể trục xuất {1_labelShort} trước khi {1_pronoun} hồi phục khả năng di chuyển.</MessageCantBanishDownedPawn>
+	<MessageSleepingPawnsWokenUp>{0} đã tỉnh dậy.</MessageSleepingPawnsWokenUp>
+	<MessageMechClusterDefeated>Cụm cơ giới đã bị phá hủy.</MessageMechClusterDefeated>
+	<MessageCompSpawnerSpawnedItem>Đã tạo ra vật thể: {0}.</MessageCompSpawnerSpawnedItem>
+	<MessageHediffCuredByItem>Đã chữa khỏi tình trạng sức khỏe: {0}.</MessageHediffCuredByItem>
+	<MessageBodyPartCuredByItem>Đã phục hồi bộ phận cơ thể: {0}.</MessageBodyPartCuredByItem>
+	<MessageResearchProjectFinishedByItem>Đã đạt được công nghệ: {0}.</MessageResearchProjectFinishedByItem>
+	<MessagePawnResurrected>{0} đã được hồi sinh!</MessagePawnResurrected>
+	<MessageFailedToRescueRelative>Bạn đã không thể cứu {PAWN_labelShort}. Điều này khiến {RELATIVE_labelShort} cảm thấy buồn.</MessageFailedToRescueRelative>
+	<MessageRescuedRelative>Bạn đã cứu {PAWN_labelShort}. Điều này khiến {RELATIVE_labelShort} cảm thấy vui.</MessageRescuedRelative>
+	<MessageTornadoLeftMap>Lốc xoáy đã rời khỏi khu vực này.</MessageTornadoLeftMap>
+	<MessageTornadoDissipated>Lốc xoáy đã tan biến.</MessageTornadoDissipated>
+	<MessagePeaceTalksNoDiplomat>Không có nhà ngoại giao nào tỉnh táo và có khả năng.</MessagePeaceTalksNoDiplomat>
+	<MessageWarningCavePlantsExposedToLight>Cảnh báo: {0} không thể sống sót khi bị ánh sáng chiếu vào.</MessageWarningCavePlantsExposedToLight>
+	<MessageTargetedTantrumChangedTarget>{PAWN_labelShort} không thể tiếp cận {OLDTARGET_label}, vì vậy {PAWN_pronoun} đã quyết định chuyển sự tức giận của {PAWN_possessive} đến {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+	<MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} không thể tiếp cận {OLDTARGET_label}, vì vậy {PAWN_pronoun} đã quyết định chuyển sự tức giận của {PAWN_possessive} đến {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+	<MessageMurderousRageChangedTarget>{PAWN_labelShort} đã quyết định chuyển sự tức giận của [PAWN_possessive] đến {TARGET_label}.</MessageMurderousRageChangedTarget>
+	<MessagePlantIncompatibleWithRoof>{0} không thể phát triển dưới mái che.</MessagePlantIncompatibleWithRoof>
+	<MessageRoofIncompatibleWithPlant>Không thể xây dựng mái che trên {0}.</MessageRoofIncompatibleWithPlant>
+	<MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Nếu bạn muốn rời khỏi khu vực này, hãy sử dụng nút "Tái cấu trúc đoàn" trên bản đồ thế giới.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+	<MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Bạn hiện không thể rời khỏi bản đồ.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+	<MessageGoodwillChanged>Quan hệ với {0} đã thay đổi từ {1} thành {2}.</MessageGoodwillChanged>
+	<MessageGoodwillChangedWithReason>Quan hệ với {0} đã thay đổi từ {1} thành {2} ({3}).</MessageGoodwillChangedWithReason>
+	<GoodwillChangedReason_AttackedPawn>Đã tấn công {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+	<GoodwillChangedReason_UsedItem>Đã sử dụng {ITEM_labelShort} trên {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+	<GoodwillChangedReason_UsedAbility>Đã sử dụng {0} trên {1}</GoodwillChangedReason_UsedAbility>
+	<GoodwillChangedReason_RemovedBodyPart>Đã cắt bỏ cơ quan của {0}</GoodwillChangedReason_RemovedBodyPart>
+	<GoodwillChangedReason_RemovedImplant>Đã loại bỏ cấy ghép của {0}</GoodwillChangedReason_RemovedImplant>
+	<GoodwillChangedReason_DowngradedImplant>Đã hạ cấp {0}</GoodwillChangedReason_DowngradedImplant>
+	<GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>Đã lắp đặt {0} mà không cần thiết</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+	<GoodwillChangedReason_CapturedPawn>Bắt giữ {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+	<GoodwillChangedReason_PawnCrushed>{1_labelShort} đã bị nghiền nát</GoodwillChangedReason_PawnCrushed>
+	<GoodwillChangedReason_PawnDied>{1_labelShort} đã chết</GoodwillChangedReason_PawnDied>
+	<GoodwillChangedReason_PawnStripped>{0_labelShort} đã bị lột trần</GoodwillChangedReason_PawnStripped>
+	<GoodwillChangedReason_Traded>Giao thương</GoodwillChangedReason_Traded>
+	<GoodwillChangedReason_AttackedCaravan>Đã tấn công đoàn</GoodwillChangedReason_AttackedCaravan>
+	<GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} đã rời khỏi bản đồ một cách khỏe mạnh</GoodwillChangedReason_ExitedMapHealthy>
+	<GoodwillChangedReason_Tended>Đã chữa trị {1_labelShort}</GoodwillChangedReason_Tended>
+	<GoodwillChangedReason_ReceivedGift>Đã nhận quà</GoodwillChangedReason_ReceivedGift>
+	<GoodwillChangedReason_FulfilledTradeRequest>Đã đáp ứng yêu cầu giao thương</GoodwillChangedReason_FulfilledTradeRequest>
+	<GoodwillChangedReason_FinishedQuest>Đã hoàn thành một nhiệm vụ</GoodwillChangedReason_FinishedQuest>
+	<GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} đã sử dụng {CULPRIT}</GoodwillChangedReason_UsedForbiddenThing>
+	<GoodwillChangedReason_SoldPawn>Bán {0_labelShort}</GoodwillChangedReason_SoldPawn>
+	<GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort} đã được an tử</GoodwillChangedReason_EuthanizedPawn>
+	<GoodwillChangedReason_RequestedMilitaryAid>Đã yêu cầu hỗ trợ quân sự</GoodwillChangedReason_RequestedMilitaryAid>
+	<GoodwillChangedReason_RequestedTrader>Đã yêu cầu đoàn thương nhân</GoodwillChangedReason_RequestedTrader>
+	<GoodwillChangedReason_CausedNeuroquakeEcho>Đã gây ra chấn động thần kinh</GoodwillChangedReason_CausedNeuroquakeEcho>
+	<GoodwillChangedReason_CausedBerserk>Đã khiến {PAWN_labelShort} trở nên điên cuồng</GoodwillChangedReason_CausedBerserk>
+	<GoodwillChangeReason_AttackedFaction>Đã tấn công {0_name}</GoodwillChangeReason_AttackedFaction>
+	<GoodwillChangeReason_ShuttleDestroyed>Khoang vận chuyển đã bị phá hủy</GoodwillChangeReason_ShuttleDestroyed>
+	<GoodwillChangeReason_CiviliansLost>Civilians đã mất tích</GoodwillChangeReason_CiviliansLost>
+	<GoodwillChangeReason_CommanderLost>Chiến sĩ đã mất tích</GoodwillChangeReason_CommanderLost>
+	<MessageGiftGivenButNotAppreciated>{0} đã nhận quà của bạn nhưng không cảm ơn.</MessageGiftGivenButNotAppreciated>
+	<MessageCantGiveGiftBecauseCantCarryEncumbered>Đoàn đã quá tải và không thể mang thêm đồ.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+	<MessageCantGiveGiftBecauseCantCarry>Đoàn không thể mang nhiều như vậy. Tổng trọng lượng quà là {0}, nhưng đoàn chỉ có thể mang thêm {1}.</MessageCantGiveGiftBecauseCantCarry>
+	<MessageFormedCaravan>{0} đã được hình thành và đang tiến về bản đồ thế giới.</MessageFormedCaravan>
+	<MessageFormedCaravan_Orders>Đơn hàng</MessageFormedCaravan_Orders>
+	<MessageBillValidationStoreZoneDeleted>“{0}” của {1} không thể giao đến khu vực lưu trữ đã bị xóa {2}.</MessageBillValidationStoreZoneDeleted>
+	<MessageBillValidationStoreZoneUnavailable>“{0}” của {1} không thể giao đến khu vực lưu trữ không thể tiếp cận {2}.</MessageBillValidationStoreZoneUnavailable>
+	<MessageBillValidationPawnUnavailable>{0} không thể hoàn thành công việc “{1}” tại {2}.</MessageBillValidationPawnUnavailable>
+	<MessageBillValidationIncludeZoneDeleted>“{0}” của {1} không thể tính đến đồ vật trong khu vực lưu trữ đã bị xóa {2}.</MessageBillValidationIncludeZoneDeleted>
+	<MessageBillValidationIncludeBuildingDeleted>“{0}” của {1} không thể tính đến đồ vật trong tòa nhà đã bị xóa {2}.</MessageBillValidationIncludeBuildingDeleted>
+	<MessageBillValidationIncludeStorageGroupDeleted>“{0}” của {1} không thể tính đến đồ vật trong nhóm lưu trữ đã bị xóa {2}.</MessageBillValidationIncludeStorageGroupDeleted>
+	<MessageBillValidationIncludeZoneUnavailable>“{0}” của {1} không thể tính đến đồ vật trong khu vực lưu trữ không thể tiếp cận {2}.</MessageBillValidationIncludeZoneUnavailable>
+	<MessageBillValidationStoreZoneInsufficient>“{0}” của {1} không thể giao tất cả sản phẩm đến khu vực lưu trữ {2}.</MessageBillValidationStoreZoneInsufficient>
+	<MessageAnimalReturnedWild>Do thiếu duy trì huấn luyện, {1_labelShort} đã trở về hoang dã.</MessageAnimalReturnedWild>
+	<MessageAnimalReturnedWildReleased>{1_labelShort} đã được thả về tự nhiên.</MessageAnimalReturnedWildReleased>
+	<MessageAnimalLostSkill>Do thiếu duy trì huấn luyện, {ANIMAL_labelShort} đã mất kỹ năng: {1}</MessageAnimalLostSkill>
+	<MessageTranslationReportSaved>Báo cáo dịch đã được lưu tại {0}</MessageTranslationReportSaved>
+	<MessageCaravanArrivalActionNoLongerValid>{0} không thể đến được địa điểm mục tiêu của nó.</MessageCaravanArrivalActionNoLongerValid>
+	<MessageEnterCooldownBlocksEntering>Cảnh báo! Không được phép vào {0} lần nữa.</MessageEnterCooldownBlocksEntering>
+	<MessagePermitCooldownFinished>{0_labelShort} hiện có thể sử dụng miễn phí "{1}".</MessagePermitCooldownFinished>
+	<MessagePredatorHuntingPlayerAnimal>{PREDATOR} đang săn {PREY_definite} ({PREY_kindBase})</MessagePredatorHuntingPlayerAnimal>
+	<MessagePrisonerResistanceBroken>Kháng cự của tù nhân {PRISONER_labelShort} đã bị {WARDEN_labelShort} phá vỡ.</MessagePrisonerResistanceBroken>
+	<MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Có thể bắt đầu cố gắng tuyển mộ.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+	<MessageModWithPackageIdAlreadyEnabled>Mod với ID gói {0} đã được kích hoạt. Vui lòng tắt {1} trước khi cố gắng kích hoạt.</MessageModWithPackageIdAlreadyEnabled>
+	<MessageDisableModsBeforeCleaningTranslationFiles>Vui lòng tắt tất cả mod trước khi sử dụng công cụ này.</MessageDisableModsBeforeCleaningTranslationFiles>
+	<MessageUnpackBeforeCleaningTranslationFiles>Vui lòng giải nén và xóa tất cả tệp nén của ngôn ngữ này trước khi sử dụng công cụ này.</MessageUnpackBeforeCleaningTranslationFiles>
+	<MessageTranslationFilesCleanupDone>Hoàn tất. Thư mục bị ảnh hưởng: {0}</MessageTranslationFilesCleanupDone>
+	<MessageCantCleanupTranslationFilesBeucaseOfXmlError>Không thể tải một trong các tệp dịch ({0}). Phải giải quyết tất cả lỗi phân tích XML trước.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+	<MessageCapturingWillAngerFaction>Cảnh báo: Bắt giữ {PAWN_nameDef} sẽ làm tức giận faction {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+	<MessageStrippingWillAngerFaction>Cảnh báo: Lột trần {PAWN_nameDef} sẽ làm tức giận faction {PAWN_factionName}.</MessageStrippingWillAngerFaction>
+	<MessageCantShootInMelee>Không thể bắn ở khoảng cách gần</MessageCantShootInMelee>
+	<MessageNoColonistCanAcceptQuest>Không có {0} nào có thể nhận nhiệm vụ này.</MessageNoColonistCanAcceptQuest>
+	<MessageCannotAcceptQuest>Không thể nhận nhiệm vụ này.</MessageCannotAcceptQuest>
+	<MessageQuestAccepted>{0_definite} đã nhận một nhiệm vụ: {1}</MessageQuestAccepted>
+	<MessagePawnLeaving>{0} đang rời đi.</MessagePawnLeaving>
+	<MessagePawnsLeaving>{0} đã rời đi.</MessagePawnsLeaving>
+	<MessageMonumentDestroyedBecauseOfDisallowedBuilding>Đài tưởng niệm đã bị phá hủy vì bạn đã xây dựng một công trình không được phép.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+	<MessageNoResearchBenchForTechprint>Không thể áp dụng: Thiếu bàn nghiên cứu có thể đến được và chưa được đặt trước.</MessageNoResearchBenchForTechprint>
+	<NoValidDestinationFound>Không tìm thấy điểm đến hợp lệ cho {0}</NoValidDestinationFound>
+	<MessageMinifiedTreeDied>Một cây nhỏ đã chết.</MessageMinifiedTreeDied>
+	<MessageResearchMenuWithoutBench>Cảnh báo: Nghiên cứu chỉ có thể bắt đầu sau khi xây dựng bàn nghiên cứu.</MessageResearchMenuWithoutBench>
+	<MessageActivatorProximityTriggered>{0_indefinite} đã kích hoạt một bộ cảm biến gần đó.</MessageActivatorProximityTriggered>
+	<MessageCannotSelectInvisibleStat>{0_label} hiện đang ẩn.</MessageCannotSelectInvisibleStat>
+	<MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} là một tù nhân</MessagePrisonerCannotEquipWeapon>
+	<MessageIdeoOpposedWorkTypeSelected>Cảnh báo: {0_nameDef} tín ngưỡng phản đối công việc {1}. {0_pronoun} có thể trở nên không vui.</MessageIdeoOpposedWorkTypeSelected>
+	<MessageBedLostAssignment>{0} không còn được phân công cho {1_nameDef}.</MessageBedLostAssignment>
+	<MessageBedDestroyed>{0} được phân công cho {1_nameDef} đã bị phá hủy.</MessageBedDestroyed>
+	<MessageLordJobNeedsAtLeastOneRolePawn>Bạn cần ít nhất {0_indefinite}.</MessageLordJobNeedsAtLeastOneRolePawn>
+	<MessageLordJobNeedsAtLeastNumRolePawn>Bạn cần ít nhất {1}{0}.</MessageLordJobNeedsAtLeastNumRolePawn>
+	<Spectate>Tham dự</Spectate>
+	<AssignToRole>Gán cho {0}</AssignToRole>
+	<RitualBegun>{0} đã bắt đầu.</RitualBegun>
+	<MaxPawnsPerRole>Số lượng tối đa cho {0} là {1}.</MaxPawnsPerRole>
+	<RoleIsLocked>Vai trò nghi lễ “{0}” đã bị khóa.</RoleIsLocked>
+	<MessageRitualNeedsAtLeastOnePerson>Bạn cần ít nhất một người tham gia.</MessageRitualNeedsAtLeastOnePerson>
+	<MessageRitualNeedsAtLeastOneSpectator>Bạn cần ít nhất một người xem.</MessageRitualNeedsAtLeastOneSpectator>
+	<MessageRitualPawnDowned>{0_labelShort} đã bị hạ gục.</MessageRitualPawnDowned>
+	<MessageRitualPawnPrisonerNotSecured>{0_labelShort} hiện đang chạy trốn.</MessageRitualPawnPrisonerNotSecured>
+	<MessageRitualPawnSlaveNotSecured>{0_labelShort} hiện đang nổi loạn.</MessageRitualPawnSlaveNotSecured>
+	<MessageRitualPawnReleased>{0_labelShort} đang được thả.</MessageRitualPawnReleased>
+	<MessageRitualPawnInjured>{0_labelShort} đã bị thương.</MessageRitualPawnInjured>
+	<MessageRitualRoleRequired>{0_labelShort} phải đảm nhận một trong những vai trò văn hóa này.</MessageRitualRoleRequired>
+	<MessageRitualRoleMustBePrisoner>{0} phải là tù nhân.</MessageRitualRoleMustBePrisoner>
+	<MessageRitualRoleMustBeAnimal>{0} phải là động vật.</MessageRitualRoleMustBeAnimal>
+	<MessageRitualRoleMustBeHumanlike>{0} phải là sinh vật giống người.</MessageRitualRoleMustBeHumanlike>
+	<MessageRitualRoleCannotBeABaby>{0} không thể là trẻ sơ sinh.</MessageRitualRoleCannotBeABaby>
+	<MessageRitualNoRolesAvailable>{0_labelShort} không có vai trò nghi lễ nào khả dụng.</MessageRitualNoRolesAvailable>
+	<MessageRitualNotOfPlayerIdeo>{0_labelShort} không phải là thành viên của văn hóa thuộc địa.</MessageRitualNotOfPlayerIdeo>
+	<MessageRitualRoleMustHaveEyes>{0} phải có mắt.</MessageRitualRoleMustHaveEyes>
+	<MessageRitualRoleMustRequireScarification>{0_labelShort} không cần thêm vết sẹo.</MessageRitualRoleMustRequireScarification>
+	<MessageRitualRoleMustRequireBlinding>{0_labelShort} không cần bị mù.</MessageRitualRoleMustRequireBlinding>
+	<MessageRitualRoleMustBePrisonerOrSlave>{0} phải là tù nhân hoặc nô lệ.</MessageRitualRoleMustBePrisonerOrSlave>
+	<MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} phải có khả năng bạo lực.</MessageRitualRoleMustBeCapableOfFighting>
+	<MessageRitualRoleCannotReplaceRequiredPawn>Vai trò nghi lễ này không thể chọn người khác.</MessageRitualRoleCannotReplaceRequiredPawn>
+	<MessageRitualRolePawnRecentlyTornConnection>Do {0_labelShort} đã bị đứt kết nối với cây mẹ gần đây, hiện không thể cộng hưởng với cây mẹ.</MessageRitualRolePawnRecentlyTornConnection>
+	<MessageRitualRolePawnHasSameIdeo>{0_labelShort} có cùng đặc điểm văn hóa.</MessageRitualRolePawnHasSameIdeo>
+	<MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} phải có khả năng giám sát.</MessageRitualRoleMustBeCapableOfWardening>
+	<MessageRitualRoleMustBeCapableOfGeneric>{0} phải có khả năng {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+	<MessageRitualRoleMustBeCapableOfViolence>{0} phải có khả năng bạo lực.</MessageRitualRoleMustBeCapableOfViolence>
+	<MessageRitualRoleMustNotBePrisonerToSpectate>Tù nhân không thể {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+	<MessageRitualRoleMustHaveIdeoToSpectate>Chỉ có {0} mới có thể {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+	<MessageRitualRoleMustHaveIdeoToDoRole>Chỉ có {0} mới có thể đáp ứng yêu cầu vai trò “{1}”.</MessageRitualRoleMustHaveIdeoToDoRole>
+	<MessageRitualRoleMustBeColonist>Vai trò nghi lễ “{0}” phải được đảm nhận bởi một thuộc địa.</MessageRitualRoleMustBeColonist>
+	<MessageRitualRoleMustBeFree>Tù nhân không thể đảm nhận vai trò nghi lễ “{0}”.</MessageRitualRoleMustBeFree>
+	<MessageRitualWontAttendExtremeTemperature>{0_labelShort} sẽ không tham dự do nhiệt độ cực đoan trong khu vực nghi lễ.</MessageRitualWontAttendExtremeTemperature>
+	<MessageRitualRoleMustBeFreeColonist>Vai trò nghi lễ “{0}” phải được đảm nhận bởi một thuộc địa không bị nô lệ.</MessageRitualRoleMustBeFreeColonist>
+	<MessageRitualRoleMustHaveLargerBodySize>{0} phải có một con vật có kích thước tối thiểu là {1}.</MessageRitualRoleMustHaveLargerBodySize>
+	<MessageRitualPawnMentalState>{0_labelShort} đã rơi vào trạng thái tâm thần.</MessageRitualPawnMentalState>
+	<MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} đã {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+	<MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} không thể đảm nhận bất kỳ vị trí nghi lễ nào khác ngoài “người xem”.</MessageRitualCannotAssignAnyRoleFromSpectating>
+	<MessageRitualRoleMustNotBeImprisonedWildMan>{0} không thể là người hoang dã bị giam giữ.</MessageRitualRoleMustNotBeImprisonedWildMan>
+	<MessageRitualRoleMustNotBeImprisoned>{0} phải có thể tự do hành động.</MessageRitualRoleMustNotBeImprisoned>
+	<MessageRitualRoleCannotBeChild>{0} không thể là trẻ em.</MessageRitualRoleCannotBeChild>
+	<MessageRitualRoleCannotBeBaby>{0} không thể là trẻ sơ sinh.</MessageRitualRoleCannotBeBaby>
+	<MessageRitualRoleBusy>{0} đang bận.</MessageRitualRoleBusy>
+	<MessagePlayerMustSelectTile>Bạn phải chọn một vị trí để tiếp tục.</MessagePlayerMustSelectTile>
+	<CannotPlantThing>Không thể trồng {0_labelShort}</CannotPlantThing>
+	<MessageWarningNotEnoughFertility>Cần một địa hình màu mỡ hơn.</MessageWarningNotEnoughFertility>
+	<BlockedBy>Bị {0_label} chặn lại</BlockedBy>
+	<AdjacentSowBlocker>Không thể trồng bên cạnh {0_label}.</AdjacentSowBlocker>
+	<TooCloseToOtherPlant>Quá gần {0_label}.</TooCloseToOtherPlant>
+	<TooCloseToOtherSeedPlantCell>Quá gần khu vực trồng {0}.</TooCloseToOtherSeedPlantCell>
+	<MessageWarningCutImportantPlant>Cảnh báo: {0} đã được đánh dấu để cắt bỏ.</MessageWarningCutImportantPlant>
+	<MessageIncapableOfManipulation>{0_labelShort} không có khả năng thao tác.</MessageIncapableOfManipulation>
+	<MessageActivationCanceled>Việc kích hoạt của {0_labelShort} đã bị hủy bỏ</MessageActivationCanceled>
+	<NothingAvailableInCategory>Không có công trình nào có thể xây dựng trong danh mục này</NothingAvailableInCategory>
+	<SettingsLinkedFor>Liên kết cài đặt lưu trữ cho công trình (x{0}).</SettingsLinkedFor>
+	<SettingsLinkedForSingular>Cài đặt lưu trữ cho 1 công trình đã được liên kết.</SettingsLinkedForSingular>
+	<SettingsUnlinkedFor>Giải phóng cài đặt lưu trữ cho công trình (x{0}).</SettingsUnlinkedFor>
+	<SettingsUnlinkedForSingular>Cài đặt lưu trữ cho 1 công trình đã không còn liên kết.</SettingsUnlinkedForSingular>
+	<StorageSettingsCopiedToClipboard>Coppy cài đặt lưu trữ vào clipboard.</StorageSettingsCopiedToClipboard>
+	<StorageSettingsPastedFromClipboard>Dán cài đặt lưu trữ từ clipboard.</StorageSettingsPastedFromClipboard>
+	<MessageBuildingRequiresAdjacentWalls>{0_label} phải được kết nối với tường ở cả hai bên để hoạt động bình thường.</MessageBuildingRequiresAdjacentWalls>
+	<MessageLodgersCantFarskip>Không thể nhảy xa: người tị nạn</MessageLodgersCantFarskip>
+	<!--<MessageRitualNeedsAtLeastOneRolePawn>Bạn cần ít nhất một {0}.</MessageRitualNeedsAtLeastOneRolePawn>
+	<MessageRitualNeedsAtLeastNumRolePawn>Bạn cần ít nhất {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>-->
+</LanguageData>

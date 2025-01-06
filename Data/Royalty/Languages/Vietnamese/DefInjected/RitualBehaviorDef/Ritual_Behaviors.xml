@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimaTreeLinking.roles.0.label>Người cộng hưởng</AnimaTreeLinking.roles.0.label>
+<AnimaTreeLinking.roles.0.customChildDisallowMessage>Chỉ có người lớn mới có thể cộng hưởng với cây linh hồn.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
+<AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Cần có một người trung gian chưa đạt cấp độ tối đa và có loại "tự nhiên". Không áp dụng cho những người mất khả năng tâm linh.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+<AnimaTreeLinking.spectatorFilter.description>Cần có một người trung gian loại "tự nhiên".</AnimaTreeLinking.spectatorFilter.description>
+<AnimaTreeLinking.spectatorGerund>Người tham gia</AnimaTreeLinking.spectatorGerund>
+<AnimaTreeLinking.spectatorsLabel>Người tham gia</AnimaTreeLinking.spectatorsLabel>
+<ThroneSpeech.letterText>{ORGANIZER_labelShort} đang phát biểu trên ngai vàng.\n\nNếu mọi thứ suôn sẻ, khán giả sẽ cảm thấy phấn chấn và tăng cường sự tôn trọng đối với {ORGANIZER_labelShort}. Nếu không, bài phát biểu sẽ gây tổn hại đến xã hội. Kết quả phụ thuộc vào khả năng xã hội của {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
+<ThroneSpeech.letterTitle>Bài phát biểu uy nghi</ThroneSpeech.letterTitle>
+<ThroneSpeech.roles.0.label>Người tổ chức</ThroneSpeech.roles.0.label>
+</LanguageData>

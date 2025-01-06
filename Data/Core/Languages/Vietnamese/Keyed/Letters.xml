@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<JumpToLocation>Chuyển đến địa điểm sự kiện xảy ra</JumpToLocation>
+	<PostponeLetter>Hoãn lại</PostponeLetter>
+	<RejectLetter>Từ chối</RejectLetter>
+	<ReadMore>Đọc thêm</ReadMore>
+	<MoreLetters>Thư {0}</MoreLetters>
+	<LetterLabelFirstSummerWarning>Mùa hè</LetterLabelFirstSummerWarning>
+	<FirstSummerWarning>Mùa hè đã đến! Mùa đông sẽ không còn xa nữa?\n\nTrong những ngày lạnh giá của mùa đông, không thể trồng cây, vì vậy hãy chắc chắn rằng bạn đã tích trữ đủ thực phẩm để vượt qua mùa đông. Bạn có thể xây một phòng có máy làm lạnh để làm kho lạnh nhằm ngăn thực phẩm hư hỏng.\n\nNgoài ra, hãy mua, đánh cắp, chiếm hoặc làm vài chiếc áo khoác chống rét, nếu không ra ngoài vào mùa đông sẽ rất lạnh.</FirstSummerWarning>
+	<LetterRelationsChange_Hostile>Quan hệ giữa chúng ta và {0} đã hoàn toàn đổ vỡ. Họ hiện đang trở thành kẻ thù của bạn.</LetterRelationsChange_Hostile>
+	<LetterRelationsChange_HostileGoodwillDescription>Họ sẽ thường xuyên tấn công thuộc địa và đoàn đi của bạn, và từ chối giao dịch với bạn. Nếu bạn muốn cải thiện mối quan hệ, bạn vẫn có thể gửi quà bằng đoàn đi hoặc khoang vận chuyển.\n\nĐiều này xảy ra do thiện chí ({0}) đã giảm xuống dưới {1}. Để trở lại trạng thái trung lập, thiện chí phải đạt lại {2}.</LetterRelationsChange_HostileGoodwillDescription>
+	<LetterRelationsChange_NeutralFromHostile>Quan hệ giữa chúng ta và {0} đã ấm lên. Họ hiện sẽ coi bạn là trung lập và không còn tấn công bạn nữa.</LetterRelationsChange_NeutralFromHostile>
+	<LetterRelationsChange_NeutralFromHostileGoodwillDescription>Điều này xảy ra do thiện chí ({1}) đã tăng lên trên {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ lại trở thành kẻ thù của bạn. Nếu thiện chí vượt quá {4}, họ sẽ trở thành đồng minh và chiến đấu vì bạn.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+	<LetterRelationsChange_NeutralFromAlly>Quan hệ giữa chúng ta và {0} đã giảm nhiệt. Họ hiện coi bạn là trung lập, không còn là đồng minh.</LetterRelationsChange_NeutralFromAlly>
+	<LetterRelationsChange_NeutralFromAllyGoodwillDescription>Dù họ vẫn sẽ tương tác hòa bình với bạn, họ sẽ không còn gửi quân tiếp viện khi bạn gặp nguy hiểm.\n\nĐiều này xảy ra do thiện chí ({1}) đã giảm xuống dưới {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ trở thành kẻ thù. Nếu thiện chí tăng lên trên {4}, họ sẽ lại trở thành đồng minh.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+	<LetterRelationsChange_Ally>Quan hệ giữa chúng ta và {0} đã trở nên rất chặt chẽ. Họ hiện coi bạn là đồng minh.</LetterRelationsChange_Ally>
+	<LetterRelationsChange_AllyGoodwillDescription>Các đồng minh đôi khi sẽ giúp bạn khi bạn bị tấn công, chiến đấu với kẻ thù của bạn. Bạn cũng có thể gọi họ bất cứ lúc nào, nhưng điều này sẽ làm giảm thiện chí.\n\nBạn đã trở thành đồng minh với họ do thiện chí ({0}) đã tăng lên trên {1}. Nếu thiện chí giảm xuống dưới {2}, quan hệ sẽ trở lại trạng thái trung lập.</LetterRelationsChange_AllyGoodwillDescription>
+	<goodwill>Thiện chí</goodwill>
+	<Neutral>Trung lập</Neutral>
+	<NeutralLower>Trung lập</NeutralLower>
+	<Death>Cái chết</Death>
+	<ShortCircuitRain>{1_label} đã bị ngắn mạch do mưa, gây ra một vụ hỏa hoạn.</ShortCircuitRain>
+	<LetterLabelAreaRevealed>Khu vực được phát hiện</LetterLabelAreaRevealed>
+	<AreaRevealed>Đã phát hiện một khu vực mới.</AreaRevealed>
+	<AreaRevealedWithMechanoids>Đã phát hiện một khu vực mới, bên trong có các cơ thể máy móc cổ đại thù địch.</AreaRevealedWithMechanoids>
+	<RoofCollapsed>Một mái nhà đã sập do khoảng cách hỗ trợ quá xa.</RoofCollapsed>
+	<TheseThingsCrushed>Các vật phẩm/người sau đây đã bị đè bẹp:</TheseThingsCrushed>
+	<NothingCrushed>Không có vật phẩm nào bị đè bẹp.</NothingCrushed>
+	<LetterLabelRoofCollapsed>Mái nhà sập</LetterLabelRoofCollapsed>
+	<RecruitSuccess>{0} đã thành công trong việc tuyển mộ {1} (tỷ lệ thành công {2}).</RecruitSuccess>
+	<RecruitFail>{0} đã không thể tuyển mộ {1} (tỷ lệ thành công {2}).</RecruitFail>
+	<RelatedPawnInvolvedInQuest>{PAWN_nameDef} là {RELATIVE_labelShort} của {1}. Nếu {PAWN_nameDef} chết, {RELATIVE_labelShort} sẽ chịu đau khổ trong thời gian dài. Tất nhiên, nếu bạn cứu được {PAWN_nameDef}, {RELATIVE_labelShort} sẽ vui vẻ trong thời gian dài.</RelatedPawnInvolvedInQuest>
+	<LetterLabelBirthday>Ngày sinh</LetterLabelBirthday>
+	<BirthdayChronological>Hôm nay là sinh nhật theo lịch pháp của {0}! Theo tuổi sinh học, {1} chỉ mới {3} tuổi.\n\nTheo tuổi lịch pháp, {1} đã {2} tuổi.\n\nDo các thuộc địa không già đi khi nằm trong buồng ngủ đông, nên sinh nhật theo tuổi sinh học và sinh nhật theo lịch pháp có thể khác nhau.</BirthdayChronological>
+	<LetterBirthdayBiological>{0_nameFull} đã đạt đến tuổi sinh học {1}.</LetterBirthdayBiological>
+	<BirthdayBiologicalAgeInjuries>Thật không may, {0_nameFull} đã mắc phải những bệnh tật sau do tuổi tác tăng lên</BirthdayBiologicalAgeInjuries>
+	<LetterLabelNewDisease>Bệnh tật</LetterLabelNewDisease>
+	<NewDisease>{PAWN} đã mắc bệnh {1}.\n\nHãy đảm bảo bạn có một bác sĩ và giường y tế để {PAWN_definite} nhận được sự chăm sóc y tế tốt và cố gắng nghỉ ngơi để hồi phục nhanh chóng.</NewDisease>
+	<NewPartDisease>{PAWN} đã mắc bệnh {3}, vị trí nhiễm ở {PAWN_possessive}{1}.\n\nHãy đảm bảo bạn có một bác sĩ và giường y tế để {PAWN_definite} nhận được sự chăm sóc y tế tốt và cố gắng nghỉ ngơi để hồi phục nhanh chóng.</NewPartDisease>
+	<NewDiseaseAnimal>{PAWN_labelShort} đã mắc bệnh: {1}</NewDiseaseAnimal>
+	<NewPartDiseaseAnimal>{PAWN_labelShort} đã mắc bệnh: {3}, vị trí ở {PAWN_possessive}{1}</NewPartDiseaseAnimal>
+	<PawnWasFormerlyColonist>{0} đã từng là thành viên của phe bạn.</PawnWasFormerlyColonist>
+	<PawnWasFormerlyLodger>Bạn đã từng tiếp đãi {0}.</PawnWasFormerlyLodger>
+	<PawnHasTheseRelationshipsWithColonists>{1_labelShort} có những mối quan hệ này với các thuộc địa của bạn:</PawnHasTheseRelationshipsWithColonists>
+	<LetterLabelAncientShrineWarning>Đe dọa cổ đại</LetterLabelAncientShrineWarning>
+	<AncientShrineWarning>Khi {PAWN_nameDef} đến gần công trình cổ xưa này, {PAWN_objective} cảm thấy một cảm giác bất an mạnh mẽ. {PAWN_pronoun} không chắc tại sao, nhưng {PAWN_pronoun} cảm thấy trong công trình đầy bụi bặm này có thể ẩn chứa mối nguy hiểm lớn.</AncientShrineWarning>
+	<StruckMineable>Chúng ta đã khai thác được {0}!</StruckMineable>
+	<LetterLabelAnimalManhunterRevenge>{0} đã bị kích thích</LetterLabelAnimalManhunterRevenge>
+	<AnimalManhunterFromDamage>{1_indefinite} bắt đầu tấn công bạn do bị thương!\n\nNó sẽ tấn công bất kỳ con người nào trong tầm nhìn cho đến khi ngủ thì mới bình tĩnh lại.</AnimalManhunterFromDamage>
+	<AnimalManhunterFromTaming>{1_indefinite} bắt đầu tấn công bạn do thất bại trong việc thuần hóa!</AnimalManhunterFromTaming>
+	<AnimalManhunterOthers>Các {1_kindBasePlural} khác gần đó cũng đã bị kích thích!</AnimalManhunterOthers>
+	<LetterFriendlyTrapSprungLabel>{1_labelShort} đã kích hoạt bẫy</LetterFriendlyTrapSprungLabel>
+	<LetterFriendlyTrapSprung>{1_labelShort} đã vô tình kích hoạt bẫy và bị thương.</LetterFriendlyTrapSprung>
+	<LetterHealthComplications>{PAWN_labelShort} đã phát sinh triệu chứng mới: {1}\n\nĐiều này do {2} gây ra.</LetterHealthComplications>
+	<LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+	<LetterHediffFromRandomHediffGiver>{PAWN_labelShort} đã phát sinh triệu chứng mới: {1}.</LetterHediffFromRandomHediffGiver>
+	<LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+	<LetterLeadersDeathLabel>{1} đã chết: {0}</LetterLeadersDeathLabel>
+	<LetterLeadersDeath>{0} của {1}, {OLDLEADER_nameFull} đã chết.</LetterLeadersDeath>
+	<LetterLeaderChangedLabel>Người lãnh đạo mới {1}: {0}</LetterLeaderChangedLabel>
+	<LetterLeaderChanged>{OLDLEADER_nameFull} không còn là {1} của {0} nữa.</LetterLeaderChanged>
+	<LetterNewLeader>Người lãnh đạo mới {0} là {NEWLEADER_nameFull}.</LetterNewLeader>
+	<FinalStraw>Giọt nước tràn ly: {0}</FinalStraw>
+	<MentalStateReason_Mood>Điều này là do tâm trạng không tốt.</MentalStateReason_Mood>
+	<MentalStateReason_Trait>Điều này là do đặc điểm: {0}.</MentalStateReason_Trait>
+	<MentalStateReason_Hediff>Điều này là do: {0}.</MentalStateReason_Hediff>
+	<MentalStateReason_BondedHumanDeath>Điều này là do cái chết của {0_definite}.</MentalStateReason_BondedHumanDeath>
+	<LastFactionRelationsEvent>Sự kiện gần đây nhất là</LastFactionRelationsEvent>
+	<ViewRelatedQuest>Xem nhiệm vụ liên quan</ViewRelatedQuest>
+	<ViewQuest>Xem nhiệm vụ</ViewQuest>
+	<LastEventsInLife>Các sự kiện gần đây trong cuộc đời của {PAWN_definite}</LastEventsInLife>
+	<LetterInspirationBeginThanksToHighMoodPart>Cảm ơn tâm trạng tốt, [PAWN_nameIndef] đã có một nguồn cảm hứng!</LetterInspirationBeginThanksToHighMoodPart>
+	<LetterLabelNoticedRelatedPawns>Thành viên gia đình</LetterLabelNoticedRelatedPawns>
+	<LetterRelatedPawnsRaidEnemy>Có người là {0} hoặc thành viên gia đình của tù nhân trong nhóm {1} đã đến.\n\nHãy nhớ rằng, mặc dù họ là thành viên gia đình, nhưng họ vẫn sẽ tấn công các thuộc địa của bạn vì họ thuộc phe thù địch.\n\nNhững người này là:</LetterRelatedPawnsRaidEnemy>
+	<LetterRelatedPawnsRaidFriendly>Có thành viên gia đình của {0} hoặc tù nhân trong nhóm bạn bè {1} đã đến:</LetterRelatedPawnsRaidFriendly>
+	<LetterRelatedPawnsNeutralGroup>Có thành viên gia đình của {0} hoặc tù nhân trong nhóm đã đến:</LetterRelatedPawnsNeutralGroup>
+	<LetterRelatedPawnsTradeShip>Có thành viên gia đình của {0} hoặc tù nhân trong số nô lệ do thương nhân vũ trụ bán:</LetterRelatedPawnsTradeShip>
+	<LetterRelatedPawnsTradingWithSettlement>Có thành viên gia đình của {0} hoặc tù nhân trong số nô lệ do khu định cư bán:</LetterRelatedPawnsTradingWithSettlement>
+	<LetterRelatedPawnsTradingWithOtherCaravan>Có thành viên gia đình của {0} hoặc tù nhân trong số nô lệ do đoàn đi bán:</LetterRelatedPawnsTradingWithOtherCaravan>
+	<LetterRelatedPawnsGroupGeneric>Có thành viên gia đình của {0} hoặc tù nhân trong nhóm này:</LetterRelatedPawnsGroupGeneric>
+	<LetterRelatedPawnsInMapWherePlayerLanded>Có thành viên gia đình của {0} hoặc tù nhân trong nhóm đã đến nơi bạn hạ cánh:</LetterRelatedPawnsInMapWherePlayerLanded>
+	<LetterRelatedPawnsSettlement>Khu định cư này có {0} hoặc thành viên gia đình của tù nhân:</LetterRelatedPawnsSettlement>
+	<LetterRelatedPawnsSite>Khu vực này có {0} của bạn hoặc thành viên gia đình của tù nhân:</LetterRelatedPawnsSite>
+	<RelationshipAppendedLetterSuffix>Gia đình</RelationshipAppendedLetterSuffix>
+	<RelationshipAppendedLetterTextColonist>{PAWN_nameDef} là thành viên gia đình của người định cư. {PAWN_pronoun} là {RELATIVE_labelShort} của {1}.</RelationshipAppendedLetterTextColonist>
+	<RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} là thành viên gia đình của tù nhân. {PAWN_pronoun} là {RELATIVE_labelShort} của {1}.</RelationshipAppendedLetterTextPrisoner>
+	<LetterLabelAffair>Ngoại tình</LetterLabelAffair>
+	<LetterAffair>{PAWN1_labelShort} mặc dù đã kết hôn với {SPOUSE_labelShort}, nhưng đã lén lút với {PAWN2_labelShort}.</LetterAffair>
+	<LetterLabelNewLovers>Tình yêu mới</LetterLabelNewLovers>
+	<LetterNewLovers>{PAWN1_labelShort} và {PAWN2_labelShort} đã trở thành một cặp, hiện đang trong mối quan hệ tình cảm. Có thể xem xét phân bổ cho họ một chiếc giường đôi.</LetterNewLovers>
+	<LetterNoLongerLovers>{PAWN1_labelShort} và {PAWN2_labelShort} không còn là người yêu nữa.</LetterNoLongerLovers>
+	<LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} sẽ đổi lại họ của {PAWN_possessive} về họ gốc.</LetterNoLongerLovers_BackToBirthName>
+	<LetterLabelBreakup>Chia tay</LetterLabelBreakup>
+	<LetterLabelAcceptedProposal>Chấp nhận lời cầu hôn!</LetterLabelAcceptedProposal>
+	<LetterLabelRejectedProposal>Từ chối lời cầu hôn</LetterLabelRejectedProposal>
+	<LetterAcceptedProposal>Trong vài ngày hoặc vài hình thức tới, họ sẽ tổ chức đám cưới và mời tất cả các người định cư. Nếu bạn muốn chỉ định địa điểm tổ chức đám cưới, hãy xem xét đặt một điểm tổ chức đám cưới. (Bạn có thể tìm điểm tổ chức đám cưới trong "Kế hoạch xây dựng" - "Phụ kiện".)</LetterAcceptedProposal>
+	<LetterAcceptedProposal_NameChange>{PAWN_label} sẽ đổi họ của {PAWN_possessive} thành {1}.</LetterAcceptedProposal_NameChange>
+	<LetterRejectedProposal>{INITIATOR_nameFull} rất buồn.</LetterRejectedProposal>
+	<LetterLabelRelationsChange_Hostile>Kẻ thù: {0}</LetterLabelRelationsChange_Hostile>
+	<LetterLabelRelationsChange_Ally>Đồng minh: {0}</LetterLabelRelationsChange_Ally>
+	<LetterLabelRelationsChange_NeutralFromHostile>Kẻ thù chuyển sang trung lập: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+	<LetterLabelRelationsChange_NeutralFromAlly>Đồng minh chuyển sang trung lập: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+	<LetterLabelShortCircuit>Ngắn mạch</LetterLabelShortCircuit>
+	<LetterLabelSuffixBondedAnimalDied>Động vật bị ràng buộc</LetterLabelSuffixBondedAnimalDied>
+	<LetterPartBondedAnimalDied>{ANIMAL_definite} đã gắn bó với {HUMAN_labelShort}. Điều này sẽ ảnh hưởng đến tâm trạng của {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
+	<LetterPartBondedAnimalDiedMulti>Điều này sẽ ảnh hưởng đến tâm trạng của những người sau:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+	<LetterLabelPrisonBreak>Đào tẩu</LetterLabelPrisonBreak>
+	<LetterPrisonBreak>Các tù nhân không biết làm thế nào để mở khóa cửa, đang đào tẩu! Họ có thể tìm kiếm vũ khí, chiến đấu hoặc trốn thoát ngay lập tức. Tù nhân đào tẩu:\n\n{0}\n\nKhi số lượng tù nhân đông hoặc sức khỏe tốt, họ dễ dàng thực hiện hành động đào tẩu hơn.</LetterPrisonBreak>
+	<LetterLabelNewlyAddicted>{0} nghiện</LetterLabelNewlyAddicted>
+	<LetterNewlyAddicted>{PAWN_labelShort} đã trở nên nghiện {1}.\n\n{PAWN_pronoun} hiện đang có sự phụ thuộc và nhu cầu mạnh mẽ đối với {1}, bạn có thể xem trên bảng nhu cầu của {PAWN_possessive}. {PAWN_pronoun} sẽ tự động sử dụng các chất gây nghiện tương ứng để đáp ứng nhu cầu của mình, và sẽ xuất hiện triệu chứng cai nếu {PAWN_pronoun} không thể có được bất kỳ {1} nào.</LetterNewlyAddicted>
+	<LetterLabelDrugBinge>{0} lạm dụng</LetterLabelDrugBinge>
+	<LetterDrugBinge>{2_label} không thể kiểm soát ham muốn của mình, đang sử dụng quá liều {1}.</LetterDrugBinge>
+	<LetterLabelAllCaravanColonistsDied>Đoàn người đã bị tiêu diệt</LetterLabelAllCaravanColonistsDied>
+	<LetterAllCaravanColonistsDied>Tất cả thành viên của {0} đã chết.</LetterAllCaravanColonistsDied>
+	<LetterLabelCaravanEnteredMap>Đoàn người đã đến {0_label}</LetterLabelCaravanEnteredMap>
+	<LetterCaravanEnteredMap>{0} đã đến {1_definite}.</LetterCaravanEnteredMap>
+	<LetterLabelCaravanEnteredEnemyBase>Bắt đầu tấn công</LetterLabelCaravanEnteredEnemyBase>
+	<LetterCaravanEnteredEnemyBase>{0} đã đến {1} và đã sẵn sàng để bắt đầu tấn công.</LetterCaravanEnteredEnemyBase>
+	<LetterLabelTransportPodsLandedInEnemyBase>Tấn công bắt đầu</LetterLabelTransportPodsLandedInEnemyBase>
+	<LetterTransportPodsLandedInEnemyBase>Các Tàu vận chuyển của bạn đã đến {0}.</LetterTransportPodsLandedInEnemyBase>
+	<LetterShuttleLandedInEnemyBase>Máy bay vận tải đã đến {0}.</LetterShuttleLandedInEnemyBase>
+	<LetterLabelFactionBaseDefeated>Căn cứ đã bị phá hủy</LetterLabelFactionBaseDefeated>
+	<LetterFactionBaseDefeated>Điểm định cư của kẻ thù {0} đã bị phá hủy.\n\nBạn có {1} để thu thập vật liệu trước khi người định cư tái tổ chức đoàn người, bạn cũng có thể chọn điểm định cư đã bị phá hủy trên bản đồ thế giới để thu thập vật liệu.</LetterFactionBaseDefeated>
+	<LetterFactionBaseDefeated_FactionDestroyed>Đây là căn cứ cuối cùng của {0}, điều này có nghĩa là phe này đã không còn tồn tại.</LetterFactionBaseDefeated_FactionDestroyed>
+	<LetterLabelDefeatAllEnemiesQuestCompleted>Hoàn thành yêu cầu</LetterLabelDefeatAllEnemiesQuestCompleted>
+	<LetterDefeatAllEnemiesQuestCompleted>Bạn đã phá hủy trạm gác của kẻ thù!\n\nPhần thưởng từ {0} đã đến, và mối quan hệ với phe đã tăng lên {1}.</LetterDefeatAllEnemiesQuestCompleted>
+	<LetterLabelFoundPreciousLump>Quét thấy khoáng sản quý hiếm</LetterLabelFoundPreciousLump>
+	<LetterFoundPreciousLump>Bằng cách sử dụng máy quét khoáng sản khoảng cách xa, {WORKER_labelShort} đã phát hiện một mảnh {0} gần đó.\n\nThật tiếc, nó sẽ không tồn tại lâu — nếu chúng ta không khai thác nhanh chóng, các phe khác sẽ khai thác và mang đi những tài nguyên này sau {1}.\n\n{2}.</LetterFoundPreciousLump>
+	<LetterLabelDeepScannerFoundLump>Mạch khoáng sản</LetterLabelDeepScannerFoundLump>
+	<LetterDeepScannerFoundLump>{FINDER_nameDef} đã phát hiện một mảnh {0} bị chôn vùi bằng máy quét xuyên mặt đất!</LetterDeepScannerFoundLump>
+	<LetterLabelAmbushInExistingMap>Phục kích</LetterLabelAmbushInExistingMap>
+	<LetterAmbushInExistingMap>{0} của bạn đã bị phục kích!</LetterAmbushInExistingMap>
+	<LetterLabelPeaceTalks_Disaster>Đàm phán hòa bình thảm họa</LetterLabelPeaceTalks_Disaster>
+	<LetterPeaceTalks_Disaster>Cuộc đàm phán này là một thảm họa. Cuộc thảo luận đã bị tan vỡ thành những lời xúc phạm và chỉ trích ngay cả trước khi các đại diện thực hiện lời chào ban đầu.\n\nSau khi đoàn người của bạn rời đi, {0} từ {1} đã đuổi theo và tấn công!\n\nMối quan hệ với {1}: {2}.</LetterPeaceTalks_Disaster>
+	<LetterLabelPeaceTalks_Backfire>Đàm phán hòa bình phản tác dụng</LetterLabelPeaceTalks_Backfire>
+	<LetterPeaceTalks_Backfire>Kết quả cuối cùng của cuộc đàm phán này đã phản tác dụng. Mặc dù đã có một số lời chào hỏi, nhưng các đại diện đã không đạt được tiến bộ nào về các vấn đề thực chất, và nhiều phát ngôn được coi là xúc phạm.\n\nMối quan hệ với {0}: {1}.</LetterPeaceTalks_Backfire>
+	<LetterLabelPeaceTalks_TalksFlounder>Đàm phán hòa bình gặp khó khăn</LetterLabelPeaceTalks_TalksFlounder>
+	<LetterPeaceTalks_TalksFlounder>Các cuộc đàm phán gặp khó khăn. Các đại diện đã cố gắng truyền đạt ý định rõ ràng và tôn trọng cơ bản, nhưng không đạt được tiến bộ trong các vấn đề thực sự.\n\nMối quan hệ với {0} giữ nguyên.</LetterPeaceTalks_TalksFlounder>
+	<LetterLabelPeaceTalks_Success>Đàm phán hòa bình thành công</LetterLabelPeaceTalks_Success>
+	<LetterPeaceTalks_Success>Cuộc đàm phán đã thành công. Các đại diện đã đạt được sự đồng thuận về một loạt các vấn đề quan trọng.\n\nMối quan hệ với {0} đã tăng lên {1}.</LetterPeaceTalks_Success>
+	<LetterLabelPeaceTalks_Triumph>Đàm phán hòa bình thành công lớn</LetterLabelPeaceTalks_Triumph>
+	<LetterPeaceTalks_Triumph>Cuộc đàm phán đã đạt được một chiến thắng lớn! Các đại diện đã nhanh chóng thiết lập mối liên hệ cá nhân và thực sự nhìn thấy quan điểm của nhau về những vấn đề khó khăn nhất trong ngày.\n\nMối quan hệ với {0} đã tăng lên {1}.\n\nKhi đoàn người của bạn rời đi, {0} đã tặng bạn một món quà: {2}.</LetterPeaceTalks_Triumph>
+	<PeaceTalksSocialXPGain>Người đàm phán của bạn, {PAWN_labelShort}, đã nhận được {1} điểm kinh nghiệm kỹ năng xã hội.</PeaceTalksSocialXPGain>
+	<LetterRunWildMentalBreak>{0} đã chán ghét nền văn minh.\n\n{0_pronoun} nhận ra rằng động vật luôn tự do. Do đó, {PAWN_pronoun} đã quyết định rời bỏ phe và sống cùng động vật hoang dã.\n\nBạn có thể cố gắng thuần hóa {0_objective} để đưa {0_objective} trở lại.</LetterRunWildMentalBreak>
+	<LetterCatatonicMentalBreak>{0} đã hoàn toàn suy sụp tinh thần và rơi vào trạng thái cứng đờ không thể hành động. {PAWN_pronoun} sẽ hồi phục sau vài ngày.</LetterCatatonicMentalBreak>
+	<LetterLabelAICoreOffer>Cơ hội nhân cách cốt lõi</LetterLabelAICoreOffer>
+	<LetterAICoreOffer>{1} của {PAWN_definite} đã liên lạc với bạn và cho biết có thể cung cấp thông tin: vị trí của nhân cách cốt lõi cần thiết để xây dựng tàu vũ trụ. Họ nói với bạn rằng vật phẩm này rất hiếm, và những người sở hữu thường được bảo vệ nghiêm ngặt.\n\nNếu bạn quan tâm, hãy liên hệ với họ qua trạm liên lạc.</LetterAICoreOffer>
+	<LetterCraftedLegendaryLabel>Tác phẩm huyền thoại</LetterCraftedLegendaryLabel>
+	<LetterCraftedLegendaryMessage>{WORKER_labelShort} đã chế tạo một {CRAFTED_labelShort}.\n\nSự ra đời của tác phẩm có giá trị này sẽ sớm được biết đến toàn thế giới.</LetterCraftedLegendaryMessage>
+	<LetterCraftedLegendaryMessageArt>{WORKER_labelShort} đã chế tạo một {CRAFTED_labelShort}.\n\n{0}\n\nSự ra đời của tác phẩm có giá trị này sẽ sớm được biết đến toàn thế giới.</LetterCraftedLegendaryMessageArt>
+	<LetterCraftedMasterworkLabel>Kiệt tác</LetterCraftedMasterworkLabel>
+	<LetterCraftedMasterworkMessage>{WORKER_labelShort} đã chế tạo một {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
+	<LetterCraftedMasterworkMessageArt>{WORKER_labelShort} đã chế tạo một {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
+	<LetterLabelPawnsLostBecauseMapClosed_Caravan>Đoàn người mất tích</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+	<LetterPawnsLostBecauseMapClosed_Caravan>Đoàn người của bạn đã mất tích. Các cá nhân và động vật sau đây đã cùng mất tích</LetterPawnsLostBecauseMapClosed_Caravan>
+	<LetterLabelPawnsLostBecauseMapClosed_Home>Bỏ lại nơi cư trú</LetterLabelPawnsLostBecauseMapClosed_Home>
+	<LetterPawnsLostBecauseMapClosed_Home>Các cá nhân và động vật sau đây đã bị bỏ lại</LetterPawnsLostBecauseMapClosed_Home>
+	<LetterLabelHibernateComplete>Phản ứng đã sẵn sàng</LetterLabelHibernateComplete>
+	<LetterHibernateComplete>(*Name) Sharlon Bạch Thạch (/Name) đã hoàn thành quy trình phục hồi giấc ngủ của phản ứng. Phản ứng hiện có thể cung cấp năng lượng cho tàu vũ trụ.</LetterHibernateComplete>
+	<LetterHibernateCompleteStandalone>Quy trình nạp năng lượng của phản ứng đã sẵn sàng. Phản ứng hiện có thể cung cấp năng lượng cho tàu vũ trụ.</LetterHibernateCompleteStandalone>
+	<LetterLabelVisitorsGaveGift>Món quà từ {0}</LetterLabelVisitorsGaveGift>
+	<LetterVisitorsGaveGift>{PAWN_factionName} của {0} đã để lại một món quà:\n\n{1}</LetterVisitorsGaveGift>
+	<LetterLabelFactionBaseProximity>Căn cứ phe quá gần</LetterLabelFactionBaseProximity>
+	<LetterFactionBaseProximity>Bởi vì bạn quá gần gũi với các phe khác, họ cảm thấy bạn đang xâm phạm lãnh thổ của họ.\n\nTrong vòng trước, mối quan hệ với phe đã giảm:</LetterFactionBaseProximity>
+	<LetterLabelCaravansBattlefieldVictory>Chiến thắng trong trận chiến của đoàn người</LetterLabelCaravansBattlefieldVictory>
+	<LetterCaravansBattlefieldVictory>Đoàn người của bạn đã giành chiến thắng trong trận chiến.\n\nBạn có thể ngay bây giờ chọn chiến trường trên bản đồ thế giới và nhấn “Tổ chức lại đoàn người” để tái tổ chức đoàn người.\n\nĐiều này cho phép thu thập đồ vật trực tiếp mà không cần thao tác thủ công.\n\nTrong {0}, đoàn người của bạn sẽ bị kẻ thù tấn công. Họ sẽ cử quân đội để tấn công đoàn người của bạn cho đến khi bạn rời khỏi đây.</LetterCaravansBattlefieldVictory>
+	<LetterLabelRescueQuestFinished>Cứu hộ thành công</LetterLabelRescueQuestFinished>
+	<LetterRescueQuestFinished>Bạn đã cứu được {PAWN_nameDef}, và {PAWN_pronoun} đã gia nhập nhóm của bạn.\n\nBạn có thể cho {PAWN_objective} gia nhập đoàn người của bạn bằng cách chọn khu vực này trên bản đồ thế giới và nhấn “Tổ chức lại đoàn người”.</LetterRescueQuestFinished>
+	<LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} đang săn {PREY_definite}</LetterLabelPredatorHuntingColonist>
+	<LetterPredatorHuntingColonist>{PREDATOR} đang săn {PREY_definite}!</LetterPredatorHuntingColonist>
+	<LetterDisease_Blocked>{0} đã kháng lại {1}</LetterDisease_Blocked>
+	<LetterLabelTraitDisease>Bệnh: {0}</LetterLabelTraitDisease>
+	<LetterTraitDisease>{PAWN_label} đã mắc bệnh {1}.\n\nĐảm bảo có giường y tế và bác sĩ. Đảm bảo {PAWN_pronoun} nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.</LetterTraitDisease>
+	<LetterQuestBecameAvailable>Có một nhiệm vụ mới hiện có, có tên là “{0}”.</LetterQuestBecameAvailable>
+	<LetterQuestRequiresAcceptance>Nếu bạn không chấp nhận nhiệm vụ trong {0}, nó sẽ hết hạn.</LetterQuestRequiresAcceptance>
+	<LetterQuestBecameActive>Có một nhiệm vụ mới hiện đã được kích hoạt, có tên là “{0}”.</LetterQuestBecameActive>
+	<LetterQuestAutomaticallyAcceptedTitle>Nhiệm vụ có hiệu lực: {0}</LetterQuestAutomaticallyAcceptedTitle>
+	<LetterQuestActiveNowTime>Nó sẽ hết hạn sau {0}.</LetterQuestActiveNowTime>
+	<LetterLabelQuestDropPodsArrived>Các Tàu vận chuyển đã đến</LetterLabelQuestDropPodsArrived>
+	<LetterQuestDropPodsArrived>Các Tàu vận chuyển chứa các vật phẩm sau đã đến:\n\n{0}</LetterQuestDropPodsArrived>
+	<LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} đã nhận được vật phẩm</LetterLabelQuestItemsAddedToCaravanInventory>
+	<LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} đã nhận được các vật phẩm sau:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+	<LetterLabelRefugeeJoins>{PAWN_nameDef} gia nhập</LetterLabelRefugeeJoins>
+	<LetterRefugeeJoins>Một người có tên là {PAWN_nameDef} đã đến và sẽ gia nhập thuộc địa.</LetterRefugeeJoins>
+	<LetterLabelRescueeJoins>{PAWN_nameDef} gia nhập</LetterLabelRescueeJoins>
+	<LetterRescueeJoins>{PAWN_nameDef} cảm ơn bạn đã cứu {PAWN_objective}. {PAWN_pronoun} quyết định ở lại đây và gia nhập thuộc địa của bạn.</LetterRescueeJoins>
+	<LetterLabelPawnsArriveAndJoin>Các thành viên gia nhập</LetterLabelPawnsArriveAndJoin>
+	<LetterPawnsArriveAndJoin>Các thành viên sau đã đến và gia nhập thuộc địa:\n\n{0}</LetterPawnsArriveAndJoin>
+	<LetterLabelPawnsArrive>Các thành viên đã đến</LetterLabelPawnsArrive>
+	<LetterPawnsArrive>Các thành viên sau đã đến:\n\n{0}</LetterPawnsArrive>
+	<LetterLabelPawnLeaving>{0} đã rời đi</LetterLabelPawnLeaving>
+	<LetterPawnLeaving>{0} đã rời đi.</LetterPawnLeaving>
+	<LetterLabelPawnsLeaving>{0} đã rời đi</LetterLabelPawnsLeaving>
+	<LetterPawnsLeaving>{0} đã rời đi.</LetterPawnsLeaving>
+	<LetterLabelPawnsKidnapped>{PAWN_nameDef} bị bắt cóc</LetterLabelPawnsKidnapped>
+	<LetterPawnsKidnapped>{PAWN_nameDef} đã bị {FACTION_name} bắt cóc!\n\nTuy nhiên, {PAWN_pronoun} sẽ không biến mất. Cơ hội cứu {PAWN_objective} có thể xuất hiện trong vài ngày hoặc vài năm tới.</LetterPawnsKidnapped>
+	<LetterTechprintAppliedLabel>Ứng dụng bản vẽ nghiên cứu: {PROJECT_label}</LetterTechprintAppliedLabel>
+	<LetterTechprintAppliedPartIntro>Một bản vẽ nghiên cứu đã được áp dụng cho dự án nghiên cứu: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+	<LetterTechprintAppliedPartJustUnlocked>Bạn đã hoàn thành dự án yêu cầu bản vẽ nghiên cứu! Các nhà nghiên cứu của bạn hiện có thể bắt đầu nghiên cứu cách ứng dụng công nghệ này vào thực tế.</LetterTechprintAppliedPartJustUnlocked>
+	<LetterTechprintAppliedPartNotUnlockedYet>Các yêu cầu của bản vẽ nghiên cứu cho dự án này vẫn chưa được đáp ứng. Đến nay, đã áp dụng {0} bản vẽ nghiên cứu. Dự án này cần tổng cộng {1}.</LetterTechprintAppliedPartNotUnlockedYet>
+	<LetterTechprintAppliedPartAlreadyUnlocked>Các yêu cầu bản vẽ nghiên cứu cho dự án này đã được đáp ứng. Các bản vẽ nghiên cứu bổ sung đã thúc đẩy công việc nghiên cứu của bạn về {PROJECT_label}. Nửa còn lại của công việc nghiên cứu, {0} điểm, đã hoàn thành.</LetterTechprintAppliedPartAlreadyUnlocked>
+	<LetterTechprintAppliedPartAlreadyResearched>Dự án này đã được nghiên cứu đầy đủ, vì vậy bản vẽ nghiên cứu không thể nâng cao kiến thức của bạn.</LetterTechprintAppliedPartAlreadyResearched>
+	<LetterTechprintAppliedPartExpAwarded>Bằng cách áp dụng bản vẽ nghiên cứu, {PAWN_labelShort} đã nhận được {0} điểm kinh nghiệm cho kỹ năng {1}.</LetterTechprintAppliedPartExpAwarded>
+	<LetterQuestCompletedLabel>Nhiệm vụ hoàn thành</LetterQuestCompletedLabel>
+	<LetterQuestFailedLabel>Nhiệm vụ thất bại</LetterQuestFailedLabel>
+	<LetterQuestConcludedLabel>Nhiệm vụ kết thúc</LetterQuestConcludedLabel>
+	<LetterQuestCompletedSuccess>Bạn đã hoàn thành nhiệm vụ “{0}” thành công!</LetterQuestCompletedSuccess>
+	<LetterQuestCompletedFail>Bạn đã không hoàn thành nhiệm vụ “{0}”.</LetterQuestCompletedFail>
+	<LetterQuestCompletedConcluded>Bạn đã hoàn thành nhiệm vụ “{0}”.</LetterQuestCompletedConcluded>
+	<LetterBladelinkWeaponBondedLabel>Liên kết vũ khí: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+	<LetterBladelinkWeaponBonded>{PAWN_labelShort} đã thiết lập một liên kết đặc biệt với {WEAPON_labelShort}.\n\nTừ bây giờ, {WEAPON_labelShort} sẽ từ chối bất kỳ người sử dụng nào khác ngoài {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+	<LetterLabelMechClusterArrived>Cụm cơ khí đã xuất hiện</LetterLabelMechClusterArrived>
+	<LetterMechClusterArrived>Cụm cơ khí đã xuất hiện.</LetterMechClusterArrived>
+	<LetterLabelSiteCountdownStarted>Đoàn người đã bị phát hiện</LetterLabelSiteCountdownStarted>
+	<LetterTextSiteCountdownStarted>Đoàn người của bạn đã bị phát hiện. {1} từ {2} sẽ đến khu vực này sau {0}.\nHãy tổ chức lại đoàn người của bạn và bắt đầu di chuyển để tránh {1}. Thời gian đếm ngược đến khi đối phương đến giờ đã trở thành trạng thái có thể nhìn thấy.</LetterTextSiteCountdownStarted>
+	<LetterLabelUnrecruitablePawnCaptured>Tù nhân kiên định</LetterLabelUnrecruitablePawnCaptured>
+	<LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} trung thành với quê hương của họ và sẽ hoàn toàn từ chối bị tuyển dụng.\n\nBạn có thể chọn họ để biết ai đó có trung thành với quê hương hay không.</LetterTextUnrecruitablePawnCaptured>
+	<OptionalEnslaveDesc>Đưa {PAWN_objective} vào chế độ nô lệ</OptionalEnslaveDesc>
+	<LetterTextLungRot>{PAWN} đã mắc {1} do tiếp xúc lâu dài với khí thối (do xác chết hoặc vật phẩm khác phát tán).\n\nĐảm bảo bạn có một giường y tế và một bác sĩ. Để đảm bảo {PAWN_definite} nhận được điều trị thích hợp.</LetterTextLungRot>
+	<LetterJoinOfferLabel>Yêu cầu gia nhập: {PAWN_nameDef}</LetterJoinOfferLabel>
+	<LetterJoinOfferTitle>{PAWN_nameDef} muốn gia nhập phe của bạn.</LetterJoinOfferTitle>
+	<LetterJoinOfferText>{PAWN_nameDef} tin rằng mình sẽ sống vui vẻ ở {MAP_definite}. {PAWN_pronoun} mong muốn được gia nhập bạn mãi mãi.</LetterJoinOfferText>
+	<LetterJoinOfferAccept>Chấp nhận</LetterJoinOfferAccept>
+	<LetterFinishedSpeech>{ORGANIZER_labelShort} đã hoàn thành bài phát biểu của {ORGANIZER_possessive}.</LetterFinishedSpeech>
+	<LetterTerribleSpeech>Thật là tồi tệ — giọng điệu lắp bắp, đầy những từ ngữ buồn cười và những câu chuyện nhàm chán.</LetterTerribleSpeech>
+	<LetterUninspiringSpeech>Thật sự là bình thường — những câu nói sáo rỗng, không có một chút đam mê nào trong những câu từ nhạt nhẽo.</LetterUninspiringSpeech>
+	<LetterEncouragingSpeech>Khích lệ, thông điệp rất rõ ràng.</LetterEncouragingSpeech>
+	<LetterInspirationalSpeech>Bài phát biểu đầy cảm hứng, tràn đầy tinh thần quyết tâm và mục tiêu vững chắc.</LetterInspirationalSpeech>
+	<LetterSpeechInspiredListeners>Các người đã được bài phát biểu này truyền cảm hứng, giờ đây nhận được động lực:</LetterSpeechInspiredListeners>
+	<LetterSpeechInspiration>Cảm ơn bài phát biểu tuyệt vời của {SPEAKER_nameIndef}, {PAWN_nameIndef} đã nhận được một nguồn cảm hứng!</LetterSpeechInspiration>
+	<LetterSpeechInterrupted>Do tiến độ bài phát biểu bị gián đoạn sau {0}, nên hiệu quả không tốt.</LetterSpeechInterrupted>
+	<LetterSpeechCancelled>Bài phát biểu của {0} đã bị hủy và chưa qua nửa chừng. Do đó không có hiệu quả.</LetterSpeechCancelled>
+	<LetterLabelSpeechCancelled>Bài phát biểu đã bị hủy</LetterLabelSpeechCancelled>
+</LanguageData>

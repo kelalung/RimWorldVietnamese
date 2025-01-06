@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+		<li>questDescription->[faction_name] [faction_leaderTitle],[faction_leader_nameFull], đã gửi cho chúng ta một thông điệp. [faction_leader_pronoun] hy vọng có thể đàm phán với chúng ta ở gần đây.Đây là một cơ hội tuyệt vời để cải thiện mối quan hệ giữa hai phe và chấp nhận thiện chí của nhau. Nhưng xin lưu ý: Để tăng cường khả năng thành công của cuộc đàm phán hòa bình, hãy chắc chắn cử những người thuộc địa có kỹ năng xã hội xuất sắc làm đại diện đàm phán, nếu không có thể sẽ phản tác dụng, thậm chí khiến đối phương tức giận. [extraLeaderPart][favorRewardDetails]</li>
+		<li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nNếu cuộc đàm phán hòa bình thành công, [faction_name] sẽ trao cho đại diện đàm phán của chúng ta một số [faction_royalFavorLabel].</li>
+		<li>favorRewardDetails-></li>
+		<li>extraLeaderPart-></li>
+		<li>leaderRoleEffect->Nếu có thể cử lãnh đạo của chúng ta làm đại diện đàm phán, các phe khác sẽ tôn trọng chúng ta hơn.</li>
+		<li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle][playerFaction_leader_nameFull] sẽ nhận được tỷ lệ thành công trong đàm phán cao hơn.</li>
+		<li>leaderPawnInfo-></li>
+	</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+	<OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+		<li>questName->[faction_leader_nameDef] của [peaceTalks]</li>
+		<li>questName->Cuộc [peaceTalks] với [faction_leader_nameDef]</li>
+		<li>questName->[peaceTalks]</li>
+		<li>questName->[peaceTalks]</li>
+		<li>peaceTalks->Cuộc đàm phán hòa bình</li>
+		<li>peaceTalks->Ngoại giao hữu nghị</li>
+		<li>peaceTalks->Cuộc hội đàm hòa bình</li>
+	</OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+	<OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+	<OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Do chúng ta không thể đến đúng hẹn, đại diện đàm phán của [faction_name] đã rời đi trong thất vọng. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+</LanguageData>

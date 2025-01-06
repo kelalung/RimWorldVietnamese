@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Beauty.label>Vẻ đẹp</Beauty.label>
+	<Beauty.description>Độ đẹp phản ánh mức độ hài lòng của nhân vật với môi trường xung quanh. Nhìn thấy những thứ đẹp đẽ như tác phẩm nghệ thuật có thể thỏa mãn nhu cầu về vẻ đẹp, trong khi những thứ như vết bẩn hoặc đá xấu sẽ làm giảm cảm giác hài lòng. Bạn có thể đánh dấu tùy chọn "Hiển thị độ đẹp" ở góc dưới bên phải để xem độ đẹp trung bình tại vị trí con trỏ chuột.</Beauty.description>
+	<Comfort.label>Thoải mái</Comfort.label>
+	<Comfort.description>Mức độ thoải mái có thể đạt được bằng cách ngồi hoặc nằm trên đồ nội thất thoải mái. Nằm trên giường, ngồi trên ghế thoải mái trong khi làm việc, hoặc trong các tình huống khác sẽ giúp đạt được nhu cầu này. Khi người định cư tham gia vào các công việc dài hạn như điêu khắc và nghiên cứu, bạn nên trang bị cho bàn làm việc một chiếc ghế sofa tốt.</Comfort.description>
+	<DrugDesire.label>Nhu cầu thuốc</DrugDesire.label>
+	<DrugDesire.description>Giá trị thuốc thể hiện mong muốn sử dụng thuốc. Khi cao hơn một mức nhất định, nó có thể nâng cao tâm trạng. Nhưng khi thấp hơn một mức nhất định, nó sẽ ảnh hưởng tiêu cực đến tâm trạng.</DrugDesire.description>
+	<Food.label>Thực phẩm</Food.label>
+	<Food.description>Giá trị thực phẩm thể hiện lượng dinh dưỡng mà sinh vật đã tiêu thụ gần đây. Khi giá trị thực phẩm bằng không, sinh vật sẽ dần dần bị suy dinh dưỡng cho đến khi chết.</Food.description>
+	<Indoors.label>Trong nhà</Indoors.label>
+	<Indoors.description>Nhu cầu trong nhà có nghĩa là cần ở dưới mái nhà hoặc trong tường. Hoạt động ngoài trời hoặc không ở dưới mái hiên sẽ làm giảm nhu cầu này. Nhưng nếu muốn nâng nhu cầu trong nhà lên trên 50%, thì cần hoạt động dưới mái nhà dày, không phải mái nhà thông thường.</Indoors.description>
+	<Joy.label>Giải trí</Joy.label>
+	<Joy.description>Giá trị giải trí thể hiện những hoạt động vui vẻ cần thực hiện định kỳ. Xin lưu ý rằng việc lặp đi lặp lại cùng một hoạt động sẽ làm giảm giá trị giải trí, vì vậy việc cung cấp nhiều hình thức giải trí là rất cần thiết.</Joy.description>
+	<Mood.label>Tâm trạng</Mood.label>
+	<Mood.description>Giá trị tâm trạng thể hiện mức độ hạnh phúc hoặc căng thẳng của con người. Khi giá trị tâm trạng quá thấp, người có thể sẽ bị suy sụp tinh thần. Điều này phụ thuộc vào mức độ buồn bã của họ, một số người có thể ở trong phòng của mình cả ngày, trong khi những người khác có thể hành động bạo lực một cách không kiểm soát.</Mood.description>
+	<Outdoors.label>Ngoài trời</Outdoors.label>
+	<Outdoors.description>Nhu cầu ngoài trời biểu thị mong muốn không bị gò bó trong không gian hẹp. Nó sẽ giảm nếu ở ngoài trời quá lâu, đặc biệt là khi ở dưới lòng đất. Nhu cầu ngoài trời được thỏa mãn khi dành thời gian ở không gian mở, đặc biệt là khi ở ngoài trời. Điều này không liên quan đến kích thước của phòng, nhưng cần thỉnh thoảng ra ngoài đi dạo. Đối với những người sống trong các căn cứ ngầm chật chội, việc thiếu thời gian ở ngoài trời rõ ràng là một thách thức lớn.</Outdoors.description>
+	<Rest.label>Nghỉ ngơi</Rest.label>
+	<Rest.description>Giá trị nghỉ ngơi thể hiện lượng giấc ngủ mà sinh vật đã có gần đây. Thiếu ngủ không chỉ khiến người ta mệt mỏi mà còn ảnh hưởng nghiêm trọng đến tâm trạng. Nếu giá trị nghỉ ngơi về không, họ sẽ không thể cưỡng lại và ngủ gục trên mặt đất.</Rest.description>
+	<RoomSize.label>Kích thước phòng</RoomSize.label>
+</LanguageData>

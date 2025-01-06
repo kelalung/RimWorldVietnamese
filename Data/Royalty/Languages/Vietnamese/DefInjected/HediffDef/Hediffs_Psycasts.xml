@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EntropyLink.label>Liên kết tâm linh</EntropyLink.label>
+<EntropyLink.description>Liên kết tâm linh với một người khác. Tổn thất và thu nhập của một người về tâm linh sẽ được chia sẻ công bằng giữa hai bên.</EntropyLink.description>
+<Joyfuzz.label>Cảm giác vui vẻ</Joyfuzz.label>
+<Joyfuzz.description>Cảm giác ấm áp và thoải mái do giao cảm tâm linh mang lại. Điều này sẽ nâng cao tâm trạng, nhưng thiếu kích thích tiêu cực sẽ dẫn đến tình trạng hôn mê nhẹ và giảm ý thức.</Joyfuzz.description>
+<PsychicAnesthesia.label>Gây tê tâm linh</PsychicAnesthesia.label>
+<PsychicAnesthesia.description>Tình trạng tê liệt do tâm lý gây ra.</PsychicAnesthesia.description>
+<PsychicBlindness.label>Đột quỵ tâm linh</PsychicBlindness.label>
+<PsychicBlindness.description>Tình trạng mù tạm thời do cú sốc tâm lý gây ra.</PsychicBlindness.description>
+<PsychicBreakdown.label>Rối loạn tâm linh</PsychicBreakdown.label>
+<PsychicBreakdown.description>Sự không ổn định lâu dài ở sâu trong tâm linh, thường do quá nhiều entropy tâm linh gây ra. Ngay cả khi entropy biến mất, sự sụp đổ vẫn sẽ kéo dài nhiều ngày, gây ra nhiều rối loạn tâm lý khác nhau. Nó có thể tự biến mất theo thời gian.</PsychicBreakdown.description>
+<PsychicBreakdown.stages.minor.label>Nhẹ</PsychicBreakdown.stages.minor.label>
+<PsychicBreakdown.stages.major.label>Nặng</PsychicBreakdown.stages.major.label>
+<PsychicBreakdown.stages.total.label>Cực nặng</PsychicBreakdown.stages.total.label>
+<PsychicBurden.label>Gánh nặng tâm linh</PsychicBurden.label>
+<PsychicBurden.description>Tình trạng khó khăn trong hành động do tâm lý gây ra.</PsychicBurden.description>
+<PsychicEntropy.label>Entropy tâm linh</PsychicEntropy.label>
+<PsychicEntropy.description>Mặc dù được gọi là "entropy", nhưng không phải là entropy theo nghĩa truyền thống. Nó chỉ một loại năng lượng tâm linh hỗn loạn tích tụ trong não khi sử dụng khả năng tâm linh, sẽ tự tan biến trong vài giây đến vài phút.\n\nNếu entropy tâm linh vượt quá ngưỡng an toàn, có thể gây ra sự sụp đổ tạm thời của tâm linh, giảm cấp độ tâm linh, và cuối cùng mất ý thức do sốc tâm linh. Những tình huống này sẽ không gây ra di chứng vĩnh viễn.</PsychicEntropy.description>
+<PsychicEntropy.descriptionShort>Năng lượng hỗn loạn trong tâm trí tích tụ liên tục khi sử dụng khả năng tâm linh. Nếu vượt quá giới hạn bình thường, có thể dẫn đến rối loạn tâm linh và mất ý thức.</PsychicEntropy.descriptionShort>
+<PsychicEntropy.stages.safe.label>An toàn</PsychicEntropy.stages.safe.label>
+<PsychicEntropy.stages.overloaded.label>Căng thẳng</PsychicEntropy.stages.overloaded.label>
+<PsychicEntropy.stages.very_overloaded.label>Quá tải</PsychicEntropy.stages.very_overloaded.label>
+<PsychicEntropy.stages.extreme.label>Siêu tải</PsychicEntropy.stages.extreme.label>
+<PsychicEntropy.stages.overwhelming.label>Sụp đổ</PsychicEntropy.stages.overwhelming.label>
+<PsychicFocus.label>Tập trung tâm linh</PsychicFocus.label>
+<PsychicFocus.description>Sự tập trung do năng lượng tâm linh gây ra, tăng cường khả năng thị giác, thính giác và vận động.</PsychicFocus.description>
+<PsychicLove.label>Tình yêu tâm linh</PsychicLove.label>
+<PsychicLove.description>Khát vọng lãng mạn phát sinh từ tâm lý. Điều này làm tăng thiện cảm đối với một người, đồng thời tăng khả năng theo đuổi tình cảm, và giảm khả năng chia tay.</PsychicLove.description>
+<PsychicLove.targetPrefix>Với</PsychicLove.targetPrefix>
+<PsychicVertigo.label>Chóng mặt tâm linh</PsychicVertigo.label>
+<PsychicVertigo.description>Mất cân bằng do năng lượng tâm linh gây ra. Điều này có thể dẫn đến tình trạng buồn nôn và nôn mửa ở động vật.</PsychicVertigo.description>
+</LanguageData>

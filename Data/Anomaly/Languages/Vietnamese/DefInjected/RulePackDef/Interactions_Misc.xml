@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DarkDialogue.rulePack.rulesStrings>
+    <li>rambled-> Nói về</li>
+    <li>rambled-> Nói nhỏ</li>
+    <li>rambled-> Nói cười</li>
+    <li>rambled-> Khen ngợi</li>
+    <li>rambled-> Gào thét</li>
+    <li>rambled-> Nói lấp lửng</li>
+    <li>rambled-> Lải nhải</li>
+    <li>rambled-> Lẩm bẩm</li>
+    <li>rambled-> Nói lảm nhảm</li>
+    <li>rambled-> Nói lảm bảm</li>
+    <li>darkSpeechAdverb-> Một cách nhẹ nhàng</li>
+    <li>darkSpeechAdverb-> Một cách do dự</li>
+    <li>darkSpeechAdverb-> Một cách bất thường</li>
+    <li>darkSpeechAdverb-> Một cách u ám</li>
+    <li>darkSpeechAdverb-> Một cách lộn xộn</li>
+    <li>darkSpeechAdverb-> Một cách điên cuồng</li>
+    <li>subjectInsane-> Điểm yếu của nhân loại</li>
+    <li>subjectInsane-> Sự kết thúc của tồn tại</li>
+    <li>subjectInsane-> Sự tàn nhẫn của thời gian</li>
+    <li>subjectInsane-> Hư vô</li>
+    <li>subjectInsane-> Ảo giác thực tại</li>
+    <li>subjectInsane-> Nỗi kinh hoàng khó lường của con người</li>
+    <li>subjectInsane-> Bóng ma không lành</li>
+    <li>subjectInsane-> Sự diệt vong của mọi thứ</li>
+    <li>subjectInsane-> Sự điên cuồng của vũ trụ</li>
+    <li>subjectInsane-> Sự thật giả dối trong giấc mơ</li>
+    <li>subjectInsane-> Ngôn ngữ đau đớn mơ hồ</li>
+    <li>subjectInsane-> Sự vô nghĩa của cuộc sống</li>
+    <li>subjectInsane-> Sự vô dụng của hy vọng</li>
+    <li>subjectInsane-> Sự mong manh của lý trí</li>
+    <li>subjectInsane-> Sự nực cười của hạnh phúc</li>
+    <li>subjectInsane-> Sự vô lý của tồn tại</li>
+    <li>subjectInsane-> Sự tĩnh lặng của vũ trụ</li>
+    <li>subjectInsane-> Sự tàn nhẫn của số phận</li>
+    <li>subjectInsane-> Sự nhỏ bé của đạo đức</li>
+    <li>subjectInsane-> Sự nực cười của tình yêu</li>
+    <li>subjectInsane-> Sự đắng cay của sự thật</li>
+    <li>subjectInsane-> Tiếng thét bị lãng quên vọng lại</li>
+    <li>subjectInsane-> Những ký ức sai lệch</li>
+    <li>subjectInsane-> Sự gia tăng vô tận của entropy</li>
+    <li>subjectInsane-> Cảm giác lạnh lẽo của cô đơn</li>
+    <li>subjectInsane-> Sự mạnh mẽ của hơi thở tuyệt vọng</li>
+    <li>subjectInsane-> Sự trống rỗng của tham vọng</li>
+    <li>subjectInsane-> Nỗi đau sau niềm vui</li>
+    <li>subjectInsane-> Lời hứa trống rỗng của niềm tin</li>
+    <li>subjectInsane-> Vẻ đẹp kỳ lạ của khổ nạn</li>
+    <li>subjectInsane-> Sự suy tàn không thể tránh khỏi của nền văn minh</li>
+    <li>subjectDarkStudy-> Horax</li>
+    <li>subjectDarkStudy-> Bản chất con người</li>
+    <li>subjectDarkStudy-> Quái vật đi lang thang</li>
+    <li>subjectDarkStudy-> Quái vật kim loại</li>
+    <li>subjectDarkStudy-> Quái thú thịt</li>
+    <li>subjectDarkStudy-> Hố khổng lồ</li>
+    <li>subjectDarkStudy-> Bóng tối bất thường</li>
+    <li>subjectDarkStudy-> Đường hầm hư vô</li>
+    <li>subjectDarkStudy-> Đá khổng lồ</li>
+    <li>subjectDarkStudy-> Hư vô</li>
+    <li>subjectDarkStudy-> Nỗi sợ vật chất</li>
+    <li>subjectDarkStudy-> Sức mạnh của cơn giận</li>
+    <li>subjectDarkStudy-> Mối quan hệ giữa con người</li>
+    <li>subjectDarkStudy-> Mục tiêu của con người và máy móc</li>
+    <li>subjectDarkStudy-> Nguồn gốc của thực thể</li>
+    <li>subjectDarkStudy-> Nguồn gốc của kiến thức</li>
+    <li>subjectDarkStudy-> Dòng chảy tâm linh</li>
+    <li>subjectDarkStudy-> Cơ chế tâm linh</li>
+    <li>subjectDarkStudy-> Hiện tượng tâm linh</li>
+    <li>subjectDarkStudy-> Cơ chế sức mạnh</li>
+</DarkDialogue.rulePack.rulesStrings>
+</LanguageData>

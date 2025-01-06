@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ColdContainmentBonus.label>Thưởng giam giữ lạnh</ColdContainmentBonus.label>
+<ColdContainmentBonus.description>Nếu giam giữ thực thể này trong một phòng rất lạnh, nó sẽ ít có khả năng trốn thoát hơn.</ColdContainmentBonus.description>
+<ContainmentStrength.label>Độ mạnh giam giữ</ContainmentStrength.label>
+<ContainmentStrength.description>Mức độ an toàn của phòng giam giữ thực thể. Tường và cửa chắc chắn hơn, ánh sáng đầy đủ hơn, ít giam giữ thực thể khác trong phòng và thiết bị đóng kín đặc biệt sẽ nâng cao mức độ an toàn này. Một số thực thể dễ bị giam giữ hơn trong môi trường lạnh.</ContainmentStrength.description>
+<ContainmentStrength.offsetLabel>Độ lệch giam giữ</ContainmentStrength.offsetLabel>
+<MinimumContainmentStrength.label>Độ mạnh giam giữ tối thiểu</MinimumContainmentStrength.label>
+<MinimumContainmentStrength.description>Độ mạnh giam giữ cần thiết để giam giữ thực thể này một cách thích hợp. Nếu độ mạnh giam giữ của phòng thấp hơn độ mạnh giam giữ tối thiểu của thực thể, khả năng trốn thoát của nó sẽ trở nên rất cao.</MinimumContainmentStrength.description>
+</LanguageData>

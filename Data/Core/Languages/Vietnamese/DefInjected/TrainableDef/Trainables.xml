@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Haul.label>Vận chuyển</Haul.label>
+<Haul.description>Động vật sẽ đôi khi ngẫu nhiên vận chuyển đồ vật, nhưng bạn không thể kiểm soát chúng vận chuyển đồ vật cụ thể nào.</Haul.description>
+<Obedience.label>Vâng lời</Obedience.label>
+<Obedience.description>Động vật có thể được chỉ định một chủ nhân, chúng sẽ theo dõi và bảo vệ chủ nhân.</Obedience.description>
+<Release.label>Ra tay</Release.label>
+<Release.description>Động vật có thể tấn công chủ động, tấn công mục tiêu từ xa, thay vì chỉ bảo vệ chủ nhân.</Release.description>
+<Rescue.label>Cứu hộ</Rescue.label>
+<Rescue.description>Động vật sẽ cứu những đồng minh bị thương và kéo họ đến nơi an toàn.</Rescue.description>
+<Tameness.label>Thuần hóa</Tameness.label>
+<Tameness.description>Động vật sẽ chấp nhận thuần hóa, trở thành một phần của thuộc địa.</Tameness.description>
+</LanguageData>

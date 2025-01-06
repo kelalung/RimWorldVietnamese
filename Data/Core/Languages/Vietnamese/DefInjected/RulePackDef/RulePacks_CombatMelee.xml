@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Combat_Deflect.rulePack.rulesStrings>
+		<li>r_logentry(p=0.5)->[INITIATOR_definite][damaged_past][atMaybe][RECIPIENT_definite] của [recipient_part0_label][deflected_result].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] dùng [implement][skillAdvMaybe][damaged_past][atMaybe][RECIPIENT_definite][deflected_result].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] [skillAdvMaybe] [damaged_past] [atMaybe] [RECIPIENT_definite] [deflected_result].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite], [skillDescMelee], [damaged_past] của [RECIPIENT_definite][recipient_part0_label][deflected_result].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite] sử dụng [implement] để [damaged_inf] tấn công [RECIPIENT_definite][deflected_result].</li>
+		<li>r_logentry(p=0.1)->[INITIATOR_definite] [skillAdvMaybe] sử dụng [implement][damaged_inf][RECIPIENT_definite][deflected_result].</li>
+		<li>skillAdvMaybe-></li>
+		<li>skillAdvMaybe->[skillAdv]</li>
+		<li>atMaybe-></li>
+		<li>atMaybe-> đã</li>
+		<li>deflected_result->, nhưng [TOOL_label][harmlessly_opt][deflected]</li>
+		<li>deflected_result->, nhưng [harmlessly_opt][deflecting][RECIPIENT_possessive] của giáp</li>
+		<li>harmlessly_opt(p=4)-></li>
+		<li>harmlessly_opt->[harmlessly]</li>
+		<li>harmlessly->Yếu ớt</li>
+		<li>harmlessly->Không có sức lực</li>
+		<li>deflected->Bị bật ra</li>
+		<li>deflected->Lướt qua</li>
+		<li>deflected->Cắt qua</li>
+		<li>deflected->Chạm qua</li>
+		<li>deflected->Bị bật ra</li>
+		<li>deflected->Lướt qua</li>
+		<li>deflecting->Bị bật ra</li>
+		<li>deflecting->Lướt qua</li>
+		<li>deflecting->Cắt qua</li>
+		<li>deflecting->Chạm qua</li>
+		<li>deflecting->Bị bật ra</li>
+		<li>deflecting->Lướt qua</li>
+	</Combat_Deflect.rulePack.rulesStrings>
+	<Combat_Dodge.rulePack.rulesStrings>
+		<li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] lách khỏi [INITIATOR_definite] dùng [implement] [damaged_inf].</li>
+		<li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] lách khỏi [INITIATOR_definite] [damaged_inf].</li>
+		<li>skillAdvMaybe-></li>
+		<li>skillAdvMaybe->[skillAdv]</li>
+		<li>result-> nhưng [RECIPIENT_definite] đã lách khỏi</li>
+		<li>result-> nhưng bị [RECIPIENT_definite] giả bộ đánh lừa</li>
+		<li>result-> nhưng đòn tấn công này đã bị hóa giải khéo léo</li>
+	</Combat_Dodge.rulePack.rulesStrings>
+	<Combat_Hit.rulePack.rulesStrings>
+		<li>r_logentry(p=1.0)->[INITIATOR_definite][damaged_past][RECIPIENT_definite] [recipient_part0_label].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite][strikeAdv][damaged_past][RECIPIENT_definite] [recipient_part0_label] .</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite][damaged_past][RECIPIENT_definite] [recipient_part0_label], [flavortext_consequence].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite][skillDescMelee][damaged_past][RECIPIENT_definite] [recipient_part0_label].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite][skillDescMelee][strikeAdv][damaged_past][RECIPIENT_definite] [recipient_part0_label].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite][destroyed_past][RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite][destroyed_past][RECIPIENT_definite] [destroyed_targets][destroyed_suffix].</li>
+		<li>r_logentry(p=0.4)->[INITIATOR_definite] dùng [implement][destroyed_past][RECIPIENT_definite] [destroyed_targets].</li>
+		<li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite] dùng [implement][damaged_past][RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite] dùng [implement][skillAdv][damaged_past][RECIPIENT_definite].</li>
+		<li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present][RECIPIENT_possessive][destroyed_targets]</li>
+		<li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present][RECIPIENT_possessive][damaged_targets]</li>
+		<li>result(p=1)->[destroyed_present][RECIPIENT_possessive][destroyed_targets] và [damaged_present][RECIPIENT_possessive][damaged_targets]</li>
+		<li>action(p=1.0)->[INITIATOR_definite] dùng [implement][damaged_past][RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite][damaged_past][RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite][skillDescMelee][damaged_past][RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement] [damaged_inf] tấn công [RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement] [damaged_inf][skillDescMelee]tấn công [RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement][damaged_inf][RECIPIENT_definite]</li>
+		<li>action(p=0.3)->[INITIATOR_definite] dùng [implement][skillAdv][damaged_inf][RECIPIENT_definite]</li>
+	</Combat_Hit.rulePack.rulesStrings>
+	<Combat_Miss.rulePack.rulesStrings>
+		<li>r_logentry(p=0.3)->[RECIPIENT_definite] lách khỏi [INITIATOR_definite] dùng [WEAPON_label] [damaged_inf].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] dùng [implement] sử dụng [damaged_inf] không trúng [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] thử dùng [implement][damaged_inf][RECIPIENT_definite], nhưng [failtype].</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] cố gắng [damaged_inf][RECIPIENT_definite], nhưng [failtype]</li>
+		<li>r_logentry(p=0.3)->[INITIATOR_definite] muốn [skillAdvMaybe][damaged_inf][RECIPIENT_definite], nhưng [failtype].</li>
+		<li>skillAdvMaybe-></li>
+		<li>skillAdvMaybe->[skillAdv]</li>
+		<li>failtype(p=5)->Đánh trượt</li>
+		<li>failtype->Mất thăng bằng</li>
+		<li>failtype->Vấp ngã</li>
+		<li>failtype->Ngã xuống</li>
+		<li>failtype->Chân bị trượt</li>
+		<li>result(p=4)-> nhưng đã đánh trượt</li>
+		<li>result-> nhưng chỉ trúng không khí</li>
+		<li>result-> nhưng cú vung quá lớn</li>
+		<li>result-> nhưng cuối cùng đã mất thăng bằng</li>
+		<li>result(initiator_flesh!=Mechanoid)-> nhưng cuối cùng lại do dự</li>
+	</Combat_Miss.rulePack.rulesStrings>
+</LanguageData>

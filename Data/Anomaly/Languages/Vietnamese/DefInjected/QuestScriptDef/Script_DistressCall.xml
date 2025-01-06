@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;Bạn nhận được tín hiệu cầu cứu từ một trại [faction_name] gần đó.\n\nNgười bên kia cầu xin cứu trợ bằng giọng điệu gần như điên cuồng, hy vọng có ai đó đến giúp họ chống lại mối đe dọa. Họ sẵn sàng đưa ra mọi thứ trong trại như một sự trao đổi, bao gồm cả những mảnh vụn siêu phàm tối tăm mới được phát hiện.\n\nKhi người cầu cứu cố gắng giải thích về bản chất của mối đe dọa, tín hiệu đã bị ngắt.</li>
+	</OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+	<OpportunitySite_DistressCall.questNameRules.rulesStrings>
+		<li>questName-&gt;Tín hiệu cầu cứu</li>
+	</OpportunitySite_DistressCall.questNameRules.rulesStrings>
+</LanguageData>

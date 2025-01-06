@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CallLaborerGang.label>Gọi đội công nhân</CallLaborerGang.label>
+<CallLaborerGang.description>Gọi một đội (8 người) công nhân đến làm việc cho bạn trong 4 ngày. Những công nhân này chỉ có thể hoàn thành các nhiệm vụ lao động thông thường, bạn có thể kiểm soát họ như những người định cư bình thường, và trong thời gian này bạn cần đảm bảo an toàn cho họ.</CallLaborerGang.description>
+<CallLaborerTeam.label>Gọi đội lao động</CallLaborerTeam.label>
+<CallLaborerTeam.description>Gọi một đội (4 người) công nhân đến làm việc cho bạn trong 4 ngày. Những công nhân này chỉ có thể hoàn thành các nhiệm vụ lao động thông thường, bạn có thể kiểm soát họ như những người định cư bình thường, và trong thời gian này bạn cần đảm bảo an toàn cho họ.</CallLaborerTeam.description>
+<CallMilitaryAidGrand.label>Gọi đội kỵ sĩ bảo vệ</CallMilitaryAidGrand.label>
+<CallMilitaryAidGrand.description>Gọi một đội (4 người) kỵ sĩ bảo vệ để hỗ trợ bạn trong trận chiến.</CallMilitaryAidGrand.description>
+<CallMilitaryAidLarge.label>Gọi đội vệ binh hoàng gia</CallMilitaryAidLarge.label>
+<CallMilitaryAidLarge.description>Gọi một đội (4 người) vệ binh hoàng gia để hỗ trợ bạn trong trận chiến.</CallMilitaryAidLarge.description>
+<CallMilitaryAidSmall.label>Gọi đội chiến sĩ</CallMilitaryAidSmall.label>
+<CallMilitaryAidSmall.description>Gọi một đội (4 người) chiến sĩ để hỗ trợ bạn trong trận chiến.</CallMilitaryAidSmall.description>
+<CallOrbitalSalvo.label>Gọi không kích</CallOrbitalSalvo.label>
+<CallOrbitalSalvo.description>Thực hiện một loạt các cuộc không kích quanh một vị trí.</CallOrbitalSalvo.description>
+<CallOrbitalStrike.label>Gọi bom không quân</CallOrbitalStrike.label>
+<CallOrbitalStrike.description>Thực hiện một cuộc không kích đơn lẻ quanh vị trí mục tiêu.</CallOrbitalStrike.description>
+<CallTransportShuttle.label>Gọi tàu vận chuyển</CallTransportShuttle.label>
+<CallTransportShuttle.description>Gọi một tàu vận chuyển để sử dụng cho bạn. Nó có thể vận chuyển định cư, vật phẩm và động vật đến bất kỳ nơi nào bạn muốn (trong vòng 70 ô).</CallTransportShuttle.description>
+<FoodDrop.label>Thả đồ ăn</FoodDrop.label>
+<FoodDrop.description>Gọi một thùng hàng chứa 20 gói thực phẩm sinh tồn.</FoodDrop.description>
+<GlitterMedDrop.label>Thả thuốc - Thuốc sáng</GlitterMedDrop.label>
+<GlitterMedDrop.description>Gọi một thùng hàng chứa 5 thuốc sáng.</GlitterMedDrop.description>
+<SilverDrop.label>Thả bạc</SilverDrop.label>
+<SilverDrop.description>Gọi một thùng hàng chứa 500 bạc.</SilverDrop.description>
+<SteelDrop.label>Thả thép</SteelDrop.label>
+<SteelDrop.description>Gọi một thùng hàng chứa 250 thép.</SteelDrop.description>
+<TradeCaravan.label>Thương mại với đoàn thương nhân</TradeCaravan.label>
+<TradeOrbital.label>Thương mại với thương nhân trên quỹ đạo</TradeOrbital.label>
+<TradeSettlement.label>Thương mại với khu định cư</TradeSettlement.label>
+</LanguageData>

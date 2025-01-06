@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_HellsphereCannonGun.label>Đạn pháo địa ngục</Bullet_HellsphereCannonGun.label>
+<Gun_HellsphereCannon.label>Pháo địa ngục</Gun_HellsphereCannon.label>
+<Gun_HellsphereCannon.description>Một máy phát xung năng lượng siêu áp suất, được thiết kế đặc biệt cho công việc công phá thành phố. Pháo địa ngục cần ngắm mục tiêu và nạp năng lượng trong vài giây, sau đó có thể bắn ra một luồng năng lượng mạnh mẽ. Vụ nổ ở nhiệt độ cao có thể làm tan chảy thép và bê tông trong phạm vi, đồng thời đốt cháy mọi vật xung quanh. Không thể bắn vào mục tiêu quá gần.</Gun_HellsphereCannon.description>
+<Gun_HellsphereCannon.tools.barrel.label>Ống pháo</Gun_HellsphereCannon.tools.barrel.label>
+<Gun_HellsphereCannon.verbs.Verb_Shoot.label>Pháo địa ngục</Gun_HellsphereCannon.verbs.Verb_Shoot.label>
+</LanguageData>

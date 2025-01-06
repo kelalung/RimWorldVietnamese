@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AmbientHorror.label>Khung cảnh kinh dị</AmbientHorror.label>
+	<AmbientHorror.description>Không có tảng đá nào được sinh ra. Bất kỳ mối đe dọa nào cũng có thể xuất hiện, nhưng xác suất thấp trong điều kiện mặc định. Nếu bạn muốn chơi DLC hiện tượng nhưng không muốn nội dung quá phổ biến, thì chế độ này rất phù hợp với bạn. Lưu ý: Chọn chế độ này sẽ không thể hoàn thành kết thúc tảng đá.</AmbientHorror.description>
+	<Disabled.label>Vô hiệu hóa sự kiện hiện tượng</Disabled.label>
+	<Disabled.description>Các mối đe dọa hiện tượng sẽ không xuất hiện. Nếu bạn không muốn chơi hầu hết nội dung của DLC hiện tượng, thì chế độ này rất phù hợp với bạn.</Disabled.description>
+	<Standard.label>Tiêu chuẩn</Standard.label>
+	<Standard.description>Trải nghiệm DLC hiện tượng tiêu chuẩn nhất. Tảng đá sẽ được sinh ra bình thường, các mối đe dọa hiện tượng liên quan đến tình trạng kích hoạt của tảng đá.</Standard.description>
+</LanguageData>

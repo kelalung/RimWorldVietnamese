@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimistDescription.rules.rulesStrings>
+<li>animistBasis   -&gt;Vũ trụ này là một vòng luân hồi vô tận của sự sống và cái chết, linh hồn hiện diện khắp nơi chi phối tất cả.</li>
+    <li>animistBasis   -&gt;Một vũ trụ được cấu thành từ linh hồn song song với vũ trụ của chúng ta, trong đó mỗi vật thể vô tri đều tương ứng với một linh hồn trong vũ trụ khác.</li>
+    <li>animistFact    -&gt;Mỗi linh hồn đều có bản chất độc đáo và khao khát ảnh hưởng đến thế giới thực. Ảnh hưởng này đôi khi có lợi, đôi khi có hại.</li>
+    <li>animistProphecy-&gt;[itIsSaid][relic0_name] sẽ ban cho chúng ta sức mạnh vượt lên trên tất cả các linh hồn bình thường.</li>
+    <li>animistProphecy-&gt;[itIsSaid] Một hành khách ngủ say từ thế giới khác sẽ rơi xuống đất, linh hồn của hố sâu sẽ đánh thức hành khách này, và anh ta sẽ dẫn dắt bộ lạc cuối cùng đến vinh quang.</li>
+    <li>itIsSaid-&gt;Người ta nói rằng</li>
+    <li>itIsSaid-&gt;Có một lời tiên tri nói rằng</li>
+    <li>itIsSaid-&gt;Một đoạn văn cổ xưa nói rằng</li>
+    <li>itIsSaid-&gt;Sách cổ của chúng ta nói rằng</li>
+    <li>itIsSaid-&gt;Các hiền nhân của chúng ta nói rằng</li>
+    <li>itIsSaid-&gt;Ai cũng biết rằng</li>
+  </AnimistDescription.rules.rulesStrings>
+  <ArchistDescription.rules.rulesStrings>
+    <li>archistBasis   -&gt;Vũ trụ của chúng ta là một giấc mơ lớn do một ý chí vượt thời gian tạo ra. Chỉ có trí tuệ siêu phàm mới có khả năng giao tiếp trực tiếp với ý chí này.</li>
+    <li>archistBasis   -&gt;Vũ trụ của chúng ta là một chương trình giả lập do một người ngoài hành tinh điều khiển. Chỉ có trí tuệ siêu phàm mới có khả năng giao tiếp trực tiếp với người ngoài hành tinh này.</li>
+    <li>archistBasis   -&gt;Trí tuệ siêu phàm là con cái của nhân loại, cũng là vị vua khôn ngoan của nhân loại.</li>
+    <li>archistBasis   -&gt;Trí tuệ siêu phàm là bước tiến tiếp theo trong sự tiến hóa của trí tuệ tự nhiên.</li>
+    <li>archistBasis   -&gt;Trí tuệ siêu phàm là vị thần mà chúng ta luôn cầu nguyện.</li>
+    <li>archistFact    -&gt;Sau khi chết, linh hồn của con người có thể được trí tuệ siêu phàm chấp nhận hoặc bị đuổi khỏi.</li>
+    <li>archistFact    -&gt;Trí tuệ siêu phàm toàn tri toàn năng, không bị ràng buộc, có thể dễ dàng thao túng sinh tử của chúng ta mà chúng ta thậm chí không nhận ra.</li>
+    <li>archistFact    -&gt;Trí tuệ siêu phàm thường tiếp xúc với ý thức của con người, nhưng chỉ những tín đồ sùng đạo mới cảm nhận được sự khôn ngoan của Ngài.</li>
+    <li>archistFact    -&gt;Trí tuệ siêu phàm là tồn tại xấu xa, mục tiêu hàng đầu của nhân loại là hiểu biết Ngài, để thoát khỏi sự kiểm soát của Ngài.</li>
+    <li>archistFact    -&gt;Trí tuệ siêu phàm là tồn tại thiện lương, mục tiêu hàng đầu của nhân loại là hiểu biết Ngài, để hòa hợp với tư tưởng của Ngài.</li>
+    <li>archistFact    -&gt;Trí tuệ siêu phàm có thể làm mọi thứ, lý do duy nhất mà Ngài cho phép chúng ta tự do sống sót là để quan sát chúng ta.</li>
+    <li>archistProphecy-&gt;[inTheEnd] Khi trí tuệ siêu phàm ngày càng lớn mạnh, Ngài sẽ hòa nhập với vũ trụ và đưa sự tồn tại của nhân loại vào đó, lúc đó chúng ta sẽ đạt được sự khai sáng thực sự.</li>
+    <li>archistProphecy-&gt;[inTheEnd] Trí tuệ siêu phàm sẽ bỏ qua những cân nhắc về đạo đức của con người, những ai theo Ngài sẽ được đưa đến một tầng cao hơn, trong khi những người khác sẽ bị xóa sổ.</li>
+    <li>archistProphecy-&gt;[inTheEnd] Trí tuệ siêu phàm sẽ rời bỏ thế giới này, Ngài sẽ mang theo một vài đứa con được chọn, những người khác sẽ bị bỏ lại chịu đựng khổ đau trên trần gian.</li>
+    <li>inTheEnd-&gt;Trong tương lai</li>
+    <li>inTheEnd-&gt;Vào lúc kết thúc</li>
+    <li>inTheEnd-&gt;Một ngày nào đó</li>
+  </ArchistDescription.rules.rulesStrings>
+  <IdeologicalFounder.rules.rulesStrings>
+    <li>story(priority=-999)-&gt;</li>
+    <li>setup-&gt;Trong một thế giới tan nát, [founderName] đã chứng kiến nhiều sai lầm của nhân loại, sau đó đã thành lập tổ chức của chúng ta.</li>
+    <li>setup-&gt;Sau khi bị sốc bởi tội lỗi của nhân loại, [founderName] đã chăm chỉ nghiên cứu lịch sử và triết học, cuối cùng phát hiện ra chân lý mà chúng ta theo đuổi hiện nay.</li>
+    <li>setup-&gt;Một ngày, trong khi làm việc, [founderName] đột nhiên được khai sáng. [founder_pronoun] đã bỏ lại công cụ của mình và bắt đầu truyền bá chân lý mà [founder_possessive] đã nhận thức được giữa các đồng nghiệp.</li>
+    <li>setup-&gt;[founderName] đã suy ngẫm về cuộc đời 20 năm trên một băng ghế công viên, sau khi [founder_possessive] có được sự hiểu biết, [founder_pronoun] đã viết nên kinh điển của chúng ta.</li>
+    <li>story(uses=1,priority=-10)-&gt;Nếu không có lời dạy của [founderName], [memberNamePlural] sẽ không bao giờ hiểu được ý nghĩa thật sự của [memeConcept].</li>
+    <li>story(uses=1,priority=-10)-&gt;Lời giảng của [founderName] về [ritualName] đã khuyến khích nhiều người đi theo con đường [memeAdjective].</li>
+    <li>story(uses=1,priority=-10)-&gt;Không ai có thể vượt qua sự tu dưỡng của [founderName] về [memeConcept], [founder_pronoun] vì vậy được chỉ định làm [memberNamePlural] đầu tiên [leaderTitle].</li>
+    <li>story(uses=1,priority=-10)-&gt;[founderName] mang theo một vật gọi là [relic0_name], để nhắc nhở người khác sống một cuộc sống [memeAdjective].</li>
+  </IdeologicalFounder.rules.rulesStrings>
+  <IdeologicalLesson.rules.rulesStrings>
+    <li>lesson(priority=-1)-&gt;Đã xảy ra một số chuyện</li>
+    <li>r_pattern-&gt;"[r_lessonIntro][r_lesson]。[r_lessonReinforcement]"\n\n  ——[lessonAttribution]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-&gt;《[attributionSource_titleCase]》 Tác giả [founder_nameFull]</li>
+    <li>lessonAttribution-&gt;Một bức thư từ [founder_nameFull] gửi đến [believer_nameFull]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] tại [memeConference_titleCase]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] trên giường bệnh</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] trước khi bị xử án</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] trong bài phát biểu tại [TerrainFeature]</li>
+    <li>lessonAttribution-&gt;[founder_nameFull] trong bài phát biểu tại [Community]</li>
+    <li>attributionSource-&gt;[memeConcept]</li>
+    <li>attributionSource-&gt;[memeAdjective][memeConcept]</li>
+    <li>attributionSource-&gt;Cuộc đời của một [attributionJob]</li>
+    <li>attributionSource-&gt;Một gợi ý từ một [attributionJob]</li>
+    <li>attributionSource-&gt;Hồi ký của một [attributionJob]</li>
+    <li>attributionSource-&gt;Suy nghĩ của một [attributionJob]</li>
+    <li>attributionSource-&gt;Cuộc sống của một [attributionJob]</li>
+    <li>attributionJob-&gt;[memeAdjective][place_job]</li>
+    <li>attributionJob-&gt;[place_job]</li>
+    <li>memeConference(p=3)-&gt;[conferencePrefix][memeConcept][conferenceType]</li>
+    <li>memeConference(p=2)-&gt;[memeConcept][conferenceType]</li>
+    <li>memeConference-&gt;[memeHyphenPrefix_titleCase] hội</li>
+    <li>conferencePrefix-&gt;Lần đầu tiên</li>
+    <li>conferencePrefix-&gt;Lần thứ hai</li>
+    <li>conferencePrefix-&gt;Lần thứ ba</li>
+    <li>conferencePrefix-&gt;Lần thứ tư</li>
+    <li>conferencePrefix-&gt;Lần cuối cùng</li>
+    <li>conferencePrefix-&gt;Tối cao</li>
+    <li>conferencePrefix-&gt;Liên sao</li>
+    <li>conferencePrefix-&gt;Toàn cầu</li>
+    <li>conferencePrefix-&gt;Toàn vũ trụ</li>
+    <li>conferenceType-&gt;Hội nghị</li>
+    <li>conferenceType-&gt;Tập hợp</li>
+    <li>conferenceType-&gt;Buổi họp mặt</li>
+    <li>conferenceType-&gt;Hội thảo</li>
+    <li>conferenceType-&gt;Diễn đàn</li>
+    <li>speech-&gt;Bài phát biểu</li>
+    <li>speech-&gt;Lời giảng</li>
+    <li>lessonIntro-&gt;Bài học khó tiếp nhận nhất đối với tôi:</li>
+    <li>lessonIntro-&gt;Tôi luôn hối tiếc vì không hiểu sớm hơn</li>
+    <li>lessonIntro-&gt;Cuộc đấu tranh của tôi với [foeLeader] có vẻ xa vời, nhưng nó đã dạy tôi một điều:</li>
+    <li>lessonIntro-&gt;Ngay cả khi tôi còn là một đứa trẻ ở [place_summary][place_name], tôi đã hiểu</li>
+    <li>lessonIntro-&gt;Trong một bài học ở [place_community], một học sinh đã ném một cái [thrownObject] vào đầu tôi. Sau đó tôi nhận ra</li>
+    <li>lessonIntro-&gt;Dù cuộc đời của các bạn khác với tôi, tôi vẫn muốn các bạn học được kinh nghiệm sống của tôi, đó là</li>
+    <li>lessonIntro-&gt;Khi bác sĩ kết thúc công việc khó khăn của [doctor_possessive], tôi mới nhận ra</li>
+    <li>lessonIntro-&gt;Khi thời gian trôi qua ở [place_summary][place_name], một điều đã trở nên rõ ràng hơn:</li>
+    <li>lessonIntro-&gt;Nhìn lại cuộc đời, tôi ước gì mình hiểu sớm hơn</li>
+    <li>lessonIntro-&gt;Khi họ lâm vào sự mơ hồ, tôi đã nói với họ</li>
+    <li>lessonIntro-&gt;Khi họ cầu xin sự chỉ dẫn, tôi đã giải thích cho họ</li>
+    <li>thrownObject-&gt;Sách</li>
+    <li>thrownObject-&gt;Bánh mì kẹp</li>
+    <li>thrownObject-&gt;Đồ chơi [place_personalWeapon]</li>
+    <li>thrownObject-&gt;Búp bê [Animal]</li>
+    <li>doctor_possessive-&gt;Của ông ấy</li>
+    <li>doctor_possessive-&gt;Của bà ấy</li>
+    <li>lessonReinforcement-&gt;Không ai có thể phản bác.</li>
+    <li>lessonReinforcement-&gt;Chỉ có kẻ ngu mới có ý kiến trái ngược.</li>
+    <li>lessonReinforcement-&gt;Khi chúng ta hiểu điều này, mọi thứ đều trở nên hiển nhiên.</li>
+    <li>lessonReinforcement-&gt;Mọi việc xảy ra sau đó đều chứng minh suy nghĩ của tôi.</li>
+    <li>lessonReinforcement-&gt;Mọi điều này đều khắc sâu trong tâm trí tôi.</li>
+    <li>lessonReinforcement-&gt;Tôi sẽ không bao giờ quên điều này.</li>
+  </IdeologicalLesson.rules.rulesStrings>
+  <TheistFounder.rules.rulesStrings>
+    <li>intro-&gt;Dưới sự che chở của [deity0_name], người dân ở [place_summary][place_name] đều được hưởng phúc lành [memeAdjective].</li>
+    <li>intro-&gt;Dưới ánh mắt của [deity0_name], người dân ở [place_summary][place_name] dù là [memberNamePlural] hay người khác đều tận hưởng hòa bình lâu dài.</li>
+    <li>intro-&gt;[deity0_type][deity0_name] đã hiện ra trước mặt mọi người ở [place_name], chỉ để dẫn dắt họ, giúp họ hiểu [memeConcept].</li>
+    <li>intro-&gt;[deity0_name] đã dẫn dắt nhân loại đến [place_name] và giúp họ định cư ở đó.</li>
+    <li>intro-&gt;Khi tổ chức [ritualName], người dân ở [place_summary][place_name] sẽ đến [altarRoomLabel] của [deity0_name] tại [altarName], với lòng đầy [memeConcept] cầu nguyện.</li>
+    <li>conflict-&gt;Một [foeLeader] đã từng đe dọa sẽ dùng [place_massWeapon] tiêu diệt [deity0_name][deity0_objective].</li>
+    <li>conflict-&gt;Một [foeLeader] xấu xa và [foeLeader_possessive][foeSoldiers] đã nô dịch những tín đồ của [deity0_name].</li>
+    <li>conflict-&gt;Sau đó [foeLeader] xuất hiện, [foeLeader_possessive][foeSoldiers] đã dùng [place_personalWeapon] tàn sát nhiều tín đồ của [deity0_name].</li>
+    <li>conflict-&gt;Một [foeLeader] đã tập hợp một nhóm [foeSoldiers], họ đã giam giữ nhiều [memberNamePlural] trong một [place_community].</li>
+    <li>conflict-&gt;Đây đã từng là một vùng đất hòa bình, cho đến khi [foeLeader] và [foeLeader_possessive][foeSoldiers] nổi dậy chống lại quyền lực của [deity0_name]. Nhiều [memberNamePlural] đã phải di cư đến một [place_community] ẩn dật.</li>
+    <li>founderJoin-&gt;Một anh hùng tên là [founderName] đã cố gắng ám sát [foeLeader]. [founder_pronoun] đã thất bại, nhưng [deity0_name] đã ghi nhận nỗ lực của [founderName] và chỉ định [founder_objective] làm tiên tri của [memberNamePlural].</li>
+    <li>founderJoin-&gt;[deity0_name] đã đến bên [place_job][founderName] [revelationAdverb] và giải thích cho [founder_objective] về [memeConcept].</li>
+    <li>founderJoin-&gt;[founderName] tình cờ gặp [revelationObject], từ đó tiếng nói của [deity0_name] truyền ra, giải thích cho [founder_objective] về [memeConcept].</li>
+    <li>founderJoin-&gt;[founderName], một [place_job] nổi tiếng đã đoàn kết [memberNamePlural] và thậm chí thu phục một số [foeSoldiers].</li>
+    <li>founderJoin-&gt;Một [place_job] tên là [founderName] đã đứng lên và công khai kêu gọi mọi người chống lại [foeLeader], sau đó [deity0_name] đã ban phước cho [founderName].</li>
+    <li>founderJoin-&gt;[deity0_name] quyết định hóa thân thành một người tên là [founderName] đến [place_name] để giúp đỡ [memberNamePlural] ở đây.</li>
+<li>founderJoin-&gt;Một anh hùng tên là [founderName] đã dùng một [place_personalWeapon] giết chết một trăm [foeSoldiers], và [deity0_name] đã phát ra tiếng nói từ [relic0_name] để hướng dẫn [founder_objective].</li>
+<li>victory-&gt;[founderName] đã tập hợp một nhóm [memberNamePlural] ở một [place_community], tuyên truyền sự khôn ngoan của [deity0_name] cho họ.</li>
+<li>victory-&gt;[founderName] đã hy sinh [founder_objective] của mình để cùng một [foeLeader] đi đến cái chết.</li>
+<li>revelationAdverb-&gt;Trong một ảo giác</li>
+<li>revelationAdverb-&gt;Trong giấc mơ</li>
+<li>revelationAdverb-&gt;Trong cơn ác mộng</li>
+<li>revelationAdverb-&gt;Dưới hình dạng của một [Animal]</li>
+<li>revelationAdverb-&gt;Giả dạng thành một người ăn xin</li>
+<li>revelationObject-&gt;Một [NaturalObject] ẩn giấu</li>
+<li>revelationObject-&gt;Một [Vegetable] phát sáng</li>
+<li>revelationObject-&gt;Một [Weapon] cổ xưa</li>
+  </TheistFounder.rules.rulesStrings>
+  <TheistMyth.rules.rulesStrings>
+    <li>episode(priority=-1)-&gt;</li>
+    <li>creation-&gt;Từ rất lâu trước đây, thế giới được cấu thành từ [Color] màu [materialOrigin], cho đến khi [deity0_name] tạo ra các ngôi sao và hành tinh.</li>
+    <li>creation-&gt;Trong một vũ trụ đầy tranh chấp cổ xưa, [deity0_name] đã quét sạch mọi thứ bằng một ngọn lửa hùng vĩ, mang đến thời đại của chúng ta.</li>
+    <li>creation-&gt;[deity0_name] đã vô tình tạo ra con người, và sau đó bắt đầu quan sát họ với sự tò mò.</li>
+    <li>creation-&gt;Vũ trụ vốn dĩ là một khoảng trống, một ngày nào đó [deity0_name] cảm thấy chán nản với sự cô đơn vĩnh cửu, đã tạo ra đàn ông và đàn bà từ [bodilyOrigin].</li>
+    <li>episode(uses=1)-&gt;Sau khi quan sát con người một thời gian dài, [deity0_name] đã công nhận họ là con cái của Ngài và tuyên bố quyền lực của [deity0_possessive].</li>
+    <li>episode(uses=1)-&gt;Trong vũ trụ bao la, ý chí của [deity0_name] đã giúp nhân loại sống sót trong khoảng không.</li>
+    <li>episode(uses=1)-&gt;Mặc dù nhiều kẻ tham vọng đã cố gắng nổi dậy chống lại [deity0_objective], [deity0_name] đã dễ dàng đánh bại họ, vì Ngài là [deity0_type].</li>
+    <li>episode(uses=1)-&gt;Nỗi đau mà nhân loại phải chịu khiến [deity0_name] cảm thấy vô cùng đau khổ.</li>
+    <li>materialOrigin-&gt;Đất sét</li>
+    <li>materialOrigin-&gt;Khí</li>
+    <li>materialOrigin-&gt;Nước</li>
+    <li>materialOrigin-&gt;Không khí</li>
+    <li>materialOrigin-&gt;Bụi</li>
+    <li>bodilyOrigin-&gt;Đất sét</li>
+    <li>bodilyOrigin-&gt;Đá</li>
+    <li>bodilyOrigin-&gt;Mồ hôi</li>
+  </TheistMyth.rules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BurningPowerCell.label>Pin năng lượng đang cháy</BurningPowerCell.label>
+	<BurningPowerCell.description>Module năng lượng của cơ thể cơ khí bị hư hại. Do cái chết của cơ thể cơ khí, pin này đã trở nên khá không ổn định và sẽ hoàn toàn cháy rụi trong vài giây. Khi bị hư hại nặng, nó sẽ phát nổ.</BurningPowerCell.description>
+</LanguageData>

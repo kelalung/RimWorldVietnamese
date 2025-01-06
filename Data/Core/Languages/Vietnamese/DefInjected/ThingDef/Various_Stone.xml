@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <BlocksGranite.label>Gạch granite</BlocksGranite.label>
+<BlocksGranite.description>Gạch granite chắc chắn. Granite là một loại đá rất cứng.</BlocksGranite.description>
+<BlocksGranite.stuffProps.stuffAdjective>Granite</BlocksGranite.stuffProps.stuffAdjective>
+<BlocksLimestone.label>Gạch đá vôi</BlocksLimestone.label>
+<BlocksLimestone.description>Gạch đá vôi chắc chắn.</BlocksLimestone.description>
+<BlocksLimestone.stuffProps.stuffAdjective>Đá vôi</BlocksLimestone.stuffProps.stuffAdjective>
+<BlocksMarble.label>Gạch đá cẩm thạch</BlocksMarble.label>
+<BlocksMarble.description>Gạch đá cẩm thạch chắc chắn. Đá cẩm thạch là một loại đá mềm hơn, đẹp và nổi tiếng vì dễ điêu khắc.</BlocksMarble.description>
+<BlocksMarble.stuffProps.stuffAdjective>Đá cẩm thạch</BlocksMarble.stuffProps.stuffAdjective>
+<BlocksSandstone.label>Gạch sa thạch</BlocksSandstone.label>
+<BlocksSandstone.description>Gạch sa thạch chắc chắn. Sa thạch là một loại đá tương đối mềm và dễ vỡ.</BlocksSandstone.description>
+<BlocksSandstone.stuffProps.stuffAdjective>Sa thạch</BlocksSandstone.stuffProps.stuffAdjective>
+<BlocksSlate.label>Gạch phiến</BlocksSlate.label>
+<BlocksSlate.description>Gạch phiến chắc chắn. Phiến là một loại đá dễ vỡ với bề ngoài bình thường.</BlocksSlate.description>
+<BlocksSlate.stuffProps.stuffAdjective>Phiến</BlocksSlate.stuffProps.stuffAdjective>
+<ChunkGranite.label>Khối granite</ChunkGranite.label>
+<ChunkGranite.description>Một khối đá có thể được cắt thành các viên gạch có thể sử dụng.</ChunkGranite.description>
+<ChunkLimestone.label>Khối đá vôi</ChunkLimestone.label>
+<ChunkLimestone.description>Một khối đá có thể được cắt thành các viên gạch có thể sử dụng.</ChunkLimestone.description>
+<ChunkMarble.label>Khối đá cẩm thạch</ChunkMarble.label>
+<ChunkMarble.description>Một khối đá có thể được cắt thành các viên gạch có thể sử dụng.</ChunkMarble.description>
+<ChunkSandstone.label>Khối sa thạch</ChunkSandstone.label>
+<ChunkSandstone.description>Một khối đá có thể được cắt thành các viên gạch có thể sử dụng.</ChunkSandstone.description>
+<ChunkSlagSteel.label>Khối thép xỉ</ChunkSlagSteel.label>
+<ChunkSlagSteel.description>Một khối xỉ thép. Mặc dù hình dạng hiện tại của nó không có giá trị, nhưng có thể được tái chế thành thép bằng cách nấu chảy.</ChunkSlagSteel.description>
+<ChunkSlate.label>Khối phiến</ChunkSlate.label>
+<ChunkSlate.description>Một khối đá có thể được cắt thành các viên gạch có thể sử dụng.</ChunkSlate.description>
+<Granite.label>Granite</Granite.label>
+<Granite.description>Một loại đá lửa rất cứng.</Granite.description>
+<Limestone.label>Đá vôi</Limestone.label>
+<Limestone.description>Một loại đá trầm tích hình thành từ các lớp vỏ của động vật biển cổ đại bị nén lại.</Limestone.description>
+<Marble.label>Đá cẩm thạch</Marble.label>
+<Marble.description>Một loại đá biến chất mềm hơn.</Marble.description>
+<Sandstone.label>Sa thạch</Sandstone.label>
+<Sandstone.description>Một loại đá trầm tích hình thành từ các hạt cát bị nén lại.</Sandstone.description>
+<Slate.label>Phiến</Slate.label>
+<Slate.description>Một loại đá biến chất tối màu. Các lớp tinh tế trên đá là đặc điểm của sự phân lớp phiến.</Slate.description>
+<SmoothedGranite.label>Granite nhẵn</SmoothedGranite.label>
+<SmoothedGranite.description>Một loại đá lửa rất cứng. Bề mặt lấp lánh đầy các mảng đen, trắng và hồng.</SmoothedGranite.description>
+<SmoothedLimestone.label>Đá vôi nhẵn</SmoothedLimestone.label>
+<SmoothedLimestone.description>Một loại đá trầm tích hình thành từ các lớp vỏ của động vật biển cổ đại bị nén lại. Nó thể hiện màu trắng mịn với các hoa văn lấp lánh có tạp chất bên trong.</SmoothedLimestone.description>
+<SmoothedMarble.label>Đá cẩm thạch nhẵn</SmoothedMarble.label>
+<SmoothedMarble.description>Một loại đá biến chất mềm hơn. Loại đá trong suốt này gần như khiến người ta nghĩ rằng bên trong nó có thể phát sáng.</SmoothedMarble.description>
+<SmoothedSandstone.label>Sa thạch nhẵn</SmoothedSandstone.label>
+<SmoothedSandstone.description>Một loại đá trầm tích hình thành từ các hạt cát bị nén lại. Bề mặt không đều đã được mài thành phẳng mịn.</SmoothedSandstone.description>
+<SmoothedSlate.label>Phiến nhẵn</SmoothedSlate.label>
+<SmoothedSlate.description>Một loại đá biến chất tối màu. Các lớp tinh tế trên đá là đặc điểm của sự phân lớp phiến. Các lớp bên trong có thể nhìn thấy rõ qua bề mặt được đánh bóng.</SmoothedSlate.description>
+</LanguageData>

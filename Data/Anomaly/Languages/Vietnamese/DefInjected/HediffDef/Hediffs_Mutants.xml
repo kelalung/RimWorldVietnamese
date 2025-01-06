@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AwokenCorpse.label>Xác chết hồi sinh</AwokenCorpse.label>
+	<AwokenCorpse.description>Cấu trúc năng lượng bên trong xác chết này đang bùng nổ. Nó đã bắt đầu đứng dậy và tấn công, sức mạnh và tốc độ ngày càng tăng. Nó sẽ không dừng lại cho đến khi bắt kịp nạn nhân.</AwokenCorpse.description>
+	<AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>Xác chết đang di chuyển nhanh hơn!</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
+	<Ghoul.label>Thây ma</Ghoul.label>
+	<Ghoul.description>Người này đã được cấy ghép các mảnh vụn siêu nhiên tối tăm và sắt sống, bị biến dạng thành một cỗ máy giết chóc đáng sợ. Thân thể của nó là sự pha trộn giữa thịt và kim loại, tâm trí dao động giữa trạng thái nửa tỉnh nửa mê và cơn thèm khát giết chóc.\n\nThây ma không thể làm bất kỳ loại công việc nào, chỉ có thể chiến đấu. Chúng còn có một cơn thèm ăn thịt sống mãnh liệt và phụ thuộc vào nó. Khi chúng cảm thấy đói, sẽ ngay lập tức trở nên thù địch, thậm chí có thể tấn công cả những người đã tạo ra chúng để thỏa mãn cơn thèm ăn của mình.\n\nNhiều người cảm thấy tư thế co giật của thây ma rất kinh hoàng, ngay cả khi chúng không giết người.</Ghoul.description>
+	<GhoulFrenzy.label>Cơn cuồng nộ thây ma</GhoulFrenzy.label>
+	<GhoulFrenzy.description>Sinh vật này tràn đầy hormone, máu sôi sục, có thể bùng nổ sức mạnh di chuyển và tấn công đáng kinh ngạc trong thời gian ngắn.</GhoulFrenzy.description>
+	<MeatHunger.label>Cơn thèm thịt sống</MeatHunger.label>
+	<MeatHunger.description>Sinh vật này cực kỳ thèm ăn thịt sống. Nếu đói đến mức nhất định, có thể biến thành trạng thái thù địch.</MeatHunger.description>
+	<MeatHunger.stages.initial.label>Nhẹ</MeatHunger.stages.initial.label>
+	<MeatHunger.stages.moderate.label>Vừa phải</MeatHunger.stages.moderate.label>
+	<MeatHunger.stages.extreme.label>Nghiêm trọng</MeatHunger.stages.extreme.label>
+	<RapidRegeneration.label>Tái sinh nhanh chóng</RapidRegeneration.label>
+	<RapidRegeneration.description>Sinh vật này chứa đựng năng lượng chữa lành đáng kinh ngạc. Nếu không bị hạn chế, nó có thể tái sinh nhanh chóng cho đến khi năng lượng cạn kiệt.</RapidRegeneration.description>
+	<ResurrectionComa.label>Hôn mê phục sinh</ResurrectionComa.label>
+	<ResurrectionComa.description>Một số bụi xương sống đã hòa cùng với thuốc sinh hóa đang chảy trong mạch máu của sinh vật này.</ResurrectionComa.description>
+	<Rising.label>Biến hình thây ma</Rising.label>
+	<Rising.description>Các vi sinh vật siêu nhiên đang khiến xác chết này "hồi sinh".</Rising.description>
+	<Shambler.label>Thây ma đi lang thang</Shambler.label>
+	<Shambler.description>Các vi sinh vật siêu nhiên đang khiến xác chết này "hồi sinh". Thây ma đi lang thang có hành động chậm chạp, trí óc đơn giản, sẽ tấn công không thương tiếc những sinh vật sống. Sau vài ngày hoặc thậm chí vài giờ đi bộ, thây ma sẽ chết vì suy kiệt trao đổi chất. Do không thể hoạt động, thây ma bị bắt sẽ không chết.</Shambler.description>
+	<ShamblerCorpse.label>Xác thây ma</ShamblerCorpse.label>
+	<ShamblerCorpse.description>Sinh vật này trước đây đã được hồi sinh bởi các vi sinh vật siêu nhiên.</ShamblerCorpse.description>
+	<ShamblerCorpse.renderNodeProperties.0.debugLabel>Vết thương thây ma</ShamblerCorpse.renderNodeProperties.0.debugLabel>
+	<ShamblerCorpse.renderNodeProperties.1.debugLabel>Vết thương thây ma</ShamblerCorpse.renderNodeProperties.1.debugLabel>
+</LanguageData>

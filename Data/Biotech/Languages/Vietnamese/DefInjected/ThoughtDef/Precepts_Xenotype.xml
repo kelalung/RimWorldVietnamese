@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PreferredXenotype.stages.preferred_xenotype.label>Loài ngoài hành tinh được tôn sùng</PreferredXenotype.stages.preferred_xenotype.label>
+	<PreferredXenotype.stages.disliked_xenotype.label>Loài ngoài hành tinh bị ghét bỏ</PreferredXenotype.stages.disliked_xenotype.label>
+	<PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>Thuộc địa có loài ngoài hành tinh được tôn sùng (tất cả)</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+	<PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>Chúng ta đã thành công trong việc xây dựng một thuộc địa chỉ bao gồm những loài ngoài hành tinh xuất sắc và mạnh mẽ.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+	<PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>Thuộc địa có loài ngoài hành tinh bị ghét bỏ (một ít)</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+	<PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>Trong thuộc địa của chúng ta có một số loài ngoài hành tinh khó chịu. Tôi không muốn họ xuất hiện ở đây.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+	<PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>Thuộc địa có loài ngoài hành tinh bị ghét bỏ (nhiều)</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+	<PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>Trong thuộc địa của chúng ta có rất nhiều loài ngoài hành tinh khó chịu. Chúng ta nên đuổi họ đi!</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+	<PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>Thuộc địa có loài ngoài hành tinh bị ghét bỏ (rất nhiều)</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+	<PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>Tôi đang bị bao vây bởi những loài ngoài hành tinh khó chịu đó! Hãy nhanh chóng đuổi họ đi!</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+	<SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>Tôi là loài ngoài hành tinh bị ghét bỏ</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+	<SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>Tôi là một {XENOTYPENAME}. Những người khác ghét tôi, và tôi cũng ghét chính mình.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Util_GenerateSite.root.singleSitePartRules.slateRef>
+		<rulesStrings>
+			<li>root(priority=1,sitePart==ClimateAdjuster)->Một (*Threat) máy điều chỉnh khí hậu có thể điều chỉnh nhiệt độ [temperatureOffset] (/Threat)</li>
+			<li>root(priority=1,sitePart==PsychicDroner)->Một (*Threat) máy phát tâm linh chỉ có hiệu lực với [affectedGender] (/Threat)</li>
+			<li>root(priority=1,sitePart==PsychicSuppressor)->Một (*Threat) máy ức chế tâm linh chỉ có hiệu lực với [affectedGender] (/Threat)</li>
+			<li>root(priority=1,sitePart==WeatherController)->Một (*Threat) thiết bị khí tượng có thể thay đổi thời tiết toàn khu vực thành [weather_label] (/Threat)</li>
+			<li>root(priority=1,sitePart==SmokeSpewer)->Một (*Threat) máy phun khói liên tục phát ra lượng lớn khói (/Threat)</li>
+			<li>root(priority=1,sitePart==SunBlocker)->Một (*Threat) máy tạo bóng tối khiến toàn khu vực chìm trong bóng tối (/Threat)</li>
+			<li>root(priority=1,sitePart==EMIDynamo)->Một (*Threat) máy gây nhiễu điện từ khiến toàn khu vực mất điện (/Threat)</li>
+			<li>root(priority=1,sitePart==ToxicSpewer)->Một (*Threat) máy phát ra lượng lớn khí độc liên tục (/Threat)</li>
+			<li>root(priority=1,sitePart==RaidSource)->Một (*Threat) khu quân sự được bảo vệ bởi [enemiesCount] kẻ thù, họ sẽ tấn công bạn mỗi [mtbDays]</li>
+			<li>root(priority=1,sitePart==Outpost)->Một (*Threat) trạm gác được bảo vệ bởi [enemiesCount] kẻ thù (/Threat)</li>
+			<li>root(priority=1,sitePart==BanditCamp)->Một (*Threat) trại cướp có tổng cộng [enemiesCount] kẻ thù (/Threat)</li>
+			<li>root(priority=1,sitePart==Manhunters,count==1)->Một (*Threat) [kindLabel] chuyên săn người (/Threat)</li>
+			<li>root(priority=1,sitePart==Manhunters,count>1)->Một (*Threat) [count] [kindLabel] chuyên săn người (/Threat)</li>
+			<li>root(priority=1,sitePart==SleepingMechanoids,count==1)->Một (*Threat) 1 máy móc đang trong trạng thái ngủ (/Threat)</li>
+			<li>root(priority=1,sitePart==SleepingMechanoids,count>1)->Một (*Threat) [count] máy móc đang trong trạng thái ngủ (/Threat)</li>
+			<li>root(priority=1,sitePart==Turrets)->Một (*Threat) đội bảo vệ gồm [threatsInfo] (/Threat)</li>
+			<li>root(priority=1,sitePart==AmbushEdge)->Một (*Threat) đội quân phục kích (/Threat)</li>
+			<li>root(priority=1,sitePart==AmbushHidden)->Một (*Threat) đội quân phục kích (/Threat)</li>
+			<li>root(priority=1,sitePart==MechCluster)->Một (*Threat) cụm máy móc (/Threat)</li>
+			<li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->Một (*Threat) mối đe dọa chưa xác định (/Threat)</li>
+			<li>root->Có một [label]</li>
+		</rulesStrings>
+	</Util_GenerateSite.root.singleSitePartRules.slateRef>
+	<Util_MechCluster.questDescriptionRules.rulesStrings>
+		<li>threatDescription->Một cụm máy móc sẽ hạ cánh tại [map_definite]. Bao gồm:\n\n[allThreats]</li>
+	</Util_MechCluster.questDescriptionRules.rulesStrings>
+	<Util_Raid.questDescriptionRules.rulesStrings>
+		<li>threatDescription->[enemyFaction_name] sẽ tấn công bạn với [enemyFaction_pawnsPlural]. Thành phần của họ là:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+	</Util_Raid.questDescriptionRules.rulesStrings>
+	<Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+		<li>pawnKindsParagraph(raidCount==1)->Thành phần của nhóm [enemyFaction_pawnsPlural] này là:\n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
+		<li>pawnKindsParagraph(raidCount==2)->Thành phần của nhóm đầu tiên [enemyFaction_pawnsPlural] là:\n\n[raid0/raidPawnKinds]\n\nMột đội quân tương tự sẽ đến sau.</li>
+		<li>pawnKindsParagraph(raidCount==3)->Thành phần của nhóm đầu tiên [enemyFaction_pawnsPlural] là:\n\n[raid0/raidPawnKinds]\n\nHai đội quân tương tự sẽ đến sau.</li>
+		<li>pawnKindsParagraph(raidCount>=4)->Thành phần của nhóm đầu tiên [enemyFaction_pawnsPlural] là:\n\n[raid0/raidPawnKinds]\n\n[raidCountMinusOne] đội quân tương tự sẽ đến sau.</li>
+		<li>numGroupsOf(raidCount==1)-></li>
+		<li>numGroupsOf(raidCount==2)->Hai đội</li>
+		<li>numGroupsOf(raidCount==3)->Ba đội</li>
+		<li>numGroupsOf(raidCount>=4)->[raidCount] đội</li>
+	</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+</LanguageData>

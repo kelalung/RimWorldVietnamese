@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ImmediateAttackBreaching.arrivalTextEnemy>Họ sẽ ngay lập tức tấn công.\n\nNhững kẻ tấn công này có ý định phá vỡ tường của bạn. Họ sẽ tự quyết định lối vào thuộc địa của bạn và phá hủy bất kỳ thứ gì cản trở họ.</ImmediateAttackBreaching.arrivalTextEnemy>
+	<ImmediateAttackBreaching.arrivalTextFriendly>Họ sẽ ngay lập tức hành động để hỗ trợ.</ImmediateAttackBreaching.arrivalTextFriendly>
+	<ImmediateAttackBreaching.letterLabelEnemy>Tấn công</ImmediateAttackBreaching.letterLabelEnemy>
+	<ImmediateAttackBreaching.letterLabelFriendly>Đồng minh</ImmediateAttackBreaching.letterLabelFriendly>
+	<ImmediateAttackBreachingSmart.arrivalTextEnemy>Họ sẽ ngay lập tức tấn công.\n\nNhững kẻ tấn công này có ý định phá vỡ tường của bạn. Họ sẽ tự quyết định lối vào thuộc địa của bạn và phá hủy bất kỳ thứ gì cản trở họ.\n\nLưu ý: Họ dường như rất thông minh trong việc áp dụng chiến thuật và sẽ cố gắng tránh các tháp canh và bẫy.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+	<ImmediateAttackBreachingSmart.arrivalTextFriendly>Họ sẽ ngay lập tức hành động để hỗ trợ.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+	<ImmediateAttackBreachingSmart.letterLabelEnemy>Tấn công</ImmediateAttackBreachingSmart.letterLabelEnemy>
+	<ImmediateAttackBreachingSmart.letterLabelFriendly>Đồng minh</ImmediateAttackBreachingSmart.letterLabelFriendly>
+</LanguageData>

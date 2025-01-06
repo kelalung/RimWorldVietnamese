@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CreepJoinerArrival.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;Bạn có một đồng minh kỳ quái</li>
+	</CreepJoinerArrival.questDescriptionRules.rulesStrings>
+	<CreepJoinerArrival.questNameRules.rulesStrings>
+		<li>questDescription-&gt;Bạn có một đồng minh kỳ quái</li>
+	</CreepJoinerArrival.questNameRules.rulesStrings>
+	<CreepJoinerArrival_Metalhorror.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;Bạn có một đồng minh kỳ quái</li>
+	</CreepJoinerArrival_Metalhorror.questDescriptionRules.rulesStrings>
+	<CreepJoinerArrival_Metalhorror.questNameRules.rulesStrings>
+		<li>questDescription-&gt;Bạn có một đồng minh kỳ quái</li>
+	</CreepJoinerArrival_Metalhorror.questNameRules.rulesStrings>
+</LanguageData>

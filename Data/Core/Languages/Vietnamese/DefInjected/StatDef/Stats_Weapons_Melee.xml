@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BluntDamageMultiplier.label>Sát thương từ đòn bẩy</BluntDamageMultiplier.label>
+	<BluntDamageMultiplier.description>Hệ số sát thương từ đòn bẩy của các vật phẩm làm từ vật liệu này.</BluntDamageMultiplier.description>
+	<MeleeWeapon_AverageArmorPenetration.label>Xuyên giáp trung bình cận chiến</MeleeWeapon_AverageArmorPenetration.label>
+	<MeleeWeapon_AverageArmorPenetration.description>Tỷ lệ xuyên giáp trung bình của tất cả các đòn tấn công cận chiến.</MeleeWeapon_AverageArmorPenetration.description>
+	<MeleeWeapon_AverageDPS.label>Sát thương mỗi giây cận chiến trung bình</MeleeWeapon_AverageDPS.label>
+	<MeleeWeapon_AverageDPS.description>Sát thương gây ra mỗi giây trong các đòn tấn công cận chiến, trong trường hợp tất cả các đòn tấn công đều trúng.</MeleeWeapon_AverageDPS.description>
+	<MeleeWeapon_CooldownMultiplier.label>Thời gian hồi chiêu cận chiến</MeleeWeapon_CooldownMultiplier.label>
+	<MeleeWeapon_CooldownMultiplier.description>Hệ số thời gian hồi chiêu cho các vật phẩm được làm từ vật liệu này.</MeleeWeapon_CooldownMultiplier.description>
+	<MeleeWeapon_DamageMultiplier.label>Hệ số sát thương cận chiến</MeleeWeapon_DamageMultiplier.label>
+	<MeleeWeapon_DamageMultiplier.description>Hệ số sát thương áp dụng cho các đòn tấn công cận chiến.</MeleeWeapon_DamageMultiplier.description>
+	<SharpDamageMultiplier.label>Sát thương từ vật nhọn</SharpDamageMultiplier.label>
+	<SharpDamageMultiplier.description>Hệ số sát thương từ vật nhọn của các vật phẩm làm từ vật liệu này, chẳng hạn như cắt và đâm.</SharpDamageMultiplier.description>
+</LanguageData>

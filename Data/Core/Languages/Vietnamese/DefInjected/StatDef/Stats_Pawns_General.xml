@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalsLearningFactor.label>Hệ số học tập động vật</AnimalsLearningFactor.label>
+	<AnimalsLearningFactor.description>Hệ số tốc độ học kỹ năng thuần hóa động vật.</AnimalsLearningFactor.description>
+	<BedHungerRateFactor.label>Hệ số tốc độ đói (giường)</BedHungerRateFactor.label>
+	<CaravanRidingSpeedFactor.label>Tốc độ cưỡi khi đi đoàn</CaravanRidingSpeedFactor.label>
+	<CaravanRidingSpeedFactor.description>Khi một người cưỡi sinh vật này trong đoàn đi, hệ số tốc độ di chuyển của nó sẽ được áp dụng. Động vật chỉ có thể được cưỡi trong đoàn đi.</CaravanRidingSpeedFactor.description>
+	<CarryingCapacity.label>Công suất mang theo</CarryingCapacity.label>
+	<CarryingCapacity.description>Số lượng vật phẩm mà sinh vật này có thể mang bằng tay, miệng hoặc các bộ phận khác.\n\nĐiều này tách biệt với khả năng vận chuyển trong đoàn đi.</CarryingCapacity.description>
+	<ComfyTemperatureMax.label>Nhiệt độ thoải mái tối đa</ComfyTemperatureMax.label>
+	<ComfyTemperatureMax.description>Nếu nhiệt độ vượt quá mức này, sinh vật sẽ cảm thấy không thoải mái.\n\nNếu vượt quá mức này đáng kể, nhân vật có thể bị say nắng hoặc thậm chí tử vong.</ComfyTemperatureMax.description>
+	<ComfyTemperatureMin.label>Nhiệt độ thoải mái tối thiểu</ComfyTemperatureMin.label>
+	<ComfyTemperatureMin.description>Nếu nhiệt độ thấp hơn mức này, sinh vật sẽ cảm thấy không thoải mái.\n\nNếu thấp hơn mức này đáng kể, nhân vật có thể bị hạ thân nhiệt, bỏng lạnh hoặc thậm chí tử vong.</ComfyTemperatureMin.description>
+	<CrawlSpeed.label>Tốc độ bò</CrawlSpeed.label>
+	<CrawlSpeed.description>Số ô có thể bò qua mỗi giây. Di chuyển chéo và di chuyển theo chiều ngang hoặc dọc tốn thời gian như nhau.</CrawlSpeed.description>
+	<CrawlSpeed.formatString>{0} ô/giây</CrawlSpeed.formatString>
+	<EatingSpeed.label>Tốc độ ăn</EatingSpeed.label>
+	<EatingSpeed.description>Hệ số tốc độ ăn của người này.</EatingSpeed.description>
+	<!-- <EMPResistance.label>Kháng EMP</EMPResistance.label> -->
+	<!-- <EMPResistance.description>Vật thể này được trang bị lớp bảo vệ đặc biệt và sợi tán xạ va chạm, giúp giảm thời gian bị tê liệt sau khi bị tổn thương bởi EMP.</EMPResistance.description> -->
+	<FilthRate.label>Quy mô bụi bẩn</FilthRate.label>
+	<FilthRate.description>Số lượng bụi bẩn mà sinh vật này có thể tạo ra.\n\nTốt nhất là đặt động vật tạo bụi bẩn ở ngoài trời hoặc trên thảm cỏ, để bụi bẩn của chúng không trở thành vấn đề.</FilthRate.description>
+	<ForagedNutritionPerDay.label>Năng lực tìm kiếm thức ăn mỗi ngày</ForagedNutritionPerDay.label>
+	<ForagedNutritionPerDay.description>Số lượng dinh dưỡng mà người này tự động tìm kiếm được mỗi ngày khi đi xa.</ForagedNutritionPerDay.description>
+	<GlobalLearningFactor.label>Hệ số học tập toàn cầu</GlobalLearningFactor.label>
+	<GlobalLearningFactor.description>Hệ số toàn cầu ảnh hưởng đến hiệu quả học tập của tất cả các kỹ năng.</GlobalLearningFactor.description>
+	<ImmunityGainSpeed.label>Tốc độ miễn dịch</ImmunityGainSpeed.label>
+	<ImmunityGainSpeed.description>Tốc độ mà người này phát triển miễn dịch đối với bệnh tật.\n\nNếu tốc độ quá chậm, nhân vật có thể chết vì bệnh trước khi có được miễn dịch.</ImmunityGainSpeed.description>
+	<InjuryHealingFactor.label>Hệ số hồi phục chấn thương</InjuryHealingFactor.label>
+	<InjuryHealingFactor.description>Hệ số tác động đến tốc độ hồi phục sức khỏe sau khi bị thương.</InjuryHealingFactor.description>
+	<JoyFallRateFactor.label>Hệ số tốc độ giảm giá trị giải trí</JoyFallRateFactor.label>
+	<JoyFallRateFactor.description>Hệ số tốc độ giảm giá trị giải trí của một người.</JoyFallRateFactor.description>
+	<LeatherAmount.label>Số lượng da</LeatherAmount.label>
+	<LeatherAmount.description>Số lượng da có thể thu được khi giết con vật này. Nếu con vật không bị giết sạch sẽ, hoặc bị thương khi bị giết, giá trị này sẽ giảm.</LeatherAmount.description>
+	<LifespanFactor.label>Hệ số tuổi thọ</LifespanFactor.label>
+	<LifespanFactor.description>Hệ số tuổi thọ thay đổi tuổi thọ hiệu quả của sinh vật, rút ngắn hoặc kéo dài thời gian mà chúng phát triển các bệnh liên quan đến tuổi tác. Hệ số tuổi thọ vượt quá 100% sẽ trì hoãn sự xuất hiện của bệnh và tăng tổng tuổi thọ, trong khi hệ số tuổi thọ dưới 100% sẽ tăng tốc sự xuất hiện của bệnh và giảm tuổi thọ.</LifespanFactor.description>
+	<MaxNutrition.label>Nhu cầu dinh dưỡng tối đa</MaxNutrition.label>
+	<MaxNutrition.description>Số lượng dinh dưỡng cần thiết để làm đầy hoàn toàn dạ dày của sinh vật này.</MaxNutrition.description>
+	<MeatAmount.label>Số lượng thịt</MeatAmount.label>
+	<MeatAmount.description>Số lượng thịt có thể thu được khi giết con vật này. Nếu con vật không bị giết sạch sẽ, hoặc bị thương khi bị giết, giá trị này sẽ giảm.</MeatAmount.description>
+	<!-- <MeditationFocusGain.label>Hiệu quả thiền</MeditationFocusGain.label> -->
+	<!-- <MeditationFocusGain.description>Số lượng tâm lực mà người này có thể thu được khi thiền trong một ngày. Bỏ qua các bổ sung từ vật trung gian.</MeditationFocusGain.description> -->
+	<!-- <MeditationFocusGain.formatString>{0}/ngày</MeditationFocusGain.formatString> -->
+	<!-- <MeditationFocusGain.formatStringUnfinalized>{0}/ngày</MeditationFocusGain.formatStringUnfinalized> -->
+	<MentalBreakThreshold.label>Ngưỡng sụp đổ tinh thần</MentalBreakThreshold.label>
+	<MentalBreakThreshold.description>Khi tâm trạng của người này thấp hơn giá trị này, sẽ có nguy cơ sụp đổ tinh thần.\n\nMức độ nghiêm trọng của sụp đổ tinh thần phụ thuộc vào mức độ thấp hơn ngưỡng.</MentalBreakThreshold.description>
+	<MinimumHandlingSkill.label>Kỹ năng thuần hóa tối thiểu</MinimumHandlingSkill.label>
+	<MinimumHandlingSkill.description>Nếu kỹ năng thuần hóa thấp hơn yêu cầu của sinh vật này, sẽ không thể thuần hóa, huấn luyện hoặc ra lệnh cho sinh vật này.</MinimumHandlingSkill.description>
+	<MoveSpeed.label>Tốc độ di chuyển</MoveSpeed.label>
+	<MoveSpeed.description>Số ô có thể di chuyển qua mỗi giây. Di chuyển chéo và di chuyển theo chiều ngang hoặc dọc tốn thời gian như nhau.</MoveSpeed.description>
+	<MoveSpeed.formatString>{0} ô/giây</MoveSpeed.formatString>
+	<PainShockThreshold.label>Ngưỡng sốc đau đớn</PainShockThreshold.label>
+	<PainShockThreshold.description>Điểm số mà sinh vật này sẽ ngã xuống do đau đớn.</PainShockThreshold.description>
+	<!-- <PsychicEntropyMax.label>Ngưỡng entropy tâm linh</PsychicEntropyMax.label> -->
+	<!-- <PsychicEntropyMax.description>Giá trị entropy tâm linh tối đa mà sinh vật này có thể chịu đựng một cách an toàn.</PsychicEntropyMax.description> -->
+	<!-- <PsychicEntropyRecoveryRate.label>Tốc độ hồi phục entropy tâm linh</PsychicEntropyRecoveryRate.label> -->
+	<!-- <PsychicEntropyRecoveryRate.description>Tốc độ giảm entropy tâm linh của sinh vật này.</PsychicEntropyRecoveryRate.description> -->
+	<!-- <PsychicEntropyRecoveryRate.formatString>{0}/giây</PsychicEntropyRecoveryRate.formatString> -->
+	<PsychicSensitivity.label>Độ nhạy cảm tâm linh</PsychicSensitivity.label>
+	<PsychicSensitivity.description>Những người có độ nhạy cảm cao sẽ bị ảnh hưởng nhiều hơn bởi những cảm xúc tích cực hoặc tiêu cực. Độ nhạy cảm tâm linh cao cũng sẽ tăng giới hạn ngưỡng entropy tâm linh.</PsychicSensitivity.description>
+	<RestFallRateFactor.label>Hệ số tốc độ giảm giá trị nghỉ ngơi</RestFallRateFactor.label>
+	<RestFallRateFactor.description>Hệ số tốc độ giảm giá trị nghỉ ngơi của một người.</RestFallRateFactor.description>
+	<RestRateMultiplier.label>Hệ số hiệu quả nghỉ ngơi</RestRateMultiplier.label>
+	<RestRateMultiplier.description>Hệ số tốc độ phục hồi năng lượng của sinh vật.</RestRateMultiplier.description>
+	<ToxicEnvironmentResistance.label>Kháng môi trường độc hại</ToxicEnvironmentResistance.label>
+	<ToxicEnvironmentResistance.description>Khả năng chịu đựng của sinh vật này đối với môi trường độc hại.</ToxicEnvironmentResistance.description>
+	<ToxicResistance.label>Kháng độc tố</ToxicResistance.label>
+	<ToxicResistance.description>Khả năng của sinh vật này để chống lại trạng thái ngộ độc.</ToxicResistance.description>
+</LanguageData>

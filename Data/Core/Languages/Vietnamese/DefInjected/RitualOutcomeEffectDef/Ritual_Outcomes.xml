@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttendedSpeech.description>Người tham gia sẽ nhận được giá trị tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày, tùy thuộc vào hiệu quả của buổi lễ.</AttendedSpeech.description>
+	<AttendedSpeech.comps.0.label>Hiệu ứng xã hội của {PAWN_labelShort}</AttendedSpeech.comps.0.label>
+	<AttendedSpeech.comps.0.labelAbstract>Hiệu ứng xã hội của người phát biểu</AttendedSpeech.comps.0.labelAbstract>
+	<AttendedSpeech.comps.1.label>Số lượng người tham gia</AttendedSpeech.comps.1.label>
+	<AttendedSpeech.comps.2.label>Cảm nhận của căn phòng</AttendedSpeech.comps.2.label>
+	<AttendedSpeech.outcomeChances.0.label>Kém</AttendedSpeech.outcomeChances.0.label>
+	<AttendedSpeech.outcomeChances.1.label>Thường thường</AttendedSpeech.outcomeChances.1.label>
+	<AttendedSpeech.outcomeChances.2.label>Truyền cảm hứng</AttendedSpeech.outcomeChances.2.label>
+	<AttendedSpeech.outcomeChances.3.label>Thú vị</AttendedSpeech.outcomeChances.3.label>
+</LanguageData>

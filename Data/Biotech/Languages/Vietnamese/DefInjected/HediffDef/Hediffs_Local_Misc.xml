@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BloodfeederMark.label>Dấu vết hút máu</BloodfeederMark.label>
+<BloodfeederMark.description>Hai vết thương nhỏ.</BloodfeederMark.description>
+<BloodfeederMark.labelNoun>Dấu vết hút máu</BloodfeederMark.labelNoun>
+<ImplantedIUD.label>Vòng tránh thai</ImplantedIUD.label>
+<ImplantedIUD.description>Một thiết bị kim loại nhỏ được cấy vào tử cung của người này để ngăn chặn việc mang thai. Trong hầu hết các trường hợp, điều này có thể được tháo bỏ bằng phẫu thuật, nhưng cũng có thể dẫn đến vô sinh vĩnh viễn.</ImplantedIUD.description>
+<ToxGasExposure.label>Khí độc</ToxGasExposure.label>
+<ToxGasExposure.description>Ảnh hưởng tiêu cực do tiếp xúc với khí độc hóa học. Khí độc có thể gây bỏng cho mắt và phổi của sinh vật, làm giảm tạm thời khả năng nhìn và hô hấp. Tiếp xúc kéo dài với khí độc cũng có thể gây ngộ độc.</ToxGasExposure.description>
+<ToxGasExposure.stages.mild.label>Nhẹ</ToxGasExposure.stages.mild.label>
+<ToxGasExposure.stages.moderate.label>Vừa</ToxGasExposure.stages.moderate.label>
+<ToxGasExposure.stages.severe.label>Nghiêm trọng</ToxGasExposure.stages.severe.label>
+<TubalLigation.label>Cắt ống dẫn trứng</TubalLigation.label>
+<TubalLigation.description>Cơ quan sinh dục của cá nhân này đã bị đóng ống dẫn trứng, ngăn chặn trứng từ buồng trứng vào tử cung.</TubalLigation.description>
+<Vasectomy.label>Cắt ống dẫn tinh</Vasectomy.label>
+<Vasectomy.description>Cơ quan sinh dục của sinh vật này đã mất khả năng sinh sản do cắt và đóng ống dẫn tinh, ống dẫn tinh là ống vận chuyển tinh trùng đến niệu đạo. Trong hầu hết các trường hợp, điều này có thể được tháo bỏ bằng phẫu thuật, nhưng cũng có thể dẫn đến vô sinh vĩnh viễn.</Vasectomy.description>
+</LanguageData>

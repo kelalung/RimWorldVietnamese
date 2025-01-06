@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeditationPlantGrowthOffset.label>Sự thay đổi tốc độ sinh trưởng của cây trong thiền</MeditationPlantGrowthOffset.label>
+<MeditationPlantGrowthOffset.description>Áp dụng cho cây (như thảo dược) khi bị ảnh hưởng bởi thiền. Giá trị này có thể thay đổi tùy theo số lượng công trình nhân tạo xung quanh.</MeditationPlantGrowthOffset.description>
+</LanguageData>

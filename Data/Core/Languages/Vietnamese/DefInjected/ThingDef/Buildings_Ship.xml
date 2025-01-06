@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ship_Beam.label>Khung tàu vũ trụ</Ship_Beam.label>
+	<Ship_Beam.description>Một cấu trúc beam dùng để hỗ trợ các phần khác của tàu vũ trụ, bao gồm tất cả các dây cáp và ống dẫn cần thiết cho thông tin, điện và vận chuyển vật liệu. Có thể xây dựng tàu xung quanh nó.</Ship_Beam.description>
+	<Ship_ComputerCore.label>Nhân bộ vi xử lý tàu vũ trụ</Ship_ComputerCore.label>
+	<Ship_ComputerCore.description>Một bộ vi xử lý được trang bị AI có nhân cách, có khả năng dẫn dắt tàu vũ trụ trong nhiều thập kỷ hành trình giữa các vì sao, vượt qua mọi thử thách.</Ship_ComputerCore.description>
+	<Ship_CryptosleepCasket.label>Hòm ngủ đông tàu vũ trụ</Ship_CryptosleepCasket.label>
+	<Ship_CryptosleepCasket.description>Hòm ngủ đông được gia cố có khả năng chống lại các mối đe dọa trong không gian. Có thể duy trì một người trong trạng thái ngủ đông hàng thế kỷ và có thể tái nhập an toàn vào bầu khí quyển.</Ship_CryptosleepCasket.description>
+	<Ship_Engine.label>Động cơ tàu vũ trụ</Ship_Engine.label>
+	<Ship_Engine.description>Động cơ không cần chất đẩy, có khả năng đưa tàu vũ trụ vào không gian và vượt qua khoảng không gian rộng lớn giữa các vì sao.</Ship_Engine.description>
+	<Ship_Reactor.label>Phản ứng hạt nhân tàu vũ trụ</Ship_Reactor.label>
+	<Ship_Reactor.description>Cung cấp năng lượng cho tàu trong hành trình dài trong không gian. Cần trải qua một quy trình khởi động dài trước khi cất cánh, điều này có thể thu hút kẻ tấn công.</Ship_Reactor.description>
+	<Ship_SensorCluster.label>Cụm cảm biến tích hợp</Ship_SensorCluster.label>
+	<Ship_SensorCluster.description>Một mô-đun cảm biến đa năng có khả năng quét và truyền tín hiệu qua không gian để giao tiếp, phát hiện mối đe dọa, đánh lừa, gây nhiễu và nhiều hành động khác.</Ship_SensorCluster.description>
+</LanguageData>

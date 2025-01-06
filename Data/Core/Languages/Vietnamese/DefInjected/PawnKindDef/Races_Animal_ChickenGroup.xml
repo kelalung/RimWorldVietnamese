@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chicken.label>Gà</Chicken.label>
+	<Chicken.labelFemale>Gà mái</Chicken.labelFemale>
+	<Chicken.labelFemalePlural>Gà mái</Chicken.labelFemalePlural>
+	<Chicken.labelMale>Gà trống</Chicken.labelMale>
+	<Chicken.labelMalePlural>Gà trống</Chicken.labelMalePlural>
+	<Chicken.labelPlural>Gà</Chicken.labelPlural>
+	<Chicken.lifeStages.chick.label>Gà con</Chicken.lifeStages.chick.label>
+	<Chicken.lifeStages.chick.labelFemale>Gà con cái</Chicken.lifeStages.chick.labelFemale>
+	<Chicken.lifeStages.chick.labelFemalePlural>Gà con cái</Chicken.lifeStages.chick.labelFemalePlural>
+	<Chicken.lifeStages.chick.labelMale>Gà con đực</Chicken.lifeStages.chick.labelMale>
+	<Chicken.lifeStages.chick.labelMalePlural>Gà con đực</Chicken.lifeStages.chick.labelMalePlural>
+	<Chicken.lifeStages.chick.labelPlural>Gà con</Chicken.lifeStages.chick.labelPlural>
+	<Chicken.lifeStages.cockerel.label>Gà tuổi thơ</Chicken.lifeStages.cockerel.label>
+	<Chicken.lifeStages.cockerel.labelFemale>Gà mái tuổi thơ</Chicken.lifeStages.cockerel.labelFemale>
+	<Chicken.lifeStages.cockerel.labelFemalePlural>Gà mái tuổi thơ</Chicken.lifeStages.cockerel.labelFemalePlural>
+	<Chicken.lifeStages.cockerel.labelMale>Gà trống tuổi thơ</Chicken.lifeStages.cockerel.labelMale>
+	<Chicken.lifeStages.cockerel.labelMalePlural>Gà trống tuổi thơ</Chicken.lifeStages.cockerel.labelMalePlural>
+	<Chicken.lifeStages.cockerel.labelPlural>Gà tuổi thơ</Chicken.lifeStages.cockerel.labelPlural>
+	<Chicken.lifeStages.2.label>Gà trưởng thành</Chicken.lifeStages.2.label>
+	<Chicken.lifeStages.2.labelFemale>Gà mái trưởng thành</Chicken.lifeStages.2.labelFemale>
+	<Chicken.lifeStages.2.labelFemalePlural>Gà mái trưởng thành</Chicken.lifeStages.2.labelFemalePlural>
+	<Chicken.lifeStages.2.labelMale>Gà trống trưởng thành</Chicken.lifeStages.2.labelMale>
+	<Chicken.lifeStages.2.labelMalePlural>Gà trống trưởng thành</Chicken.lifeStages.2.labelMalePlural>
+	<Chicken.lifeStages.2.labelPlural>Gà trưởng thành</Chicken.lifeStages.2.labelPlural>
+	<Duck.label>Vịt</Duck.label>
+	<Duck.lifeStages.duckling.label>Vịt con</Duck.lifeStages.duckling.label>
+	<Goose.label>Ngỗng</Goose.label>
+	<Goose.labelPlural>Ngỗng</Goose.labelPlural>
+	<Turkey.label>Gà tây</Turkey.label>
+	<Turkey.labelFemale>Gà tây mái</Turkey.labelFemale>
+	<Turkey.labelFemalePlural>Gà tây mái</Turkey.labelFemalePlural>
+	<Turkey.labelMale>Gà tây trống</Turkey.labelMale>
+	<Turkey.labelMalePlural>Gà tây trống</Turkey.labelMalePlural>
+	<Turkey.labelPlural>Gà tây</Turkey.labelPlural>
+	<Turkey.lifeStages.0.label>Gà tây con</Turkey.lifeStages.0.label>
+	<Turkey.lifeStages.0.labelFemale>Gà tây con cái</Turkey.lifeStages.0.labelFemale>
+	<Turkey.lifeStages.0.labelFemalePlural>Gà tây con cái</Turkey.lifeStages.0.labelFemalePlural>
+	<Turkey.lifeStages.0.labelMale>Gà tây con đực</Turkey.lifeStages.0.labelMale>
+	<Turkey.lifeStages.0.labelMalePlural>Gà tây con đực</Turkey.lifeStages.0.labelMalePlural>
+	<Turkey.lifeStages.0.labelPlural>Gà tây con</Turkey.lifeStages.0.labelPlural>
+	<Turkey.lifeStages.1.label>Gà tây tuổi thơ</Turkey.lifeStages.1.label>
+	<Turkey.lifeStages.1.labelFemale>Gà tây mái tuổi thơ</Turkey.lifeStages.1.labelFemale>
+	<Turkey.lifeStages.1.labelFemalePlural>Gà tây mái tuổi thơ</Turkey.lifeStages.1.labelFemalePlural>
+	<Turkey.lifeStages.1.labelMale>Gà tây trống tuổi thơ</Turkey.lifeStages.1.labelMale>
+	<Turkey.lifeStages.1.labelMalePlural>Gà tây trống tuổi thơ</Turkey.lifeStages.1.labelMalePlural>
+	<Turkey.lifeStages.1.labelPlural>Gà tây tuổi thơ</Turkey.lifeStages.1.labelPlural>
+	<Turkey.lifeStages.2.label>Gà tây trưởng thành</Turkey.lifeStages.2.label>
+	<Turkey.lifeStages.2.labelFemale>Gà tây mái trưởng thành</Turkey.lifeStages.2.labelFemale>
+	<Turkey.lifeStages.2.labelFemalePlural>Gà tây mái trưởng thành</Turkey.lifeStages.2.labelFemalePlural>
+	<Turkey.lifeStages.2.labelMale>Gà tây trống trưởng thành</Turkey.lifeStages.2.labelMale>
+	<Turkey.lifeStages.2.labelMalePlural>Gà tây trống trưởng thành</Turkey.lifeStages.2.labelMalePlural>
+	<Turkey.lifeStages.2.labelPlural>Gà tây trưởng thành</Turkey.lifeStages.2.labelPlural>
+</LanguageData>

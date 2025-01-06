@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Siege.arrivalTextEnemy>Có vẻ như họ muốn bao vây thuộc địa của bạn trước, rồi sau đó sử dụng súng cối để bắn từ xa. Bạn có thể chờ họ từ bỏ hoặc chủ động tấn công trước.</Siege.arrivalTextEnemy>
+	<Siege.arrivalTextFriendly>Có vẻ như họ muốn hỗ trợ bạn bằng cách bao vây.</Siege.arrivalTextFriendly>
+	<Siege.letterLabelEnemy>Bao vây</Siege.letterLabelEnemy>
+	<Siege.letterLabelFriendly>Đồng minh</Siege.letterLabelFriendly>
+</LanguageData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnalyzeItem.reportString>Đang phân tích TargetA.</AnalyzeItem.reportString>
+	<Arrest.reportString>Đang bắt giữ TargetA.</Arrest.reportString>
+	<BuildRoof.reportString>Đang xây dựng mái nhà.</BuildRoof.reportString>
+	<Capture.reportString>Đang bắt giữ TargetA.</Capture.reportString>
+	<CarryDownedPawnDrafted.reportString>Đang khiêng TargetA.</CarryDownedPawnDrafted.reportString>
+	<CarryDownedPawnToExit.reportString>Đang khiêng TargetA ra ngoài.</CarryDownedPawnToExit.reportString>
+	<CarryDownedPawnToPortal.reportString>Đang khiêng TargetA đến cổng.</CarryDownedPawnToPortal.reportString>
+	<CarryToCryptosleepCasket.reportString>Đang đưa TargetA vào quan tài ngủ đông.</CarryToCryptosleepCasket.reportString>
+	<CarryToCryptosleepCasketDrafted.reportString>Đang đưa TargetA vào quan tài ngủ đông.</CarryToCryptosleepCasketDrafted.reportString>
+	<CarryToPrisonerBedDrafted.reportString>Đang đưa TargetA đến giường giam.</CarryToPrisonerBedDrafted.reportString>
+	<Clean.reportString>Đang dọn dẹp TargetA.</Clean.reportString>
+	<CutPlant.reportString>Đang cắt TargetA.</CutPlant.reportString>
+	<CutPlantDesignated.reportString>Đang cắt TargetA đã chỉ định.</CutPlantDesignated.reportString>
+	<Deconstruct.reportString>Đang tháo dỡ TargetA.</Deconstruct.reportString>
+	<DeliverFood.reportString>Đang mang TargetA cho TargetB ăn.</DeliverFood.reportString>
+	<DoBill.reportString>Đang hoàn thành danh sách TargetA.</DoBill.reportString>
+	<EscortPrisonerToBed.reportString>Đang hộ tống TargetA đến giường.</EscortPrisonerToBed.reportString>
+	<ExtractSkull.reportString>Đang lấy hộp sọ của TargetA.</ExtractSkull.reportString>
+	<ExtractTree.reportString>Đang khai thác TargetA.</ExtractTree.reportString>
+	<FeedPatient.reportString>Đang cho TargetA ăn cho TargetB.</FeedPatient.reportString>
+	<FinishFrame.reportString>Đang hoàn thành xây dựng TargetA.</FinishFrame.reportString>
+	<FixBrokenDownBuilding.reportString>Đang thay thế linh kiện cho TargetA.</FixBrokenDownBuilding.reportString>
+	<GuiltyColonistExecution.reportString>Đang xử án TargetA.</GuiltyColonistExecution.reportString>
+	<Harvest.reportString>Đang thu hoạch TargetA.</Harvest.reportString>
+	<HarvestDesignated.reportString>Đang thu hoạch TargetA đã chỉ định.</HarvestDesignated.reportString>
+	<HaulToCell.reportString>Đang vận chuyển TargetA đến phòng giam.</HaulToCell.reportString>
+	<HaulToContainer.reportString>Đang vận chuyển TargetA đến thùng chứa.</HaulToContainer.reportString>
+	<Hunt.reportString>Đang săn TargetA.</Hunt.reportString>
+	<Kidnap.reportString>Đang bắt cóc TargetA.</Kidnap.reportString>
+	<Milk.reportString>Đang thu hoạch sản phẩm từ TargetA.</Milk.reportString>
+	<Mine.reportString>Đang khai thác TargetA.</Mine.reportString>
+	<OperateDeepDrill.reportString>Đang vận hành TargetA.</OperateDeepDrill.reportString>
+	<OperateScanner.reportString>Đang quét TargetA.</OperateScanner.reportString>
+	<PaintBuilding.reportString>Đang sơn TargetA.</PaintBuilding.reportString>
+	<PaintFloor.reportString>Đang sơn TargetA.</PaintFloor.reportString>
+	<PlaceNoCostFrame.reportString>Đang xây dựng TargetA.</PlaceNoCostFrame.reportString>
+	<PlantSeed.reportString>Đang trồng hạt giống TargetA.</PlantSeed.reportString>
+	<PrisonerAttemptRecruit.reportString>Đang cố gắng tuyển mộ TargetA.</PrisonerAttemptRecruit.reportString>
+	<PrisonerExecution.reportString>Đang xử án TargetA.</PrisonerExecution.reportString>
+	<ReleaseAnimalToWild.reportString>Đang thả TargetA về tự nhiên.</ReleaseAnimalToWild.reportString>
+	<ReleasePrisoner.reportString>Đang thả tự do cho TargetA.</ReleasePrisoner.reportString>
+	<RemoveFloor.reportString>Đang tháo dỡ sàn nhà.</RemoveFloor.reportString>
+	<RemovePaintBuilding.reportString>Đang xóa sơn trên TargetA.</RemovePaintBuilding.reportString>
+	<RemovePaintFloor.reportString>Đang xóa sơn trên TargetA.</RemovePaintFloor.reportString>
+	<RemoveRoof.reportString>Đang tháo dỡ mái nhà.</RemoveRoof.reportString>
+	<Repair.reportString>Đang sửa chữa TargetA.</Repair.reportString>
+	<Replant.reportString>Đang trồng lại TargetA.</Replant.reportString>
+	<Rescue.reportString>Đang cứu TargetA.</Rescue.reportString>
+	<Research.reportString>Đang nghiên cứu.</Research.reportString>
+	<RopeRoamerToHitchingPost.reportString>Đang dẫn TargetA đến điểm buộc.</RopeRoamerToHitchingPost.reportString>
+	<RopeRoamerToUnenclosedPen.reportString>Đang dẫn TargetA đến TargetC.</RopeRoamerToUnenclosedPen.reportString>
+	<RopeToPen.reportString>Đang dẫn TargetA đến TargetC.</RopeToPen.reportString>
+	<Shear.reportString>Đang cắt lông TargetA.</Shear.reportString>
+	<Slaughter.reportString>Đang giết thịt TargetA.</Slaughter.reportString>
+	<SmoothFloor.reportString>Đang làm nhẵn sàn nhà.</SmoothFloor.reportString>
+	<SmoothWall.reportString>Đang làm nhẵn tường.</SmoothWall.reportString>
+	<Sow.reportString>Đang gieo hạt TargetA.</Sow.reportString>
+	<Steal.reportString>Đang ăn cắp TargetA.</Steal.reportString>
+	<StudyInteract.reportString>Đang điều tra TargetA.</StudyInteract.reportString>
+	<StudyItem.reportString>Đang nghiên cứu TargetA.</StudyItem.reportString>
+	<TakeDownedPawnToBedDrafted.reportString>Đang đưa TargetA lên giường.</TakeDownedPawnToBedDrafted.reportString>
+	<TakeToBedToOperate.reportString>Đang đưa TargetA lên giường để vận hành.</TakeToBedToOperate.reportString>
+	<TakeWoundedPrisonerToBed.reportString>Đang đưa thương binh TargetA lên giường.</TakeWoundedPrisonerToBed.reportString>
+	<Tame.reportString>Đang cố gắng thuần hóa TargetA.</Tame.reportString>
+	<TendPatient.reportString>Đang chăm sóc TargetA.</TendPatient.reportString>
+	<Train.reportString>Đang huấn luyện TargetA.</Train.reportString>
+	<Uninstall.reportString>Đang gỡ bỏ TargetA.</Uninstall.reportString>
+	<Unrope.reportString>Đang tháo dây TargetA.</Unrope.reportString>
+	<UseCommsConsole.reportString>Đang sử dụng bảng điều khiển liên lạc.</UseCommsConsole.reportString>
+</LanguageData>

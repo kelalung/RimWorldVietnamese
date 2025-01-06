@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClockTime>Thời gian</ClockTime>
+  <ClockDate>Ngày</ClockDate>
+  <ClockYear>Năm</ClockYear>
+  <DateReadoutTip>Số ngày đã trôi qua kể từ khi đến: {0}\nBiểu tượng hiện tại: {4}\nMùa địa phương: {2}\n\nMột năm được chia thành bốn biểu tượng, mỗi biểu tượng có {3} ngày. Các biểu tượng ở các nơi là giống nhau, nhưng mùa ở những nơi khác nhau sẽ có sự khác biệt.\n\nMùa địa phương tương ứng với mỗi biểu tượng:\n{5}</DateReadoutTip>
+  <FullDate>{2} năm {1} ngày thứ {0}</FullDate>
+  <ShortDate>{2} {1} {0}</ShortDate>
+  <MonthYearDate>{0}, {1}</MonthYearDate>
+  <DateReadout>{2} năm {1} ngày thứ {0}</DateReadout>
+  <SeasonFullDate>Ngày thứ {0} của tháng {1}</SeasonFullDate>
+  <WholeYear>Toàn năm</WholeYear>
+</LanguageData>

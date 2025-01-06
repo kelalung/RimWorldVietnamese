@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AlcoholAddiction.label>Nghiện rượu</AlcoholAddiction.label>
+	<AlcoholAddiction.description>Sự tiêu thụ rượu lâu dài đã gây ra sự thích nghi của hệ thần kinh.\n\nNếu không tiêu thụ đủ lượng rượu thường xuyên, các triệu chứng cai nghiện sẽ bắt đầu xuất hiện. Thời gian cai nghiện kéo dài sẽ buộc não bộ thích nghi và trở về trạng thái bình thường, từ đó giúp bỏ nghiện rượu.</AlcoholAddiction.description>
+	<AlcoholAddiction.stages.withdrawal.label>Triệu chứng cai nghiện</AlcoholAddiction.stages.withdrawal.label>
+	<AlcoholHigh.label>Say rượu</AlcoholHigh.label>
+	<AlcoholHigh.description>Rượu chảy trong máu mang lại niềm vui, nhưng cũng làm mất tỉnh táo.</AlcoholHigh.description>
+	<AlcoholHigh.labelNoun>Say rượu</AlcoholHigh.labelNoun>
+	<AlcoholHigh.stages.warm.label>Ấm áp</AlcoholHigh.stages.warm.label>
+	<AlcoholHigh.stages.tipsy.label>Chưa say</AlcoholHigh.stages.tipsy.label>
+	<AlcoholHigh.stages.drunk.label>Say xỉn</AlcoholHigh.stages.drunk.label>
+	<AlcoholHigh.stages.hammered.label>Say bí tỉ</AlcoholHigh.stages.hammered.label>
+	<AlcoholHigh.stages.blackout.label>Ngất ngây</AlcoholHigh.stages.blackout.label>
+	<AlcoholTolerance.label>Thích nghi rượu</AlcoholTolerance.label>
+	<AlcoholTolerance.description>Khả năng chịu đựng rượu lâu dài. Sự thích nghi càng nghiêm trọng, càng cần nhiều rượu để đạt được hiệu ứng tương tự như trước đây.</AlcoholTolerance.description>
+	<AlcoholTolerance.stages.small.label>Nhẹ</AlcoholTolerance.stages.small.label>
+	<AlcoholTolerance.stages.large.label>Mạnh</AlcoholTolerance.stages.large.label>
+	<AlcoholTolerance.stages.massive.label>Cực mạnh</AlcoholTolerance.stages.massive.label>
+	<Hangover.label>Say rượu</Hangover.label>
+	<Hangover.description>Trạng thái rối loạn chức năng hệ thần kinh trung ương sau khi uống rượu quá mức.</Hangover.description>
+	<Hangover.labelNoun>Say rượu</Hangover.labelNoun>
+	<Hangover.stages.slight.label>Nhẹ</Hangover.stages.slight.label>
+	<Hangover.stages.strong.label>Mạnh</Hangover.stages.strong.label>
+	<Hangover.stages.pounding.label>Đau đầu</Hangover.stages.pounding.label>
+</LanguageData>

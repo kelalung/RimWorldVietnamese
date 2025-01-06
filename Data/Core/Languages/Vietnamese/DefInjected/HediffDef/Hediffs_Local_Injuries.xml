@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AcidBurn.label>Phỏng axit</AcidBurn.label>
+	<AcidBurn.description>Vết thương phỏng axit.</AcidBurn.description>
+	<AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo phỏng axit</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<AcidBurn.injuryProps.destroyedLabel>Bị hòa tan bởi axit</AcidBurn.injuryProps.destroyedLabel>
+	<AcidBurn.labelNoun>Vết thương phỏng axit</AcidBurn.labelNoun>
+	<AcidBurn.labelNounPretty>{1} trong {0}</AcidBurn.labelNounPretty>
+	<Bite.label>Cắn</Bite.label>
+	<Bite.description>Vết thương cắn.</Bite.description>
+	<Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Bite.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+	<Bite.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Bite.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo cắn</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Bite.injuryProps.destroyedLabel>Bị cắn mất</Bite.injuryProps.destroyedLabel>
+	<Bite.injuryProps.destroyedOutLabel>Bị cắn mất</Bite.injuryProps.destroyedOutLabel>
+	<Bite.labelNoun>Cắn</Bite.labelNoun>
+	<Bite.labelNounPretty>{1} trong {0}</Bite.labelNounPretty>
+	<Bruise.label>Bầm tím</Bruise.label>
+	<Bruise.description>Vết thương bầm tím.</Bruise.description>
+	<Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Bruise.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+	<Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Bruise.injuryProps.destroyedLabel>Bị hỏng</Bruise.injuryProps.destroyedLabel>
+	<Bruise.labelNoun>Bầm tím</Bruise.labelNoun>
+	<Bruise.labelNounPretty>{1} trong {0}</Bruise.labelNounPretty>
+	<Burn.label>Phỏng</Burn.label>
+	<Burn.description>Vết thương phỏng.</Burn.description>
+	<Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Burn.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+	<Burn.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Burn.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo phỏng</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Burn.injuryProps.destroyedLabel>Bị cháy</Burn.injuryProps.destroyedLabel>
+	<Burn.injuryProps.destroyedOutLabel>Bị cháy mất</Burn.injuryProps.destroyedOutLabel>
+	<Burn.labelNoun>Vết thương phỏng</Burn.labelNoun>
+	<Burn.labelNounPretty>{1} trong {0}</Burn.labelNounPretty>
+	<ChemicalBurn.label>Phỏng hóa chất</ChemicalBurn.label>
+	<ChemicalBurn.description>Vết thương phỏng hóa chất.</ChemicalBurn.description>
+	<ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo phỏng hóa chất</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<ChemicalBurn.injuryProps.destroyedLabel>Bị cháy (hóa chất)</ChemicalBurn.injuryProps.destroyedLabel>
+	<ChemicalBurn.injuryProps.destroyedOutLabel>Bị cháy mất (hóa chất)</ChemicalBurn.injuryProps.destroyedOutLabel>
+	<ChemicalBurn.labelNoun>Phỏng hóa chất</ChemicalBurn.labelNoun>
+	<ChemicalBurn.labelNounPretty>{1} trong {0}</ChemicalBurn.labelNounPretty>
+	<Crack.label>Rạn nứt</Crack.label>
+	<Crack.description>Vết thương rạn nứt.</Crack.description>
+	<Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã cố định đơn giản</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Crack.comps.HediffComp_TendDuration.labelTendedWell>Đã hồi phục</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+	<Crack.comps.HediffComp_TendDuration.labelTendedWellInner>Đã hồi phục</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Crack.comps.HediffComp_GetsPermanent.permanentLabel>Gãy xương cũ</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Crack.injuryProps.destroyedLabel>Đã vỡ</Crack.injuryProps.destroyedLabel>
+	<Crack.labelNoun>Rạn nứt</Crack.labelNoun>
+	<Crack.labelNounPretty>{1} trong {0}</Crack.labelNounPretty>
+	<Crush.label>Bị đè bẹp</Crush.label>
+	<Crush.description>Vết thương do bị đè bẹp.</Crush.description>
+	<Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Crush.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+	<Crush.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Crush.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do bị đè bẹp</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Crush.injuryProps.destroyedLabel>Bị phá hủy</Crush.injuryProps.destroyedLabel>
+	<Crush.labelNoun>Vết thương do bị đè bẹp</Crush.labelNoun>
+	<Crush.labelNounPretty>{1} trong {0}</Crush.labelNounPretty>
+	<Cut.label>Cắt</Cut.label>
+	<Cut.description>Vết thương do cắt.</Cut.description>
+	<Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Cut.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+	<Cut.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Cut.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do cắt</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Cut.injuryProps.destroyedLabel>Bị cắt bỏ</Cut.injuryProps.destroyedLabel>
+	<Cut.injuryProps.destroyedOutLabel>Bị cắt bỏ</Cut.injuryProps.destroyedOutLabel>
+	<Cut.labelNoun>Vết thương cắt</Cut.labelNoun>
+	<Cut.labelNounPretty>{1} trong {0}</Cut.labelNounPretty>
+	<Decayed.label>Suy giảm cơ quan</Decayed.label>
+	<Decayed.description>Cơ quan này đã hoàn toàn suy giảm và hoại tử.</Decayed.description>
+	<Decayed.labelNoun>Suy giảm cơ quan</Decayed.labelNoun>
+	<Decayed.labelNounPretty>Suy giảm {1}</Decayed.labelNounPretty>
+	<ElectricalBurn.label>Phỏng điện</ElectricalBurn.label>
+	<ElectricalBurn.description>Vết thương do điện giật.</ElectricalBurn.description>
+	<ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do phỏng điện.</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<ElectricalBurn.injuryProps.destroyedLabel>Bị cháy mất</ElectricalBurn.injuryProps.destroyedLabel>
+	<ElectricalBurn.injuryProps.destroyedOutLabel>Bị cháy mất</ElectricalBurn.injuryProps.destroyedOutLabel>
+	<ElectricalBurn.labelNoun>Vết thương phỏng điện</ElectricalBurn.labelNoun>
+	<ElectricalBurn.labelNounPretty>{1} trong {0}</ElectricalBurn.labelNounPretty>
+	<ExecutionCut.label>Cắt</ExecutionCut.label>
+	<ExecutionCut.description>Vết cắt do thi hành án.</ExecutionCut.description>
+	<ExecutionCut.injuryProps.destroyedLabel>Bị cắt bỏ</ExecutionCut.injuryProps.destroyedLabel>
+	<ExecutionCut.injuryProps.destroyedOutLabel>Bị cắt bỏ</ExecutionCut.injuryProps.destroyedOutLabel>
+	<ExecutionCut.labelNoun>Vết thương cắt</ExecutionCut.labelNoun>
+	<ExecutionCut.labelNounPretty>{1} trong {0}</ExecutionCut.labelNounPretty>
+	<Frostbite.label>Đông lạnh</Frostbite.label>
+	<Frostbite.description>Đông lạnh là tổn thương cục bộ hoặc toàn thân do tác động của lạnh ẩm. Đông lạnh rất đau đớn, bệnh nhân thường phải mất đi các bộ phận cơ thể bị đông lạnh.</Frostbite.description>
+	<Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Frostbite.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+	<Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do đông lạnh</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Frostbite.injuryProps.destroyedLabel>Mất đi do đông lạnh</Frostbite.injuryProps.destroyedLabel>
+	<Frostbite.labelNounPretty>{1} trong {0}</Frostbite.labelNounPretty>
+	<Gunshot.label>Vết thương do súng</Gunshot.label>
+	<Gunshot.description>Vết thương do súng bắn.</Gunshot.description>
+	<Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Gunshot.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+	<Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>Vết thương do súng vĩnh viễn</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+	<Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>Vết thương do súng cũ</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Gunshot.injuryProps.destroyedLabel>Bị bắn phá hủy</Gunshot.injuryProps.destroyedLabel>
+	<Gunshot.injuryProps.destroyedOutLabel>Bị bắn mất</Gunshot.injuryProps.destroyedOutLabel>
+	<Gunshot.labelNoun>Vết thương do súng</Gunshot.labelNoun>
+	<Gunshot.labelNounPretty>{1} trong {0}</Gunshot.labelNounPretty>
+	<Misc.label>Vật khác</Misc.label>
+	<Misc.description>Vết thương.</Misc.description>
+	<Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Misc.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+	<Misc.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Misc.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Misc.injuryProps.destroyedLabel>Đã mất chức năng</Misc.injuryProps.destroyedLabel>
+	<Misc.labelNoun>Vật khác</Misc.labelNoun>
+	<Misc.labelNounPretty>{1} trong {0}</Misc.labelNounPretty>
+	<MissingBodyPart.label>Thiếu bộ phận</MissingBodyPart.label>
+	<MissingBodyPart.description>Một phần cơ thể đã bị mất.</MissingBodyPart.description>
+	<MissingBodyPart.labelNoun>Bộ phận cơ thể bị thiếu</MissingBodyPart.labelNoun>
+	<MissingBodyPart.labelNounPretty>{1} bị thiếu</MissingBodyPart.labelNounPretty>
+	<Scratch.label>Cào</Scratch.label>
+	<Scratch.description>Vết thương do cào.</Scratch.description>
+	<Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Scratch.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+	<Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Scratch.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do cào</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Scratch.injuryProps.destroyedLabel>Bị xé rách</Scratch.injuryProps.destroyedLabel>
+	<Scratch.injuryProps.destroyedOutLabel>Bị xé rách</Scratch.injuryProps.destroyedOutLabel>
+	<Scratch.labelNoun>Vết thương cào</Scratch.labelNoun>
+	<Scratch.labelNounPretty>{1} trong {0}</Scratch.labelNounPretty>
+	<Shredded.label>Vết thương do nổ</Shredded.label>
+	<Shredded.description>Một phần cơ thể đã bị xé nát.</Shredded.description>
+	<Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Shredded.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+	<Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Shredded.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do nổ</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Shredded.injuryProps.destroyedLabel>Bị nổ hủy hoại</Shredded.injuryProps.destroyedLabel>
+	<Shredded.injuryProps.destroyedOutLabel>Bị nổ hủy hoại</Shredded.injuryProps.destroyedOutLabel>
+	<Shredded.labelNoun>Vết thương do nổ</Shredded.labelNoun>
+	<Shredded.labelNounPretty>{1} trong {0}</Shredded.labelNounPretty>
+	<Stab.label>Đâm</Stab.label>
+	<Stab.description>Vết thương do đâm.</Stab.description>
+	<Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<Stab.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+	<Stab.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<Stab.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do đâm</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+	<Stab.injuryProps.destroyedLabel>Bị đâm hủy hoại</Stab.injuryProps.destroyedLabel>
+	<Stab.injuryProps.destroyedOutLabel>Bị đâm hủy hoại</Stab.injuryProps.destroyedOutLabel>
+	<Stab.labelNoun>Vết thương đâm</Stab.labelNoun>
+	<Stab.labelNounPretty>{1} trong {0}</Stab.labelNounPretty>
+	<SurgicalCut.label>Vết thương phẫu thuật</SurgicalCut.label>
+	<SurgicalCut.description>Vết thương do phẫu thuật gây ra.</SurgicalCut.description>
+	<SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>Đã xử lý đơn giản</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+	<SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>Đã băng bó</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+	<SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>Đã khâu</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+	<SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo do phẫu thuật</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+	<SurgicalCut.labelNoun>Vết thương phẫu thuật</SurgicalCut.labelNoun>
+	<SurgicalCut.labelNounPretty>{1} trong {0}</SurgicalCut.labelNounPretty>
+</LanguageData>

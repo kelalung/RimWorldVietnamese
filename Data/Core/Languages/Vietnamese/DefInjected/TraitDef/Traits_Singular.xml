@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Abrasive.degreeDatas.abrasive.label>Thẳng thắn</Abrasive.degreeDatas.abrasive.label>
+	<Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} luôn nói ra những gì mình nghĩ, đặc biệt là những điều gây khó chịu cho {PAWN_possessive} người khác. Cách nói của {PAWN_pronoun} sẽ khiến người khác không hài lòng.</Abrasive.degreeDatas.abrasive.description>
+	<AnnoyingVoice.degreeDatas.annoying_voice.label>Giọng nói khó chịu</AnnoyingVoice.degreeDatas.annoying_voice.label>
+	<AnnoyingVoice.degreeDatas.annoying_voice.description>Giọng nói của {PAWN_nameDef} nghe rất kỳ quái, {PAWN_pronoun} thường phát ra những âm thanh lạ lùng khi nói, điều này khiến người khác không thích {PAWN_pronoun}.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+	<Ascetic.degreeDatas.ascetic.label>Khổ hạnh</Ascetic.degreeDatas.ascetic.label>
+	<Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} thích cuộc sống đơn giản và thanh đạm, sẽ không hài lòng nếu phòng ngủ quá ấn tượng. Họ thích ăn sống hơn là những món ăn được chế biến cầu kỳ. {PAWN_pronoun} không bao giờ đánh giá người khác qua vẻ bề ngoài.</Ascetic.degreeDatas.ascetic.description>
+	<Asexual.degreeDatas.asexual.label>Vô tính</Asexual.degreeDatas.asexual.label>
+	<Asexual.degreeDatas.asexual.description>{PAWN_nameDef} không có ham muốn tình dục với bất kỳ ai.</Asexual.degreeDatas.asexual.description>
+	<Bisexual.degreeDatas.bisexual.label>Song tính</Bisexual.degreeDatas.bisexual.label>
+	<Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} có thể yêu bất kỳ người nào thuộc giới tính nào.</Bisexual.degreeDatas.bisexual.description>
+	<Bloodlust.degreeDatas.bloodlust.label>Khao khát máu</Bloodlust.degreeDatas.bloodlust.label>
+	<Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} thích cảm giác gây tổn thương cho người khác và không bao giờ quan tâm đến việc nhìn thấy người bị thương hoặc chết. Khả năng gây rối của {PAWN_pronoun} gấp đôi người bình thường.</Bloodlust.degreeDatas.bloodlust.description>
+	<BodyPurist.degreeDatas.body_purist.label>Thuần khiết</BodyPurist.degreeDatas.body_purist.label>
+	<BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} tin rằng có lý do cho sự tồn tại của cơ thể tự nhiên của con người. Đối với {PAWN_objective}, việc cài đặt bộ phận cơ thể nhân tạo và cấy ghép gene khác loài là vô đạo đức và ghê tởm.</BodyPurist.degreeDatas.body_purist.description>
+	<Brawler.degreeDatas.brawler.label>Đấu sĩ</Brawler.degreeDatas.brawler.label>
+	<Brawler.degreeDatas.brawler.description>{PAWN_nameDef} thích đánh nhau. Tỷ lệ trúng đích gần chiến của {PAWN_pronoun} cao hơn nhiều so với người bình thường, nhưng sẽ không hài lòng khi sử dụng vũ khí tầm xa.</Brawler.degreeDatas.brawler.description>
+	<Cannibal.degreeDatas.cannibal.label>Người ăn thịt người</Cannibal.degreeDatas.cannibal.label>
+	<Cannibal.degreeDatas.cannibal.description>Thời thơ ấu, {PAWN_nameDef} đã học rằng ăn thịt người là điều tồi tệ và đáng sợ. Nhưng từ lâu, {PAWN_pronoun} đã thử ăn thịt người một lần... và sau đó đã yêu thích hương vị đó.</Cannibal.degreeDatas.cannibal.description>
+	<CreepyBreathing.degreeDatas.creepy_breathing.label>Âm thanh thở ghê rợn</CreepyBreathing.degreeDatas.creepy_breathing.label>
+	<CreepyBreathing.degreeDatas.creepy_breathing.description>Hơi thở của {PAWN_nameDef} nặng nề và phát ra âm thanh như xì mũi, điều này khiến người khác không thích {PAWN_pronoun}.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+	<DislikesMen.degreeDatas.misandrist.label>Ghét đàn ông</DislikesMen.degreeDatas.misandrist.label>
+	<DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} rất ghét đàn ông và cho rằng không thể tin tưởng bất kỳ người đàn ông nào.</DislikesMen.degreeDatas.misandrist.description>
+	<DislikesWomen.degreeDatas.misogynist.label>Ghét phụ nữ</DislikesWomen.degreeDatas.misogynist.label>
+	<DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} rất ghét phụ nữ và cho rằng không thể tin tưởng bất kỳ người phụ nữ nào.</DislikesWomen.degreeDatas.misogynist.description>
+	<FastLearner.degreeDatas.fast_learner.label>Người học nhanh</FastLearner.degreeDatas.fast_learner.label>
+	<FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} có khả năng học tập đặc biệt. {PAWN_pronoun} học hỏi nhanh hơn nhiều so với người bình thường.</FastLearner.degreeDatas.fast_learner.description>
+	<Gay.degreeDatas.gay.label>Đồng tính</Gay.degreeDatas.gay.label>
+	<Gay.degreeDatas.gay.description>{PAWN_nameDef} chỉ yêu người cùng giới với {PAWN_pronoun}.</Gay.degreeDatas.gay.description>
+	<Gourmand.degreeDatas.gourmand.label>Người tham ăn</Gourmand.degreeDatas.gourmand.label>
+	<Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} sống trong thế giới của thức ăn, {PAWN_pronoun} dễ đói hơn. Khi tâm trạng không tốt, {PAWN_pronoun} thường xả stress bằng cách ăn uống thái quá.</Gourmand.degreeDatas.gourmand.description>
+	<GreatMemory.degreeDatas.great_memory.label>Nhớ lâu</GreatMemory.degreeDatas.great_memory.label>
+	<GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} có trí nhớ tuyệt vời, điều này giúp {PAWN_pronoun} quên kỹ năng chậm hơn gấp đôi so với người bình thường.</GreatMemory.degreeDatas.great_memory.description>
+	<Greedy.degreeDatas.greedy.label>Tham lam</Greedy.degreeDatas.greedy.label>
+	<Greedy.degreeDatas.greedy.description>{PAWN_nameDef} cần có một phòng ngủ ấn tượng, nếu không sẽ cảm thấy không hài lòng.</Greedy.degreeDatas.greedy.description>
+	<Jealous.degreeDatas.jealous.label>Ghen tị</Jealous.degreeDatas.jealous.label>
+	<Jealous.degreeDatas.jealous.description>{PAWN_nameDef} cần có một phòng ngủ ấn tượng hơn người khác, nếu không sẽ cảm thấy không hài lòng.</Jealous.degreeDatas.jealous.description>
+	<Kind.degreeDatas.kind.label>Nhân hậu</Kind.degreeDatas.kind.label>
+	<Kind.degreeDatas.kind.description>{PAWN_nameDef} là người hòa đồng và sẵn lòng giúp đỡ. {PAWN_pronoun} hiếm khi xúc phạm người khác, đôi khi sẽ nói những lời tốt đẹp để làm sáng tỏ tâm trạng của {PAWN_objective} xung quanh. {PAWN_pronoun} cũng không bao giờ đánh giá người khác qua vẻ bề ngoài. Xu hướng của {PAWN_possessive} cũng khiến {PAWN_objective} phù hợp hơn với văn hóa chính thống.</Kind.degreeDatas.kind.description>
+	<Masochist.degreeDatas.masochist.label>Người thích đau</Masochist.degreeDatas.masochist.label>
+	<Masochist.degreeDatas.masochist.description>Đối với {PAWN_nameDef}, đau đớn mang lại cảm giác hưng phấn. Không biết tại sao, {PAWN_pronoun} lại khác với người bình thường.</Masochist.degreeDatas.masochist.description>
+	<NightOwl.degreeDatas.night_owl.label>Cú đêm</NightOwl.degreeDatas.night_owl.label>
+	<NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} thích làm việc vào ban đêm. {PAWN_pronoun} có tâm trạng tốt vào ban đêm (23h-6h), nhưng sẽ hơi buồn vào ban ngày (11h-18h).\n\n{PAWN_pronoun} không bị giảm tâm trạng khi ở trong môi trường tối.</NightOwl.degreeDatas.night_owl.description>
+	<Nimble.degreeDatas.nimble.label>Linh hoạt</Nimble.degreeDatas.nimble.label>
+	<Nimble.degreeDatas.nimble.description>{PAWN_nameDef} có khả năng vận động tuyệt vời. {PAWN_pronoun} di chuyển với sự uyển chuyển như đang nhảy múa trên đầu mũi dao.</Nimble.degreeDatas.nimble.description>
+	<Nudist.degreeDatas.nudist.label>Người theo chủ nghĩa khỏa thân</Nudist.degreeDatas.nudist.label>
+	<Nudist.degreeDatas.nudist.description>{PAWN_nameDef} thích cảm giác tự do khi khỏa thân. {PAWN_pronoun} có thể chịu đựng cảm giác mặc quần áo, nhưng sẽ vui hơn khi không có chúng.</Nudist.degreeDatas.nudist.description>
+	<Psychopath.degreeDatas.psychopath.label>Người tâm thần</Psychopath.degreeDatas.psychopath.label>
+	<Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} không bao giờ cảm thấy đồng cảm với bất kỳ ai. Nỗi đau của người khác hoàn toàn không có ý nghĩa với {PAWN_objective}. Trừ khi ảnh hưởng đến bản thân, {PAWN_pronoun} không bao giờ quan tâm đến việc ai bị giết hay bị chôn, hoặc bị bán. Khi {PAWN_pronoun} trò chuyện với người khác cũng không làm tăng tâm trạng.</Psychopath.degreeDatas.psychopath.description>
+	<Pyromaniac.degreeDatas.pyromaniac.label>Người cuồng lửa</Pyromaniac.degreeDatas.pyromaniac.label>
+	<Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} mê lửa và không bao giờ dập lửa. {PAWN_pronoun} thỉnh thoảng sẽ điên cuồng phóng hỏa. Khi {PAWN_pronoun} cảm thấy buồn, tình trạng này thường xảy ra. {PAWN_pronoun} cảm thấy vui khi ở gần lửa hoặc cầm vũ khí đang cháy.</Pyromaniac.degreeDatas.pyromaniac.description>
+	<QuickSleeper.degreeDatas.quick_sleeper.label>Ngủ hiệu quả</QuickSleeper.degreeDatas.quick_sleeper.label>
+	<QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} có hiệu suất ngủ cao hơn. {PAWN_pronoun} chỉ cần 2/3 thời gian nghỉ ngơi của người bình thường để phục hồi hoàn toàn.</QuickSleeper.degreeDatas.quick_sleeper.description>
+	<SlowLearner.degreeDatas.slow_learner.label>Học chậm</SlowLearner.degreeDatas.slow_learner.label>
+	<SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} có khả năng học hỏi kém. {PAWN_pronoun} học mọi thứ chậm hơn nhiều so với người bình thường.</SlowLearner.degreeDatas.slow_learner.description>
+	<TooSmart.degreeDatas.too_smart.label>Quá thông minh</TooSmart.degreeDatas.too_smart.label>
+	<TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} thực sự rất thông minh, {PAWN_pronoun} học mọi thứ nhanh hơn bất kỳ ai, nhưng tính cách lại khá kỳ quái.</TooSmart.degreeDatas.too_smart.description>
+	<TorturedArtist.degreeDatas.tortured_artist.label>Nhà nghệ sĩ khổ đau</TorturedArtist.degreeDatas.tortured_artist.label>
+	<TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} thường xuyên bị người khác xa lánh và hiểu lầm. {PAWN_pronoun} luôn cảm thấy không vui, nhưng sau khi trải qua sự sụp đổ tinh thần, sẽ có 50% khả năng nhận được cảm hứng sáng tạo.</TorturedArtist.degreeDatas.tortured_artist.description>
+	<TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Với tư cách là một nghệ sĩ khổ đau, [PAWN_nameIndef] đã nhận được một cảm hứng.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+	<Tough.degreeDatas.tough.label>Kiên cường</Tough.degreeDatas.tough.label>
+	<Tough.degreeDatas.tough.description>{PAWN_nameDef} có một cơ thể mạnh mẽ như thép. Đối mặt với tấn công, {PAWN_pronoun} chịu ít sát thương hơn người bình thường, điều này khiến {PAWN_pronoun} khó mất mạng hơn.</Tough.degreeDatas.tough.description>
+	<Transhumanist.degreeDatas.body_modder.label>Chủ nghĩa siêu nhân</Transhumanist.degreeDatas.body_modder.label>
+	<Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} cảm thấy rằng cơ thể tự nhiên của con người có giới hạn. {PAWN_pronoun} thường mơ ước về việc tăng cường bản thân thông qua việc cài đặt các bộ phận cơ thể nhân tạo hoặc cấy ghép gene khác loài.</Transhumanist.degreeDatas.body_modder.description>
+	<Undergrounder.degreeDatas.undergrounder.label>Người sống dưới lòng đất</Undergrounder.degreeDatas.undergrounder.label>
+	<Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} không cần ra ngoài. Dù ở trong nhà bao lâu, {PAWN_pronoun} cũng không cảm thấy ngột ngạt hay căng thẳng, và không bị bệnh sống cô đơn.</Undergrounder.degreeDatas.undergrounder.description>
+	<Wimp.degreeDatas.wimp.label>Yếu đuối</Wimp.degreeDatas.wimp.label>
+	<Wimp.degreeDatas.wimp.description>{PAWN_nameDef} yếu đuối và nhút nhát. Chỉ cần một vết thương nhỏ cũng có thể khiến {PAWN_objective} ngất xỉu.</Wimp.degreeDatas.wimp.description>
+</LanguageData>

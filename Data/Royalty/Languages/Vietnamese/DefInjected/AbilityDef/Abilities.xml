@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beckon.label>Gọi</Beckon.label>
+<Beckon.description>Buộc mục tiêu đến gần người thi triển phép thuật bằng sức mạnh tâm linh.</Beckon.description>
+<Berserk.label>Giận dữ</Berserk.label>
+<Berserk.description>Gieo một ý nghĩ giận dữ vào tâm trí mục tiêu, khiến họ cố gắng tấn công bất kỳ ai gần đó.</Berserk.description>
+<BerserkPulse.label>Xung Cuồng Nộ</BerserkPulse.label>
+<BerserkPulse.description>Tạo ra một cơn cuồng nộ không thể kiềm chế ở mọi người xung quanh mục tiêu.</BerserkPulse.description>
+<BlindingPulse.label>Xung Mù Lòa</BlindingPulse.label>
+<BlindingPulse.description>Làm mờ thị giác của mọi người xung quanh mục tiêu bằng cách can thiệp vào trung tâm thị giác của não.</BlindingPulse.description>
+<BulletShield.label>Hệ Thống Đạn Bắn</BulletShield.label>
+<BulletShield.description>Tạo ra một khu vực cầu vồng hình cầu, chuyển tất cả đạn bắn vào và ra đến một nơi xa. Lực trường này cũng sẽ làm nổ bất kỳ đạn dược nào có tính chất nổ. Việc ra vào của người và vật không bị ảnh hưởng.</BulletShield.description>
+<Burden.label>Gánh Nặng</Burden.label>
+<Burden.description>Làm chậm khả năng hành động của mục tiêu trong một khoảng thời gian ngắn bằng cách ức chế trung tâm vận động của não.</Burden.description>
+<ChaosSkip.label>Bước Nhảy Hỗn Loạn</ChaosSkip.label>
+<ChaosSkip.description>Chuyển mục tiêu đến một vị trí ngẫu nhiên gần vị trí ban đầu của nó. Các vật thể lớn hơn một kích thước nhất định không thể được chuyển.</ChaosSkip.description>
+<Chunkskip.label>Bước Nhảy Khối</Chunkskip.label>
+<Chunkskip.description>Chuyển 5 khối đá hoặc phế liệu gần đó đến vị trí mục tiêu gần đó. Điều này rất hữu ích để nhanh chóng tạo ra nơi trú ẩn trong các hành động tấn công.</Chunkskip.description>
+<EntropyDump.label>Chuyển Giao Entropy</EntropyDump.label>
+<EntropyDump.description>Ngay lập tức đổ hết tất cả entropy tâm linh của bạn vào mục tiêu. Làm phụ thêm, mục tiêu sẽ rơi vào trạng thái hôn mê kéo dài khoảng một ngày. Mục tiêu phải chủ động chấp nhận sự xâm nhập tâm linh, vì vậy chỉ có đồng minh tỉnh táo mới có thể trở thành mục tiêu.</EntropyDump.description>
+<Farskip.label>Bước Nhảy Xa</Farskip.label>
+<Farskip.description>Chuyển người thi triển phép thuật và tất cả những ai đứng gần đến vị trí của một đồng minh ở xa. Điều này cho phép mọi người đến những vị trí rất xa trên hành tinh, nhưng chỉ có hiệu quả khi có một đồng minh sẵn lòng làm dấu hiệu ở vị trí mục tiêu. Những người bị chuyển luôn xuất hiện gần một đồng minh ngẫu nhiên trên bản đồ mục tiêu.</Farskip.description>
+<Flashstorm.label>Bão Sét</Flashstorm.label>
+<Flashstorm.description>Sử dụng gradient áp suất khí quyển để tạo ra một cơn bão sét cục bộ. Cơn bão sẽ tấn công khu vực này bằng sét trong một khoảng thời gian trước khi tan biến.</Flashstorm.description>
+<Focus.label>Tập Trung</Focus.label>
+<Focus.description>Điều khiển mục tiêu bằng sức mạnh tâm linh để họ tập trung, nâng cao khả năng thị giác, thính giác và di chuyển của họ.</Focus.description>
+<Invisibility.label>Vô Hình</Invisibility.label>
+<Invisibility.description>Điều khiển trung tâm thị giác của mọi người xung quanh để họ không thể nhận diện một cá nhân cụ thể trong một khoảng thời gian ngắn.</Invisibility.description>
+<ManhunterPulse.label>Xung Săn Người</ManhunterPulse.label>
+<ManhunterPulse.description>Kích thích động vật xung quanh rơi vào trạng thái săn lùng con người.</ManhunterPulse.description>
+<MassChaosSkip.label>Bước Nhảy Hỗn Loạn Tập Hợp</MassChaosSkip.label>
+<MassChaosSkip.description>Chuyển tất cả mọi người trong một khu vực đến vị trí ngẫu nhiên gần đó. Các vật thể quá lớn không thể được chuyển.</MassChaosSkip.description>
+<Neuroquake.label>Động Đất Tâm Linh</Neuroquake.label>
+<Neuroquake.description>Tìm một điểm không liên tục trong trường tâm linh, mở rộng nó và phát ra một lượng lớn năng lượng tâm linh. Mọi sinh vật bên ngoài vòng an toàn sẽ rơi vào trạng thái cuồng nộ. Việc thi triển khả năng này cần 12 giây thiền định và sẽ khiến người thi triển rơi vào trạng thái sốc tâm linh trong 5 ngày. Tiếng vọng đáng lo ngại của động đất tâm linh sẽ gây đau khổ cho mọi người trong bán kính vài km và ảnh hưởng đến ngoại giao của tất cả các phe phái.</Neuroquake.description>
+<Neuroquake.confirmationDialogText>Nếu bạn sử dụng động đất tâm linh, tất cả mọi người trong khu vực này sẽ cảm nhận được tiếng vọng của "động đất tâm linh", và bạn sẽ mất đi mối quan hệ tốt đẹp với tất cả các phe phái không thù địch.\n\nĐộng đất tâm linh cần 12 giây để thi triển và không thể bị gián đoạn. Sau khi hoàn thành, người thi triển cũng sẽ rơi vào trạng thái sốc tâm linh trong 5 ngày.\n\nNgoài người thi triển, những người khác trên bản đồ sẽ bị ảnh hưởng.\n\nBạn có chắc chắn muốn thi triển động đất tâm linh không?</Neuroquake.confirmationDialogText>
+<Painblock.label>Chặn Đau</Painblock.label>
+<Painblock.description>Can thiệp vào trung tâm cảm giác đau của mục tiêu trong một khoảng thời gian ngắn, khiến mục tiêu có thể tiếp tục đứng vững và chiến đấu ngay cả khi bị thương nặng.</Painblock.description>
+<Skip.label>Bước Nhảy</Skip.label>
+<Skip.description>Chuyển mục tiêu đến một vị trí cụ thể không xa điểm gốc. Các vật thể quá lớn không thể được chuyển.</Skip.description>
+<Smokepop.label>Khói</Smokepop.label>
+<Smokepop.description>Sử dụng các hạt bụi trên mặt đất để tạo ra một đám khói dày đặc, làm giảm độ chính xác của bất kỳ viên đạn nào đi qua nó và ngăn chặn việc bị tháp pháo khóa chính xác.</Smokepop.description>
+<SolarPinhole.label>Khe Hở Sao</SolarPinhole.label>
+<SolarPinhole.description>Tạo ra một khe hở nhỏ liên kết với một ngôi sao gần đó. Vật chất từ ngôi sao sẽ xuyên qua thời gian và không gian, chiếu sáng và làm nóng khu vực xung quanh cho đến khi khe hở tan biến. Độ sáng này có thể giúp bạn làm việc bình thường, nhưng không đủ để hỗ trợ sự sống của thực vật.</SolarPinhole.description>
+<Speech.label>Bài Phát Biểu Hùng Hồn</Speech.label>
+<Speech.description>Phát biểu từ ngai vàng, triệu tập tất cả thuộc địa đến hội trường để nghe bài phát biểu. Một bài phát biểu thành công sẽ khích lệ thính giả và khiến người phát biểu được tôn trọng. Nếu tiến triển không thuận lợi, bài phát biểu sẽ gây tổn hại xã hội. Kết quả phụ thuộc vào khả năng xã hội của người phát biểu.</Speech.description>
+<Stun.label>Đánh Ngất</Stun.label>
+<Stun.description>Làm rối loạn trung tâm vận động của mục tiêu ngay lập tức, khiến nó không thể hành động.</Stun.description>
+<VertigoPulse.label>Xung Chóng Mặt</VertigoPulse.label>
+<VertigoPulse.description>Can thiệp vào tiểu não của những người xung quanh mục tiêu, gây ra cảm giác mất cân bằng tạm thời. Đối với động vật, điều này sẽ gây cảm giác buồn nôn và chóng mặt.</VertigoPulse.description>
+<Wallraise.label>Nâng Tường</Wallraise.label>
+<Wallraise.description>Di chuyển đá vụn và đất sâu dưới lòng đất để tạo thành một bức tường tạm thời.</Wallraise.description>
+<Waterskip.label>Chuyển Nước</Waterskip.label>
+<Waterskip.description>Phun nước vào khu vực mục tiêu để dập tắt ngọn lửa. Nước này được chuyển từ các nguồn nước xa hoặc từ tầng nước ngầm.</Waterskip.description>
+<WordOfInspiration.label>Ngôn Từ Khơi Gợi</WordOfInspiration.label>
+<WordOfInspiration.description>Truyền năng lượng tâm linh thông qua những lời khích lệ sáng tạo, tăng tốc độ suy nghĩ của mục tiêu. Mục tiêu sẽ nhận được một cảm hứng ngẫu nhiên phù hợp.</WordOfInspiration.description>
+<WordOfJoy.label>Ngôn Từ Vui Vẻ</WordOfJoy.label>
+<WordOfJoy.description>Truyền năng lượng tâm linh thông qua những lời nói vui vẻ, đồng thời sử dụng tâm linh để gợi ý một cảm xúc vui vẻ trong suy nghĩ của mục tiêu. Cảm xúc vui vẻ sẽ ức chế những suy nghĩ không vui của mục tiêu để cải thiện tâm trạng. Hành động này có tác dụng phụ là làm cho người cảm thấy chậm chạp và giảm ý thức.</WordOfJoy.description>
+<WordOfLove.label>Ngôn Từ Tình Yêu</WordOfLove.label>
+<WordOfLove.description>Truyền tình yêu đến một người nào đó, đồng thời sử dụng tâm linh để gợi ý tình cảm đến người nghe. Trong những ngày tiếp theo, người nghe sẽ bị thu hút bởi một ai đó trong tình yêu và tăng cường cảm tình đối với họ, khiến họ có khả năng thể hiện tình cảm khi có cơ hội. Khả năng tâm linh này có thể được sử dụng để kết nối hai người không liên quan, gợi ý tình yêu của mục tiêu đối với người thi triển, hoặc khiến bản thân yêu một người khác.</WordOfLove.description>
+<WordOfSerenity.label>Ngôn Từ Bình Yên</WordOfSerenity.label>
+<WordOfSerenity.description>Thông qua những lời nói bình yên và gợi ý tâm linh để kết thúc trạng thái sụp đổ tinh thần của con người hoặc động vật. Mục tiêu sẽ rơi vào giấc ngủ tâm linh ngắn. Mức tiêu thụ năng lượng tâm linh phụ thuộc vào cường độ sụp đổ tinh thần của mục tiêu.</WordOfSerenity.description>
+<WordOfTrust.label>Ngôn Từ Tin Cậy</WordOfTrust.label>
+<WordOfTrust.description>Nói chuyện với tù nhân, đồng thời sử dụng tâm linh để giảm bớt cảm xúc kháng cự đối với việc tuyển mộ. Khả năng tâm linh này chỉ có thể giảm kháng cự của tù nhân, không thể tuyển mộ họ.</WordOfTrust.description>
+</LanguageData>

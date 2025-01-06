@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Confirm>Xác nhận</Confirm>
+	<GoBack>Quay lại</GoBack>
+	<WantToContinue>Bạn có muốn tiếp tục không?</WantToContinue>
+	<OK>Xác nhận</OK>
+	<Close>Đóng</Close>
+	<Accept>Chấp nhận</Accept>
+	<Cancel>Hủy bỏ</Cancel>
+	<Reset>Đặt lại</Reset>
+	<ResetAll>Đặt lại tất cả</ResetAll>
+	<Disable>Vô hiệu hóa</Disable>
+	<Modify>Chỉnh sửa</Modify>
+	<ConfirmSettle>Bạn có chắc chắn muốn định cư ở đây không?</ConfirmSettle>
+	<Add>Thêm</Add>
+	<CannotShoot>Không thể bắn</CannotShoot>
+	<GameUpdatedToNewVersionInitial>Rimworld đã được cập nhật từ phiên bản {0} lên phiên bản {1}.</GameUpdatedToNewVersionInitial>
+	<GameUpdatedToNewVersionSavesIncompatible>Có thể gây ra lỗi khi đọc và sử dụng các bản lưu và Mod cũ.</GameUpdatedToNewVersionSavesIncompatible>
+	<GameUpdatedToNewVersionSavesCompatible>Bản lưu cũ nên tương thích, nhưng một số Mod có thể không sử dụng được.</GameUpdatedToNewVersionSavesCompatible>
+	<GameUpdatedToNewVersionNonSteam>Bởi vì trò chơi của bạn là phiên bản không có DRM, bạn có thể chọn cài đặt phiên bản mới trong các thư mục khác nhau, vì vậy bạn có thể chơi cả phiên bản cũ và mới cùng lúc.</GameUpdatedToNewVersionNonSteam>
+	<GameUpdatedToNewVersionSteam>Bạn có thể chọn sử dụng phiên bản cũ để chơi trong tùy chọn "Beta" của Steam.\n\n 1. Nhấp chuột phải vào RimWorld trong "Thư viện trò chơi" của Steam\n 2. Nhấp vào "Thuộc tính"\n 3. Chọn tab "Beta"\n 4. Chọn phiên bản bạn muốn chơi trong menu thả xuống.</GameUpdatedToNewVersionSteam>
+	<GameUpdatedToNewVersionSteamController>Bạn có thể chọn sử dụng phiên bản cũ để chơi trong tùy chọn "Beta" của Steam.</GameUpdatedToNewVersionSteamController>
+	<RecoveredFromErrorsDialogTitle>Khôi phục từ lỗi Mod không tương thích hoặc bị hỏng</RecoveredFromErrorsDialogTitle>
+	<RecoveredFromErrorsText>Các Mod đang bật hiện tại đã gây ra lỗi.\n\nChúng có thể không tương thích với nhau, hoặc tương thích với các phiên bản trò chơi khác nhau hoặc đã bị hỏng.\n\nTất cả các Mod đã bị vô hiệu hóa, bạn có thể bật lại trong menu cấu hình Mod.</RecoveredFromErrorsText>
+	<ErrorWhileLoadingAssetsTitle>Lỗi khi tải tài nguyên</ErrorWhileLoadingAssetsTitle>
+	<ErrorWhileLoadingAssets>Đã xảy ra lỗi khi tải tài nguyên trò chơi. Vui lòng kiểm tra nhật ký lỗi để biết thêm thông tin.</ErrorWhileLoadingAssets>
+	<ErrorWhileLoadingAssets_ModsInfo>Trò chơi hiện tại đã tải các Mod tùy chỉnh, chúng có thể gây ra những vấn đề này.</ErrorWhileLoadingAssets_ModsInfo>
+	<ErrorWhileGeneratingMapTitle>Lỗi khi tạo bản đồ</ErrorWhileGeneratingMapTitle>
+	<ErrorWhileGeneratingMap>Đã xảy ra lỗi khi tạo bản đồ mới. Vui lòng kiểm tra nhật ký lỗi để biết thêm thông tin.</ErrorWhileGeneratingMap>
+	<ErrorWhileLoadingMapTitle>Lỗi khi tải bản đồ</ErrorWhileLoadingMapTitle>
+	<ErrorWhileLoadingMap>Đã xảy ra lỗi khi tải bản đồ. Vui lòng kiểm tra nhật ký lỗi để biết thêm thông tin.</ErrorWhileLoadingMap>
+	<ModsChanged>Danh sách Mod đã được thay đổi. Trò chơi sẽ tự động khởi động lại ngay lập tức.</ModsChanged>
+	<FailedToRestart>Đã xảy ra lỗi khi khởi động lại trò chơi. Trò chơi không thể hoàn toàn gỡ bỏ mã sửa đổi của Mod đã tắt, vì vậy mã từ các Mod đã tắt vẫn sẽ có hiệu lực.\n\nKhuyên bạn nên thoát và khởi động lại trò chơi để tải lại tất cả Mod một cách sạch sẽ.</FailedToRestart>
+	<Restarting>Đang khởi động lại</Restarting>
+	<SteamClientMissing>Không thể khởi tạo API Steam. Nguyên nhân có thể:\n\n- Steam không chạy.\n- Khởi động bên ngoài Steam và không thể tải steam_appid.txt.\n- Khởi động với quyền khác với Steam (ví dụ: "quyền quản trị").\n\nTrong hầu hết các trường hợp, khởi động lại máy tính của bạn có thể giải quyết vấn đề này.\n\nBạn có thể tiếp tục chơi, nhưng thông tin thống kê của Steam sẽ không được ghi lại và các chức năng của Steam sẽ không hoạt động.</SteamClientMissing>
+	<InitializingInterface>Đang khởi tạo giao diện</InitializingInterface>
+	<UnloadingUnusedAssets>Giải phóng tài nguyên không sử dụng</UnloadingUnusedAssets>
+	<LoadingAllActiveMods>Đang tải tất cả Mod đã bật</LoadingAllActiveMods>
+	<LoadingDefs>Đang tải Defs</LoadingDefs>
+	<LoadingAssets>Đang tải tài nguyên</LoadingAssets>
+	<Initializing>Đang khởi tạo</Initializing>
+	<LoadingWorld>Đang tải thế giới</LoadingWorld>
+	<LoadingMap>Đang tải bản đồ</LoadingMap>
+	<InitializingGame>Đang khởi tạo trò chơi</InitializingGame>
+	<SpawningAllThings>Đang sinh ra tất cả vật thể</SpawningAllThings>
+	<SpawningColonists>Đang sinh ra các thuộc địa</SpawningColonists>
+	<SaveGameButton>Lưu</SaveGameButton>
+	<LoadGameButton>Tải</LoadGameButton>
+	<OverwriteButton>Ghi đè</OverwriteButton>
+	<ConfirmDelete>Bạn có chắc chắn muốn xóa “{0}” không?</ConfirmDelete>
+	<DeleteThisSavegame>Xóa bản lưu này.</DeleteThisSavegame>
+	<SavedAs>Đã lưu thành “{0}”.</SavedAs>
+	<NeedAName>Vui lòng nhập một tên.</NeedAName>
+	<LoadingLongEvent>Đang tải</LoadingLongEvent>
+	<SavingLongEvent>Đang lưu</SavingLongEvent>
+	<PermadeathModeSaveSuffix>（Chế độ tử vong vĩnh viễn）</PermadeathModeSaveSuffix>
+	<SaveIsFromDifferentGameVersion>Phiên bản trò chơi hiện tại là {0},nhưng phiên bản dữ liệu lưu là {1},hai phiên bản hoàn toàn khác nhau.\n\nViệc tải lên sẽ không thành công.</SaveIsFromDifferentGameVersion>
+	<SaveIsFromDifferentGameBuild>Phiên bản trò chơi hiện tại là {0},nhưng phiên bản dữ liệu lưu là {1},hai phiên bản phụ khác nhau.\n\nViệc tải lên có thể thành công.</SaveIsFromDifferentGameBuild>
+	<SaveIsFromThisGameBuild>Phiên bản dữ liệu lưu và phiên bản trò chơi hiện tại nhất quán, có thể tải lên chính xác.</SaveIsFromThisGameBuild>
+	<SaveIsUnknownFormat>Định dạng dữ liệu lưu không hợp lệ, không thể tải lên đúng cách.</SaveIsUnknownFormat>
+	<ProblemSavingFile>Đã xảy ra lỗi khi lưu tệp {0}:\n\n{1}\n\nXem nhật ký lỗi để biết thêm thông tin.</ProblemSavingFile>
+	<LoadAnyway>Vẫn tải lên</LoadAnyway>
+	<ChangeLoadedMods>Tải danh sách Mod từ dữ liệu lưu</ChangeLoadedMods>
+	<MissingMods>Các Mod một phần không khả dụng, cần phải cài đặt.</MissingMods>
+	<OfficialContent>Nội dung chính thức</OfficialContent>
+	<ContentActive>Đã kích hoạt</ContentActive>
+	<ContentInstalledButNotActive>Đã cài đặt nhưng chưa kích hoạt</ContentInstalledButNotActive>
+	<ContentNotInstalled>Chưa cài đặt</ContentNotInstalled>
+	<NamePlayerFactionMessage>{0} cảm thấy bạn nên đặt tên cho phái của mình. Nó được gọi là gì thì tốt hơn?</NamePlayerFactionMessage>
+	<PlayerFactionGainsName>Phái của bạn hiện được gọi là {0}.</PlayerFactionGainsName>
+	<PlayerFactionNameIsInvalid>Tên phái này không hợp lệ.</PlayerFactionNameIsInvalid>
+	<NamePlayerFactionBaseMessage>Có vẻ như bạn có thể ở lại đây một thời gian, {0} cảm thấy bạn nên đặt tên cho khu định cư này. Nó được gọi là gì thì tốt hơn?</NamePlayerFactionBaseMessage>
+	<PlayerFactionBaseGainsName>Khu định cư này hiện được gọi là {0}.</PlayerFactionBaseGainsName>
+	<PlayerFactionBaseNameIsInvalid>Tên khu định cư này không hợp lệ.</PlayerFactionBaseNameIsInvalid>
+	<NamePlayerFactionBaseMessage_NameFactionContinuation>Có vẻ như bạn có thể ở lại đây một thời gian, {0} cảm thấy bạn cũng nên đặt tên cho khu định cư này. Nó được gọi là gì thì tốt hơn?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+	<PlayerFactionAndBaseGainsName>Phái của bạn có tên là {0}, khu định cư này hiện được gọi là {1}.</PlayerFactionAndBaseGainsName>
+	<NameIsInvalid>Vui lòng nhập một tên hợp lệ.</NameIsInvalid>
+	<NameIsInUse>Tên đã được sử dụng.</NameIsInUse>
+	<ZoneGainsName>Tên khu vực này đã được đổi thành {0}.</ZoneGainsName>
+	<NameInvalid>Tên không hợp lệ.</NameInvalid>
+	<PawnGainsName>Biệt danh của người này đã đổi thành {0}.{PAWN_possessive} giờ gọi là {PAWN_title}.</PawnGainsName>
+	<AnimalGainsName>Tên của con vật này đã đổi thành {0}.</AnimalGainsName>
+	<RenamePerson>Đổi tên</RenamePerson>
+	<Mother>Mẹ</Mother>
+	<Father>Bố</Father>
+	<Unknown>Không xác định</Unknown>
+	<FirstName>Tên</FirstName>
+	<NickName>Biệt danh</NickName>
+	<LastName>Họ</LastName>
+	<Suggested>Gợi ý</Suggested>
+	<ChooseNewWanderers>Chọn các kẻ lang thang mới</ChooseNewWanderers>
+	<VersionMismatch>Phiên bản không khớp</VersionMismatch>
+	<SaveGameIncompatibleWarningText>Phiên bản dữ liệu lưu là {0},phiên bản trò chơi hiện tại là {1}.\n\nViệc tải dữ liệu này có thể gây ra sự cố hoặc lỗi trong trò chơi.</SaveGameIncompatibleWarningText>
+	<WorldFileVersionMismatch>Phiên bản thế giới được tạo là {0},phiên bản trò chơi hiện tại là {1}.\n\nViệc tải thế giới này có thể gây ra sự cố hoặc lỗi trong trò chơi. Khuyên bạn nên tạo lại một thế giới mới.</WorldFileVersionMismatch>
+	<FileIncompatibleWarning>Phiên bản trò chơi đã lưu tệp này là {0}.\nPhiên bản trò chơi hiện tại là {1}\n\nViệc tải tệp này có thể dẫn đến lỗi hoặc sự cố.</FileIncompatibleWarning>
+	<ModsMismatchWarningTitle>Mod không khớp</ModsMismatchWarningTitle>
+	<ModsMismatchWarningText>Cài đặt Mod của dữ liệu lưu và cài đặt trò chơi hiện tại khác nhau, bạn đã thay đổi Mod, có thể gây ra vấn đề tùy thuộc vào nội dung của Mod, hoặc có thể bình thường.</ModsMismatchWarningText>
+	<ModsMismatchOrderChanged>Không có Mod nào bị xóa hoặc thêm, nhưng thứ tự danh sách Mod của bạn đã thay đổi.</ModsMismatchOrderChanged>
+	<ConfirmLoadSaveList>Bạn có chắc chắn muốn tải danh sách mod từ dữ liệu lưu này không?</ConfirmLoadSaveList>
+	<ConfirmResolutionChange>Độ phân giải đã thay đổi, có muốn giữ cấu hình độ phân giải hiện tại không?\n\nSẽ khôi phục cài đặt ban đầu sau {0} giây……</ConfirmResolutionChange>
+	<ResolutionKeep>Giữ lại</ResolutionKeep>
+	<ResolutionRevert>Khôi phục</ResolutionRevert>
+	<ConfirmPermanentlyDisableDevMode>Bạn có thực sự muốn vô hiệu hóa chế độ nhà phát triển vĩnh viễn trên máy tính này không?</ConfirmPermanentlyDisableDevMode>
+	<ConfirmResetLearningHelper>Bạn có chắc chắn muốn đặt lại trợ lý dạy học không? Tất cả các ghi chép về các khái niệm đã học sẽ bị xóa, hệ thống sẽ dạy tất cả mọi thứ từ đầu.</ConfirmResetLearningHelper>
+	<RestartAfterImportingLegacyBackstoryTanslations>Câu chuyện nền bây giờ được hiện thực hóa dưới dạng def, tất cả các bản dịch câu chuyện nền cũ đã được nhập vào bản dịch def. Tệp {0} đã được nhập và chuyển đến {1}. Nó bây giờ có thể bị xóa.\n\nKhởi động lại trò chơi để thay đổi có hiệu lực.</RestartAfterImportingLegacyBackstoryTanslations>
+	<SelectedCharactersMustInclude>Phải bao gồm chính xác {SUMMARY}</SelectedCharactersMustInclude>
+	<MapTemperatureDangerWarning>Cảnh báo: bạn sẽ hạ cánh tại một khu vực đông lạnh. Điều này sẽ khiến việc sinh tồn trở nên rất khó khăn hoặc thậm chí không thể. Nếu bạn không muốn thử thách trong môi trường khắc nghiệt, hãy chọn một điểm hạ cánh khác hoặc một tháng khác.</MapTemperatureDangerWarning>
+	<MapSizePerformanceWarning>Trò chơi này được thiết kế để chơi trên một bản đồ trung bình. Những kích thước này cung cấp đủ không gian!\n\nBản đồ lớn không chỉ làm giảm hiệu suất trò chơi mà còn phá hủy mục tiêu thiết kế của trò chơi. AI có thể đưa ra quyết định không thông minh và sự cân bằng trò chơi có thể bị ảnh hưởng nghiêm trọng ở nhiều phương diện. Những kích thước bản đồ này chỉ được sử dụng cho việc kế thừa và thử nghiệm dữ liệu lưu, nếu không có lý do cụ thể thì không nên sử dụng.</MapSizePerformanceWarning>
+	<MapSize>Kích thước bản đồ</MapSize>
+	<MapSizeDesc>{0}x{0}（{1} ô vuông）</MapSizeDesc>
+	<MapSizeSmall>Nhỏ</MapSizeSmall>
+	<MapSizeMedium>Trung bình</MapSizeMedium>
+	<MapSizeLarge>Lớn</MapSizeLarge>
+	<MapSizeExtreme>Siêu lớn（thử nghiệm）</MapSizeExtreme>
+	<MapStartSeason>Mùa bắt đầu:</MapStartSeason>
+	<MapStartSeasonDefault>Tự động</MapStartSeasonDefault>
+	<Notice>Thông báo</Notice>
+	<Suspended>Đã tạm dừng</Suspended>
+	<NotSuspended>Chưa tạm dừng</NotSuspended>
+	<SuspendedAllCaps>ĐÃ TẠM DỪNG</SuspendedAllCaps>
+	<RepeatCount>Lặp lại: </RepeatCount>
+	<Forever>Vĩnh viễn</Forever>
+	<Details>Chi tiết</Details>
+	<IngredientSearchRadius>Bán kính tìm kiếm nguyên liệu</IngredientSearchRadius>
+	<CurrentlyHave>Hiện có</CurrentlyHave>
+	<CountingProducts>Đếm</CountingProducts>
+	<Infinite>Vô hạn</Infinite>
+	<AllowedSkillRange>Phạm vi kỹ năng của người lao động {0}: </AllowedSkillRange>
+	<IncompatibleLower>Không tương thích</IncompatibleLower>
+	<AnyWorker>Bất kỳ người lao động nào</AnyWorker>
+	<Unlimited>Không giới hạn</Unlimited>
+	<RecipeCannotHaveTargetCount>（vì sản phẩm của công thức có nhiều hoặc không thể dự đoán, nên không thể chỉ định số lượng mục tiêu cho nó）</RecipeCannotHaveTargetCount>
+	<WorkAmount>Số lượng công việc</WorkAmount>
+	<MinimumSkills>Yêu cầu kỹ năng tối thiểu: </MinimumSkills>
+	<BillRequires>Cần</BillRequires>
+	<BillNutrition>Dinh dưỡng</BillNutrition>
+	<BillRequiresMayVary>Chú ý: Nguyên liệu có thể tích nhỏ (ví dụ như vàng) cần nhân {0} lần lượng nguyên liệu tiêu hao.</BillRequiresMayVary>
+	<ThisIsSmallVolume>Đây là loại nguyên liệu có thể tích nhỏ, mỗi đơn vị chỉ bằng 1/{0} thể tích nguyên liệu bình thường. Vì vậy, nếu yêu cầu cùng một lượng nguyên liệu, thực tế cần {0} lần lượng đó.</ThisIsSmallVolume>
+	<UsableIngredients>Nguyên liệu có thể sử dụng</UsableIngredients>
+	<BillRepeatTargetCountShort>Đến {0}</BillRepeatTargetCountShort>
+	<PauseWhenSatisfied>Tạm dừng khi đạt đủ số lượng</PauseWhenSatisfied>
+	<UnpauseWhenYouHave>Số lượng để tiếp tục</UnpauseWhenYouHave>
+	<Paused>Đã tạm dừng</Paused>
+	<Unpause>Tiếp tục</Unpause>
+	<IncludeEquipped>Bao gồm đã trang bị</IncludeEquipped>
+	<IncludeTainted>Bao gồm đã thuần hóa</IncludeTainted>
+	<LimitToAllowedStuff>Hạn chế nguyên liệu</LimitToAllowedStuff>
+	<IncludeFromAll>Từ bất cứ nơi nào</IncludeFromAll>
+	<IncludeSpecific>Từ {0}</IncludeSpecific>
+	<StockpilePlural>Kho</StockpilePlural>
+	<ShelfPlural>Giá</ShelfPlural>
+	<GroupPlural>Nhóm</GroupPlural>
+	<Damage>Sát thương</Damage>
+	<ArmorPenetration>Xuyên giáp</ArmorPenetration>
+	<ArmorPenetrationExplanation>Xuyên giáp chỉ số giáp mà vũ khí sẽ bỏ qua mỗi khi đánh trúng mục tiêu.\n\nNếu xuyên giáp lớn hơn giáp của mục tiêu, mục tiêu coi như không có giáp, nếu không giáp thực tế bằng giáp của mục tiêu trừ đi xuyên giáp của vũ khí.</ArmorPenetrationExplanation>
+	<BuildingDamageFactor>Hệ số sát thương công trình</BuildingDamageFactor>
+	<BuildingDamageFactorExplanation>Sát thương đối với tất cả các công trình sẽ được nhân với giá trị này.</BuildingDamageFactorExplanation>
+	<BuildingDamageFactorImpassable>Hệ số sát thương công trình (không thể đi qua)</BuildingDamageFactorImpassable>
+	<BuildingDamageFactorImpassableExplanation>Sát thương đối với tất cả các công trình không thể đi qua sẽ được nhân với giá trị này.</BuildingDamageFactorImpassableExplanation>
+	<BuildingDamageFactorPassable>Hệ số sát thương công trình (có thể đi qua)</BuildingDamageFactorPassable>
+	<BuildingDamageFactorPassableExplanation>Sát thương đối với tất cả các công trình có thể đi qua sẽ được nhân với giá trị này.</BuildingDamageFactorPassableExplanation>
+	<Accuracy>Độ chính xác</Accuracy>
+	<BurstShotCount>Số lần bắn liên tiếp</BurstShotCount>
+	<WarmupTime>Thời gian làm nóng</WarmupTime>
+	<MeleeWarmupTime>Thời gian làm nóng cận chiến</MeleeWarmupTime>
+	<RangedWarmupTime>Thời gian ngắm bắn</RangedWarmupTime>
+	<CooldownTime>Thời gian hồi chiêu</CooldownTime>
+	<DisarmedTime>Thời gian mất vũ khí</DisarmedTime>
+	<ChargingTime>Đang nạp năng lượng</ChargingTime>
+	<ChargingNext>Nạp năng lượng tiếp theo (kéo dài {1}) cần: {0}\nChu kỳ nạp năng lượng: {2}</ChargingNext>
+	<ShutDown>Tắt máy</ShutDown>
+	<BurstShotFireRate>Tốc độ bắn</BurstShotFireRate>
+	<Range>Tầm bắn</Range>
+	<StoppingPower>Khả năng khống chế</StoppingPower>
+	<StoppingPowerExplanation>Vũ khí này sẽ làm gián đoạn bước chân của mục tiêu, làm giảm tốc độ di chuyển trong vài giây. Mục tiêu có kích thước lớn hơn khả năng khống chế sẽ không bị ảnh hưởng.</StoppingPowerExplanation>
+	<DirectHitChance>Tỷ lệ trúng đích</DirectHitChance>
+	<MissRadius>Bán kính lệch</MissRadius>
+	<GrowsWild>Dại</GrowsWild>
+	<Harvestable>Có thể thu hoạch</Harvestable>
+	<LimitedLifespan>Tuổi thọ hữu hạn</LimitedLifespan>
+	<GrowingTime>Thời gian sinh trưởng</GrowingTime>
+	<HarvestYield>Năng suất thu hoạch</HarvestYield>
+	<MinGrowthTemperature>Nhiệt độ sinh trưởng tối thiểu</MinGrowthTemperature>
+	<MaxGrowthTemperature>Nhiệt độ sinh trưởng tối đa</MaxGrowthTemperature>
+	<GrowingTimeDesc>Cây trồng chỉ sinh trưởng trong một số thời gian nhất định trong ngày và chỉ khi có đủ ánh sáng.\n\nThời gian sinh trưởng là thời gian sinh trưởng hiệu quả để cây phát triển hoàn toàn, vì vậy thời gian trưởng thành thực tế sẽ lâu hơn gấp đôi.\nNhiệt độ thấp cũng làm chậm tốc độ sinh trưởng của cây.</GrowingTimeDesc>
+	<Days>Ngày</Days>
+	<MinGrowingSkillToSow>Kỹ năng trồng trọt tối thiểu</MinGrowingSkillToSow>
+	<FertilityRequirement>Yêu cầu độ màu mỡ</FertilityRequirement>
+	<FertilitySensitivity>Độ nhạy cảm với độ màu mỡ</FertilitySensitivity>
+	<LightRequirement>Yêu cầu ánh sáng</LightRequirement>
+	<Attributes>Thuộc tính</Attributes>
+	<LifeSpan>Tuổi thọ</LifeSpan>
+	<Nutrition>Dinh dưỡng</Nutrition>
+	<Joy>Giải trí</Joy>
+	<FoodQuality>Chất lượng thực phẩm</FoodQuality>
+	<WalkSpeedProperty>Tốc độ di chuyển</WalkSpeedProperty>
+	<MinFoodQuality>Chất lượng thực phẩm tối thiểu</MinFoodQuality>
+	<Diet>Chế độ ăn</Diet>
+	<NutritationEatenPerDay>Nhu cầu dinh dưỡng mỗi ngày</NutritationEatenPerDay>
+	<LeatherType>Loại da</LeatherType>
+	<BodySize>Kích thước cơ thể</BodySize>
+	<Growth>Sinh trưởng</Growth>
+	<RecruitDifficulty>Độ khó tuyển dụng</RecruitDifficulty>
+	<MarketValue>Giá trị thị trường</MarketValue>
+	<Covers>Phủ</Covers>
+	<CreatedAt>Được tạo vào</CreatedAt>
+	<Layer>Lớp</Layer>
+	<CoverEffectiveness>Hiệu quả che chắn</CoverEffectiveness>
+	<CoverEffectivenessExplanation>Khi chiến đấu, vật thể này có thể cung cấp hiệu quả che chắn, giá trị cao hơn có thể ngăn chặn nhiều sát thương hơn.</CoverEffectivenessExplanation>
+	<MedicineXpGainFactor>Hệ số kinh nghiệm nhận được</MedicineXpGainFactor>
+	<MoodChange>Thay đổi tâm trạng</MoodChange>
+	<Wildness>Hoang dã</Wildness>
+	<WildnessExplanation>Độ hoang dã của động vật càng cao, càng khó thuần hóa, huấn luyện và điều khiển.</WildnessExplanation>
+	<TrainingDecayInterval>Khoảng thời gian suy giảm huấn luyện</TrainingDecayInterval>
+	<TamenessWillNotDecay>Đối với động vật có độ hoang dã rất thấp, mức độ huấn luyện sẽ không bị suy giảm.</TamenessWillNotDecay>
+	<TamenessWillNotDecayFenceBlocked>Đối với động vật có thể bị nhốt trong chuồng, mức độ huấn luyện sẽ không bị suy giảm.</TamenessWillNotDecayFenceBlocked>
+	<TimeRecordsCategory>Thời gian</TimeRecordsCategory>
+	<MiscRecordsCategory>Chủ đề khác</MiscRecordsCategory>
+	<Chemical>Chất hóa học</Chemical>
+	<HighGain>Nồng độ thuốc</HighGain>
+	<HighFallRate>Tốc độ giảm nồng độ</HighFallRate>
+	<HighDuration>Thời gian nồng độ hiệu quả</HighDuration>
+	<ToleranceGain>Kháng thuốc mỗi liều</ToleranceGain>
+	<ToleranceFallRate>Tốc độ giảm kháng thuốc</ToleranceFallRate>
+	<MinimumToleranceForAddiction>Ngưỡng kháng thuốc cho nghiện</MinimumToleranceForAddiction>
+	<SafeDoseInterval>Khoảng thời gian sử dụng an toàn cho người lớn</SafeDoseInterval>
+	<AgeXToY>Độ tuổi {0}-{1}</AgeXToY>
+	<AgePlus>Độ tuổi {0}+</AgePlus>
+	<Addictiveness>Tính gây nghiện</Addictiveness>
+	<AddictionSeverityInitial>Mức độ nghiện ban đầu</AddictionSeverityInitial>
+	<AddictionSeverityPerDose>Mức độ nghiện mỗi liều</AddictionSeverityPerDose>
+	<AddictionNeedOffset>Cần thiết để thỏa mãn mỗi liều</AddictionNeedOffset>
+	<AddictionNeedFallRate>Tốc độ giảm nhu cầu nghiện</AddictionNeedFallRate>
+	<AddictionNeedDoseInterval>Khoảng thời gian nhu cầu nghiện</AddictionNeedDoseInterval>
+	<AddictionRecoveryTime>Thời gian phục hồi nghiện</AddictionRecoveryTime>
+	<AddictionCost>Chi phí nghiện</AddictionCost>
+	<RandomODChance>Xác suất quá liều ngẫu nhiên</RandomODChance>
+	<AlwaysSafe>Luôn an toàn</AlwaysSafe>
+	<NeverSafe>Nguy hiểm</NeverSafe>
+	<PerDay>{0}/ngày</PerDay>
+	<PerHour>{0}/giờ</PerHour>
+	<XpPerHour>{0} kinh nghiệm/giờ</XpPerHour>
+	<PackAnimal>Động vật gùi hàng</PackAnimal>
+	<PackAnimalExplanation>Động vật này có phù hợp để vận chuyển hàng hóa trong một đoàn đi xa không.</PackAnimalExplanation>
+	<Skill>Kỹ năng</Skill>
+	<SurgerySuccessChanceFactor>Hệ số tỷ lệ thành công</SurgerySuccessChanceFactor>
+	<SurgeryDeathOnFailChance>Tỷ lệ tử vong khi phẫu thuật thất bại</SurgeryDeathOnFailChance>
+	<WorkSpeedStat>Ảnh hưởng đến tốc độ làm việc</WorkSpeedStat>
+	<EfficiencyStat>Ảnh hưởng đến số lượng sản xuất</EfficiencyStat>
+	<SkillRequiredToBuild>Kỹ năng cần thiết để xây dựng {0}</SkillRequiredToBuild>
+	<SkillRequiredToBuildExplanation>Cần có cấp độ {0} này để thực hiện xây dựng.</SkillRequiredToBuildExplanation>
+	<NuzzleInterval>Khoảng thời gian thân mật</NuzzleInterval>
+	<NuzzleIntervalExplanation>Cho biết động vật sẽ thân mật với các thuộc địa thân thiện như thế nào.\n\nThân mật là hành vi mà nhiều động vật có, khi chúng dùng mũi hoặc miệng để chạm vào bạn bè như một dấu hiệu của tình bạn.\nHầu hết con người đều thấy điều này dễ thương và sẽ có tâm trạng tốt trong một khoảng thời gian.</NuzzleIntervalExplanation>
+	<HarmedRevengeChance>Xác suất trả thù khi bị thương</HarmedRevengeChance>
+	<HarmedRevengeChanceExplanation>Loài này có khả năng phản công khi bị thương.\n\nNếu kẻ tấn công ở gần, khả năng này có thể tăng gấp ba lần.\n\nKhả năng này sẽ được áp dụng mỗi lần bị thương. Điều này có nghĩa là, vũ khí có tốc độ bắn chậm và sát thương cao sẽ ít có khả năng kích hoạt nó khi đi săn.</HarmedRevengeChanceExplanation>
+	<TameFailedRevengeChance>Xác suất tấn công khi thuần hóa thất bại</TameFailedRevengeChance>
+	<TerrainRequirement>Các yêu cầu về địa hình</TerrainRequirement>
+	<Supports>Các loại hỗ trợ</Supports>
+	<TrapArmorPenetration>Độ xuyên thấu giáp bẫy</TrapArmorPenetration>
+	<RearmCost>Chi phí tái trang bị</RearmCost>
+	<RearmCostExplanation>Tài nguyên cần thiết để tái trang bị tháp pháo này</RearmCostExplanation>
+	<RearmCostExplanationDifficulty>Bị ảnh hưởng bởi độ khó</RearmCostExplanationDifficulty>
+	<ShotsBeforeRearm>Số lần bắn còn lại</ShotsBeforeRearm>
+	<ShotsBeforeRearmExplanation>Số lần tháp pháo có thể bắn trước khi phải tái trang bị.</ShotsBeforeRearmExplanation>
+	<PowerConsumption>Tiêu thụ năng lượng</PowerConsumption>
+	<Target>Mục tiêu</Target>
+	<AbilityTargetDesc>Loại mục tiêu mà khả năng này có thể áp dụng.</AbilityTargetDesc>
+	<TargetHuman>Con người</TargetHuman>
+	<TargetAnimal>Động vật</TargetAnimal>
+	<TargetSelf>Bản thân</TargetSelf>
+	<TargetGround>Mặt đất</TargetGround>
+	<ClickToLearnMore>Nhấn để tìm hiểu thêm.</ClickToLearnMore>
+	<ClickToViewFactions>Nhấn để xem các phe phái.</ClickToViewFactions>
+	<MeditationFocuses>Loại hình thiền</MeditationFocuses>
+	<MeditationFocusesUnlocked>Mở khóa loại hình thiền</MeditationFocusesUnlocked>
+	<MeditationFocusesPawnDesc>Loại thiền mà người này có thể thực hiện. Khi thiền, có thể tăng cường lợi ích tinh thần bằng cách tập trung vào một vật thể, miễn là vật thể đó cung cấp loại hình thiền mà người thiền có thể sử dụng. Loại hình thiền của người thiền phụ thuộc vào bối cảnh, đặc điểm và địa vị xã hội của họ.</MeditationFocusesPawnDesc>
+	<MeditationFocusesDesc>Loại hình thiền mà vật thể này cung cấp. Một người thiền có thể tập trung vào vật thể này để tăng lợi ích tinh thần của họ, miễn là họ có thể sử dụng một trong các loại hình thiền. Loại hình thiền của người thiền phụ thuộc vào bối cảnh, đặc điểm và địa vị xã hội của họ.</MeditationFocusesDesc>
+	<MeditationFocusCanUse>Có thể sử dụng loại hình môi giới {0}, vì</MeditationFocusCanUse>
+	<MeditationFocusObjects>{0} môi giới</MeditationFocusObjects>
+	<MeditationFocusEnabledByTitle>Được cấp danh hiệu: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+	<MeditationFocusEnabledByChildhood>Có bối cảnh thời thơ ấu</MeditationFocusEnabledByChildhood>
+	<MeditationFocusEnabledByAdulthood>Có bối cảnh trưởng thành</MeditationFocusEnabledByAdulthood>
+	<MeditationFocusEnabledByTrait>Có đặc điểm</MeditationFocusEnabledByTrait>
+	<MeditationFocusEnabledByHediff>Có tình trạng sức khỏe</MeditationFocusEnabledByHediff>
+	<MeditationFocusDisabledByTrait>Không có đặc điểm</MeditationFocusDisabledByTrait>
+	<EnablesMeditationFocusType>Bật loại hình thiền</EnablesMeditationFocusType>
+	<PositiveBuysNegativeSells>Mua dương\nBán âm</PositiveBuysNegativeSells>
+	<BuyPriceDesc>Số tiền cần thanh toán để mua.</BuyPriceDesc>
+	<SellPriceDesc>Số tiền có thể nhận được khi bán.</SellPriceDesc>
+	<PriceTypeDesc>Giá của vật phẩm này là {0}.</PriceTypeDesc>
+	<ColonyCount>Số lượng vật phẩm chờ bán mà thuộc địa sở hữu.\n\nBạn chỉ có thể bán vật phẩm gần giao dịch thương mại trong không gian.</ColonyCount>
+	<TraderCount>Số lượng vật phẩm chờ bán mà thương gia sở hữu.</TraderCount>
+	<AcceptButton>Chấp nhận</AcceptButton>
+	<LoadSelected>Tải tùy chọn đã chọn</LoadSelected>
+	<ResetButton>Đặt lại</ResetButton>
+	<CancelButton>Hủy bỏ</CancelButton>
+	<CloseButton>Đóng</CloseButton>
+	<YourTradeableSilver>Tiền bạc hiện có để giao dịch: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Bạn chỉ có thể sử dụng bạc gần giao dịch thương mại trong không gian để giao dịch.</YourTradeableSilverTip>
+	<TraderHasNoMore>Thương gia không còn hàng hóa.</TraderHasNoMore>
+	<ColonyHasNoMore>Thuộc địa không còn hàng hóa.</ColonyHasNoMore>
+	<TraderWillNotTrade>Thương gia không muốn giao dịch mặt hàng này.</TraderWillNotTrade>
+	<Negotiator>Người đàm phán</Negotiator>
+	<NegotiatorTradeDialogInfo>Người đàm phán: {0} (+{1})</NegotiatorTradeDialogInfo>
+	<NegotiatorTalkingImpaired>Người đàm phán của bạn {1_labelShort} không thể nói chuyện bình thường do vấn đề sức khỏe.</NegotiatorTalkingImpaired>
+	<NegotiatorHearingImpaired>Người đàm phán của bạn {1_labelShort} không thể nghe bình thường do vấn đề sức khỏe.</NegotiatorHearingImpaired>
+	<NegotiatorCapacityImpaired>Điều này sẽ ảnh hưởng đến giá giao dịch của hàng hóa.\n\nVui lòng xem xét thay đổi người đàm phán có sức khỏe tốt hơn.</NegotiatorCapacityImpaired>
+	<ConfirmTraderShortFunds>Thương gia không có đủ bạc để thanh toán cho giao dịch này, bạn có chắc chắn muốn tiếp tục không?</ConfirmTraderShortFunds>
+	<SortBy>Sắp xếp theo</SortBy>
+	<TraderTypePrice>Loại thương gia</TraderTypePrice>
+	<Selling>Bán hàng</Selling>
+	<Buying>Mua hàng</Buying>
+	<ItemSellPriceFactor>Hệ số giá bán vật phẩm</ItemSellPriceFactor>
+	<DifficultyLevel>Mức độ khó</DifficultyLevel>
+	<PostCurve>Đường cong xử lý toàn cầu</PostCurve>
+	<YourNegotiatorBonus>Phần thưởng của người đàm phán của bạn</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>Phần thưởng khi giao dịch với căn cứ phe phái</TradeWithFactionBaseBonus>
+	<JoinsAsSlave>Gia nhập với tư cách nô lệ</JoinsAsSlave>
+	<JoinsAsColonist>Gia nhập với tư cách người định cư</JoinsAsColonist>
+	<JoinsAsSlaveDesc>Nếu mua, người này sẽ gia nhập thuộc địa của bạn với tư cách nô lệ.</JoinsAsSlaveDesc>
+	<JoinsAsColonistDesc>Nếu mua, người này sẽ gia nhập thuộc địa của bạn với tư cách người định cư.</JoinsAsColonistDesc>
+	<TradingDrugsBonus>Cải thiện giao dịch chất gây nghiện</TradingDrugsBonus>
+	<minimum>Giá trị tối thiểu</minimum>
+	<FinalPrice>Giá cuối cùng</FinalPrice>
+	<GiftModeTip>Chế độ quà tặng - Tặng quà cho {0}.</GiftModeTip>
+	<TradeModeTip>Quay lại chế độ giao dịch.</TradeModeTip>
+	<TradeCaravanRequestDeniedDueTitle>{FACTION_name} từ chối gửi đoàn thương mại vì {NEGOTIATOR_nameDef} không có danh hiệu hợp pháp (ít nhất là {TITLE}).</TradeCaravanRequestDeniedDueTitle>
+	<SellableItemsTitle>Vật phẩm mà thương nhân này sẽ mua</SellableItemsTitle>
+	<TraderNotVisitedYet>Chưa bao giờ ghé thăm - Kho hàng không rõ</TraderNotVisitedYet>
+	<TraderRestockedSinceLastVisit>Đã được bổ sung hàng hóa kể từ lần ghé thăm cuối cùng</TraderRestockedSinceLastVisit>
+	<NextTraderRestock>Lần bổ sung hàng hóa tiếp theo: {0} ngày</NextTraderRestock>
+	<PawnsTabShort>Sinh vật</PawnsTabShort>
+	<SelectCaravanOrigin>Chọn thuộc địa để gửi đoàn thương mại</SelectCaravanOrigin>
+	<SelectCaravanDesc>Gửi đoàn thương mại từ {0}.</SelectCaravanDesc>
+	<SelectCaravanColonists>Người định cư</SelectCaravanColonists>
+	<FormCaravan>Tổ chức đoàn thương mại</FormCaravan>
+	<Send>Gửi đi</Send>
+	<FormCaravanColonyThingCountTip>Số lượng vật phẩm có thể vận chuyển bằng đoàn thương mại.</FormCaravanColonyThingCountTip>
+	<PawnsTab>Người và động vật</PawnsTab>
+	<ItemsTab>Vật phẩm</ItemsTab>
+	<TravelSupplies>Vật phẩm cho chuyến đi</TravelSupplies>
+	<CaravanMustHaveAtLeastOneColonist>Bắt buộc phải chỉ định ít nhất một người định cư có thể di chuyển.</CaravanMustHaveAtLeastOneColonist>
+	<CaravanCouldNotFindExitSpot>Vị trí rời khỏi đã chọn ({0}) không thể tiếp cận.</CaravanCouldNotFindExitSpot>
+	<CaravanCouldNotFindPackingSpot>Không tìm thấy điểm đóng gói hợp lệ. Đảm bảo rằng vị trí rời khỏi đã chọn ({0}) có thể tiếp cận.</CaravanCouldNotFindPackingSpot>
+	<CaravanCouldNotFindReachableExitSpot>Cảnh báo: Một số người định cư được chỉ định không thể đến vị trí rời khỏi ({0}).</CaravanCouldNotFindReachableExitSpot>
+	<CaravanRoamerCannotReachSpots>{1_labelShort} không thể đến được điểm đóng gói hoặc vị trí xuất phát dưới sự dẫn dắt của bất kỳ người định cư nào.</CaravanRoamerCannotReachSpots>
+	<CaravanItemIsUnreachableSingle>Tất cả người định cư được chỉ định không thể đến vị trí của {0}.</CaravanItemIsUnreachableSingle>
+	<CaravanItemIsUnreachableMulti>Tất cả người định cư được chỉ định không thể đến vị trí của {1}x{0}.</CaravanItemIsUnreachableMulti>
+	<TooBigCaravanMassUsage>Đoàn thương mại không thể mang theo quá nhiều hàng hóa.</TooBigCaravanMassUsage>
+	<CaravanMassUsageTooltip>Bao gồm cả hàng hóa và trang bị được vận chuyển. Vận chuyển ít hơn khối lượng tối đa sẽ làm tăng tốc độ của đoàn thương mại.</CaravanMassUsageTooltip>
+	<CaravanVisibilityTip>Độ hiển thị cho biết khả năng đoàn thương mại của bạn bị chú ý.\n\nNó sẽ ảnh hưởng đến khả năng bị phục kích của đoàn thương mại.\n\nĐộ hiển thị không ảnh hưởng đến khả năng tìm thấy những gì bạn cần.\n\nĐộ hiển thị dựa trên tổng kích thước của tất cả người và động vật trong đoàn thương mại.</CaravanVisibilityTip>
+	<DaysWorthOfFood>Số ngày thực phẩm còn lại</DaysWorthOfFood>
+	<DaysWorthOfFoodInfoRot>Rã trong {0} ngày</DaysWorthOfFoodInfoRot>
+	<InfiniteDaysWorthOfFoodInfo>Vô hạn</InfiniteDaysWorthOfFoodInfo>
+	<DaysWorthOfFoodTooltip>Số ngày thực phẩm mà đoàn thương mại mang theo có thể duy trì.\n\nBị ảnh hưởng bởi:\n - Tồn kho hiện tại\n\nTính toán bao gồm thực phẩm cho cả người và động vật, và xem xét trường hợp xấu nhất. Điều này có nghĩa là sau số ngày này, ít nhất một động vật hoặc người sẽ không có thực phẩm.</DaysWorthOfFoodTooltip>
+	<DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n（Chỉ điểm dừng đầu tiên được tính vào）</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+	<DaysWorthOfFoodWarningDialog>Đoàn thương mại của bạn chỉ mang theo {0} ngày thực phẩm, sẽ sớm gặp tình trạng đói ăn.</DaysWorthOfFoodWarningDialog>
+	<DaysWorthOfFoodDietWarningDialog>Có một số người sẽ từ chối phần lớn thực phẩm trong đoàn thương mại do thói quen ăn uống. Nếu họ buộc phải ăn những thực phẩm này vì đói, họ sẽ cảm thấy không hài lòng.</DaysWorthOfFoodDietWarningDialog>
+	<DaysWorthOfFoodWarningDialog_NoFood>Đoàn thương mại của bạn không mang theo bất kỳ thực phẩm nào, sẽ sớm gặp tình trạng đói ăn.</DaysWorthOfFoodWarningDialog_NoFood>
+	<ForagedFoodPerDayTip>Số lượng thực phẩm mà bạn thu thập được mỗi ngày. Giá trị này sẽ thay đổi khi bạn đến các hệ sinh thái với sản lượng thực phẩm khác nhau.</ForagedFoodPerDayTip>
+	<ForagedFoodPerDay>Số lượng thực phẩm thu thập được</ForagedFoodPerDay>
+	<CaravanFoodWillRotSoonWarningDialog>Phần lớn thực phẩm trong đoàn thương mại sắp bị hỏng.</CaravanFoodWillRotSoonWarningDialog>
+	<CaravanIncapableOfSocial>Trong đoàn thương mại của bạn không có thành viên nào có khả năng ngoại giao hoặc giao dịch.</CaravanIncapableOfSocial>
+	<CaravanAreYouSure>Bạn có chắc chắn muốn tổ chức đoàn thương mại này không?</CaravanAreYouSure>
+	<MessageMustChooseRouteFirst>Bạn phải chọn lộ trình cho đoàn thương mại trước.</MessageMustChooseRouteFirst>
+	<MessageNoValidExitTile>Đoàn thương mại của bạn không thể rời khỏi khu vực này. Đảm bảo có hướng nào đó có thể đến được.</MessageNoValidExitTile>
+	<ItemWeightTip>Trọng lượng của vật phẩm này</ItemWeightTip>
+	<MarketValueTip>Giá trị thị trường</MarketValueTip>
+	<DaysUntilRotTip>Số ngày trước khi vật phẩm này bắt đầu hỏng dựa trên nhiệt độ trung bình của khu vực này.</DaysUntilRotTip>
+	<ItemNutritionTip>Vật phẩm này cung cấp bao nhiêu giá trị dinh dưỡng.\n\nĐể tham khảo: Người trưởng thành cần {0} giá trị dinh dưỡng mỗi ngày.</ItemNutritionTip>
+	<AnimalCanGrazeTip>Loại động vật này có thể chăn thả để kiếm ăn từ môi trường, thay vì ăn thực phẩm mà đoàn thương mại mang theo. Việc chăn thả chỉ có thể thực hiện trong một số hệ sinh thái và trong điều kiện nhiệt độ nhất định.</AnimalCanGrazeTip>
+	<NutritionForagedPerDayTip>Giá trị dinh dưỡng thu thập được mỗi ngày. Giá trị thực tế cũng bị ảnh hưởng bởi sản lượng thu thập trong các hệ sinh thái.\n\n{0}</NutritionForagedPerDayTip>
+	<NutritionEatenPerDayTip>Giá trị dinh dưỡng tiêu thụ mỗi ngày. Để tham khảo, thực phẩm đơn giản có {0} giá trị dinh dưỡng.</NutritionEatenPerDayTip>
+	<CanEat>Có thể ăn được</CanEat>
+	<Legend>Giải thích</Legend>
+	<MassCarriedSimple>Đã mang theo</MassCarriedSimple>
+	<MassCapacity>Công suất mang theo</MassCapacity>
+	<Mass>Khối lượng</Mass>
+	<CaravanMass>Khối lượng đoàn thương mại</CaravanMass>
+	<EquipmentAndApparelMass>Trọng lượng trang bị và quần áo</EquipmentAndApparelMass>
+	<InventoryMass>Trọng lượng hàng hóa</InventoryMass>
+	<CaravanFormationProcessStarted>Người định cư của bạn hiện đang thu thập hàng hóa và rời khỏi khu vực này.</CaravanFormationProcessStarted>
+	<ReformCaravan>Tái tổ chức đoàn thương mại</ReformCaravan>
+	<ColonistsSection>Người định cư</ColonistsSection>
+	<PrisonersSection>Tù nhân</PrisonersSection>
+	<CaptureSection>Bắt giữ</CaptureSection>
+	<AnimalsSection>Động vật</AnimalsSection>
+	<ChooseRouteButton>Chọn lộ trình</ChooseRouteButton>
+	<ChangeRouteButton>Thay đổi lộ trình</ChangeRouteButton>
+	<AbandonButton>Bỏ qua</AbandonButton>
+	<CaravanMovementSpeed>Tốc độ di chuyển</CaravanMovementSpeed>
+	<TilesPerDay>Ô/ngày</TilesPerDay>
+	<TilesPerDayImmobile>Không - Quá nặng</TilesPerDayImmobile>
+	<TilesPerDayImmobileShort>Không</TilesPerDayImmobileShort>
+	<CaravanMovementSpeedTip>Tốc độ di chuyển phụ thuộc vào khối lượng mang theo, động vật cưỡi và độ khó di chuyển của địa hình.</CaravanMovementSpeedTip>
+	<AnimalsWillBeAbleToGraze>Động vật có thể chăn thả</AnimalsWillBeAbleToGraze>
+	<AnimalsCanGraze>Động vật có thể chăn thả</AnimalsCanGraze>
+	<PossibleToGrazeFor>（Còn {0} ngày）</PossibleToGrazeFor>
+	<PossibleToGrazeForever>（Mãi mãi）</PossibleToGrazeForever>
+	<CantGrazeBecauseOfBiome>（{0}）</CantGrazeBecauseOfBiome>
+	<CantGrazeBecauseOfTemp>（Sẽ quá lạnh sau {0} ngày）</CantGrazeBecauseOfTemp>
+	<TotalNutrition>Tổng giá trị dinh dưỡng</TotalNutrition>
+	<CaravanNotMoving>Không di chuyển</CaravanNotMoving>
+	<ForagedNutritionPerDay>Giá trị dinh dưỡng thu thập được mỗi ngày</ForagedNutritionPerDay>
+	<FactionType>Loại phe phái</FactionType>
+	<TotalBodySize>Kích thước tổng thể</TotalBodySize>
+	<AutomaticallySelectTravelSupplies>Tự động chọn vật phẩm cần thiết cho chuyến đi</AutomaticallySelectTravelSupplies>
+	<CaravanAnimalSick>Con vật này bị bệnh. Nó mắc bệnh sau đây </CaravanAnimalSick>
+	<SplitCaravan>Chia nhỏ đoàn thương mại</SplitCaravan>
+	<SourceCaravanMustHaveAtLeastOneColonist>Bắt buộc phải để lại ít nhất một người định cư có thể di chuyển.</SourceCaravanMustHaveAtLeastOneColonist>
+	<SplitCaravanThingCountTip>Số lượng vật phẩm này mà đoàn thương mại có thể trang bị cho đoàn thương mại mới.</SplitCaravanThingCountTip>
+	<ConfirmAttackFriendlyFaction>Bạn có chắc chắn muốn tấn công {0} không?\n\nĐiều này sẽ khiến {1} trở thành kẻ thù của bạn, và cuối cùng họ sẽ bắt đầu tấn công thuộc địa của bạn!</ConfirmAttackFriendlyFaction>
+	<LoadTransporters>Tải {0}</LoadTransporters>
+	<TooBigTransportersMassUsage>Trọng lượng của người và hàng hóa được chỉ định vượt quá khả năng tải tối đa của khoang vận chuyển.</TooBigTransportersMassUsage>
+	<TooBigTransporterSingleMassUsage>Trọng lượng của người và hàng hóa được chỉ định vượt quá khả năng tải tối đa của tàu vũ trụ.</TooBigTransporterSingleMassUsage>
+	<CantSendEmptyTransportPods>Bạn không thể phóng khoang vận chuyển trống rỗng.</CantSendEmptyTransportPods>
+	<CantSendEmptyTransporterSingle>Bạn không thể phóng tàu vũ trụ trống rỗng.</CantSendEmptyTransporterSingle>
+	<PawnCantReachTransporters>{1_labelShort} không thể đến được khoang vận chuyển.</PawnCantReachTransporters>
+	<PawnCantReachTransporterSingle>{1_labelShort} không thể đến được tàu vũ trụ.</PawnCantReachTransporterSingle>
+	<TransporterItemIsUnreachableSingle>Không có đường đi giữa khoang vận chuyển và {0}.</TransporterItemIsUnreachableSingle>
+	<TransporterSingleItemIsUnreachableSingle>Không có đường đi giữa tàu vũ trụ và {0}.</TransporterSingleItemIsUnreachableSingle>
+	<TransporterItemIsUnreachableMulti>Không có đường đi giữa khoang vận chuyển và {1}x{0}.</TransporterItemIsUnreachableMulti>
+	<TransporterSingleItemIsUnreachableMulti>Không có đường đi giữa tàu vũ trụ và {1}x{0}.</TransporterSingleItemIsUnreachableMulti>
+	<TransporterSingleTooManyColonists>Chỉ cho phép tối đa {0} người định cư.</TransporterSingleTooManyColonists>
+	<SocialSkillIs>Kỹ năng xã hội: {0}</SocialSkillIs>
+	<ResearchFinished>Nghiên cứu hoàn thành: {0}</ResearchFinished>
+	<ResearchScreen>Màn hình nghiên cứu</ResearchScreen>
+	<ResearchUnknownProjectRevealed>Bằng cách tìm kiếm {0}, bạn đã phát hiện {1} dự án nghiên cứu.</ResearchUnknownProjectRevealed>
+	<HistoryUploadMessage>Bạn có muốn tải dữ liệu trò chơi lên máy chủ RimWorld để giúp các nhà phát triển hoàn thiện cân bằng trò chơi không? Sau khi đồng ý, dữ liệu trò chơi của bạn sẽ tự động được tải lên máy chủ RimWorld và được phân tích mỗi {0} ngày trò chơi (hoặc khi kết thúc trò chơi và các sự kiện đặc biệt khác). Bạn có thể thay đổi cài đặt quyền riêng tư trong menu tùy chọn sau đó.</HistoryUploadMessage>
+	<HistoryUploadMessagePlayerName>Mặc dù dữ liệu trò chơi được tải lên một cách ẩn danh theo mặc định, nhưng bạn vẫn có thể đính kèm tên người dùng của mình.</HistoryUploadMessagePlayerName>
+	<HistoryUploadYes>Cho phép tải dữ liệu trò chơi</HistoryUploadYes>
+	<HistoryUploadNo>Không cho phép tải dữ liệu trò chơi</HistoryUploadNo>
+	<HistoryUploadYesOnce>Chỉ tải dữ liệu lần này</HistoryUploadYesOnce>
+	<HistoryUploadNoOnce>Không tải dữ liệu lần này, hỏi tôi lần sau</HistoryUploadNoOnce>
+	<AvailablePolicies>Các chính sách có sẵn</AvailablePolicies>
+	<UnnamedPolicy>Không tên</UnnamedPolicy>
+	<NewPolicy>Mới...</NewPolicy>
+	<InvalidName>Tên chính sách không hợp lệ</InvalidName>
+	<DeletePolicyTip>Xóa chính sách đã chọn.</DeletePolicyTip>
+	<DuplicatePolicyTip>Tạo bản sao của chính sách đã chọn.</DuplicatePolicyTip>
+	<RenamePolicyTip>Đổi tên chính sách này</RenamePolicyTip>
+	<DeletePolicyConfirm>Bạn có chắc chắn muốn xóa chính sách: {0}?</DeletePolicyConfirm>
+	<DeletePolicyConfirmButton>Xóa</DeletePolicyConfirmButton>
+	<NoPolicySelected>Chưa chọn chính sách</NoPolicySelected>
+	<ApparelPolicyTitle>Chính sách trang phục</ApparelPolicyTitle>
+	<ApparelPolicyTip>Tạo và quản lý mẫu chính sách để kiểm soát người định cư trong thuộc địa có thể mặc gì.</ApparelPolicyTip>
+	<ApparelPolicy>Chính sách trang phục</ApparelPolicy>
+	<OutfitInUse>Chính sách trang phục đang được {0} sử dụng.</OutfitInUse>
+	<DrugPolicyTitle>Chính sách sử dụng thuốc</DrugPolicyTitle>
+	<DrugPolicyTip>Tạo và quản lý mẫu chính sách để kiểm soát người định cư trong thuộc địa có thể sử dụng thuốc hoặc chất gây nghiện nào.</DrugPolicyTip>
+	<DrugPolicy>Chính sách sử dụng thuốc</DrugPolicy>
+	<DrugPolicyInUse>Chính sách sử dụng thuốc đang được {0} sử dụng.</DrugPolicyInUse>
+	<FoodRestrictionInUse>{0} hạn chế thực phẩm đang được kích hoạt.</FoodRestrictionInUse>
+	<AddDrug>Thêm</AddDrug>
+	<DrugColumnLabel>Tên thuốc hoặc chất gây nghiện</DrugColumnLabel>
+	<FrequencyColumnLabel>Tần suất</FrequencyColumnLabel>
+	<MoodThresholdColumnLabel>Ngưỡng tâm trạng</MoodThresholdColumnLabel>
+	<JoyThresholdColumnLabel>Ngưỡng vui vẻ</JoyThresholdColumnLabel>
+	<TakeToInventoryColumnLabel>Số lượng dự trữ</TakeToInventoryColumnLabel>
+	<NoDrugsBrackets>（Không có thuốc）</NoDrugsBrackets>
+	<EveryDay>Mỗi ngày</EveryDay>
+	<TimesPerDay>Mỗi ngày {0} lần</TimesPerDay>
+	<EveryDays>Mỗi {0} ngày 1 lần</EveryDays>
+	<NoDrugUseRequirement>Không sử dụng</NoDrugUseRequirement>
+	<DeleteDrugTooltip>Xóa thuốc</DeleteDrugTooltip>
+	<DrugNameColumnDesc>Tên của thuốc.</DrugNameColumnDesc>
+	<FrequencyColumnDesc>Tần suất sử dụng thuốc.</FrequencyColumnDesc>
+	<MoodThresholdColumnDesc>Khi tâm trạng thấp hơn giá trị này sẽ bắt đầu sử dụng thuốc hoặc chất gây nghiện.</MoodThresholdColumnDesc>
+	<JoyThresholdColumnDesc>Khi mức độ vui vẻ thấp hơn giá trị này sẽ bắt đầu sử dụng thuốc hoặc chất gây nghiện.</JoyThresholdColumnDesc>
+	<TakeToInventoryColumnDesc>Số lượng thuốc hoặc chất gây nghiện cho phép mang theo mỗi lần, tránh việc phải lấy từ kho mỗi lần.</TakeToInventoryColumnDesc>
+	<DrugUsageTipForAddiction>Đáp ứng nhu cầu phụ thuộc\n\nĐể đáp ứng nhu cầu đã hình thành với chất gây nghiện.\n\nChú ý, ngay cả khi trong chính sách cấm chất gây nghiện, người định cư vẫn có thể bỏ qua quy định để sử dụng chất gây nghiện khi tâm trạng của họ xấu đi hoặc có một số đặc điểm nhất định.</DrugUsageTipForAddiction>
+	<DrugUsageTipForJoy>Mục đích giải trí\n\nĐể giảm căng thẳng và sử dụng trong các hoạt động xã hội.\n\nChú ý, ngay cả khi trong chính sách cấm chất gây nghiện, người định cư vẫn có thể bỏ qua quy định để sử dụng chất gây nghiện khi tâm trạng của họ xấu đi hoặc có một số đặc điểm nhất định.</DrugUsageTipForJoy>
+	<DrugUsageTipScheduled>Thời gian sử dụng\n\nKhi các điều kiện nhất định được đáp ứng, thuốc và chất gây nghiện sẽ được sử dụng theo lịch trình đã chỉ định.</DrugUsageTipScheduled>
+	<FoodPolicyTitle>Chính sách thực phẩm</FoodPolicyTitle>
+	<FoodPolicyTip>Tạo và quản lý mẫu chính sách để kiểm soát người định cư trong thuộc địa có thể ăn gì.</FoodPolicyTip>
+	<FoodPolicy>Chính sách thực phẩm</FoodPolicy>
+	<AllowFood>Thực phẩm</AllowFood>
+	<FoodRestrictionLavish>Không hạn chế</FoodRestrictionLavish>
+	<FoodRestrictionFine>Đặc sản cao cấp nhất</FoodRestrictionFine>
+	<FoodRestrictionSimple>Đặc sản đơn giản nhất</FoodRestrictionSimple>
+	<FoodRestrictionPaste>Đặc sản dinh dưỡng cao nhất</FoodRestrictionPaste>
+	<FoodRestrictionRaw>Chỉ thực phẩm sống</FoodRestrictionRaw>
+	<FoodRestrictionNothing>Không cung cấp</FoodRestrictionNothing>
+	<ReadingPolicyTitle>Chính sách đọc sách</ReadingPolicyTitle>
+	<ReadingPolicyTip>Tạo và quản lý mẫu chính sách để kiểm soát người định cư trong thuộc địa có thể đọc sách gì.</ReadingPolicyTip>
+	<ReadingPolicy>Chính sách đọc sách</ReadingPolicy>
+	<ReadingPolicyInUse>Chính sách đọc sách đang được sử dụng.</ReadingPolicyInUse>
+	<AllReadingPolicy>Bất kỳ</AllReadingPolicy>
+	<NoneReadingPolicy>Vô hiệu hóa</NoneReadingPolicy>
+	<TextbookPolicy>Sách giáo khoa</TextbookPolicy>
+	<SchematicPolicy>Sơ đồ kỹ thuật</SchematicPolicy>
+	<NovelPolicy>Tiểu thuyết</NovelPolicy>
+	<DefaultMedicineSettings>Cài đặt y tế mặc định</DefaultMedicineSettings>
+	<DefaultMedicineSettingsDesc>Khi sinh vật lần đầu gia nhập một nhóm cụ thể, các cài đặt y tế này sẽ tự động được áp dụng. Bạn có thể phân bổ cài đặt này thủ công trong tab "Sức khỏe".\n\nLưu ý: Nếu sinh vật gia nhập một nhóm mới, họ sẽ luôn áp dụng cài đặt của nhóm đó, ngay cả khi bạn đã phân bổ cài đặt khác trước đó.</DefaultMedicineSettingsDesc>
+	<MedGroupDefaults>Mặc định</MedGroupDefaults>
+	<MedGroupColonists>Người định cư</MedGroupColonists>
+	<MedGroupColonistsDesc>Thành viên của thuộc địa của bạn.</MedGroupColonistsDesc>
+	<MedGroupPrisoners>Tù nhân</MedGroupPrisoners>
+	<MedGroupPrisonersDesc>Tù nhân trong thuộc địa, không phân biệt phe phái.</MedGroupPrisonersDesc>
+	<MedGroupTamedAnimals>Động vật đã thuần hóa</MedGroupTamedAnimals>
+	<MedGroupTamedAnimalsDesc>Động vật đã được thuộc địa của bạn thuần hóa.</MedGroupTamedAnimalsDesc>
+	<MedGroupFriendlyFaction>Thành viên phe thân thiện</MedGroupFriendlyFaction>
+	<MedGroupFriendlyFactionDesc>Con người hoặc động vật thân thiện với phe của bạn (thân thiện trên 75).</MedGroupFriendlyFactionDesc>
+	<MedGroupNeutralFaction>Thành viên phe trung lập</MedGroupNeutralFaction>
+	<MedGroupNeutralFactionDesc>Con người hoặc động vật thuộc phe trung lập (thân thiện từ -75 đến 75).</MedGroupNeutralFactionDesc>
+	<MedGroupHostileFaction>Thành viên phe thù địch</MedGroupHostileFaction>
+	<MedGroupHostileFactionDesc>Con người hoặc động vật thuộc phe thù địch với bạn (thân thiện dưới -75).</MedGroupHostileFactionDesc>
+	<MedGroupNoFaction>Không có phe phái</MedGroupNoFaction>
+	<MedGroupNoFactionDesc>Con người không thuộc bất kỳ phe phái nào.</MedGroupNoFactionDesc>
+	<MedGroupWildlife>Động vật hoang dã</MedGroupWildlife>
+	<MedGroupWildlifeDesc>Động vật và sinh vật khác không thuộc bất kỳ phe phái nào.</MedGroupWildlifeDesc>
+	<NoGrowerCanPlant>Để gieo hạt {0} cần tối thiểu {1} cấp độ kỹ năng trồng trọt.\n\nBạn không đạt yêu cầu kỹ năng của người trồng, vì vậy loại cây này sẽ không được gieo trồng.</NoGrowerCanPlant>
+	<ConfirmAbandonHomeWithColonyPawns>Một số người định cư hoặc động vật của bạn vẫn đang ở khu vực này. Bạn có chắc chắn muốn bỏ lại không?\n\nNhững người hoặc động vật này sẽ bị bỏ lại:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+	<ConfirmAbandonHomeNegativeThoughts>Bỏ lại {0} sẽ dẫn đến những suy nghĩ sau ở những người:</ConfirmAbandonHomeNegativeThoughts>
+	<ConfirmAbandonHomeNegativeThoughts_Everyone>Tất cả mọi người:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+	<ConfirmMoveAutoJoinableCaravan>Có tù nhân hoặc động vật sắp tham gia đoàn thương mại này. Nếu bạn di chuyển đoàn thương mại, họ sẽ không thể tham gia.\n\nĐộng vật, tù nhân và người định cư ngã xuống, nếu không có người định cư nào đứng bên cạnh, sẽ được coi là bị bỏ lại trên bản đồ và có thể bị kẻ thù bắt giữ.\n\nBạn có chắc chắn muốn di chuyển đoàn thương mại không?</ConfirmMoveAutoJoinableCaravan>
+	<ConfirmBanishPawnDialog>Bạn có thật sự muốn lưu đày {1_label} không?</ConfirmBanishPawnDialog>
+	<ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} có khả năng sẽ chết.</ConfirmBanishPawnDialog_LeftToDie>
+	<ConfirmBanishPawnDialog_Items>{1_labelShort} sẽ mang theo những vật phẩm sau:</ConfirmBanishPawnDialog_Items>
+	<ConfirmBanishPawnDialog_AllColonistsThoughts>Tất cả người định cư sẽ có những suy nghĩ sau:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+	<ConfirmBanishPawnDialog_IndividualThoughts>Lưu đày {1_labelShort} sẽ dẫn đến những suy nghĩ này ở những người:</ConfirmBanishPawnDialog_IndividualThoughts>
+	<ConfirmSendNotCompletelyLoadedPods>Nhóm chưa hoàn tất quá trình tải. {1_labelShort} vẫn chưa vào khoang vận chuyển. Bạn có chắc chắn muốn phóng không?</ConfirmSendNotCompletelyLoadedPods>
+	<ConfirmSettleNearFactionBase>Vì địa điểm này nằm trong phạm vi {0} ô của lãnh thổ của phe khác, họ sẽ cảm thấy bạn đang xâm phạm đất đai của họ, và mối quan hệ của bạn với phe này sẽ xấu đi mỗi {1} ngày.</ConfirmSettleNearFactionBase>
+	<ConfirmCleanupTranslationFiles>Bạn có chắc chắn muốn dọn dẹp tất cả các tệp dịch cho ngôn ngữ {0} không?\n\nĐiều này sẽ:\n  - Thêm các placeholder cho các bản dịch thiếu keyed, def-injected và backstories.\n  - Thêm hoặc cập nhật chú thích chứa văn bản gốc\n  - Di chuyển tất cả các bản dịch keyed và def-injected vào các tệp XML tương ứng\n  - Áp dụng định dạng tự động khớp cho các tệp XML\n  - Cập nhật tên def tương thích ngược\n  - Xóa tất cả các chú thích XML hiện có (trừ danh sách toàn bộ tiêm)\n\nSẽ không xóa hoặc sửa đổi các tệp không phải XML.\n\nTrước khi chạy công cụ này, hãy khởi động lại trò chơi sau khi sửa đổi tệp ngôn ngữ để tải lại tất cả dữ liệu.\n\nHãy chắc chắn sao lưu tất cả các tệp dịch trước khi sử dụng.</ConfirmCleanupTranslationFiles>
+	<ConfirmCleanupTranslationFiles_Confirm>Vâng, tôi đã sao lưu.</ConfirmCleanupTranslationFiles_Confirm>
+	<TransportersCaravanWillBeImmobile>Nếu phóng khoang vận chuyển đến một khu vực trống trên bản đồ, đoàn thương mại sẽ không di chuyển. Bạn có muốn tiếp tục không?</TransportersCaravanWillBeImmobile>
+	<ConfirmCancelMonumentMarker>Bạn có chắc chắn muốn xóa đánh dấu trên tượng đài không?</ConfirmCancelMonumentMarker>
+	<CannotUseAbility>Không thể sử dụng {0}</CannotUseAbility>
+	<AbilityRequiresLOS>Mục tiêu phải có thể nhìn thấy</AbilityRequiresLOS>
+	<AbilityEntropyGain>Tăng entropy</AbilityEntropyGain>
+	<AbilityPsyfocusCost>Chi phí tâm lực</AbilityPsyfocusCost>
+	<AbilityDuration>Thời gian hiệu lực</AbilityDuration>
+	<AbilityEffectRadius>Bán kính hiệu ứng</AbilityEffectRadius>
+	<AbilityCastingTime>Thời gian thi triển</AbilityCastingTime>
+	<AbilityCannotHitTarget>Không nhìn thấy mục tiêu.</AbilityCannotHitTarget>
+	<AbilityOutOfRange>Mục tiêu nằm ngoài khoảng cách.</AbilityOutOfRange>
+	<AbilityCannotReachTarget>Không thể đến mục tiêu.</AbilityCannotReachTarget>
+	<AbilityNotEnoughFreeSpace>Không đủ không gian.</AbilityNotEnoughFreeSpace>
+	<AbilityOccupiedCells>Phải nhắm vào khu vực trống.</AbilityOccupiedCells>
+	<AbilityUnwalkable>Phải nhắm vào khu vực có thể đi lại.</AbilityUnwalkable>
+	<AbilityRoofed>Phải nhắm vào khu vực không có mái che.</AbilityRoofed>
+	<AbilityCantApplyToMentallyBroken>{0_labelShort} bị tâm thần.</AbilityCantApplyToMentallyBroken>
+	<AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} không bị tâm thần.</AbilityCanOnlyApplyToMentallyBroken>
+	<AbilityCanOnlyApplyToManhunter>{0_labelShort} không rơi vào trạng thái điên cuồng.</AbilityCanOnlyApplyToManhunter>
+	<AbilityCantApplyToScaria>{0_labelShort} mắc bệnh Scaria, chỉ có thể điều trị bằng thuốc.</AbilityCantApplyToScaria>
+	<AbilityDoesntWorkOnMentalState>{0} không thể tác động đến trạng thái tinh thần “{1}”.</AbilityDoesntWorkOnMentalState>
+	<AbilityCantApplyNoResistance>{0_labelShort} đã không còn sức kháng cự.</AbilityCantApplyNoResistance>
+	<AbilityCantApplyDowned>{0_labelShort} đã bị đánh ngã.</AbilityCantApplyDowned>
+	<AbilityCantApplyOnAsexual>Không thể sử dụng: {0} vô tính.</AbilityCantApplyOnAsexual>
+	<AbilityCannotCastNoHealableInjury>{PAWN_labelShort} không có vết thương nào có thể chữa trị.</AbilityCannotCastNoHealableInjury>
+	<AbilityCantApplyWrongAttractionGender>Đối với {0_labelShort}, giới tính của {1_labelShort} không phù hợp.</AbilityCantApplyWrongAttractionGender>
+	<AbilityCantApplyTooYoung>{0_labelShort} còn quá trẻ.</AbilityCantApplyTooYoung>
+	<AbilityCantApplyOnBaby>Không thể chỉ định cho trẻ sơ sinh.</AbilityCantApplyOnBaby>
+	<PsyfocusCostPerMentalBreakIntensity>Nhu cầu tâm lực cho sự sụp đổ tinh thần trực tiếp</PsyfocusCostPerMentalBreakIntensity>
+	<AbilityAlreadyInspired>{0_labelShort} đã ở trong trạng thái được truyền cảm hứng.</AbilityAlreadyInspired>
+	<AbilityCantGetInspiredNow>{0_labelShort} hiện tại không thể nhận được cảm hứng.</AbilityCantGetInspiredNow>
+	<AbilityMustBeNotSameIdeo>{0_labelShort} phải khác văn hóa với {1_labelShort}.</AbilityMustBeNotSameIdeo>
+	<AbilityMustBeSameIdeo>{0_labelShort} phải có cùng văn hóa với {1_labelShort}.</AbilityMustBeSameIdeo>
+	<AbilityMustBeSickOrInjured>{0_labelShort} phải bị bệnh hoặc bị thương.</AbilityMustBeSickOrInjured>
+	<AbilityMustBeSameIdeoCounsel>{0} chỉ có thể dẫn dắt {1}.</AbilityMustBeSameIdeoCounsel>
+	<AbilityMustBeNotGuilty>{0_labelShort} đã bị coi là có tội.</AbilityMustBeNotGuilty>
+	<AbilityMustBeHuman>Phải chỉ định con người.</AbilityMustBeHuman>
+	<AbilityMustBeHumanNonWild>Phải chỉ định con người không phải hoang dã.</AbilityMustBeHumanNonWild>
+	<AbilityMustBeAnimal>Phải chỉ định động vật.</AbilityMustBeAnimal>
+	<AbilityCantApplyUnconscious>{0_labelShort} đã mất ý thức.</AbilityCantApplyUnconscious>
+	<AbilityCantApplyAsleep>{0_labelShort} đang ngủ.</AbilityCantApplyAsleep>
+	<AbilityWorldTileImpassable>Khu vực này không thể đi qua.</AbilityWorldTileImpassable>
+	<AbilitySkipToRandomAlly>Nhảy tới đồng minh ngẫu nhiên</AbilitySkipToRandomAlly>
+	<AbilitySkipToJoinCaravan>Nhảy vào đoàn thương mại</AbilitySkipToJoinCaravan>
+	<AbilityNeedAllyToSkip>Cần chỉ định mục tiêu đồng minh</AbilityNeedAllyToSkip>
+	<AbilityNoChunkToSkip>Không có khối nào để nhảy.</AbilityNoChunkToSkip>
+	<PsychicLoveInduceIn>Gây cảm hứng tình yêu tâm linh</PsychicLoveInduceIn>
+	<PsychicLoveFor>Tình yêu tâm linh</PsychicLoveFor>
+	<FarskipConfirmTeleportingLodger>Nếu bạn nhảy {PAWN_labelShort} tới một bản đồ khác hoặc đoàn thương mại, nhiệm vụ liên quan sẽ thất bại và {PAWN_pronoun} sẽ ngay lập tức rời đi.\n\nBạn có chắc chắn muốn nhảy {PAWN_labelShort} không?</FarskipConfirmTeleportingLodger>
+	<MentalBreakIntensityMinor>Nhẹ</MentalBreakIntensityMinor>
+	<MentalBreakIntensityMajor>Nặng</MentalBreakIntensityMajor>
+	<MentalBreakIntensityExtreme>Cực kỳ nặng</MentalBreakIntensityExtreme>
+	<AutoSlaugtherHeaderColLabel>Động vật</AutoSlaugtherHeaderColLabel>
+	<AutoSlaugtherHeaderColCurrent>Hiện tại</AutoSlaugtherHeaderColCurrent>
+	<AutoSlaugtherHeaderColMax>Tối đa</AutoSlaugtherHeaderColMax>
+	<AutoSlaugtherHeaderColTotal>Tổng cộng</AutoSlaugtherHeaderColTotal>
+	<AutoSlaugtherHeaderColOther>Khác</AutoSlaugtherHeaderColOther>
+	<AutoSlaugtherTip>Người định cư sẽ tự động giết thịt động vật không mang thai theo thứ tự từ già đến trẻ, sau đó từ động vật mang thai gần nhất đến xa hơn.</AutoSlaugtherTip>
+	<AnimalMaleAdult>Đực trưởng thành</AnimalMaleAdult>
+	<AnimalMaleYoung>Đực chưa trưởng thành</AnimalMaleYoung>
+	<AnimalFemaleAdult>Cái trưởng thành</AnimalFemaleAdult>
+	<AnimalFemaleYoung>Cái chưa trưởng thành</AnimalFemaleYoung>
+	<AnimalPregnant>Đang mang thai</AnimalPregnant>
+	<AnimalBonded>Gắn bó</AnimalBonded>
+	<AllowSlaughter>Cho phép giết thịt</AllowSlaughter>
+	<AutoSlaugtherHeaderTooltipLabel>Động vật sẽ bị giết thịt tự động.</AutoSlaugtherHeaderTooltipLabel>
+	<AutoSlaugtherHeaderTooltipCurrentTotal>Số lượng động vật hiện tại trong đàn, bao gồm cả đực và cái.</AutoSlaugtherHeaderTooltipCurrentTotal>
+	<AutoSlaugtherHeaderTooltipMaxTotal>Số lượng tối đa trong đàn, bao gồm cả động vật đực và cái.\n\nNgười chăn nuôi sẽ tự động giết thịt bất kỳ động vật thừa nào.</AutoSlaugtherHeaderTooltipMaxTotal>
+	<AutoSlaugtherHeaderTooltipCurrentMales>Số lượng đực trưởng thành hiện tại trong đàn.</AutoSlaugtherHeaderTooltipCurrentMales>
+	<AutoSlaughterHeaderTooltipCurrentMalesYoung>Số lượng đực chưa trưởng thành hiện tại trong đàn.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+	<AutoSlaugtherHeaderTooltipMaxMales>Số lượng tối đa động vật đực trưởng thành trong đàn.\n\nNgười chăn nuôi sẽ tự động giết thịt bất kỳ động vật thừa nào.</AutoSlaugtherHeaderTooltipMaxMales>
+	<AutoSlaughterHeaderTooltipMaxMalesYoung>Số lượng tối đa động vật đực chưa trưởng thành trong đàn.\n\nNgười chăn nuôi sẽ tự động giết thịt bất kỳ động vật thừa nào.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+	<AutoSlaugtherHeaderTooltipCurrentFemales>Số lượng cái trưởng thành hiện tại trong đàn.</AutoSlaugtherHeaderTooltipCurrentFemales>
+	<AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Số lượng cái chưa trưởng thành hiện tại trong đàn.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+	<AutoSlaugtherHeaderTooltipMaxFemales>Số lượng tối đa động vật cái trưởng thành trong đàn.\n\nNgười chăn nuôi sẽ tự động giết thịt bất kỳ động vật thừa nào.</AutoSlaugtherHeaderTooltipMaxFemales>
+	<AutoSlaughterHeaderTooltipMaxFemalesYoung>Số lượng tối đa động vật cái chưa trưởng thành trong đàn.\n\nNgười chăn nuôi sẽ tự động giết thịt bất kỳ động vật thừa nào.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+	<AutoSlaughterHeaderTooltipCurrentPregnant>Số lượng cái đang mang thai hiện tại trong đàn.</AutoSlaughterHeaderTooltipCurrentPregnant>
+	<AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Cho phép giết thịt động vật mang thai cùng với các động vật cái khác cùng loài.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+	<AutoSlaughterHeaderTooltipCurrentBonded>Tổng số động vật gắn bó hiện tại trong thuộc địa.</AutoSlaughterHeaderTooltipCurrentBonded>
+	<AutoSlaughterHeaderTooltipAllowSlaughterBonded>Cho phép giết thịt động vật gắn bó.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+	<AutoSlaughterTooltipSetLimit>Nhấp để thiết lập giới hạn số lượng động vật.</AutoSlaughterTooltipSetLimit>
+	<RoomRequirementNoBeds>Không cho phép đặt giường</RoomRequirementNoBeds>
+	<RoomRequirementArea>Diện tích phòng: {0} ô</RoomRequirementArea>
+	<RoomRequirementImpressiveness>Ấn tượng của phòng</RoomRequirementImpressiveness>
+	<RoomRequirementAllFloored>Được lát sàn hoàn toàn</RoomRequirementAllFloored>
+	<RoomRequirementAllBraziersMustBeLit>Tất cả đèn lồng phải được thắp sáng</RoomRequirementAllBraziersMustBeLit>
+	<RoomRequirementAllFineFloored>Được lát sàn tinh xảo hoàn toàn</RoomRequirementAllFineFloored>
+	<RoomRequirementNoProductionFacilities>Không cho phép đặt cơ sở sản xuất</RoomRequirementNoProductionFacilities>
+	<RoomRequirementNoAltars>Không cho phép đặt bàn thờ</RoomRequirementNoAltars>
+	<LifeStageMaxFood>Hệ số thực phẩm</LifeStageMaxFood>
+	<ExpandAllCategories>Mở rộng tất cả</ExpandAllCategories>
+	<CollapseAllCategories>Thu gọn tất cả</CollapseAllCategories>
+	<TooltipDyeExplanation>Màu nhuộm có thể có được bằng cách trồng hoa bảy màu, hoặc mua từ thương đoàn.</TooltipDyeExplanation>
+	<ZoomRange>Phạm vi thu phóng {0}</ZoomRange>
+	<ColorTemperature>Nhiệt độ màu</ColorTemperature>
+	<ChooseAColor>Chọn một màu</ChooseAColor>
+	<Red>Đỏ</Red>
+	<Green>Xanh lá</Green>
+	<Blue>Xanh dương</Blue>
+	<Hue>Màu sắc</Hue>
+	<Saturation>Độ bão hòa</Saturation>
+	<ColorValue>Giá trị</ColorValue>
+	<Darklight>Ánh sáng mờ</Darklight>
+	<NotDarklight>Không phải ánh sáng mờ</NotDarklight>
+	<CurrentColor>Màu hiện tại</CurrentColor>
+	<OldColor>Màu trước đó</OldColor>
+	<CommandCopyColorLabel>Sao chép màu</CommandCopyColorLabel>
+	<CommandCopyColorDesc>Sao chép màu hiện tại vào clipboard.</CommandCopyColorDesc>
+	<CommandPasteColorLabel>Dán màu</CommandPasteColorLabel>
+	<CommandPasteColorDesc>Thay thế màu này bằng màu trong clipboard.</CommandPasteColorDesc>
+	<ClipboardInvalidColor>Clipboard không có màu hợp lệ.</ClipboardInvalidColor>
+	<ColorCopiedSuccessfully>Màu đã được sao chép vào clipboard.</ColorCopiedSuccessfully>
+	<ColorPastedSuccessfully>Màu đã được cập nhật từ clipboard.</ColorPastedSuccessfully>
+	<ToggleDarklightOff>Chuyển sang độ sáng bình thường</ToggleDarklightOff>
+	<ToggleDarklightOffDesc>Thay đổi màu ánh sáng thành màu bình thường.</ToggleDarklightOffDesc>
+	<ToggleDarklightOn>Chuyển sang độ sáng mờ</ToggleDarklightOn>
+	<ToggleDarklightOnDesc>Thay đổi màu ánh sáng thành ánh sáng mờ.</ToggleDarklightOnDesc>
+	<ColorTemperatureTooltip>Chọn màu bằng cách thiết lập nhiệt độ màu. Lưu ý: Điều này chỉ ảnh hưởng đến màu sắc trực quan, không ảnh hưởng đến đầu ra nhiệt.</ColorTemperatureTooltip>
+	<CannotShootPawnIsPsychicallyDeaf>{0_labelShort} bị điếc tâm linh.</CannotShootPawnIsPsychicallyDeaf>
+	<SearchTheMap>Tìm kiếm bản đồ hiện tại.</SearchTheMap>
+	<SearchTheMapDesc>Tìm kiếm các đối tượng, công trình, người, động vật, thực vật và nhiều hơn nữa trên bản đồ hiện tại.</SearchTheMapDesc>
+	<MapSearchResults>Tìm thấy {0} kết quả</MapSearchResults>
+	<MapSearchResultSingular>Phát hiện 1 kết quả</MapSearchResultSingular>
+	<Searching>Tìm kiếm</Searching>
+	<!--<Outfit>Cấu hình trang phục</Outfit>-->
+	<!--<SelectOutfit>Chọn cấu hình</SelectOutfit>-->
+	<!--<NewOutfit>Cấu hình mới</NewOutfit>-->
+	<!--<DeleteOutfit>Xóa cấu hình</DeleteOutfit>-->
+	<!--<NoOutfitSelected>Chưa chọn cấu hình trang phục</NoOutfitSelected>
+	<SelectDrugPolicy>Chọn chính sách dùng thuốc</SelectDrugPolicy>
+	<NewDrugPolicy>Chính sách mới</NewDrugPolicy>
+	<DeleteDrugPolicy>Xóa chính sách dùng thuốc</DeleteDrugPolicy>
+	<NoDrugPolicySelected>Không có chính sách nào được chọn</NoDrugPolicySelected>
+	<DrugUsageColumnLabel>Sử dụng</DrugUsageColumnLabel>
+	<DrugUsageColumnDesc>Thuốc có được phép sử dụng không.</DrugUsageColumnDesc>
+	<FoodRestriction>Dùng thực phẩm</FoodRestriction>
+	<FoodRestrictionShort>Thực phẩm</FoodRestrictionShort>
+	<SelectFoodRestriction>Chọn hạn chế</SelectFoodRestriction>
+	<NewFoodRestriction>Hạn chế mới</NewFoodRestriction>
+	<DeleteFoodRestriction>Xóa hạn chế</DeleteFoodRestriction>
+	<NoFoodRestrictionSelected>Chưa chọn hạn chế thực phẩm</NoFoodRestrictionSelected>
+	<MedGroupColonist>Người định cư</MedGroupColonist>
+	<MedGroupImprisonedColonist>Người định cư bị giam giữ</MedGroupImprisonedColonist>
+	<MedGroupColonyAnimal>Động vật thuộc địa</MedGroupColonyAnimal>
+	<MedGroupNeutralAnimal>Động vật trung lập</MedGroupNeutralAnimal>-->
+</LanguageData>

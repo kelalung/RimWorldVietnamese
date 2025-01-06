@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteRawHumanlikeMeat.label>Ăn thịt người sống</AteRawHumanlikeMeat.label>
+<AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] ăn thịt người</li>
+    <li>image->[PAWN_nameFull][eat_gerund] có thể là thịt của một đồng đội nào đó,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull][eat_gerund] thịt cắt ra từ cánh tay của một người,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull][eat_gerund] thịt người,[circumstance_group]</li>
+    <li>eat_gerund->đang ăn</li>
+    <li>eat_gerund->nuốt</li>
+    <li>eat_gerund->nhai</li>
+    <li>eat_gerund->nhai một cách kinh tởm</li>
+    <li>eat_gerund->nuốt xuống</li>
+    <li>eat_gerund->nuốt</li>
+    <li>eat_gerund->cắn</li>
+    <li>circumstance_phrase->với sự tự tin</li>
+    <li>circumstance_phrase->không có chút xấu hổ</li>
+    <li>circumstance_phrase->không kiêng nể gì cả</li>
+    <li>circumstance_phrase->người khác đứng xung quanh quan sát</li>
+    <li>circumstance_phrase->đang hăng hái</li>
+    <li>circumstance_phrase->điên cuồng như thể [PAWN_possessive] cuộc sống hoàn toàn phụ thuộc vào điều này</li>
+    <li>desc_sentence->Mặt của [PAWN_nameDef] đầy máu và chất lỏng không rõ nguồn gốc.</li>
+    <li>desc_sentence->[PAWN_nameDef] thỏa mãn liếm ngón tay.</li>
+    <li>desc_sentence->Trước mặt [PAWN_nameDef] đầy máu và thịt vụn.</li>
+    <li>desc_sentence->[PAWN_nameDef] đứng giữa một đống máu.</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn chằm chằm vào một người nào đó bên cạnh với ánh mắt không thiện cảm.</li>
+    <li>desc_sentence->Thịt người sáng bóng, trông rất ngon miệng.</li>
+    <li>desc_sentence->Mảnh thịt người vương vãi khắp người [PAWN_nameDef].</li>
+</AteRawHumanlikeMeat.rulePack.rulesStrings>
+  <ButcheredHumanlikeCorpse.label>Thịt người bị mổ</ButcheredHumanlikeCorpse.label>
+<CraftedArt.label>Nghệ thuật thủ công</CraftedArt.label>
+<CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đang làm [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] làm [THING_indefinite]. [quality_sentence].[title_sentence]</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] hoàn thành công việc của [PAWN_possessive][THING_indefinite]. [quality_sentence].[title_sentence]</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] nỗ lực hoàn thành [THING_indefinite]. [quality_sentence].[title_sentence]</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] làm [THING_indefinite]. [quality_sentence].[title_sentence]</li>
+    <li>circumstance_phrase->toàn tâm toàn ý</li>
+    <li>circumstance_phrase->với vẻ mặt hài lòng</li>
+    <li>circumstance_phrase->đứng bên bàn làm việc của [PAWN_possessive]</li>
+    <li>circumstance_phrase->với sự căng thẳng tột độ</li>
+    <li>desc_sentence->Có một số công cụ rải rác xung quanh.</li>
+    <li>desc_sentence->[PAWN_pronoun] bị thương trong khi làm việc, để lại vết sẹo.</li>
+    <li>desc_sentence->[PAWN_pronoun] đổ mồ hôi như mưa.</li>
+    <li>desc_sentence->Môi trường làm việc rất gọn gàng, tất cả công cụ đều được đặt đúng chỗ.</li>
+    <li>desc_sentence->[PAWN_pronoun] thể hiện một cách phóng đại, trông mạnh mẽ hơn.</li>
+    <li>desc_sentence->[THING_definite] có kích thước phóng đại nhấn mạnh tầm quan trọng của nó.</li>
+    <li>desc_sentence->[THING_definite] được thêm ánh sáng nghệ thuật, trông như một thiên thần.</li>
+    <li>desc_sentence->[PAWN_nameDef] dần dần mờ nhạt vào nền để nhấn mạnh tác phẩm mới của [PAWN_possessive].</li>
+    <li>desc_sentence->[quantity_adjphrase] khán giả đang tụ tập xung quanh [PAWN_objective].</li>
+    <li>desc_sentence->Một nhóm người đang cổ vũ ở phía sau.</li>
+    <li>quality_sentence->[THING_definite] có vẻ là chất lượng [THING_quality]</li>
+    <li>quality_sentence->[THING_definite] là chất lượng [THING_quality]</li>
+    <li>quality_sentence->Tác phẩm của [PAWN_nameDef] là chất lượng [THING_quality]</li>
+    <li>title_sentence->[PAWN_nameDef] đã đặt tiêu đề cho [THING_definite]: [THING_title]</li>
+    <li>title_sentence->Tiêu đề được trang trí bằng huy hiệu trên [THING_definite]: [THING_title]</li>
+    <li>title_sentence->Tiêu đề của [THING_definite], [THING_title], treo lơ lửng trong nền</li>
+</CraftedArt.rulePack.rulesStrings>
+<Drunk.label>Say rượu</Drunk.label>
+<Drunk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] say sưa</li>
+    <li>tale_noun->[PAWN_nameDef] say bí tỉ</li>
+    <li>image->[PAWN_nameFull] say xỉn lảo đảo,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngửa cổ uống rượu,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tham lam ôm nhiều chai rượu,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] uống ừng ực,[circumstance_group]</li>
+    <li>circumstance_phrase->không phân biệt được đông tây nam bắc</li>
+    <li>circumstance_phrase->ngơ ngác</li>
+    <li>circumstance_phrase->hỏi [PAWN_possessive] mình đang ở đâu</li>
+    <li>circumstance_phrase->khóc lóc</li>
+    <li>circumstance_phrase->cười một cách thần kinh</li>
+    <li>circumstance_phrase->khóc không thành tiếng</li>
+    <li>circumstance_phrase->với vẻ mặt buồn bã</li>
+    <li>circumstance_phrase->giận dữ nhìn mọi người xung quanh</li>
+    <li>circumstance_phrase->nháy mắt với ai đó bên cạnh</li>
+    <li>circumstance_phrase->muốn cởi bỏ quần áo</li>
+    <li>circumstance_phrase->ngậm ngón tay trong miệng</li>
+    <li>circumstance_phrase->nôn mửa</li>
+    <li>circumstance_phrase->không có chút lo lắng nào</li>
+    <li>circumstance_phrase->đôi mắt lấp lánh vẻ dâm dục</li>
+    <li>circumstance_phrase->nhớ về quá khứ</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như không biết gì về môi trường xung quanh.</li>
+    <li>desc_sentence->Khuôn mặt của [PAWN_possessive] dường như đã sưng lên.</li>
+    <li>desc_sentence->[PAWN_pronoun] gần như bất tỉnh, thè lưỡi và sùi bọt mép.</li>
+    <li>desc_sentence->[PAWN_pronoun] vừa khóc vừa cười.</li>
+    <li>desc_sentence->[PAWN_pronoun] làm bẩn mọi thứ trước mặt.</li>
+    <li>desc_sentence->Sau lưng [PAWN_objective] có một đống chai rượu đã uống cạn.</li>
+    <li>desc_sentence->Quần của [PAWN_possessive] có một vết chất trắng.</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như đã mất một chiếc giày.</li>
+    <li>desc_sentence->Tóc của [PAWN_possessive] rối bời.</li>
+</Drunk.rulePack.rulesStrings>
+<FinishedResearchProject.label>Dự án nghiên cứu hoàn thành</FinishedResearchProject.label>
+<FinishedResearchProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] hoàn thành nghiên cứu về「[PROJECT_label]」</li>
+    <li>image->[PAWN_nameFull][circumstance_group] đang thực hiện nghiên cứu về dự án「[PROJECT_label]」</li>
+    <li>image->[PAWN_nameFull][circumstance_group] khám phá bí ẩn của「[PROJECT_label]」</li>
+    <li>image->[PAWN_nameFull][circumstance_group] nghiên cứu về「[PROJECT_label]」</li>
+    <li>circumstance_phrase->với sự căng thẳng tột độ</li>
+    <li>circumstance_phrase->đứng một mình trước bàn nghiên cứu của [PAWN_possessive]</li>
+    <li>circumstance_phrase->vừa cầm tài liệu vừa</li>
+    <li>circumstance_phrase->với vẻ mặt say mê</li>
+    <li>desc_sentence->[PAWN_nameDef] đổ mồ hôi như mưa.</li>
+    <li>desc_sentence->Dự án có vẻ rất phức tạp.</li>
+    <li>desc_sentence->[PAWN_nameDef] bị bao quanh bởi hàng loạt công cụ và thiết bị.</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn chằm chằm vào phát hiện của [PAWN_possessive] với sự ngạc nhiên.</li>
+</FinishedResearchProject.rulePack.rulesStrings>
+<LandedInPod.label>Buồng vận chuyển hạ cánh</LandedInPod.label>
+  <LandedInPod.rulePack.rulesStrings>
+    <li>tale_noun->Buồng thả hàng của [PAWN_nameDef] hạ cánh</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] hạ cánh bằng buồng thả hàng</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] hạ cánh bằng buồng thả hàng</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] va chạm với mặt đất bằng buồng thả hàng</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] giảm độ cao bằng buồng thả hàng</li>
+    <li>circumstance_phrase->trước một mảng [TerrainFeature]</li>
+    <li>circumstance_phrase->với sức mạnh không thể tưởng tượng nổi</li>
+    <li>circumstance_phrase->trong một đám bụi và đá bay lên</li>
+    <li>circumstance_phrase->trong tiếng ro tiếng nổ của tên lửa giảm tốc</li>
+    <li>circumstance_phrase->trong quy trình hạ cánh chính xác</li>
+    <li>desc_sentence->[PAWN_pronoun] tập trung điều khiển bộ điều khiển.</li>
+    <li>desc_sentence->[PAWN_pronoun] sợ hãi nhắm mắt lại.</li>
+    <li>desc_sentence->[PAWN_pronoun] gần như bất tỉnh, thè lưỡi và sùi bọt mép.</li>
+    <li>desc_sentence->[PAWN_pronoun] mỉm cười mạnh mẽ.</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như đã không biết mình đang làm gì.</li>
+    <li>desc_sentence->[PAWN_pronoun] rơi vào tình huống khó khăn, hoàn toàn bất lực nhắm mắt lại.</li>
+    <li>desc_sentence->Buồng thả hàng kéo theo một đuôi lửa rơi từ trên trời xuống.</li>
+    <li>desc_sentence->Một con [Animal] gần đó hoảng hốt ngẩng đầu nhìn.</li>
+    <li>desc_sentence->Một con [Animal] hoảng loạn chạy trốn khỏi điểm va chạm.</li>
+    <li>desc_sentence->Nền là một mảng [TerrainFeature].</li>
+    <li>desc_sentence->Một [PersonJob] từ xa nhìn lặng lẽ</li>
+  </LandedInPod.rulePack.rulesStrings>
+  <MentalStateBerserk.label>Trạng thái điên cuồng</MentalStateBerserk.label>
+<MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] phát điên</li>
+    <li>image->[PAWN_nameFull] đột nhiên phát điên,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trở thành kẻ điên,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lảo đảo đi về phía trước, trông như một người tâm thần,[circumstance_group]</li>
+    <li>circumstance_phrase->đang cố gắng cởi bỏ quần áo</li>
+    <li>circumstance_phrase->trông có vẻ vô lý</li>
+    <li>circumstance_phrase->những người khác sợ hãi lùi lại</li>
+    <li>circumstance_phrase->[PAWN_possessive] một người bạn đã bỏ chạy</li>
+    <li>circumstance_phrase->rõ ràng là bị áp lực nặng nề dẫn đến sự sụp đổ tinh thần</li>
+    <li>circumstance_phrase->rõ ràng là một nỗ lực cuối cùng</li>
+    <li>desc_sentence->[PAWN_pronoun] run rẩy vì cơn giận không thể kiểm soát.</li>
+    <li>desc_sentence->[PAWN_pronoun] gầm gừ với hàm răng nghiến chặt.</li>
+    <li>desc_sentence->ánh mắt của [PAWN_possessive] chỉ còn lại sự điên cuồng.</li>
+    <li>desc_sentence->Đờm từ miệng [PAWN_possessive] phun ra liên tục, trong khi [PAWN_possessive] gào thét điên cuồng.</li>
+    <li>desc_sentence->Một phần quần áo trên người [PAWN_pronoun] đã biến mất.</li>
+    <li>desc_sentence->Khuôn mặt của [PAWN_pronoun] bị méo mó vì đau khổ.</li>
+    <li>desc_sentence->[PAWN_pronoun] cười như một kẻ điên.</li>
+    <li>desc_sentence->Khuôn mặt của [PAWN_pronoun] được vẽ như một con [Animal] đang gầm gừ.</li>
+    <li>desc_sentence->Nhiều con [Animal] bao quanh đầu của [PAWN_possessive], dường như mang ý nghĩa gì đó.</li>
+    <li>desc_sentence->Ánh mắt của [PAWN_pronoun] tràn đầy sát khí.</li>
+    <li>desc_sentence->Toàn bộ cơ thể của [PAWN_possessive] dường như run rẩy vì sự căm ghét.</li>
+    <li>desc_sentence->[PAWN_possessive] có khuôn mặt dữ tợn.</li>
+    <li>desc_sentence->Trên khuôn mặt của [PAWN_possessive] có một giọt nước mắt.</li>
+</MentalStateBerserk.rulePack.rulesStrings>
+<MentalStateGaveUp.label>Bỏ cuộc</MentalStateGaveUp.label>
+<MentalStateGaveUp.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] từ bỏ trong tuyệt vọng</li>
+    <li>image->[PAWN_nameFull] tự hủy hoại bản thân dưới áp lực,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] không thể kiềm chế mà khóc nức nở,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đi đi lại lại, vẻ mặt ngơ ngác,[circumstance_group]</li>
+    <li>circumstance_phrase->đang cố gắng cởi bỏ quần áo</li>
+    <li>circumstance_phrase->trông có vẻ vô lý</li>
+    <li>circumstance_phrase->những người khác bên cạnh liên tục an ủi</li>
+    <li>circumstance_phrase->một người bạn bên cạnh đang khóc</li>
+    <li>circumstance_phrase->rõ ràng là bị áp lực nặng nề dẫn đến sự sụp đổ tinh thần</li>
+    <li>circumstance_phrase->rõ ràng là một nỗ lực cuối cùng</li>
+    <li>desc_sentence->Trên khuôn mặt [PAWN_pronoun] có nước mắt.</li>
+    <li>desc_sentence->[PAWN_pronoun] cười một cách chán nản.</li>
+    <li>desc_sentence->[PAWN_nameDef] ngước nhìn bầu trời, như thể cầu xin sự giúp đỡ từ trời.</li>
+    <li>desc_sentence->[PAWN_pronoun] xé rách quần áo của mình.</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như không biết gì về môi trường xung quanh.</li>
+    <li>desc_sentence->[PAWN_pronoun] vừa khóc vừa cười.</li>
+    <li>desc_sentence->[PAWN_pronoun] làm bẩn bản thân.</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như đã mất một chiếc giày.</li>
+    <li>desc_sentence->Tóc của [PAWN_possessive] rối bời.</li>
+</MentalStateGaveUp.rulePack.rulesStrings>
+<ReadBook.label>Đọc sách</ReadBook.label>
+<ReadBook.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đã đọc xong [THING_title]</li>
+    <li>image->[PAWN_nameFull] cuối cùng đã đóng [THING_title], với nụ cười hài lòng trên mặt,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lật giở [THING_title], hấp thụ kiến thức bên trong,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đặt [THING_title] trở lại kệ sách, tỏa ra cảm giác thành tựu,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ngồi tĩnh lặng suy nghĩ, hồi tưởng lại những chân lý sâu sắc trong [THING_title],[circumstance_group]</li>
+    <li>circumstance_phrase->[PAWN_possessive] thư giãn trong phòng sách yêu thích</li>
+    <li>circumstance_phrase->uống trà bên cạnh [PAWN_possessive]</li>
+    <li>circumstance_phrase->dưới ánh sáng dịu dàng của đèn bàn</li>
+    <li>desc_sentence->[PAWN_nameDef] suy nghĩ về những ghi chú mà [PAWN_possessive] đã viết trong [THING_title].</li>
+    <li>desc_sentence->Đôi mắt của [PAWN_nameDef] lấp lánh ánh sáng của trí tuệ mới phát hiện.</li>
+    <li>desc_sentence->Những bài học trong [THING_title] đã thay đổi [PAWN_nameDef] mãi mãi.</li>
+    <li>desc_sentence->Cảm thấy rằng một số bí mật vẫn chưa được khám phá.</li>
+</ReadBook.rulePack.rulesStrings>
+<StruckMineable.label>Khai thác</StruckMineable.label>
+<StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] khai thác [THING_label]</li>
+    <li>image->[PAWN_nameFull][circumstance_group] đã khai thác được [THING_label]</li>
+    <li>circumstance_phrase->trong khi khai thác</li>
+    <li>circumstance_phrase->trong khi đào</li>
+    <li>circumstance_phrase->trong khi khoan</li>
+    <li>circumstance_phrase->với sự bất ngờ</li>
+    <li>circumstance_phrase->không có bất ngờ nào</li>
+    <li>desc_sentence->[PAWN_nameDef] dùng tay áo lau mồ hôi trên trán.</li>
+    <li>desc_sentence->[PAWN_nameDef] vui mừng nhảy lên.</li>
+    <li>desc_sentence->[PAWN_nameDef] bắt tay ăn mừng với bạn bè.</li>
+    <li>desc_sentence->[PAWN_nameDef] vui vẻ la hét.</li>
+    <li>desc_sentence->[PAWN_nameDef] không thể kiềm chế được tiếng cười.</li>
+    <li>desc_sentence->Khuôn mặt [PAWN_nameDef] đầy mồ hôi và bụi bẩn.</li>
+    <li>desc_sentence->Khuôn mặt [PAWN_nameDef] đầy mồ hôi và bụi bẩn.</li>
+</StruckMineable.rulePack.rulesStrings>
+  <Vomited.label>Nôn mửa</Vomited.label>
+<Vomited.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đang nôn mửa</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] nôn xuống đất</li>
+    <li>image->[PAWN_nameFull] bị chất nôn vón cục bám đầy người, và [circumstance_group] đang nôn khan, trông rất kinh tởm</li>
+    <li>image->[PAWN_nameFull] cúi người, [circumstance_group] lại nôn xuống đất</li>
+    <li>image->[PAWN_nameFull] chống tay lên đầu gối, [circumstance_group] đang nôn khan xuống sàn nhà</li>
+    <li>circumstance_phrase->đau đớn</li>
+    <li>circumstance_phrase->với vẻ mặt xấu hổ</li>
+    <li>circumstance_phrase->trong sự chứng kiến của người khác</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như không biết gì về môi trường xung quanh.</li>
+    <li>desc_sentence->Khuôn mặt của [PAWN_possessive] dường như bị sưng lên.</li>
+    <li>desc_sentence->[PAWN_pronoun] gần như bất tỉnh, thè lưỡi và sùi bọt mép.</li>
+    <li>desc_sentence->[PAWN_pronoun] co giật dữ dội.</li>
+    <li>desc_sentence->[PAWN_pronoun] mặt đầy xấu hổ.</li>
+    <li>desc_sentence->[PAWN_pronoun] phớt lờ môi trường hiện tại, dường như muốn cố gắng cười.</li>
+    <li>desc_sentence->[PAWN_pronoun] trông như kiệt sức, như thể toàn bộ cơ thể đã bị cơn nôn dữ dội làm cạn kiệt.</li>
+    <li>desc_sentence->[PAWN_pronoun] bị bao quanh bởi một vòng nôn có tính nghệ thuật.</li>
+    <li>desc_sentence->Một con [Animal] trong nền đang ăn những phần còn lại của chất nôn trên đất.</li>
+</Vomited.rulePack.rulesStrings>
+<WalkedNaked.label>Đi bộ khỏa thân</WalkedNaked.label>
+<WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đi bộ khỏa thân</li>
+    <li>image->[PAWN_nameFull] rất tự nhiên đi [nude_action],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] hoàn toàn không mặc gì [nude_action],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] khỏa thân [nude_action],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] mà không mặc bất kỳ trang phục nào,[circumstance_group]</li>
+    <li>nude_action->ngẩng cao đầu</li>
+    <li>nude_action->vui đùa</li>
+    <li>nude_action->nhảy nhót</li>
+    <li>nude_action->đi dạo</li>
+    <li>nude_action->khoe cơ thể của [PAWN_possessive]</li>
+    <li>nude_action->đi lại xung quanh</li>
+    <li>nude_action->đi bằng đầu ngón chân</li>
+    <li>nude_action->đi bộ</li>
+    <li>nude_action->nhìn quanh</li>
+    <li>circumstance_phrase->đồng thời đầy tự tin</li>
+    <li>circumstance_phrase->không kiêng nể gì cả</li>
+    <li>circumstance_phrase->những người khác đứng xung quanh xem</li>
+    <li>circumstance_phrase->không biết lý do gì</li>
+    <li>circumstance_phrase->những con vật xung quanh rất bối rối</li>
+    <li>desc_sentence->[PAWN_nameDef] rõ ràng rất phấn khích.</li>
+    <li>desc_sentence->[PAWN_nameDef] toàn thân bị bao bọc bởi hơi nước không rõ nguồn gốc.</li>
+    <li>desc_sentence->[PAWN_nameDef] thở hổn hển một cách vô lý.</li>
+    <li>desc_sentence->[PAWN_nameDef] nhẹ nhàng vuốt ve những bụi cây.</li>
+</WalkedNaked.rulePack.rulesStrings>
+<WasOnFire.label>Bị cháy</WasOnFire.label>
+<WasOnFire.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] bị cháy</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] điên cuồng vỗ về ngọn lửa trên cơ thể</li>
+    <li>image->[PAWN_nameFull] đang [circumstance_group] bị ngọn lửa nuốt chửng</li>
+    <li>image->[PAWN_nameFull] quỳ xuống, giơ hai tay lên, [circumstance_group] cố gắng dập tắt ngọn lửa trên cơ thể</li>
+    <li>image->[PAWN_nameFull] toàn thân bốc cháy, [circumstance_group] lăn lộn trên đất</li>
+    <li>circumstance_phrase->trong sự chứng kiến của những người khác</li>
+    <li>circumstance_phrase->gần như khỏa thân</li>
+    <li>circumstance_phrase->trong tình trạng hoảng loạn</li>
+    <li>desc_sentence->da thịt của [PAWN_possessive] rõ ràng đã bị cháy.</li>
+    <li>desc_sentence->Đôi mắt của [PAWN_possessive] tràn đầy sự hoảng sợ.</li>
+    <li>desc_sentence->[PAWN_pronoun] dường như gần như mất ý thức, [PAWN_possessive] đôi mắt đã mất đi sức sống.</li>
+    <li>desc_sentence->[PAWN_pronoun] kêu cứu lớn tiếng.</li>
+    <li>desc_sentence->Ngọn lửa đã bao trùm [PAWN_possessive] đầu.</li>
+    <li>desc_sentence->Một vòng hào quang lửa tượng trưng bao quanh khuôn mặt của [PAWN_possessive]</li>
+    <li>desc_sentence->[PAWN_pronoun] cười điên cuồng.</li>
+    <li>desc_sentence->[PAWN_pronoun] thất thần.</li>
+    <li>desc_sentence->[PAWN_objective] toàn thân bốc khói.</li>
+    <li>desc_sentence->[PAWN_pronoun] được mô tả một cách nghệ thuật như một hình dạng xác chết.</li>
+</WasOnFire.rulePack.rulesStrings>
+</LanguageData>

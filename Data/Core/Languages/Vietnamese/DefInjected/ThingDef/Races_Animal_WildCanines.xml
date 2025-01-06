@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Fox_Arctic.label>Cáo Bắc Cực</Fox_Arctic.label>
+<Fox_Arctic.description>Loài động vật ăn thịt nhỏ thích nghi với vùng Bắc Cực. Thường săn mồi là các loài chuột nhỏ, đôi khi có thể đào sâu một mét tuyết để bắt được con mồi.</Fox_Arctic.description>
+<Fox_Arctic.tools.left_claw.label>Móng trái</Fox_Arctic.tools.left_claw.label>
+<Fox_Arctic.tools.left_claw.labelNoLocation>Móng</Fox_Arctic.tools.left_claw.labelNoLocation>
+<Fox_Arctic.tools.right_claw.label>Móng phải</Fox_Arctic.tools.right_claw.label>
+<Fox_Arctic.tools.right_claw.labelNoLocation>Móng</Fox_Arctic.tools.right_claw.labelNoLocation>
+<Fox_Arctic.tools.head.label>Đầu</Fox_Arctic.tools.head.label>
+<Fox_Fennec.label>Cáo sa mạc</Fox_Fennec.label>
+<Fox_Fennec.description>Cáo tai lớn, còn gọi là cáo sa mạc hay cáo nhỏ, là một loài cáo có nguồn gốc từ Bắc Phi cổ đại. Chúng sống bằng cách săn các loài động vật nhỏ và có một cặp tai rất lớn.</Fox_Fennec.description>
+<Fox_Fennec.race.meatLabel>Thịt cáo</Fox_Fennec.race.meatLabel>
+<Fox_Fennec.tools.left_claw.label>Móng trái</Fox_Fennec.tools.left_claw.label>
+<Fox_Fennec.tools.left_claw.labelNoLocation>Móng</Fox_Fennec.tools.left_claw.labelNoLocation>
+<Fox_Fennec.tools.right_claw.label>Móng phải</Fox_Fennec.tools.right_claw.label>
+<Fox_Fennec.tools.right_claw.labelNoLocation>Móng</Fox_Fennec.tools.right_claw.labelNoLocation>
+<Fox_Fennec.tools.head.label>Đầu</Fox_Fennec.tools.head.label>
+<Fox_Red.label>Cáo đỏ</Fox_Red.label>
+<Fox_Red.description>Loài động vật thuộc họ chó nhỏ sống đơn độc, đã tiến hóa để thích nghi với khí hậu ôn đới và sống bằng cách săn các loài động vật nhỏ.</Fox_Red.description>
+<Fox_Red.tools.left_claw.label>Móng trái</Fox_Red.tools.left_claw.label>
+<Fox_Red.tools.left_claw.labelNoLocation>Móng</Fox_Red.tools.left_claw.labelNoLocation>
+<Fox_Red.tools.right_claw.label>Móng phải</Fox_Red.tools.right_claw.label>
+<Fox_Red.tools.right_claw.labelNoLocation>Móng</Fox_Red.tools.right_claw.labelNoLocation>
+<Fox_Red.tools.head.label>Đầu</Fox_Red.tools.head.label>
+<Wolf_Arctic.label>Sói Bắc Cực</Wolf_Arctic.label>
+<Wolf_Arctic.description>Loài sói biến thể sống ở vùng cực trên Trái Đất. Là động vật săn mồi theo bầy, sói Bắc Cực có cấu trúc xã hội phức tạp và rất thông minh.</Wolf_Arctic.description>
+<Wolf_Arctic.tools.left_claw.label>Móng trái</Wolf_Arctic.tools.left_claw.label>
+<Wolf_Arctic.tools.left_claw.labelNoLocation>Móng</Wolf_Arctic.tools.left_claw.labelNoLocation>
+<Wolf_Arctic.tools.right_claw.label>Móng phải</Wolf_Arctic.tools.right_claw.label>
+<Wolf_Arctic.tools.right_claw.labelNoLocation>Móng</Wolf_Arctic.tools.right_claw.labelNoLocation>
+<Wolf_Arctic.tools.head.label>Đầu</Wolf_Arctic.tools.head.label>
+<Wolf_Timber.label>Sói xám</Wolf_Timber.label>
+<Wolf_Timber.description>Sói rừng, còn gọi là sói xám, là một loài động vật ăn thịt mạnh mẽ, luôn được nhiều nền văn minh cổ đại sợ hãi. Là động vật săn mồi theo bầy, sói rừng có cấu trúc xã hội phức tạp và rất thông minh.</Wolf_Timber.description>
+<Wolf_Timber.race.meatLabel>Thịt sói</Wolf_Timber.race.meatLabel>
+<Wolf_Timber.tools.left_claw.label>Móng trái</Wolf_Timber.tools.left_claw.label>
+<Wolf_Timber.tools.left_claw.labelNoLocation>Móng</Wolf_Timber.tools.left_claw.labelNoLocation>
+<Wolf_Timber.tools.right_claw.label>Móng phải</Wolf_Timber.tools.right_claw.label>
+<Wolf_Timber.tools.right_claw.labelNoLocation>Móng</Wolf_Timber.tools.right_claw.labelNoLocation>
+<Wolf_Timber.tools.head.label>Đầu</Wolf_Timber.tools.head.label>
+</LanguageData>

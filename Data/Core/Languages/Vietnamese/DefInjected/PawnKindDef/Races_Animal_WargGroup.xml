@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Warg.label>Sói</Warg.label>
+  <Warg.labelFemale>Sói cái</Warg.labelFemale>
+  <Warg.labelFemalePlural>Sói cái</Warg.labelFemalePlural>
+  <Warg.labelMale>Sói đực</Warg.labelMale>
+  <Warg.labelMalePlural>Sói đực</Warg.labelMalePlural>
+  <Warg.labelPlural>Sói</Warg.labelPlural>
+  <Warg.lifeStages.warg_puppy.label>Sói con non</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelFemale>Sói con non</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>Sói con non</Warg.lifeStages.warg_puppy.labelFemalePlural>
+  <Warg.lifeStages.warg_puppy.labelMale>Sói con non</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMalePlural>Sói con non</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>Sói con non</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>Sói mới lớn</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelFemale>Sói mới lớn cái</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>Sói mới lớn cái</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.1.labelMale>Sói mới lớn đực</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>Sói mới lớn đực</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelPlural>Sói mới lớn</Warg.lifeStages.1.labelPlural>
+  <Warg.lifeStages.2.label>Sói</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelFemale>Sói cái</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>Sói cái</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.lifeStages.2.labelMale>Sói đực</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>Sói đực</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelPlural>Sói</Warg.lifeStages.2.labelPlural>
+</LanguageData>

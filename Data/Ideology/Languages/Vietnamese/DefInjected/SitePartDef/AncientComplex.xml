@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientComplex.label>Khu kiến trúc cổ</AncientComplex.label>
+<AncientComplex.description>Một khu kiến trúc cổ chứa kho báu.</AncientComplex.description>
+<AncientComplex.approachingReportString>Điều tra {0}</AncientComplex.approachingReportString>
+<AncientComplex.approachOrderString>Điều tra {0}</AncientComplex.approachOrderString>
+</LanguageData>

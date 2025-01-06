@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+		<li>questDescription->Thông qua việc sử dụng máy quét khoáng sản tầm xa, [worker_definite] đã phát hiện một [targetMineable_label] trơ trọi gần đây.\n\nThật không may, nó sẽ không tồn tại ở đó mãi mãi - nếu chúng ta không nhanh chóng gửi người đến, các phe khác sẽ khai thác và mang đi những khoáng sản này sau [timeoutTicks_duration].[lumpThreatDescription]</li>
+	</LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+	<LongRangeMineralScannerLump.questNameRules.rulesStrings>
+		<li>questName->[targetMineableThing_label] của [lump]</li>
+		<li>questName->[targetMineableThing_label][lump]</li>
+		<li>questName->[targetMineableThing_label][lump]</li>
+		<li>questName->[adj][targetMineableThing_label]</li>
+		<li>questName->[discovered][targetMineableThing_label]</li>
+		<li>lump->Mỏ</li>
+		<li>lump->Khối khoáng sản</li>
+		<li>lump->Khoáng sản</li>
+		<li>lump->Tài nguyên khoáng sản</li>
+		<li>lump->Tầng khoáng sản</li>
+		<li>lump->Quặng nguyên chất</li>
+		<li>adj->Xa xôi</li>
+		<li>adj->Ở xa</li>
+		<li>adj->Chưa biết</li>
+		<li>adj->Đã phát hiện</li>
+		<li>discovered->Đã phát hiện</li>
+		<li>discovered->Đã xác định</li>
+		<li>discovered->Đã định vị</li>
+		<li>discovered->Đã quét</li>
+	</LongRangeMineralScannerLump.questNameRules.rulesStrings>
+	<LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn：[resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+	<LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>[targetMineable_label] đã bị người khác lấy mất. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+</LanguageData>

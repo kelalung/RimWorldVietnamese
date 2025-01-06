@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<FlagstoneGranite.label>Đá granite lát</FlagstoneGranite.label>
+	<FlagstoneGranite.description>Gạch đá thô được cắt. Không đẹp lắm nhưng rất phù hợp để lát đường và lối đi ngoài trời. Gỡ bỏ đá lát không thể tái chế tài nguyên.</FlagstoneGranite.description>
+	<FlagstoneLimestone.label>Đá vôi lát</FlagstoneLimestone.label>
+	<FlagstoneLimestone.description>Gạch đá thô được cắt. Không đẹp lắm nhưng rất phù hợp để lát đường và lối đi ngoài trời. Gỡ bỏ đá lát không thể tái chế tài nguyên.</FlagstoneLimestone.description>
+	<FlagstoneMarble.label>Đá cẩm thạch lát</FlagstoneMarble.label>
+	<FlagstoneMarble.description>Gạch đá thô được cắt. Không đẹp lắm nhưng rất phù hợp để lát đường và lối đi ngoài trời. Gỡ bỏ đá lát không thể tái chế tài nguyên.</FlagstoneMarble.description>
+	<FlagstoneSandstone.label>Sa thạch lát</FlagstoneSandstone.label>
+	<FlagstoneSandstone.description>Gạch đá thô được cắt. Không đẹp lắm nhưng rất phù hợp để lát đường và lối đi ngoài trời. Gỡ bỏ đá lát không thể tái chế tài nguyên.</FlagstoneSandstone.description>
+	<FlagstoneSlate.label>Đá phiến lát</FlagstoneSlate.label>
+	<FlagstoneSlate.description>Gạch đá thô được cắt. Không đẹp lắm nhưng rất phù hợp để lát đường và lối đi ngoài trời. Gỡ bỏ đá lát không thể tái chế tài nguyên.</FlagstoneSlate.description>
+	<TileGranite.label>Gạch granite</TileGranite.label>
+	<TileGranite.description>Gạch đá chắc chắn mang lại cảm giác như lâu đài. Trông rất đẹp nhưng tốc độ lát chậm.</TileGranite.description>
+	<TileLimestone.label>Gạch đá vôi</TileLimestone.label>
+	<TileLimestone.description>Gạch đá chắc chắn mang lại cảm giác như lâu đài. Trông rất đẹp nhưng tốc độ lát chậm.</TileLimestone.description>
+	<TileMarble.label>Gạch đá cẩm thạch</TileMarble.label>
+	<TileMarble.description>Gạch đá chắc chắn mang lại cảm giác như lâu đài. Trông rất đẹp nhưng tốc độ lát chậm.</TileMarble.description>
+	<TileSandstone.label>Gạch sa thạch</TileSandstone.label>
+	<TileSandstone.description>Gạch đá chắc chắn mang lại cảm giác như lâu đài. Trông rất đẹp nhưng tốc độ lát chậm.</TileSandstone.description>
+	<TileSlate.label>Gạch đá phiến</TileSlate.label>
+	<TileSlate.description>Gạch đá chắc chắn mang lại cảm giác như lâu đài. Trông rất đẹp nhưng tốc độ lát chậm.</TileSlate.description>
+</LanguageData>

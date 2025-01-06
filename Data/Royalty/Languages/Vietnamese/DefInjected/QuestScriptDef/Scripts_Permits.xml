@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Người lao động</li>
+    <li>questDescription-&gt;</li>
+</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+<Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>Công nhân đã đến</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
+<Permit_CallLaborers.LetterTextLaborersArrived.slateRef>Các công nhân từ [permitFaction_name] đã đến. Một tàu không gian sẽ đến đón họ sau [laborersDurationDays] ngày.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+<Permit_CallLaborers.InspectStringDepartShuttle.slateRef>Phải lên tàu không gian để rời đi</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
+<Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>Tàu không gian đã đến</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
+<Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>Một tàu không gian đã đến để đón các công nhân từ [permitFaction_name].</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+<Permit_CallLaborers.LetterLabelLaborerDied.slateRef>Công nhân đã chết: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
+<Permit_CallLaborers.LetterTextLaborerDied.slateRef>Một công nhân được gửi từ [permitFaction_name] để giúp bạn đã chết. Mối quan hệ của bạn với [permitFaction_name] đã giảm [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AteFungus_Despised.stages.ate_fungus_raw.label>Ăn nấm sống</AteFungus_Despised.stages.ate_fungus_raw.label>
+<AteFungus_Despised.stages.ate_fungus_raw.description>Những loại nấm đó có mùi như giẻ ướt và vị cũng không tốt hơn là bao.</AteFungus_Despised.stages.ate_fungus_raw.description>
+<AteFungus_Preferred.stages.ate_fungus.label>Ăn nấm</AteFungus_Preferred.stages.ate_fungus.label>
+<AteFungus_Preferred.stages.ate_fungus.description>Tôi đã ăn một ít nấm, đúng là điều tôi muốn.</AteFungus_Preferred.stages.ate_fungus.description>
+<AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>Ăn nấm đã nấu chín</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>
+<AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>Món ăn có mùi như một con chuột chết ngâm trong nước.</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>
+<AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>Ăn nấm đã nấu chín</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>
+ <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>Tôi đã ăn một món ăn có chứa nấm, còn gì tốt hơn điều này nữa?</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>
+<AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>Ăn thực vật không phải nấm đã nấu chín</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>
+<AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>Tôi đã ăn một bữa ăn nấu từ thực vật chiếu sáng. Tôi ước gì nó là nấm.</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>
+<AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>Ăn thực vật không phải nấm sống</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>
+<AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>Tôi phải ăn sống một loại thực vật không phải nấm đáng khinh, tôi thích nấm hơn.</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>
+</LanguageData>

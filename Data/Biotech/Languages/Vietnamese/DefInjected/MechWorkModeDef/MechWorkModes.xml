@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Escort.label>Bảo vệ</Escort.label>
+<Escort.description>Ở bên cạnh thợ máy, chiến đấu với kẻ thù gần đó. Theo dõi thợ máy, thậm chí rời khỏi bản đồ.</Escort.description>
+<Recharge.label>Sạc điện</Recharge.label>
+<Recharge.description>Đi đến trạm sạc để bổ sung năng lượng, chờ đến khi đầy và ở chế độ chờ.</Recharge.description>
+<SelfShutdown.label>Ngủ đông (sạc tự động)</SelfShutdown.label>
+<SelfShutdown.description>Vào trạng thái ngủ đông để sạc tự động, có thể bổ sung năng lượng với tốc độ rất chậm mà không cần trạm sạc.</SelfShutdown.description>
+<Work.label>Công việc</Work.label>
+<Work.description>Tự động thực hiện công việc dựa trên loại cơ khí. Nếu cần, sẽ tự động đi đến trạm sạc để bổ sung năng lượng.</Work.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CommandSelfResurrect>Hồi sinh bản thân</CommandSelfResurrect>
+	<CommandSelfResurrectDesc>Ra lệnh cho người này hồi sinh bản thân, chữa lành vết thương và sửa chữa các bộ phận cơ thể bị hỏng. Quá trình này không hoàn hảo và có thể để lại sẹo.</CommandSelfResurrectDesc>
+	<ToggleStudy>Điều tra</ToggleStudy>
+	<ToggleStudyDesc>Khi kích hoạt, một điều tra viên sẽ tự động điều tra thực thể được đặt trên nền tảng giam giữ này.</ToggleStudyDesc>
+	<!--<SelectMutantAllowedArea>Điều chỉnh khu vực hoạt động</SelectMutantAllowedArea>
+	<SelectMutantAllowedAreaDesc>Điều chỉnh khu vực mà thịt thối đi lang thang tìm kiếm thức ăn.</SelectMutantAllowedAreaDesc>-->
+</LanguageData>

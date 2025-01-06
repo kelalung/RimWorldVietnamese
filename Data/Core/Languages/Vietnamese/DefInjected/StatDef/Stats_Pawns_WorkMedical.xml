@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MedicalOperationSpeed.label>Tốc độ phẫu thuật</MedicalOperationSpeed.label>
+	<MedicalOperationSpeed.description>Tốc độ mà người này thực hiện phẫu thuật y tế.</MedicalOperationSpeed.description>
+	<MedicalSurgerySuccessChance.label>Tỷ lệ thành công phẫu thuật</MedicalSurgerySuccessChance.label>
+	<MedicalSurgerySuccessChance.description>Xác suất cơ bản của người này khi thực hiện phẫu thuật thành công.\n\nTỷ lệ thành công thực tế cũng bị ảnh hưởng bởi các thiết bị hỗ trợ liên kết, độ sạch sẽ của phòng, loại thuốc được sử dụng, độ khó của phẫu thuật, cảm hứng, và các yếu tố khác.\n\nDù thuộc tính có cao đến đâu, phẫu thuật vẫn có xác suất nhỏ thất bại.</MedicalSurgerySuccessChance.description>
+	<MedicalTendQuality.label>Chất lượng điều trị</MedicalTendQuality.label>
+	<MedicalTendQuality.description>Chất lượng điều trị cơ bản mà người này cung cấp cho bệnh nhân khi làm bác sĩ.\n\nChất lượng điều trị thực tế cũng bị ảnh hưởng bởi các thiết bị hỗ trợ liên kết, loại thuốc được sử dụng, vận may, và các yếu tố khác.</MedicalTendQuality.description>
+	<MedicalTendSpeed.label>Tốc độ điều trị</MedicalTendSpeed.label>
+	<MedicalTendSpeed.description>Tốc độ mà người này điều trị cho bệnh nhân và người bị thương.</MedicalTendSpeed.description>
+</LanguageData>

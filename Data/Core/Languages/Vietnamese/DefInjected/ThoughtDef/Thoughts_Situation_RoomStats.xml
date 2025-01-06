@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HospitalPatientRoomStats.stages.awful_hospital.label>Phòng khám bệnh khủng khiếp</HospitalPatientRoomStats.stages.awful_hospital.label>
+	<HospitalPatientRoomStats.stages.awful_hospital.description>Phòng khám này thật sự khủng khiếp.</HospitalPatientRoomStats.stages.awful_hospital.description>
+	<HospitalPatientRoomStats.stages.dull_hospital.label>Phòng khám nhàm chán</HospitalPatientRoomStats.stages.dull_hospital.label>
+	<HospitalPatientRoomStats.stages.dull_hospital.description>Phòng khám của tôi thật sự rất nhàm chán.</HospitalPatientRoomStats.stages.dull_hospital.description>
+	<HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>Phòng khám hơi ấn tượng</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Phòng khám của tôi trông như một nơi tốt, khiến tôi cảm thấy khá hơn.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+	<HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>Phòng khám ấn tượng</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Phòng khám của tôi rất ấn tượng, khiến tôi cảm thấy tốt hơn nhiều.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+	<HospitalPatientRoomStats.stages.very_impressive_hospital.label>Phòng khám cực kỳ ấn tượng</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.very_impressive_hospital.description>Phòng khám của tôi cực kỳ ấn tượng, khiến tôi cảm thấy tốt hơn nhiều.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+	<HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>Phòng khám ấn tượng cực độ</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Phòng khám của tôi để lại ấn tượng cực độ, ở trong một nơi như vậy khiến tôi cảm thấy đã hồi phục.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+	<HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>Phòng khám không thể tin nổi</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Phòng khám của tôi thật sự không thể tin nổi, ở trong một nơi như vậy khiến tôi cảm thấy đã hồi phục.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+	<HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>Phòng khám kỳ diệu</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+	<HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Phòng khám của tôi là một nơi trần gian không thể tin nổi, ở trong một nơi như vậy khiến tôi cảm thấy đau đớn đã tan biến.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+	<PrisonBarracks.stages.awful_barracks.label>Nhà giam khủng khiếp</PrisonBarracks.stages.awful_barracks.label>
+	<PrisonBarracks.stages.awful_barracks.description>Nhà giam mà tôi ở thật sự khủng khiếp.</PrisonBarracks.stages.awful_barracks.description>
+	<PrisonBarracks.stages.dull_barracks.label>Nhà giam nhàm chán</PrisonBarracks.stages.dull_barracks.label>
+	<PrisonBarracks.stages.dull_barracks.description>Nhà giam mà tôi ở thật sự rất nhàm chán.</PrisonBarracks.stages.dull_barracks.description>
+	<PrisonBarracks.stages.slightly_impressive_barracks.label>Nhà giam hơi ấn tượng</PrisonBarracks.stages.slightly_impressive_barracks.label>
+	<PrisonBarracks.stages.slightly_impressive_barracks.description>Nhà giam mà tôi ở có chút ấn tượng.</PrisonBarracks.stages.slightly_impressive_barracks.description>
+	<PrisonBarracks.stages.somewhat_impressive_barracks.label>Nhà giam ấn tượng</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+	<PrisonBarracks.stages.somewhat_impressive_barracks.description>Nhà giam mà tôi ở rất ấn tượng, tôi thích ở đây!</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+	<PrisonBarracks.stages.very_impressive_barracks.label>Nhà giam cực kỳ ấn tượng</PrisonBarracks.stages.very_impressive_barracks.label>
+	<PrisonBarracks.stages.very_impressive_barracks.description>Nhà giam mà tôi ở cực kỳ ấn tượng, tôi thích ở đây!</PrisonBarracks.stages.very_impressive_barracks.description>
+	<PrisonBarracks.stages.extremely_impressive_barracks.label>Nhà giam ấn tượng cực độ</PrisonBarracks.stages.extremely_impressive_barracks.label>
+	<PrisonBarracks.stages.extremely_impressive_barracks.description>Nhà giam mà tôi ở để lại ấn tượng cực độ, tôi không thể tin rằng họ đã giam tôi ở nơi như vậy!</PrisonBarracks.stages.extremely_impressive_barracks.description>
+	<PrisonBarracks.stages.unbelievably_impressive_barracks.label>Nhà giam không thể tin nổi</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+	<PrisonBarracks.stages.unbelievably_impressive_barracks.description>Nhà giam mà tôi ở thật sự không thể tin nổi, tôi không thể tin rằng họ đã giam tôi ở nơi như vậy!</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+	<PrisonBarracks.stages.wondrously_impressive_barracks.label>Nhà giam kỳ diệu</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+	<PrisonBarracks.stages.wondrously_impressive_barracks.description>Nhà giam mà tôi ở là một nơi trần gian không thể tin nổi, tôi không thể tin rằng họ đã giam tôi ở một nơi như vậy!</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+	<PrisonCell.stages.awful_prison_cell.label>Phòng giam khủng khiếp</PrisonCell.stages.awful_prison_cell.label>
+	<PrisonCell.stages.awful_prison_cell.description>Phòng giam của tôi thật sự khủng khiếp.</PrisonCell.stages.awful_prison_cell.description>
+	<PrisonCell.stages.decent_prison_cell.label>Phòng giam tươm tất</PrisonCell.stages.decent_prison_cell.label>
+	<PrisonCell.stages.decent_prison_cell.description>Phòng giam của tôi khá tươm tất.</PrisonCell.stages.decent_prison_cell.description>
+	<PrisonCell.stages.slightly_impressive_prison_cell.label>Phòng giam hơi ấn tượng</PrisonCell.stages.slightly_impressive_prison_cell.label>
+	<PrisonCell.stages.slightly_impressive_prison_cell.description>Phòng giam của tôi trông như một nơi tốt.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+	<PrisonCell.stages.impressive_prison_cell.label>Phòng giam ấn tượng</PrisonCell.stages.impressive_prison_cell.label>
+	<PrisonCell.stages.impressive_prison_cell.description>Phòng giam của tôi rất ấn tượng, tôi không thể tin rằng họ đã giam tôi ở nơi như vậy!</PrisonCell.stages.impressive_prison_cell.description>
+	<PrisonCell.stages.very_impressive_prison_cell.label>Phòng giam cực kỳ ấn tượng</PrisonCell.stages.very_impressive_prison_cell.label>
+	<PrisonCell.stages.very_impressive_prison_cell.description>Phòng giam của tôi cực kỳ ấn tượng, tôi không thể tin rằng họ đã giam tôi ở nơi như vậy, tôi thích ở đây!</PrisonCell.stages.very_impressive_prison_cell.description>
+	<PrisonCell.stages.extremely_impressive_prison_cell.label>Phòng giam ấn tượng cực độ</PrisonCell.stages.extremely_impressive_prison_cell.label>
+	<PrisonCell.stages.extremely_impressive_prison_cell.description>Phòng giam của tôi để lại ấn tượng cực độ, tôi không thể tin rằng họ đã giam tôi ở nơi như vậy, tôi thích ở đây!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+	<PrisonCell.stages.unbelievably_impressive_prison_cell.label>Phòng giam không thể tin nổi</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+	<PrisonCell.stages.unbelievably_impressive_prison_cell.description>Phòng giam của tôi thật sự không thể tin nổi, không nơi nào tốt hơn nơi này!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+	<PrisonCell.stages.wondrously_impressive_prison_cell.label>Phòng giam kỳ diệu</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+	<PrisonCell.stages.wondrously_impressive_prison_cell.description>Phòng giam của tôi là một nơi trần gian không thể tin nổi, tôi đã quên hết mọi lo lắng!</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+</LanguageData>

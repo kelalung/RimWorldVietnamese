@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Util_ApplyMoodThreshold.LetterLabelGuestUnhappy.slateRef>Khách không hài lòng: {SUBJECT_definite}</Util_ApplyMoodThreshold.LetterLabelGuestUnhappy.slateRef>
+<Util_ApplyMoodThreshold.LetterTextGuestUnhappy.slateRef>{SUBJECT_definite}, đây là mục tiêu bạn cần duy trì tâm trạng cao, tâm trạng đã dưới [moodThreshold] quá lâu.\n\n[remainingWillNowLeave]</Util_ApplyMoodThreshold.LetterTextGuestUnhappy.slateRef>
+</LanguageData>

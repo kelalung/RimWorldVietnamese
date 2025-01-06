@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Beam.label>Chùm ánh sáng</Beam.label>
+<Beam.deathMessage>{0} đã chết vì bức xạ ánh sáng quá mức.</Beam.deathMessage>
+<ToxGas.label>Khí độc</ToxGas.label>
+<ToxGas.deathMessage>{0} đã bị giết.</ToxGas.deathMessage>
+</LanguageData>

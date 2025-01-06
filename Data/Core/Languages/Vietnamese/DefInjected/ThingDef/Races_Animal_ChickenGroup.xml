@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Chicken.label>Gà</Chicken.label>
+<Chicken.description>Một loài động vật nuôi truyền thống nhất, được nuôi chủ yếu để lấy trứng và thịt.</Chicken.description>
+<Chicken.tools.claws.label>Móng</Chicken.tools.claws.label>
+<Chicken.tools.beak.label>Mỏ</Chicken.tools.beak.label>
+<Chicken.tools.head.label>Đầu</Chicken.tools.head.label>
+<Duck.label>Vịt</Duck.label>
+<Duck.description>Một loài gia cầm rất phổ biến, cũng xuất hiện trong tự nhiên. Chúng lớn nhanh, nhưng số lượng trứng lại rất ít.</Duck.description>
+<Duck.tools.claws.label>Móng</Duck.tools.claws.label>
+<Duck.tools.beak.label>Mỏ</Duck.tools.beak.label>
+<Duck.tools.head.label>Đầu</Duck.tools.head.label>
+<Goose.label>Ngỗng</Goose.label>
+<Goose.description>Một loài động vật nuôi do con người chăm sóc. Chúng lớn nhanh và đẻ trứng thường xuyên, nhưng trứng cần thời gian dài để ấp.</Goose.description>
+<Goose.tools.claws.label>Móng</Goose.tools.claws.label>
+<Goose.tools.beak.label>Mỏ</Goose.tools.beak.label>
+<Goose.tools.head.label>Đầu</Goose.tools.head.label>
+<Turkey.label>Gà tây</Turkey.label>
+<Turkey.description>Một loài chim mập mạp không biết bay, nổi tiếng với tiếng kêu “gáy” hài hước. Gà tây đã được thuần hóa từ lâu, nhưng cũng có những quần thể hoang dã.</Turkey.description>
+<Turkey.tools.claws.label>Móng</Turkey.tools.claws.label>
+<Turkey.tools.beak.label>Mỏ</Turkey.tools.beak.label>
+<Turkey.tools.head.label>Đầu</Turkey.tools.head.label>
+</LanguageData>

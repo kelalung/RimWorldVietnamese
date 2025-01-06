@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Assassin20.description>[PAWN_nameDef] là một sát thủ tài ba. [PAWN_pronoun] vừa lạnh lùng vừa thông minh, luôn nhận được phần thưởng hậu hĩnh. Đối với những người làm nghề này, việc hoàn toàn từ bỏ lòng thương xót là cách tốt nhất để tự bảo vệ mình.</Assassin20.description>
+	<Assassin20.baseDesc>[PAWN_nameDef] là một sát thủ tài ba. [PAWN_pronoun] vừa lạnh lùng vừa thông minh, luôn nhận được phần thưởng hậu hĩnh. Đối với những người làm nghề này, việc hoàn toàn từ bỏ lòng thương xót là cách tốt nhất để tự bảo vệ mình.</Assassin20.baseDesc>
+	<Assassin20.title>Sát thủ chuyên nghiệp</Assassin20.title>
+	<Assassin20.titleShort>Sát thủ</Assassin20.titleShort>
+	<Gigolo30.description>[PAWN_nameDef] đã quen với việc bán thân thể của [PAWN_possessive] tại các nhà thổ trên nhiều hành tinh. Mặc dù [PAWN_pronoun] vì vậy mà có một số khuyết tật tâm lý, nhưng cũng đã nắm vững những kỹ năng sinh tồn đặc biệt trên đường phố.</Gigolo30.description>
+	<Gigolo30.baseDesc>[PAWN_nameDef] đã quen với việc bán thân thể của [PAWN_possessive] tại các nhà thổ trên nhiều hành tinh. Mặc dù [PAWN_pronoun] vì vậy mà có một số khuyết tật tâm lý, nhưng cũng đã nắm vững những kỹ năng sinh tồn đặc biệt trên đường phố.</Gigolo30.baseDesc>
+	<Gigolo30.title>Gái mại dâm</Gigolo30.title>
+	<Gigolo30.titleFemale>Gái mại dâm</Gigolo30.titleFemale>
+	<Gigolo30.titleShort>Gái mại dâm</Gigolo30.titleShort>
+	<Gigolo30.titleShortFemale>Gái mại dâm</Gigolo30.titleShortFemale>
+	<IllegalShipwright76.description>Luật pháp quy định rằng tàu dân sự không được lắp đặt vũ khí laser công suất megawatt, đặc biệt là không được ngụy trang thành thiết bị thu tín hiệu vệ tinh để tấn công các tàu khác. Nhưng [PAWN_nameDef] nhận thấy rằng làm như vậy có thể kiếm được nhiều tiền, đặc biệt khi khách hàng phớt lờ luật pháp.</IllegalShipwright76.description>
+	<IllegalShipwright76.baseDesc>Luật pháp quy định rằng tàu dân sự không được lắp đặt vũ khí laser công suất megawatt, đặc biệt là không được ngụy trang thành thiết bị thu tín hiệu vệ tinh để tấn công các tàu khác. Nhưng [PAWN_nameDef] nhận thấy rằng làm như vậy có thể kiếm được nhiều tiền, đặc biệt khi khách hàng phớt lờ luật pháp.</IllegalShipwright76.baseDesc>
+	<IllegalShipwright76.title>Thợ đóng tàu bất hợp pháp</IllegalShipwright76.title>
+	<IllegalShipwright76.titleShort>Thợ đóng tàu</IllegalShipwright76.titleShort>
+	<PitBrawler76.description>[PAWN_nameDef] lần đầu tiên tham gia quyền anh chợ đen khi 9 tuổi. [PAWN_pronoun] đã thắng, nhưng điều quan trọng hơn là sự tận hưởng của khán giả đối với quá trình này. Các trận đấu quyền anh chợ đen có thể mang lại lợi nhuận lớn cho bất kỳ võ sĩ nào, miễn là họ có thể sống sót trong trận đấu. Và nghề này gần như hợp pháp.</PitBrawler76.description>
+	<PitBrawler76.baseDesc>[PAWN_nameDef] lần đầu tiên tham gia quyền anh chợ đen khi 9 tuổi. [PAWN_pronoun] đã thắng, nhưng điều quan trọng hơn là sự tận hưởng của khán giả đối với quá trình này. Các trận đấu quyền anh chợ đen có thể mang lại lợi nhuận lớn cho bất kỳ võ sĩ nào, miễn là họ có thể sống sót trong trận đấu. Và nghề này gần như hợp pháp.</PitBrawler76.baseDesc>
+	<PitBrawler76.title>Võ sĩ chợ đen</PitBrawler76.title>
+	<PitBrawler76.titleShort>Võ sĩ</PitBrawler76.titleShort>
+	<SpaceMarine16.description>[PAWN_nameDef] là một chiến binh trong hải quân đế quốc. Nhiệm vụ của [PAWN_possessive] là xâm nhập vào tàu chiến của kẻ thù, bắn chết tất cả các thành viên, và sau đó chiếm giữ tàu một cách nguyên vẹn. [PAWN_pronoun] là chuyên gia trong lĩnh vực này.</SpaceMarine16.description>
+	<SpaceMarine16.baseDesc>[PAWN_nameDef] là một chiến binh trong hải quân đế quốc. Nhiệm vụ của [PAWN_possessive] là xâm nhập vào tàu chiến của kẻ thù, bắn chết tất cả các thành viên, và sau đó chiếm giữ tàu một cách nguyên vẹn. [PAWN_pronoun] là chuyên gia trong lĩnh vực này.</SpaceMarine16.baseDesc>
+	<SpaceMarine16.title>Thủy quân lục chiến đế quốc</SpaceMarine16.title>
+	<SpaceMarine16.titleShort>Thủy quân</SpaceMarine16.titleShort>
+	<SpacePirate55.description>Cướp biển xuất hiện ở bất kỳ nơi nào chính phủ yếu kém và xã hội phân tán. [PAWN_nameDef] là một phần của nghề nghiệp cổ xưa của nhân loại này, tống tiền và tấn công các tàu buôn không vũ trang để thu lợi.</SpacePirate55.description>
+	<SpacePirate55.baseDesc>Cướp biển xuất hiện ở bất kỳ nơi nào chính phủ yếu kém và xã hội phân tán. [PAWN_nameDef] là một phần của nghề nghiệp cổ xưa của nhân loại này, tống tiền và tấn công các tàu buôn không vũ trang để thu lợi.</SpacePirate55.baseDesc>
+	<SpacePirate55.title>Cướp biển không gian</SpacePirate55.title>
+	<SpacePirate55.titleShort>Cướp biển</SpacePirate55.titleShort>
+</LanguageData>

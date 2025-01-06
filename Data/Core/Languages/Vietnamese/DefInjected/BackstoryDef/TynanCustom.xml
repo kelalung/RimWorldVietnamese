@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TynanCustomAdulthood.baseDesc>[PAWN_nameDef] là một nhà phát triển game độc lập.\n\nSau khi trải qua những thành công ban đầu, sự nghiệp của [PAWN_nameDef] nhanh chóng rơi vào những ý tưởng tồi tệ, những giao dịch thất bại liên tiếp và những chiến dịch tiếp thị công chúng đầy thất vọng.</TynanCustomAdulthood.baseDesc>
+	<TynanCustomAdulthood.title>Nhà phát triển game</TynanCustomAdulthood.title>
+	<TynanCustomAdulthood.titleShort>Nhà phát triển game</TynanCustomAdulthood.titleShort>
+	<TynanCustomChildhood.baseDesc>[PAWN_nameDef] đã trải qua một tuổi thơ trong việc "bán thuốc lá nhồi cỏ cho những cậu bé 15 tuổi".</TynanCustomChildhood.baseDesc>
+	<TynanCustomChildhood.title>Chơi khăm</TynanCustomChildhood.title>
+	<TynanCustomChildhood.titleShort>Chơi khăm</TynanCustomChildhood.titleShort>
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <CataphractArmor.label>Giáp kỵ sĩ</CataphractArmor.label>
+<CataphractArmor.description>Mở khóa chế tạo "Giáp kỵ sĩ", một loại giáp năng lượng nặng có thể chịu đựng nhiều sát thương, mặc dù làm chậm tốc độ di chuyển của người mặc.\n\nLưu ý: Cần các linh kiện cao cấp để chế tạo.</CataphractArmor.description>
+<CataphractArmor.generalRules.rulesStrings>
+    <li>subject-&gt;Giáp kỵ sĩ</li>
+    <li>subject_story-&gt;Để khám phá núi lửa hoạt động, [ANYPAWN_possessive] đã phát triển trang bị có hiệu suất tương tự như giáp kỵ sĩ</li>
+    <li>subject_story-&gt;Được giao nhiệm vụ sản xuất giáp kỵ sĩ tùy chỉnh cho đội tấn công của đế chế</li>
+    <li>subject_story-&gt;Chiến đấu với kẻ phản bội và điều tra giáp của kỵ sĩ bị bắt</li>
+    <li>subject_gerund-&gt;Chế tạo giáp kỵ sĩ</li>
+</CataphractArmor.generalRules.rulesStrings>
+<Gunlink.label>Thiết bị ngắm phụ</Gunlink.label>
+<Gunlink.description>Mở khóa chế tạo "Thiết bị ngắm phụ" có thể đeo, giúp tăng độ chính xác khi bắn của lính.</Gunlink.description>
+<Gunlink.generalRules.rulesStrings>
+    <li>subject-&gt;Tăng cường độ chính xác bắn</li>
+    <li>subject_story-&gt;Đã cải tiến các thiết bị cấy ghép mắt của thế giới rực rỡ thành máy tính hỗ trợ đa năng hơn</li>
+    <li>subject_story-&gt;Rất hài lòng với chất lượng thiết bị ngắm phụ sản xuất tại nhà máy, mặc dù điều này dẫn đến tỷ lệ tử vong của lính tăng cao do thiếu bảo vệ đầu</li>
+    <li>subject_story-&gt;Đặt hàng số lượng lớn thiết bị ngắm phụ cho xạ thủ trong đội, và cấm họ ra tiền tuyến</li>
+    <li>subject_gerund-&gt;Tăng cường độ chính xác bắn bằng thiết bị ngắm phụ</li>
+</Gunlink.generalRules.rulesStrings>
+<JumpPack.label>Ba lô nhảy</JumpPack.label>
+<JumpPack.description>Mở khóa chế tạo "Ba lô nhảy" dùng để thực hiện các cuộc tấn công trên không trong trận chiến.</JumpPack.description>
+<JumpPack.generalRules.rulesStrings>
+    <li>subject-&gt;Ba lô nhảy</li>
+    <li>subject-&gt;Bay ngắn</li>
+    <li>subject_story-&gt;Đã mở một công viên giải trí với chủ đề trải nghiệm cực hạn, bao gồm các chương trình dạy về chuột nổ và ba lô nhảy</li>
+    <li>subject_story-&gt;Leo núi trên hành tinh có trọng lực thấp, nơi cần trang bị ba lô nhảy và mặt nạ oxy</li>
+    <li>subject_story-&gt;Sử dụng ba lô nhảy để tránh các thiết bị phòng thủ của huấn luyện viên</li>
+    <li>subject_gerund-&gt;Thực hiện các cuộc tấn công trên không</li>
+    <li>subject_gerund-&gt;Chế tạo ba lô nhảy</li>
+</JumpPack.generalRules.rulesStrings>
+<NobleApparel.label>Trang phục quý tộc</NobleApparel.label>
+<NobleApparel.description>Cho phép chế tạo trang phục quý tộc, như áo sơ mi lễ hội và quần ống rộng.</NobleApparel.description>
+<NobleApparel.generalRules.rulesStrings>
+    <li>subject-&gt;Trang phục sang trọng</li>
+    <li>subject-&gt;Trang phục quý tộc</li>
+    <li>subject_story-&gt;Chế tạo trang phục sang trọng cho lễ tốt nghiệp ở thế giới đô thị</li>
+    <li>subject_story-&gt;Được gia đình quý tộc thuê để thiết kế mũ cao quý</li>
+    <li>subject_story-&gt;Phát minh ra mũ beret mới đang thịnh hành</li>
+    <li>subject_gerund-&gt;Đặt may trang phục cho quý tộc</li>
+    <li>subject_gerund-&gt;Chế tạo trang phục quý tộc</li>
+</NobleApparel.generalRules.rulesStrings>
+<RoyalApparel.label>Trang phục hoàng gia</RoyalApparel.label>
+<RoyalApparel.description>Cho phép chế tạo trang phục hoàng gia cấp cao nhất, như áo choàng hoàng gia và vương miện.</RoyalApparel.description>
+<RoyalApparel.generalRules.rulesStrings>
+    <li>subject-&gt;Trang phục hoàng gia</li>
+    <li>subject_story-&gt;Chế tạo áo choàng hoàng gia cho lễ đăng quang kéo dài một năm</li>
+    <li>subject_story-&gt;Nghiên cứu nhu cầu về huy hiệu gia đình của các nhóm quý tộc khác nhau, đảm bảo rằng mọi trang phục đều phù hợp</li>
+    <li>subject_story-&gt;Được thăng chức thành quý tộc của đế chế và được giao nhiệm vụ chế tạo áo choàng và vương miện của riêng mình</li>
+    <li>subject_gerund-&gt;Đặt may trang phục cho nhà vua</li>
+    <li>subject_gerund-&gt;Chế tạo trang phục hoàng gia</li>
+</RoyalApparel.generalRules.rulesStrings>
+</LanguageData>

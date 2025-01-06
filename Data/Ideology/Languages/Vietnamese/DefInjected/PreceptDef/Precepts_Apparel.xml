@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ApparelDesired_Soft_Subordinate.label>Rộng rãi</ApparelDesired_Soft_Subordinate.label>
+<ApparelDesired_Soft_Subordinate.description>Các thành viên {GENDER} mặc {APPAREL_indefinite} sẽ cảm thấy vui vẻ. Nếu không cản trở việc mặc các trang phục khác, các thành viên {GENDER} sẽ cố gắng mặc {APPAREL_indefinite}.</ApparelDesired_Soft_Subordinate.description>
+<ApparelDesired_Soft_Subordinate.comps.1.description>Mặc trang phục yêu thích</ApparelDesired_Soft_Subordinate.comps.1.description>
+<ApparelDesired_Strong_Subordinate.label>Sâu sắc</ApparelDesired_Strong_Subordinate.label>
+<ApparelDesired_Strong_Subordinate.description>Các thành viên {GENDER} mặc {APPAREL_indefinite} sẽ cảm thấy vui vẻ. Nếu không cản trở việc mặc các trang phục khác, các thành viên {GENDER} sẽ cố gắng mặc {APPAREL_indefinite}.</ApparelDesired_Strong_Subordinate.description>
+<ApparelDesired_Strong_Subordinate.comps.1.description>Mặc trang phục yêu thích</ApparelDesired_Strong_Subordinate.comps.1.description>
+</LanguageData>

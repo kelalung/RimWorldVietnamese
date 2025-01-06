@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bridge.label>Cầu</Bridge.label>
+	<Bridge.description>Một cấu trúc có thể xây dựng trên mặt nước, với các cột và dầm được phủ bằng các tấm gỗ phẳng. Bạn có thể xây dựng các cấu trúc nhẹ trên cầu, nhưng hãy cẩn thận — cầu rất dễ bị sập. Khi cầu sập, các công trình trên đó cũng sẽ bị hư hại.</Bridge.description>
+	<Underwall.label>Dưới tường</Underwall.label>
+</LanguageData>

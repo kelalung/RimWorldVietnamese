@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Blinding_Horrible.label>Kinh khủng</Blinding_Horrible.label>
+<Blinding_Horrible.description>Để người khác bị mù với lý do tín ngưỡng văn hóa là điều rất đáng sợ.</Blinding_Horrible.description>
+<Blinding_Horrible.comps.0.description>Có người đã bị mù</Blinding_Horrible.comps.0.description>
+<Blindness_Elevated.label>Đáng kính</Blindness_Elevated.label>
+<Blindness_Elevated.description>Người mù tương đối cao hơn người bình thường.</Blindness_Elevated.description>
+<Blindness_Elevated.comps.8.eventLabel>Đã làm mù ai đó</Blindness_Elevated.comps.8.eventLabel>
+<Blindness_Respected.label>Được tôn trọng</Blindness_Respected.label>
+<Blindness_Respected.description>Sự mù lòa là hành động đạo đức đáng tôn trọng.</Blindness_Respected.description>
+<Blindness_Respected.comps.5.eventLabel>Đã làm mù ai đó</Blindness_Respected.comps.5.eventLabel>
+<Blindness_Sublime.label>Đáng ngưỡng mộ</Blindness_Sublime.label>
+<Blindness_Sublime.description>Chỉ có người mù mới có thể đạt được sự cao cả thực sự, vì người có thị lực tốt sẽ nhận ra rằng tư tưởng của họ bị che mờ bởi thị giác vật lý.</Blindness_Sublime.description>
+<Blindness_Sublime.comps.8.eventLabel>Đã làm mù ai đó</Blindness_Sublime.comps.8.eventLabel>
+</LanguageData>

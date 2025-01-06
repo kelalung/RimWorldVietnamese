@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AlertMechLacksOverseer>Thiếu người giám sát cho máy móc</AlertMechLacksOverseer>
+<AlertMechLacksOverseerDesc>Bạn có ít nhất một máy móc không được kiểm soát, bạn cần kết nối chúng với một kỹ sư có băng thông đủ để kiểm soát chúng.\n\nNếu máy móc không được kiểm soát quá một ngày, chúng sẽ ngừng hoạt động. Khi điều này xảy ra, chúng sẽ thu hút các máy móc khác gần đó và sẽ tham gia {0} như kẻ thù của bạn.\n\nMáy móc ngừng hoạt động sẽ không thể được tái tạo trong máy phát triển sau khi bị phá hủy.</AlertMechLacksOverseerDesc>
+<AlertMechLacksOverseerUncontrolled>Các máy móc không được kiểm soát sau đây</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>Các máy móc không được kiểm soát dưới đây có thể ngừng hoạt động bất cứ lúc nào</AlertMechLacksOverseerMayGoFeral>
+<AlertWarqueenHasLowResources>{0} tài nguyên sắp hết</AlertWarqueenHasLowResources>
+<AlertWarqueenHasLowResourcesDesc>Ít nhất một chiếc {0} tài nguyên sắp hết. Nếu tài nguyên hết, chúng sẽ không thể triển khai máy móc theo chỉ thị.</AlertWarqueenHasLowResourcesDesc>
+<AlertLowDeathrestPawn>{PAWN} cần ngủ đông</AlertLowDeathrestPawn>
+<AlertLowDeathrestPawns>{NUMCULPRITS} thuộc địa cần ngủ đông</AlertLowDeathrestPawns>
+<AlertLowDeathrestDesc>Một thuộc địa đã lâu không ngủ đông, nếu họ không ngủ đông quá lâu sẽ dẫn đến hội chứng kiệt sức do thiếu ngủ đông.\n\nĐể ngủ đông, hãy chọn thuộc địa này, sau đó nhấp chuột phải vào giường hoặc quan tài ngủ đông của họ.\n\nCác thuộc địa cần ngủ đông:\n{CULPRITS}</AlertLowDeathrestDesc>
+<AlertLowHemogen>Thiếu huyết nguyên</AlertLowHemogen>
+<AlertLowHemogenDesc>Một thuộc địa đang thiếu huyết nguyên, nếu huyết nguyên quá thiếu, họ sẽ bị cơn khát máu đau đớn.\n\nBạn có thể bổ sung huyết nguyên bằng cách cho ăn gói huyết nguyên, bạn có thể lấy gói huyết nguyên bằng cách thực hiện thao tác “chiết huyết nguyên” trên những người không có gen huyết nguyên.\n\nCác thuộc địa dưới đây đang thiếu huyết nguyên</AlertLowHemogenDesc>
+<AlertRechargerFull>Trạm sạc đã đầy</AlertRechargerFull>
+<AlertRechargerFullDesc>Một số trạm sạc máy móc đã đạt giới hạn chứa rác độc. Máy móc không thể sử dụng trạm sạc cho đến khi rác được dọn sạch.\n\nChọn một thuộc địa, nhấp chuột phải vào trạm sạc để lấy rác độc ra.</AlertRechargerFullDesc>
+<AlertNeedMechChargers>Cần trạm sạc cho máy móc</AlertNeedMechChargers>
+<AlertNeedMechChargersDesc>Số lượng trạm sạc của bạn không đủ cung cấp cho tất cả máy móc. Nếu một máy móc hết năng lượng và không có trạm sạc nào, nó sẽ vào trạng thái ngủ tự sạc với tốc độ rất chậm.\n\nCần xây dựng thêm trạm sạc cho các máy móc dưới đây:\n\n{0}\n\nLưu ý: Chỉ có máy móc nhẹ mới có thể sử dụng trạm sạc thông thường, máy móc trung bình, nặng và siêu nặng cần sử dụng trạm sạc lớn.</AlertNeedMechChargersDesc>
+<AlertNeedMechChargerBasicMechtech>Nghiên cứu công nghệ máy móc cơ bản hoặc công nghệ máy móc tiêu chuẩn cao hơn để xây dựng trạm sạc phù hợp.</AlertNeedMechChargerBasicMechtech>
+<AlertReimplantationAvailable>Cấy ghép gen đã sẵn sàng</AlertReimplantationAvailable>
+<AlertReimplantationAvailableDesc>{0_nameDef} đang chờ để cấy ghép phôi gen của {0_possessive} vào một thuộc địa.</AlertReimplantationAvailableDesc>
+<AlertLowBabyFood>Thiếu thức ăn cho trẻ sơ sinh</AlertLowBabyFood>
+<AlertLowBabyFoodDesc>Kho dự trữ thức ăn cho trẻ sơ sinh của bạn đã thiếu nghiêm trọng.\n\nCác trẻ sơ sinh cần thức ăn: {0}\nSố ngày dự trữ thức ăn cho trẻ sơ sinh hiện tại: {1}\n\nBạn cần mua, tìm kiếm hoặc chế biến một số thức ăn có thể sử dụng cho trẻ sơ sinh, bao gồm {2}.</AlertLowBabyFoodDesc>
+<AlertNoBabyFeeder>Thiếu người chăm sóc trẻ</AlertNoBabyFeeder>
+<AlertNoBabyFeederDesc>Không có bất kỳ {FACTION_pawnsPlural} nào được chỉ định để chăm sóc trẻ sơ sinh, hoặc họ không thể hành động.\n\nHãy chỉ định một {FACTION_pawnsPlural} của bạn để chăm sóc trẻ sơ sinh, hoặc phân công một {FACTION_pawnSingular} đang cho con bú trong nhãn chăm sóc trẻ sơ sinh với ưu tiên khẩn cấp. Bạn cần đảm bảo rằng ít nhất một trong số họ có thể hoạt động tự do.</AlertNoBabyFeederDesc>
+<AlertAbandonedBaby>Trẻ sơ sinh bị bỏ rơi</AlertAbandonedBaby>
+<AlertAbandonedBabyDesc>Có trẻ sơ sinh bị bỏ rơi và không ai chăm sóc gần đó. Nếu không nhận nuôi những trẻ sơ sinh này, chúng có khả năng bị đói chết.\n\nĐể nhận nuôi trẻ sơ sinh, hãy chọn trẻ sơ sinh và nhấp vào “{0}”.</AlertAbandonedBabyDesc>
+<AlertNoBabyFoodCaravan>Đoàn thám hiểm thiếu thức ăn cho trẻ sơ sinh</AlertNoBabyFoodCaravan>
+<AlertNoBabyFoodCaravanDesc>Có trẻ sơ sinh trong đoàn thám hiểm, nhưng không có thức ăn cho trẻ sơ sinh và cũng không có {FACTION_pawnsPlural} đang cho con bú được phân công để chăm sóc chúng.</AlertNoBabyFoodCaravanDesc>
+<AlertToxicBuildup>Ngộ độc</AlertToxicBuildup>
+<AlertToxicBuildupDesc>Các thuộc địa dưới đây đã bị ngộ độc nghiêm trọng:\n\n{0}\n\nHãy nhanh chóng chuyển họ đến khu vực an toàn.\n\nBụi độc, khí độc và địa hình ô nhiễm đều có thể khiến những người gần đó bị ngộ độc.</AlertToxicBuildupDesc>
+<AlertNeedBabyCribs>Cần cũi cho trẻ sơ sinh</AlertNeedBabyCribs>
+<AlertNeedBabyCribsDesc>Cũi cho trẻ sơ sinh trong thuộc địa không đủ để đáp ứng tất cả trẻ sơ sinh.\n\nBạn cần xây dựng thêm nhiều cũi cho trẻ sơ sinh, nếu không đủ tài nguyên, bạn cũng có thể đặt các điểm ngủ cho trẻ sơ sinh để sắp xếp cho chúng.</AlertNeedBabyCribsDesc>
+<AlertNeedSlaveCribs>Cần cũi cho trẻ sơ sinh nô lệ</AlertNeedSlaveCribs>
+<AlertNeedSlaveCribsDesc>Cũi cho trẻ sơ sinh được chỉ định cho nô lệ không đủ để đáp ứng tất cả trẻ sơ sinh nô lệ.\n\nHoặc là xây dựng thêm nhiều cũi cho trẻ sơ sinh và chỉ định cho nô lệ, hoặc chuyển đổi một số cũi của thuộc địa thành cũi cho nô lệ.\n\nNếu bạn không có đủ tài nguyên, bạn cũng có thể đặt một số điểm ngủ miễn phí cho trẻ sơ sinh.</AlertNeedSlaveCribsDesc>
+<AlertPollutedTerrain>Địa hình ô nhiễm</AlertPollutedTerrain>
+<AlertPollutedTerrainDesc>Một người hoặc động vật đang bị ngộ độc do ở trên địa hình ô nhiễm. Bất cứ lúc nào, chỉ cần có người ở trên địa hình ô nhiễm, độc tố sẽ tích tụ trong cơ thể họ và theo thời gian sẽ ngày càng nghiêm trọng, cuối cùng dẫn đến cái chết của họ.\n\nNhững người hoặc động vật này đang bị ảnh hưởng:\n\n{0}\n\nHãy giữ mọi người tránh xa khu vực ô nhiễm, hoặc tìm cách bảo vệ họ khỏi ảnh hưởng của độc tố. Một số trang phục, cấy ghép và biến đổi gen có thể bảo vệ hiệu quả mọi người khỏi độc tố. Địa hình ô nhiễm không thể được che phủ bằng cách lát sàn, nhưng có thể được dọn dẹp bằng tay hoặc các phương pháp khác.</AlertPollutedTerrainDesc>
+<AlertMechMissingBodyPart>Thiếu bộ phận trên máy móc</AlertMechMissingBodyPart>
+<AlertMechsMissingBodyPart>Thiếu bộ phận trên máy móc</AlertMechsMissingBodyPart>
+<AlertMechMissingBodyPartDesc>Một hoặc nhiều máy móc thiếu bộ phận cơ thể, kỹ sư có thể sửa chữa các bộ phận thiếu.\n\nCác máy móc này thiếu bộ phận</AlertMechMissingBodyPartDesc>
+<AlertMechNeedsRepair>Máy móc cần sửa chữa</AlertMechNeedsRepair>
+<AlertMechNeedsRepairDescPrefix>Các máy móc này cần sửa chữa do bị thương</AlertMechNeedsRepairDescPrefix>
+<AlertMechNeedsRepairDesc>Chỉ định một kỹ sư để sửa chữa chúng, hoặc chọn máy móc, kích hoạt chức năng “sửa chữa tự động” trong thanh lệnh ở dưới màn hình. Việc sửa chữa máy móc cần tiêu tốn năng lượng, nếu máy móc không đủ năng lượng để di chuyển, sẽ cần có người di chuyển nó đến trạm sạc.</AlertMechNeedsRepairDesc>
+<AlertToxifierGeneratorStopped>{0} đã dừng hoạt động</AlertToxifierGeneratorStopped>
+<AlertToxifierGeneratorStoppedDesc>Máy {0} của bạn đã dừng hoạt động do không có địa hình không ô nhiễm để chuyển đổi gần đó.\n\nSử dụng máy bơm làm sạch để dọn dẹp địa hình ô nhiễm, hoặc chỉ định một khu vực làm sạch.</AlertToxifierGeneratorStoppedDesc>
+<AlertPsychicBondedPawnsSeparated>Liên kết tâm linh bị đứt</AlertPsychicBondedPawnsSeparated>
+<AlertPsychicBondedPawnsSeparatedDesc>Các thuộc địa đã thiết lập liên kết tâm linh bị tách ra và sẽ bị ảnh hưởng tiêu cực do khoảng cách. Để tránh tình trạng này, những người thiết lập liên kết tâm linh phải ở trong cùng một bản đồ, đoàn thám hiểm hoặc phương tiện. Họ cũng không được ở trong trạng thái ngủ đông ở nhiệt độ thấp hoặc trạng thái ngủ đông tương tự.\n\nCác cá nhân dưới đây bị ảnh hưởng</AlertPsychicBondedPawnsSeparatedDesc>
+<AlertGenebankUnpowered>Ngân hàng gen cần được cấp điện</AlertGenebankUnpowered>
+<AlertGenebankUnpoweredDesc>Một ngân hàng gen đã mất điện, các gen bên trong đang dần suy thoái. Khôi phục nguồn điện cho ngân hàng gen để ngăn ngừa sự suy thoái của gen.\n\nKhi ngân hàng gen được cấp điện, nó sẽ từ từ sửa chữa sự suy thoái của gen.</AlertGenebankUnpoweredDesc>
+<AlertBossgroupIncoming>{0} sắp tấn công</AlertBossgroupIncoming>
+<AlertBossgroupIncomingDesc>Đã phát tín hiệu xung từ kỹ sư của bạn thu hút một {0}, nó sẽ nhanh chóng đến đây cùng với đội bảo vệ. Hãy chuẩn bị cho một trận chiến, đây sẽ không phải là một trận chiến dễ dàng. Các máy móc thù địch sẽ đến trong vài giờ hoặc vài ngày tới.</AlertBossgroupIncomingDesc>
+<AlertDeathrestComplete>Ngủ đông hoàn tất</AlertDeathrestComplete>
+<AlertDeathrestCompleteDesc>Các cá nhân dưới đây đã hoàn tất ngủ đông, bây giờ có thể được đánh thức an toàn</AlertDeathrestCompleteDesc>
+</LanguageData>

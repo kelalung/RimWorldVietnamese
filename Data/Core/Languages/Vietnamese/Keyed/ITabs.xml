@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TabBills>Danh sách</TabBills>
+	<TabGrowing>Trồng trọt</TabGrowing>
+	<TabCharacter>Nhân vật</TabCharacter>
+	<TabTraining>Đào tạo</TabTraining>
+	<TabPrisoner>Tù nhân</TabPrisoner>
+	<TabGuest>Khách</TabGuest>
+	<TabGear>Trang bị</TabGear>
+	<TabNeeds>Nhu cầu</TabNeeds>
+	<TabStorage>Lưu trữ</TabStorage>
+	<TabShells>Đạn dược</TabShells>
+	<TabHealth>Sức khỏe</TabHealth>
+	<TabRace>Giống loài</TabRace>
+	<TabBasics>Cơ bản</TabBasics>
+	<TabStats>Thống kê</TabStats>
+	<TabRecords>Hồ sơ</TabRecords>
+	<TabArt>Nghệ thuật</TabArt>
+	<TabSocial>Xã hội</TabSocial>
+	<TabLog>Nhật ký</TabLog>
+	<TabPenAnimals>Động vật</TabPenAnimals>
+	<TabPenFood>Thức ăn</TabPenFood>
+	<TabPenAutoCut>Cắt tự động</TabPenAutoCut>
+	<TabFormingCaravan>Đoàn thương nhân</TabFormingCaravan>
+	<TabTransporterContents>Nội dung</TabTransporterContents>
+	<TabMapPortalContents>Du lịch</TabMapPortalContents>
+	<TabCasketContents>Nội dung</TabCasketContents>
+	<TabBookContents>Chi tiết</TabBookContents>
+	<TabStudyNotesContents>Nghiên cứu</TabStudyNotesContents>
+	<TabWindTurbineAutoCut>Cắt tự động</TabWindTurbineAutoCut>
+	<AddBill>Thêm danh sách</AddBill>
+	<RecipeRequiresSkills>Công thức {0} có những yêu cầu kỹ năng sau. Bạn không có thuộc địa nào đạt yêu cầu kỹ năng này, vì vậy danh sách này sẽ không được hoàn thành.</RecipeRequiresSkills>
+	<MinimumSkill>Yêu cầu kỹ năng tối thiểu</MinimumSkill>
+	<SuspendedCaps>Đã tạm dừng</SuspendedCaps>
+	<BoundWorkerIs>Công nhân gắn liền: {1_labelShort}</BoundWorkerIs>
+	<PlantVerb>Trồng</PlantVerb>
+	<ClipboardBillNotAvailableHere>Danh sách sao chép không thể dán ở đây.</ClipboardBillNotAvailableHere>
+	<ReorderBillUpTip>Di chuyển lên</ReorderBillUpTip>
+	<ReorderBillDownTip>Di chuyển xuống</ReorderBillDownTip>
+	<DeleteBillTip>Xóa</DeleteBillTip>
+	<CopyBillTip>Sao chép vào clipboard</CopyBillTip>
+	<SuspendBillTip>Tạm dừng</SuspendBillTip>
+	<PasteBillTip>Dán</PasteBillTip>
+	<PasteBillTip_LimitReached>Không thể thêm nữa</PasteBillTip_LimitReached>
+	<FinishesIn>Kết thúc vào</FinishesIn>
+	<RecruitmentResistance>Kháng cự</RecruitmentResistance>
+	<RecruitmentResistanceDesc>Tù nhân này có sự nghi ngờ và kháng cự đối với việc gia nhập phe của bạn. Khi giá trị này đạt đến không, họ có thể được tuyển mộ.</RecruitmentResistanceDesc>
+	<RecruitmentResistanceFromPawnKind>Kháng cự cơ bản {0}</RecruitmentResistanceFromPawnKind>
+	<PrisonerReleasePotentialRelationGains>Cải thiện quan hệ (thả tự do)</PrisonerReleasePotentialRelationGains>
+	<PrisonerReleaseRelationGainsDesc>Nếu thả tự do tù nhân này, bạn sẽ cải thiện quan hệ với phe đó. Mức độ cải thiện phụ thuộc vào danh tính, sức khỏe và tình trạng tâm lý của tù nhân.</PrisonerReleaseRelationGainsDesc>
+	<PrisonBreakMTBDays>Thời gian trung bình giữa các vụ vượt ngục</PrisonBreakMTBDays>
+	<PrisonBreakMTBDaysDescription>Thời gian trung bình giữa hai lần vượt ngục khi tỉnh táo. Thời gian này bị ảnh hưởng bởi cảm xúc, động lực, số lượng cửa ra vào và thời gian từ lần vượt ngục trước.\n\nGiá trị này sẽ không tính đến thời gian ngủ, vì vậy thời gian thực tế giữa các vụ vượt ngục thường dài hơn.</PrisonBreakMTBDaysDescription>
+	<Never>Không bao giờ</Never>
+	<NotWhileAsleep>Không khi ngủ</NotWhileAsleep>
+	<CurrentlyPrisonBreaking>Hiện đang vượt ngục</CurrentlyPrisonBreaking>
+	<FactorForDoorCount>Yếu tố số lượng cửa</FactorForDoorCount>
+	<FactorForMovement>Yếu tố khả năng di chuyển</FactorForMovement>
+	<SlavePrice>Giá nô lệ</SlavePrice>
+	<SlavePriceDescription>Giá thị trường cơ bản của nô lệ này tại bên bán.</SlavePriceDescription>
+	<GetsFood>Cung cấp thực phẩm</GetsFood>
+	<DoctorsCare>Chăm sóc của bác sĩ</DoctorsCare>
+	<GetsMedicine>Cung cấp thuốc men</GetsMedicine>
+	<ShouldTryToRecruit>Nên thử tuyển mộ</ShouldTryToRecruit>
+	<ConsideredGuilty>Bị kết tội ({0} sau sẽ biến mất)</ConsideredGuilty>
+	<ConsideredGuiltyNoTimer>Bị kết tội</ConsideredGuiltyNoTimer>
+	<LastRecruitment>Lần gần đây nhất giảm kháng cự</LastRecruitment>
+	<LastRecruitmentDescription>Giá trị kháng cự đã giảm {1} trong lần thử tuyển mộ {0_nameDef} gần đây nhất.</LastRecruitmentDescription>
+	<OpinionOfRecruiter>Quan điểm của người tuyển mộ</OpinionOfRecruiter>
+	<RecruiterNegotiationAbility>Khả năng đàm phán của người tuyển mộ</RecruiterNegotiationAbility>
+	<NonRecruitable>Trung thành tuyệt đối</NonRecruitable>
+	<NonRecruitableTip>Tù nhân này trung thành với quê hương đến nỗi hoàn toàn từ chối bị tuyển mộ.</NonRecruitableTip>
+	<MedicineQualityDescriptionPrisoner>Các loại thuốc có thể sử dụng cho tù nhân này.</MedicineQualityDescriptionPrisoner>
+	<MoveSpeed>Tốc độ di chuyển</MoveSpeed>
+	<Efficiency>Hiệu suất</Efficiency>
+	<PartEfficiency>Hiệu suất bộ phận</PartEfficiency>
+	<BodyPartEfficiency>Hiệu suất bộ phận cơ thể</BodyPartEfficiency>
+	<MissingBodyPart>Không tồn tại</MissingBodyPart>
+	<DestroyedBodyPart>Bị hủy</DestroyedBodyPart>
+	<ShatteredBodyPart>Bị vỡ</ShatteredBodyPart>
+	<RemovedBodyPart>Bị loại bỏ</RemovedBodyPart>
+	<Healthy>Khỏe mạnh</Healthy>
+	<InPain>Đang cảm thấy đau</InPain>
+	<PainLevel>Mức độ đau</PainLevel>
+	<Injured>Bị thương</Injured>
+	<UntendedInjury>Vết thương không được chăm sóc</UntendedInjury>
+	<NoHealthConditions>Không có tình trạng sức khỏe</NoHealthConditions>
+	<WholeBody>Toàn bộ cơ thể</WholeBody>
+	<DataProcessing>Xử lý dữ liệu</DataProcessing>
+	<Communication>Giao tiếp</Communication>
+	<Affects>Ảnh hưởng</Affects>
+	<BleedingRate>Tốc độ chảy máu</BleedingRate>
+	<TimeToDeath>Chết sau {0}</TimeToDeath>
+	<WontBleedOutSoon>Không có nguy hiểm đến tính mạng</WontBleedOutSoon>
+	<HealthOverview> Tổng quan sức khỏe</HealthOverview>
+	<MedicalOperationsShort>Phẫu thuật</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>Cải tiến</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>Phẫu thuật y tế</MedicalOperations>
+	<Amputate>Chặt bỏ</Amputate>
+	<HarvestOrgan>Thu hoạch</HarvestOrgan>
+	<RemoveOrgan>Loại bỏ</RemoveOrgan>
+	<MemoryLower>Ký ức</MemoryLower>
+	<SocialInteractionsLower>Giao tiếp xã hội</SocialInteractionsLower>
+	<HungerRate>Tỷ lệ đói</HungerRate>
+	<FoodConsumption>Tiêu thụ thực phẩm</FoodConsumption>
+	<Tiredness>Mức độ mệt mỏi</Tiredness>
+	<PainFactor>Hệ số đau</PainFactor>
+	<PreventsInfection>Ngăn ngừa nhiễm trùng</PreventsInfection>
+	<AllowSelfTend>Tự chăm sóc</AllowSelfTend>
+	<AllowSelfTendTip>Sau khi kích hoạt tự chăm sóc, {0} sẽ tự chữa trị với hiệu quả bình thường là {1}.</AllowSelfTendTip>
+	<DeathIn>Chết vì {0}</DeathIn>
+	<AllowMedicine>Dùng thuốc</AllowMedicine>
+	<MedicineQualityDescription>Các loại thuốc nào có thể sử dụng cho người này.</MedicineQualityDescription>
+	<FoodRestrictionDescription>Các loại thực phẩm nào có thể cho người này ăn.</FoodRestrictionDescription>
+	<None>Không có</None>
+	<VeryPoor>Rất kém</VeryPoor>
+	<Poor>Kém</Poor>
+	<Weakened>Yếu</Weakened>
+	<GoodCondition>Khỏe mạnh</GoodCondition>
+	<Enhanced>Tăng cường</Enhanced>
+	<SeriouslyImpaired>Bị tổn thương nghiêm trọng</SeriouslyImpaired>
+	<Impaired>Bị tổn thương</Impaired>
+	<SlightlyImpaired>Bị tổn thương nhẹ</SlightlyImpaired>
+	<NoPain>Không đau</NoPain>
+	<LittlePain>Đau nhẹ</LittlePain>
+	<MediumPain>Đau vừa</MediumPain>
+	<SeverePain>Đau nặng</SeverePain>
+	<ExtremePain>Đau cực độ</ExtremePain>
+	<Trainability>Có thể huấn luyện</Trainability>
+	<CannotTrainNotSmartEnough>Cần yêu cầu huấn luyện: {0}.</CannotTrainNotSmartEnough>
+	<CannotTrainTooSmall>{1_labelShort} có kích thước quá nhỏ, không thể huấn luyện.</CannotTrainTooSmall>
+	<TrainingNeedsPrerequisite>Dự án nghiên cứu trước: {0}</TrainingNeedsPrerequisite>
+	<Kidnapped>Bị bắt cóc</Kidnapped>
+	<Lent>Đã cho {FACTION_name} mượn, sẽ trở lại sau {1}</Lent>
+	<Missing>Mất tích</Missing>
+	<Slave>Nô lệ</Slave>
+	<FactionLeader>Lãnh đạo phe</FactionLeader>
+	<OpinionOf>Quan điểm về {0}</OpinionOf>
+	<SomeonesOpinionOfMe>Ý kiến của {0} về tôi</SomeonesOpinionOfMe>
+	<IAmDead>Tôi đã chết</IAmDead>
+	<IAmPsychopath>Tôi là người tâm thần</IAmPsychopath>
+	<OverallArmor>Tổng giáp</OverallArmor>
+	<MassCarried>Tải trọng: {0} / {1} kg</MassCarried>
+	<ComfyTemperatureRange>Phạm vi nhiệt độ thoải mái</ComfyTemperatureRange>
+	<ArmorBlunt>Giáp chống va đập</ArmorBlunt>
+	<ArmorSharp>Giáp chống đâm</ArmorSharp>
+	<ArmorHeat>Giáp chống nhiệt</ArmorHeat>
+	<ShowAll>Xem tất cả</ShowAll>
+	<ShowCombat>Xem chiến đấu</ShowCombat>
+	<ShowSocial>Xem xã hội</ShowSocial>
+	<NoRecentEntries>Không có mục gần đây</NoRecentEntries>
+	<CopyLogTip>Sao chép nhật ký vào clipboard</CopyLogTip>
+	<FormingCaravanStatus_GatheringAnimals>Tập hợp động vật</FormingCaravanStatus_GatheringAnimals>
+	<FormingCaravanStatus_GatheringAnimals_Pause>Tập hợp động vật (đang chờ)</FormingCaravanStatus_GatheringAnimals_Pause>
+	<FormingCaravanStatus_GatheringItems>Thu thập vật phẩm</FormingCaravanStatus_GatheringItems>
+	<FormingCaravanStatus_GatheringItems_Pause>Thu thập vật phẩm (đang chờ)</FormingCaravanStatus_GatheringItems_Pause>
+	<FormingCaravanStatus_GatheringDownedPawns>Thu thập người không thể di chuyển</FormingCaravanStatus_GatheringDownedPawns>
+	<FormingCaravanStatus_GatheringDownedPawns_Pause>Thu thập người không thể di chuyển (đang chờ)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+	<FormingCaravanStatus_Leaving>Đang rời đi</FormingCaravanStatus_Leaving>
+	<FormingCaravanStatus_Leaving_Pause>Đang rời đi (đang chờ)</FormingCaravanStatus_Leaving_Pause>
+	<FormingCaravanStatus_Waiting>Đang chờ</FormingCaravanStatus_Waiting>
+	<CaravanMembers>Thành viên</CaravanMembers>
+	<CaravanAnimals>Động vật</CaravanAnimals>
+	<ItemsToLoad>Cần tải</ItemsToLoad>
+	<LoadedItems>Đã tải</LoadedItems>
+	<PackAnimalsCountLower>Số lượng động vật gánh</PackAnimalsCountLower>
+	<InMentalStateCountLower>Số lượng người tâm lý không ổn định</InMentalStateCountLower>
+	<RemoveSliderText>Loại bỏ {{0}}x {0}</RemoveSliderText>
+	<ContainedItems>Các vật phẩm chứa</ContainedItems>
+	<ConfirmRemoveItemDialog>Bạn có thật sự muốn loại bỏ {0} không?</ConfirmRemoveItemDialog>
+	<DismissQuest>Hủy nhiệm vụ này và chuyển nó đến tab "Lịch sử".\n\nBạn có thể hủy nhiệm vụ bất cứ lúc nào. Các ảnh hưởng và thời gian hiệu lực sẽ tiếp tục như bình thường. Bạn sẽ không nhận được thông báo về nhiệm vụ đã hủy.</DismissQuest>
+	<UnDismissQuest>Hủy bỏ việc đóng nhiệm vụ này.\n\nNhiệm vụ sẽ trở lại tab "Có thể nhận" hoặc "Đang tiến hành", thông báo sẽ được kích hoạt lại.</UnDismissQuest>
+	<QuestDismissed>Nhiệm vụ này đã bị hủy.\n\nBạn có thể khôi phục lại việc hủy trước khi nhiệm vụ hết hạn.</QuestDismissed>
+	<DeleteQuest>Xóa và loại bỏ nhiệm vụ này vĩnh viễn khỏi danh sách nhiệm vụ.</DeleteQuest>
+	<PenFoodTab_NotEnclosed>Đặt biển hiệu chuồng để tính toán thông tin thực phẩm</PenFoodTab_NotEnclosed>
+	<PenFoodTab_StockpileTotal>Tổng giá trị dinh dưỡng dự trữ</PenFoodTab_StockpileTotal>
+	<PenFoodTab_StockpileTotalDescription>Tổng giá trị dinh dưỡng của thực phẩm lưu trữ trong chuồng.</PenFoodTab_StockpileTotalDescription>
+	<PenFoodTab_StockpileEmptyDays>Số ngày cung cấp cạn kiệt</PenFoodTab_StockpileEmptyDays>
+	<PenFoodTab_StockpileEmptyDaysDescription>Trong chuồng này, lượng dinh dưỡng tiêu thụ vượt quá tỷ lệ tăng trưởng dinh dưỡng. Động vật cuối cùng sẽ chết đói vì ăn hết thực phẩm dự trữ.</PenFoodTab_StockpileEmptyDaysDescription>
+	<PenFoodTab_AnimalType>Loại động vật</PenFoodTab_AnimalType>
+	<PenFoodTab_Count>Số lượng</PenFoodTab_Count>
+	<PenFoodTab_CurrentDay>Hôm nay</PenFoodTab_CurrentDay>
+	<PenFoodTab_Nutrition_Unit>Giá trị dinh dưỡng</PenFoodTab_Nutrition_Unit>
+	<PenFoodTab_NutritionPerDay_Unit>Mỗi ngày</PenFoodTab_NutritionPerDay_Unit>
+	<PenFoodTab_AddAnimal>Hiển thị bắt buộc...</PenFoodTab_AddAnimal>
+	<PenFoodTab_NaturalNutritionGrowthRate>Tăng trưởng dinh dưỡng</PenFoodTab_NaturalNutritionGrowthRate>
+	<PenFoodTab_GrowthPerSeason>Tăng trưởng mỗi mùa</PenFoodTab_GrowthPerSeason>
+	<PenFoodTab_TotalNutritionConsumptionRate>Tỷ lệ tiêu thụ dinh dưỡng</PenFoodTab_TotalNutritionConsumptionRate>
+	<PenFoodTab_NaturalNutritionGrowthRateDescription>Giá trị dinh dưỡng trung bình của thực vật có thể ăn được trong chuồng này</PenFoodTab_NaturalNutritionGrowthRateDescription>
+	<PenFoodTab_NutritionConsumptionDescription>Nhu cầu dinh dưỡng hiện tại của động vật trong chuồng này.\n\nĐể có thêm thực phẩm, bạn có thể mở rộng chuồng để bao phủ nhiều thực vật hoang dã hơn, hoặc vận chuyển thực phẩm dự trữ như cỏ khô vào chuồng.</PenFoodTab_NutritionConsumptionDescription>
+	<PenFoodTab_NaturalNutritionGrowthRateSeasonal>Chú ý: Tốc độ phát triển thực vật thay đổi theo mùa, thời tiết, sự trộm cắp của động vật hoang dã và các yếu tố khác. Các phương pháp tính toán này chỉ là ước lượng.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+	<PenFoodTab_NutritionConsumedPerDay_ColumLabel>Tổng tiêu thụ</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+	<PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>Tổng dinh dưỡng mà tất cả động vật trong chuồng sẽ tiêu thụ mỗi ngày.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+	<PenFoodTab_NutritionConsumedPerDay>Mỗi {ANIMALDEF_label} tiêu thụ hàng ngày</PenFoodTab_NutritionConsumedPerDay>
+	<PenFoodTab_NutritionConsumedEachAnimalLabel>Mỗi {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+	<PenFoodTab_AnimalTypeAnimalCapacity>Số lượng có thể hỗ trợ trong chuồng khi không có động vật khác</PenFoodTab_AnimalTypeAnimalCapacity>
+	<PenFoodTab_EdibleNow>Hiện tại có thể ăn được</PenFoodTab_EdibleNow>
+	<PenAutoCut_EnabledCheckbox>Tự động cắt bỏ thực vật trong chuồng</PenAutoCut_EnabledCheckbox>
+	<PenAutoCut_EnabledCheckboxTip>Tự động đánh dấu một số thực vật không thể ăn được để cắt bỏ. Điều này sẽ tạo không gian cho thực vật có thể ăn được phát triển, và sau đó động vật của bạn có thể ăn.\n\nViệc chỉ định tự động này sẽ được thực hiện định kỳ và chỉ áp dụng cho một số thực vật.\n\nChỉ áp dụng khi chuồng có biển hiệu.</PenAutoCut_EnabledCheckboxTip>
+	<AutocutUnenclosedPen>Chuồng chưa được bao kín</AutocutUnenclosedPen>
+	<AutocutUnenclosedPenTip>Chuồng hiện tại chưa được bao kín, vì vậy việc tự động cắt bỏ sẽ không có hiệu lực.</AutocutUnenclosedPenTip>
+	<WindTurbineAutoCut_EnabledCheckbox>Tự động cắt bỏ thực vật cản trở</WindTurbineAutoCut_EnabledCheckbox>
+	<StudyNotesTab_StudyProgress>Tiến độ nghiên cứu</StudyNotesTab_StudyProgress>
+	<StudyNotesTab_StudyProgressOngoing>Đang tiến hành</StudyNotesTab_StudyProgressOngoing>
+	<StudyNotesTab_StudyProgressCompleted>Đã hoàn thành</StudyNotesTab_StudyProgressCompleted>
+	<StudyNotesTab_ToggleStudy>Bật tắt nghiên cứu tự động</StudyNotesTab_ToggleStudy>
+	<StudyNotesTab_NoDiscoveries>Chưa phát hiện</StudyNotesTab_NoDiscoveries>
+	<!--<NonRecruitableTipCannotConvert>Họ trung thành với đức tin, không thể bị cải tạo.</NonRecruitableTipCannotConvert>-->
+<!--	<SelfTend>Tự chăm sóc</SelfTend>
+	<SelfTendTip>{0} sẽ tự động chữa trị bản thân với hiệu quả bình thường là {1} sau khi kích hoạt tự chăm sóc.</SelfTendTip>-->
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ChooseHeir>Chọn một người thừa kế mới cho {HOLDER_nameIndef}:</ChooseHeir>
+<MakeHeirConfirm>Bạn muốn thay đổi người thừa kế cho danh hiệu {HOLDER_nameIndef} từ {0_name}. Điều này cần xây dựng một tượng đài trong thời gian hạn chế để cống hiến quyền thừa kế mới.</MakeHeirConfirm>
+<MakeHeirPreviousHeirWarning>Điều này sẽ khiến người thừa kế hiện tại {HOLDER_possessive} là {HEIR_nameFull} không hài lòng.</MakeHeirPreviousHeirWarning>
+<CommandCallRoyalAid>Gọi hỗ trợ</CommandCallRoyalAid>
+<CommandCallRoyalAidDesc>Sử dụng giấy phép đặc quyền để yêu cầu hỗ trợ.\n\nMỗi loại hỗ trợ có thể sử dụng miễn phí một lần, sau đó bạn phải chờ để sử dụng lại miễn phí. Bạn có thể sử dụng hỗ trợ thường xuyên hơn, nhưng điều này sẽ khiến bạn mất nhiều điểm danh dự.</CommandCallRoyalAidDesc>
+<CommandCallRoyalAidLodger>Khách sẽ không sử dụng giấy phép của họ.</CommandCallRoyalAidLodger>
+<CommandCallRoyalAidSlave>Nô lệ không thể sử dụng giấy phép của họ.</CommandCallRoyalAidSlave>
+<CommandCallRoyalAidFactionHostile>Quan hệ của bạn với phe {FACTION_name} rất thù địch.</CommandCallRoyalAidFactionHostile>
+<CommandCallRoyalAidFreeOption>Miễn phí</CommandCallRoyalAidFreeOption>
+<CommandCallRoyalAidFavorOption>Còn lại {0} ngày, phí là {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
+<CommandCallRoyalAidWarningNonHostileFactions>Bạn sắp gọi quân tiếp viện, nhưng một số thuộc về phe không thù địch với {0_name}. Bất kỳ lính nào bạn triệu hồi sẽ không tấn công họ: {1}</CommandCallRoyalAidWarningNonHostileFactions>
+<CommandCallRoyalAidNotEnoughFavor>Không đủ điểm danh dự.</CommandCallRoyalAidNotEnoughFavor>
+<CommandCallRoyalAidMapUnreachable>Phe {FACTION_name} không thể đến khu vực này.</CommandCallRoyalAidMapUnreachable>
+<CommandCallRoyalAidInvalidMap>Không thể gọi quân tiếp viện ở đây.</CommandCallRoyalAidInvalidMap>
+<CommandCallLaborers>Gọi lao động</CommandCallLaborers>
+<CommandCallLaborersDesc>Sử dụng giấy phép đặc biệt để gọi một nhóm lao động từ đồng minh của bạn. Những công nhân này chỉ có thể hoàn thành các nhiệm vụ lao động chung, bạn có thể kiểm soát họ như những thuộc địa bình thường, trong thời gian này bạn cần đảm bảo an toàn cho họ.</CommandCallLaborersDesc>
+<CommandOnCooldown>Đang trong thời gian chờ. Còn lại {0} ngày.</CommandOnCooldown>
+<CommandCallLaborersNumLaborers>{0} lao động</CommandCallLaborersNumLaborers>
+<CommandPsycastWouldExceedEntropy>Entropy tâm linh sẽ vượt quá giới hạn. Giải phóng giới hạn entropy tâm linh sẽ cho phép tiếp tục sử dụng khả năng.</CommandPsycastWouldExceedEntropy>
+<CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} cần tiêu tốn {0} sức mạnh tinh thần, nhưng {CASTERNAME} chỉ có {1}.</CommandPsycastNotEnoughPsyfocus>
+<CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} cần tiêu tốn {0} sức mạnh tinh thần để ngăn chặn sự sụp đổ tinh thần của {1}, nhưng {CASTERNAME} chỉ có {2} sức mạnh tinh thần.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+<CommandPsycastHigherLevelPsylinkRequired>Cần có mối liên kết tâm linh cấp {0}.</CommandPsycastHigherLevelPsylinkRequired>
+<CommandPsycastZeroPsychicSensitivity>Độ nhạy tâm linh bằng 0.</CommandPsycastZeroPsychicSensitivity>
+<CommandPsycastPawnIsUnconscious>Người sử dụng khả năng không tỉnh táo.</CommandPsycastPawnIsUnconscious>
+<CommandPsycastLowPsyfocus>Cần ít nhất {0} sức mạnh tinh thần.</CommandPsycastLowPsyfocus>
+<CommandPsycastInsanityImmune>Miễn dịch với sự điên rồ tâm linh.</CommandPsycastInsanityImmune>
+<NeuralHeatLetter>Entropy</NeuralHeatLetter>
+<PsyfocusLetter>Sức mạnh tinh thần</PsyfocusLetter>
+<IneffectivePsychicImmune>Miễn dịch với sự điên rồ tâm linh</IneffectivePsychicImmune>
+<CommandSelectMonumentMarker>Chọn dấu hiệu tượng đài</CommandSelectMonumentMarker>
+<CommandSelectMonumentMarkerDesc>Chọn dấu hiệu tượng đài tương ứng.</CommandSelectMonumentMarkerDesc>
+<CommandWarnInBuildingRadius>Cảnh báo bán kính xây dựng</CommandWarnInBuildingRadius>
+<CommandWarnInBuildingRadiusDesc>Nếu được kích hoạt, mục này sẽ vẽ một đường đỏ khi bạn đặt kế hoạch xây dựng có thể gây cản trở thiền.\n\nNếu bạn không có ý định sử dụng nó cho thiền, bạn có thể tắt tùy chọn này.</CommandWarnInBuildingRadiusDesc>
+<ChooseRoyalPermit>Chọn giấy phép</ChooseRoyalPermit>
+<ChooseRoyalPermit_Desc>Mở giao diện chọn giấy phép và chọn một giấy phép mới.</ChooseRoyalPermit_Desc>
+<CommandLeaveBestowingCeremony>Rời khỏi nghi lễ trao giải</CommandLeaveBestowingCeremony>
+<CommandLeaveBestowingCeremonyDesc>Dừng tham gia nghi lễ trao giải.</CommandLeaveBestowingCeremonyDesc>
+<CommandCancelBestowingCeremony>Hủy nghi lễ trao giải.</CommandCancelBestowingCeremony>
+<CommandCancelBestowingCeremonyDesc>Hủy trực tiếp nghi lễ trao giải. Người trao giải sẽ rời đi, nhưng sẽ sớm có cơ hội tổ chức nghi lễ trao giải khác.</CommandCancelBestowingCeremonyDesc>
+<CommandCancelBestowingCeremonyConfirm>Bạn có muốn hủy nghi lễ trao giải không?</CommandCancelBestowingCeremonyConfirm>
+</LanguageData>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Art.label>Nghệ thuật</Art.label>
+	<Art.description>Nhà nghệ thuật chịu trách nhiệm sáng tạo ra các tác phẩm nghệ thuật xuất sắc từ nguyên liệu thô.</Art.description>
+	<Art.gerundLabel>Nghệ thuật</Art.gerundLabel>
+	<Art.labelShort>Nghệ thuật</Art.labelShort>
+	<Art.pawnLabel>Nhà nghệ thuật</Art.pawnLabel>
+	<Art.verb>Sáng tạo</Art.verb>
+	<BasicWorker.label>Cơ bản</BasicWorker.label>
+	<BasicWorker.description>Các công việc đơn giản không yêu cầu kỹ năng, như thả tù nhân và bật tắt thiết bị điện.</BasicWorker.description>
+	<BasicWorker.gerundLabel>Thực hiện</BasicWorker.gerundLabel>
+	<BasicWorker.labelShort>Cơ bản</BasicWorker.labelShort>
+	<BasicWorker.pawnLabel>Công nhân</BasicWorker.pawnLabel>
+	<BasicWorker.verb>Thực hiện</BasicWorker.verb>
+	<Cleaning.label>Làm sạch</Cleaning.label>
+	<Cleaning.description>Công nhân vệ sinh chịu trách nhiệm dọn dẹp vết bẩn, ô nhiễm và loại bỏ tuyết trong khu vực sinh sống.</Cleaning.description>
+	<Cleaning.gerundLabel>Làm sạch</Cleaning.gerundLabel>
+	<Cleaning.labelShort>Làm sạch</Cleaning.labelShort>
+	<Cleaning.pawnLabel>Công nhân vệ sinh</Cleaning.pawnLabel>
+	<Cleaning.verb>Làm sạch</Cleaning.verb>
+	<Construction.label>Xây dựng</Construction.label>
+	<Construction.description>Công nhân xây dựng sẽ xây dựng các công trình bạn chỉ định và sửa chữa các công trình, đồ nội thất, bàn làm việc bị hỏng.</Construction.description>
+	<Construction.gerundLabel>Xây dựng</Construction.gerundLabel>
+	<Construction.labelShort>Xây dựng</Construction.labelShort>
+	<Construction.pawnLabel>Công nhân xây dựng</Construction.pawnLabel>
+	<Construction.verb>Xây dựng</Construction.verb>
+	<Cooking.label>Chế biến</Cooking.label>
+	<Cooking.description>Đầu bếp chịu trách nhiệm nấu ăn, mổ xác, và đổ đầy các thùng chứa.</Cooking.description>
+	<Cooking.gerundLabel>Chế biến</Cooking.gerundLabel>
+	<Cooking.labelShort>Chế biến</Cooking.labelShort>
+	<Cooking.pawnLabel>Đầu bếp</Cooking.pawnLabel>
+	<Cooking.verb>Nấu ăn</Cooking.verb>
+	<Crafting.label>Chế tác</Crafting.label>
+	<Crafting.description>Thợ thủ công chịu trách nhiệm biến nguyên liệu thành sản phẩm hoàn chỉnh.</Crafting.description>
+	<Crafting.gerundLabel>Chế tác</Crafting.gerundLabel>
+	<Crafting.labelShort>Chế tác</Crafting.labelShort>
+	<Crafting.pawnLabel>Thợ thủ công</Crafting.pawnLabel>
+	<Crafting.verb>Chế tác</Crafting.verb>
+	<Doctor.label>Bác sĩ</Doctor.label>
+	<Doctor.description>Bác sĩ chịu trách nhiệm điều trị cho bệnh nhân và người bị thương, cho những người không thể tự ăn uống, và thực hiện phẫu thuật. Bác sĩ sẽ chăm sóc cả thuộc địa và tù nhân.</Doctor.description>
+	<Doctor.gerundLabel>Chăm sóc</Doctor.gerundLabel>
+	<Doctor.labelShort>Bác sĩ</Doctor.labelShort>
+	<Doctor.pawnLabel>Bác sĩ</Doctor.pawnLabel>
+	<Doctor.verb>Chăm sóc</Doctor.verb>
+	<Firefighter.label>Chữa cháy</Firefighter.label>
+	<Firefighter.description>Để dập tắt các đám cháy trong khu vực sinh sống.</Firefighter.description>
+	<Firefighter.gerundLabel>Chữa cháy</Firefighter.gerundLabel>
+	<Firefighter.labelShort>Chữa cháy</Firefighter.labelShort>
+	<Firefighter.pawnLabel>Nhân viên cứu hỏa</Firefighter.pawnLabel>
+	<Firefighter.verb>Chữa cháy</Firefighter.verb>
+	<Growing.label>Trồng trọt</Growing.label>
+	<Growing.description>Người trồng cây chịu trách nhiệm quản lý khu vực trồng trọt, chậu hoa và cây thủy canh, trồng hoặc thu hoạch cây trồng.</Growing.description>
+	<Growing.gerundLabel>Trồng trọt</Growing.gerundLabel>
+	<Growing.labelShort>Trồng trọt</Growing.labelShort>
+	<Growing.pawnLabel>Người trồng cây</Growing.pawnLabel>
+	<Growing.verb>Trồng trọt</Growing.verb>
+	<Handling.label>Huấn luyện động vật</Handling.label>
+	<Handling.description>Người huấn luyện động vật chịu trách nhiệm thuần hóa động vật hoang dã, huấn luyện động vật đã thuần hóa, thu hoạch sản phẩm từ động vật, và giết thịt động vật đã thuần hóa.</Handling.description>
+	<Handling.gerundLabel>Huấn luyện</Handling.gerundLabel>
+	<Handling.labelShort>Huấn luyện</Handling.labelShort>
+	<Handling.pawnLabel>Người huấn luyện</Handling.pawnLabel>
+	<Handling.verb>Huấn luyện</Handling.verb>
+	<Hauling.label>Vận chuyển</Hauling.label>
+	<Hauling.description>Công nhân vận chuyển chịu trách nhiệm đưa hàng hóa đến địa điểm được chỉ định.</Hauling.description>
+	<Hauling.gerundLabel>Vận chuyển</Hauling.gerundLabel>
+	<Hauling.labelShort>Vận chuyển</Hauling.labelShort>
+	<Hauling.pawnLabel>Công nhân vận chuyển</Hauling.pawnLabel>
+	<Hauling.verb>Vận chuyển</Hauling.verb>
+	<Hunting.label>Săn bắn</Hunting.label>
+	<Hunting.description>Thợ săn chịu trách nhiệm sử dụng vũ khí tầm xa để săn các động vật hoang dã mà bạn đã đánh dấu.</Hunting.description>
+	<Hunting.gerundLabel>Săn bắn</Hunting.gerundLabel>
+	<Hunting.labelShort>Săn bắn</Hunting.labelShort>
+	<Hunting.pawnLabel>Thợ săn</Hunting.pawnLabel>
+	<Hunting.verb>Săn bắn</Hunting.verb>
+	<Mining.label>Khai thác</Mining.label>
+	<Mining.description>Công nhân khai thác chịu trách nhiệm khai thác khoáng sản và đá, cũng như vận hành máy khoan sâu.</Mining.description>
+	<Mining.gerundLabel>Khai thác</Mining.gerundLabel>
+	<Mining.labelShort>Khai thác</Mining.labelShort>
+	<Mining.pawnLabel>Công nhân khai thác</Mining.pawnLabel>
+	<Mining.verb>Khai thác</Mining.verb>
+	<Patient.label>Điều trị</Patient.label>
+	<Patient.description>Khi có tình trạng sức khỏe đe dọa tính mạng, nằm trên giường y tế để nhận điều trị.</Patient.description>
+	<Patient.gerundLabel>Điều trị</Patient.gerundLabel>
+	<Patient.labelShort>Điều trị</Patient.labelShort>
+	<Patient.pawnLabel>Bệnh nhân</Patient.pawnLabel>
+	<Patient.verb>Điều trị</Patient.verb>
+	<PatientBedRest.label>Nghỉ ngơi</PatientBedRest.label>
+	<PatientBedRest.description>Các bệnh không gây tử vong có thể hồi phục bằng cách nghỉ ngơi trên giường.</PatientBedRest.description>
+	<PatientBedRest.gerundLabel>Nghỉ ngơi</PatientBedRest.gerundLabel>
+	<PatientBedRest.labelShort>Nghỉ ngơi</PatientBedRest.labelShort>
+	<PatientBedRest.pawnLabel>Bệnh nhân</PatientBedRest.pawnLabel>
+	<PatientBedRest.verb>Nghỉ ngơi</PatientBedRest.verb>
+	<PlantCutting.label>Chặt cây</PlantCutting.label>
+	<PlantCutting.description>Công nhân thu hoạch chịu trách nhiệm Chặt cây và thu hoạch các cây được bạn đánh dấu, cũng như chặt cây được bạn chỉ định.</PlantCutting.description>
+	<PlantCutting.gerundLabel>Chặt cây</PlantCutting.gerundLabel>
+	<PlantCutting.labelShort>Chặt cây</PlantCutting.labelShort>
+	<PlantCutting.pawnLabel>Công nhân thu hoạch</PlantCutting.pawnLabel>
+	<PlantCutting.verb>Chặt cây</PlantCutting.verb>
+	<Research.label>Nghiên cứu</Research.label>
+	<Research.description>Nhà nghiên cứu chịu trách nhiệm thực hiện nghiên cứu. Vì nghiên cứu là một công việc dài hạn, nhà nghiên cứu chuyên nghiệp cần giảm ưu tiên cho các công việc khác.</Research.description>
+	<Research.gerundLabel>Nghiên cứu</Research.gerundLabel>
+	<Research.labelShort>Nghiên cứu</Research.labelShort>
+	<Research.pawnLabel>Nhà nghiên cứu</Research.pawnLabel>
+	<Research.verb>Nghiên cứu</Research.verb>
+	<Smithing.label>Rèn</Smithing.label>
+	<Smithing.description>Thợ rèn chịu trách nhiệm rèn các nguyên liệu thành vũ khí và công cụ. Nếu thuộc địa là thợ máy, họ cũng có thể sửa chữa các máy móc.</Smithing.description>
+	<Smithing.gerundLabel>Rèn</Smithing.gerundLabel>
+	<Smithing.labelShort>Rèn</Smithing.labelShort>
+	<Smithing.pawnLabel>Thợ rèn</Smithing.pawnLabel>
+	<Smithing.verb>Rèn</Smithing.verb>
+	<Tailoring.label>May vá</Tailoring.label>
+	<Tailoring.description>Thợ may chịu trách nhiệm may các nguyên liệu thành quần áo.</Tailoring.description>
+	<Tailoring.gerundLabel>May vá</Tailoring.gerundLabel>
+	<Tailoring.labelShort>May vá</Tailoring.labelShort>
+	<Tailoring.pawnLabel>Thợ may</Tailoring.pawnLabel>
+	<Tailoring.verb>May vá</Tailoring.verb>
+	<Warden.label>Quản lý</Warden.label>
+	<Warden.description>Nhân viên quản lý chịu trách nhiệm cung cấp thức ăn cho tù nhân, trò chuyện với tù nhân, tuyển dụng, đánh đập hoặc xử án tù nhân. Cần chọn tùy chọn tương ứng trong menu "Tù nhân".</Warden.description>
+	<Warden.gerundLabel>Quản lý</Warden.gerundLabel>
+	<Warden.labelShort>Quản lý</Warden.labelShort>
+	<Warden.pawnLabel>Nhân viên quản lý</Warden.pawnLabel>
+	<Warden.verb>Quản lý</Warden.verb>
+</LanguageData>

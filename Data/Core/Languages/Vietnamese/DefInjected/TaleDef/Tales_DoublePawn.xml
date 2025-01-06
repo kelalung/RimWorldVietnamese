@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Captured.label>Người bị bắt</Captured.label>
+	<Captured.rulePack.rulesStrings>
+		<li>tale_noun->[CAPTURER_nameDef] đã bắt giữ [PRISONER_nameDef]</li>
+		<li>tale_noun->[PRISONER_nameDef] bị [CAPTURER_nameDef] bắt giữ</li>
+		<li>tale_noun->Người bị bắt [PRISONER_nameDef]</li>
+		<li>image->[CAPTURER_nameFull] đang bắt giữ [PRISONER_nameFull], [circumstance_group]</li>
+		<li>image->[CAPTURER_nameFull] đang trói tay [PRISONER_nameFull], [circumstance_group]</li>
+		<li>image->[CAPTURER_nameFull] đã tát mạnh vào mặt [PRISONER_nameFull] và bắt giữ [PRISONER_objective], [circumstance_group]</li>
+		<li>circumstance_phrase->và [PRISONER_pronoun] đang lăn lộn trên mặt đất</li>
+		<li>circumstance_phrase->và [PRISONER_pronoun] đang đau đớn quằn quại</li>
+		<li>circumstance_phrase->khá chuyên nghiệp và hiệu quả</li>
+		<li>circumstance_phrase->khá thô bạo và vụng về</li>
+		<li>circumstance_phrase->rõ ràng là đã dùng sức quá mức</li>
+		<li>circumstance_phrase->đồng thời với tâm trạng vui vẻ</li>
+		<li>circumstance_phrase->đồng thời với nụ cười chiến thắng</li>
+		<li>desc_sentence->[CAPTURER_nameDef] đang nhìn [PRISONER_nameDef] với ánh mắt của kẻ chinh phục.</li>
+		<li>desc_sentence->[PRISONER_nameDef] bị thương và trông rất đau đớn.</li>
+		<li>desc_sentence->[PRISONER_nameDef] có vẻ đã chấp nhận số phận của mình.</li>
+		<li>desc_sentence->[PRISONER_nameDef] gào thét đầy tức giận vì thất bại.</li>
+		<li>desc_sentence->[CAPTURER_nameDef] không ngừng tát [PRISONER_objective] để khuất phục [PRISONER_nameDef].</li>
+		<li>desc_sentence->[CAPTURER_nameDef] kéo tai [PRISONER_nameDef].</li>
+		<li>desc_sentence->[CAPTURER_nameDef] đang khóa khớp của [PRISONER_nameDef].</li>
+		<li>desc_sentence->[CAPTURER_nameDef] đã nhổ nước bọt vào mặt [PRISONER_nameDef].</li>
+		<li>desc_sentence->[CAPTURER_nameDef] cười lớn, trong khi nước mắt chảy ra từ mắt [PRISONER_nameDef].</li>
+		<li>desc_sentence->[CAPTURER_nameDef] đá [PRISONER_nameDef] một cách vô lý.</li>
+	</Captured.rulePack.rulesStrings>
+	<DefeatedHostileFactionLeader.label>Đánh bại thủ lĩnh phe thù địch</DefeatedHostileFactionLeader.label>
+	<DidSurgery.label>Phẫu thuật</DidSurgery.label>
+	<DidSurgery.rulePack.rulesStrings>
+		<li>tale_noun->[SURGEON_nameDef] thực hiện phẫu thuật cho [PATIENT_nameDef]</li>
+		<li>tale_noun->Phẫu thuật của [PATIENT_nameDef] do [SURGEON_nameDef] thực hiện</li>
+		<li>tale_noun->Phẫu thuật của [PATIENT_nameDef]</li>
+		<li>image->[SURGEON_nameFull] đang gây mê cho [PATIENT_nameFull], [circumstance_group]</li>
+		<li>image->Trong khi phẫu thuật, [SURGEON_nameFull] đưa tay vào sâu trong cơ thể [PATIENT_nameFull] đến khuỷu tay, [circumstance_group]</li>
+		<li>image->Trong khi phẫu thuật, [SURGEON_nameFull] mổ bụng [PATIENT_nameFull], [circumstance_group]</li>
+		<li>circumstance_phrase->và [PATIENT_pronoun] run rẩy vì sợ hãi</li>
+		<li>circumstance_phrase->và máu nhỏ giọt xuống chân [SURGEON_nameDef]</li>
+		<li>circumstance_phrase->Xung quanh đầy những dụng cụ phẫu thuật nhìn rất đáng sợ</li>
+		<li>circumstance_phrase->Sử dụng dụng cụ tự chế nhưng hiệu quả</li>
+		<li>desc_sentence->[SURGEON_nameDef] đẫm mồ hôi.</li>
+		<li>desc_sentence->[SURGEON_nameDef] trông rất tập trung.</li>
+		<li>desc_sentence->Máu văng lên mặt [SURGEON_nameDef].</li>
+		<li>desc_sentence->[PATIENT_nameDef] co giật và quằn quại.</li>
+	</DidSurgery.rulePack.rulesStrings>
+	<ExecutedPrisoner.label>Xử án</ExecutedPrisoner.label>
+	<ExecutedPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->[EXECUTIONER_nameDef] xử án [PRISONER_nameDef]</li>
+		<li>tale_noun->[PRISONER_nameDef] bị [EXECUTIONER_nameDef] xử án</li>
+		<li>tale_noun->Ngày tận thế của [PRISONER_nameDef]</li>
+		<li>image->[EXECUTIONER_nameFull] đang xử án [PRISONER_nameFull], [circumstance_group]</li>
+		<li>image->[EXECUTIONER_nameFull] đang thi hành án tử hình đối với [PRISONER_nameFull], [circumstance_group]</li>
+		<li>image->[EXECUTIONER_nameFull] đang chuẩn bị xử án [PRISONER_nameFull], [circumstance_group]</li>
+		<li>image->[EXECUTIONER_nameFull] bước vào phòng giam, chuẩn bị xử án [PRISONER_nameFull], [circumstance_group]</li>
+		<li>circumstance_phrase->và [PRISONER_pronoun] đang lăn lộn trên mặt đất</li>
+		<li>circumstance_phrase->và [PRISONER_pronoun] đang đau đớn quằn quại</li>
+		<li>circumstance_phrase->và [PRISONER_pronoun] hô to trong sự sợ hãi</li>
+		<li>circumstance_phrase->khá chuyên nghiệp và hiệu quả</li>
+		<li>circumstance_phrase->khá thô bạo và vụng về</li>
+		<li>circumstance_phrase->rõ ràng là đã dùng sức quá mức</li>
+		<li>circumstance_phrase->đồng thời với tâm trạng vui vẻ</li>
+		<li>circumstance_phrase->đồng thời với nụ cười của kẻ chinh phục</li>
+		<li>circumstance_phrase->đồng thời với nụ cười chiến thắng trong mắt [EXECUTIONER_possessive]</li>
+		<li>circumstance_phrase->đồng thời nhìn với ánh mắt lạnh lùng</li>
+		<li>circumstance_phrase->đồng thời gây thêm đau đớn</li>
+		<li>circumstance_phrase->đồng thời đang nghĩ đến điều gì khác</li>
+		<li>circumstance_phrase->vì lợi ích của toàn cục</li>
+		<li>desc_sentence->[EXECUTIONER_nameDef] đẫm mồ hôi.</li>
+		<li>desc_sentence->[EXECUTIONER_nameDef] lầm bầm một mình.</li>
+		<li>desc_sentence->Máu văng lên mặt [EXECUTIONER_nameDef].</li>
+		<li>desc_sentence->[PRISONER_nameDef] co giật và quằn quại.</li>
+		<li>desc_sentence->[PRISONER_nameDef] có vẻ như đã hoàn toàn từ bỏ.</li>
+		<li>desc_sentence->[PRISONER_nameDef] đã nhắm mắt lại, dường như đang cầu nguyện điều gì đó.</li>
+		<li>desc_sentence->[PRISONER_nameDef] trông có vẻ khinh thường.</li>
+		<li>tale_noun->Án tử hình của [prisoner_nameShortDef]</li>
+	</ExecutedPrisoner.rulePack.rulesStrings>
+	<Hunted.label>Săn bắn</Hunted.label>
+	<Hunted.rulePack.rulesStrings>
+		<li>tale_noun->[HUNTER_nameDef] đang săn [PREY_nameDef]</li>
+		<li>tale_noun->[PREY_nameDef] bị [HUNTER_nameDef] săn</li>
+		<li>tale_noun->Săn bắn thành công của [HUNTER_nameDef]</li>
+		<li>image->[circumstance_group] khiến nó đang bị [HUNTER_nameFull] săn</li>
+		<li>image->Nhân lúc [circumstance_group], [HUNTER_nameFull] theo dõi [PREY_nameFull] từ xa</li>
+		<li>image->[HUNTER_nameFull] lợi dụng [circumstance_group] để săn [PREY_nameFull]</li>
+		<li>circumstance_phrase->[PREY_nameDef] đang lơ là</li>
+		<li>circumstance_phrase->[PREY_nameDef] đi ngang qua</li>
+		<li>circumstance_phrase->[PREY_nameDef] đang ăn uống</li>
+		<li>desc_sentence->[PREY_nameDef] dường như không hề hay biết.</li>
+		<li>desc_sentence->[HUNTER_nameDef] nắm chặt [HUNTER_possessive] vũ khí.</li>
+		<li>desc_sentence->[PREY_nameDef] nhìn quanh, như thể đã nhận ra nguy hiểm.</li>
+	</Hunted.rulePack.rulesStrings>
+	<KidnappedColonist.label>Bị bắt cóc</KidnappedColonist.label>
+	<KidnappedColonist.rulePack.rulesStrings>
+		<li>tale_noun->[KIDNAPPER_nameDef] đã bắt cóc [VICTIM_nameDef]</li>
+		<li>tale_noun->[VICTIM_nameDef] bị [KIDNAPPER_nameDef] bắt cóc</li>
+		<li>tale_noun->[VICTIM_nameDef] bị bắt cóc</li>
+		<li>image->[KIDNAPPER_nameFull] đang dẫn [VICTIM_nameFull] đi về [KIDNAPPER_factionName], [circumstance_group]</li>
+		<li>image->[KIDNAPPER_factionName] của [KIDNAPPER_nameFull] đang bắt cóc [VICTIM_nameFull], [circumstance_group]</li>
+		<li>image->[KIDNAPPER_nameFull] đang bắt cóc [VICTIM_nameFull], [circumstance_group]</li>
+		<li>circumstance_phrase->và [VICTIM_pronoun] đang đau đớn quằn quại</li>
+		<li>circumstance_phrase->khá chuyên nghiệp và hiệu quả</li>
+		<li>circumstance_phrase->khá thô bạo và vụng về</li>
+		<li>circumstance_phrase->rõ ràng là đã dùng sức quá mức</li>
+		<li>circumstance_phrase->đồng thời với tâm trạng vui vẻ</li>
+		<li>circumstance_phrase->đồng thời với nụ cười chiến thắng</li>
+		<li>circumstance_phrase->đồng thời người đầy máu</li>
+		<li>desc_sentence->[VICTIM_nameDef] có vẻ như đã hoàn toàn từ bỏ việc kháng cự.</li>
+		<li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại, dường như đang cầu nguyện điều gì đó.</li>
+		<li>desc_sentence->[VICTIM_nameDef] trông có vẻ khinh thường.</li>
+		<li>desc_sentence->[VICTIM_nameDef] gào thét vì tức giận và sợ hãi.</li>
+		<li>desc_sentence->[VICTIM_nameDef] trông có vẻ đầy thương tích và kiệt sức.</li>
+		<li>desc_sentence->[VICTIM_nameDef] trông có vẻ bị thương nặng.</li>
+	</KidnappedColonist.rulePack.rulesStrings>
+	<KilledBy.label>Chết</KilledBy.label>
+	<KilledBy.rulePack.rulesStrings>
+		<li>tale_noun->[KILLER_nameDef] đã giết [VICTIM_nameDef]</li>
+		<li>tale_noun->[VICTIM_nameDef] chết vì tay [KILLER_nameDef]</li>
+		<li>tale_noun->[VICTIM_nameDef] bị [KILLER_nameDef] giết</li>
+		<li>tale_noun->Cái chết của [VICTIM_nameDef]</li>
+		<li>image->[VICTIM_nameFull] bị [KILLER_nameFull] giết, kẻ giết người [circumstance_group]</li>
+		<li>image->[KILLER_nameFull] đã giết [VICTIM_nameFull], [circumstance_group]</li>
+		<li>image->[KILLER_nameFull] đã kết thúc cuộc đời của [VICTIM_nameFull], [circumstance_group]</li>
+		<li>image->[KILLER_nameFull] đã tàn nhẫn giết [VICTIM_nameFull], [circumstance_group]</li>
+		<li>image->[VICTIM_nameFull] đã bị giết, kẻ giết người [circumstance_group]</li>
+		<li>circumstance_phrase->trông có vẻ không hề hối tiếc</li>
+		<li>circumstance_phrase->lạnh lùng và hiệu quả</li>
+		<li>circumstance_phrase->đầy cơn thịnh nộ</li>
+		<li>circumstance_phrase->hành động nhanh chóng và hiệu quả</li>
+		<li>circumstance_phrase->không có biểu cảm</li>
+		<li>circumstance_phrase->trông có vẻ là vì lý do nào đó u ám</li>
+		<li>circumstance_phrase->theo cách của một kẻ nhát gan và do dự</li>
+		<li>desc_sentence->Mặt trời lặn sau lưng họ, như một sự cộng hưởng biểu tượng cho sự kiện này.</li>
+		<li>desc_sentence->[Quantity_adjphrase][Animal] đứng xem xung quanh.</li>
+		<li>desc_sentence->Một [PersonJob][side_position] lặng lẽ quan sát.</li>
+		<li>desc_sentence->Máu từ từ lan ra xung quanh [VICTIM_nameDef].</li>
+		<li>desc_sentence->Đôi mắt của [VICTIM_nameDef] hoàn toàn mất đi sức sống.</li>
+		<li>desc_sentence->[KILLER_nameDef] đang nghiến răng.</li>
+		<li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+		<li>desc_sentence->[KILLER_nameDef] trông có vẻ đau khổ về những gì mình đã làm.</li>
+		<li>desc_sentence->[KILLER_nameDef] trông có vẻ vui mừng với tình huống này.</li>
+		<li>desc_sentence->[KILLER_nameDef] trông có vẻ tự mãn.</li>
+	</KilledBy.rulePack.rulesStrings>
+	<KilledColonist.label>Người định cư bị giết</KilledColonist.label>
+	<KilledColonyAnimal.label>Động vật thuộc địa bị giết</KilledColonyAnimal.label>
+	<Recruited.label>Tuyển dụng</Recruited.label>
+	<Recruited.rulePack.rulesStrings>
+		<li>tale_noun->[RECRUITER_nameDef] đã tuyển dụng [JOINER_nameDef]</li>
+		<li>tale_noun->[JOINER_nameDef] bị [RECRUITER_nameDef] thuyết phục</li>
+		<li>tale_noun->[JOINER_nameDef] được tuyển dụng</li>
+		<li>image->[RECRUITER_nameFull] đang tuyển dụng [JOINER_nameFull], [circumstance_group]</li>
+		<li>image->[RECRUITER_nameFull] đang chào đón [JOINER_nameFull] trở thành một phần của thuộc địa, [circumstance_group]</li>
+		<li>image->[RECRUITER_nameFull] đang thuyết phục [JOINER_nameFull] tham gia, [circumstance_group]</li>
+		<li>circumstance_phrase->đồng thời với thiện chí rõ ràng</li>
+		<li>circumstance_phrase->đồng thời bắt tay chân thành</li>
+		<li>circumstance_phrase->khắp nơi đều tràn ngập tiếng cười</li>
+		<li>circumstance_phrase->trước toàn bộ thuộc địa</li>
+		<li>circumstance_phrase->trong một phòng giam</li>
+		<li>desc_sentence->[JOINER_nameDef] gật đầu hiểu biết.</li>
+		<li>desc_sentence->[JOINER_nameDef] mỉm cười khi giao tiếp mắt.</li>
+		<li>desc_sentence->[JOINER_nameDef] trông có vẻ nhẹ nhõm.</li>
+		<li>desc_sentence->[JOINER_nameDef] trông có vẻ đầy hy vọng.</li>
+	</Recruited.rulePack.rulesStrings>
+	<SoldPrisoner.label>Bán tù nhân</SoldPrisoner.label>
+	<SoldPrisoner.rulePack.rulesStrings>
+		<li>tale_noun->[PRISONER_nameDef] bị bán cho thương nhân</li>
+		<li>tale_noun->[SELLER_nameDef] bán [PRISONER_nameDef] như một nô lệ</li>
+		<li>tale_noun->[PRISONER_nameDef] bị [SELLER_nameDef] bán như nô lệ</li>
+		<li>image->[TRADER_nameFull] đang mua [PRISONER_nameFull] từ tay [SELLER_nameFull], [circumstance_group]</li>
+		<li>image->[SELLER_nameFull] đang bán [PRISONER_nameFull] cho [TRADER_nameFull], [circumstance_group]</li>
+		<li>circumstance_phrase->đồng thời những người định cư khác đứng bên cạnh nhìn với vẻ không hài lòng</li>
+		<li>circumstance_phrase->và [SELLER_nameDef] đang chăm chú đếm tiền</li>
+		<li>circumstance_phrase->và [PRISONER_nameDef] đang cầu xin khổ sở</li>
+		<li>circumstance_phrase->đồng thời [PRISONER_nameDef] rất tức giận</li>
+		<li>desc_sentence->[TRADER_nameDef] phát ra tiếng cười quá mức.</li>
+		<li>desc_sentence->[SELLER_nameDef] cười một cách bệnh hoạn.</li>
+		<li>desc_sentence->[SELLER_nameDef] miễn cưỡng giao [PRISONER_nameDef] cho thương nhân.</li>
+		<li>desc_sentence->[PRISONER_nameDef] nhìn chằm chằm vào chủ mới của mình với vẻ khiêu khích.</li>
+		<li>desc_sentence->[TRADER_nameDef] kéo [PRISONER_nameDef] đi bằng xích trên người.</li>
+		<li>desc_sentence->[PRISONER_nameDef] nhìn chằm chằm vào [SELLER_nameDef], trong lòng tính toán kế trả thù.</li>
+		<li>desc_sentence->[PRISONER_nameDef] kêu gào trong sự bất lực.</li>
+		<li>desc_sentence->[PRISONER_nameDef] nhổ nước bọt vào mặt [SELLER_nameDef].</li>
+		<li>desc_sentence->Hình bóng của [PRISONER_nameDef] biến mất ở phía xa.</li>
+		<li>desc_sentence->[SELLER_nameDef] mạnh tay giao xích trói buộc [PRISONER_nameDef] cho [TRADER_nameDef].</li>
+		<li>desc_sentence->Không khí trong cảnh tượng tràn ngập sự tuyệt vọng.</li>
+	</SoldPrisoner.rulePack.rulesStrings>
+	<TamedAnimal.label>Thuần hóa</TamedAnimal.label>
+	<TamedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->[ANIMAL_nameDef] bị [TAMER_nameDef] thuần hóa</li>
+		<li>tale_noun->[TAMER_nameDef] thuần hóa [ANIMAL_nameDef]</li>
+		<li>image->[TAMER_nameFull] đang thuần hóa [ANIMAL_nameFull], [circumstance_group]</li>
+		<li>image->[TAMER_nameFull] cho [ANIMAL_nameFull] ăn một miếng thức ăn, [circumstance_group]</li>
+		<li>image->[TAMER_nameFull] thì thầm với [ANIMAL_label], [circumstance_group]</li>
+		<li>image->[TAMER_nameFull] đang dỗ dành một con [ANIMAL_label] hoang dã, [circumstance_group]</li>
+		<li>circumstance_phrase->rất cẩn thận</li>
+		<li>circumstance_phrase->đồng thời nở nụ cười</li>
+		<li>circumstance_phrase->dù rất mệt nhưng vẫn rất vui</li>
+		<li>desc_sentence->[ANIMAL_nameDef] đang gầm lên một cách hung dữ.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] trông như đang chìm đắm trong tình yêu.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] trông như bị thôi miên.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] trông vừa sợ hãi vừa tò mò.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] trông như bị mê hoặc.</li>
+		<li>desc_sentence->[TAMER_nameDef] đang âu yếm [ANIMAL_nameDef] một cách đầy yêu thương.</li>
+	</TamedAnimal.rulePack.rulesStrings>
+	<TradedWith.label>Giao dịch</TradedWith.label>
+	<TradedWith.rulePack.rulesStrings>
+		<li>tale_noun->Một giao dịch giữa [SELLER_nameFull] và [BUYER_nameFull]</li>
+		<li>image->[BUYER_nameFull] mua một số hàng hóa từ [SELLER_nameFull], [circumstance_group]</li>
+		<li>image->[SELLER_nameFull] đang bán hàng cho [BUYER_nameFull], [circumstance_group]</li>
+		<li>circumstance_phrase->Thương nhân lộ vẻ tham lam</li>
+		<li>circumstance_phrase->đồng thời [SELLER_nameDef] nở nụ cười chuyên nghiệp về phía [BUYER_shortNameDef]</li>
+		<li>desc_sentence->[BUYER_nameDef] đang xem xét kỹ lưỡng hàng hóa của [SELLER_nameDef].</li>
+		<li>desc_sentence->[SELLER_nameDef] đang đoán ý nghĩ của [BUYER_nameDef].</li>
+		<li>desc_sentence->Hai bên đang mặc cả.</li>
+		<li>desc_sentence->[BUYER_nameDef] và [SELLER_nameDef] đang cãi nhau về giá cả.</li>
+		<li>desc_sentence->[SELLER_nameDef] và [BUYER_nameDef] đã đạt được thỏa thuận về giá.</li>
+		<li>desc_sentence->[BUYER_nameDef] đang thanh toán.</li>
+		<li>desc_sentence->[SELLER_nameDef] đang đếm tiền.</li>
+		<li>desc_sentence->[BUYER_nameDef] đang kiểm tra hàng hóa.</li>
+	</TradedWith.rulePack.rulesStrings>
+	<TrainedAnimal.label>Đào tạo</TrainedAnimal.label>
+	<TrainedAnimal.rulePack.rulesStrings>
+		<li>tale_noun->[TRAINER_nameDef] đang đào tạo [ANIMAL_nameDef]</li>
+		<li>tale_noun->Đào tạo [ANIMAL_nameDef]</li>
+		<li>tale_noun->[ANIMAL_nameDef] nhận đào tạo từ [TRAINER_nameDef]</li>
+		<li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] [TRAINABLE_label], [circumstance_group]</li>
+		<li>image->[TRAINER_nameFull] dạy [ANIMAL_nameFull] kỹ năng [TRAINABLE_label], [circumstance_group]</li>
+		<li>image->[TRAINER_nameFull] và [ANIMAL_nameFull] cùng luyện tập [TRAINABLE_label], [circumstance_group]</li>
+		<li>train_syn->Đào tạo</li>
+		<li>train_syn->Đào tạo</li>
+		<li>train_syn->Đào tạo</li>
+		<li>train_syn->Dạy</li>
+		<li>train_syn->Phát triển</li>
+		<li>circumstance_phrase->Người khác đứng bên cạnh xem</li>
+		<li>circumstance_phrase->Một nhóm [Animal] hoang dã đứng bên cạnh với vẻ ghê tởm</li>
+		<li>circumstance_phrase->Trong khi [ANIMAL_nameDef] đang nhớ lại cuộc sống đơn giản thời hoang dã</li>
+		<li>circumstance_phrase->đồng thời [TRAINER_nameDef] đang nghĩ đến việc ăn gì cho bữa trưa</li>
+		<li>circumstance_phrase->Trong khi những người định cư khác đang làm việc bên cạnh</li>
+		<li>desc_sentence->[TRAINER_nameDef] trông rất vui vẻ.</li>
+		<li>desc_sentence->[TRAINER_nameDef] đang mỉm cười.</li>
+		<li>desc_sentence->[TRAINER_nameDef] trông có vẻ chán nản với công việc này.</li>
+		<li>desc_sentence->[TRAINER_nameDef] vung tay một cách đáng sợ.</li>
+		<li>desc_sentence->[TRAINER_nameDef] nhíu mày, rất tập trung.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] trông rất bối rối.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] đang cầm một vũ khí trong miệng.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] phát ra tiếng gầm gừ cố gắng.</li>
+		<li>desc_sentence->[TRAINER_nameDef] lắc đầu trong sự thất vọng.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] run rẩy trong sự sợ hãi.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] giả vờ như một cây [Vegetable].</li>
+		<li>desc_sentence->[ANIMAL_nameDef] được vẽ ra bằng những công cụ điện ghép lại.</li>
+		<li>desc_sentence->[ANIMAL_nameDef] một nửa [Color] một nửa [Color].</li>
+		<li>desc_sentence->[ANIMAL_nameDef] được bao phủ bởi vảy.</li>
+		<li>desc_sentence->[TRAINER_nameDef] được vẽ bằng [Quantity_adjphrase] cánh tay.</li>
+		<li>desc_sentence->[TRAINER_nameDef] trở thành hình dạng của [ANIMAL_definite].</li>
+	</TrainedAnimal.rulePack.rulesStrings>
+</LanguageData>

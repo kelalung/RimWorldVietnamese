@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MysteriousCargoCube.questContentRules.rulesStrings>
+		<li>deliveredLetterLabel-&gt;Hàng hóa bí ẩn</li>
+		<li>deliveredLetterText(pawnOnMap==true)-&gt;Hàng hóa bí ẩn đã được giao. Bên trong chỉ là một khối lập phương đơn giản, sáng bóng như vàng, nhưng lại cứng cáp, không thể bị xước. Nó có cảm giác nhẹ nhàng và ấm áp. Bề mặt của nó phản chiếu ánh sáng đẹp mắt.\n\n[pawn_nameDef] cảm thấy bị hấp dẫn một cách kỳ lạ bởi khối lập phương này.</li>
+		<li>deliveredLetterText(pawnOnMap==false)-&gt;Hàng hóa bí ẩn đã được giao. Bên trong chỉ là một khối lập phương đơn giản, sáng bóng như vàng, nhưng lại cứng cáp, không thể bị xước. Nó có cảm giác nhẹ nhàng và ấm áp. Bề mặt của nó phản chiếu ánh sáng đẹp mắt.</li>
+	</MysteriousCargoCube.questContentRules.rulesStrings>
+	<MysteriousCargoCube.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)-&gt;Một trí tuệ nhân tạo ẩn danh đã đưa ra một yêu cầu kỳ quái với bạn. Nó hy vọng bạn có thể chấp nhận một số hàng hóa bí ẩn. Nhưng nó tránh nói về những nghi vấn liên quan đến hàng hóa.\n\nNếu bạn chấp nhận yêu cầu của nó, nó sẽ gửi hàng hóa bí ẩn đến bạn qua một khoang vận chuyển.</li>
+		<li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] từ [asker_faction_name] đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] hy vọng bạn có thể chấp nhận một số hàng hóa không rõ nguồn gốc. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+		<li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], một [asker_royalTitleInCurrentFaction] từ [asker_faction_name], đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] yêu cầu bạn chấp nhận một lô hàng bí ẩn. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại lúng túng, tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+	</MysteriousCargoCube.questDescriptionRules.rulesStrings>
+	<MysteriousCargoCube.questNameRules.rulesStrings>
+		<li>questName-&gt;Hàng hóa bí ẩn</li>
+	</MysteriousCargoCube.questNameRules.rulesStrings>
+	<MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+		<li>deliveredLetterLabel-&gt;Hàng hóa bí ẩn</li>
+		<li>deliveredLetterText-&gt;Hàng hóa bí ẩn đã được giao. Bên trong là một vật thể dày, có hình dạng giống như một cột sống con người, có vẻ được làm từ kim loại đen thô. Bề mặt của nó dường như được bao phủ bởi một lớp chất lỏng màu đen.\n\nCột sống này rung động và biến dạng khi chạm vào. Bạn có thể điều tra nó trên nền tảng tiếp nhận để tìm hiểu thêm thông tin.</li>
+	</MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+	<MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)-&gt;Một trí tuệ nhân tạo ẩn danh đã đưa ra một yêu cầu kỳ quái với bạn. Nó hy vọng bạn có thể chấp nhận một số hàng hóa bí ẩn. Nhưng nó tránh nói về những nghi vấn liên quan đến hàng hóa.\n\nNếu bạn chấp nhận yêu cầu, nó sẽ gửi hàng hóa bí ẩn đến bạn qua một khoang vận chuyển.</li>
+		<li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] từ [asker_faction_name] đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] hy vọng bạn có thể chấp nhận một số hàng hóa không rõ nguồn gốc. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+		<li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], một [asker_royalTitleInCurrentFaction] từ [asker_faction_name], đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] yêu cầu bạn chấp nhận một lô hàng bí ẩn. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại lúng túng, tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+	</MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+	<MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+		<li>questName-&gt;Hàng hóa bí ẩn</li>
+	</MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+	<MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+		<li>deliveredLetterLabel-&gt;Hàng hóa bí ẩn</li>
+		<li>deliveredLetterText(pawnOnMap==true)-&gt;Hàng hóa bí ẩn đã được giao. Bên trong có vẻ như là một xác chết của con người.\n\nKiểm tra thêm cho thấy, xác chết này giống hệt với [pawn_nameDef]. Da của nó cảm giác như sáp và rất ấm. [pawn_nameDef] sẽ bị dọa cho sợ hãi.\n\nBạn có thể điều tra xác chết để tìm hiểu thêm thông tin.</li>
+		<li>deliveredLetterText(pawnOnMap==false)-&gt;Hàng hóa bí ẩn đã được giao. Bên trong có vẻ như là một xác chết của con người.\n\nKiểm tra thêm cho thấy, xác chết này giống hệt với [pawn_nameDef]. Da của nó cảm giác như sáp và rất ấm. [pawn_nameDef] chắc chắn sẽ bị dọa cho sợ hãi khi thấy điều này.\n\nBạn có thể điều tra xác chết để tìm hiểu thêm thông tin.</li>
+	</MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+	<MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)-&gt;Một trí tuệ nhân tạo ẩn danh đã đưa ra một yêu cầu kỳ quái với bạn. Nó hy vọng bạn có thể chấp nhận một số hàng hóa bí ẩn. Nhưng nó tránh nói về những nghi vấn liên quan đến hàng hóa.\n\nNếu bạn chấp nhận yêu cầu, nó sẽ gửi hàng hóa bí ẩn đến bạn qua một khoang vận chuyển.</li>
+		<li>questDescription(asker_factionLeader==true)-&gt;[asker_faction_leaderTitle] từ [asker_faction_name] đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] hy vọng bạn có thể chấp nhận một số hàng hóa không rõ nguồn gốc. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+		<li>questDescription(asker_royalInCurrentFaction==true)-&gt;[asker_nameFull], một [asker_royalTitleInCurrentFaction] từ [asker_faction_name], đã đưa ra một yêu cầu kỳ quái với bạn. [asker_pronoun] yêu cầu bạn chấp nhận một lô hàng bí ẩn. Khi bạn hỏi thêm chi tiết, [asker_pronoun] lại lúng túng, tránh né. Bạn có thể nghe thấy sự tuyệt vọng trong lời nói của [asker_possessive].\n\nNếu bạn chấp nhận yêu cầu, [asker_nameFull] sẽ gửi hàng hóa qua khoang vận chuyển.</li>
+	</MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+	<MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+		<li>questName-&gt;Hàng hóa bí ẩn</li>
+	</MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+</LanguageData>

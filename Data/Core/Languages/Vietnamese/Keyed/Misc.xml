@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Autosaving>Đang tự động lưu...</Autosaving>
+	<GameStartDialog>Bạn và hai người khác tỉnh dậy từ khoang đông lạnh giữa tiếng báo động chói tai và âm thanh kim loại vỡ vụn, rồi vội vã chui vào khoang thoát hiểm trước khi tàu vũ trụ bị nổ tung.\n\nChẳng bao lâu sau, bạn hạ cánh xuống thế giới biên giới đầy bí ẩn này.\n\nKhi những mảnh vỡ của tàu vũ trụ tiếp tục rơi xung quanh, bạn bắt đầu lập kế hoạch sinh tồn.</GameStartDialog>
+	<Colony>Thuộc địa</Colony>
+	<ChangeLanguageFromMainMenu>Bạn chỉ có thể thay đổi ngôn ngữ trò chơi trong giao diện cài đặt của menu chính.</ChangeLanguageFromMainMenu>
+	<AndLower>và</AndLower>
+	<DisabledLower>Đã vô hiệu hóa</DisabledLower>
+	<VersionIndicator>Phiên bản: {0}</VersionIndicator>
+	<GameVersionIndicator>Phiên bản trò chơi</GameVersionIndicator>
+	<DevelopmentBuildLower>Phiên bản phát triển</DevelopmentBuildLower>
+	<CompiledOn>Biên dịch vào {0}</CompiledOn>
+	<LoggedIntoSteamAs>Đã đăng nhập vào Steam (Tên người dùng: {0})</LoggedIntoSteamAs>
+	<ToCommaListAnd>{0} và {1}</ToCommaListAnd>
+	<ToCommaListOr>{0} hoặc {1}</ToCommaListOr>
+	<Yes>Có</Yes>
+	<No>Không</No>
+	<NoSubject>Không có {0}</NoSubject>
+	<New>Mới</New>
+	<Gender>Giới tính</Gender>
+	<Sex>Giới tính</Sex>
+	<min>Tối thiểu</min>
+	<max>Tối đa</max>
+	<chance>Cơ hội</chance>
+	<context>Đối tượng</context>
+	<multiplier>Hệ số</multiplier>
+	<damage>Thiệt hại</damage>
+	<radius>Bán kính</radius>
+	<expired>Đã hết hạn</expired>
+	<durationDays>Thời gian (ngày)</durationDays>
+	<intervalDays>Khoảng thời gian (ngày)</intervalDays>
+	<delayDays>Trì hoãn (ngày)</delayDays>
+	<repeat>Lặp lại</repeat>
+	<default>Mặc định</default>
+	<distance>Khoảng cách</distance>
+	<YesUppercase>CÓ</YesUppercase>
+	<NoUppercase>KHÔNG</NoUppercase>
+	<kg>Kilogram</kg>
+	<Day>Ngày</Day>
+	<day>ngày</day>
+	<Default>Mặc định</Default>
+	<Average>Trung bình</Average>
+	<Cause>Nguyên nhân</Cause>
+	<Etc>Vân vân</Etc>
+	<MoneyFormat>{0} bạc</MoneyFormat>
+	<Factors>Hệ số</Factors>
+	<Uses>Sử dụng</Uses>
+	<Translation>Dịch</Translation>
+	<minDays>Tối thiểu (ngày)</minDays>
+	<maxDays>Tối đa (ngày)</maxDays>
+	<Processing>Xử lý</Processing>
+	<Inspect>Kiểm tra</Inspect>
+	<MeatLabel>{0} thịt</MeatLabel>
+	<MeatDesc>Thịt tươi được mổ, có thể được chế biến thành món ăn hoặc ăn sống.</MeatDesc>
+	<MeatInsectDesc>Thịt tươi được mổ. Nếu cần, có thể chế biến thành món ăn, thậm chí ăn sống. Rất khó ăn.</MeatInsectDesc>
+	<MeatHumanDesc>Thịt tươi được mổ. Có thể chế biến thành món ăn hoặc ăn sống, mặc dù hầu hết mọi người sẽ phản đối ý tưởng này.</MeatHumanDesc>
+	<TechprintLabel>Hồ sơ nghiên cứu ({PROJECT_label})</TechprintLabel>
+	<TechprintDesc>Đây là hồ sơ nghiên cứu về dự án “{PROJECT_label}”.\n\nHồ sơ nghiên cứu có thể ở dạng từ mẩu giấy có hình vẽ cho đến thiết bị giảng dạy độc lập tiên tiến. Dù ở hình thức nào, chúng đều đóng vai trò tương tự. Chúng có thể cung cấp cho các nhà nghiên cứu của bạn nhiều ý tưởng hơn về một kế hoạch khả thi hoặc một ý tưởng thô về thiết kế tiên tiến hơn.\n\nCác nhà nghiên cứu của bạn cần có đủ kiến thức cơ bản để hiểu hồ sơ nghiên cứu và biết bắt đầu từ đâu. Chỉ sau khi áp dụng đủ hồ sơ nghiên cứu, họ mới có thể tìm ra cách sử dụng công nghệ này một cách chi tiết trong các tình huống cụ thể.\n\nSử dụng hồ sơ nghiên cứu cho các dự án tương ứng có thể hoàn thành một nửa tiến độ còn lại của dự án. Hơn nữa, ngay cả khi dự án đã hoàn thành, các nhà nghiên cứu vẫn có thể nâng cao kỹ năng trí tuệ thông qua tài liệu công nghệ.</TechprintDesc>
+	<Unlocks>Mở khóa</Unlocks>
+	<CorpseLabel>{0} xác</CorpseLabel>
+	<CorpseDesc>Xác của {0}.</CorpseDesc>
+	<DeadLabel>{1_label} (Đã chết)</DeadLabel>
+	<RoughStoneTerrainLabel>Địa hình {0} thô</RoughStoneTerrainLabel>
+	<RoughStoneTerrainDesc>Mặt đất tự nhiên {0} thô.</RoughStoneTerrainDesc>
+	<RoughHewnStoneTerrainLabel>Địa hình {0} thô mài</RoughHewnStoneTerrainLabel>
+	<RoughHewnStoneTerrainDesc>Mặt đất tự nhiên {0} thô mài.</RoughHewnStoneTerrainDesc>
+	<SmoothStoneTerrainLabel>Địa hình {0} mịn</SmoothStoneTerrainLabel>
+	<SmoothStoneTerrainDesc>Mặt đất tự nhiên {0} mịn.</SmoothStoneTerrainDesc>
+	<BlueprintLabelExtra> (Bản thiết kế)</BlueprintLabelExtra>
+	<FrameLabelExtra> (Đang xây dựng)</FrameLabelExtra>
+	<FactionUnaffiliated>Không liên kết</FactionUnaffiliated>
+	<StillWishContinue>Có chắc chắn muốn tiếp tục không?</StillWishContinue>
+	<BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
+	<ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
+	<SomeonesRoom>{PAWN_labelShort} của {1}</SomeonesRoom>
+	<CouplesRoom>{PAWN1_labelShort} và {PAWN2_labelShort} của {2}</CouplesRoom>
+	<StatRelatesToCurrentRoom>Quan trọng đối với loại phòng này.</StatRelatesToCurrentRoom>
+	<DeepResourceRemaining>{COUNT}x{RESOURCE_label}</DeepResourceRemaining>
+	<VariousLabel> (Đa dạng)</VariousLabel>
+	<ColonistDied>Thuộc địa đã chết</ColonistDied>
+	<North>Bắc</North>
+	<South>Nam</South>
+	<West>Tây</West>
+	<East>Đông</East>
+	<ApplyingTechprint>Đang áp dụng hồ sơ nghiên cứu ({0})</ApplyingTechprint>
+	<VariantOf>Biến thể của</VariantOf>
+	<BornOfParents>Sinh ra từ {0}</BornOfParents>
+	<ParentsUnknown>Cha mẹ không rõ</ParentsUnknown>
+	<Colonist>Thuộc địa</Colonist>
+<!--	<ColonistPlural>Thuộc địa</ColonistPlural>-->
+</LanguageData>

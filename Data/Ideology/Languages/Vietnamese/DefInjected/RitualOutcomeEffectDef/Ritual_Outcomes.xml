@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttendedFuneral.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</AttendedFuneral.description>
+	<AttendedFuneral.comps.0.label>Người truyền giáo tham dự</AttendedFuneral.comps.0.label>
+	<AttendedFuneral.comps.1.label>Số lượng người tham gia</AttendedFuneral.comps.1.label>
+	<AttendedFuneral.outcomeChances.0.label>Kém</AttendedFuneral.outcomeChances.0.label>
+	<AttendedFuneral.outcomeChances.0.description>{0} rất tệ! Mọi người cảm thấy bị xúc phạm vì điều đó.</AttendedFuneral.outcomeChances.0.description>
+	<AttendedFuneral.outcomeChances.1.label>Nhàm chán</AttendedFuneral.outcomeChances.1.label>
+	<AttendedFuneral.outcomeChances.1.description>{0} rất nhàm chán và dài dòng, không thể giải tỏa bất kỳ cảm xúc nào của khán giả.</AttendedFuneral.outcomeChances.1.description>
+	<AttendedFuneral.outcomeChances.2.label>Thỏa mãn</AttendedFuneral.outcomeChances.2.label>
+	<AttendedFuneral.outcomeChances.2.description>{0} thỏa mãn, câu nói cuối cùng của người diễn thuyết chỉ ra con đường cho mọi người.</AttendedFuneral.outcomeChances.2.description>
+	<AttendedFuneral.outcomeChances.3.label>Ấm áp</AttendedFuneral.outcomeChances.3.label>
+	<AttendedFuneral.outcomeChances.3.description>{0} ấm áp và cảm động, mọi người rời đi trong những kỷ niệm đẹp vừa qua.</AttendedFuneral.outcomeChances.3.description>
+	<AttendedFuneralNoCorpse.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</AttendedFuneralNoCorpse.description>
+	<AttendedFuneralNoCorpse.comps.0.label>Người truyền giáo tham dự</AttendedFuneralNoCorpse.comps.0.label>
+	<AttendedFuneralNoCorpse.comps.1.label>Số lượng người tham gia</AttendedFuneralNoCorpse.comps.1.label>
+	<AttendedFuneralNoCorpse.outcomeChances.0.label>Kém</AttendedFuneralNoCorpse.outcomeChances.0.label>
+	<AttendedFuneralNoCorpse.outcomeChances.0.description>{0} rất tệ! Mọi người cảm thấy bị xúc phạm vì điều đó.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+	<AttendedFuneralNoCorpse.outcomeChances.1.label>Nhàm chán</AttendedFuneralNoCorpse.outcomeChances.1.label>
+	<AttendedFuneralNoCorpse.outcomeChances.1.description>{0} rất nhàm chán và dài dòng, không thể giải tỏa bất kỳ cảm xúc nào của khán giả.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+	<AttendedFuneralNoCorpse.outcomeChances.2.label>Thỏa mãn</AttendedFuneralNoCorpse.outcomeChances.2.label>
+	<AttendedFuneralNoCorpse.outcomeChances.2.description>{0} thỏa mãn, câu nói cuối cùng của người diễn thuyết chỉ ra con đường cho mọi người.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+	<AttendedFuneralNoCorpse.outcomeChances.3.label>Ấm áp</AttendedFuneralNoCorpse.outcomeChances.3.label>
+	<AttendedFuneralNoCorpse.outcomeChances.3.description>{0} ấm áp và cảm động, mọi người rời đi trong những kỷ niệm đẹp vừa qua.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+	<BlindingCeremony.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</BlindingCeremony.description>
+	<BlindingCeremony.comps.2.label>Người truyền giáo tham dự</BlindingCeremony.comps.2.label>
+	<BlindingCeremony.comps.3.label>Số lượng người tham gia</BlindingCeremony.comps.3.label>
+	<BlindingCeremony.comps.4.label>Bắt đầu nghi lễ từ bàn thờ</BlindingCeremony.comps.4.label>
+	<BlindingCeremony.comps.4.expectedThingLabelTip>Một bàn thờ</BlindingCeremony.comps.4.expectedThingLabelTip>
+	<BlindingCeremony.extraPredictedOutcomeDescriptions.0>Nếu {0} thỏa mãn, người bị mù có thể nhận được một cấp độ giác ngộ hoặc mở khóa khả năng tâm linh mới.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+	<BlindingCeremony.outcomeChances.0.label>Kém</BlindingCeremony.outcomeChances.0.label>
+	<BlindingCeremony.outcomeChances.0.description>{0} quá tệ! Bài phát biểu lắp bắp, không rõ ràng. Nghi lễ làm mù rất kém, mọi người đang chờ đợi kết thúc.</BlindingCeremony.outcomeChances.0.description>
+	<BlindingCeremony.outcomeChances.1.label>Nhàm chán</BlindingCeremony.outcomeChances.1.label>
+	<BlindingCeremony.outcomeChances.1.description>{0} rất nhàm chán. Nội dung bài phát biểu lặp đi lặp lại, nghi lễ làm mù rõ ràng có vấn đề, khiến mọi người cảm thấy không thoải mái.</BlindingCeremony.outcomeChances.1.description>
+	<BlindingCeremony.outcomeChances.2.label>Thỏa mãn</BlindingCeremony.outcomeChances.2.label>
+	<BlindingCeremony.outcomeChances.2.description>{0} thỏa mãn. Nội dung bài phát biểu có ý nghĩa, quá trình nghi lễ làm mù được ngưỡng mộ và cảm thấy rất trang trọng.</BlindingCeremony.outcomeChances.2.description>
+	<BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Người bị mù sẽ nhận được một cấp độ giác ngộ hoặc mở khóa một khả năng tâm linh mới.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+	<BlindingCeremony.outcomeChances.3.label>Hùng vĩ</BlindingCeremony.outcomeChances.3.label>
+	<BlindingCeremony.outcomeChances.3.description>{0} rất hùng vĩ. Bài phát biểu đưa mọi người đến bờ vực điên cuồng, ngay khi đôi mắt bị mù phát ra âm thanh ẩm ướt.</BlindingCeremony.outcomeChances.3.description>
+	<BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Người bị mù sẽ nhận được một cấp độ giác ngộ hoặc mở khóa một khả năng tâm linh mới.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+	<CelebratedDate.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</CelebratedDate.description>
+	<CelebratedDate.comps.2.label>Người lãnh đạo tham dự</CelebratedDate.comps.2.label>
+	<CelebratedDate.comps.3.label>Số lượng người tham gia</CelebratedDate.comps.3.label>
+	<CelebratedDate.comps.4.label>Bắt đầu nghi lễ từ bàn thờ</CelebratedDate.comps.4.label>
+	<CelebratedDate.comps.4.expectedThingLabelTip>Một bàn thờ</CelebratedDate.comps.4.expectedThingLabelTip>
+	<CelebratedDate.outcomeChances.0.label>Kém</CelebratedDate.outcomeChances.0.label>
+	<CelebratedDate.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi, chờ bài phát biểu kết thúc.</CelebratedDate.outcomeChances.0.description>
+	<CelebratedDate.outcomeChances.1.label>Nhàm chán</CelebratedDate.outcomeChances.1.label>
+	<CelebratedDate.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</CelebratedDate.outcomeChances.1.description>
+	<CelebratedDate.outcomeChances.2.label>Thú vị</CelebratedDate.outcomeChances.2.label>
+	<CelebratedDate.outcomeChances.2.description>{0} rất thú vị. Mọi người đều rất vui khi được cùng nhau thư giãn.</CelebratedDate.outcomeChances.2.description>
+	<CelebratedDate.outcomeChances.3.label>Đáng nhớ</CelebratedDate.outcomeChances.3.label>
+	<CelebratedDate.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</CelebratedDate.outcomeChances.3.description>
+	<CelebratedDate_Consumable.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</CelebratedDate_Consumable.description>
+	<CelebratedDate_Consumable.comps.0.label>Số lượng người tham gia</CelebratedDate_Consumable.comps.0.label>
+	<CelebratedDate_Consumable.comps.1.label>Phòng đáng nhớ</CelebratedDate_Consumable.comps.1.label>
+	<CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>Nếu {0} thỏa mãn, một người tham gia có thể nhận được cảm hứng.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+	<CelebratedDate_Consumable.outcomeChances.0.label>Kém</CelebratedDate_Consumable.outcomeChances.0.label>
+	<CelebratedDate_Consumable.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</CelebratedDate_Consumable.outcomeChances.0.description>
+	<CelebratedDate_Consumable.outcomeChances.1.label>Nhàm chán</CelebratedDate_Consumable.outcomeChances.1.label>
+	<CelebratedDate_Consumable.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</CelebratedDate_Consumable.outcomeChances.1.description>
+	<CelebratedDate_Consumable.outcomeChances.2.label>Thú vị</CelebratedDate_Consumable.outcomeChances.2.label>
+	<CelebratedDate_Consumable.outcomeChances.2.description>{0} rất thú vị. Mọi người đều rất vui khi được thư giãn cùng nhau.</CelebratedDate_Consumable.outcomeChances.2.description>
+	<CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+	<CelebratedDate_Consumable.outcomeChances.3.label>Đáng nhớ</CelebratedDate_Consumable.outcomeChances.3.label>
+	<CelebratedDate_Consumable.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</CelebratedDate_Consumable.outcomeChances.3.description>
+	<CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+	<CelebrationPartyDanceDrum.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</CelebrationPartyDanceDrum.description>
+	<CelebrationPartyDanceDrum.comps.0.label>Số lượng người tham gia</CelebrationPartyDanceDrum.comps.0.label>
+	<CelebrationPartyDanceDrum.comps.1.label>Phòng đáng nhớ</CelebrationPartyDanceDrum.comps.1.label>
+	<CelebrationPartyDanceDrum.comps.2.label>Số lượng người đánh trống</CelebrationPartyDanceDrum.comps.2.label>
+	<CelebrationPartyDanceDrum.comps.3.label>Thực hiện bên đống lửa</CelebrationPartyDanceDrum.comps.3.label>
+	<CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>Một đống lửa</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+	<CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>Nếu {0} thú vị hoặc đáng nhớ, người tham gia có thể nhận được một khoảng thời gian tăng tốc độ làm việc.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+	<CelebrationPartyDanceDrum.outcomeChances.0.label>Kém</CelebrationPartyDanceDrum.outcomeChances.0.label>
+	<CelebrationPartyDanceDrum.outcomeChances.0.description>{0} quá tệ! Cuộc trò chuyện ngượng ngùng, những câu đùa vụng về, điệu nhảy tồi tệ và âm nhạc buồn tẻ.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+	<CelebrationPartyDanceDrum.outcomeChances.1.label>Nhàm chán</CelebrationPartyDanceDrum.outcomeChances.1.label>
+	<CelebrationPartyDanceDrum.outcomeChances.1.description>{0} rất nhàm chán. Những điệu nhảy tồi tệ và âm nhạc tầm thường khiến toàn bộ bữa tiệc trở nên lãng phí thời gian.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+	<CelebrationPartyDanceDrum.outcomeChances.2.label>Thú vị</CelebrationPartyDanceDrum.outcomeChances.2.label>
+	<CelebrationPartyDanceDrum.outcomeChances.2.description>{0} rất thú vị. Mọi người đều tận hưởng thời gian nghỉ ngơi thoát khỏi cuộc sống hàng ngày, cùng nhau nhảy múa.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+	<CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>Sau khi trải qua những điệu nhảy vui vẻ, mọi người đều cảm thấy sảng khoái. Người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+	<CelebrationPartyDanceDrum.outcomeChances.3.label>Đáng nhớ</CelebrationPartyDanceDrum.outcomeChances.3.label>
+	<CelebrationPartyDanceDrum.outcomeChances.3.description>{0} thật đáng nhớ! Những người nhảy múa quên mình trong âm nhạc, trải nghiệm này đã gắn kết mọi người lại với nhau.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+	<CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Sau khi trải qua những điệu nhảy vui vẻ, mọi người đều cảm thấy sảng khoái. Người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+	<CelebrationPartyDanceTech.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</CelebrationPartyDanceTech.description>
+	<CelebrationPartyDanceTech.comps.0.label>Số lượng người tham gia</CelebrationPartyDanceTech.comps.0.label>
+	<CelebrationPartyDanceTech.comps.1.label>Ấn tượng của phòng</CelebrationPartyDanceTech.comps.1.label>
+	<CelebrationPartyDanceTech.comps.2.label>Số lượng âm thanh được cấp điện</CelebrationPartyDanceTech.comps.2.label>
+	<CelebrationPartyDanceTech.comps.3.label>Thực hiện bên đèn sáng</CelebrationPartyDanceTech.comps.3.label>
+	<CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>Một chiếc đèn</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+	<CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Nếu {0} thú vị hoặc đáng nhớ, người tham gia có thể nhận được một khoảng thời gian tăng tốc độ làm việc.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+	<CelebrationPartyDanceTech.outcomeChances.0.label>Kém</CelebrationPartyDanceTech.outcomeChances.0.label>
+	<CelebrationPartyDanceTech.outcomeChances.0.description>{0} quá tệ! Cuộc trò chuyện ngượng ngùng, những câu đùa vụng về, điệu nhảy tồi tệ và âm nhạc buồn tẻ.</CelebrationPartyDanceTech.outcomeChances.0.description>
+	<CelebrationPartyDanceTech.outcomeChances.1.label>Nhàm chán</CelebrationPartyDanceTech.outcomeChances.1.label>
+	<CelebrationPartyDanceTech.outcomeChances.1.description>{0} rất nhàm chán. Những điệu nhảy tồi tệ và âm nhạc tầm thường khiến toàn bộ bữa tiệc trở nên lãng phí thời gian.</CelebrationPartyDanceTech.outcomeChances.1.description>
+	<CelebrationPartyDanceTech.outcomeChances.2.label>Thú vị</CelebrationPartyDanceTech.outcomeChances.2.label>
+	<CelebrationPartyDanceTech.outcomeChances.2.description>{0} rất thú vị. Mọi người đều tận hưởng thời gian nghỉ ngơi thoát khỏi cuộc sống hàng ngày, cùng nhau nhảy múa.</CelebrationPartyDanceTech.outcomeChances.2.description>
+	<CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>Sau khi trải qua những điệu nhảy vui vẻ, mọi người đều cảm thấy sảng khoái. Người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+	<CelebrationPartyDanceTech.outcomeChances.3.label>Đáng nhớ</CelebrationPartyDanceTech.outcomeChances.3.label>
+	<CelebrationPartyDanceTech.outcomeChances.3.description>{0} thật đáng nhớ! Những người nhảy múa quên mình trong âm nhạc, trải nghiệm này đã gắn kết mọi người lại với nhau.</CelebrationPartyDanceTech.outcomeChances.3.description>
+	<CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Sau khi trải qua những điệu nhảy vui vẻ, mọi người đều cảm thấy sảng khoái. Người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+	<CelebrationSkyLanterns.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</CelebrationSkyLanterns.description>
+	<CelebrationSkyLanterns.comps.0.label>Số lượng người tham gia</CelebrationSkyLanterns.comps.0.label>
+	<CelebrationSkyLanterns.extraInfoLines.0>Mỗi người tham gia sẽ sử dụng 4 thanh gỗ để làm một chiếc đèn trời.</CelebrationSkyLanterns.extraInfoLines.0>
+	<CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Nếu {0} đẹp hoặc đáng nhớ, đèn trời có thể thu hút một nhóm khách du lịch thân thiện đến thăm.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+	<CelebrationSkyLanterns.outcomeChances.0.label>Kém</CelebrationSkyLanterns.outcomeChances.0.label>
+	<CelebrationSkyLanterns.outcomeChances.0.description>{0} quá tệ! Mọi người gặp rắc rối khi làm đèn trời, sản phẩm cuối cùng trông giống như rác thải bay trong gió.</CelebrationSkyLanterns.outcomeChances.0.description>
+	<CelebrationSkyLanterns.outcomeChances.1.label>Nhàm chán</CelebrationSkyLanterns.outcomeChances.1.label>
+	<CelebrationSkyLanterns.outcomeChances.1.description>{0} rất nhàm chán. Thời gian làm đèn trời của người tham gia quá lâu, tất cả đều trở nên vô nghĩa.</CelebrationSkyLanterns.outcomeChances.1.description>
+	<CelebrationSkyLanterns.outcomeChances.2.label>Đẹp</CelebrationSkyLanterns.outcomeChances.2.label>
+	<CelebrationSkyLanterns.outcomeChances.2.description>{0} rất đẹp. Nhìn đèn trời bay đi, mọi người cảm thấy vui vẻ.</CelebrationSkyLanterns.outcomeChances.2.description>
+	<CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Đèn trời bay cao và sáng. Khách du lịch thân thiện có thể nhìn thấy chúng và đến thăm thuộc địa của bạn với quà tặng.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+	<CelebrationSkyLanterns.outcomeChances.3.label>Đáng nhớ</CelebrationSkyLanterns.outcomeChances.3.label>
+	<CelebrationSkyLanterns.outcomeChances.3.description>{0} thật ấn tượng! Việc làm đèn trời thật vui vẻ, tâm trạng của mỗi người tham gia cũng tăng cao.</CelebrationSkyLanterns.outcomeChances.3.description>
+	<CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Đèn trời bay cao và sáng. Khách du lịch thân thiện có thể nhìn thấy chúng và đến thăm thuộc địa của bạn với quà tặng.</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+	<ConnectToTree.description>Người cộng hưởng sẽ cộng hưởng với cây mẹ.</ConnectToTree.description>
+	<ConnectToTree.comps.0.label>Số lượng người tham gia</ConnectToTree.comps.0.label>
+	<ConnectToTree.extraPredictedOutcomeDescriptions.0>Độ mạnh cộng hưởng ban đầu của người cộng hưởng sẽ nằm trong khoảng 25-45%, tùy thuộc vào hiệu quả của nghi lễ.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+	<ConnectToTree.extraPredictedOutcomeDescriptions.1>Nếu hiệu quả nghi lễ tăng 2%, một mảng rêu cây mẹ sẽ mọc gần đó, làm đẹp cho khu vực này.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+	<Conversion.description>Nếu tiến triển thuận lợi, mức độ công nhận hình thái văn hóa của mục tiêu sẽ giảm, hoặc họ sẽ thay đổi niềm tin. Nếu tiến triển không thuận lợi, họ sẽ càng kiên định với niềm tin cũ của mình.</Conversion.description>
+	<Conversion.comps.0.label>Phòng đáng nhớ</Conversion.comps.0.label>
+	<Conversion.comps.1.label>Số lượng người tham gia</Conversion.comps.1.label>
+	<Conversion.comps.2.label>Ảnh hưởng xã hội của {PAWN_labelShort}</Conversion.comps.2.label>
+	<Conversion.comps.2.labelAbstract>Ảnh hưởng xã hội của người diễn thuyết</Conversion.comps.2.labelAbstract>
+	<Conversion.comps.3.label>Ảnh hưởng xã hội của {PAWN_labelShort}</Conversion.comps.3.label>
+	<Conversion.comps.3.labelAbstract>Kỳ vọng của người cải đạo</Conversion.comps.3.labelAbstract>
+	<Conversion.outcomeChances.0.label>Kém</Conversion.outcomeChances.0.label>
+	<Conversion.outcomeChances.0.description>{0} quá tệ! Ngay từ đầu, đây là một cuộc tranh luận không có kết quả. Nó thật ngượng ngùng và kéo dài rất lâu.</Conversion.outcomeChances.0.description>
+	<Conversion.outcomeChances.1.label>Không hiệu quả</Conversion.outcomeChances.1.label>
+	<Conversion.outcomeChances.1.description>{0} không có tác dụng gì. Hầu hết các lập luận không rõ ràng, do đó bị người cải đạo phản bác.</Conversion.outcomeChances.1.description>
+	<Conversion.outcomeChances.2.label>Hiệu quả</Conversion.outcomeChances.2.label>
+	<Conversion.outcomeChances.2.description>{0} rõ ràng có hiệu quả. Người diễn thuyết đưa ra lập luận vững chắc, rõ ràng làm lung lay niềm tin của người cải đạo, và khiến người tham gia vui vẻ hơn.</Conversion.outcomeChances.2.description>
+	<Conversion.outcomeChances.3.label>Xuất sắc</Conversion.outcomeChances.3.label>
+	<Conversion.outcomeChances.3.description>{0} xuất sắc! Niềm tin cũ dường như bị lung lay một cách dễ dàng, niềm tin thực sự của chúng ta đã được chấp nhận.</Conversion.outcomeChances.3.description>
+	<DestroyConsumableBuilding.description>Mục tiêu của nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding.description>
+	<DestroyConsumableBuilding.comps.0.label>Số lượng người tham gia</DestroyConsumableBuilding.comps.0.label>
+	<DestroyConsumableBuilding.comps.1.label>Phòng ấn tượng</DestroyConsumableBuilding.comps.1.label>
+	<DestroyConsumableBuilding.outcomeChances.0.label>Kém</DestroyConsumableBuilding.outcomeChances.0.label>
+	<DestroyConsumableBuilding.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</DestroyConsumableBuilding.outcomeChances.0.description>
+	<DestroyConsumableBuilding.outcomeChances.1.label>Nhàm chán</DestroyConsumableBuilding.outcomeChances.1.label>
+	<DestroyConsumableBuilding.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</DestroyConsumableBuilding.outcomeChances.1.description>
+	<DestroyConsumableBuilding.outcomeChances.2.label>Thú vị</DestroyConsumableBuilding.outcomeChances.2.label>
+	<DestroyConsumableBuilding.outcomeChances.2.description>{0} rất thú vị. Mọi người đều rất vui khi được thư giãn cùng nhau.</DestroyConsumableBuilding.outcomeChances.2.description>
+	<DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding.outcomeChances.3.label>
+	<DestroyConsumableBuilding.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</DestroyConsumableBuilding.outcomeChances.3.description>
+	<DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_Burnbong.description>Mục tiêu của nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_Burnbong.description>
+	<DestroyConsumableBuilding_Burnbong.comps.0.label>Số lượng người tham gia</DestroyConsumableBuilding_Burnbong.comps.0.label>
+	<DestroyConsumableBuilding_Burnbong.comps.1.label>Phòng ấn tượng</DestroyConsumableBuilding_Burnbong.comps.1.label>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>Kém</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>Nhàm chán</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>Thú vị</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>{0} rất thú vị. Mỗi người tham gia đều rất vui khi được thư giãn cùng nhau.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+	<DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_CannibalPlatter.description>Mục tiêu của nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_CannibalPlatter.description>
+	<DestroyConsumableBuilding_CannibalPlatter.comps.0.label>Số lượng người tham gia</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+	<DestroyConsumableBuilding_CannibalPlatter.comps.1.label>Phòng ấn tượng</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>Kém</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>Nhàm chán</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>Thú vị</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>{0} rất thú vị. Mỗi người tham gia đều rất vui khi được thư giãn cùng nhau.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+	<DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_ChristmasTree.description>Mục tiêu của nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_ChristmasTree.description>
+	<DestroyConsumableBuilding_ChristmasTree.comps.0.label>Số lượng người tham gia</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+	<DestroyConsumableBuilding_ChristmasTree.comps.1.label>Ấn tượng của phòng</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>Kém</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>Nhàm chán</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>Thú vị</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>{0} rất thú vị. Mỗi người tham gia đều rất vui khi được thư giãn cùng nhau.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+	<DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_Pyre.description>Mục tiêu của nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_Pyre.description>
+	<DestroyConsumableBuilding_Pyre.comps.0.label>Số lượng người tham gia</DestroyConsumableBuilding_Pyre.comps.0.label>
+	<DestroyConsumableBuilding_Pyre.comps.1.label>Phòng ấn tượng</DestroyConsumableBuilding_Pyre.comps.1.label>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.0.label>Kém</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0} rất tệ! Người tham gia phải chịu đựng nhiều giờ căng thẳng chờ đợi bài phát biểu kết thúc.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.1.label>Nhàm chán</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0} rất nhàm chán. Người tham gia cảm thấy xấu hổ nhưng không dám cười lớn.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.2.label>Thú vị</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.2.description>{0} rất thú vị. Mỗi người tham gia đều rất vui khi được thư giãn cùng nhau.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.3.description>{0} thật đáng nhớ. Mỗi người tham gia đều hiểu nhau, như thể đang ở trong một gia đình lớn.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+	<DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+	<Execution.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</Execution.description>
+	<Execution.comps.0.label>Số lượng người tham gia</Execution.comps.0.label>
+	<Execution.comps.1.label>Bắt đầu nghi lễ từ bàn thờ hoặc hình ảnh biểu tượng</Execution.comps.1.label>
+	<Execution.comps.1.expectedThingLabelTip>Một bàn thờ và văn tự phù phép</Execution.comps.1.expectedThingLabelTip>
+	<Execution.outcomeChances.0.label>Ngượng ngùng</Execution.outcomeChances.0.label>
+	<Execution.outcomeChances.0.description>{0} rất ngượng ngùng. Khi hành hình, người thi hành đã trượt chân, cố gắng phục hồi lại sức lực. Tất cả đều là hành động không hợp lý.</Execution.outcomeChances.0.description>
+	<Execution.outcomeChances.1.label>Thỏa mãn</Execution.outcomeChances.1.label>
+	<Execution.outcomeChances.1.description>{0} thỏa mãn. Mọi người đều cảm nhận được rằng công lý đã được duy trì.</Execution.outcomeChances.1.description>
+	<Execution.outcomeChances.2.label>Cuốn hút</Execution.outcomeChances.2.label>
+	<Execution.outcomeChances.2.description>{0} cuốn hút! Chỉ cần một cú đánh nhẹ, mọi người đều cảm thấy sức mạnh của công lý đồng hành với họ.</Execution.outcomeChances.2.description>
+	<GladiatorDuel.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</GladiatorDuel.description>
+	<GladiatorDuel.comps.0.label>Số lượng người tham gia</GladiatorDuel.comps.0.label>
+	<GladiatorDuel.comps.1.label>Lãnh đạo tham dự</GladiatorDuel.comps.1.label>
+	<GladiatorDuel.comps.2.label>Đấu đến chết</GladiatorDuel.comps.2.label>
+	<GladiatorDuel.comps.3.label>Vũ khí đã sử dụng</GladiatorDuel.comps.3.label>
+	<GladiatorDuel.extraPredictedOutcomeDescriptions.0>Các đấu sĩ và khán giả sẽ nhận được kinh nghiệm cận chiến.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+	<GladiatorDuel.extraPredictedOutcomeDescriptions.1>Tâm trạng của khán giả sẽ được nâng cao, giá trị giải trí liên quan của họ cũng sẽ đầy đủ.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+	<GladiatorDuel.outcomeChances.0.label>Kém</GladiatorDuel.outcomeChances.0.label>
+	<GladiatorDuel.outcomeChances.0.description>Cuộc đấu quá tệ! Các đấu sĩ đi lùi đi tới, vụng về né tránh các đòn tấn công của nhau, đây là biểu hiện của sự nhút nhát và yếu đuối, chỉ khiến khán giả cảm thấy thất vọng.</GladiatorDuel.outcomeChances.0.description>
+	<GladiatorDuel.outcomeChances.1.label>Nhàm chán</GladiatorDuel.outcomeChances.1.label>
+	<GladiatorDuel.outcomeChances.1.description>Cuộc đấu này rất nhàm chán. Các đấu sĩ không muốn thực hiện nghĩa vụ của mình, vì vậy không có điểm nhấn hấp dẫn nào.</GladiatorDuel.outcomeChances.1.description>
+	<GladiatorDuel.outcomeChances.2.label>Xuất sắc</GladiatorDuel.outcomeChances.2.label>
+	<GladiatorDuel.outcomeChances.2.description>Cuộc đấu rất xuất sắc. Các đấu sĩ đã thể hiện tham vọng thực sự của họ bằng chính máu của mình.</GladiatorDuel.outcomeChances.2.description>
+	<GladiatorDuel.outcomeChances.3.label>Đáng nhớ</GladiatorDuel.outcomeChances.3.label>
+	<GladiatorDuel.outcomeChances.3.description>Cuộc đấu này thật khó quên! Cả hai đấu sĩ đã cống hiến tất cả, sự hy sinh của họ thể hiện tinh thần cống hiến của họ.</GladiatorDuel.outcomeChances.3.description>
+	<RoleChange.description>Một vị trí mới sẽ được chỉ định cho người định cư.</RoleChange.description>
+	<RoleChange.comps.0.label>Số lượng khán giả yêu cầu</RoleChange.comps.0.label>
+	<RoleChange.extraPredictedOutcomeDescriptions.0>Thay đổi vị trí phải có số lượng người tham dự nhất định mới có hiệu lực.</RoleChange.extraPredictedOutcomeDescriptions.0>
+	<RoleChange.outcomeChances.0.label>Thất bại</RoleChange.outcomeChances.0.label>
+	<RoleChange.outcomeChances.0.description>Thay đổi vị trí không nhận đủ sự chú ý từ {IDEO_memberNamePlural}.</RoleChange.outcomeChances.0.description>
+	<RoleChange.outcomeChances.1.label>Thành công</RoleChange.outcomeChances.1.label>
+	<RoleChange.outcomeChances.1.description>Thay đổi vị trí có hiệu lực.</RoleChange.outcomeChances.1.description>
+	<Sacrifice.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</Sacrifice.description>
+	<Sacrifice.comps.2.label>Lãnh đạo tham dự</Sacrifice.comps.2.label>
+	<Sacrifice.comps.3.label>Số lượng người tham gia</Sacrifice.comps.3.label>
+	<Sacrifice.comps.4.label>Bắt đầu nghi lễ từ bàn thờ</Sacrifice.comps.4.label>
+	<Sacrifice.comps.4.expectedThingLabelTip>Một bàn thờ</Sacrifice.comps.4.expectedThingLabelTip>
+	<Sacrifice.extraPredictedOutcomeDescriptions.0>Nếu {0} thỏa mãn, một trong những người tham gia có thể nhận được cảm hứng.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+	<Sacrifice.outcomeChances.0.label>Kém</Sacrifice.outcomeChances.0.label>
+	<Sacrifice.outcomeChances.0.description>{0} thật tệ! Bài phát biểu lắp bắp, không mạch lạc, và phương pháp hành hình rất nghiệp dư. Thời gian chết của nạn nhân quá lâu — bây giờ mọi người đều mong chờ nghi lễ kết thúc.</Sacrifice.outcomeChances.0.description>
+	<Sacrifice.outcomeChances.1.label>Nhàm chán</Sacrifice.outcomeChances.1.label>
+	<Sacrifice.outcomeChances.1.description>{0} rất nhàm chán. Bài phát biểu lặp đi lặp lại, phương pháp hành hình có nhiều thiếu sót rõ ràng, khiến nghi lễ trở nên không đứng đắn.</Sacrifice.outcomeChances.1.description>
+	<Sacrifice.outcomeChances.2.label>Thỏa mãn</Sacrifice.outcomeChances.2.label>
+	<Sacrifice.outcomeChances.2.description>{0} thỏa mãn. Bài phát biểu mang lại cảm giác có ý nghĩa, phương pháp hành hình mạnh mẽ và đầy uy nghi.</Sacrifice.outcomeChances.2.description>
+	<Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+	<Sacrifice.outcomeChances.3.label>Hoành tráng</Sacrifice.outcomeChances.3.label>
+	<Sacrifice.outcomeChances.3.description>{0} thật hoành tráng! Bài phát biểu đưa mọi người đến bờ vực điên cuồng, ngay khi lưỡi dao hạ xuống, máu văng ra như nước được thần linh thanh tẩy.</Sacrifice.outcomeChances.3.description>
+	<Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội ngẫu nhiên một người tham gia sẽ nhận được cảm hứng.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+	<ScarificationCeremony.description>Người tham gia sẽ nhận được từ {MOODDAYS} ngày {MINMOOD} đến {MAXMOOD} điểm tâm trạng, tùy thuộc vào hiệu quả của nghi lễ.</ScarificationCeremony.description>
+	<ScarificationCeremony.comps.2.label>Lãnh đạo tham dự</ScarificationCeremony.comps.2.label>
+	<ScarificationCeremony.comps.3.label>Số lượng người tham gia</ScarificationCeremony.comps.3.label>
+	<ScarificationCeremony.comps.4.label>Bắt đầu nghi lễ từ bàn thờ</ScarificationCeremony.comps.4.label>
+	<ScarificationCeremony.comps.4.expectedThingLabelTip>Một bàn thờ</ScarificationCeremony.comps.4.expectedThingLabelTip>
+	<ScarificationCeremony.outcomeChances.0.label>Kém</ScarificationCeremony.outcomeChances.0.label>
+	<ScarificationCeremony.outcomeChances.0.description>{0} thật tệ! Bài phát biểu lắp bắp, không mạch lạc, nghi lễ đã bị thất bại. Bây giờ mọi người đều mong chờ nghi lễ kết thúc.</ScarificationCeremony.outcomeChances.0.description>
+	<ScarificationCeremony.outcomeChances.1.label>Nhàm chán</ScarificationCeremony.outcomeChances.1.label>
+	<ScarificationCeremony.outcomeChances.1.description>{0} rất nhàm chán. Nội dung bài phát biểu lặp đi lặp lại, nghi lễ có nhiều thiếu sót rõ ràng. Điều này khiến mọi người cảm thấy không đứng đắn.</ScarificationCeremony.outcomeChances.1.description>
+	<ScarificationCeremony.outcomeChances.2.label>Thỏa mãn</ScarificationCeremony.outcomeChances.2.label>
+	<ScarificationCeremony.outcomeChances.2.description>{0} thỏa mãn. Bài phát biểu mang lại cảm giác có ý nghĩa, nghi lễ diễn ra rất trang nghiêm.</ScarificationCeremony.outcomeChances.2.description>
+	<ScarificationCeremony.outcomeChances.3.label>Hoành tráng</ScarificationCeremony.outcomeChances.3.label>
+	<ScarificationCeremony.outcomeChances.3.description>{0} thật hoành tráng! Khi người cầm dao khéo léo cắt mở thịt người sống, bài phát biểu đưa mọi người đến bờ vực điên cuồng.</ScarificationCeremony.outcomeChances.3.description>
+	<Trial.description>Chất lượng của phiên tòa quyết định khả năng bị cáo bị kết tội.</Trial.description>
+	<Trial.comps.0.label>Số lượng người tham gia</Trial.comps.0.label>
+	<Trial.comps.1.label>{PAWN_labelShort} khả năng thương lượng</Trial.comps.1.label>
+	<Trial.comps.1.labelAbstract>Khả năng thương lượng của lãnh đạo</Trial.comps.1.labelAbstract>
+	<Trial.comps.2.label>{PAWN_labelShort} khả năng thương lượng</Trial.comps.2.label>
+	<Trial.comps.2.labelAbstract>Khả năng thương lượng của bị cáo</Trial.comps.2.labelAbstract>
+	<Trial.outcomeChances.0.label>Được chứng minh vô tội</Trial.outcomeChances.0.label>
+	<Trial.outcomeChances.0.description>Luận điểm của công tố viên không thuyết phục được ai. {PAWN_labelShort} được chứng minh vô tội.</Trial.outcomeChances.0.description>
+	<Trial.outcomeChances.1.label>Bị kết tội</Trial.outcomeChances.1.label>
+	<Trial.outcomeChances.1.description>Bằng chứng của bên công tố khiến mọi người tin rằng {PAWN_labelShort} có tội. {PAWN_labelShort} bị kết tội, bây giờ anh ta có thể bị trừng phạt. Bạn có thể xử án hoặc lưu đày {PAWN_objective}, không ai sẽ quan tâm.</Trial.outcomeChances.1.description>
+	<TrialMentalState.description>Chất lượng của phiên tòa quyết định khả năng bị cáo bị kết tội.</TrialMentalState.description>
+	<TrialMentalState.comps.0.label>Số lượng người tham gia</TrialMentalState.comps.0.label>
+	<TrialMentalState.comps.1.label>{PAWN_labelShort} khả năng thương lượng</TrialMentalState.comps.1.label>
+	<TrialMentalState.comps.1.labelAbstract>Khả năng thương lượng của lãnh đạo</TrialMentalState.comps.1.labelAbstract>
+	<TrialMentalState.outcomeChances.0.label>Được chứng minh vô tội</TrialMentalState.outcomeChances.0.label>
+	<TrialMentalState.outcomeChances.0.description>Luận điểm của công tố viên không thuyết phục được ai. {PAWN_labelShort} được chứng minh vô tội.</TrialMentalState.outcomeChances.0.description>
+	<TrialMentalState.outcomeChances.1.label>Bị kết tội</TrialMentalState.outcomeChances.1.label>
+	<TrialMentalState.outcomeChances.1.description>Bằng chứng của bên công tố khiến mọi người tin rằng {PAWN_labelShort} có tội. {PAWN_labelShort} bị kết tội, bây giờ anh ta có thể bị trừng phạt. Bạn có thể xử án hoặc lưu đày {PAWN_objective}, không ai sẽ quan tâm.</TrialMentalState.outcomeChances.1.description>
+</LanguageData>

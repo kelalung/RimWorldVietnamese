@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Apparel_PackBandwidth.label>Băng thông ba lô</Apparel_PackBandwidth.label>
+<Apparel_PackBandwidth.description>Ba lô chứa máy tính mở rộng băng thông và ăng-ten tín hiệu. Nó có thể tăng cường giới hạn băng thông của kỹ sư.</Apparel_PackBandwidth.description>
+<Apparel_PackControl.label>Ba lô điều khiển CNC</Apparel_PackControl.label>
+<Apparel_PackControl.description>Ba lô chứa bộ điều khiển hỗ trợ máy móc. Nó có thể cung cấp cho kỹ sư một bộ điều khiển bổ sung.</Apparel_PackControl.description>
+<Apparel_PackTox.label>Ba lô khí độc</Apparel_PackTox.label>
+<Apparel_PackTox.description>Một loại ba lô có thể tái sử dụng chứa bình hóa chất và thiết bị phát khí độc. Khi được kích hoạt, nó sẽ liên tục phát ra khí độc trong vài giây, cho đến khi hóa chất hoàn toàn cạn kiệt.\n\nNgười đeo có thể nạp nhiên liệu hóa hợp để bổ sung số lần sử dụng của ba lô.\n\nKhí độc sẽ làm bỏng mắt và phổi của sinh vật, tạm thời giảm khả năng nhìn và hô hấp. Việc tiếp xúc lâu dài với khí độc cũng có thể gây ngộ độc.</Apparel_PackTox.description>
+<Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>Ba lô khí độc</Apparel_PackTox.comps.CompApparelReloadable.chargeNoun>
+<Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_PackTox.comps.CompApparelReloadable.cooldownGerund>
+<Apparel_PackTox.verbs.deploy_tox_pack.label>Phát khí độc</Apparel_PackTox.verbs.deploy_tox_pack.label>
+</LanguageData>

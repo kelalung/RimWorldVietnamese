@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BerserkWarcall.label>Gào thét điên cuồng</BerserkWarcall.label>
+<BerserkWarcall.baseInspectLine>Trạng thái tinh thần: Gào thét điên cuồng</BerserkWarcall.baseInspectLine>
+<BerserkWarcall.beginLetter>{0} đã bị gào thét điên cuồng kích thích.\n\n[PAWN_pronoun] sẽ tấn công bất kỳ ai là kẻ thù của thuộc địa.</BerserkWarcall.beginLetter>
+<BerserkWarcall.recoveryMessage>{0} không còn điên cuồng nữa.</BerserkWarcall.recoveryMessage>
+<CocoonDisturbed.label>Rối loạn kén</CocoonDisturbed.label>
+<CocoonDisturbed.baseInspectLine>Kích thích: Rối loạn kén</CocoonDisturbed.baseInspectLine>
+<PanicFleeFire.label>Trốn chạy khỏi lửa</PanicFleeFire.label>
+<PanicFleeFire.baseInspectLine>Trạng thái tinh thần: Trốn chạy khỏi lửa</PanicFleeFire.baseInspectLine>
+<PanicFleeFire.beginLetter>{0} đang trốn chạy khỏi lửa.</PanicFleeFire.beginLetter>
+<PanicFleeFire.beginLetterLabel>Trốn chạy khỏi lửa</PanicFleeFire.beginLetterLabel>
+<PanicFleeFire.recoveryMessage>{0} không còn trốn chạy khỏi lửa nữa.</PanicFleeFire.recoveryMessage>
+</LanguageData>

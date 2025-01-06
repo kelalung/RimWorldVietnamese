@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LessonInteractionCommonSituations.rulePack.rulesStrings>
+    <li>situation(p=2)-&gt;An toàn</li>
+    <li>situation-&gt;Vào buổi tối</li>
+    <li>situation-&gt;Trong gió lạnh</li>
+    <li>situation-&gt;Khi bị thương</li>
+    <li>situation(p=0.2)-&gt;Khi say rượu</li>
+</LessonInteractionCommonSituations.rulePack.rulesStrings>
+<LessonInteractionHowTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)-&gt;[INITIATOR_nameDef][teach_adverb] dạy [RECIPIENT_nameDef][teach_verb] cách[action][article_tool].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] dạy [RECIPIENT_nameDef][teach_verb] cách[action][article_tool].</li>
+</LessonInteractionHowTo.rulePack.rulesStrings>
+<LessonInteractionQuiz.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)-&gt;[INITIATOR_nameDef][teach_test][RECIPIENT_nameDef] cách[situation][action_gerund][article_tool].</li>
+    <li>teach_test-&gt;Hỏi</li>
+    <li>teach_test-&gt;Kiểm tra</li>
+    <li>teach_test-&gt;Thử thách</li>
+    <li>teach_test-&gt;Thẩm vấn</li>
+</LessonInteractionQuiz.rulePack.rulesStrings>
+<LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)-&gt;[INITIATOR_nameDef][teach_adverb] và [RECIPIENT_nameDef][study_verb][subject].</li>
+    <li>r_logentry(p=0.5)-&gt;[INITIATOR_nameDef] và [RECIPIENT_nameDef][study_verb][subject].</li>
+    <li>study_verb-&gt;Thực hành</li>
+    <li>study_verb-&gt;Ôn lại</li>
+    <li>study_verb-&gt;Nghiên cứu</li>
+    <li>study_verb-&gt;Học</li>
+</LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+<LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+    <li>teach_adverb-&gt;Bình tĩnh</li>
+    <li>teach_adverb-&gt;Sống động</li>
+    <li>teach_adverb-&gt;Tập trung</li>
+    <li>teach_adverb-&gt;Nhanh chóng</li>
+    <li>teach_adverb-&gt;Dễ dàng</li>
+    <li>teach_adverb-&gt;Cẩn thận</li>
+</LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+<LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+    <li>teach_verb-&gt;Chứng minh</li>
+    <li>teach_verb-&gt;Giải thích</li>
+    <li>teach_verb-&gt;Trình bày</li>
+    <li>teach_verb-&gt;Dạy</li>
+</LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+<LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)-&gt;[INITIATOR_nameDef] nói với [RECIPIENT_nameDef][teach_adverb][talk_verb][subject].</li>
+    <li>r_logentry(p=0.5)-&gt;[INITIATOR_nameDef] nói với [RECIPIENT_nameDef][talk_verb][subject].</li>
+    <li>talk_verb-&gt;Nói về</li>
+    <li>talk_verb-&gt;Tóm tắt về</li>
+    <li>talk_verb-&gt;Tổng kết về</li>
+    <li>talk_verb-&gt;Báo cáo về</li>
+</LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+</LanguageData>

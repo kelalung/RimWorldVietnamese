@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdministeredDrug_Horrible.stages.administered_drug.label>Đưa ma túy cho người khác</AdministeredDrug_Horrible.stages.administered_drug.label>
+<AdministeredDrug_Horrible.stages.administered_drug.description>Tôi đã đưa ma túy cho người khác. Đây là sự xúc phạm đối với niềm tin của tôi!</AdministeredDrug_Horrible.stages.administered_drug.description>
+<AdministeredDrug_Know_Horrible.stages.administered_drug.label>Đưa ma túy cho người khác</AdministeredDrug_Know_Horrible.stages.administered_drug.label>
+<AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>Đưa ma túy mạnh cho người khác</AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>
+<AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>Tôi đã đưa ma túy mạnh cho người khác — không phải để chữa bệnh, cũng không phải để giao tiếp. Đây thực sự là sự xúc phạm đối với niềm tin của tôi!</AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>
+<AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>Đưa ma túy mạnh cho người khác</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>
+<AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>Đưa ma túy giải trí cho người khác</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>
+<AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>Tôi đã đưa ma túy giải trí cho người khác. Đây là sự xúc phạm đối với niềm tin của tôi!</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>
+<AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>Đưa ma túy giải trí cho người khác</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>
+<IngestedDrug_Horrible.stages.used_drug.label>Sử dụng ma túy</IngestedDrug_Horrible.stages.used_drug.label>
+<IngestedDrug_Horrible.stages.used_drug.description>Tôi đã sử dụng ma túy. Đây là sự xúc phạm đối với niềm tin của tôi.</IngestedDrug_Horrible.stages.used_drug.description>
+<IngestedDrug_Know_Horrible.stages.used_drug.label>Sử dụng ma túy</IngestedDrug_Know_Horrible.stages.used_drug.label>
+<IngestedHardDrug_Horrible.stages.used_hard_drug.label>Sử dụng ma túy mạnh</IngestedHardDrug_Horrible.stages.used_hard_drug.label>
+<IngestedHardDrug_Horrible.stages.used_hard_drug.description>Tôi đã sử dụng ma túy mạnh — không phải để chữa bệnh, cũng không phải để giao tiếp. Đây thực sự là sự xúc phạm đối với niềm tin của tôi!</IngestedHardDrug_Horrible.stages.used_hard_drug.description>
+<IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>Sử dụng ma túy mạnh</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>
+<IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>Sử dụng ma túy giải trí</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>
+<IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>Tôi đã sử dụng ma túy giải trí. Đây là sự xúc phạm đối với niềm tin của tôi.</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>
+<IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>Sử dụng ma túy giải trí</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>
+</LanguageData>

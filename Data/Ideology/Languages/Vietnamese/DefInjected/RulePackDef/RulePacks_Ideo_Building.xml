@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerAltar.rulePack.rulesStrings>
+		<li>buildingName-&gt;Bàn thờ</li>
+		<li>buildingName-&gt;Thần đài</li>
+		<li>buildingName-&gt;Thánh đài</li>
+		<li>buildingName-&gt;Đài cao</li>
+	</NamerAltar.rulePack.rulesStrings>
+	<NamerBurnTarget.rulePack.rulesStrings>
+		<li>buildingName-&gt;Tượng totem</li>
+		<li>buildingName-&gt;Tượng thần</li>
+		<li>buildingName-&gt;Đống lửa</li>
+	</NamerBurnTarget.rulePack.rulesStrings>
+	<NamerCannibalPlatter.rulePack.rulesStrings>
+		<li>buildingName-&gt;Đĩa lớn</li>
+		<li>buildingName-&gt;Đĩa ăn</li>
+		<li>buildingName-&gt;Tiệc tùng</li>
+		<li>buildingName-&gt;Đĩa thịt người</li>
+	</NamerCannibalPlatter.rulePack.rulesStrings>
+	<NamerChristmasTree.rulePack.rulesStrings>
+		<li>buildingName-&gt;Cây</li>
+		<li>buildingName-&gt;Cây thông</li>
+	</NamerChristmasTree.rulePack.rulesStrings>
+	<NamerIdeoBuilding.rulePack.rulesStrings>
+		<li>r_ideoBuildingName(p=2)-&gt;[memeAdjective][buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[chosenTheme][buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[chosenAdjective][buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[keyDeity][buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[keyDeity] của [buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[memeConcept] của [buildingName]</li>
+		<li>r_ideoBuildingName-&gt;[chosenIdeoName][buildingName]</li>
+	</NamerIdeoBuilding.rulePack.rulesStrings>
+	<NamerIdeogram.rulePack.rulesStrings>
+		<li>buildingName-&gt;Biểu tượng</li>
+		<li>buildingName-&gt;Ký hiệu</li>
+		<li>buildingName-&gt;Dấu ấn</li>
+		<li>buildingName-&gt;Hình dạng</li>
+		<li>buildingName-&gt;Huy hiệu</li>
+		<li>buildingName-&gt;Hình ảnh</li>
+		<li>buildingName-&gt;Dấu hiệu</li>
+		<li>buildingName-&gt;Biểu trưng</li>
+	</NamerIdeogram.rulePack.rulesStrings>
+	<NamerIdeoSculpture.rulePack.rulesStrings>
+		<li>buildingName-&gt;Tượng</li>
+		<li>buildingName-&gt;Điêu khắc</li>
+		<li>buildingName-&gt;Điêu khắc</li>
+		<li>buildingName-&gt;Hình</li>
+		<li>buildingName-&gt;Hình</li>
+		<li>buildingName-&gt;Hình</li>
+	</NamerIdeoSculpture.rulePack.rulesStrings>
+	<NamerSmoker.rulePack.rulesStrings>
+		<li>buildingName-&gt;Người hút thuốc</li>
+		<li>buildingName-&gt;Người thả khói</li>
+		<li>buildingName-&gt;Người nghiện thuốc</li>
+		<li>buildingName-&gt;Người hút thuốc</li>
+	</NamerSmoker.rulePack.rulesStrings>
+</LanguageData>

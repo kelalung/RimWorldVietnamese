@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Heart.label>Tim</Heart.label>
+	<Heart.description>Một trái tim có nguồn gốc từ con người, chịu trách nhiệm cung cấp máu và oxy đến các vị trí khác nhau trong cơ thể.</Heart.description>
+	<Kidney.label>Thận</Kidney.label>
+	<Kidney.description>Một quả thận có nguồn gốc từ con người, chịu trách nhiệm lọc và loại bỏ chất thải trong máu.</Kidney.description>
+	<Liver.label>Gan</Liver.label>
+	<Liver.description>Một cái gan có nguồn gốc từ con người, đóng vai trò quan trọng trong quá trình trao đổi chất.</Liver.description>
+	<Lung.label>Phổi</Lung.label>
+	<Lung.description>Một cái phổi có nguồn gốc từ con người, là một phần quan trọng của hệ hô hấp.</Lung.description>
+</LanguageData>

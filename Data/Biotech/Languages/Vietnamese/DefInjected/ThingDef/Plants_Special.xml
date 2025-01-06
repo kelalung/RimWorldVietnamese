@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChoppedStump_Polux.label>Gốc cây Polux bị chặt</ChoppedStump_Polux.label>
+<ChoppedStump_Polux.description>Một gốc cây Polux còn lại sau khi cây bị chặt. Gốc cây có thể được chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ dần dần lão hóa theo thời gian.</ChoppedStump_Polux.description>
+<Plant_TreePolux.label>Cây Polux</Plant_TreePolux.label>
+<Plant_TreePolux.description>Loại cây này đã trải qua nhiều thế hệ thích nghi và tiến hóa, có khả năng chuyển hóa chất ô nhiễm thành dinh dưỡng, và có thể làm sạch từ từ khu vực ô nhiễm xung quanh nhờ vào hệ thống rễ phát triển mạnh. Tuy nhiên, nếu có cấu trúc nhân tạo ở trên hệ thống rễ, khả năng này sẽ không hoạt động.\n\nCây Polux không tạo ra rác thải độc hại khi làm sạch khu vực ô nhiễm.</Plant_TreePolux.description>
+<PoluxSeed.label>Hạt cây Polux</PoluxSeed.label>
+<PoluxSeed.description>Hạt của cây Polux, khi được trồng sẽ nảy mầm thành cây Polux mới. Loại cây này có thể làm sạch từ từ khu vực ô nhiễm xung quanh nhờ vào hệ thống rễ phát triển mạnh.</PoluxSeed.description>
+<SmashedStump_Polux.label>Gốc cây Polux bị nghiền nát</SmashedStump_Polux.label>
+<SmashedStump_Polux.description>Một gốc cây Polux còn lại sau khi cây bị phá hủy. Nó trông không đẹp. Gốc cây có thể được chặt, nhưng chỉ thu hoạch được một lượng gỗ nhỏ. Gốc cây ở ngoài trời sẽ dần dần lão hóa theo thời gian.</SmashedStump_Polux.description>
+</LanguageData>

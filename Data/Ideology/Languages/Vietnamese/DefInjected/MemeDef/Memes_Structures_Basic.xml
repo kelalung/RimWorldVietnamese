@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Structure_Animist.label>Vạn vật hữu linh</Structure_Animist.label>
+<Structure_Animist.description>Linh hồn tồn tại trong mọi thứ xung quanh chúng ta. Chúng có mặt trong thực vật và động vật, trong dòng sông và cây cối, trên bầu trời và các vì sao. Cấu trúc đạo đức của vũ trụ bắt nguồn từ sự cần thiết phải tôn trọng chúng.</Structure_Animist.description>
+<Structure_Animist.generalRules.rulesStrings.0>memeLeaderNoun-&gt;Trợ lý thầy tế</Structure_Animist.generalRules.rulesStrings.0>
+<Structure_Animist.generalRules.rulesStrings.1>memeLeaderNoun-&gt;Người phát ngôn</Structure_Animist.generalRules.rulesStrings.1>
+<Structure_Animist.generalRules.rulesStrings.2>memeLeaderAdjective-&gt;Vũ trụ</Structure_Animist.generalRules.rulesStrings.2>
+<Structure_Animist.generalRules.rulesStrings.3>memeLeaderAdjective-&gt;Linh hồn</Structure_Animist.generalRules.rulesStrings.3>
+<Structure_Animist.generalRules.rulesStrings.4>memeLeaderAdjective-&gt;Gắn liền với linh hồn</Structure_Animist.generalRules.rulesStrings.4>
+<Structure_Animist.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;Linh</Structure_Animist.generalRules.rulesStrings.5>
+<Structure_Animist.generalRules.rulesStrings.6>memeMoralist-&gt;Shaman</Structure_Animist.generalRules.rulesStrings.6>
+<Structure_Animist.generalRules.rulesStrings.7>memeMoralist-&gt;Thầy tế</Structure_Animist.generalRules.rulesStrings.7>
+<Structure_Animist.generalRules.rulesStrings.8>memeMoralist-&gt;Người cao tuổi</Structure_Animist.generalRules.rulesStrings.8>
+<Structure_Animist.symbolPacks.0.adjective>Linh</Structure_Animist.symbolPacks.0.adjective>
+<Structure_Animist.symbolPacks.0.member>Người thông linh</Structure_Animist.symbolPacks.0.member>
+<Structure_Animist.symbolPacks.0.theme>Linh</Structure_Animist.symbolPacks.0.theme>
+<Structure_Animist.symbolPacks.1.adjective>Hồn</Structure_Animist.symbolPacks.1.adjective>
+<Structure_Animist.symbolPacks.1.member>Người thông hồn</Structure_Animist.symbolPacks.1.member>
+<Structure_Animist.symbolPacks.1.theme>Hồn</Structure_Animist.symbolPacks.1.theme>
+<Structure_Animist.worshipRoomLabel>Đền thờ</Structure_Animist.worshipRoomLabel>
+<Structure_Archist.label>Thần giáo cơ khí</Structure_Archist.label>
+<Structure_Archist.description>Trí tuệ siêu phàm chính là thần linh thực sự. Chúng biết cấu trúc đạo đức của vũ trụ, và phục vụ cho nó là cách chúng ta kết nối với vũ trụ.</Structure_Archist.description>
+<Structure_Archist.generalRules.rulesStrings.0>memeAdjective-&gt;Siêu phàm</Structure_Archist.generalRules.rulesStrings.0>
+<Structure_Archist.generalRules.rulesStrings.1>memeAdjective-&gt;Công nghệ siêu phàm</Structure_Archist.generalRules.rulesStrings.1>
+<Structure_Archist.generalRules.rulesStrings.2>memeAdjective-&gt;Cơ khí siêu phàm</Structure_Archist.generalRules.rulesStrings.2>
+<Structure_Archist.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;Siêu phàm</Structure_Archist.generalRules.rulesStrings.3>
+<Structure_Archist.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;Siêu phàm</Structure_Archist.generalRules.rulesStrings.4>
+<Structure_Archist.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Người siêu phàm</Structure_Archist.generalRules.rulesStrings.5>
+<Structure_Archist.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Kỹ sư công nghệ siêu phàm</Structure_Archist.generalRules.rulesStrings.6>
+<Structure_Archist.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;Siêu phàm</Structure_Archist.generalRules.rulesStrings.7>
+<Structure_Archist.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;Màu dị</Structure_Archist.generalRules.rulesStrings.8>
+<Structure_Archist.generalRules.rulesStrings.9>memeMoralist-&gt;Cha sứ</Structure_Archist.generalRules.rulesStrings.9>
+<Structure_Archist.generalRules.rulesStrings.10>memeMoralist-&gt;Thánh chức</Structure_Archist.generalRules.rulesStrings.10>
+<Structure_Archist.generalRules.rulesStrings.11>memeMoralist-&gt;Mục sư</Structure_Archist.generalRules.rulesStrings.11>
+<Structure_Archist.generalRules.rulesStrings.12>memeMoralist-&gt;Thầy tu</Structure_Archist.generalRules.rulesStrings.12>
+<Structure_Archist.symbolPacks.0.adjective>Công nghệ siêu phàm</Structure_Archist.symbolPacks.0.adjective>
+<Structure_Archist.symbolPacks.0.ideoName>Công nghệ siêu phàm</Structure_Archist.symbolPacks.0.ideoName>
+<Structure_Archist.symbolPacks.0.member>Người truyền bá siêu phàm</Structure_Archist.symbolPacks.0.member>
+<Structure_Archist.symbolPacks.0.theme>Công nghệ siêu phàm</Structure_Archist.symbolPacks.0.theme>
+<Structure_Archist.symbolPacks.1.adjective>Siêu phàm</Structure_Archist.symbolPacks.1.adjective>
+<Structure_Archist.symbolPacks.1.ideoName>Người theo chủ nghĩa siêu phàm</Structure_Archist.symbolPacks.1.ideoName>
+<Structure_Archist.symbolPacks.1.member>Người siêu phàm</Structure_Archist.symbolPacks.1.member>
+<Structure_Archist.symbolPacks.1.theme>Siêu phàm</Structure_Archist.symbolPacks.1.theme>
+<Structure_Archist.worshipRoomLabel>Nơi thờ phụng</Structure_Archist.worshipRoomLabel>
+<Structure_Ideological.label>Vô thần luận</Structure_Ideological.label>
+<Structure_Ideological.description>Thế giới này hoàn toàn không có thần linh. Cấu trúc đạo đức của vũ trụ tồn tại trong những câu chuyện vĩ đại về sức mạnh xã hội của chúng ta.</Structure_Ideological.description>
+<Structure_Ideological.generalRules.rulesStrings.0>memeHyphenPrefix-&gt;Văn hóa</Structure_Ideological.generalRules.rulesStrings.0>
+<Structure_Ideological.generalRules.rulesStrings.1>memeLeaderNoun-&gt;Ý chí</Structure_Ideological.generalRules.rulesStrings.1>
+<Structure_Ideological.generalRules.rulesStrings.2>memeLeaderNoun-&gt;Người quyết định</Structure_Ideological.generalRules.rulesStrings.2>
+<Structure_Ideological.generalRules.rulesStrings.3>memeLeaderNoun-&gt;Lãnh đạo</Structure_Ideological.generalRules.rulesStrings.3>
+<Structure_Ideological.generalRules.rulesStrings.4>memeLeaderAdjective-&gt;Đạo đức</Structure_Ideological.generalRules.rulesStrings.4>
+<Structure_Ideological.generalRules.rulesStrings.5>memeLeaderAdjective-&gt;Đạo lý</Structure_Ideological.generalRules.rulesStrings.5>
+<Structure_Ideological.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;Thức tỉnh</Structure_Ideological.generalRules.rulesStrings.6>
+<Structure_Ideological.generalRules.rulesStrings.7>memeMoralist-&gt;Cố vấn</Structure_Ideological.generalRules.rulesStrings.7>
+<Structure_Ideological.generalRules.rulesStrings.8>memeMoralist-&gt;Nhà đạo đức học</Structure_Ideological.generalRules.rulesStrings.8>
+<Structure_Ideological.generalRules.rulesStrings.9>memeMoralist-&gt;Người có đạo đức</Structure_Ideological.generalRules.rulesStrings.9>
+<Structure_Ideological.generalRules.rulesStrings.10>memeMoralist-&gt;Nhà triết học</Structure_Ideological.generalRules.rulesStrings.10>
+<Structure_Ideological.generalRules.rulesStrings.11>memeMoralist-&gt;Nhà tư tưởng</Structure_Ideological.generalRules.rulesStrings.11>
+<Structure_Ideological.generalRules.rulesStrings.12>memeMoralist-&gt;Học giả</Structure_Ideological.generalRules.rulesStrings.12>
+<Structure_Ideological.generalRules.rulesStrings.13>memeMoralist-&gt;Người thông thái</Structure_Ideological.generalRules.rulesStrings.13>
+<Structure_Ideological.symbolPacks.0.adjective>Đạo đức</Structure_Ideological.symbolPacks.0.adjective>
+<Structure_Ideological.symbolPacks.0.ideoName>Đạo đức</Structure_Ideological.symbolPacks.0.ideoName>
+<Structure_Ideological.symbolPacks.0.member>Người theo chủ nghĩa đạo đức</Structure_Ideological.symbolPacks.0.member>
+<Structure_Ideological.symbolPacks.0.theme>Đạo đức</Structure_Ideological.symbolPacks.0.theme>
+<Structure_Ideological.symbolPacks.1.adjective>Vô thần</Structure_Ideological.symbolPacks.1.adjective>
+<Structure_Ideological.symbolPacks.1.ideoName>Vô thần</Structure_Ideological.symbolPacks.1.ideoName>
+<Structure_Ideological.symbolPacks.1.member>Người vô thần</Structure_Ideological.symbolPacks.1.member>
+<Structure_Ideological.symbolPacks.1.theme>Vô thần</Structure_Ideological.symbolPacks.1.theme>
+<Structure_Ideological.symbolPacks.2.adjective>Công lý</Structure_Ideological.symbolPacks.2.adjective>
+<Structure_Ideological.symbolPacks.2.ideoName>Công lý</Structure_Ideological.symbolPacks.2.ideoName>
+<Structure_Ideological.symbolPacks.2.member>Người theo chủ nghĩa công lý</Structure_Ideological.symbolPacks.2.member>
+<Structure_Ideological.symbolPacks.2.theme>Công lý</Structure_Ideological.symbolPacks.2.theme>
+<Structure_Ideological.worshipRoomLabel>Nơi thờ phụng</Structure_Ideological.worshipRoomLabel>
+<Structure_TheistAbstract.label>Thần luận trừu tượng</Structure_TheistAbstract.label>
+<Structure_TheistAbstract.description>Thần linh không có hình thái vật lý, nhưng lại hiện diện khắp nơi. Chúng biết tất cả mọi thứ và không gì là không thể. Ý chí của chúng quyết định cấu trúc đạo đức của vũ trụ.</Structure_TheistAbstract.description>
+<Structure_TheistAbstract.generalRules.rulesStrings.0>memeCreed-&gt;Đền thờ</Structure_TheistAbstract.generalRules.rulesStrings.0>
+<Structure_TheistAbstract.generalRules.rulesStrings.1>memeCreed-&gt;Giáo hội</Structure_TheistAbstract.generalRules.rulesStrings.1>
+<Structure_TheistAbstract.generalRules.rulesStrings.2>memeCreed-&gt;Sự thờ phụng</Structure_TheistAbstract.generalRules.rulesStrings.2>
+<Structure_TheistAbstract.generalRules.rulesStrings.3>memeCreed-&gt;Niềm tin</Structure_TheistAbstract.generalRules.rulesStrings.3>
+<Structure_TheistAbstract.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;Thần học</Structure_TheistAbstract.generalRules.rulesStrings.4>
+<Structure_TheistAbstract.generalRules.rulesStrings.5>memeConcept-&gt;Sáng tạo</Structure_TheistAbstract.generalRules.rulesStrings.5>
+<Structure_TheistAbstract.generalRules.rulesStrings.6>memeConcept-&gt;Sự sống</Structure_TheistAbstract.generalRules.rulesStrings.6>
+<Structure_TheistAbstract.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Giám mục</Structure_TheistAbstract.generalRules.rulesStrings.7>
+<Structure_TheistAbstract.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Hồng y</Structure_TheistAbstract.generalRules.rulesStrings.8>
+<Structure_TheistAbstract.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Giáo hoàng</Structure_TheistAbstract.generalRules.rulesStrings.9>
+<Structure_TheistAbstract.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Giám mục</Structure_TheistAbstract.generalRules.rulesStrings.10>
+<Structure_TheistAbstract.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;Thần thánh</Structure_TheistAbstract.generalRules.rulesStrings.11>
+<Structure_TheistAbstract.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;Thánh thiện</Structure_TheistAbstract.generalRules.rulesStrings.12>
+<Structure_TheistAbstract.generalRules.rulesStrings.13>memeMoralist-&gt;Thầy tu</Structure_TheistAbstract.generalRules.rulesStrings.13>
+<Structure_TheistAbstract.generalRules.rulesStrings.14>memeMoralist-&gt;Giáo sĩ</Structure_TheistAbstract.generalRules.rulesStrings.14>
+<Structure_TheistAbstract.generalRules.rulesStrings.15>memeMoralist-&gt;Người truyền giáo</Structure_TheistAbstract.generalRules.rulesStrings.15>
+<Structure_TheistAbstract.generalRules.rulesStrings.16>memeMoralist-&gt;Trụ trì</Structure_TheistAbstract.generalRules.rulesStrings.16>
+<Structure_TheistAbstract.generalRules.rulesStrings.17>memeMoralist-&gt;Mục sư</Structure_TheistAbstract.generalRules.rulesStrings.17>
+<Structure_TheistAbstract.generalRules.rulesStrings.18>memeMoralist-&gt;Thầy tu</Structure_TheistAbstract.generalRules.rulesStrings.18>
+<Structure_TheistAbstract.symbolPacks.0.adjective>Tinh thần</Structure_TheistAbstract.symbolPacks.0.adjective>
+<Structure_TheistAbstract.symbolPacks.0.ideoName>Chủ nghĩa tinh thần</Structure_TheistAbstract.symbolPacks.0.ideoName>
+<Structure_TheistAbstract.symbolPacks.0.member>Người theo chủ nghĩa tinh thần</Structure_TheistAbstract.symbolPacks.0.member>
+<Structure_TheistAbstract.symbolPacks.0.theme>Tinh thần</Structure_TheistAbstract.symbolPacks.0.theme>
+<Structure_TheistAbstract.symbolPacks.1.adjective>Niềm tin</Structure_TheistAbstract.symbolPacks.1.adjective>
+<Structure_TheistAbstract.symbolPacks.1.ideoName>Niềm tin</Structure_TheistAbstract.symbolPacks.1.ideoName>
+<Structure_TheistAbstract.symbolPacks.1.member>Người theo niềm tin</Structure_TheistAbstract.symbolPacks.1.member>
+<Structure_TheistAbstract.symbolPacks.1.theme>Niềm tin</Structure_TheistAbstract.symbolPacks.1.theme>
+<Structure_TheistAbstract.symbolPacks.2.adjective>Thánh thiện</Structure_TheistAbstract.symbolPacks.2.adjective>
+<Structure_TheistAbstract.symbolPacks.2.ideoName>Chủ nghĩa thánh thiện</Structure_TheistAbstract.symbolPacks.2.ideoName>
+<Structure_TheistAbstract.symbolPacks.2.member>Người thánh thiện</Structure_TheistAbstract.symbolPacks.2.member>
+<Structure_TheistAbstract.symbolPacks.2.theme>Thánh thiện</Structure_TheistAbstract.symbolPacks.2.theme>
+<Structure_TheistAbstract.symbolPacks.3.adjective>Thần thánh</Structure_TheistAbstract.symbolPacks.3.adjective>
+<Structure_TheistAbstract.symbolPacks.3.ideoName>Chủ nghĩa thần thánh</Structure_TheistAbstract.symbolPacks.3.ideoName>
+<Structure_TheistAbstract.symbolPacks.3.member>Người thần thánh</Structure_TheistAbstract.symbolPacks.3.member>
+<Structure_TheistAbstract.symbolPacks.3.theme>Thần thánh</Structure_TheistAbstract.symbolPacks.3.theme>
+<Structure_TheistAbstract.worshipRoomLabel>Đền thờ</Structure_TheistAbstract.worshipRoomLabel>
+<Structure_TheistEmbodied.label>Thần luận cụ thể</Structure_TheistEmbodied.label>
+<Structure_TheistEmbodied.description>Thần linh đi lại như chúng ta trên hành tinh này, nhưng chúng vô hạn và bất tử, trong khi chúng ta thì không. Chúng quyết định cấu trúc đạo đức của vũ trụ.</Structure_TheistEmbodied.description>
+<Structure_TheistEmbodied.generalRules.rulesStrings.0>memeCreed-&gt;Giáo hội</Structure_TheistEmbodied.generalRules.rulesStrings.0>
+<Structure_TheistEmbodied.generalRules.rulesStrings.1>memeCreed-&gt;Sự thờ phụng</Structure_TheistEmbodied.generalRules.rulesStrings.1>
+<Structure_TheistEmbodied.generalRules.rulesStrings.2>memeCreed-&gt;Đền thờ</Structure_TheistEmbodied.generalRules.rulesStrings.2>
+<Structure_TheistEmbodied.generalRules.rulesStrings.3>memeCreed-&gt;Niềm tin</Structure_TheistEmbodied.generalRules.rulesStrings.3>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;Thần học</Structure_TheistEmbodied.generalRules.rulesStrings.4>
+<Structure_TheistEmbodied.generalRules.rulesStrings.5>memeConcept-&gt;Sáng tạo</Structure_TheistEmbodied.generalRules.rulesStrings.5>
+<Structure_TheistEmbodied.generalRules.rulesStrings.6>memeConcept-&gt;Sự sống</Structure_TheistEmbodied.generalRules.rulesStrings.6>
+<Structure_TheistEmbodied.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Kỵ sĩ đền thờ</Structure_TheistEmbodied.generalRules.rulesStrings.7>
+<Structure_TheistEmbodied.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;Thần thánh</Structure_TheistEmbodied.generalRules.rulesStrings.8>
+<Structure_TheistEmbodied.generalRules.rulesStrings.9>memeMoralist-&gt;Cha sứ</Structure_TheistEmbodied.generalRules.rulesStrings.9>
+<Structure_TheistEmbodied.generalRules.rulesStrings.10>memeMoralist-&gt;Giáo sĩ</Structure_TheistEmbodied.generalRules.rulesStrings.10>
+<Structure_TheistEmbodied.symbolPacks.0.adjective>Tinh thần</Structure_TheistEmbodied.symbolPacks.0.adjective>
+<Structure_TheistEmbodied.symbolPacks.0.ideoName>Chủ nghĩa tinh thần</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+<Structure_TheistEmbodied.symbolPacks.0.member>Người theo chủ nghĩa tinh thần</Structure_TheistEmbodied.symbolPacks.0.member>
+<Structure_TheistEmbodied.symbolPacks.0.theme>Tinh thần</Structure_TheistEmbodied.symbolPacks.0.theme>
+<Structure_TheistEmbodied.symbolPacks.1.adjective>Niềm tin</Structure_TheistEmbodied.symbolPacks.1.adjective>
+<Structure_TheistEmbodied.symbolPacks.1.ideoName>Niềm tin</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+<Structure_TheistEmbodied.symbolPacks.1.member>Người theo niềm tin</Structure_TheistEmbodied.symbolPacks.1.member>
+<Structure_TheistEmbodied.symbolPacks.1.theme>Niềm tin</Structure_TheistEmbodied.symbolPacks.1.theme>
+<Structure_TheistEmbodied.worshipRoomLabel>Đền thờ vạn thần</Structure_TheistEmbodied.worshipRoomLabel>
+</LanguageData>

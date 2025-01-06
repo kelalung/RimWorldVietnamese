@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BestStockpile.label>Đặt vào kho lưu trữ phù hợp nhất</BestStockpile.label>
+	<DropOnFloor.label>Đặt xuống đất</DropOnFloor.label>
+	<SpecificStockpile.label>Đặt vào {0}</SpecificStockpile.label>
+</LanguageData>

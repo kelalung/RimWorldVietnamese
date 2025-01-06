@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BerserkTrance.label>Trạng thái cuồng nộ</BerserkTrance.label>
+<BerserkTrance.description>Bởi sự công nhận mạnh mẽ về lý tưởng đạo đức và sự không hài lòng nghiêm trọng với tín điều văn hóa, người này đã đẩy bản thân vào trạng thái tức giận. Mỗi cơ bắp của họ đều ở trạng thái đỉnh cao, nhưng giờ đây rất khó để bình tĩnh lại.</BerserkTrance.description>
+<CombatCommand.label>Ra lệnh chiến đấu</CombatCommand.label>
+<CombatCommand.description>Bằng cách khuyến khích và chỉ huy các đồng minh xung quanh, người này có thể nâng cao sự tập trung trong chiến đấu của họ, từ đó cải thiện hiệu suất chiến đấu của họ.</CombatCommand.description>
+<CombatCommandBuff.label>Buff lệnh chiến đấu</CombatCommandBuff.label>
+<CombatCommandBuff.description>Do gần gũi với người đang sử dụng khả năng lệnh chiến đấu, khả năng chiến đấu của họ sẽ được nâng cao.</CombatCommandBuff.description>
+<FarmingCommand.label>Ra lệnh nông nghiệp</FarmingCommand.label>
+<FarmingCommand.description>Người này đang cung cấp hướng dẫn kỹ thuật canh tác, nâng cao khả năng canh tác của tất cả mọi người xung quanh.</FarmingCommand.description>
+<FarmingCommandBuff.label>Buff lệnh nông nghiệp</FarmingCommandBuff.label>
+<FarmingCommandBuff.description>Khả năng canh tác của người này đã được nâng cao nhờ sự gần gũi với người đang sử dụng khả năng lệnh nông nghiệp.</FarmingCommandBuff.description>
+<ImmunityDrive.label>Kích thích miễn dịch</ImmunityDrive.label>
+<ImmunityDrive.description>Người này đã nhận được sự hỗ trợ tư tưởng từ tín điều văn hóa. Niềm tin kiên định của họ làm cho cơ thể tràn đầy sức sống, nâng cao khả năng miễn dịch của bản thân.</ImmunityDrive.description>
+<MarksmanCommand.label>Ra lệnh xạ thủ</MarksmanCommand.label>
+<MarksmanCommand.description>Người này đang sử dụng khả năng đặc biệt để gọi lệnh bắn. Mọi người trong phạm vi hiệu ứng sẽ nhận được phần thưởng bắn.</MarksmanCommand.description>
+<MarksmanCommandBuff.label>Buff lệnh xạ thủ</MarksmanCommandBuff.label>
+<MarksmanCommandBuff.description>Do có người ở gần đang sử dụng khả năng lệnh xạ thủ, khả năng bắn của người này đã được nâng cao.</MarksmanCommandBuff.description>
+<MiningCommand.label>Ra lệnh khai thác</MiningCommand.label>
+<MiningCommand.description>Người này đang cung cấp hướng dẫn kỹ thuật khai thác, nâng cao tốc độ khai thác của tất cả mọi người xung quanh.</MiningCommand.description>
+<MiningCommandBuff.label>Buff lệnh khai thác</MiningCommandBuff.label>
+<MiningCommandBuff.description>Khả năng khai thác của người này đã được nâng cao nhờ sự gần gũi với người đang sử dụng khả năng lệnh khai thác.</MiningCommandBuff.description>
+<PreachHealth.label>Giảng dạy sức khỏe</PreachHealth.label>
+<PreachHealth.description>Người này đã tăng cường ý chí sinh tồn của họ bằng cách nói chuyện với người hướng dẫn đạo đức trong hình thái văn hóa của họ. Sự kiên định của niềm tin này đã nâng cao hiệu suất chữa trị và miễn dịch của họ.</PreachHealth.description>
+<ProductionCommand.label>Ra lệnh sản xuất</ProductionCommand.label>
+<ProductionCommand.description>Người này đang cung cấp hướng dẫn kỹ thuật chế tạo, nâng cao khả năng xây dựng và sản xuất của tất cả mọi người xung quanh.</ProductionCommand.description>
+<ProductionCommandBuff.label>Buff lệnh sản xuất</ProductionCommandBuff.label>
+<ProductionCommandBuff.description>Khả năng xây dựng và sản xuất của người này đã được nâng cao nhờ sự gần gũi với người đang sử dụng khả năng lệnh sản xuất.</ProductionCommandBuff.description>
+<ResearchCommand.label>Ra lệnh nghiên cứu</ResearchCommand.label>
+<ResearchCommand.description>Người này đang sử dụng khả năng đặc biệt để cung cấp lời khuyên và hỗ trợ tinh thần, nâng cao tốc độ nghiên cứu của tất cả mọi người xung quanh.</ResearchCommand.description>
+<ResearchCommandBuff.label>Lệnh nghiên cứu</ResearchCommandBuff.label>
+<ResearchCommandBuff.description>Khả năng nghiên cứu của người này đã được nâng cao vì có người đang sử dụng khả năng lệnh nghiên cứu gần đó.</ResearchCommandBuff.description>
+<WorkDrive.label>Kích thích làm việc</WorkDrive.label>
+<WorkDrive.description>Cảm giác được lãnh đạo yêu cầu làm việc chăm chỉ hơn.</WorkDrive.description>
+</LanguageData>

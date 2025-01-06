@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Blacksmith72.description>Với tư cách là một thợ rèn trong thế giới trung cổ, [PAWN_nameDef] nổi tiếng với những vũ khí chất lượng cao. [PAWN_pronoun] cũng có kỹ năng sử dụng vũ khí khá tốt.</Blacksmith72.description>
+	<Blacksmith72.baseDesc>Với tư cách là một thợ rèn trong thế giới trung cổ, [PAWN_nameDef] nổi tiếng với những vũ khí chất lượng cao. [PAWN_pronoun] cũng có kỹ năng sử dụng vũ khí khá tốt.</Blacksmith72.baseDesc>
+	<Blacksmith72.title>Thợ rèn trung cổ</Blacksmith72.title>
+	<Blacksmith72.titleShort>Thợ rèn</Blacksmith72.titleShort>
+	<Herbalist54.description>[PAWN_nameDef] sống trong rừng gần làng. Mặc dù hầu hết dân làng rất sợ [PAWN_objective], nhưng khi bị bệnh, họ sẽ mua thuốc mỡ làm từ thảo dược mà [PAWN_pronoun] trồng trong vườn. [PAWN_pronoun] cũng sẵn lòng giúp đỡ dân làng - tất nhiên, không phải miễn phí.</Herbalist54.description>
+	<Herbalist54.baseDesc>[PAWN_nameDef] sống trong rừng gần làng. Mặc dù hầu hết dân làng rất sợ [PAWN_objective], nhưng khi bị bệnh, họ sẽ mua thuốc mỡ làm từ thảo dược mà [PAWN_pronoun] trồng trong vườn. [PAWN_pronoun] cũng sẵn lòng giúp đỡ dân làng - tất nhiên, không phải miễn phí.</Herbalist54.baseDesc>
+	<Herbalist54.title>Nhà thảo dược</Herbalist54.title>
+	<Herbalist54.titleShort>Nhà thảo dược</Herbalist54.titleShort>
+	<MedievalDoctor40.description>[PAWN_nameDef] là một bác sĩ trên hành tinh trung cổ. [PAWN_pronoun] kiên quyết rằng hầu hết các bệnh nhẹ có thể được chữa trị bằng một liệu pháp máu nhỏ. \n\n[PAWN_pronoun] cũng là một chuyên gia gây mê, phát triển một phương pháp gây mê đặc biệt - đánh mạnh vào đầu.</MedievalDoctor40.description>
+	<MedievalDoctor40.baseDesc>[PAWN_nameDef] là một bác sĩ trên hành tinh trung cổ. [PAWN_pronoun] kiên quyết rằng hầu hết các bệnh nhẹ có thể được chữa trị bằng một liệu pháp máu nhỏ. \n\n[PAWN_pronoun] cũng là một chuyên gia gây mê, phát triển một phương pháp gây mê đặc biệt - đánh mạnh vào đầu.</MedievalDoctor40.baseDesc>
+	<MedievalDoctor40.title>Bác sĩ trung cổ</MedievalDoctor40.title>
+	<MedievalDoctor40.titleShort>Bác sĩ tồi</MedievalDoctor40.titleShort>
+	<MedievalFarmOaf58.description>Canh tác, cày đất, chăn bò, đẩy xe tay, đào mương, gieo hạt và thu hoạch. \n\nNông nô trung cổ thường không được giáo dục, nhưng hiểu biết nhiều phương pháp trồng trọt không cần kỹ thuật. Điều này có nghĩa là cuộc sống như vậy khiến [PAWN_nameDef] gần như không thể tham gia vào các hoạt động trí tuệ và kỹ thuật.</MedievalFarmOaf58.description>
+	<MedievalFarmOaf58.baseDesc>Canh tác, cày đất, chăn bò, đẩy xe tay, đào mương, gieo hạt và thu hoạch. \n\nNông nô trung cổ thường không được giáo dục, nhưng hiểu biết nhiều phương pháp trồng trọt không cần kỹ thuật. Điều này có nghĩa là cuộc sống như vậy khiến [PAWN_nameDef] gần như không thể tham gia vào các hoạt động trí tuệ và kỹ thuật.</MedievalFarmOaf58.baseDesc>
+	<MedievalFarmOaf58.title>Nông nô trung cổ</MedievalFarmOaf58.title>
+	<MedievalFarmOaf58.titleShort>Nông nô</MedievalFarmOaf58.titleShort>
+	<MedievalLord57.description>[PAWN_nameDef] là một lãnh chúa trên hành tinh chưa công nghiệp hóa. [PAWN_pronoun] tham gia tiệc tùng, quản lý thuộc hạ và thậm chí biết vài chiêu kiếm thuật. \n\nĐôi tay mỏng manh của [PAWN_possessive] chưa bao giờ chạm vào một công cụ nào. [PAWN_pronoun] cho rằng lao động chân tay là không phù hợp với [PAWN_objective].</MedievalLord57.description>
+	<MedievalLord57.baseDesc>[PAWN_nameDef] là một lãnh chúa trên hành tinh chưa công nghiệp hóa. [PAWN_pronoun] tham gia tiệc tùng, quản lý thuộc hạ và thậm chí biết vài chiêu kiếm thuật. \n\nĐôi tay mỏng manh của [PAWN_possessive] chưa bao giờ chạm vào một công cụ nào. [PAWN_pronoun] cho rằng lao động chân tay là không phù hợp với [PAWN_objective].</MedievalLord57.baseDesc>
+	<MedievalLord57.title>Lãnh chúa trung cổ</MedievalLord57.title>
+	<MedievalLord57.titleShort>Quý tộc</MedievalLord57.titleShort>
+	<MedievalMinstrel95.description>[PAWN_nameDef] là một nghệ sĩ du lịch trong thế giới trung cổ. \n\n[PAWN_pronoun] luôn có thể tìm thấy chủ đề cho câu chuyện hoặc bài hát, và có khả năng tự bảo vệ mình trong những chuyến đi nguy hiểm. Tuy nhiên, mỗi khi có công việc nặng nhọc, [PAWN_pronoun] luôn vắng mặt.</MedievalMinstrel95.description>
+	<MedievalMinstrel95.baseDesc>[PAWN_nameDef] là một nghệ sĩ du lịch trong thế giới trung cổ. \n\n[PAWN_pronoun] luôn có thể tìm thấy chủ đề cho câu chuyện hoặc bài hát, và có khả năng tự bảo vệ mình trong những chuyến đi nguy hiểm. Tuy nhiên, mỗi khi có công việc nặng nhọc, [PAWN_pronoun] luôn vắng mặt.</MedievalMinstrel95.baseDesc>
+	<MedievalMinstrel95.title>Nhà thơ trung cổ</MedievalMinstrel95.title>
+	<MedievalMinstrel95.titleShort>Nhà thơ</MedievalMinstrel95.titleShort>
+	<MedievalSailor97.description>[PAWN_nameDef] đam mê khám phá biển, thu thập mẫu động thực vật và đôi khi chống lại sự tấn công của cướp biển. [PAWN_pronoun] yêu biển đến mức không thể đảm nhiệm hầu hết các công việc trên đất liền - ngoại trừ việc bán những báu vật mà mình thu thập được cho người khác.</MedievalSailor97.description>
+	<MedievalSailor97.baseDesc>[PAWN_nameDef] đam mê khám phá biển, thu thập mẫu động thực vật và đôi khi chống lại sự tấn công của cướp biển. [PAWN_pronoun] yêu biển đến mức không thể đảm nhiệm hầu hết các công việc trên đất liền - ngoại trừ việc bán những báu vật mà mình thu thập được cho người khác.</MedievalSailor97.baseDesc>
+	<MedievalSailor97.title>Thủy thủ trung cổ</MedievalSailor97.title>
+	<MedievalSailor97.titleShort>Thủy thủ</MedievalSailor97.titleShort>
+	<MessageCarrier77.description>Trong thế giới trung cổ, cách nhanh nhất để truyền đạt thông tin là giao nó cho một người cưỡi ngựa và cầu nguyện rằng [PAWN_pronoun] không chết trên đường. [PAWN_nameDef] chính là người cưỡi ngựa đó.</MessageCarrier77.description>
+	<MessageCarrier77.baseDesc>Trong thế giới trung cổ, cách nhanh nhất để truyền đạt thông tin là giao nó cho một người cưỡi ngựa và cầu nguyện rằng [PAWN_pronoun] không chết trên đường. [PAWN_nameDef] chính là người cưỡi ngựa đó.</MessageCarrier77.baseDesc>
+	<MessageCarrier77.title>Người đưa tin trung cổ</MessageCarrier77.title>
+	<MessageCarrier77.titleShort>Người đưa tin</MessageCarrier77.titleShort>
+	<Taster16.description>Với tư cách là một người thử món ăn phục vụ cho nhà vua trung cổ, bất kỳ món nào được đưa lên bàn ăn hoàng gia đều phải được [PAWN_nameDef] nếm thử trước. [PAWN_pronoun] sống một cuộc sống lười biếng trong cung điện, trở nên béo phì và lười biếng.</Taster16.description>
+	<Taster16.baseDesc>Với tư cách là một người thử món ăn phục vụ cho nhà vua trung cổ, bất kỳ món nào được đưa lên bàn ăn hoàng gia đều phải được [PAWN_nameDef] nếm thử trước. [PAWN_pronoun] sống một cuộc sống lười biếng trong cung điện, trở nên béo phì và lười biếng.</Taster16.baseDesc>
+	<Taster16.title>Người thử món ăn của vương quốc</Taster16.title>
+	<Taster16.titleShort>Người thử món ăn</Taster16.titleShort>
+</LanguageData>

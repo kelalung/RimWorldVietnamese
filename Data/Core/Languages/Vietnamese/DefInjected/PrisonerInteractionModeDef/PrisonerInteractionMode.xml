@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttemptRecruit.label>Chiêu mộ</AttemptRecruit.label>
+	<AttemptRecruit.description>Quản giáo sẽ cố gắng chiêu mộ tù nhân. Nếu tù nhân vẫn còn tâm lý chống đối, quản giáo sẽ nói chuyện với họ để giảm bớt tâm lý chống đối.</AttemptRecruit.description>
+	<Execution.label>Thi hành án</Execution.label>
+	<Execution.description>Quản giáo sẽ thi hành án tử hình đối với tù nhân này. Điều này sẽ ảnh hưởng đến tâm trạng của các tù nhân và thực dân khác.</Execution.description>
+	<MaintainOnly.label>Duy trì sự sống</MaintainOnly.label>
+	<MaintainOnly.description>Quản giáo chỉ cung cấp thực phẩm cho tù nhân, đáp ứng nhu cầu cơ bản của họ, không thực hiện bất kỳ tương tác nào khác.</MaintainOnly.description>
+	<ReduceResistance.label>Giảm bớt kháng cự</ReduceResistance.label>
+	<ReduceResistance.description>Nếu tù nhân vẫn còn tâm lý chống đối, quản giáo sẽ nói chuyện với họ để giảm bớt sự phản kháng. Sẽ không có nỗ lực chiêu mộ nào được thực hiện.</ReduceResistance.description>
+	<Release.label>Thả tự do</Release.label>
+	<Release.description>Một quản giáo sẽ thả tự do cho tù nhân.</Release.description>
+</LanguageData>

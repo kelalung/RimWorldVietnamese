@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HateChantDroneLevel_None>Không</HateChantDroneLevel_None>
+	<HateChantDroneLevel_VeryLow>Thì thầm</HateChantDroneLevel_VeryLow>
+	<HateChantDroneLevel_Low>Nhỏ giọng</HateChantDroneLevel_Low>
+	<HateChantDroneLevel_Medium>Ngâm nga</HateChantDroneLevel_Medium>
+	<HateChantDroneLevel_High>Cao giọng</HateChantDroneLevel_High>
+	<HateChantDroneLevel_Extreme>Hét lên</HateChantDroneLevel_Extreme>
+	<MonolithGenerationMethod_Disabled>Đã tắt</MonolithGenerationMethod_Disabled>
+	<MonolithGenerationMethod_NearColonists>Gần các người định cư</MonolithGenerationMethod_NearColonists>
+</LanguageData>

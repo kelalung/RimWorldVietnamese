@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hack_WorshippedTerminal.questContentRules.rulesStrings>
+<li>terminalHackedMessage-&gt; Máy chủ đã bị xâm nhập. Bạn đã nhận được thông tin, bây giờ bạn có thể rời đi.</li>
+</Hack_WorshippedTerminal.questContentRules.rulesStrings>
+<Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn đã biết có một máy chủ cổ đại gần đó ẩn chứa thông tin bí mật về [relic_name]. Tuy nhiên, máy chủ này bị bao quanh bởi một ngôi làng bộ lạc và được người dân địa phương tôn kính. Họ không thuộc về bất kỳ phe phái lớn nào.\n\n[visitInfo]</li>
+    <li>visitInfo(allowViolentQuests==true)-&gt;Họ chỉ cho phép bạn đến thăm máy chủ với lý do hành hương. Nếu bạn tiếp xúc với máy chủ, họ sẽ tấn công bạn.\n\nBạn có thể tấn công ngôi làng từ bên ngoài, hoặc vào làng một cách hòa bình và cố gắng lấy dữ liệu nhanh chóng từ bên trong.\n\nCảnh giác: Nếu bạn ở lại trong làng quá [timer_duration] hoặc xây dựng bất kỳ công trình nào gần đó, người dân địa phương sẽ tấn công và gọi viện trợ.</li>
+    <li>visitInfo(allowViolentQuests==false)-&gt;Họ cho phép bạn tham quan.</li>
+  </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj][terminalName]</li>
+    <li>adj-&gt; Được tôn kính</li>
+    <li>adj-&gt; Được kính trọng</li>
+    <li>adj-&gt; Cổ xưa</li>
+    <li>adj-&gt; Của dân làng</li>
+    <li>adj-&gt; Của ngôi làng</li>
+    <li>adj-&gt; Của bộ lạc</li>
+    <li>adj-&gt; Huyền bí</li>
+	<li>terminalName(p=4)-&gt; Máy chủ</li>
+	<li>terminalName-&gt; Máy móc </li>
+    <li>terminalName-&gt; Thiết bị</li>
+    <li>terminalName-&gt; Màn hình</li>
+    <li>terminalName-&gt; Máy tính</li>
+    <li>terminalName-&gt; Cơ sở dữ liệu</li>
+    <li>terminalName-&gt; Kho dữ liệu</li>
+    <li>terminalName-&gt; Thiết bị silicon</li>
+  </Hack_WorshippedTerminal.questNameRules.rulesStrings>
+</LanguageData>

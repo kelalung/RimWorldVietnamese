@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DrillArm.label>Cánh Tay Khoan</DrillArm.label>
+<DrillArm.description>Một cánh tay máy tăng tốc độ khoan. Được trang bị một mũi khoan hình rắn, giúp thợ mỏ tìm thấy điểm yếu trong đá nhanh hơn. Ngoài ra còn có một bàn tay máy đa năng, hơi vụng về, điều này sẽ ảnh hưởng một chút đến khả năng di chuyển.</DrillArm.description>
+<ElbowBlade.label>Dao Khuỷu</ElbowBlade.label>
+<ElbowBlade.description>Một lưỡi dao có thể co giãn tùy ý ở đầu khuỷu tay, có thể bật ra một cách yên lặng, có thể được sử dụng cho việc cắt phá hoại.</ElbowBlade.description>
+<FieldHand.label>Tay Nông Nghiệp</FieldHand.label>
+<FieldHand.description>Một bàn tay máy có thể tăng tốc độ gieo trồng và thu hoạch, nhiều đầu ngón tay có thể thu hoạch từ nhiều điểm của một cây, hoặc đồng thời gieo nhiều cây. Ngoài ra còn có một bàn tay máy đa năng, hơi vụng về, điều này sẽ ảnh hưởng một chút đến khả năng di chuyển.</FieldHand.description>
+<HandTalon.label>Móng Tay</HandTalon.label>
+<HandTalon.description>Các móng vuốt nhô ra từ ngón giữa và ngón đeo nhẫn, móng vuốt dài hơn chiều dài của lòng bàn tay, nhưng khi thu vào có thể trở nên linh hoạt, cho phép người cấy ghép cuộn lại và giấu trong lòng bàn tay. Nó có thể thực hiện những cú chém nhanh, nhưng kém hiệu quả trong việc xuyên thủng giáp.</HandTalon.description>
+<KneeSpike.label>Cọc Gối</KneeSpike.label>
+<KneeSpike.description>Một mũi nhọn có thể co giãn từ một lỗ ẩn ở phía trước đầu gối, có thể bật ra một cách yên lặng, thậm chí có thể xuyên thủng giáp dày để tạo ra các cuộc tấn công phá hoại.</KneeSpike.description>
+<Mindscrew.label>Cọc Não</Mindscrew.label>
+<Mindscrew.description>Gây ra đau đớn kéo dài cho người cấy ghép, cọc não thường được một số cơ quan quyền lực sử dụng như một hình phạt. Nhưng một số người sẽ tự nguyện cấy ghép chúng để thể hiện phong tục văn hóa hoặc tín ngưỡng tôn giáo.</Mindscrew.description>
+<VenomFangs.label>Răng Độc</VenomFangs.label>
+<VenomFangs.description>Một cặp tiêm độc nguy hiểm cấy ghép vào răng nanh, kết nối với bơm độc, người cấy ghép có thể tiêm độc vào cơ thể kẻ thù khi cắn.</VenomFangs.description>
+<VenomTalon.label>Móng Vuốt Độc</VenomTalon.label>
+<VenomTalon.description>Các móng vuốt có thể co giãn kết nối với bơm độc ở cẳng tay, người cấy ghép có thể phun độc vào vết thương của kẻ thù khi cào chúng. Móng vuốt này được thiết kế để lắp vào ngón giữa. Tốc độ rất nhanh, nhưng khả năng xuyên giáp không tốt.</VenomTalon.description>
+</LanguageData>

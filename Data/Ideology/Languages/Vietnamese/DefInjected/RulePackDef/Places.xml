@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlaceMakerCommon.rulePack.rulesStrings>
+    <li>place_personalWeapon-&gt;Súng trường tấn công</li>
+    <li>place_massWeapon-&gt;một máy biến đổi chất lượng siêu nhiên</li>
+    <li>seismicDevice-&gt;một máy phát động đất có ảnh hưởng lớn</li>
+    <li>anEMPAttack-&gt;một cuộc tấn công EMP vào hệ thống hỗ trợ sự sống</li>
+  </PlaceMakerCommon.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_faction_name] của [asker_faction_leaderTitle],[asker_nameFull] đã gửi cho chúng ta một thông điệp. Theo thông tin họ nắm được, một trại thuộc về phe [siteFaction_name], do [siteFaction_pawnsPlural] thành lập, đã liên tục tấn công đoàn xe của họ.\n\n[asker_nameDef] yêu cầu chúng ta giúp họ tiêu diệt trại này, triệt phá hoàn toàn các thành viên và tháp canh của kẻ thù. [asker_label] cũng nhắc nhở chúng ta:\n\n[sitePart0_description].</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[bandit][camp]</li>
+    <li>questName->[bandit][camp]</li>
+    <li>questName->[asker_nameDef] với [camp]</li>
+    <li>camp->trại</li>
+    <li>camp->đồn</li>
+    <li>camp->ổ</li>
+    <li>camp->điểm</li>
+    <li>bandit->đạo chích</li>
+    <li>bandit->kẻ cướp</li>
+    <li>bandit->tội phạm</li>
+    <li>bandit->kẻ bạo loạn</li>
+    <li>bandit->người tị nạn</li>
+    <li>bandit->kẻ cướp bóc</li>
+    <li>bandit->kẻ cướp</li>
+    <li>bandit->kẻ cướp đường</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn：[resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>Các đạo chích đã chuẩn bị hành lý và rời khỏi đây. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Nhiệm vụ thất bại：[resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Trại đạo chích này đã bị phát hiện. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Phần thưởng đã đến</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>Bạn đã tiêu diệt trại đạo chích!\n\nPhần thưởng từ [asker_faction_name] đã được gửi đến.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>Các thực dân đã hoàn thành thành công nhiệm vụ “[resolvedQuestName]”. [asker_definite] muốn biết ai sẽ nhận được [royalFavorReward_amount] x [asker_faction_royalFavorLabel].</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AimingDelayFactor.label>Thời gian ngắm</AimingDelayFactor.label>
+	<AimingDelayFactor.description>Thời gian cần thiết để bắn sau khi ngắm.</AimingDelayFactor.description>
+	<IncomingDamageFactor.label>Hệ số tổn thương nhận vào</IncomingDamageFactor.label>
+	<IncomingDamageFactor.description>Tất cả tổn thương nhận vào sẽ được nhân với giá trị này.</IncomingDamageFactor.description>
+	<MeleeArmorPenetration.label>Xuyên giáp cận chiến</MeleeArmorPenetration.label>
+	<MeleeArmorPenetration.description>Tỷ lệ xuyên giáp trung bình của tất cả các đòn tấn công cận chiến.\n\nThuộc tính này bao gồm vũ khí đang sử dụng.</MeleeArmorPenetration.description>
+	<MeleeCooldownFactor.label>Thời gian hồi chiêu cận chiến</MeleeCooldownFactor.label>
+	<MeleeCooldownFactor.description>Hệ số thời gian hồi chiêu sau khi sinh vật thực hiện một đòn tấn công cận chiến.</MeleeCooldownFactor.description>
+	<MeleeDamageFactor.label>Hệ số tổn thương cận chiến</MeleeDamageFactor.label>
+	<MeleeDamageFactor.description>Hệ số tổn thương cận chiến mà sinh vật này gây ra.</MeleeDamageFactor.description>
+	<MeleeDodgeChance.label>Tỷ lệ né đòn cận chiến</MeleeDodgeChance.label>
+	<MeleeDodgeChance.description>Xác suất né được các đòn tấn công cận chiến hoặc các đòn đánh vật lý khác.\n\nKhi sử dụng vũ khí tầm xa để ngắm hoặc bắn, nhân vật không thể né đòn.</MeleeDodgeChance.description>
+	<MeleeDPS.label>Tổn thương cận chiến mỗi giây</MeleeDPS.label>
+	<MeleeDPS.description>Tổn thương trung bình mỗi giây trong các đòn tấn công cận chiến.\n\n(Không tính đến khả năng phòng thủ của mục tiêu, như né đòn và giáp.)</MeleeDPS.description>
+	<MeleeHitChance.label>Tỷ lệ trúng đòn cận chiến</MeleeHitChance.label>
+	<MeleeHitChance.description>Xác suất cơ bản để trúng mục tiêu trong các đòn tấn công cận chiến.\n\nNgay cả khi trúng, mục tiêu vẫn có thể né được.</MeleeHitChance.description>
+	<MortarMissRadiusFactor.label>Hệ số lệch tâm pháo</MortarMissRadiusFactor.label>
+	<MortarMissRadiusFactor.description>Hệ số lệch bán kính điểm rơi của đạn pháo khi người này điều khiển pháo.\nHệ số lệch càng thấp, pháo càng chính xác.</MortarMissRadiusFactor.description>
+	<MortarMissRadiusFactor.labelForFullStatList>Tỷ lệ lệch pháo</MortarMissRadiusFactor.labelForFullStatList>
+	<PawnTrapSpringChance.label>Tỷ lệ kích hoạt bẫy</PawnTrapSpringChance.label>
+	<PawnTrapSpringChance.description>Xác suất kích hoạt bẫy khi nhân vật không nhận ra nó.</PawnTrapSpringChance.description>
+	<RangedCooldownFactor.label>Hệ số thời gian hồi chiêu tầm xa</RangedCooldownFactor.label>
+	<RangedCooldownFactor.description>Hệ số thời gian hồi chiêu giữa hai lần bắn khi sử dụng vũ khí tầm xa.</RangedCooldownFactor.description>
+	<ShootingAccuracyFactor_Long.label>Hệ số chính xác (xa)</ShootingAccuracyFactor_Long.label>
+	<ShootingAccuracyFactor_Long.description>Hệ số chính xác khi bắn từ khoảng cách 40 ô trở lên.</ShootingAccuracyFactor_Long.description>
+	<ShootingAccuracyFactor_Medium.label>Hệ số chính xác (trung)</ShootingAccuracyFactor_Medium.label>
+	<ShootingAccuracyFactor_Medium.description>Hệ số chính xác khi bắn từ khoảng cách 25 ô và gần hơn.</ShootingAccuracyFactor_Medium.description>
+	<ShootingAccuracyFactor_Short.label>Hệ số chính xác (gần)</ShootingAccuracyFactor_Short.label>
+	<ShootingAccuracyFactor_Short.description>Hệ số chính xác khi bắn từ khoảng cách 12 ô và gần hơn.</ShootingAccuracyFactor_Short.description>
+	<ShootingAccuracyFactor_Touch.label>Hệ số chính xác (sát)</ShootingAccuracyFactor_Touch.label>
+	<ShootingAccuracyFactor_Touch.description>Hệ số chính xác khi bắn từ khoảng cách 3 ô hoặc gần hơn.</ShootingAccuracyFactor_Touch.description>
+	<ShootingAccuracyPawn.label>Độ chính xác bắn</ShootingAccuracyPawn.label>
+	<ShootingAccuracyPawn.description>Xác suất bắn trúng không bị lệch cho mỗi ô khoảng cách.\n\nXác suất trúng cũng bị ảnh hưởng bởi mục tiêu, chỗ ẩn nấp và điều kiện môi trường.\n\nChọn một người bắn và di chuyển chuột đến mục tiêu để xem thông tin chi tiết về tỷ lệ trúng.</ShootingAccuracyPawn.description>
+	<ShootingAccuracyPawn.labelForFullStatList>Độ chính xác bắn (người)</ShootingAccuracyPawn.labelForFullStatList>
+	<StaggerDurationFactor.label>Hệ số thời gian ngưng trệ</StaggerDurationFactor.label>
+	<StaggerDurationFactor.description>Hệ số thời gian phục hồi từ trạng thái ngưng trệ do bị tấn công.</StaggerDurationFactor.description>
+</LanguageData>

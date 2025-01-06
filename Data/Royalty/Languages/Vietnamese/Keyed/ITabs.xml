@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <RoyalTitleTooltipHasTitle>{PAWN_labelShort} hiện đang có danh hiệu {TITLE}, được cấp bởi {FACTION_name}.</RoyalTitleTooltipHasTitle>
+<RoyalTitleTooltipConceited>{PAWN_labelShort} sẽ yêu cầu tất cả các đặc quyền của danh hiệu này.</RoyalTitleTooltipConceited>
+<RoyalTitleTooltipNonConceited>{PAWN_labelShort} không quá quan tâm đến một số đặc quyền của danh hiệu này.</RoyalTitleTooltipNonConceited>
+<RoyalTitleTooltipNextTitle>Danh hiệu tiếp theo</RoyalTitleTooltipNextTitle>
+<RoyalTitleTooltipNextTitleFavorCost>Chi phí {0}{FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+<RoyalTitleTooltipFinalTitle>Không còn danh hiệu nào có thể đạt được trên hành tinh này.</RoyalTitleTooltipFinalTitle>
+<RoyalTitleTooltipInheritance>Nếu {PAWN_nameDef} qua đời, {HEIR_nameFull} sẽ kế thừa danh hiệu của {PAWN_possessive}.</RoyalTitleTooltipInheritance>
+<RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} không phải là thành viên của bất kỳ phe nào.</RoyalTitleTooltipHeirNoFaction>
+<RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} là thành viên của {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
+<RoyalTitleTooltipNoHeir>Nếu {PAWN_pronoun} qua đời mà không có ai được chỉ định kế thừa danh hiệu của {PAWN_nameDef}, những danh hiệu này sẽ bị mất.</RoyalTitleTooltipNoHeir>
+<RoyalTitleTooltipTitlesEarnable>Các danh hiệu có thể đạt được của {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
+<RoyalTitleTooltipTitlesNonEarnable>Các danh hiệu khác của {FACTION_name}</RoyalTitleTooltipTitlesNonEarnable>
+<RoyalTitleTooltipRoyalFavorAmount>{0}{1}</RoyalTitleTooltipRoyalFavorAmount>
+<RoyalTitleTooltipRoyalFavorTotal>Tổng cộng {0}</RoyalTitleTooltipRoyalFavorTotal>
+<RecruitmentResistanceRoyalTitleOffset>{0} danh hiệu</RecruitmentResistanceRoyalTitleOffset>
+<TabPermits>Giấy phép</TabPermits>
+<PermitsFromFaction>Giấy phép từ {FACTION_name}</PermitsFromFaction>
+<CurrentTitle>Danh hiệu hiện tại</CurrentTitle>
+<UnusedPermits>Số điểm giấy phép chưa sử dụng</UnusedPermits>
+<ReturnAllPermits>Hoàn lại tất cả điểm giấy phép</ReturnAllPermits>
+<NoPermitsToReturn>{PAWN_nameDef} không có điểm giấy phép nào để hoàn lại.</NoPermitsToReturn>
+<NotEnoughFavor>Hoàn lại điểm giấy phép cần {FAVORCOST}x{FAVOR}, nhưng {PAWN_nameDef} chỉ có {CURFAVOR}.</NotEnoughFavor>
+<ReturnAllPermits_Desc>Hoàn lại tất cả điểm giấy phép đã chọn của phe này. Bạn sẽ nhận lại tất cả điểm giấy phép đã sử dụng và có thể sử dụng lại chúng.\n\nHành động này cần tiêu tốn {BASEFAVORCOST}x{FAVOR} và tổng chi phí hiện tại cho tất cả các giấy phép đang trong thời gian chờ là {FAVORCOST}.</ReturnAllPermits_Desc>
+<ReturnAllPermits_Confirm>Bạn có muốn hoàn lại tất cả điểm giấy phép đã chọn của {FACTION_name} không?\n\nBạn sẽ nhận lại tất cả điểm giấy phép đã tiêu tốn và có thể sử dụng lại chúng.\n\nHành động này tiêu tốn {BASEFAVORCOST}x{FAVOR} và tổng chi phí hiện tại cho tất cả các giấy phép đang trong thời gian chờ là {FAVORCOST}.</ReturnAllPermits_Confirm>
+<SwitchFaction_Desc>Chuyển phe</SwitchFaction_Desc>
+<AcceptPermit>Chấp nhận giấy phép</AcceptPermit>
+<RequiresTitle>Cần danh hiệu: {0}</RequiresTitle>
+<UpgradeFrom>Nâng cấp từ: {0}</UpgradeFrom>
+<Cooldown>Thời gian chờ</Cooldown>
+<CooldownUseFavorCost>Chi phí sử dụng trong thời gian chờ: {HONOR}</CooldownUseFavorCost>
+</LanguageData>

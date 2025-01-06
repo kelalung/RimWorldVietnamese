@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Inhuman.label>Phi nhân loại</Inhuman.label>
+	<Inhuman.description>Trước trí tuệ siêu phàm và phần thưởng phong phú của Ngài, nhân tính chỉ là một trở ngại.</Inhuman.description>
+	<Inhuman.generalRules.rulesStrings>
+		<li>memeAdjective->Phi nhân loại</li>
+		<li>memeAdjective->Chống nhân loại</li>
+		<li>memeAdjective->Cơ khí</li>
+		<li>memeAdjective->Tối tăm</li>
+		<li>memeConcept->Phi nhân tính</li>
+		<li>memeConcept->Bóng tối</li>
+		<li>memeConcept->Hư không</li>
+		<li>memeConcept->Thực thể</li>
+		<li>memeConcept->Cuồng bạo</li>
+	</Inhuman.generalRules.rulesStrings>
+	<Ritualist.label>Nhiệt huyết nghi lễ</Ritualist.label>
+	<Ritualist.description>Vũ trụ vẫn còn nhiều tiềm năng lớn. Nhờ vào nghi lễ tâm linh, chúng ta mới có thể hiểu biết và điều khiển sức mạnh bên trong.</Ritualist.description>
+	<Ritualist.generalRules.rulesStrings>
+		<li>memeAdjective->Nghi lễ</li>
+		<li>memeConcept->Nghi lễ</li>
+		<li>memeMoralist->Người thực hiện nghi lễ</li>
+	</Ritualist.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerFactionRefugee.rulePack.rulesStrings>
+<li>r_name-&gt;[adj][group]</li>
+<li>group-&gt;Người sống sót</li>
+<li>group-&gt;Người tị nạn</li>
+<li>group-&gt;Người chạy trốn</li>
+<li>group-&gt;Người lang thang</li>
+<li>group-&gt;Người lạc đường</li>
+<li>group-&gt;Người lưu vong</li>
+<li>group-&gt;Người vô gia cư</li>
+<li>group-&gt;Người du lịch</li>
+<li>group-&gt;Người du mục</li>
+<li>adj-&gt;Mệt mỏi</li>
+<li>adj-&gt;Kiệt sức</li>
+<li>adj-&gt;Mệt nhọc</li>
+<li>adj-&gt;Rất mệt mỏi</li>
+<li>adj-&gt;Bị lạc</li>
+<li>adj-&gt;Có khả năng thích ứng</li>
+<li>adj-&gt;Kiên cường</li>
+<li>adj-&gt;Bền bỉ</li>
+<li>adj-&gt;Kiên trì</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
+</LanguageData>

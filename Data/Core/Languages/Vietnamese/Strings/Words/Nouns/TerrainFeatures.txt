@@ -1,0 +1,63 @@
+﻿Bình nguyên
+Rộng
+Bãi cỏ
+Cao nguyên
+Đại thảo nguyên
+Sa mạc
+Vùng bỏ hoang
+
+Rừng rậm
+Cây xương rồng cảnh
+Cây
+Bụi cỏ
+Lùm cây
+Bụi gai
+
+Đá tròn
+Hòn đá
+Giếng mỏ
+Tảng đá
+
+Gò núi
+Đồi núi
+Đỉnh bằng núi
+Vách núi
+Sườn đồi
+Vách đá
+Lưng núi
+Sơn cốc
+Hẻm núi
+Vực sâu
+
+Ốc đảo
+Lục nguyên
+
+Sơn động
+
+Sông
+Dòng suối nhỏ
+Dòng suối
+Nhánh sông
+Dòng sông
+Vùng châu thổ
+Vịnh nước
+Hồi âm vịnh
+Hẻm núi nhỏ
+
+Ven hồ
+Hải dương
+Hồ nước
+Ao nước
+Tả hồ
+Hố sâu
+Đầm lầy
+Hắc ín hố
+Vũng bùn
+
+Sông lớn
+Cự sông
+Di tích
+Hoang nguyên
+Lãnh nguyên
+Đất đông cứng
+Quặng mỏ

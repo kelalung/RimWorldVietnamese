@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalChat.label>Giao tiếp với động vật</AnimalChat.label>
+  <AnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef][tamed][RECIPIENT_nameDef].</AnimalChat.logRulesInitiator.rulesStrings.0>
+  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] ngồi bên cạnh [RECIPIENT_nameDef], [INITIATOR_objective] tự nói về chủ đề [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
+  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] tiếp cận [RECIPIENT_nameDef], [INITIATOR_objective] tự nói về chủ đề [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
+  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] đi đến bên cạnh [RECIPIENT_nameDef], [INITIATOR_objective] tự nói về chủ đề [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
+  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed-> tiến đến một cách lặng lẽ</AnimalChat.logRulesInitiator.rulesStrings.4>
+  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed-> thực hiện hành động thân thiện một cách chậm rãi đối với  </AnimalChat.logRulesInitiator.rulesStrings.5>
+  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed-> phát ra âm thanh "suỵt" cho </AnimalChat.logRulesInitiator.rulesStrings.6>
+  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed-> phát ra âm thanh vui vẻ cho </AnimalChat.logRulesInitiator.rulesStrings.7>
+  <AnimalChat.logRulesInitiator.rulesStrings.8>tamed-> tiến đến một cách nhẹ nhàng</AnimalChat.logRulesInitiator.rulesStrings.8>
+  <AnimalChat.logRulesInitiator.rulesStrings.9>tamed-> tiến đến một cách từ từ</AnimalChat.logRulesInitiator.rulesStrings.9>
+  <AnimalChat.logRulesInitiator.rulesStrings.10>tamed-> chạm nhẹ</AnimalChat.logRulesInitiator.rulesStrings.10>
+  <AnimalChat.logRulesInitiator.rulesStrings.11>tamed-> an ủi và khuyến khích</AnimalChat.logRulesInitiator.rulesStrings.11>
+  <AnimalChat.logRulesInitiator.rulesStrings.12>tamed-> giữ nhịp thở đồng bộ với </AnimalChat.logRulesInitiator.rulesStrings.12>
+  <AnimalChat.logRulesInitiator.rulesStrings.13>tamed-> tiến đến một cách nhẹ nhàng</AnimalChat.logRulesInitiator.rulesStrings.13>
+  <AnimalChat.logRulesInitiator.rulesStrings.14>tamed-> tiến đến một cách không sợ hãi</AnimalChat.logRulesInitiator.rulesStrings.14>
+  <AnimalChat.logRulesInitiator.rulesStrings.15>tamed-> tiến đến một cách giả vờ không quan tâm</AnimalChat.logRulesInitiator.rulesStrings.15>
+  <AnimalChat.logRulesInitiator.rulesStrings.16>tamed->Hát nhẹ nhàng một bài hát cho</AnimalChat.logRulesInitiator.rulesStrings.16>
+  <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->Hát một bài hát ru cổ xưa cho</AnimalChat.logRulesInitiator.rulesStrings.17>
+  <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->Chạm vào một cách kiên định và dịu dàng</AnimalChat.logRulesInitiator.rulesStrings.18>
+  <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->Tiến lại gần với vẻ mặt thoải mái</AnimalChat.logRulesInitiator.rulesStrings.19>
+  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->Ngồi bên cạnh một cách kiên nhẫn mà nhìn</AnimalChat.logRulesInitiator.rulesStrings.20>
+  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->Kể một câu chuyện về [TalkTopicAny] một cách khẽ khàng cho</AnimalChat.logRulesInitiator.rulesStrings.21>
+  <Nuzzle.label>Thân mật</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef][nuzzleadverb][nuzzled][RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef][nuzzleadverb] dùng đầu mũi của [INITIATOR_possessive] cọ vào [RECIPIENT_nameDef] [rubbedpart].</Nuzzle.logRulesInitiator.rulesStrings.1>
+  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->Cọ vào</Nuzzle.logRulesInitiator.rulesStrings.2>
+  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->Ôm ấp</Nuzzle.logRulesInitiator.rulesStrings.3>
+  <Nuzzle.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></Nuzzle.logRulesInitiator.rulesStrings.4>
+  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->Một cách dịu dàng</Nuzzle.logRulesInitiator.rulesStrings.5>
+  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->Một cách khuyến khích</Nuzzle.logRulesInitiator.rulesStrings.6>
+  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->Một cách vui vẻ</Nuzzle.logRulesInitiator.rulesStrings.7>
+  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->Một cách nhẹ nhàng</Nuzzle.logRulesInitiator.rulesStrings.8>
+  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->Một cách hỗ trợ</Nuzzle.logRulesInitiator.rulesStrings.9>
+  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->Một cách nhẹ nhàng</Nuzzle.logRulesInitiator.rulesStrings.10>
+  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->Một cách thân mật</Nuzzle.logRulesInitiator.rulesStrings.11>
+  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->Một cách u buồn</Nuzzle.logRulesInitiator.rulesStrings.12>
+  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->Một cách thân thiện</Nuzzle.logRulesInitiator.rulesStrings.13>
+  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->Một cách nhiệt tình</Nuzzle.logRulesInitiator.rulesStrings.14>
+  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->Chân</Nuzzle.logRulesInitiator.rulesStrings.15>
+  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->Đầu gối</Nuzzle.logRulesInitiator.rulesStrings.16>
+  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->Chân</Nuzzle.logRulesInitiator.rulesStrings.17>
+  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->Khuỷu tay</Nuzzle.logRulesInitiator.rulesStrings.18>
+  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->Mông</Nuzzle.logRulesInitiator.rulesStrings.19>
+  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->Vai</Nuzzle.logRulesInitiator.rulesStrings.20>
+  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->Tay</Nuzzle.logRulesInitiator.rulesStrings.21>
+  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->Bên cạnh</Nuzzle.logRulesInitiator.rulesStrings.22>
+  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->Cánh tay</Nuzzle.logRulesInitiator.rulesStrings.23>
+  <ReleaseToWild.label>Thả về tự nhiên</ReleaseToWild.label>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell],[released]</li>
+    <li>farewell->[INITIATOR_nameDef] lần cuối nhẹ nhàng vuốt ve [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] thì thầm nói với [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] tháo vòng cổ của [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] hồi tưởng lại những khoảnh khắc đẹp đã trải qua với [RECIPIENT_nameDef]</li>
+    <li>released->Và đã thả [RECIPIENT_objective] về lại tự nhiên.</li>
+    <li>released->Và đã cho [RECIPIENT_objective] tự do.</li>
+    <li>released->Và đã tiễn [RECIPIENT_objective] đi.</li>
+    <li>released->Và đã để [RECIPIENT_objective] ra đi.</li>
+    <li>released->Sau đó quay lưng lại để [RECIPIENT_objective] rời khỏi thuộc địa.</li>
+    <li>released->Và đã để [RECIPIENT_objective] tự tìm kiếm cuộc sống tự do.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  <TameAttempt.label>Thử thuần hóa</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] cố gắng thuần hóa [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] cố gắng điều khiển [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.1>
+  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] cố gắng đeo vòng cổ cho [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
+  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] yêu cầu [RECIPIENT_nameDef] phải phục tùng.</TameAttempt.logRulesInitiator.rulesStrings.3>
+  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] gọi [RECIPIENT_nameDef] đi theo [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
+  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] cố gắng giữ [RECIPIENT_nameDef] ngồi yên.</TameAttempt.logRulesInitiator.rulesStrings.5>
+  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] nắm lấy [RECIPIENT_nameDef] và ra lệnh một cách nghiêm khắc.</TameAttempt.logRulesInitiator.rulesStrings.6>
+  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] cố gắng giữ cho [RECIPIENT_nameDef] im lặng.</TameAttempt.logRulesInitiator.rulesStrings.7>
+  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] ra lệnh lớn cho [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
+  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] đánh vào [RECIPIENT_nameDef] để thể hiện sự thống trị.</TameAttempt.logRulesInitiator.rulesStrings.9>
+  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] chỉ dẫn [RECIPIENT_nameDef] quay lại thuộc địa.</TameAttempt.logRulesInitiator.rulesStrings.10>
+  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] gọi [RECIPIENT_nameDef] trở lại thuộc địa.</TameAttempt.logRulesInitiator.rulesStrings.11>
+  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] chạm vào những bộ phận yếu ớt của [RECIPIENT_nameDef] và yêu cầu phục tùng.</TameAttempt.logRulesInitiator.rulesStrings.12>
+  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] chỉ tay xuống đất yêu cầu [RECIPIENT_nameDef] lại gần.</TameAttempt.logRulesInitiator.rulesStrings.13>
+  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] ra lệnh đầu tiên cho [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.14>
+  <TrainAttempt.label>Thử huấn luyện</TrainAttempt.label>
+  <TrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][trained][RECIPIENT_nameDef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
+  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] huấn luyện</TrainAttempt.logRulesInitiator.rulesStrings.1>
+  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] trình diễn một kỹ năng mới cho</TrainAttempt.logRulesInitiator.rulesStrings.2>
+  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] huấn luyện nghiêm ngặt</TrainAttempt.logRulesInitiator.rulesStrings.3>
+  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] hướng dẫn</TrainAttempt.logRulesInitiator.rulesStrings.4>
+  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] dạy một kỹ năng mới cho</TrainAttempt.logRulesInitiator.rulesStrings.5>
+  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->trình diễn một kỹ năng cho</TrainAttempt.logRulesInitiator.rulesStrings.6>
+  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->khuyến khích phản ứng mới từ</TrainAttempt.logRulesInitiator.rulesStrings.7>
+  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->Cố gắng</TrainAttempt.logRulesInitiator.rulesStrings.8>
+  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->Thử</TrainAttempt.logRulesInitiator.rulesStrings.9>
+</LanguageData>

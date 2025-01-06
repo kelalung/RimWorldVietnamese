@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>Đã giết hại động vật</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
+<SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>Tôi buộc phải giết một con động vật, điều này thật xấu hổ.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
+<SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>Đã giết hại động vật</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
+<SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>Tôi buộc phải giết một con động vật, thật là một điều khủng khiếp, phải ngăn chặn những suy nghĩ như vậy!</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
+<SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>Đã giết hại động vật</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
+<SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>Động vật đã bị giết hại</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
+<SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>Có người đã giết một con động vật, điều này thật đáng buồn.</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
+<SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>Động vật đã bị giết hại</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
+<SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>Động vật đã bị giết hại</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
+<SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>Có người đã giết một con động vật, thật là một điều khủng khiếp, phải ngăn chặn những suy nghĩ như vậy!</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+<SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>Động vật đã bị giết hại</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
+<SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>Động vật đã bị giết hại</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
+<SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>Có người đã giết một con động vật! Nó đã mất đi sự sống duy nhất của mình thật bi thảm.</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
+</LanguageData>

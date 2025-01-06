@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+       <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_name] của [asker_faction_leaderTitle], [asker_nameFull] mong bạn có thể giúp đỡ một đoàn thám hiểm của [asker_possessive]. Đoàn này đã bị tấn công bởi [enemyFaction_name] với (*Threat) [numGroupsOf][enemyFaction_pawnsPlural] (/Threat) gần [map_definite]. [asker_nameDef] hy vọng bạn có thể cảnh báo [enemyFaction_pawnsPlural] để cho đoàn thám hiểm này rời đi về phía bạn. [endingCommon]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_faction_name] của [asker_royalTitleInCurrentFaction], [asker_nameFull], đã phát động một nhiệm vụ cho bạn.\n\nNhững người của [enemyFaction_name] với (*Threat) [groupsOf] đang quấy rối đoàn thám hiểm của [asker_possessive] trong khu vực này. [asker_nameDef] yêu cầu bạn phát tín hiệu cảnh báo để thu hút họ tấn công và tiêu diệt hoàn toàn. [endingCommon]</li>
+    <li>groupsOf(raidCount==1,priority=1)-&gt;[enemyFaction_pawnsPlural]</li>
+    <li>groupsOf-&gt;[numGroupsOf][enemyFaction_pawnsPlural]</li>
+    <li>endingCommon(helpersCount==0)-&gt;\n\n[pawnKindsParagraph]\n\n[helpersParagraph]Nếu bạn chấp nhận đề nghị này, [enemyFaction_pawnsPlural] sẽ đến trong vòng [firstRaidDelayTicks_duration].</li>
+    <li>endingCommon(helpersCount&gt;=1)-&gt;\n\n[pawnKindsParagraph][helpersParagraph]Nếu bạn chấp nhận đề nghị này, [enemyFaction_pawnsPlural] sẽ đến trong vòng [firstRaidDelayTicks_duration].</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>questName-&gt;Tài sản của [enemyFaction_pawnsPlural]</li>
+    <li>questName-&gt;Tài sản [violence]</li>
+    <li>questName-&gt;Thuê mướn [violence]</li>
+    <li>QuestName-&gt;Lợi ích từ [violence]</li>
+    <li>questName-&gt;Phần thưởng [violence]</li>
+    <li>questName-&gt;Có trả phí [violence]</li>
+    <li>questName-&gt;Bồi thường [violence]</li>
+    <li>questName(reward==royalFavor)-&gt;Danh dự của [enemyFaction_pawnsPlural]</li>
+    <li>questName(reward==royalFavor)-&gt;Danh dự [violence]</li>
+    <li>violence-&gt; Hung ác</li>
+    <li>violence-&gt; Chiến đấu</li>
+    <li>violence-&gt; Tác chiến</li>
+    <li>violence-&gt; Chiến tranh</li>
+    <li>violence-&gt; Tác chiến</li>
+    <li>violence-&gt; Đẫm máu</li>
+    <li>violence-&gt; Tập kích</li>
+    <li>violence-&gt; Phòng ngự</li>
+    <li>violence-&gt; Xung đột</li>
+    <li>violence-&gt; Đối kháng</li>
+    <li>violence-&gt; Chiến hỏa</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

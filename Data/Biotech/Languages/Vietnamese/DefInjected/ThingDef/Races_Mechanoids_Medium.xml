@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Mech_Legionary.label>Đội quân cơ giới</Mech_Legionary.label>
+	<Mech_Legionary.description>Một cơ giới hỗ trợ chiến đấu, được trang bị súng phun gai tầm trung và khiên năng lượng có diện tích phủ rộng. Đội quân cơ giới chuyên hỗ trợ các cơ giới khác, nhưng khi rơi vào gần chiến đấu sẽ dễ bị tiêu diệt.</Mech_Legionary.description>
+	<Mech_Legionary.tools.left_fist.label>Quyền trái</Mech_Legionary.tools.left_fist.label>
+	<Mech_Legionary.tools.left_fist.labelNoLocation>Quyền</Mech_Legionary.tools.left_fist.labelNoLocation>
+	<Mech_Legionary.tools.right_fist.label>Quyền phải</Mech_Legionary.tools.right_fist.label>
+	<Mech_Legionary.tools.right_fist.labelNoLocation>Quyền</Mech_Legionary.tools.right_fist.labelNoLocation>
+	<Mech_Legionary.tools.head.label>Đầu</Mech_Legionary.tools.head.label>
+	<Mech_Scorcher.label>Cơ giới thiêu đốt</Mech_Scorcher.label>
+	<Mech_Scorcher.description>Một cơ giới chiến đấu cận chiến, chuyên về tấn công bằng lửa. Súng phun lửa mini của nó có tầm bắn hạn chế, nhưng khi tiếp cận kẻ thù đông đảo, nó có thể ngay lập tức tiêu diệt chúng bằng ngọn lửa nhảy múa.</Mech_Scorcher.description>
+	<Mech_Scorcher.tools.front_left_leg.label>Chân trước trái</Mech_Scorcher.tools.front_left_leg.label>
+	<Mech_Scorcher.tools.front_left_leg.labelNoLocation>Chân</Mech_Scorcher.tools.front_left_leg.labelNoLocation>
+	<Mech_Scorcher.tools.front_right_leg.label>Chân trước phải</Mech_Scorcher.tools.front_right_leg.label>
+	<Mech_Scorcher.tools.front_right_leg.labelNoLocation>Chân</Mech_Scorcher.tools.front_right_leg.labelNoLocation>
+	<Mech_Scorcher.tools.head.label>Đầu</Mech_Scorcher.tools.head.label>
+	<Mech_Tesseron.label>Cơ giới canh gác</Mech_Tesseron.label>
+	<Mech_Tesseron.description>Một cơ giới chiến đấu tầm trung. Mặc dù nó không có khả năng bảo vệ tốt, nhưng nó có thể bắn ra các tia gamma hủy diệt vào kẻ thù, thậm chí có thể đốt cháy các mục tiêu có khiên, rất ít kẻ nào có thể thoát khỏi tay nó.</Mech_Tesseron.description>
+	<Mech_Tesseron.tools.left_fist.label>Quyền trái</Mech_Tesseron.tools.left_fist.label>
+	<Mech_Tesseron.tools.left_fist.labelNoLocation>Quyền</Mech_Tesseron.tools.left_fist.labelNoLocation>
+	<Mech_Tesseron.tools.right_fist.label>Quyền phải</Mech_Tesseron.tools.right_fist.label>
+	<Mech_Tesseron.tools.right_fist.labelNoLocation>Quyền</Mech_Tesseron.tools.right_fist.labelNoLocation>
+	<Mech_Tesseron.tools.head.label>Đầu</Mech_Tesseron.tools.head.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Execution_Abhorrent.label>Luôn ghê tởm</Execution_Abhorrent.label>
+<Execution_Abhorrent.description>Bất kỳ hình thức xử án nào đối với tù nhân đều là hành vi tàn ác.</Execution_Abhorrent.description>
+<Execution_Abhorrent.comps.2.description>Xử án tù nhân</Execution_Abhorrent.comps.2.description>
+<Execution_Abhorrent.comps.3.description>Đổ lỗi cho cái chết của tù nhân</Execution_Abhorrent.comps.3.description>
+<Execution_Abhorrent.comps.4.description>Có người đã xử án thực dân</Execution_Abhorrent.comps.4.description>
+<Execution_Abhorrent.comps.5.description>Có người đã xử án khách</Execution_Abhorrent.comps.5.description>
+<Execution_Abhorrent.comps.6.description>Có người đã xử án tù nhân</Execution_Abhorrent.comps.6.description>
+<Execution_DontCare.label>Thờ ơ</Execution_DontCare.label>
+<Execution_DontCare.description>Xử án tù nhân là chấp nhận được, bất kể họ có tội hay không.</Execution_DontCare.description>
+<Execution_Horrible.label>Luôn đáng sợ</Execution_Horrible.label>
+<Execution_Horrible.description>Bất kỳ hình thức xử án nào đối với tù nhân đều là điều đáng sợ.</Execution_Horrible.description>
+<Execution_Horrible.comps.2.description>Xử án tù nhân</Execution_Horrible.comps.2.description>
+<Execution_Horrible.comps.3.description>Đổ lỗi cho cái chết của tù nhân</Execution_Horrible.comps.3.description>
+<Execution_Horrible.comps.5.description>Có người đã xử án thực dân</Execution_Horrible.comps.5.description>
+<Execution_Horrible.comps.6.description>Có người đã xử án khách</Execution_Horrible.comps.6.description>
+<Execution_Horrible.comps.7.description>Có người đã xử án tù nhân</Execution_Horrible.comps.7.description>
+<Execution_HorribleIfInnocent.label>Sợ xử án sai</Execution_HorribleIfInnocent.label>
+<Execution_HorribleIfInnocent.description>Xử án tù nhân vô tội là điều đáng sợ, nếu tù nhân có tội thì có thể chấp nhận.</Execution_HorribleIfInnocent.description>
+<Execution_HorribleIfInnocent.comps.2.description>Tù nhân vô tội bị xử án</Execution_HorribleIfInnocent.comps.2.description>
+<Execution_HorribleIfInnocent.comps.3.description>Đổ lỗi cho cái chết của tù nhân vô tội</Execution_HorribleIfInnocent.comps.3.description>
+<Execution_HorribleIfInnocent.comps.5.description>Có người đã xử án thực dân</Execution_HorribleIfInnocent.comps.5.description>
+<Execution_HorribleIfInnocent.comps.6.description>Có người đã xử án khách</Execution_HorribleIfInnocent.comps.6.description>
+<Execution_HorribleIfInnocent.comps.7.description>Có người đã xử án tù nhân</Execution_HorribleIfInnocent.comps.7.description>
+<Execution_Required.label>Cần thiết</Execution_Required.label>
+<Execution_Required.description>Tù nhân phải bị xử án định kỳ, khi tù nhân bị xử án sẽ là thời gian vui vẻ.</Execution_Required.description>
+<Execution_Required.comps.2.description>Tù nhân bị xử án</Execution_Required.comps.2.description>
+<Execution_Required.comps.3.description>Chịu trách nhiệm cho cái chết của tù nhân</Execution_Required.comps.3.description>
+<Execution_Required.comps.4.description>Có người đã xử án tù nhân</Execution_Required.comps.4.description>
+<Execution_Required.comps.5.description>Có người đã xử án khách</Execution_Required.comps.5.description>
+<Execution_Required.comps.6.description>Đã {MINDAYSLASTEXECUTION} ngày không có xử án</Execution_Required.comps.6.description>
+<Execution_Required.comps.7.eventLabel>Xử án một ai đó</Execution_Required.comps.7.eventLabel>
+<Execution_RespectedIfGuilty.label>Tôn trọng tội phạm</Execution_RespectedIfGuilty.label>
+<Execution_RespectedIfGuilty.description>Xử án tù nhân là chấp nhận được, nếu tù nhân có tội thì sẽ là niềm vui lớn.</Execution_RespectedIfGuilty.description>
+<Execution_RespectedIfGuilty.comps.3.eventLabel>Xử án một ai đó</Execution_RespectedIfGuilty.comps.3.eventLabel>
+</LanguageData>

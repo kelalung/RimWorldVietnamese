@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AmbrosiaAddiction.label>Nghiện trái cây thiên đường</AmbrosiaAddiction.label>
+	<AmbrosiaAddiction.description>Sự tiêu thụ trái cây thiên đường lâu dài đã gây ra sự thích nghi của hệ thần kinh.\n\nNếu không tiêu thụ đủ lượng trái cây thiên đường thường xuyên, các triệu chứng cai nghiện sẽ bắt đầu xuất hiện. Thời gian cai nghiện kéo dài sẽ buộc não bộ thích nghi và trở về trạng thái bình thường, từ đó giúp bỏ nghiện trái cây thiên đường.</AmbrosiaAddiction.description>
+	<AmbrosiaAddiction.stages.withdrawal.label>Triệu chứng cai nghiện</AmbrosiaAddiction.stages.withdrawal.label>
+	<AmbrosiaHigh.label>Trạng thái ấm áp từ trái cây thiên đường</AmbrosiaHigh.label>
+	<AmbrosiaHigh.description>Hợp chất từ trái cây thiên đường trong máu mang lại cảm giác vui vẻ.</AmbrosiaHigh.description>
+	<AmbrosiaTolerance.label>Khả năng chịu đựng trái cây thiên đường</AmbrosiaTolerance.label>
+	<AmbrosiaTolerance.description>Khả năng chịu đựng trái cây thiên đường lâu dài. Sự thích nghi càng nghiêm trọng, càng cần nhiều trái cây thiên đường để đạt được hiệu ứng tương tự như trước đây.</AmbrosiaTolerance.description>
+	<AmbrosiaTolerance.stages.small.label>Nhẹ</AmbrosiaTolerance.stages.small.label>
+	<AmbrosiaTolerance.stages.large.label>Mạnh</AmbrosiaTolerance.stages.large.label>
+	<AmbrosiaTolerance.stages.massive.label>Cực mạnh</AmbrosiaTolerance.stages.massive.label>
+</LanguageData>

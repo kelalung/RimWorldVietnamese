@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+		<li>damage_source-&gt;[source][attacked]</li>
+		<li>source-&gt;Một thứ gì đó trong [dark]</li>
+		<li>source-&gt;Một loại vật thể trong [dark]</li>
+		<li>source-&gt;Một sinh vật trong [dark]</li>
+		<li>source-&gt;Một sinh vật vô hình</li>
+		<li>source-&gt;Một sinh vật như bóng tối</li>
+		<li>source-&gt;Kẻ thù vô hình trong [dark]</li>
+		<li>dark-&gt;Đen tối</li>
+		<li>dark-&gt;Rất đen tối</li>
+		<li>dark-&gt;Đen như mực</li>
+		<li>dark-&gt;Bóng tối</li>
+		<li>attacked-&gt;Đã tấn công</li>
+		<li>attacked-&gt;Đã phát động tấn công</li>
+		<li>attacked-&gt;Đã trúng đích</li>
+		<li>damaged_present-&gt;Bị thương</li>
+		<li>damaged_present-&gt;Bị thương</li>
+		<li>destroyed_present-&gt;Biến mất</li>
+		<li>destroyed_present-&gt;Bị tàn phế</li>
+		<li>destroyed_present-&gt;Bị cắt đứt</li>
+	</DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+</LanguageData>

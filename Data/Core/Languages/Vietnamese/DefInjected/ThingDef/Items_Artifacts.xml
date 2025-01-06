@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PsychicAnimalPulser.label>Máy phát xung tâm linh cho động vật</PsychicAnimalPulser.label>
+	<PsychicAnimalPulser.description>Một thiết bị tâm linh dùng một lần. Nó phát ra xung tâm linh rộng lớn có thể truyền vào não những hình ảnh kinh hoàng, khiến tất cả động vật trong khu vực hiện tại rơi vào trạng thái "săn lùng con người". Các động vật thuộc về thuộc địa của bạn sẽ không bị ảnh hưởng.</PsychicAnimalPulser.description>
+	<PsychicAnimalPulser.comps.CompUsable.useLabel>Kích hoạt {0_label}</PsychicAnimalPulser.comps.CompUsable.useLabel>
+	<PsychicSoothePulser.label>Máy phát xung an ủi tâm linh</PsychicSoothePulser.label>
+	<PsychicSoothePulser.description>Một thiết bị tâm linh dùng một lần. Nó phát ra xung tâm linh rộng lớn có thể dẫn dắt sự tự thỏa mãn, từ đó tạm thời nâng cao tâm trạng của tất cả mọi người trong khu vực hiện tại.</PsychicSoothePulser.description>
+	<PsychicSoothePulser.comps.CompUsable.useLabel>Kích hoạt {0_label}</PsychicSoothePulser.comps.CompUsable.useLabel>
+</LanguageData>

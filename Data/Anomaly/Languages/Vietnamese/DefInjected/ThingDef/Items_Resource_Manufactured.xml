@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bullet_Shell_Deadlife.label>Đạn xác sống</Bullet_Shell_Deadlife.label>
+	<GhoulResurrectionSerum.label>Huyết thanh phục sinh xác sống</GhoulResurrectionSerum.label>
+	<GhoulResurrectionSerum.description>Capsule chứa chất lỏng màu xám, được pha trộn từ bụi xác sống và hóa chất sinh học cao cấp. Khi tiêm vào xác sống, huyết thanh sẽ khiến nó sống lại. Quá trình phục sinh mất vài giờ.</GhoulResurrectionSerum.description>
+	<GhoulResurrectionSerum.comps.CompUsable.useLabel>Sử dụng {0_label}</GhoulResurrectionSerum.comps.CompUsable.useLabel>
+	<JuggernautSerum.label>Huyết thanh mạnh mẽ</JuggernautSerum.label>
+	<JuggernautSerum.description>Chai kim tiêm chứa chất lỏng màu vàng đục, có khả năng nâng cao tốc độ và sức mạnh của người sử dụng, đồng thời giúp vết thương nhanh chóng hồi phục. Khi tiêm vào cơ bắp, huyết thanh sẽ cung cấp năng lượng cho các quá trình trao đổi chất của người sử dụng. Tuy nhiên, chất này không ổn định và có thể ảnh hưởng đến tâm lý của người sử dụng, khiến họ lo âu và trầm cảm.</JuggernautSerum.description>
+	<JuggernautSerum.comps.CompUsable.useLabel>Sử dụng {0_label}</JuggernautSerum.comps.CompUsable.useLabel>
+	<JuggernautSerum.ingestible.ingestCommandString>Tiêm {0}</JuggernautSerum.ingestible.ingestCommandString>
+	<JuggernautSerum.ingestible.ingestReportString>Tiêm {0}.</JuggernautSerum.ingestible.ingestReportString>
+	<MetalbloodSerum.label>Huyết thanh máu thép</MetalbloodSerum.label>
+	<MetalbloodSerum.description>Chai kim tiêm chứa chất lỏng màu gỉ sét, trong đó có thuốc liên tục thay đổi giữa dạng lỏng và rắn. Khi tiêm vào máu, chất này sẽ giúp cơ thể nhanh chóng cứng lại trước khi bị va chạm, giúp người sử dụng chống chịu nhiều sát thương hơn. Tuy nhiên, chất hóa học dựa trên kim loại này cũng khiến người sử dụng trở nên yếu hơn khi đối mặt với lửa.</MetalbloodSerum.description>
+	<MetalbloodSerum.comps.CompUsable.useLabel>Sử dụng {0_label}</MetalbloodSerum.comps.CompUsable.useLabel>
+	<MetalbloodSerum.ingestible.ingestCommandString>Tiêm {0}</MetalbloodSerum.ingestible.ingestCommandString>
+	<MetalbloodSerum.ingestible.ingestReportString>Tiêm {0}.</MetalbloodSerum.ingestible.ingestReportString>
+	<MindNumbSerum.label>Huyết thanh tê liệt tâm trí</MindNumbSerum.label>
+	<MindNumbSerum.description>Chai kim tiêm chứa chất lỏng dính trong suốt. Khi tiêm gần thân não, nó có thể khiến người sử dụng ngừng suy nghĩ và không còn cảm nhận được sự lạnh lẽo của con người. Điều này sẽ tạm thời ngăn chặn họ khỏi việc sụp đổ tinh thần hoặc kích thích cảm hứng.</MindNumbSerum.description>
+	<MindNumbSerum.comps.CompUsable.useLabel>Sử dụng {0_label}</MindNumbSerum.comps.CompUsable.useLabel>
+	<MindNumbSerum.ingestible.ingestCommandString>Tiêm {0}</MindNumbSerum.ingestible.ingestCommandString>
+	<MindNumbSerum.ingestible.ingestReportString>Tiêm {0}.</MindNumbSerum.ingestible.ingestReportString>
+	<Shell_Deadlife.label>Đạn xác sống</Shell_Deadlife.label>
+	<Shell_Deadlife.description>Đạn được nạp đầy bụi xác sống. Khi đạn được bắn ra, nó sẽ cắm vào mặt đất một thời gian và liên tục phát tán bụi xác sống, có thể biến đổi xác chết của người và động vật xung quanh thành những quái thú đi lang thang. Những quái thú này chỉ tấn công kẻ thù của bạn. Có thể bắn bằng súng cối hoặc lắp đặt thành bẫy. Nổ khi bị hư hại.</Shell_Deadlife.description>
+	<Shell_Deadlife_Releasing.label>Đạn xác sống</Shell_Deadlife_Releasing.label>
+	<VoidsightSerum.label>Huyết thanh thị giác hư vô</VoidsightSerum.label>
+	<VoidsightSerum.description>Chất lỏng đen dạng dầu không ngừng quằn quại trong ống tiêm. Khi tiêm vào mắt, nó có thể mở ra thị giác hư vô, giúp người sử dụng cảm nhận các hiện tượng tâm linh tối tăm. Sử dụng thuốc này trong quá trình điều tra các thực thể bất thường có thể nâng cao hiệu quả thu thập kiến thức về các hiện tượng, đồng thời tăng cường độ nhạy cảm tâm linh, nhưng cũng ảnh hưởng đến tâm trạng.\n\nHiệu quả của thuốc này là tạm thời và không thể tích lũy.</VoidsightSerum.description>
+	<VoidsightSerum.comps.CompUsable.useLabel>Sử dụng {0_label}</VoidsightSerum.comps.CompUsable.useLabel>
+	<VoidsightSerum.ingestible.ingestCommandString>Tiêm {0}</VoidsightSerum.ingestible.ingestCommandString>
+	<VoidsightSerum.ingestible.ingestReportString>Tiêm {0}.</VoidsightSerum.ingestible.ingestReportString>
+</LanguageData>

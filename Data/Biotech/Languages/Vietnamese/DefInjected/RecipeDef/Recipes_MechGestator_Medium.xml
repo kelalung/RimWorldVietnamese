@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CentipedeBlaster.label>Nuôi dưỡng máy côn trùng tấn công</CentipedeBlaster.label>
+<CentipedeBlaster.description>Nuôi dưỡng một máy côn trùng trang bị đại bác tấn công.</CentipedeBlaster.description>
+<CentipedeBlaster.jobString>Đang nuôi dưỡng máy móc.</CentipedeBlaster.jobString>
+<Lancer.label>Nuôi dưỡng máy tấn công tĩnh</Lancer.label>
+<Lancer.description>Nuôi dưỡng một máy tấn công tĩnh.</Lancer.description>
+<Lancer.jobString>Đang nuôi dưỡng máy móc.</Lancer.jobString>
+<Legionary.label>Nuôi dưỡng máy bảo vệ</Legionary.label>
+<Legionary.description>Nuôi dưỡng một máy bảo vệ.</Legionary.description>
+<Legionary.jobString>Đang nuôi dưỡng máy móc.</Legionary.jobString>
+<Pikeman.label>Nuôi dưỡng máy bọ cạp</Pikeman.label>
+<Pikeman.description>Nuôi dưỡng một máy bọ cạp.</Pikeman.description>
+<Pikeman.jobString>Đang nuôi dưỡng máy móc.</Pikeman.jobString>
+<Scorcher.label>Nuôi dưỡng máy bọ cạp lửa</Scorcher.label>
+<Scorcher.description>Nuôi dưỡng một máy bọ cạp lửa.</Scorcher.description>
+<Scorcher.jobString>Đang nuôi dưỡng máy móc.</Scorcher.jobString>
+<Scyther.label>Nuôi dưỡng máy tấn công bay</Scyther.label>
+<Scyther.description>Nuôi dưỡng một máy tấn công bay.</Scyther.description>
+<Scyther.jobString>Đang nuôi dưỡng máy móc.</Scyther.jobString>
+<Tesseron.label>Nuôi dưỡng máy canh gác</Tesseron.label>
+<Tesseron.description>Nuôi dưỡng một máy canh gác.</Tesseron.description>
+<Tesseron.jobString>Đang nuôi dưỡng máy móc.</Tesseron.jobString>
+</LanguageData>

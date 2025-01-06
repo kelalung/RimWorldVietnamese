@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <RelicHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(classicMode==True)-&gt;Bạn đã biết một thánh vật đang ở gần đây.\n\n[relic_name] là một trong số [relicGlobalCount] thánh vật được mọi người tôn kính. Nếu bạn có thể tìm thấy nó, bạn có thể xây dựng một bàn thờ thánh vật khổng lồ để tôn vinh nó, có thể khiến những người thuộc địa của bạn vui vẻ và thu hút những người hành hương giàu có.</li>
+    <li>questDescription(classicMode==False)-&gt;Bạn đã biết một thánh vật của [ideo_name] đang ở gần đây.\n\n[relic_name] là một cổ vật được tất cả [ideo_memberNamePlural] thờ phụng. Nếu bạn có thể tìm thấy nó, bạn có thể xây dựng một bàn thờ thánh vật khổng lồ để tôn vinh nó, nhằm làm hài lòng [ideo_memberNamePlural] và thu hút nhiều tín đồ hơn cho [ideo_name].</li>
+    <li>questDescriptionPartBeforeDiscovery-&gt;Trước tiên, bạn cần tìm [relic_name]. Hãy chú ý đến các cơ hội để có được thông tin về thánh vật.</li>
+</RelicHunt.questDescriptionRules.rulesStrings>
+<RelicHunt.questNameRules.rulesStrings>
+    <li>questName-&gt;[hunt][item] hành động</li>
+    <li>questName-&gt;[itemAdj][item]</li>
+    <li>questName(classicMode==False)-&gt;[ideo_name] của [item]</li>
+    <li>hunt-&gt; Tìm kiếm</li>
+    <li>hunt-&gt; Săn lùng</li>
+    <li>hunt-&gt; Khám phá</li>
+    <li>item(p=4)-&gt;[relic_name]</li>
+    <li>item-&gt; Thánh vật</li>
+    <li>item-&gt; Bảo vật</li>
+    <li>itemAdj-&gt; Cổ xưa</li>
+    <li>itemAdj-&gt; Được tôn kính</li>
+    <li>itemAdj-&gt; Được coi là báu vật</li>
+</RelicHunt.questNameRules.rulesStrings>
+</LanguageData>

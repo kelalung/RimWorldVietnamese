@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CrashedShipPartIncoming.label>Phần tàu vũ trụ bị rơi (đang rơi)</CrashedShipPartIncoming.label>
+	<DropPodIncoming.label>Buồng vận chuyển (đang rơi)</DropPodIncoming.label>
+	<DropPodIncomingMechanoid.label>Buồng vận chuyển (đang rơi)</DropPodIncomingMechanoid.label>
+	<DropPodLeaving.label>Buồng vận chuyển (đang phóng)</DropPodLeaving.label>
+	<MeteoriteIncoming.label>Thiên thạch (đang rơi)</MeteoriteIncoming.label>
+	<ShipChunkIncoming.label>Đống xác tàu (đang rơi)</ShipChunkIncoming.label>
+	<ShuttleCrashing.label>Máy bay vận tải (đang rơi)</ShuttleCrashing.label>
+</LanguageData>

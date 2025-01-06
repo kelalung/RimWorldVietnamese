@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodRain.label>Mưa máu</BloodRain.label>
+	<BloodRain.description>Trời đổ mưa như máu. Bất kỳ ai tiếp xúc lâu dài sẽ rơi vào cơn cuồng bạo.</BloodRain.description>
+	<BloodRain.endMessage>Mưa máu đã ngừng lại.</BloodRain.endMessage>
+	<BloodRain.letterText>Trời bắt đầu đổ mưa như máu.\n\nBất kỳ ai bị lộ ra sẽ cảm thấy một cơn giận dữ vô danh, tăng cường sức mạnh tấn công cận chiến, nhưng cuối cùng sẽ rơi vào trạng thái cuồng bạo. Các động vật bị ảnh hưởng sẽ bắt đầu săn lùng con người. Độ mạnh của hiệu ứng này thay đổi tùy thuộc vào từng cá nhân, liên quan đến đặc điểm, độ nhạy cảm tâm linh và các yếu tố khác.</BloodRain.letterText>
+	<DeathPall.label>Sương mù xác sống</DeathPall.label>
+	<DeathPall.description>Một làn sương mù màu xám đen bao trùm khu vực này.\n\nLàn sương này được tạo thành từ các vi mạch siêu nhiên mục nát, sẽ xâm nhập vào xác chết của sinh vật, "hồi sinh" chúng thành những quái vật đi lang thang kỳ quái.\n\nCẩn thận! Dù là đốt cháy, chôn cất, phá hủy hay di chuyển vào trong... bạn phải ngăn chặn khả năng phục hồi của chúng càng nhiều càng tốt!</DeathPall.description>
+	<DeathPall.letterText>Một làn sương mù màu xám đen bao trùm khu vực này.\n\nLàn sương này được tạo thành từ các vi mạch siêu nhiên mục nát, sẽ xâm nhập vào xác chết của sinh vật, "hồi sinh" chúng thành những quái vật đi lang thang kỳ quái.\n\nCẩn thận! Dù là đốt cháy, chôn cất, phá hủy hay di chuyển vào trong... bạn phải ngăn chặn khả năng phục hồi của chúng càng nhiều càng tốt!</DeathPall.letterText>
+	<GrayPall.label>Sương mù xám</GrayPall.label>
+	<GrayPall.description>Một làn sương mù thô ráp như bụi bao trùm khu vực này, phát ra mùi hôi thối và chua chát. Thời tiết bất thường này sẽ gợi lên nỗi sợ hãi trong lòng người.</GrayPall.description>
+	<GrayPall.letterText>Một làn sương mù thô ráp như bụi bao trùm khu vực này, phát ra mùi hôi thối và chua chát. Thời tiết bất thường này sẽ gợi lên nỗi sợ hãi trong lòng người.</GrayPall.letterText>
+	<HateChantDrone.label>Ngâm thơ thù hận</HateChantDrone.label>
+	<HateChantDrone.description>Các tín đồ Horax đang thực hiện một nghi lễ ngâm thơ tâm linh. Lời ngâm không may này sẽ truyền tải một sự thù hận tối tăm và ảo giác. Âm thanh này sẽ đánh thẳng vào tâm hồn, khiến người nghe nổi da gà. Chừng nào lời ngâm này còn tồn tại, những người định cư sẽ cảm thấy bất an.\n\nNếu không ngăn chặn nhóm giáo phái này, ảnh hưởng của lời ngâm sẽ ngày càng tăng.</HateChantDrone.description>
+	<UnnaturalDarkness.label>Bóng tối bất thường</UnnaturalDarkness.label>
+	<UnnaturalDarkness.description>Cả thế giới chìm trong bóng tối bất thường. Những tiếng rên rỉ kinh hoàng của các sinh vật không phải con người vang lên bên tai. Hãy ở lại những nơi có ánh sáng đầy đủ.</UnnaturalDarkness.description>
+	<UnnaturalHeat.label>Nhiệt độ cao bất thường</UnnaturalHeat.label>
+	<UnnaturalHeat.description>Các thiết bị phát nhiệt đang gây rối loạn các phân tử khí trong bầu khí quyển, làm tăng nhiệt độ bên ngoài.</UnnaturalHeat.description>
+</LanguageData>

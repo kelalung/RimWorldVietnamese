@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AcceptedDeserter.label>Chấp nhận đào ngũ</AcceptedDeserter.label>
+	<FailedToKeepLodgersHappy.label>Không giữ được tâm trạng của khách</FailedToKeepLodgersHappy.label>
+	<MemberMissedShuttle.label>Thành viên bỏ lỡ tàu con thoi</MemberMissedShuttle.label>
+	<MonumentConstructionExpired.label>Xây dựng tượng đài hết hạn</MonumentConstructionExpired.label>
+	<MonumentConstructionMapRemoved.label>Tượng đài đã bị bỏ</MonumentConstructionMapRemoved.label>
+	<MonumentDestroyed.label>Tượng đài bị phá hủy</MonumentDestroyed.label>
+	<QuestGoodwillReward.label>Phần thưởng thiện cảm nhiệm vụ</QuestGoodwillReward.label>
+	<QuestPawnArrested.label>Thành viên đã bị bắt</QuestPawnArrested.label>
+	<QuestPawnLost.label>Thành viên mất tích trong thuộc địa</QuestPawnLost.label>
+	<QuestPrisonerEnslaved.label>Tù nhân cho vay đã bị nô lệ</QuestPrisonerEnslaved.label>
+	<QuestPrisonerRecruited.label>Tù nhân cho vay đã được tuyển mộ</QuestPrisonerRecruited.label>
+	<ShuttleCommanderMissedShuttle.label>Chỉ huy tàu con thoi bỏ lỡ tàu con thoi</ShuttleCommanderMissedShuttle.label>
+	<ShuttleGuardsMissedShuttle.label>Vệ sĩ tàu con thoi bỏ lỡ tàu con thoi</ShuttleGuardsMissedShuttle.label>
+</LanguageData>

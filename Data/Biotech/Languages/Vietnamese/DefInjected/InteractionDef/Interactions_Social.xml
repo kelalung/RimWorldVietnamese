@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BabyPlay.label>Chơi đùa</BabyPlay.label>
+	<BabyPlay.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã [reaction] với [RECIPIENT_nameDef]。</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã [interaction] với [RECIPIENT_nameDef]。</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] và [RECIPIENT_nameDef] cùng chơi [babyGame]。</li>
+		<li>reaction-&gt;cười khúc khích</li>
+		<li>reaction-&gt;mỉm cười</li>
+		<li>reaction-&gt;nhảy múa</li>
+		<li>reaction-&gt;cười lớn</li>
+		<li>reaction-&gt;chảy nước miếng nghịch ngợm</li>
+		<li>reaction-&gt;phát ra tiếng kêu</li>
+		<li>reaction-&gt;la lớn</li>
+		<li>reaction-&gt;ợ hơi</li>
+		<li>reaction-&gt;nhìn chăm chú</li>
+		<li>interaction-&gt;mỉm cười vui vẻ</li>
+		<li>interaction-&gt;chơi đùa</li>
+		<li>interaction-&gt;quan tâm</li>
+		<li>interaction-&gt;đùa giỡn</li>
+		<li>interaction-&gt;ngứa ngáy</li>
+		<li>interaction-&gt;vuốt ve nhẹ nhàng</li>
+		<li>interaction-&gt;hắt xì</li>
+		<li>interaction-&gt;ôm ấp</li>
+		<li>interaction-&gt;ném đồ vật</li>
+		<li>interaction-&gt;hát</li>
+		<li>interaction-&gt;kể một câu chuyện</li>
+		<li>interaction-&gt;biểu diễn một trò ảo thuật</li>
+		<li>babyGame-&gt;trốn tìm</li>
+		<li>babyGame-&gt;trốn tìm</li>
+		<li>babyGame-&gt;tìm ngón tay</li>
+		<li>babyGame-&gt;bắt chước người khác</li>
+		<li>babyGame-&gt;trình diễn và kể lại</li>
+		<li>babyGame-&gt;ngón tay rối</li>
+	</BabyPlay.logRulesInitiator.rulesStrings>
+	<LessonAnimals.label>Khóa học huấn luyện động vật</LessonAnimals.label>
+	<LessonAnimals.logRulesInitiator.rulesStrings>
+		<li>r_logentry(p=4)-&gt;[INITIATOR_nameDef] đã [teach_verb] [RECIPIENT_nameDef] cách [animal_verb] [article_animal]。</li>
+		<li>article_animal-&gt;một con lười lớn</li>
+		<li>article_animal-&gt;một con nhện khổng lồ</li>
+		<li>article_animal-&gt;một con thú gõ kiến</li>
+		<li>article_animal-&gt;một con chuột nổ</li>
+		<li>article_animal-&gt;một con sóc</li>
+		<li>article_animal-&gt;một con chuột lang</li>
+		<li>article_animal-&gt;một con rắn hổ mang</li>
+		<li>article_animal-&gt;một con đà điểu</li>
+		<li>article_animal-&gt;một con kỳ nhông</li>
+		<li>article_animal-&gt;một con gấu trúc</li>
+		<li>article_animal-&gt;một con sói đồng cỏ</li>
+		<li>article_animal-&gt;một con bò yak</li>
+		<li>article_animal-&gt;một con sóc</li>
+		<li>article_animal-&gt;một con bò tuyết</li>
+		<li>animal_verb-&gt;huấn luyện</li>
+		<li>animal_verb-&gt;nuôi dưỡng</li>
+		<li>animal_verb-&gt;an ủi</li>
+		<li>animal_verb-&gt;doạ dẫm</li>
+		<li>animal_verb-&gt;giành được lòng tin của</li>
+		<li>subject-&gt;Tâm lý học động vật</li>
+		<li>subject-&gt;Kỹ năng huấn luyện</li>
+		<li>subject-&gt;Động vật hoang dã nguy hiểm</li>
+		<li>subject-&gt;Động vật bò sát</li>
+		<li>subject-&gt;Bệnh điên</li>
+		<li>subject-&gt;Thức ăn thô</li>
+	</LessonAnimals.logRulesInitiator.rulesStrings>
+	<LessonArtistic.label>Khóa học nghệ thuật</LessonArtistic.label>
+	<LessonArtistic.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cây cọ</li>
+		<li>article_tool-&gt;>một cây bút than</li>
+		<li>article_tool-&gt;>một cái đục</li>
+		<li>article_tool-&gt;một tấm vải</li>
+		<li>article_tool-&gt;>một khối đất sét</li>
+		<li>action-&gt;sáng tạo nghệ thuật tại</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;bộc lộ bản thân tại</li>
+		<li>action_gerund-&gt;sáng tác nghệ thuật</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;bộc lộ bản thân tại</li>
+		<li>subject-&gt;Vật liệu điêu khắc</li>
+		<li>subject-&gt;Nghệ sĩ nổi tiếng</li>
+		<li>subject-&gt;Tác phẩm nghệ thuật nổi tiếng</li>
+		<li>subject-&gt;Triển lãm nghệ thuật lấp lánh</li>
+		<li>subject-&gt;Chân dung</li>
+		<li>subject-&gt;Nghệ thuật trừu tượng</li>
+		<li>subject-&gt;Pha màu</li>
+	</LessonArtistic.logRulesInitiator.rulesStrings>
+	<LessonConstruction.label>Khóa học xây dựng</LessonConstruction.label>
+	<LessonConstruction.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cái búa</li>
+		<li>article_tool-&gt;một cái máy cưa bàn</li>
+		<li>article_tool-&gt;một cái thước</li>
+		<li>article_tool-&gt;một cái thang</li>
+		<li>article_tool-&gt;một cái thước nước</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;làm việc tại</li>
+		<li>action-&gt;kiểm tra</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;làm việc tại</li>
+		<li>action_gerund-&gt;kiểm tra</li>
+		<li>subject-&gt;thiết bị</li>
+		<li>subject-&gt;kỹ thuật xây dựng</li>
+		<li>subject-&gt;kỹ thuật phá dỡ</li>
+		<li>subject-&gt;vật liệu xây dựng</li>
+		<li>subject-&gt;phần mềm mô hình hóa</li>
+		<li>subject-&gt;bản thiết kế</li>
+	</LessonConstruction.logRulesInitiator.rulesStrings>
+	<LessonCooking.label>Khóa học nấu ăn</LessonCooking.label>
+	<LessonCooking.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cái bếp</li>
+		<li>article_tool-&gt;một cái xẻng</li>
+		<li>article_tool-&gt;một cái lò nướng</li>
+		<li>article_tool-&gt;một cái nồi sâu</li>
+		<li>article_tool-&gt;một cái cửa nạp liệu</li>
+		<li>article_tool-&gt;một cái bàn mổ</li>
+		<li>action-&gt;làm sạch</li>
+		<li>action-&gt;nấu ăn tại</li>
+		<li>action_gerund-&gt;làm sạch</li>
+		<li>action_gerund-&gt;nấu ăn tại</li>
+		<li>subject-&gt;gia vị</li>
+		<li>subject-&gt;đóng gói thực phẩm sống sót</li>
+		<li>subject-&gt;loại trứng</li>
+		<li>subject-&gt;loại thịt</li>
+		<li>subject-&gt;điều vị</li>
+		<li>subject-&gt;công thức nấu ăn</li>
+		<li>situation-&gt;khi đi xa</li>
+		<li>situation-&gt;nhắm mắt</li>
+		<li>situation-&gt;vội vã</li>
+		<li>situation-&gt;an toàn</li>
+	</LessonCooking.logRulesInitiator.rulesStrings>
+	<LessonCrafting.label>Khóa học thủ công</LessonCrafting.label>
+	<LessonCrafting.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cái tua vít</li>
+		<li>article_tool-&gt;một cái kìm</li>
+		<li>article_tool-&gt;>một bảng mạch điện</li>
+		<li>article_tool-&gt;một bàn may</li>
+		<li>article_tool-&gt;một bàn gia công cơ khí</li>
+		<li>article_tool-&gt;một bàn lắp ráp</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;làm việc tại</li>
+		<li>action-&gt;kiểm tra</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;làm việc tại</li>
+		<li>action_gerund-&gt;kiểm tra</li>
+		<li>subject-&gt;công cụ chuẩn bị</li>
+		<li>subject-&gt;kỹ thuật sửa chữa</li>
+		<li>subject-&gt;đồ dùng nhỏ</li>
+		<li>subject-&gt;loại vải</li>
+		<li>subject-&gt;kỹ thuật dệt</li>
+		<li>subject-&gt;giáp</li>
+		<li>subject-&gt;đai đa năng</li>
+		<li>subject-&gt;ngành sinh học mô phỏng</li>
+		<li>situation-&gt;an toàn</li>
+		<li>situation-&gt;không rõ ràng</li>
+		<li>situation-&gt;ánh nến</li>
+		<li>situation(p=0.1)-&gt;say rượu</li>
+	</LessonCrafting.logRulesInitiator.rulesStrings>
+	<LessonGeneric.label>Khóa học</LessonGeneric.label>
+	<LessonGeneric.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] đã dạy cho [RECIPIENT_nameDef] một khóa học.</li>
+	</LessonGeneric.logRulesInitiator.rulesStrings>
+	<LessonIntellectual.label>Khóa học tri thức</LessonIntellectual.label>
+	<LessonIntellectual.logRulesInitiator.rulesStrings>
+		<li>subject-&gt;di truyền học</li>
+		<li>subject-&gt;bản thiết kế nghiên cứu</li>
+		<li>subject-&gt;chức năng của máy phân tích đa biến</li>
+		<li>subject-&gt;triết học</li>
+		<li>subject-&gt;toán học</li>
+		<li>subject-&gt;sinh học</li>
+		<li>subject-&gt;hóa học</li>
+		<li>subject-&gt;bí mật công nghệ siêu việt</li>
+		<li>subject-&gt;reactor tàu không gian</li>
+		<li>subject-&gt;phương pháp khoa học</li>
+		<li>subject-&gt;white paper có ý nghĩa quan trọng</li>
+		<li>subject-&gt;động cơ tàu không gian</li>
+	</LessonIntellectual.logRulesInitiator.rulesStrings>
+	<LessonMedicine.label>Khóa học y học</LessonMedicine.label>
+	<LessonMedicine.logRulesInitiator.rulesStrings>
+		<li>r_logentry(p=5)-&gt;[INITIATOR_nameDef] [teach_verb] cách [medical_verb] [hediff] cho [RECIPIENT_nameDef].</li>
+		<li>article_tool-&gt;một bộ y tế</li>
+		<li>article_tool-&gt;một cuộn băng</li>
+		<li>article_tool-&gt;một cái ống tiêm</li>
+		<li>article_tool-&gt;một loại thảo dược</li>
+		<li>article_tool-&gt;một máy theo dõi dấu hiệu sinh tồn</li>
+		<li>article_tool-&gt;một con dao phẫu thuật</li>
+		<li>article_tool-&gt;một lần sử dụng chất lỏng chữa bệnh</li>
+		<li>article_tool-&gt;một miếng chip giảm đau</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;kiểm tra</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;kiểm tra</li>
+		<li>hediff-&gt;mất máu</li>
+		<li>hediff-&gt;đau tim</li>
+		<li>hediff-&gt;say nắng</li>
+		<li>hediff-&gt;ngộ độc thực phẩm</li>
+		<li>hediff-&gt;khối u ung thư</li>
+		<li>hediff-&gt;giun đường ruột</li>
+		<li>hediff-&gt;ký sinh trùng cơ bắp</li>
+		<li>hediff-&gt;liệt</li>
+		<li>hediff-&gt;sốt rét</li>
+		<li>hediff-&gt;cúm</li>
+		<li>hediff-&gt;xơ gan</li>
+		<li>medical_verb-&gt;chẩn đoán</li>
+		<li>medical_verb-&gt;phân biệt</li>
+		<li>medical_verb-&gt;điều trị</li>
+		<li>subject-&gt;liều gây mê</li>
+		<li>subject-&gt;loại ung thư</li>
+		<li>subject-&gt;phẫu thuật</li>
+		<li>subject-&gt;thái độ lâm sàng</li>
+		<li>subject-&gt;phương pháp khử trùng</li>
+	</LessonMedicine.logRulesInitiator.rulesStrings>
+	<LessonMelee.label>Khóa học chiến đấu</LessonMelee.label>
+	<LessonMelee.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cái rìu chiến</li>
+		<li>article_tool-&gt;một cái gậy</li>
+		<li>article_tool-&gt;một cái kiếm</li>
+		<li>article_tool-&gt;một con dao khuỷu tay</li>
+		<li>article_tool-&gt;một cái móng tay</li>
+		<li>article_tool-&gt;một cái kiếm dài</li>
+		<li>article_tool-&gt;một cái kiếm đơn phân tử</li>
+		<li>article_tool-&gt;một cái kiếm plasma</li>
+		<li>article_tool-&gt;một cái giáo dài</li>
+		<li>article_tool-&gt;một cái búa đầu đinh</li>
+		<li>article_tool-&gt;một cái búa chiến</li>
+		<li>article_tool-&gt;đấm tay</li>
+		<li>action-&gt;tránh né</li>
+		<li>action-&gt;chiến đấu tại</li>
+		<li>action-&gt;đối phó</li>
+		<li>action-&gt;bảo trì</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;vung vẩy</li>
+		<li>action_gerund-&gt;tránh né</li>
+		<li>action_gerund-&gt;chiến đấu tại</li>
+		<li>action_gerund-&gt;đối phó</li>
+		<li>action_gerund-&gt;bảo trì</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;vung vẩy</li>
+	</LessonMelee.logRulesInitiator.rulesStrings>
+	<LessonMining.label>Khóa học khai thác</LessonMining.label>
+	<LessonMining.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một cái cuốc sắt</li>
+		<li>article_tool-&gt;một cái giếng khoan sâu</li>
+		<li>article_tool-&gt;một cái xẻng</li>
+		<li>article_tool-&gt;một máy quét khoáng sản từ xa</li>
+		<li>article_tool-&gt;một máy quét địa chất</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;khai thác tại</li>
+		<li>action-&gt;làm việc tại</li>
+		<li>action-&gt;kiểm tra</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;khai thác tại</li>
+		<li>action_gerund-&gt;làm việc tại</li>
+		<li>action_gerund-&gt;kiểm tra</li>
+		<li>subject-&gt;mạch khoáng</li>
+		<li>subject-&gt;đá quý</li>
+		<li>subject-&gt;địa chất học</li>
+		<li>subject-&gt;xây dựng hầm</li>
+		<li>subject-&gt;phân tích trầm tích</li>
+		<li>subject-&gt;kiểm tra hang động</li>
+		<li>situation(p=2)-&gt;ngầm</li>
+	</LessonMining.logRulesInitiator.rulesStrings>
+	<LessonPlants.label>Khóa học làm vườn</LessonPlants.label>
+	<LessonPlants.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một đèn năng lượng mặt trời</li>
+		<li>article_tool-&gt;một chậu cây thủy canh</li>
+		<li>article_tool-&gt;một bình tưới</li>
+		<li>article_tool-&gt;một cái xẻng</li>
+		<li>article_tool-&gt;>cái kéo cắt cành</li>
+		<li>action-&gt;làm vườn tại</li>
+		<li>action-&gt;sử dụng</li>
+		<li>action-&gt;kiểm tra</li>
+		<li>action_gerund-&gt;làm vườn tại</li>
+		<li>action_gerund-&gt;sử dụng</li>
+		<li>action_gerund-&gt;kiểm tra</li>
+		<li>subject-&gt;loại đất</li>
+		<li>subject-&gt;thuốc trừ sâu</li>
+		<li>subject-&gt;công nghệ tưới nước</li>
+		<li>subject-&gt;loại xương rồng</li>
+		<li>subject-&gt;cây mẹ</li>
+		<li>subject-&gt;cây mẹ</li>
+	</LessonPlants.logRulesInitiator.rulesStrings>
+	<LessonShooting.label>Khóa học bắn súng</LessonShooting.label>
+	<LessonShooting.logRulesInitiator.rulesStrings>
+		<li>article_tool-&gt;một khẩu súng trường tấn công</li>
+		<li>article_tool-&gt;một khẩu súng ngắn</li>
+		<li>article_tool-&gt;một khẩu shotgun</li>
+		<li>article_tool-&gt;một máy phóng tên lửa</li>
+		<li>article_tool-&gt;một khẩu súng tiểu liên</li>
+		<li>article_tool-&gt;một khẩu súng máy bắn nhanh</li>
+		<li>article_tool-&gt;một cây cung ngắn</li>
+		<li>article_tool-&gt;một cây cung dài</li>
+		<li>article_tool-&gt;một cây cung khổng lồ</li>
+		<li>action-&gt;nhắm bắn</li>
+		<li>action-&gt;bắn</li>
+		<li>action-&gt;bảo trì</li>
+		<li>action-&gt;đạn dược</li>
+		<li>action_gerund-&gt;nhắm bắn</li>
+		<li>action_gerund-&gt;bắn</li>
+		<li>action_gerund-&gt;bảo trì</li>
+		<li>action_gerund-&gt;đạn dược</li>
+	</LessonShooting.logRulesInitiator.rulesStrings>
+	<LessonSocial.label>Khóa học xã hội</LessonSocial.label>
+	<LessonSocial.logRulesInitiator.rulesStrings>
+		<li>subject-&gt;diễn thuyết trước công chúng</li>
+		<li>subject-&gt;quan hệ phe phái</li>
+		<li>subject-&gt;chiêu mộ tù nhân</li>
+		<li>subject-&gt;thương lượng</li>
+		<li>subject-&gt;duy trì mối quan hệ</li>
+		<li>subject-&gt;quy tắc sử dụng đài phát thanh</li>
+		<li>subject-&gt;thúc đẩy tinh thần</li>
+		<li>subject-&gt;ngôn ngữ thô tục</li>
+		<li>subject-&gt;ngôn ngữ ký hiệu</li>
+	</LessonSocial.logRulesInitiator.rulesStrings>
+	<SanguophageChat.label>Cuộc trò chuyện về giống huyết</SanguophageChat.label>
+	<SanguophageChat.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] và [RECIPIENT_nameDef][talkedabout][subject]。</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] và [RECIPIENT_nameDef] đã cùng nhau[talkedabout][subject]。</li>
+		<li>talkedabout-&gt;thảo luận về</li>
+		<li>talkedabout-&gt;đề cập đến</li>
+		<li>talkedabout-&gt;thì thầm về</li>
+		<li>talkedabout(p=0.5)-&gt;[adverb]thảo luận về</li>
+		<li>talkedabout(p=0.5)-&gt;[adverb]đề cập đến</li>
+		<li>talkedabout(p=0.5)-&gt;[adverb]thì thầm về</li>
+		<li>talkedabout-&gt;chia sẻ một câu chuyện về</li>
+		<li>talkedabout-&gt;trao đổi về</li>
+		<li>talkedabout-&gt;trao đổi về</li>
+		<li>talkedabout-&gt;thể hiện sự quan tâm chung đến</li>
+		<li>talkedabout-&gt;tranh luận về</li>
+		<li>talkedabout-&gt;cãi nhau về</li>
+		<li>talkedabout-&gt;chia sẻ câu chuyện về</li>
+		<li>adverb-&gt;thân thiện</li>
+		<li>adverb-&gt;khẽ khàng</li>
+		<li>adverb-&gt;nhẹ nhàng</li>
+		<li>adverb-&gt;khó chịu</li>
+		<li>adverb-&gt;đắng cay</li>
+		<li>adverb-&gt;mệt mỏi</li>
+		<li>adverb-&gt;suy nghĩ sâu sắc</li>
+		<li>adverb-&gt;tỉnh táo </li>
+		<li>adverb-&gt;thận trọng</li>
+		<li>adverb-&gt;nghiêm túc</li>
+		<li>subject(p=20)-&gt;[planType] kế hoạch</li>
+		<li>subject(p=0.1)-&gt;[TalkTopicHeavy]</li>
+		<li>subject-&gt;chất huyết nguyên</li>
+		<li>subject-&gt;chất lượng máu</li>
+		<li>subject-&gt;người ăn thịt người</li>
+		<li>subject-&gt;sự bất tử</li>
+		<li>subject-&gt;trạng thái hỗn loạn</li>
+		<li>subject-&gt;bất tử</li>
+		<li>subject-&gt;sự trôi qua thời gian</li>
+		<li>subject-&gt;sinh và tử</li>
+		<li>subject-&gt;giấc ngủ chết</li>
+		<li>subject-&gt;lừa dối cái chết</li>
+		<li>subject-&gt;ngai vàng</li>
+		<li>subject-&gt;nhân tính</li>
+		<li>subject-&gt;lửa</li>
+		<li>subject-&gt;sự cháy</li>
+		<li>subject-&gt;đau đớn</li>
+		<li>subject-&gt;sự khổ sở</li>
+		<li>subject-&gt;chém đầu</li>
+		<li>subject-&gt;lột da kẻ thù</li>
+		<li>subject-&gt;tra tấn</li>
+		<li>subject-&gt;sự siêu việt</li>
+		<li>subject-&gt;di truyền học</li>
+		<li>subject-&gt;gen</li>
+		<li>subject-&gt;người khác loài</li>
+		<li>subject-&gt;huyết tộc</li>
+		<li>subject-&gt;giống kỵ binh</li>
+		<li>subject-&gt;giống lửa ma</li>
+		<li>subject-&gt;giống chuột đất</li>
+		<li>subject-&gt;giống trí thức</li>
+		<li>subject-&gt;giống người Ni</li>
+		<li>subject-&gt;giống heo rừng</li>
+		<li>subject-&gt;giống xác chết</li>
+		<li>subject-&gt;lịch sử sâu sắc</li>
+		<li>subject-&gt;lịch sử tương lai</li>
+		<li>planType-&gt;người thống trị</li>
+		<li>planType-&gt;chiến lược tiến công</li>
+		<li>planType-&gt;sát nhập</li>
+		<li>planType-&gt;áp đặt ảnh hưởng</li>
+		<li>planType-&gt;thu thập huyết nguyên</li>
+		<li>planType-&gt;thành thạo kỹ thuật</li>
+		<li>planType-&gt;lan tỏa đến các thế giới khác</li>
+		<li>planType-&gt;ảnh hưởng đến nhân loại</li>
+		<li>planType-&gt;tiêu diệt thợ săn huyết</li>
+		<li>planType-&gt;thưởng thức cuộc sống vô tận</li>
+	</SanguophageChat.logRulesInitiator.rulesStrings>
+</LanguageData>

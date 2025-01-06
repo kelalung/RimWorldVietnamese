@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <AgeReversalDemanded.stages.harmful_aging.label>Tuổi tác gây hại</AgeReversalDemanded.stages.harmful_aging.label>
+<AgeReversalDemanded.stages.harmful_aging.description>Tôi đã già đi. Tôi nên thực hiện quá trình đảo ngược tuổi tác trong buồng hình thể.</AgeReversalDemanded.stages.harmful_aging.description>
+<AgeReversalDemanded.stages.terrible_aging.label>Tuổi tác khủng khiếp</AgeReversalDemanded.stages.terrible_aging.label>
+<AgeReversalDemanded.stages.terrible_aging.description>Tuổi trẻ của tôi đang phai nhạt. Tôi nên thực hiện quá trình đảo ngược tuổi tác trong buồng hình thể.</AgeReversalDemanded.stages.terrible_aging.description>
+<AgeReversalDemanded.stages.horrific_aging.label>Tuổi tác kinh khủng</AgeReversalDemanded.stages.horrific_aging.label>
+<AgeReversalDemanded.stages.horrific_aging.description>Tôi bị mắc kẹt trong nhà tù của cơ thể thối rữa! Tôi cần thực hiện quá trình đảo ngược tuổi tác trong buồng hình thể.</AgeReversalDemanded.stages.horrific_aging.description>
+<AgeReversalReceived.stages.received_age_reversal.label>Nhận quá trình đảo ngược tuổi tác</AgeReversalReceived.stages.received_age_reversal.label>
+<AgeReversalReceived.stages.received_age_reversal.description>Tuổi tác và cái chết không thể giới hạn tôi. Tôi nên mãi mãi trở thành một con người được tăng cường.</AgeReversalReceived.stages.received_age_reversal.description>
+<BioSculpterDespised.stages.used_biosculpter_pod.label>Sử dụng buồng hình thể</BioSculpterDespised.stages.used_biosculpter_pod.label>
+<BioSculpterDespised.stages.used_biosculpter_pod.description>Sử dụng buồng hình thể đã tước đoạt sự tự do cơ thể của tôi.</BioSculpterDespised.stages.used_biosculpter_pod.description>
+<NeedNeuralSupercharge.stages.want_neural_supercharge.label>Muốn tăng cường thần kinh</NeedNeuralSupercharge.stages.want_neural_supercharge.label>
+<NeedNeuralSupercharge.stages.want_neural_supercharge.description>Nếu không có sự tăng cường thần kinh, khả năng thực sự của tôi là không đủ, điều này thật gây thất vọng.</NeedNeuralSupercharge.stages.want_neural_supercharge.description>
+<SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>Sử dụng thiết bị tăng tốc giấc ngủ</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>
+<SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>Tôi đã nghỉ ngơi bằng cách sử dụng thiết bị tăng tốc giấc ngủ. Điều này sẽ giúp tôi phát huy tiềm năng thực sự, điều đó là đúng.</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>
+</LanguageData>

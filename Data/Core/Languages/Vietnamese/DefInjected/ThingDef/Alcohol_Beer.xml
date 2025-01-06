@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Beer.label>Bia</Beer.label>
+	<Beer.description>Bia là thức uống đầu tiên mà con người tiêu thụ ngoài nước. Bia có vị khá ngon, nhưng hiệu ứng chính của nó là say xỉn. Uống quá nhiều có thể dẫn đến say rượu, và nếu kéo dài sẽ gây nghiện.</Beer.description>
+	<Beer.ingestible.ingestCommandString>Uống {0}</Beer.ingestible.ingestCommandString>
+	<Beer.ingestible.ingestReportString>Đang uống {0}.</Beer.ingestible.ingestReportString>
+	<Beer.tools.bottle.label>Chai</Beer.tools.bottle.label>
+	<Beer.tools.neck.label>Cổ chai</Beer.tools.neck.label>
+	<Wort.label>Chất lỏng bia</Wort.label>
+	<Wort.description>Chất lỏng bia chưa lên men, cần được ủ trong thùng lên men để trở thành bia thực sự.</Wort.description>
+</LanguageData>

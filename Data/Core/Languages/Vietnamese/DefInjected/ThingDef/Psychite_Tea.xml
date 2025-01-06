@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PsychiteTea.label>Trà tâm linh</PsychiteTea.label>
+<PsychiteTea.description>Một loại trà có mùi thơm, được pha chế từ lá tâm linh. Uống sẽ mang lại cảm giác vui vẻ nhẹ nhàng. Quy trình sản xuất đơn giản, nhưng uống quá thường xuyên có thể dẫn đến nghiện.\n\nĐối với nhiều bộ lạc, trà tâm linh không chỉ là một loại đồ uống hàng ngày mà còn là một phần của hoạt động tôn giáo hoặc xã hội.</PsychiteTea.description>
+<PsychiteTea.ingestible.ingestCommandString>Uống {0}</PsychiteTea.ingestible.ingestCommandString>
+<PsychiteTea.ingestible.ingestReportString>Đang uống {0}.</PsychiteTea.ingestible.ingestReportString>
+</LanguageData>

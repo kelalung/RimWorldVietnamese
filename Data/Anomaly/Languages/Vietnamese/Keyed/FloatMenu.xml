@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NoEmptyEntityHolders>Không có điểm giam giữ trống</NoEmptyEntityHolders>
+	<ChooseEntityHolder>Chọn điểm giam giữ</ChooseEntityHolder>
+	<FloatMenuContainmentStrength>Khả năng giam giữ</FloatMenuContainmentStrength>
+	<FloatMenuContainmentRequires>Cần {0_label}</FloatMenuContainmentRequires>
+	<EntityHolderReservedBy>Đã được đặt trước cho</EntityHolderReservedBy>
+	<TalkTo>Nói chuyện với {0_nameDef}</TalkTo>
+	<CannotTalkTo>Không thể nói chuyện với {0_nameDef}</CannotTalkTo>
+	<ZeroSuppressionRate>Không thể kiềm chế</ZeroSuppressionRate>
+	<CannotStandNear>Không thể đứng gần:</CannotStandNear>
+	<ExtractBioferrite>Chiết xuất từ {0}</ExtractBioferrite>
+	<BioferriteAlreadyExtracted>Đang tái sinh sắt sống</BioferriteAlreadyExtracted>
+</LanguageData>

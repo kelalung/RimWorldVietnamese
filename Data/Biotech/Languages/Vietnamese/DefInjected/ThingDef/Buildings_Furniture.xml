@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BabyDecoration.label>Đồ trang trí cho trẻ sơ sinh</BabyDecoration.label>
+<BabyDecoration.description>Đồ trang trí cho trẻ sơ sinh. Khi người lớn và trẻ sơ sinh chơi cùng nhau, đồ trang trí cho trẻ sơ sinh sẽ tăng tốc độ thỏa mãn nhu cầu vui chơi của họ. Cần đặt trong khu vực để trẻ sơ sinh vui chơi.</BabyDecoration.description>
+<BabySleepingSpot.label>Nơi ngủ cho trẻ sơ sinh</BabySleepingSpot.label>
+<BabySleepingSpot.description>Chỉ định một vị trí trên mặt đất cho trẻ sơ sinh ngủ. Rất không thoải mái.</BabySleepingSpot.description>
+<Blackboard.label>Bảng đen</Blackboard.label>
+<Blackboard.description>Một tấm đá phẳng có thể viết bằng phấn. Đặt bảng đen gần bàn học có thể tăng tốc độ học tập của trẻ em trong giờ học. Tối đa có thể sử dụng ba bảng đen.</Blackboard.description>
+<Blackboard.comps.CompInspectStringBlackboard.inspectString>Tốc độ học tập</Blackboard.comps.CompInspectStringBlackboard.inspectString>
+<Crib.label>Cũi trẻ sơ sinh</Crib.label>
+<Crib.description>Một chiếc giường thoải mái, có hàng rào an toàn, rất phù hợp cho em bé buồn ngủ. Cũi chất lượng cao sẽ làm em bé vui vẻ. Có thể đặt nhiều cũi trong phòng ngủ mà không làm phòng trở thành ký túc xá.</Crib.description>
+<SchoolDesk.label>Bàn học</SchoolDesk.label>
+<SchoolDesk.description>Một chiếc bàn, người lớn có thể dạy trẻ em ở đây.</SchoolDesk.description>
+<SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>Tốc độ học tập của trẻ em trong giờ học sẽ được nhân với giá trị này.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+<SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>Tăng cường tốc độ học tập</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+<SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>Tăng cường tốc độ học tập</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
+<ToyBox.label>Hộp đồ chơi</ToyBox.label>
+<ToyBox.description>Hộp chứa nhiều đồ chơi nhỏ. Hộp đồ chơi có thể được sử dụng để thỏa mãn nhu cầu vui chơi của trẻ sơ sinh.</ToyBox.description>
+</LanguageData>

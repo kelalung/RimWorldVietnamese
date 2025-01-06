@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AncientCryptosleepCasket.label>Hòm ngủ đông cổ đại</AncientCryptosleepCasket.label>
+	<AncientCryptosleepCasket.description>Hòm ngủ đông này trông như đã ở đây rất lâu. Ai biết bên trong chứa gì?</AncientCryptosleepCasket.description>
+	<CaravanPackingSpot.label>Điểm buộc đoàn lữ hành</CaravanPackingSpot.label>
+	<CaravanPackingSpot.description>Chỉ định một vị trí để buộc động vật và tổ chức đoàn lữ hành. Các thuộc địa có thể buộc động vật ở đây để thuận tiện cho việc chất hàng hóa. Cũng có thể ngăn chặn động vật không nghe lời lang thang khi thiếu chuồng.</CaravanPackingSpot.description>
+	<CommsConsole.label>Bảng điều khiển liên lạc</CommsConsole.label>
+	<CommsConsole.description>Có thể giao dịch với các thương nhân trên quỹ đạo qua radio. Cũng có thể liên lạc với các phe phái khác để ngoại giao (gửi quà hoặc gọi viện trợ) hoặc yêu cầu thương đoàn giao dịch.</CommsConsole.description>
+	<!-- <CommsConsole.comps.CompUsable.useLabel>Gọi ác quỷ</CommsConsole.comps.CompUsable.useLabel> -->
+	<CryptosleepCasket.label>Hòm ngủ đông</CryptosleepCasket.label>
+	<CryptosleepCasket.description>Thiết bị tự cung cấp điện dùng để duy trì con người trong trạng thái ngừng sinh lý lâu dài.</CryptosleepCasket.description>
+	<DelayedEffecterSpawner.label>Bộ kích hoạt trì hoãn</DelayedEffecterSpawner.label>
+	<EggBox.label>Hộp trứng</EggBox.label>
+	<EggBox.description>Hộp mềm dùng để lưu trữ trứng. Nếu có thể, động vật đẻ trứng sẽ đẻ trong hộp. Người vận chuyển chỉ lấy nội dung ra khi hộp đầy để tiết kiệm thời gian. Hộp cũng bảo vệ trứng không bị lão hóa ngoài trời, mặc dù không thể ngăn chặn hư hỏng do nhiệt độ.</EggBox.description>
+	<FirefoamPopper.label>Bình chữa cháy bọt</FirefoamPopper.label>
+	<FirefoamPopper.description>Khi bị lửa kích hoạt hoặc được kích hoạt thủ công, thiết bị an toàn này sẽ phun bọt chống cháy ra xung quanh.</FirefoamPopper.description>
+	<FirefoamPopper.comps.CompUsable.useLabel>Kích hoạt {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
+	<Grave.label>Mộ</Grave.label>
+	<Grave.description>Cung cấp một nơi an nghỉ xứng đáng cho người đã khuất. Những người thuộc địa sẽ thăm mộ để có được giải trí "thiền".</Grave.description>
+	<GroundPenetratingScanner.label>Máy quét địa chất</GroundPenetratingScanner.label>
+	<GroundPenetratingScanner.description>Cảm biến được sử dụng bởi các nhà nghiên cứu để tìm kiếm tài nguyên chôn vùi. Xác suất tìm thấy tài nguyên phụ thuộc vào khả năng nghiên cứu của người vận hành. Nó tiêu tốn khá nhiều điện. Nếu bạn phát hiện ra một tài nguyên chôn vùi, bạn cần sử dụng khoan sâu để khai thác chúng. Thiết bị này chỉ có thể sử dụng ngoài trời.</GroundPenetratingScanner.description>
+	<LongRangeMineralScanner.label>Máy quét khoáng sản tầm xa</LongRangeMineralScanner.label>
+	<LongRangeMineralScanner.description>Cảm biến sóng ngang được các nhà nghiên cứu sử dụng để phát hiện khoáng sản đặc biệt trên hành tinh. Xác suất tìm thấy tài nguyên phụ thuộc vào khả năng nghiên cứu của người vận hành, nhưng có thể điều chỉnh chỉ quét các loại tài nguyên cụ thể. Nó tiêu tốn khá nhiều điện. Nếu bạn phát hiện ra một tài nguyên, bạn cần cử đoàn lữ hành đến khai thác chúng. Thiết bị này chỉ có thể sử dụng ngoài trời.</LongRangeMineralScanner.description>
+	<MarriageSpot.label>Điểm tổ chức lễ cưới</MarriageSpot.label>
+	<MarriageSpot.description>Chỉ định một vị trí để tổ chức lễ cưới. Khán giả có thể xem lễ cưới từ một hướng nào đó.</MarriageSpot.description>
+	<MoisturePump.label>Bơm thoát nước</MoisturePump.label>
+	<MoisturePump.description>Rất chậm rãi hút ẩm từ địa hình xung quanh, có thể biến đầm lầy hoặc nước nông thành đất khô, hoặc biến cát mịn thành cát bình thường. Không thể cải tạo nước sâu.</MoisturePump.description>
+	<MultiAnalyzer.label>Máy phân tích đa năng</MultiAnalyzer.label>
+	<MultiAnalyzer.description>Tăng tốc độ nghiên cứu, thiết bị cần thiết cho một số dự án nghiên cứu cao cấp. Cần được đặt gần bàn nghiên cứu cao cấp. Một bàn nghiên cứu có thể kết nối tối đa một máy phân tích đa năng cùng lúc.</MultiAnalyzer.description>
+	<OrbitalTradeBeacon.label>Đèn hiệu giao dịch quỹ đạo</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Nếu bạn muốn giao dịch với các thương nhân trên quỹ đạo, bạn phải xây dựng một đèn hiệu giao dịch quỹ đạo. Chỉ có hàng hóa và bạc trong phạm vi hiệu lực của đèn hiệu mới có thể được sử dụng cho giao dịch. Có thể đặt trong nhà, nhưng ít nhất phải có một đèn hiệu ngoài trời để nhận hàng hóa và bạc từ thương nhân gửi đến bạn. Cần tiêu tốn điện.</OrbitalTradeBeacon.description>
+	<PartySpot.label>Điểm tổ chức tiệc</PartySpot.label>
+	<PartySpot.description>Chỉ định một vị trí để tổ chức tiệc tùng. Tiệc sẽ được tổ chức trong khu vực xung quanh.</PartySpot.description>
+	<PenMarker.label>Bảng chỉ dẫn chuồng</PenMarker.label>
+	<PenMarker.description>Một cột có bảng chỉ dẫn. Đặt bảng chỉ dẫn này trong một khu vực được bao quanh bởi hàng rào (có thể thay thế bằng rào chắn hoặc tường), có thể chỉ định khu vực đó là chuồng. Bạn có thể thiết lập các loại động vật có thể chứa cho mỗi bảng chỉ dẫn chuồng, người chăn nuôi sẽ đưa động vật đến chuồng thích hợp.</PenMarker.description>
+	<PodLauncher.label>Máy phóng khoang vận chuyển</PodLauncher.label>
+	<PodLauncher.description>Có thể phóng một khoang vận chuyển đơn lẻ. Máy phóng khoang có thể phóng theo nhóm, nhưng phải được xây dựng gần nhau.</PodLauncher.description>
+	<Sarcophagus.label>Quan tài</Sarcophagus.label>
+	<Sarcophagus.description>Chứa thi thể của những người đã khuất được tôn trọng, là một chiếc quan tài trang trí lộng lẫy.</Sarcophagus.description>
+	<SteleGrand.label>Đài tưởng niệm hoành tráng</SteleGrand.label>
+	<SteleGrand.description>Một tấm đá cao với nhiều hình khắc ở mặt bên. Đài tưởng niệm từ xưa đã được sử dụng để tưởng nhớ nhân vật, trận chiến hoặc các sự kiện quan trọng khác.</SteleGrand.description>
+	<SteleLarge.label>Đài tưởng niệm lớn</SteleLarge.label>
+	<SteleLarge.description>Một tấm đá dày cao có hình khắc ở mặt bên. Đài tưởng niệm từ xưa đã được sử dụng để tưởng nhớ nhân vật, trận chiến hoặc các sự kiện quan trọng khác.</SteleLarge.description>
+	<ToolCabinet.label>Tủ công cụ</ToolCabinet.label>
+	<ToolCabinet.description>Tăng tốc độ làm việc. Cần đặt gần bàn làm việc. Một bàn làm việc có thể kết nối tối đa hai tủ công cụ cùng lúc.</ToolCabinet.description>
+	<TransportPod.label>Khoang vận chuyển</TransportPod.label>
+	<TransportPod.description>Khoang vận chuyển có thể chở người, hàng hóa và động vật. Có thể dùng để gửi quà, vận chuyển, tấn công bất ngờ hoặc tăng cường lực lượng trên chiến trường.</TransportPod.description>
+	<VitalsMonitor.label>Thiết bị theo dõi dấu hiệu sinh tồn</VitalsMonitor.label>
+	<VitalsMonitor.description>Khi được đặt gần giường y tế, có thể nâng cao chất lượng y tế, tỷ lệ thành công của phẫu thuật và tốc độ miễn dịch. Chỉ có hiệu quả với giường y tế, giường thông thường sẽ không nhận được tăng cường. Việc đặt nhiều thiết bị theo dõi dấu hiệu sinh tồn bên cạnh một giường y tế sẽ không tạo ra hiệu ứng chồng chất.</VitalsMonitor.description>
+</LanguageData>

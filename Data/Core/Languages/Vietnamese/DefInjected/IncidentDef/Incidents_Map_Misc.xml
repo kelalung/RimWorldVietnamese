@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Alphabeavers.label>Alpha Hải Ly</Alphabeavers.label>
+	<AmbrosiaSprout.label>Chồi Cây Ambrosia</AmbrosiaSprout.label>
+	<AmbrosiaSprout.letterLabel>Chồi Cây Ambrosia</AmbrosiaSprout.letterLabel>
+	<AmbrosiaSprout.letterText>Gần đây có một khu rừng Ambrosia bí ẩn đang nảy mầm! Nếu bạn chờ đợi những cây này lớn lên, bạn có thể thu hoạch những quả ngon miệng, dễ chịu và hơi gây nghiện.</AmbrosiaSprout.letterText>
+	<ColdSnap.label>Đợt Lạnh</ColdSnap.label>
+	<ColdSnap.letterLabel>Đợt Lạnh</ColdSnap.letterLabel>
+	<ColdSnap.letterText>Một đợt lạnh bất thường đột ngột ập đến.\n\nHạ thân nhiệt do đợt lạnh có thể nhanh chóng giết chết những sinh vật không chịu lạnh. Hãy đảm bảo bạn có nơi trú ẩn với nhiệt độ phù hợp và quần áo ấm, nếu có thể, hãy thu hoạch sản phẩm trước khi cây trồng bị đóng băng.</ColdSnap.letterText>
+	<CropBlight.label>Bệnh Héo</CropBlight.label>
+	<FarmAnimalsWanderIn.label>Động Vật Nuôi Tham Gia</FarmAnimalsWanderIn.label>
+	<Flashstorm.label>Bão Sét</Flashstorm.label>
+	<Flashstorm.letterLabel>Bão Sét</Flashstorm.letterLabel>
+	<Flashstorm.letterText>Một cơn bão sét cực kỳ bất thường đang liên tục tấn công một khu vực nhỏ trong địa phương. Điều này sẽ gây ra hỏa hoạn lớn.</Flashstorm.letterText>
+	<HeatWave.label>Đợt Nóng</HeatWave.label>
+	<HeatWave.letterLabel>Đợt Nóng</HeatWave.letterLabel>
+	<HeatWave.letterText>Một đợt nóng cực kỳ bất thường đã bắt đầu.\n\nĐợt nóng có thể gây ra tình trạng say nắng chết người. Bạn có thể sử dụng thiết bị làm mát bay hơi hoặc điều hòa không khí để giữ cho không gian trong nhà mát mẻ, hoặc đi đến vùng núi sâu để tránh nóng.</HeatWave.letterText>
+	<HerdMigration.label>Di Cư Đàn Gia Súc</HerdMigration.label>
+	<HerdMigration.letterLabel>Động Vật Di Cư: {0}</HerdMigration.letterLabel>
+	<HerdMigration.letterText>Một đàn {0} đã đi qua khu vực này.\n\nTrừ khi bị kích thích, chúng sẽ không tấn công bạn.</HerdMigration.letterText>
+	<MeteoriteImpact.label>Tác Động Thiên Thạch</MeteoriteImpact.label>
+	<MeteoriteImpact.letterLabel>Thiên Thạch</MeteoriteImpact.letterLabel>
+	<MeteoriteImpact.letterText>Một thiên thạch khổng lồ đã va chạm với mặt đất trong khu vực này. Để lại một mảnh {0}.</MeteoriteImpact.letterText>
+	<PsychicDrone.label>Drone Tâm Linh</PsychicDrone.label>
+	<PsychicSoothe.label>Giai Điệu An Ủi Tâm Linh</PsychicSoothe.label>
+	<RansomDemand.label>Yêu Cầu Tiền Chuộc</RansomDemand.label>
+	<RansomDemand.letterLabel>Yêu Cầu Tiền Chuộc</RansomDemand.letterLabel>
+	<RefugeePodCrash.label>Tàu Tị Nạn Rơi Xuống</RefugeePodCrash.label>
+	<ResourcePodCrash.label>Tàu Tài Nguyên Rơi Xuống</ResourcePodCrash.label>
+	<SelfTame.label>Thú Hoang Tự Thuần Hóa</SelfTame.label>
+	<ShortCircuit.label>Ngắn Mạch</ShortCircuit.label>
+	<ThrumboPasses.label>Thú Gõ Nhịp Đi Qua</ThrumboPasses.label>
+	<ToxicFallout.label>Bụi Độc Hại</ToxicFallout.label>
+	<ToxicFallout.letterLabel>Bụi Độc Hại</ToxicFallout.letterLabel>
+	<ToxicFallout.letterText>Bụi độc hại từ một vụ cháy hóa chất ở nơi xa đã lan tỏa khắp khu vực.\n\nBất kỳ con người hay động vật nào không ở dưới mái nhà đều sẽ từ từ bị nhiễm độc.\n\nBụi độc hại sẽ tồn tại trong vài ngày đến một thời gian dài.</ToxicFallout.letterText>
+	<VolcanicWinter.label>Mùa Đông Núi Lửa</VolcanicWinter.label>
+	<VolcanicWinter.letterLabel>Mùa Đông Núi Lửa</VolcanicWinter.letterLabel>
+	<VolcanicWinter.letterText>Khí quyển địa phương bị ô nhiễm bởi hoạt động núi lửa hoặc hỏa hoạn ở xa, liên tục đổ vào một lượng lớn bụi.</VolcanicWinter.letterText>
+	<WandererJoin.label>Người Lang Thang Tham Gia</WandererJoin.label>
+	<WandererJoin.letterLabel>Người Lang Thang {PAWN_nameDef} Tham Gia</WandererJoin.letterLabel>
+	<WandererJoin.letterText>Một người tên {PAWN_nameDef} là {PAWN_title} đã đến đây và tham gia. {PAWN_pronoun} là {PAWN_title}.\n\n{PAWN_pronoun} sẵn sàng giúp đỡ, nhưng sẽ không tự động rời đi. Nếu bạn không chào đón {PAWN_nameDef}, bạn có thể lưu đày {PAWN_objective}, bán {PAWN_objective} cho người buôn nô lệ, hoặc đơn giản là giết chết. Nhưng những người khác có thể cảm thấy không thoải mái vì điều đó.</WandererJoin.letterText>
+	<WildManWandersIn.label>Người Hoang Dã Lang Thang</WildManWandersIn.label>
+	<WildManWandersIn.letterLabel>Người Hoang Dã {0}</WildManWandersIn.letterLabel>
+	<WildManWandersIn.letterText>Một {1} sống như động vật trong thời gian dài đã lang thang đến khu vực này, {PAWN_pronoun} tên là {0}.\n\nBạn có thể cố gắng thuần hóa hoặc bắt [PAWN_objective].</WildManWandersIn.letterText>
+</LanguageData>

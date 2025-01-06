@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RelicAtRitual.stages.at_ritual.label>{RELICNAME} trong nghi lễ</RelicAtRitual.stages.at_ritual.label>
+<RelicAtRitual.stages.at_ritual.description>{RELICNAME} đã xuất hiện trong nghi lễ của chúng tôi.</RelicAtRitual.stages.at_ritual.description>
+<RelicAtRitual.stages.two_relics_at_ritual.label>Có hai di vật trong nghi lễ</RelicAtRitual.stages.two_relics_at_ritual.label>
+<RelicAtRitual.stages.two_relics_at_ritual.description>Có hai di vật xuất hiện trong nghi lễ mà chúng tôi tổ chức.</RelicAtRitual.stages.two_relics_at_ritual.description>
+<RelicAtRitual.stages.three_relics_at_ritual.label>Có ba di vật trong nghi lễ</RelicAtRitual.stages.three_relics_at_ritual.label>
+<RelicAtRitual.stages.three_relics_at_ritual.description>Có ba di vật xuất hiện trong nghi lễ mà chúng tôi tổ chức.</RelicAtRitual.stages.three_relics_at_ritual.description>
+<TrialConvicted.stages.convicted.label>Bị kết án</TrialConvicted.stages.convicted.label>
+<TrialConvicted.stages.convicted.description>Tôi bị vu oan làm một việc xấu xa khủng khiếp!</TrialConvicted.stages.convicted.description>
+<TrialExonerated.stages.exonerated.label>Bị chứng minh vô tội</TrialExonerated.stages.exonerated.label>
+<TrialExonerated.stages.exonerated.description>Họ không có bằng chứng, tôi là người vô tội!</TrialExonerated.stages.exonerated.description>
+<TrialFailed.stages.failed_trial.label>Cáo buộc thất bại</TrialFailed.stages.failed_trial.label>
+<TrialFailed.stages.failed_trial.description>Tôi đã đưa ra cáo buộc, nhưng không đủ sức thuyết phục. Thật là một sự sỉ nhục.</TrialFailed.stages.failed_trial.description>
+</LanguageData>

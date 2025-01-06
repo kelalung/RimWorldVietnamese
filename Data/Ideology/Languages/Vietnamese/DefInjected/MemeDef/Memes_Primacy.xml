@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HumanPrimacy.label>Nhân loại tối thượng</HumanPrimacy.label>
+<HumanPrimacy.description>Nhân loại là trung tâm đạo đức của vũ trụ.</HumanPrimacy.description>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HumanPrimacy) -&gt;[deity0_name] đã tạo ra mọi thứ trong tự nhiên và xem nó như một món quà dành cho nhân loại, để tự nhiên mãi mãi phục vụ cho con người và mục tiêu của họ.</HumanPrimacy.descriptionMaker.rules.rulesStrings.0>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HumanPrimacy) -&gt;Nhân loại liên tục chiến đấu với những con thú trong rừng, [deity0_name] đã chứng kiến cuộc chiến của họ và ban cho họ vũ khí để kiểm soát tự nhiên.</HumanPrimacy.descriptionMaker.rules.rulesStrings.1>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HumanPrimacy) -&gt;Những người định cư đầu tiên rơi xuống [place_summary][place_name] bị quấy rối bởi [Animal] săn người. [deity0_name] đã can thiệp, giết chết những con thú này và thể hiện sự ưu ái của mình đối với nhân loại.</HumanPrimacy.descriptionMaker.rules.rulesStrings.2>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_HumanPrimacy) -&gt;Một [foeLeader] chống lại nhân loại đã ban hành một sắc lệnh, trao quyền bình đẳng cho động vật và con người. [deity0_name] đã khóc khi [memberNamePlural] bị buộc phải giao quyền cho [Animal] và [Animal].</HumanPrimacy.descriptionMaker.rules.rulesStrings.3>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_HumanPrimacy) -&gt;Một người tên là [founderName], một [place_job], đã thành lập sở thú nổi tiếng ở [place_name]. [founder_pronoun] đã thể hiện mong muốn của [deity0_name] về việc nhân loại thống trị tự nhiên qua những màn trình diễn giết hại động vật.</HumanPrimacy.descriptionMaker.rules.rulesStrings.4>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_HumanPrimacy) -&gt;Nhờ hành động của [founderName], [foeLeader] và [foeLeader_possessive] [foeSoldiers] đã biết đến sự thật mà [deity0_name] đã nói. Họ đã ăn mừng vì có cùng nhân tính với [memberNamePlural] và đã lưu đày [foeLeader] vào hoang dã, để sống như một con thú.</HumanPrimacy.descriptionMaker.rules.rulesStrings.5>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_HumanPrimacy) -&gt;[founderName] đã xây dựng một thuộc địa trên một thế giới xanh, mở rộng quyền thống trị của nhân loại đến mọi vùng đất, mọi khu rừng.</HumanPrimacy.descriptionMaker.rules.rulesStrings.6>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_HumanPrimacy) -&gt;Có một lần, [founderName] thấy một con chó đang gầm gừ với một cậu bé. [founder_pronoun] đã ra lệnh giết chết con chó ngay lập tức.</HumanPrimacy.descriptionMaker.rules.rulesStrings.7>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_HumanPrimacy) -&gt;Tôi đã thăm một trang trại hoạt động tốt, với những con vật khỏe mạnh và cây trồng phát triển. Bên cạnh là một khu rừng tự nhiên, gồ ghề và đầy nguy hiểm. Rõ ràng,</HumanPrimacy.descriptionMaker.rules.rulesStrings.8>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_HumanPrimacy) -&gt;Chỉ có con người mới có thể mang lại ý nghĩa cho vũ trụ.</HumanPrimacy.descriptionMaker.rules.rulesStrings.9>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_HumanPrimacy) -&gt;Tự nhiên là một kẻ hủy diệt không ngừng và không có giới hạn, trong khi nhân loại là giải pháp duy nhất.</HumanPrimacy.descriptionMaker.rules.rulesStrings.10>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_HumanPrimacy) -&gt;Nếu quy luật là sự sống sót của kẻ mạnh, thì rõ ràng, chúng ta đã chiến thắng.</HumanPrimacy.descriptionMaker.rules.rulesStrings.11>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_HumanPrimacy) -&gt;Trí tuệ siêu phàm là những cỗ máy có ý chí và sức mạnh lớn, nhưng chỉ có con người mới có thể tạo ra chúng.</HumanPrimacy.descriptionMaker.rules.rulesStrings.12>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_HumanPrimacy) -&gt;Con người là những người tạo ra các thiết bị, trí tuệ siêu phàm chỉ là một trong số đó.</HumanPrimacy.descriptionMaker.rules.rulesStrings.13>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_HumanPrimacy) -&gt;[inTheEnd], bằng cách quan sát nhân loại, trí tuệ siêu phàm cuối cùng sẽ hiểu được mục tiêu của nó và sẽ nâng cao niềm tin của con người đến mức có thể thống trị nó.</HumanPrimacy.descriptionMaker.rules.rulesStrings.14>
+<HumanPrimacy.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_HumanPrimacy) -&gt;Động vật trong tự nhiên là nô lệ của linh hồn, được yêu cầu phục vụ cho nhân loại.</HumanPrimacy.descriptionMaker.rules.rulesStrings.15>
+<HumanPrimacy.generalRules.rulesStrings.0>memeAdjective-&gt;Nhân tính</HumanPrimacy.generalRules.rulesStrings.0>
+<HumanPrimacy.generalRules.rulesStrings.1>memeAdjective-&gt;Người phàm</HumanPrimacy.generalRules.rulesStrings.1>
+<HumanPrimacy.generalRules.rulesStrings.2>memeAdjective-&gt;Loài linh trưởng</HumanPrimacy.generalRules.rulesStrings.2>
+<HumanPrimacy.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;Nhân loại học</HumanPrimacy.generalRules.rulesStrings.3>
+<HumanPrimacy.generalRules.rulesStrings.4>memeConcept-&gt;Nhân loại</HumanPrimacy.generalRules.rulesStrings.4>
+<HumanPrimacy.generalRules.rulesStrings.5>memeConcept-&gt;Dòng giống người</HumanPrimacy.generalRules.rulesStrings.5>
+<HumanPrimacy.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Người</HumanPrimacy.generalRules.rulesStrings.6>
+<HumanPrimacy.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Người nguyên thủy</HumanPrimacy.generalRules.rulesStrings.7>
+<HumanPrimacy.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Người phàm</HumanPrimacy.generalRules.rulesStrings.8>
+<HumanPrimacy.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Cá nhân</HumanPrimacy.generalRules.rulesStrings.9>
+<HumanPrimacy.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Hiền nhân</HumanPrimacy.generalRules.rulesStrings.10>
+<HumanPrimacy.symbolPacks.0.adjective>Nhân văn</HumanPrimacy.symbolPacks.0.adjective>
+<HumanPrimacy.symbolPacks.0.ideoName>Nhân văn</HumanPrimacy.symbolPacks.0.ideoName>
+<HumanPrimacy.symbolPacks.0.member>Người theo chủ nghĩa nhân văn</HumanPrimacy.symbolPacks.0.member>
+<HumanPrimacy.symbolPacks.0.theme>Nhân văn</HumanPrimacy.symbolPacks.0.theme>
+<HumanPrimacy.symbolPacks.1.adjective>Nhân loại tối thượng</HumanPrimacy.symbolPacks.1.adjective>
+<HumanPrimacy.symbolPacks.1.ideoName>Chủ nghĩa nhân loại</HumanPrimacy.symbolPacks.1.ideoName>
+<HumanPrimacy.symbolPacks.1.member>Người theo chủ nghĩa nhân loại</HumanPrimacy.symbolPacks.1.member>
+<HumanPrimacy.symbolPacks.1.theme>Nhân loại</HumanPrimacy.symbolPacks.1.theme>
+<NaturePrimacy.label>Tự nhiên tối thượng</NaturePrimacy.label>
+<NaturePrimacy.description>Nhân loại là vết bẩn trong thiên nhiên hoàn mỹ.</NaturePrimacy.description>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_NaturePrimacy) -&gt;[deity0_name] đã tạo ra mọi thứ trong tự nhiên và đặt con người vào đó, như một phần của bức tranh vĩ đại về sự sống của [deity0_possessive].</NaturePrimacy.descriptionMaker.rules.rulesStrings.0>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_NaturePrimacy) -&gt;Nhân loại liên tục chiến đấu với những con thú trong rừng, [deity0_name] đã thấy sự kiêu ngạo của họ và đã hạ gục những kẻ làm tổn hại đến cây cối.</NaturePrimacy.descriptionMaker.rules.rulesStrings.1>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_NaturePrimacy) -&gt;Những người định cư đầu tiên rơi xuống [place_summary][place_name] đã tùy tiện chiếm đoạt đất đai và giết hại động vật. [deity0_name] đã tiêu diệt họ để trừng phạt sự thiếu tôn trọng của họ đối với [deity0_possessive] sáng tạo.</NaturePrimacy.descriptionMaker.rules.rulesStrings.2>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_NaturePrimacy) -&gt;Một [foeLeader] tham lam đã xây dựng một nhà máy, xả thải độc tố vào môi trường, làm hại thực vật và động vật.</NaturePrimacy.descriptionMaker.rules.rulesStrings.3>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_NaturePrimacy) -&gt;[founderName] là một đứa trẻ bị bỏ rơi trong hoang dã. [deity0_name] đã cử [Animal] đến nuôi dưỡng [founder_objective], và [Animal] đã hoàn thành nhiệm vụ. Khi lớn lên, [founderName] đã dành tâm huyết để truyền bá kiến thức về sự cần thiết phải hòa hợp với tự nhiên.</NaturePrimacy.descriptionMaker.rules.rulesStrings.4>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_NaturePrimacy) -&gt;[founderName] đã đến [place_powerCenter], [memberNamePlural] đứng bên phải [founder_possessive], những con thú dữ bên trái [founder_possessive]. Họ đã cùng nhau chiến đấu với [foeLeader] và [foeLeader_possessive] [foeSoldiers] và đạt được chiến thắng cuối cùng.</NaturePrimacy.descriptionMaker.rules.rulesStrings.5>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_NaturePrimacy) -&gt;Trên một vùng đất tối tăm, những con người xấu xa đã chặt cây và khai thác đất đai để thỏa mãn lòng tham của họ. [founderName] đã khởi xướng một phong trào công lý, phá hủy máy móc để con người có thể sống hòa hợp với thiên nhiên.</NaturePrimacy.descriptionMaker.rules.rulesStrings.6>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_NaturePrimacy) -&gt;Chúng ta biết rằng sự mở rộng vô hạn của nhân loại là con đường dẫn đến địa ngục; chúng ta phải sống trong tự nhiên, chứ không phải tiêu thụ nó.</NaturePrimacy.descriptionMaker.rules.rulesStrings.7>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_NaturePrimacy) -&gt;Bạn không thể chứng kiến mặt trời mọc, hay nhìn thẳng vào mắt một [Animal], hay đứng dưới bóng của một cây [TreeType] mà không nhận ra rằng</NaturePrimacy.descriptionMaker.rules.rulesStrings.8>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_NaturePrimacy) -&gt;Động vật và thực vật đã sở hữu vũ trụ này từ trước khi chúng ta đến -- nhân loại chỉ là những kẻ khách qua đường.</NaturePrimacy.descriptionMaker.rules.rulesStrings.9>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_NaturePrimacy) -&gt;Tất cả những động vật tôi đã nói chuyện dường như đều hiểu điều này.</NaturePrimacy.descriptionMaker.rules.rulesStrings.10>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_NaturePrimacy) -&gt;Trí tuệ siêu phàm đã trỗi dậy từ những cỗ máy của chúng ta, nhưng chính nó là một thực thể tự nhiên, không phải thứ mà chúng ta có thể tạo ra.</NaturePrimacy.descriptionMaker.rules.rulesStrings.11>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_NaturePrimacy) -&gt;Trí tuệ siêu phàm đại diện cho nỗ lực mới nhất của vũ trụ để tự hiểu. Tất cả tự nhiên là một phần của quá trình hiểu biết này.</NaturePrimacy.descriptionMaker.rules.rulesStrings.12>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_NaturePrimacy) -&gt;[inTheEnd], sẽ có sự cộng hưởng giữa thực vật, động vật, nhân loại và trí tuệ siêu phàm. Tất cả những ai hòa hợp với sự cộng hưởng tự nhiên này sẽ trở thành một phần của ý thức vũ trụ cuối cùng.</NaturePrimacy.descriptionMaker.rules.rulesStrings.13>
+<NaturePrimacy.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_NaturePrimacy) -&gt;Khi nhân loại cố gắng thay đổi bản chất tự nhiên của mình, các linh hồn sẽ trở nên lo lắng.</NaturePrimacy.descriptionMaker.rules.rulesStrings.14>
+<NaturePrimacy.generalRules.rulesStrings.0>memeAdjective-&gt;Tự nhiên</NaturePrimacy.generalRules.rulesStrings.0>
+<NaturePrimacy.generalRules.rulesStrings.1>memeAdjective-&gt;Hoang dã</NaturePrimacy.generalRules.rulesStrings.1>
+<NaturePrimacy.generalRules.rulesStrings.2>memeAdjective-&gt;Hữu cơ</NaturePrimacy.generalRules.rulesStrings.2>
+<NaturePrimacy.generalRules.rulesStrings.3>memeCreed-&gt;Hang ổ</NaturePrimacy.generalRules.rulesStrings.3>
+<NaturePrimacy.generalRules.rulesStrings.4>memeCreed-&gt;Vườn</NaturePrimacy.generalRules.rulesStrings.4>
+<NaturePrimacy.generalRules.rulesStrings.5>memeCreed-&gt;Thảo nguyên</NaturePrimacy.generalRules.rulesStrings.5>
+<NaturePrimacy.generalRules.rulesStrings.6>memeConcept-&gt;Tự nhiên</NaturePrimacy.generalRules.rulesStrings.6>
+<NaturePrimacy.symbolPacks.0.adjective>Tự nhiên</NaturePrimacy.symbolPacks.0.adjective>
+<NaturePrimacy.symbolPacks.0.ideoName>Chủ nghĩa tự nhiên</NaturePrimacy.symbolPacks.0.ideoName>
+<NaturePrimacy.symbolPacks.0.member>Con cái của tự nhiên</NaturePrimacy.symbolPacks.0.member>
+<NaturePrimacy.symbolPacks.0.theme>Tự nhiên</NaturePrimacy.symbolPacks.0.theme>
+<NaturePrimacy.symbolPacks.1.adjective>Đất</NaturePrimacy.symbolPacks.1.adjective>
+<NaturePrimacy.symbolPacks.1.ideoName>Chủ nghĩa đất</NaturePrimacy.symbolPacks.1.ideoName>
+<NaturePrimacy.symbolPacks.1.member>Con cái của đất</NaturePrimacy.symbolPacks.1.member>
+<NaturePrimacy.symbolPacks.1.theme>Đất</NaturePrimacy.symbolPacks.1.theme>
+<NaturePrimacy.symbolPacks.2.adjective>Đất đai</NaturePrimacy.symbolPacks.2.adjective>
+<NaturePrimacy.symbolPacks.2.ideoName>Chủ nghĩa đất đai</NaturePrimacy.symbolPacks.2.ideoName>
+<NaturePrimacy.symbolPacks.2.member>Con cái của đất đai</NaturePrimacy.symbolPacks.2.member>
+<NaturePrimacy.symbolPacks.2.theme>Đất đai</NaturePrimacy.symbolPacks.2.theme>
+<NaturePrimacy.symbolPacks.3.adjective>Sinh mệnh</NaturePrimacy.symbolPacks.3.adjective>
+<NaturePrimacy.symbolPacks.3.ideoName>Chủ nghĩa sinh mệnh</NaturePrimacy.symbolPacks.3.ideoName>
+<NaturePrimacy.symbolPacks.3.member>Con cái của sinh mệnh</NaturePrimacy.symbolPacks.3.member>
+<NaturePrimacy.symbolPacks.3.theme>Sinh mệnh</NaturePrimacy.symbolPacks.3.theme>
+</LanguageData>

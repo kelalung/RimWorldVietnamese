@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Beggars.label>Người ăn xin</Beggars.label>
+<Beggars.description>Một nhóm người ăn xin khao khát sự cứu trợ.</Beggars.description>
+<Beggars.leaderTitle>Lãnh đạo</Beggars.leaderTitle>
+<Beggars.pawnSingular>Người ăn xin</Beggars.pawnSingular>
+<Beggars.pawnsPlural>Người ăn xin</Beggars.pawnsPlural>
+<CannibalPirate.label>Nhóm cướp ăn thịt người</CannibalPirate.label>
+<CannibalPirate.description>Một liên minh lỏng lẻo của một nhóm cướp biển, họ đã đồng ý không tự sát mà tập trung vào kẻ thù bên ngoài.\n\nNhững tên cướp biển này không trồng trọt, không xây dựng, và hiếm khi giao thương. Họ chủ yếu trở nên giàu có bằng cách cướp bóc và cướp phá các tổ chức khác trong khu vực.\n\nCông nghệ của họ phụ thuộc vào những gì họ đã thành công trong việc đánh cắp gần đây. Họ thường sử dụng vũ khí hỏa lực, và một số có thể thích tấn công cận chiến bằng dao.\n\nNhóm cướp biển này đặc biệt thích ăn thịt người.</CannibalPirate.description>
+<CannibalPirate.leaderTitle>Thủ lĩnh</CannibalPirate.leaderTitle>
+<CannibalPirate.pawnSingular>Cướp biển</CannibalPirate.pawnSingular>
+<CannibalPirate.pawnsPlural>Cướp biển</CannibalPirate.pawnsPlural>
+<NudistTribe.label>Bộ lạc khỏa thân</NudistTribe.label>
+<NudistTribe.description>Những người này đã tồn tại ở đây rất lâu. Có thể tổ tiên của họ đã rơi xuống đây hàng ngàn năm trước, hoặc họ là những người sống sót sau một thảm họa văn minh. Dù sao đi nữa, những người bản địa này chủ yếu là những người du mục bản địa, sử dụng công cụ và vũ khí nguyên thủy.\n\nMặc dù công nghệ rõ ràng kém phát triển, nhưng với số lượng, sự dũng cảm, và kỹ năng chiến tranh công nghệ thấp, những bộ lạc này có thể trở thành kẻ thù nguy hiểm hoặc bạn bè quý giá.\n\nBộ lạc này tin rằng cơ thể con người không nên bị che giấu bởi quần áo.</NudistTribe.description>
+<NudistTribe.leaderTitle>Chủ tịch</NudistTribe.leaderTitle>
+<NudistTribe.pawnSingular>Bộ lạc</NudistTribe.pawnSingular>
+<NudistTribe.pawnsPlural>Bộ lạc</NudistTribe.pawnsPlural>
+<Pilgrims.label>Nhà hành hương</Pilgrims.label>
+<Pilgrims.description>Một nhóm nhà hành hương muốn thờ cúng một di vật cổ đại.</Pilgrims.description>
+<Pilgrims.leaderTitle>Lãnh đạo</Pilgrims.leaderTitle>
+<Pilgrims.pawnSingular>Nhà hành hương</Pilgrims.pawnSingular>
+<Pilgrims.pawnsPlural>Nhà hành hương</Pilgrims.pawnsPlural>
+<TribeCannibal.label>Bộ lạc ăn thịt người</TribeCannibal.label>
+<TribeCannibal.description>Những người này đã tồn tại ở đây rất lâu. Có thể tổ tiên của họ đã rơi xuống đây hàng ngàn năm trước, hoặc họ là những người sống sót sau một thảm họa văn minh. Dù sao đi nữa, những người bản địa này chủ yếu là những người du mục bản địa, sử dụng công cụ và vũ khí nguyên thủy.\n\nMặc dù công nghệ rõ ràng kém phát triển, nhưng với số lượng, sự dũng cảm, và kỹ năng chiến tranh công nghệ thấp, những bộ lạc này có thể trở thành kẻ thù nguy hiểm hoặc bạn bè quý giá.\n\nBộ lạc này cho rằng ăn thịt kẻ thù là vinh quang tối thượng.</TribeCannibal.description>
+<TribeCannibal.leaderTitle>Chủ tịch</TribeCannibal.leaderTitle>
+<TribeCannibal.pawnSingular>Bộ lạc</TribeCannibal.pawnSingular>
+<TribeCannibal.pawnsPlural>Bộ lạc</TribeCannibal.pawnsPlural>
+</LanguageData>

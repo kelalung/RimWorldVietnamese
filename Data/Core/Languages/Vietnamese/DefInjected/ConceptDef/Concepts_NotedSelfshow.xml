@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Alerts.label>Cảnh báo</Alerts.label>
+	<Alerts.helpText>Nút cảnh báo ở cạnh phải màn hình sẽ cho bạn biết những điều cần chú ý.\n\nHãy nhớ để ý.</Alerts.helpText>
+	<AllowedAreas.label>Khu vực hoạt động được phép</AllowedAreas.label>
+	<AllowedAreas.helpText>Các thuộc địa và động vật có thể giới hạn khu vực hoạt động bằng cách thiết lập "khu vực hoạt động được phép" trong bảng "Kiểm soát" ở phía dưới màn hình. Họ sẽ không thực hiện bất kỳ hoạt động nào ngoài khu vực hoạt động.\n\nBạn có thể thiết lập nhiều khu vực và đặt các kế hoạch hạn chế khác nhau cho các thuộc địa/động vật khác nhau.\n\n"Thêm khu vực hoạt động" hoặc "Xóa khu vực hoạt động" cần thực hiện trong tab "Khu vực" của bảng "Kế hoạch xây dựng". Phân bổ khu vực cần thực hiện trong bảng "Kiểm soát".</AllowedAreas.helpText>
+	<AnimalTaming.label>Thuần hóa động vật</AnimalTaming.label>
+	<AnimalTaming.helpText>Bạn có thể chỉ định các thuộc địa thuần hóa động vật hoang dã bằng lệnh "Thuần hóa".\n\nCác thuộc địa sẽ cung cấp thức ăn cho động vật và sau đó cố gắng thuần hóa chúng.\n\nCẩn thận: Một số động vật có thể trở nên hung dữ và tấn công thuộc địa của bạn khi bị thuần hóa.</AnimalTaming.helpText>
+	<AnimalTraining.label>Huấn luyện động vật</AnimalTraining.label>
+	<AnimalTraining.helpText>Trong tab "Huấn luyện" của động vật đã được thuần hóa, bạn có thể chỉ định động vật tiếp tục nhận huấn luyện các kỹ năng cụ thể.\n\nĐộng vật không thể được huấn luyện liên tục, cần có thời gian giữa các giai đoạn huấn luyện.</AnimalTraining.helpText>
+	<CameraDolly.label>Di chuyển ống kính</CameraDolly.label>
+	<CameraDolly.helpText>Giữ nút "chuột giữa hoặc chuột phải" và kéo hoặc sử dụng các phím {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} để di chuyển ống kính.</CameraDolly.helpText>
+	<CameraDolly.helpTextController>Sử dụng cần điều khiển để di chuyển ống kính.</CameraDolly.helpTextController>
+	<CameraZoom.label>Phóng to ống kính</CameraZoom.label>
+	<CameraZoom.helpText>Sử dụng "cuộn chuột", hoặc các phím {Key:MapZoom_In} và {Key:MapZoom_Out} để phóng to ống kính.</CameraZoom.helpText>
+	<CameraZoom.helpTextController>Sử dụng các phím {Key:MapZoom_In} và {Key:MapZoom_Out} để phóng to ống kính.</CameraZoom.helpTextController>
+	<ClickingMessages.label>Thông báo nhấp chuột</ClickingMessages.label>
+	<ClickingMessages.helpText>Bạn có thể nhanh chóng chuyển đến khu vực mục tiêu để xem chi tiết bằng cách nhấp vào thông báo xuất hiện ở góc trên bên trái màn hình.</ClickingMessages.helpText>
+	<CoverAndShooting.label>Che chắn và bắn</CoverAndShooting.label>
+	<CoverAndShooting.helpText>Bài học đầu tiên về chiến đấu từ xa: hãy tìm chỗ che chắn cho mình trước.\n\nChỗ che chỉ có hiệu lực khi thuộc địa của bạn đứng sát bên cạnh nó và trong đường bắn.\n\nBạn cũng có thể đặt thuộc địa ở góc tường và bắn. Họ sẽ bắn từ bên cạnh.\n\nHầu hết các vật thể đều có thể làm chỗ che, nhưng hiệu quả của chúng không giống nhau, một cái cây tốt hơn là không có chỗ che, nhưng không bằng bao cát.</CoverAndShooting.helpText>
+	<Deterioration.label>Sự xuống cấp của vật phẩm</Deterioration.label>
+	<Deterioration.helpText>Các vật phẩm đặt ngoài trời sẽ từ từ xuống cấp do mưa và các yếu tố khác.\n\nNếu bạn muốn bảo quản vật phẩm lâu dài, hãy đặt chúng vào phòng có mái hoặc trên kệ vật phẩm.</Deterioration.helpText>
+	<EquippingWeapons.label>Trang bị vũ khí</EquippingWeapons.label>
+	<EquippingWeapons.helpText>Các thuộc địa của bạn cũng mang theo vũ khí khi đến nơi. Hãy trang bị cho họ nhé!\n\nChọn một thuộc địa, nhấp chuột phải vào vũ khí muốn trang bị, sau đó chọn "Trang bị vũ khí" trong thanh lệnh xuất hiện. Hãy trang bị vũ khí cho mọi người!</EquippingWeapons.helpText>
+	<EquippingWeapons.helpTextController>Các thuộc địa của bạn cũng mang theo vũ khí khi đến nơi. Hãy trang bị cho họ nhé!\n\nChọn một thuộc địa, nhấp chuột trái vào vũ khí muốn trang bị, sau đó chọn "Trang bị vũ khí" trong thanh lệnh xuất hiện. Hãy trang bị vũ khí cho mọi người!</EquippingWeapons.helpTextController>
+	<FirePreparation.label>Chuẩn bị phòng cháy</FirePreparation.label>
+	<FirePreparation.helpText>Hỏa hoạn có thể dễ dàng phá hủy thuộc địa của bạn, vì vậy phòng cháy an toàn rất quan trọng, chúng tôi khuyên bạn các phương pháp sau:\n\n1. Không xây dựng một tòa nhà quá lớn, thay vào đó hãy xây nhiều tòa nhà nhỏ độc lập.\n\n2. Cố gắng chọn vật liệu ít dễ cháy để xây dựng nhà. Gỗ có thể dễ dàng thu thập nhưng rất dễ cháy.\n\n3. Bằng cách trải một lớp sàn rộng 3 đến 4 ô quanh căn cứ có thể ngăn chặn tốt việc cháy rừng lan đến căn cứ của bạn.</FirePreparation.helpText>
+	<Forbidding.label>Cấm và mở khóa</Forbidding.label>
+	<Forbidding.helpText>Các thuộc địa không thể thao tác với các vật phẩm được đánh dấu là "cấm". Các vật phẩm bị cấm sẽ hiển thị một dấu "X" màu đỏ. Chọn một vật phẩm bị cấm, nhấp vào nút "Cho phép" trong thanh điều khiển phía dưới màn hình để mở khóa.</Forbidding.helpText>
+	<ForbiddingDoors.label>Cấm cửa</ForbiddingDoors.label>
+	<ForbiddingDoors.helpText>Bạn có thể cấm cửa để ngăn các thuộc địa và động vật đã thuần hóa đi qua các cánh cửa nhất định.\n\nLưu ý: Điều này không giống như khóa cửa, chỉ đơn giản là ngăn họ đi qua, trong khi các thuộc địa bị suy sụp tinh thần và các nhân vật trung lập/đồng minh vẫn có thể sử dụng cánh cửa này.</ForbiddingDoors.helpText>
+	<FormCaravan.label>Thành lập đoàn thám hiểm</FormCaravan.label>
+	<FormCaravan.helpText>Bạn có thể thành lập một đoàn thám hiểm để cử một nhóm người đi qua hành tinh này.\n\nTrong bảng "Thế giới" ở phía dưới màn hình, chọn căn cứ của bạn và nhấp vào nút "Thành lập đoàn thám hiểm".</FormCaravan.helpText>
+	<FriendlyFireSafety.label>Nguy cơ bắn nhầm đồng đội</FriendlyFireSafety.label>
+	<FriendlyFireSafety.helpText>Nếu đồng đội ở đủ gần, sẽ không bao giờ xảy ra bắn nhầm.\n\nCác đơn vị cận chiến đứng sát bên tay súng sẽ không bị bắn nhầm bởi hỏa lực của đồng đội, người bắn sẽ bắn qua vai của họ.\n\nĐây là một cách tốt để phối hợp giữa các đơn vị cận chiến và tầm xa.</FriendlyFireSafety.helpText>
+	<GettingMoreTraders.label>Nhận thêm thương đoàn</GettingMoreTraders.label>
+	<GettingMoreTraders.helpText>Càng nhiều đồng minh, càng nhiều thương đoàn.\n\nBạn có thể gọi đồng minh gửi thương đoàn thông qua trạm liên lạc, nhưng sẽ mất một số điểm thiện cảm.</GettingMoreTraders.helpText>
+	<GrowingFood.label>Khu vực trồng trọt</GrowingFood.label>
+	<GrowingFood.helpText>Để trồng cây, bạn có thể tìm thấy "Khu vực trồng trọt" trong tab "Khu vực" của bảng "Kế hoạch xây dựng".\n\nKhu vực trồng trọt không thể được tạo ra trên địa hình có độ màu mỡ quá thấp hoặc không có độ màu mỡ.</GrowingFood.helpText>
+	<HistoryTab.label>Tab "Lịch sử"</HistoryTab.label>
+	<HistoryTab.helpText>Bạn có thể xem lại quá trình phát triển và tích lũy tài sản của thuộc địa qua tab "Lịch sử".</HistoryTab.helpText>
+	<HomeArea.label>Tìm hiểu khu vực sinh sống</HomeArea.label>
+	<HomeArea.helpText>"Khu vực sinh sống" là khu vực mà thuộc địa của bạn sẽ dọn dẹp và dập lửa.\n\nBạn có thể tìm thấy "Khu vực sinh sống" trong tab "Khu vực" của bảng "Kế hoạch xây dựng".</HomeArea.helpText>
+	<HostilityResponse.label>Chế độ phản ứng thù địch</HostilityResponse.label>
+	<HostilityResponse.helpText>Bạn có thể thiết lập cách các thuộc địa tự động phản ứng khi gặp nguy hiểm.\n\nChọn chế độ "Chạy trốn", "Phản công" hoặc "Phớt lờ" trong bảng "Kế hoạch".</HostilityResponse.helpText>
+	<InfoCard.label>Thẻ thông tin chi tiết</InfoCard.label>
+	<InfoCard.helpText>Bất kỳ vật phẩm, tòa nhà và nhân vật nào cũng có thể xem dữ liệu chi tiết thông qua thẻ thông tin.\n\nNhấp vào "i" để mở thẻ thông tin và vào bảng thông tin chi tiết.</InfoCard.helpText>
+	<ManualWorkPriorities.label>Phân bổ ưu tiên công việc thủ công</ManualWorkPriorities.label>
+	<ManualWorkPriorities.helpText>Trong thế giới biên giới, việc thiết lập một chế độ công việc thông minh là rất quan trọng.\n\nSau khi bật chế độ "Phân bổ ưu tiên công việc thủ công" trong bảng "Công việc", bạn có thể thiết lập ưu tiên cụ thể cho mỗi công việc của từng thuộc địa.\n\nSử dụng chuột trái và phải để thay đổi số ưu tiên, đánh dấu "1" là công việc đầu tiên cần làm, đánh dấu "4" là công việc cuối cùng cần làm, nếu không có số nào thì có nghĩa là không tham gia công việc đó.\n\nCác thuộc địa luôn sẽ thực hiện công việc có ưu tiên cao hơn trước. Nếu nhiều công việc có cùng ưu tiên, công việc ở bên trái sẽ được xử lý trước.</ManualWorkPriorities.helpText>
+	<MedicalOperations.label>Phẫu thuật y tế</MedicalOperations.label>
+	<MedicalOperations.helpText>Để thực hiện một ca phẫu thuật, chẳng hạn như cắt bỏ cơ quan hoặc lắp chân giả, bạn có thể mở tab "Sức khỏe" của thuộc địa và sau đó chuyển sang tab con "Phẫu thuật".</MedicalOperations.helpText>
+	<Mining.label>Khai thác</Mining.label>
+	<Mining.helpText>Bạn có thể sắp xếp nơi khai thác đá thông qua tab "Lệnh" trong bảng "Kế hoạch xây dựng".\n\nBạn có thể khai thác "Thép", "Vàng", "Thủy tinh" hoặc các vật liệu hữu ích khác.</Mining.helpText>
+	<Outfits.label>Quản lý trang phục</Outfits.label>
+	<Outfits.helpText>Các thuộc địa luôn cố gắng mặc trang phục mới và tốt hơn.\n\nBạn không cần chỉ định từng trang phục cho các thuộc địa (nếu bạn muốn thì cũng hoàn toàn có thể).\n\nMở bảng "Kế hoạch" để thiết kế/sắp xếp trang phục cho các thuộc địa của bạn.</Outfits.helpText>
+	<Pause.label>Tạm dừng thời gian</Pause.label>
+	<Pause.helpText>Bạn có thể tạm dừng thời gian bất cứ lúc nào! THẾ GIỚI!\n\nĐiều này có nghĩa là bạn không bao giờ cần phải vội vàng và có thể từ từ ra lệnh.\n\nNhấn phím {Key:TogglePause} để tạm dừng/tiếp tục trò chơi, hoặc nhấp vào thanh điều khiển thời gian ở góc dưới bên phải màn hình.\n\nKhi bạn bận rộn, chỉ cần nhấn phím {Key:TogglePause}!</Pause.helpText>
+	<ShotAccuracyTooltip.label>Hộp thoại độ chính xác bắn</ShotAccuracyTooltip.label>
+	<ShotAccuracyTooltip.helpText>Bạn có thể xem tỷ lệ trúng của mỗi phát bắn của thuộc địa.\n\nChọn một tay súng, di chuyển chuột đến mục tiêu của họ, tỷ lệ trúng và độ lệch sẽ hiển thị.</ShotAccuracyTooltip.helpText>
+	<SpoilageAndFreezers.label>Thối rữa và đông lạnh</SpoilageAndFreezers.label>
+	<SpoilageAndFreezers.helpText>Phần lớn thực phẩm sẽ hỏng trong thời gian ngắn.\n\nBạn có thể đặt một phòng thành kho lạnh để tránh tình trạng này xảy ra.\n\nCài đặt máy làm lạnh trong một phòng và đặt nhiệt độ mục tiêu ở mức âm. Phòng càng lớn, càng cần nhiều máy làm lạnh hơn.\n\nThực phẩm đông lạnh sẽ không bị hỏng.</SpoilageAndFreezers.helpText>
+	<Stockpiles.label>Khu vực lưu trữ</Stockpiles.label>
+	<Stockpiles.helpText>Các thuộc địa của bạn cần một nơi để lưu trữ vật phẩm, hãy quy hoạch một "Khu vực lưu trữ" để chứa hàng hóa.\n\nBạn có thể tìm thấy "Khu vực lưu trữ" trong bảng "Kế hoạch xây dựng" ở góc dưới bên trái màn hình.</Stockpiles.helpText>
+	<StorageTab.label>Lọc lưu trữ</StorageTab.label>
+	<StorageTab.helpText>Bạn có thể thực hiện cài đặt chi tiết bằng cách nhấp vào nút "Lọc lưu trữ" ở góc dưới bên trái của khu vực lưu trữ hoặc kệ vật phẩm.\n\nBạn có thể mở rộng/giảm bớt các loại vật phẩm được phép lưu trữ trong khu vực này.\n\nCũng có thể thay đổi "ưu tiên" của khu vực hiện tại, các thuộc địa luôn ưu tiên chuyển hàng đến khu vực lưu trữ và kệ có ưu tiên cao hơn.</StorageTab.helpText>
+	<TileInspector.label>Trình xem ô đất</TileInspector.label>
+	<TileInspector.helpText>Bạn có thể xem thông tin chi tiết của ô đất bằng cách giữ phím {Key:ShowCellInspector}, bao gồm nội dung của ô, thông tin phòng, thông tin thẩm mỹ, v.v.</TileInspector.helpText>
+	<TimeAssignments.label>Lịch trình hoạt động</TimeAssignments.label>
+	<TimeAssignments.helpText>Bạn có thể điều chỉnh hoạt động hàng ngày của các thuộc địa trong bảng "Kiểm soát".</TimeAssignments.helpText>
+	<TimeControls.label>Điều khiển thời gian</TimeControls.label>
+	<TimeControls.helpText>Bạn có thể điều khiển tốc độ trôi của thời gian.\n\nHãy thử nhấn các phím {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} và {Key:TimeSpeed_Superfast} để điều chỉnh tốc độ trôi của thời gian, hoặc nhấp vào thanh điều khiển thời gian ở góc dưới bên phải màn hình.</TimeControls.helpText>
+	<TimeControls.helpTextController>Bạn có thể điều khiển tốc độ trôi của thời gian.\n\nHãy thử nhấn các phím {Key:TimeSpeed_Faster} và {Key:TimeSpeed_Slower} để điều chỉnh tốc độ trôi của thời gian, hoặc nhấp vào thanh điều khiển thời gian ở góc dưới bên phải màn hình.</TimeControls.helpTextController>
+	<WorkTab.label>Cài đặt công việc</WorkTab.label>
+	<WorkTab.helpText>Bạn có thể phân bổ ưu tiên công việc cho các thuộc địa trong bảng "Công việc" ở góc dưới bên trái màn hình.\n\nCác thuộc địa luôn thực hiện các nhiệm vụ có ưu tiên cao hơn trước.\n\nLưu ý: Nếu không có thuộc địa nào được phân bổ cho một công việc, hoặc luôn có công việc có ưu tiên cao hơn cần xử lý, thì những công việc này sẽ không bao giờ được hoàn thành!</WorkTab.helpText>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientComplex_Mission.questContentRules.rulesStrings>
+    <li>terminalHackedMessage-&gt; Máy chủ đã bị xâm nhập. {COUNT} / [terminalCount] hoàn thành.</li>
+    <li>passengersIncapableOfHackingDialogLabel-&gt;[passengersSingularOrPlural] không thể thực hiện công việc xâm nhập.</li>
+    <li>passengersIncapableOfHackingDialogText-&gt;Con tàu thực hiện nhiệm vụ [resolvedQuestName] không có hành khách nào có khả năng xâm nhập. Bạn phải cử ít nhất một người có khả năng xâm nhập đến điều tra khu kiến trúc cổ đại này.</li>
+    <li>passengersSingularOrPlural(colonistCount==1)-&gt; Hành khách</li>
+    <li>passengersSingularOrPlural(colonistCount&gt;=2)-&gt; Hành khách</li>
+</AncientComplex_Mission.questContentRules.rulesStrings>
+<AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+    <li>complex-&gt; Khu kiến trúc</li>
+    <li>complex-&gt; Địa điểm</li>
+    <li>complex-&gt; Cơ sở</li>
+    <li>complex-&gt; Di tích</li>
+    <li>complex-&gt; Kiến trúc</li>
+    <li>investigation-&gt; Điều tra</li>
+    <li>investigation-&gt; Kiểm tra</li>
+    <li>investigation-&gt; Đi đến</li>
+    <li>investigation-&gt; Khai quật</li>
+    <li>investigation-&gt; Xâm nhập</li>
+</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+<AncientComplex_Mission.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_faction_name] của [asker_faction_leaderTitle], [asker_nameDef], đã phát hiện một khu kiến trúc cổ đại ở khoảng cách xa. [asker_pronoun] nói rằng trong đó có thông tin thêm về [relic_name].\n\n[asker_nameDef] không thể cử người đi điều tra, nhưng hy vọng bạn có thể cử [colonistCount] [colonistsSingularOrPlural] để hỗ trợ điều tra.\n\nTrong khu kiến trúc này có những mối đe dọa không xác định, và kẻ thù của [asker_nameDef] là [enemyFaction_name] cũng đang rình rập.\n\n[asker_pronoun] sẽ cử tàu vũ trụ đến đón những người thuộc địa của bạn đi và cung cấp chỗ ở trong suốt hành trình.\n\nMột khi đã hạ cánh, bạn phải xâm nhập vào tất cả các máy chủ trong vòng [timeoutTicks_duration].</li>
+    <li>colonistsSingularOrPlural(colonistCount==1)-&gt; Người thuộc địa</li>
+    <li>colonistsSingularOrPlural(colonistCount&gt;=2)-&gt; Những người thuộc địa</li>
+</AncientComplex_Mission.questDescriptionRules.rulesStrings>
+<AncientComplex_Mission.questNameRules.rulesStrings>
+    <li>questName-&gt;[investigation][missionAdj][complex]</li>
+    <li>missionAdj-&gt; Ẩn giấu</li>
+    <li>missionAdj-&gt; Bí mật</li>
+    <li>missionAdj-&gt; Huyền bí</li>
+</AncientComplex_Mission.questNameRules.rulesStrings>
+</LanguageData>

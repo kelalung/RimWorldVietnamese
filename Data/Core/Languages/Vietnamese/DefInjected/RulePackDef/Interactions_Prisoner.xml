@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã chấp nhận và gia nhập nhóm của [INITIATOR_nameDef].</li>
+	</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã từ chối đề nghị.</li>
+	</Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

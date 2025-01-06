@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ActivateArchonexusCore.reportString>Đang đánh thức trí thông minh siêu nhiên.</ActivateArchonexusCore.reportString>
+<Blind.reportString>Đang làm mù TargetA.</Blind.reportString>
+<CarryToBiosculpterPod.reportString>Đang vận chuyển TargetA đến buồng hình thể.</CarryToBiosculpterPod.reportString>
+<DeliverToAltar.reportString>Đang vận chuyển TargetA đến bàn thờ.</DeliverToAltar.reportString>
+<DyeHair.reportString>Đang nhuộm tóc.</DyeHair.reportString>
+<EnterBiosculpterPod.reportString>Đang vào buồng hình thể.</EnterBiosculpterPod.reportString>
+<ExtractRelic.reportString>Đang trích xuất TargetB từ TargetA.</ExtractRelic.reportString>
+<ExtractToInventory.reportString>Đang trích xuất TargetB vào kho.</ExtractToInventory.reportString>
+<GetNeuralSupercharge.reportString>Đang nhận siêu nạp thần kinh từ TargetA.</GetNeuralSupercharge.reportString>
+<GiveToPawn.reportString>Đang giao TargetA cho TargetB.</GiveToPawn.reportString>
+<InduceSlaveToRebel.reportString>Đang kích thích TargetA nổi loạn.</InduceSlaveToRebel.reportString>
+<InstallRelic.reportString>Đang lắp đặt TargetA vào TargetB.</InstallRelic.reportString>
+<MeditatePray.reportString>Đang cầu nguyện.</MeditatePray.reportString>
+<OpenStylingStationDialog.reportString>Đang thay đổi phong cách TargetA.</OpenStylingStationDialog.reportString>
+<RecolorApparel.reportString>Đang nhuộm lại trang phục.</RecolorApparel.reportString>
+<Sacrifice.reportString>Đang hy sinh TargetA.</Sacrifice.reportString>
+<Scarify.reportString>Đang chỉ trích TargetA.</Scarify.reportString>
+<UseStylingStation.reportString>Đang thay đổi phong cách TargetA.</UseStylingStation.reportString>
+<UseStylingStationAutomatic.reportString>Đang thay đổi phong cách TargetA.</UseStylingStationAutomatic.reportString>
+</LanguageData>

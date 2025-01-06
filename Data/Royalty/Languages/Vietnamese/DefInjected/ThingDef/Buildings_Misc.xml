@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimusStone.label>Đá Pháp</AnimusStone.label>
+<AnimusStone.description>Một viên ngọc cổ xưa có khắc bộ lạc. Những người có năng lực tâm linh của bộ lạc có thể tập trung sự chú ý vào những viên đá này để thiền định, từ đó nâng cao sức mạnh tinh thần của họ. Hiệu quả thiền định của viên đá này tốt hơn cả những nơi thánh tự nhiên.\n\nCác nền văn hóa bộ lạc khác nhau có những cách giải thích khác nhau về những viên đá này, nhưng điểm chung là họ đều tin rằng những viên đá này được xây dựng trong một thời kỳ vĩ đại cổ xưa. Nếu người ngoài không cố gắng xem xét kỹ lưỡng, họ sẽ nghĩ rằng đây là những vật thể tự nhiên và bỏ qua chúng.</AnimusStone.description>
+<MeditationSpot.label>Điểm Thiền</MeditationSpot.label>
+<MeditationSpot.description>Xác định một địa điểm thiền, những người có năng lực tâm linh có thể nâng cao sức mạnh tinh thần ở đây. Nếu có một vật thể giống như điêu khắc ở gần, những người có năng lực tâm linh có thể tập trung sự chú ý vào nó, từ đó tăng tốc độ nâng cao sức mạnh tinh thần. Tuy nhiên, mỗi người cần một vật thể tập trung khác nhau.</MeditationSpot.description>
+<NatureShrine_Large.label>Thánh Địa Tự Nhiên Lớn</NatureShrine_Large.label>
+<NatureShrine_Large.description>Một bàn thờ lớn để thờ thần linh. Những người có năng lực tâm linh của bộ lạc có thể tập trung sự chú ý vào thánh địa khi thiền định để tăng cường hiệu quả nâng cao sức mạnh tinh thần. Nếu gần các công trình nhân tạo, thánh địa tự nhiên sẽ mất đi sức mạnh của chúng, vì vậy thánh địa tự nhiên thường được xây dựng trong môi trường tự nhiên. Nếu người ngoài không cố gắng xem xét kỹ lưỡng, họ sẽ nghĩ rằng đây là những vật thể tự nhiên và bỏ qua chúng.</NatureShrine_Large.description>
+<NatureShrine_Small.label>Thánh Địa Tự Nhiên Nhỏ</NatureShrine_Small.label>
+<NatureShrine_Small.description>Một bàn thờ nhỏ để thờ thần linh. Những người có năng lực tâm linh của bộ lạc có thể tập trung sự chú ý vào thánh địa khi thiền định để tăng cường hiệu quả nâng cao sức mạnh tinh thần. Nếu gần các công trình nhân tạo, thánh địa tự nhiên sẽ mất đi sức mạnh của chúng, vì vậy thánh địa tự nhiên thường được xây dựng trong môi trường tự nhiên. Nếu người ngoài không cố gắng xem xét kỹ lưỡng, họ sẽ nghĩ rằng đây là những vật thể tự nhiên và bỏ qua chúng.</NatureShrine_Small.description>
+<ShipLandingBeacon.label>Đèn Hạ Cánh Tàu Vũ Trụ</ShipLandingBeacon.label>
+<ShipLandingBeacon.description>Được sử dụng để đánh dấu góc khu vực hạ cánh của một tàu vũ trụ. Đặt bốn đèn hiệu ở các góc của một khu vực sạch sẽ (ít nhất 9x9) để tạo ra một khu vực hạ cánh. Nếu có thể, tàu vũ trụ thường sẽ hạ cánh trong khu vực này.</ShipLandingBeacon.description>
+</LanguageData>

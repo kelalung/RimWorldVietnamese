@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chemfuel.label>Nhiên liệu hóa học</Chemfuel.label>
+	<Chemfuel.description>Hợp chất lỏng dễ bay hơi. Có thể được sử dụng làm nhiên liệu cho tên lửa, động cơ và các máy móc khác, cũng có thể chế tạo thành đạn cối hoặc vũ khí cháy.</Chemfuel.description>
+	<ComponentIndustrial.label>Phụ tùng công nghiệp</ComponentIndustrial.label>
+	<ComponentIndustrial.description>Các bánh răng, tụ điện, bảng mạch, ống, bánh xe, cảm biến, dây điện, chip, bộ xử lý và các bộ phận điện tử và công nghiệp khác. Cần thiết để lắp ráp các máy móc hoặc sản phẩm điện tử phức tạp.</ComponentIndustrial.description>
+	<ComponentSpacer.label>Phụ tùng cao cấp</ComponentSpacer.label>
+	<ComponentSpacer.description>Các bộ phận cơ khí tiên tiến về tính toán và dẫn điện, được mini hóa và gia cố có thể được sử dụng trong hầu hết các ứng dụng cao cấp.</ComponentSpacer.description>
+	<MedicineHerbal.label>Thảo dược</MedicineHerbal.label>
+	<MedicineHerbal.description>Một gói hỗn hợp thảo dược chiết xuất từ cây thuốc. Hiệu quả kém hơn thuốc y tế, nhưng vẫn tốt hơn là không có gì.</MedicineHerbal.description>
+	<MedicineIndustrial.label>Y tế</MedicineIndustrial.label>
+	<MedicineIndustrial.description>Một bộ y tế thời kỳ công nghiệp. Bên trong bao gồm thuốc cơ bản, công cụ khâu và cố định xương, thiết bị chẩn đoán và nhiều băng gạc và thuốc.</MedicineIndustrial.description>
+	<MedicineUltratech.label>Y tế công nghệ cao</MedicineUltratech.label>
+	<MedicineUltratech.description>Một bộ y tế công nghệ cực kỳ tiên tiến, có thể được sản xuất từ thế giới xa xôi. Bên trong bao gồm thuốc đa dạng tiên tiến, thiết bị chẩn đoán và điều trị nano, máy ảnh mini và nhiều công cụ đa năng khác.</MedicineUltratech.description>
+	<Neutroamine.label>Neutroamine</Neutroamine.label>
+	<Neutroamine.description>Một hóa chất tiền chất tổng hợp, bản thân nó không có nhiều công dụng, nhưng là nguyên liệu cần thiết cho nhiều loại ma túy.</Neutroamine.description>
+	<ReinforcedBarrel.label>Thân súng gia cố</ReinforcedBarrel.label>
+	<ReinforcedBarrel.description>Thân súng lớn được sử dụng cho các loại vũ khí bắn đạn như súng cối. Để duy trì áp suất bắn cao, nó đã được gia cố đặc biệt và do đó không thể sản xuất quy mô nhỏ.</ReinforcedBarrel.description>
+</LanguageData>

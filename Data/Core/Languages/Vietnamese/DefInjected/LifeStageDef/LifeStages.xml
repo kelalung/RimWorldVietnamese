@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalAdult.label>Trưởng thành</AnimalAdult.label>
+	<AnimalBaby.label>Con non</AnimalBaby.label>
+	<AnimalBabyTiny.label>Con non nhỏ</AnimalBabyTiny.label>
+	<AnimalJuvenile.label>Vị thành niên</AnimalJuvenile.label>
+	<EusocialInsectAdult.label>Côn trùng trưởng thành</EusocialInsectAdult.label>
+	<EusocialInsectJuvenile.label>Côn trùng đang phát triển</EusocialInsectJuvenile.label>
+	<EusocialInsectLarva.label>Ấu trùng</EusocialInsectLarva.label>
+	<HumanlikeAdult.label>Người lớn</HumanlikeAdult.label>
+	<HumanlikeBaby.label>Em bé</HumanlikeBaby.label>
+	<HumanlikeBaby.customMoodTipString>Cảm xúc thể hiện mức độ hạnh phúc hoặc căng thẳng của một người. Em bé có tâm trạng tồi tệ có khả năng khóc nhiều hơn, trong khi em bé vui vẻ có khả năng cười nhiều hơn.</HumanlikeBaby.customMoodTipString>
+	<HumanlikeChild.label>Trẻ em</HumanlikeChild.label>
+	<HumanlikeTeenager.label>Thiếu niên</HumanlikeTeenager.label>
+	<HumanlikeTeenager.adjective>Thiếu niên</HumanlikeTeenager.adjective>
+	<MechanoidFullyFormed.label>Cơ khí hoàn chỉnh</MechanoidFullyFormed.label>
+</LanguageData>

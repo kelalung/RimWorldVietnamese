@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_FirefoampopPack.label>Balo chữa cháy</Apparel_FirefoampopPack.label>
+	<Apparel_FirefoampopPack.description>Một chiếc balo chức năng dành cho lính cứu hỏa. Khi được kích hoạt, nó sẽ phát ra một lớp bọt chống cháy, có thể ngay lập tức dập tắt ngọn lửa gần đó.\n\nNgười mặc có thể nạp nhiên liệu hóa học để bổ sung số lần sử dụng của balo.</Apparel_FirefoampopPack.description>
+	<Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>Bọt chống cháy</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_FirefoampopPack.verbs.pop_firefoam.label>Phát ra bọt chống cháy</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+	<Apparel_SmokepopBelt.label>Balo khói</Apparel_SmokepopBelt.label>
+	<Apparel_SmokepopBelt.description>Một thiết bị khói phòng thủ. Khi được kích hoạt, nó sẽ phát ra một đám khói, có thể làm rối loạn việc ngắm bắn của vũ khí tầm xa và ngăn chặn các đơn vị trong đám khói bị tháp pháo khóa mục tiêu.\n\nNgười mặc có thể nạp nhiên liệu hóa học để bổ sung số lần sử dụng của balo.</Apparel_SmokepopBelt.description>
+	<Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>Hộp khói</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_SmokepopBelt.verbs.pop_smoke.label>Phát ra khói</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+</LanguageData>

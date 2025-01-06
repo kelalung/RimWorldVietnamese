@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Warg.label>Soi ma</Warg.label>
+<Warg.description>Loài sinh vật giống sói với cơ bắp phát triển rất mạnh. Các nhà khoa học cho rằng, nó là hậu duệ của loài động vật quân sự được tạo ra để kiểm soát dân số. Những người mê tín coi nó là công cụ của các vị thần giận dữ.\n\nNó chỉ ăn thịt và xác chết tươi.</Warg.description>
+<Warg.tools.left_claw.label>Móng trái</Warg.tools.left_claw.label>
+<Warg.tools.left_claw.labelNoLocation>Móng</Warg.tools.left_claw.labelNoLocation>
+<Warg.tools.right_claw.label>Móng phải</Warg.tools.right_claw.label>
+<Warg.tools.right_claw.labelNoLocation>Móng</Warg.tools.right_claw.labelNoLocation>
+<Warg.tools.razorfangs.label>Răng sắc</Warg.tools.razorfangs.label>
+  <Warg.tools.head.label>Đầu</Warg.tools.head.label>
+</LanguageData>

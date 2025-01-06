@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallCochlearImplant.label>Cài đặt ốc tai nhân tạo</InstallCochlearImplant.label>
+	<InstallCochlearImplant.description>Cài đặt ốc tai nhân tạo.</InstallCochlearImplant.description>
+	<InstallCochlearImplant.jobString>Đang cài đặt ốc tai nhân tạo.</InstallCochlearImplant.jobString>
+	<InstallJoywire.label>Cài đặt chip Joywire</InstallJoywire.label>
+	<InstallJoywire.description>Cài đặt chip Joywire.</InstallJoywire.description>
+	<InstallJoywire.jobString>Đang cài đặt chip Joywire.</InstallJoywire.jobString>
+	<InstallPainstopper.label>Cài đặt chip giảm đau</InstallPainstopper.label>
+	<InstallPainstopper.description>Cài đặt chip giảm đau.</InstallPainstopper.description>
+	<InstallPainstopper.jobString>Đang cài đặt chip giảm đau.</InstallPainstopper.jobString>
+	<InstallPowerClaw.label>Cài đặt móng vuốt năng lượng</InstallPowerClaw.label>
+	<InstallPowerClaw.description>Cài đặt móng vuốt năng lượng.</InstallPowerClaw.description>
+	<InstallPowerClaw.jobString>Đang cài đặt móng vuốt năng lượng.</InstallPowerClaw.jobString>
+	<InstallSimpleProstheticArm.label>Cài đặt cánh tay giả đơn giản</InstallSimpleProstheticArm.label>
+	<InstallSimpleProstheticArm.description>Cài đặt cánh tay giả đơn giản.</InstallSimpleProstheticArm.description>
+	<InstallSimpleProstheticArm.jobString>Đang cài đặt cánh tay giả đơn giản.</InstallSimpleProstheticArm.jobString>
+	<InstallSimpleProstheticHeart.label>Cài đặt tim nhân tạo</InstallSimpleProstheticHeart.label>
+	<InstallSimpleProstheticHeart.description>Cài đặt tim nhân tạo.</InstallSimpleProstheticHeart.description>
+	<InstallSimpleProstheticHeart.jobString>Đang cài đặt tim nhân tạo.</InstallSimpleProstheticHeart.jobString>
+	<InstallSimpleProstheticLeg.label>Cài đặt chân giả đơn giản</InstallSimpleProstheticLeg.label>
+	<InstallSimpleProstheticLeg.description>Cài đặt chân giả đơn giản.</InstallSimpleProstheticLeg.description>
+	<InstallSimpleProstheticLeg.jobString>Đang cài đặt chân giả đơn giản.</InstallSimpleProstheticLeg.jobString>
+	<RemovePainstopper.label>Gỡ bỏ chip giảm đau</RemovePainstopper.label>
+	<RemovePainstopper.description>Có thể gỡ bỏ chip giảm đau.</RemovePainstopper.description>
+	<RemovePainstopper.jobString>Đang gỡ bỏ chip giảm đau.</RemovePainstopper.jobString>
+</LanguageData>

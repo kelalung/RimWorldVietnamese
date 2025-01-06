@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArtificialBrain.label>Não sinh học</ArtificialBrain.label>
+	<Blade.label>Dao</Blade.label>
+	<FluidReprocessor.label>Bộ lọc chất lỏng</FluidReprocessor.label>
+	<HearingSensor.label>Cảm biến thính giác</HearingSensor.label>
+	<MechanicalArm.label>Cánh tay cơ khí</MechanicalArm.label>
+	<MechanicalCentipedeBodyFifthRing.label>Đai thân thứ năm</MechanicalCentipedeBodyFifthRing.label>
+	<MechanicalCentipedeBodyFifthRing.labelShort>Đai thân</MechanicalCentipedeBodyFifthRing.labelShort>
+	<MechanicalCentipedeBodyFirstRing.label>Đai thân đầu tiên</MechanicalCentipedeBodyFirstRing.label>
+	<MechanicalCentipedeBodyFirstRing.labelShort>Đai thân</MechanicalCentipedeBodyFirstRing.labelShort>
+	<MechanicalCentipedeBodyFourthRing.label>Đai thân thứ tư</MechanicalCentipedeBodyFourthRing.label>
+	<MechanicalCentipedeBodyFourthRing.labelShort>Đai thân</MechanicalCentipedeBodyFourthRing.labelShort>
+	<MechanicalCentipedeBodySecondRing.label>Đai thân thứ hai</MechanicalCentipedeBodySecondRing.label>
+	<MechanicalCentipedeBodySecondRing.labelShort>Đai thân</MechanicalCentipedeBodySecondRing.labelShort>
+	<MechanicalCentipedeBodySixthRing.label>Đai thân thứ sáu</MechanicalCentipedeBodySixthRing.label>
+	<MechanicalCentipedeBodySixthRing.labelShort>Đai thân</MechanicalCentipedeBodySixthRing.labelShort>
+	<MechanicalCentipedeBodyThirdRing.label>Đai thân thứ ba</MechanicalCentipedeBodyThirdRing.label>
+	<MechanicalCentipedeBodyThirdRing.labelShort>Đai thân</MechanicalCentipedeBodyThirdRing.labelShort>
+	<MechanicalFinger.label>Ngón tay cơ khí</MechanicalFinger.label>
+	<MechanicalFoot.label>Chân cơ khí</MechanicalFoot.label>
+	<MechanicalHand.label>Tay cơ khí</MechanicalHand.label>
+	<MechanicalHead.label>Đầu cơ khí</MechanicalHead.label>
+	<MechanicalLeg.label>Chân cơ khí</MechanicalLeg.label>
+	<MechanicalNeck.label>Cổ cơ khí</MechanicalNeck.label>
+	<MechanicalShoulder.label>Vai cơ khí</MechanicalShoulder.label>
+	<MechanicalThorax.label>Ngực cơ khí</MechanicalThorax.label>
+	<MechanicalThoraxCanManipulate.label>Buồng cảm biến</MechanicalThoraxCanManipulate.label>
+	<Reactor.label>Phản ứng</Reactor.label>
+	<SightSensor.label>Cảm biến thị giác</SightSensor.label>
+	<SmellSensor.label>Cảm biến khứu giác</SmellSensor.label>
+</LanguageData>

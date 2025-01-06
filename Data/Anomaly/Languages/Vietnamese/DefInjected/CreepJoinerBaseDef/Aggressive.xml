@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Assault.label>Tấn công cơ bản</Assault.label>
+<Assault.message>{PAWN_nameDef} đã vào trạng thái đối kháng!</Assault.message>
+<FleshbeastEmergence.label>Xuất hiện quái thú máu thịt</FleshbeastEmergence.label>
+<FleshbeastEmergence.letterDesc>{PAWN_nameDef} đã biến thành một quái thú máu thịt khủng khiếp!</FleshbeastEmergence.letterDesc>
+<FleshbeastEmergence.letterLabel>{PAWN_nameDef} đã biến đổi</FleshbeastEmergence.letterLabel>
+<SightstealerAttack.label>Tấn công của quái vật vô hình</SightstealerAttack.label>
+<SightstealerAttack.letterDesc>{PAWN_nameDef} phát ra một tiếng gầm rú méo mó phi nhân loại.\n\nVà từ xa, vài tiếng gầm rú tương tự dường như đang đáp lại.\n\nCó điều gì đó đang đến gần...</SightstealerAttack.letterDesc>
+<SightstealerAttack.letterLabel>Tiếng gầm rú của {PAWN_nameDef}</SightstealerAttack.letterLabel>
+</LanguageData>

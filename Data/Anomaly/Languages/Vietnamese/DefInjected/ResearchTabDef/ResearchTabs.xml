@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Anomaly.label>Hiện tượng</Anomaly.label>
+<Anomaly.generalDescription>Bằng cách điều tra các thực thể bất thường, mở khóa công nghệ liên quan đến hư vô.\n\nBạn có thể kích hoạt một dự án nghiên cứu cơ bản và một dự án nghiên cứu nâng cao cùng một lúc. Nếu không kích hoạt bất kỳ dự án nghiên cứu nâng cao nào, thì kiến thức về hiện tượng nâng cao thu được từ việc điều tra các thực thể sẽ tự động áp dụng cho dự án nghiên cứu cơ bản đã kích hoạt.</Anomaly.generalDescription>
+<Anomaly.generalTitle>Dự án nghiên cứu hiện tượng</Anomaly.generalTitle>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BorealForest.label>Rừng băng giá</BorealForest.label>
+<BorealForest.description>Rừng thông. Mặc dù mùa đông rất khắc nghiệt, vẫn có nhiều cộng đồng động vật lớn và nhỏ sinh sống tại đây. Mùa hè ở đây cũng rất ấm áp.</BorealForest.description>
+<ColdBog.label>Đầm lầy lạnh</ColdBog.label>
+<ColdBog.description>Đầm lầy đầy cây cối và dây leo. Nơi đây có nhiều vùng đầm lầy không thể hỗ trợ xây dựng nặng, và do thực vật dày đặc, việc di chuyển rất khó khăn. Cộng đồng sinh thái ẩm ướt và dày đặc này tồn tại những căn bệnh đặc trưng.</ColdBog.description>
+<IceSheet.label>Băng nguyên</IceSheet.label>
+<IceSheet.description>Khu vực này được phủ bởi lớp băng dày hàng nghìn mét, không có đất hay thực vật. Động vật ở đây không di cư được thì cũng đã tuyệt chủng trong điều kiện khắc nghiệt.</IceSheet.description>
+<SeaIce.label>Băng biển</SeaIce.label>
+<SeaIce.description>Băng vĩnh cửu trên mặt biển. Không có đất, thực vật, hay khoáng sản có thể khai thác, động vật cũng rất hiếm.</SeaIce.description>
+<Tundra.label>Đất đóng băng</Tundra.label>
+<Tundra.description>Đồng bằng hoàn toàn đóng băng, hầu như không có cây cối và thực vật. Chỉ có một số động vật nhỏ sống ở đây, cùng với những đàn động vật ăn cỏ di cư và những kẻ săn mồi ăn chúng.</Tundra.description>
+</LanguageData>

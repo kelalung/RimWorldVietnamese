@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<KnowledgeCategory>Loại kiến thức dị thường</KnowledgeCategory>
+	<AnomalyResearchDescriptionHelpText>Điều tra các thực thể dị thường để thúc đẩy các dự án nghiên cứu này. Nếu không kích hoạt bất kỳ dự án nghiên cứu nâng cao nào, thì kiến thức dị thường cao cấp thu được từ việc điều tra thực thể sẽ tự động áp dụng vào các dự án nghiên cứu cơ bản đã được kích hoạt.</AnomalyResearchDescriptionHelpText>
+	<MonolithLevel>Cấp độ khối đá</MonolithLevel>
+</LanguageData>

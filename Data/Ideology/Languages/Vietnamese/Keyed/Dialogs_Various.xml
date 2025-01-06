@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TradingAnimalProduceBonus>Phần thưởng giao dịch sản phẩm động vật</TradingAnimalProduceBonus>
+<SlavesSection>Nô lệ</SlavesSection>
+<DominantStyle>Phong cách chủ đạo</DominantStyle>
+<Date>Ngày</Date>
+<RitualDevelopmentPointRewards>Điểm phát triển sẽ được trao dựa trên kết quả của nghi lễ</RitualDevelopmentPointRewards>
+<UseGlobalStyle>Sử dụng phong cách toàn cầu</UseGlobalStyle>
+<NoStylesAvailable>Không có phong cách nào có sẵn</NoStylesAvailable>
+<ChooseStructureMemesInfo>Chọn cấu trúc biểu tượng cho hình thức văn hóa của bạn. Điều này chỉ ảnh hưởng đến biểu tượng — nó sẽ không ảnh hưởng đến lối chơi.</ChooseStructureMemesInfo>
+<ChooseNormalMemesInfo>Chọn {0}-{1} meme để hình thành tư tưởng cơ bản của hình thức văn hóa này.</ChooseNormalMemesInfo>
+<NotEnoughMemes>Ít nhất chọn {0} meme.</NotEnoughMemes>
+<TooManyMemes>Chọn tối đa {0} meme.</TooManyMemes>
+<ChooseStructureMeme>Chọn cấu trúc.</ChooseStructureMeme>
+<IncompatibleMemes>{0_label} và {1_label} không tương thích.</IncompatibleMemes>
+<SomeMemesHaveMoreImpact>Các meme nhất định có ảnh hưởng lớn hơn đến lối chơi so với các meme khác.</SomeMemesHaveMoreImpact>
+<ChooseNormalMemesFluidIdeoInfo>Chọn một meme để hình thành tư tưởng ban đầu của văn hóa này. Bạn có thể thêm nhiều meme hơn khi văn hóa phát triển theo thời gian.</ChooseNormalMemesFluidIdeoInfo>
+<ChooseOrRemoveMeme>Chọn hoặc loại bỏ một meme.</ChooseOrRemoveMeme>
+<ReformIdeoResetChanges>Đặt lại</ReformIdeoResetChanges>
+<NotEnoughMemesFluidIdeo>Chọn meme x{0}</NotEnoughMemesFluidIdeo>
+<ChangesRandomizePrecepts>{0} sẽ làm xáo trộn một số quy tắc bạn đã chỉnh sửa.\n\nBạn có muốn tiếp tục không?</ChangesRandomizePrecepts>
+<ChangesRemovePrecepts>Các quy tắc xung đột với meme mới sẽ bị loại bỏ:\n\n{0}\n\nBạn có muốn tiếp tục không?</ChangesRemovePrecepts>
+<RoomRequirements>Các yêu cầu phòng</RoomRequirements>
+<ConfirmChangeMemesForFluidIdeo>Bạn đang cố tải hình thức văn hóa xung đột với văn hóa tiến hóa mới, cần phải chọn lại các meme của nó (văn hóa tiến hóa phải bắt đầu từ một meme có ảnh hưởng thấp).</ConfirmChangeMemesForFluidIdeo>
+<ConfirmIncompatibleMemes>Các meme này đang xung đột</ConfirmIncompatibleMemes>
+<ConfirmChangeMemesForFluidIdeoContinue>Bạn có muốn tiếp tục không?</ConfirmChangeMemesForFluidIdeoContinue>
+<Role>Vị trí</Role>
+<ChooseRole>Gán vị trí</ChooseRole>
+<ChooseNewRole>Chọn vị trí</ChooseNewRole>
+<NoRoleAssigned>Chưa gán vị trí</NoRoleAssigned>
+<ChildNoRoleAssigned>Trẻ em không thể gán vị trí</ChildNoRoleAssigned>
+<RemoveRole>Loại bỏ vị trí {0}</RemoveRole>
+<ChooseRoleConfirmAssign>Sẽ chỉ định vị trí {ROLE_labelDef} cho {PAWN_labelShort}.</ChooseRoleConfirmAssign>
+<ChooseRoleConfirmAssignPostfix>Bạn có chắc không?</ChooseRoleConfirmAssignPostfix>
+<ChooseRoleConfirmAssignReplace>{PAWN_labelShort} hiện đang giữ vị trí này, nếu mất nó sẽ không vui.</ChooseRoleConfirmAssignReplace>
+<ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} hiện đang giữ vị trí {ROLE_label}, nếu mất nó sẽ không vui.</ChooseRoleConfirmAssignHasOtherRole>
+<ChooseRoleConfirmAssignReplaceLeader>Chỉ có một lãnh đạo. Hành động này sẽ hủy bỏ vị trí {OTHERROLE_labelDef} của {PAWN_labelShort}, {PAWN_objective} sẽ cảm thấy thất vọng.</ChooseRoleConfirmAssignReplaceLeader>
+<ChooseRoleConfirmUnassign>Sẽ hủy bỏ vị trí {ROLE_labelIndef} của {PAWN_labelShort}. Điều này sẽ khiến {PAWN_objective} cảm thấy thất vọng.</ChooseRoleConfirmUnassign>
+<ChooseRoleListAbilities>{PAWN_labelShort} sẽ nhận được các khả năng sau</ChooseRoleListAbilities>
+<ChooseRoleListApparelDemands>Vị trí {ROLE_label} yêu cầu trang phục sau</ChooseRoleListApparelDemands>
+<ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} sẽ từ chối làm các loại công việc này</ChooseRoleListWorkTypeRestrictions>
+<ChooseRoleHint>Có lúc, tốt hơn là đợi đến khi thuộc địa của bạn được thiết lập trước khi gán vị trí.</ChooseRoleHint>
+<UnlockedByMeme>Được mở khóa bởi meme</UnlockedByMeme>
+<Origin>Nguồn gốc</Origin>
+<MemeUnlocksRoles>Mở khóa vị trí</MemeUnlocksRoles>
+<MemeUnlocksRituals>Mở khóa nghi lễ</MemeUnlocksRituals>
+<ChooseRoleRequiredWorkTagsDisabled>Cảnh báo: {PAWN_nameDef} không thể thực hiện công việc cần thiết cho vị trí {ROLE_label}. Nếu chọn gán vị trí này cho {PAWN_objective}, {PAWN_pronoun} có thể không sử dụng được các khả năng liên quan đến {ROLE_label}. Các loại công việc thiếu là</ChooseRoleRequiredWorkTagsDisabled>
+<YourLeaderTradeBonus>Phần thưởng lãnh đạo</YourLeaderTradeBonus>
+<CannotNotAddRoleApparelDueToMeme>Meme {MEME} cấm thêm yêu cầu trang phục cho vị trí này.</CannotNotAddRoleApparelDueToMeme>
+<CannotBeWornWith>Không thể mặc cùng với {0_label}</CannotBeWornWith>
+<AbilityIdeoConvertBreakdownLabel>Giảm độ công nhận</AbilityIdeoConvertBreakdownLabel>
+<AbilityIdeoConvertBreakdownUsingAbility>Sử dụng khả năng {ABILITY}</AbilityIdeoConvertBreakdownUsingAbility>
+<AbilityIdeoConvertBreakdownConversionPower>Khả năng giáo hóa của {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
+<AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Hệ số mất độ công nhận của {PAWN_labelShort} từ {IDEO_name}.</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+<AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} là {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+<AbilityIdeoConvertBreakdownTrait>Đặc tính {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+<AbilityIdeoConvertBreakdownPercept>Quy tắc {PRECEPT}</AbilityIdeoConvertBreakdownPercept>
+<AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} thánh vật đã được lắp đặt trên bản đồ</AbilityIdeoConvertBreakdownRelic>
+<AbilityIdeoConvertBreakdownSocialSkill>Khả năng xã hội của {PAWN_labelShort}</AbilityIdeoConvertBreakdownSocialSkill>
+<AbilityIdeoConvertBreakdownOpinion>Quan điểm của {RECIPIENT_labelShort} đối với {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+<AbilityIdeoConvertBreakdownPawnIdeo>Hình thức văn hóa của {PAWN_nameDef}</AbilityIdeoConvertBreakdownPawnIdeo>
+<AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs đặc tính {TRAIT}</AbilityIdeoConvertBreakdownMemeVsTrait>
+<AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} gần đây đã nhận được tư vấn.</AbilityCantApplyAlreadyCounselled>
+<ReformIdeo>Cải cách...</ReformIdeo>
+<ReformIdeoligion>Cải cách văn hóa</ReformIdeoligion>
+<ReformIdeoligionDesc>Cải cách văn hóa của bạn bằng cách thay đổi cấu trúc, meme hoặc phong cách.</ReformIdeoligionDesc>
+<ReformIdeoChangeStyles>Thay đổi phong cách</ReformIdeoChangeStyles>
+<ReformIdeoAddOrRemoveMeme>Thêm hoặc loại bỏ meme</ReformIdeoAddOrRemoveMeme>
+<ReformIdeoAddMeme>Thêm meme</ReformIdeoAddMeme>
+<ReformIdeoChooseOneChange>Chọn một</ReformIdeoChooseOneChange>
+<ReformIdeoChangeStructure>Thay đổi cấu trúc</ReformIdeoChangeStructure>
+<ReformIdeoChangeAny>Thay đổi bất kỳ điều gì dưới đây</ReformIdeoChangeAny>
+<ReformIdeoRelicHuntQuestEnd>Sau khi cải cách hình thức văn hóa, người thuộc địa của bạn sẽ không còn coi {0} là thánh vật. Nhiệm vụ tìm kiếm {0} sẽ bị hủy bỏ.</ReformIdeoRelicHuntQuestEnd>
+<ReformIdeoCancelRituals>Các nghi lễ {0} đang diễn ra sẽ bị hủy bỏ.</ReformIdeoCancelRituals>
+<ReformIdeoContinue>Bạn có muốn tiếp tục không?</ReformIdeoContinue>
+<CannotAssignBedToSlave>Nô lệ</CannotAssignBedToSlave>
+<CannotAssignBedToColonist>Người thuộc địa</CannotAssignBedToColonist>
+<AnySlave>Bất kỳ nô lệ nào</AnySlave>
+<NegotiatorWillNotTradeSlaves>{0_nameDef} từ chối bán người làm nô lệ vì niềm tin của {0_possessive}.</NegotiatorWillNotTradeSlaves>
+<NegotiatorWillNotTradeSlavesTip>Người thương lượng {0_nameDef} sẽ không biến mọi người thành nô lệ vì niềm tin của {0_possessive} đối với {1}.\n\nLưu ý: {0_nameDef} sẽ sẵn lòng chuộc một người về phái của mình, nhưng không muốn bán người khác cho phái khác.</NegotiatorWillNotTradeSlavesTip>
+<LastHumanMeat>Thịt người cuối cùng</LastHumanMeat>
+<LastHumanMeatDesc>Do {PAWN_possessive} tin vào {IDEO_name}, nếu {PAWN_pronoun} không ăn thịt người trong hơn {DURATION} ngày, {PAWN_nameDef} sẽ cảm thấy không vui.</LastHumanMeatDesc>
+<ExectueNeutralFactionSlave>Việc thực hiện {PAWN_labelShort} sẽ ảnh hưởng tiêu cực đến mối quan hệ với {FACTION_name}.</ExectueNeutralFactionSlave>
+<CaravanMustHaveAtLeastOneNonSlaveColonist>Phải chỉ định ít nhất một người thuộc địa không phải nô lệ có thể đi bộ.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+<SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Phải để lại ít nhất một người thuộc địa không phải nô lệ có thể đi bộ.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+<StylePawn>Phong cách</StylePawn>
+<Hair>Tóc</Hair>
+<Beard>Râu</Beard>
+<TattooFace>Tattoo mặt</TattooFace>
+<TattooBody>Tattoo cơ thể</TattooBody>
+<ApparelColor>Màu sắc trang phục</ApparelColor>
+<HairColor>Màu tóc</HairColor>
+<ShowHeadgear>Hiển thị trang sức đầu</ShowHeadgear>
+<ShowApparel>Hiển thị trang phục</ShowApparel>
+<PawnUnhappyWithStyleItems>{PAWN_nameDef} sẽ không hài lòng với các mục sau</PawnUnhappyWithStyleItems>
+<StyleCategoryDescription>Phong cách sẽ ảnh hưởng đến ngoại hình của một số công trình, trang phục và vũ khí do {IDEO_memberNamePlural} sản xuất. Nếu nhiều phong cách ảnh hưởng đến cùng một vật thể, phong cách bên trái nhất sẽ được áp dụng.</StyleCategoryDescription>
+<StyleCategoryDescriptionAbstract>Phong cách sẽ ảnh hưởng đến ngoại hình của một số công trình, trang phục và vũ khí mà thuộc địa của bạn sản xuất. Nếu có nhiều phong cách ảnh hưởng đến cùng một vật thể, phong cách bên trái nhất sẽ được áp dụng.</StyleCategoryDescriptionAbstract>
+<StyleCategoryDescStyleDominance>Nếu {IDEO_memberNamePlural} nhận thấy các công trình, sàn và nghệ thuật phù hợp với phong cách này, họ sẽ rất vui.</StyleCategoryDescStyleDominance>
+<StyleCategoryDescStyleDominanceAbstract>Nếu các công trình, sàn và nghệ thuật phù hợp với phong cách này được nhận thấy, các thành viên của văn hóa tương ứng sẽ cảm thấy vui vẻ.</StyleCategoryDescStyleDominanceAbstract>
+<StyleCategoryDetails>Ảnh hưởng phong cách {0}</StyleCategoryDetails>
+<OverriddenByStyle>Bị {0} ghi đè</OverriddenByStyle>
+<IdeoMakesBuildingBuildable>Các công trình mới có thể xây dựng</IdeoMakesBuildingBuildable>
+<NoneUsableForPawn>Không có gì sử dụng cho {PAWN_nameDef}</NoneUsableForPawn>
+<HairAndBeards>Tóc và râu</HairAndBeards>
+<HairAndBeardsDesc>Các cài đặt này xác định tần suất xuất hiện của mỗi phong cách trong các thành viên của hình thức văn hóa này.</HairAndBeardsDesc>
+<Tattoos>Tattoo</Tattoos>
+<TattoosDesc>Các cài đặt này xác định tần suất xuất hiện của mỗi tattoo trên các thành viên của văn hóa này.</TattoosDesc>
+<StyleItemFrequencyNever>Không bao giờ</StyleItemFrequencyNever>
+<StyleItemFrequencyRare>Rất hiếm</StyleItemFrequencyRare>
+<StyleItemFrequencyUncommon>Hiếm có</StyleItemFrequencyUncommon>
+<StyleItemFrequencyNormal>Thông thường</StyleItemFrequencyNormal>
+<StyleItemFrequencyCommon>Phổ biến</StyleItemFrequencyCommon>
+<StyleItemFrequencyFrequent>Thường xuyên</StyleItemFrequencyFrequent>
+<EditAppearanceItems>Chỉnh sửa ngoại hình</EditAppearanceItems>
+<NumAvailable>Đang sử dụng {0}</NumAvailable>
+<ResetButtonDesc>Đặt lại tất cả các mục phong cách về giá trị mặc định.</ResetButtonDesc>
+<SendShuttleAnyway>Buộc phóng tàu con thoi</SendShuttleAnyway>
+<ReLoadShuttle>Tải lại tàu con thoi</ReLoadShuttle>
+<MedGroupSlaves>Nô lệ</MedGroupSlaves>
+<MedGroupSlavesDesc>Các thành viên bị nô lệ trong thuộc địa của bạn</MedGroupSlavesDesc>
+<ChangeMode>Chọn giống cây tinh linh</ChangeMode>
+<RequiredMemes>Meme cần thiết</RequiredMemes>
+<RequiredStage>Giống cây cần thiết</RequiredStage>
+<MissingRequiredMemes>Thiếu meme cần thiết</MissingRequiredMemes>
+<MissingRequiredCaste>Thiếu giống cây cần thiết</MissingRequiredCaste>
+<AlreadySelected>Đã chọn</AlreadySelected>
+<ChooseProductionModeInitialDesc>Tại đây bạn có thể chọn giống cây tinh linh nào sẽ được sản sinh từ {TREE_label} này.\n\nCây tinh linh sẽ sinh ra từ củ cây mẹ. Số lượng tối đa cây tinh linh phụ thuộc vào sức mạnh cộng hưởng giữa {TREE_definite} và người đồng cảm.</ChooseProductionModeInitialDesc>
+<ChooseColonistsForIdeoTitle>Chọn những người để giáo hóa thành hình thức văn hóa của bạn</ChooseColonistsForIdeoTitle>
+<ChooseColonistsForIdeoDesc>Khi thiết lập thuộc địa mới, bạn có thể giáo hóa các nhân vật thành hình thức văn hóa chủ thể của bạn.</ChooseColonistsForIdeoDesc>
+<ChooseThingsForNewColonyTitle>Thuộc địa mới</ChooseThingsForNewColonyTitle>
+<ChooseThingsForNewColonyDesc>Chọn những người thuộc địa, động vật và thánh vật nào sẽ được mang đến thuộc địa mới.</ChooseThingsForNewColonyDesc>
+<ChooseThingsDesc>Tối đa chọn {0} {1}.</ChooseThingsDesc>
+<ChoosePeopleDesc>Tối đa chọn {0} người.</ChoosePeopleDesc>
+<ChooseOnlySlavesInfo>Nếu bạn chỉ chọn nô lệ, họ sẽ xuất hiện như những người thuộc địa trong thuộc địa tiếp theo.</ChooseOnlySlavesInfo>
+<ConfirmDecisionsTitle>Xác nhận quyết định</ConfirmDecisionsTitle>
+<ShipEscapeWillEndDescription>Con tàu do trí tuệ nhân tạo (*Name) Shalon White Stone (/Name) báo cáo sẽ bay đi khi thuộc địa mới được thiết lập, điều này có nghĩa là không còn khả năng thoát khỏi hành tinh này bằng con tàu này.</ShipEscapeWillEndDescription>
+<ArchonexusRelicNotChosen>Không chọn bất kỳ thánh vật nào để mang đến thuộc địa mới.</ArchonexusRelicNotChosen>
+<ArchonexusItemsNotChosen>Số lượng vật phẩm đã chọn vượt quá giới hạn cho phép (đã chọn {0}, có thể chọn {1}).</ArchonexusItemsNotChosen>
+<RemoveEquippedRelicsDescription>Người mua thuộc địa chỉ cho phép bạn mang đi một thánh vật. Các thánh vật khác (bao gồm cả những thánh vật đã được gán cho người thuộc địa) sẽ bị bỏ lại, bao gồm:</RemoveEquippedRelicsDescription>
+<WantToProceed>Bạn có muốn tiếp tục không? Từ giờ trở đi sẽ không có đường lui.</WantToProceed>
+<ConvertToPlayerIdeoligion>Giáo hóa</ConvertToPlayerIdeoligion>
+<RevertToPreviousIdeoligion>Quay lại</RevertToPreviousIdeoligion>
+<ExistingFollowerOfPlayerIdeoligion>Các tín đồ hiện có</ExistingFollowerOfPlayerIdeoligion>
+ <AbandonArchotechStructuresWarningDialog>Bạn đang từ bỏ một khu định cư chứa các công nghệ xây dựng mà bạn chưa nghiên cứu hoàn toàn.\n\nBạn có thể định cư ở đây sau này, nhưng khu định cư trước đó của bạn sẽ bị bỏ lại.</AbandonArchotechStructuresWarningDialog>
+<ItemQuantityTooltip>Số lượng {0} được phép mang vào thuộc địa mới.\n\nGiá trị tối đa cho phép là: {1}</ItemQuantityTooltip>
+<SoldColonyDescription>Khu định cư của bạn đã được bán, người mua đã sẵn sàng để bạn chọn điểm hạ cánh tiếp theo.</SoldColonyDescription>
+<ConfirmHackEnenyTerminal>Việc bẻ khóa {0} sẽ làm tức giận kẻ thù và dẫn đến sự trả thù của họ. Bạn có chắc chắn muốn bẻ khóa {0} không?</ConfirmHackEnenyTerminal>
+<RelicsSection>Thánh vật</RelicsSection>
+<FoodRestrictionVegetarian>Chay</FoodRestrictionVegetarian>
+<FoodRestrictionCarnivore>Thịt</FoodRestrictionCarnivore>
+<FoodRestrictionCannibal>Thịt người</FoodRestrictionCannibal>
+<FoodRestrictionInsectMeat>Thịt côn trùng</FoodRestrictionInsectMeat>
+<StylesInUse>Các phong cách đang sử dụng</StylesInUse>
+<StyleCategoryAddDesc>Thêm một phong cách.</StyleCategoryAddDesc>
+<!-- <MedGroupEnslavedColonist>Các thuộc địa bị nô lệ</MedGroupEnslavedColonist> -->
+</LanguageData>

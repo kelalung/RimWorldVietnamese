@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bullet_HellcatRifle.label>Đạn cho súng trường Hellcat</Bullet_HellcatRifle.label>
+  <Gun_HellcatRifle.label>Súng trường Hellcat</Gun_HellcatRifle.label>
+  <Gun_HellcatRifle.description>Một khẩu súng trường tấn công đa năng, có đặc điểm tầm bắn xa, sức mạnh lớn và độ chính xác cao.\n\nNó còn được trang bị một bộ đốt mini, có thể phun lửa bằng cách nén thép sống. Bộ đốt mini cần được nạp thép sống làm nhiên liệu. Sau mỗi lần nạp nhiên liệu, có thể sử dụng hai lần.</Gun_HellcatRifle.description>
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>Nhiên liệu</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>Đang làm mát</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HellcatRifle.tools.stock.label>Cán súng</Gun_HellcatRifle.tools.stock.label>
+  <Gun_HellcatRifle.tools.barrel.label>Ống nòng</Gun_HellcatRifle.tools.barrel.label>
+  <Gun_HellcatRifle.verbs.Verb_Shoot.label>Súng trường Hellcat</Gun_HellcatRifle.verbs.Verb_Shoot.label>
+  <Gun_Incinerator.label>Máy phun lửa</Gun_Incinerator.label>
+  <Gun_Incinerator.description>Một vũ khí hạng nặng có khả năng phun lửa vào một khu vực nhất định. Có thể tấn công qua đồng minh mà không gây hại cho họ.\n\nMặc dù bộ phun chính của vũ khí này có thể sử dụng không giới hạn, nhưng nó còn được trang bị một bộ đốt khổng lồ, có thể phun ra lượng lửa lớn bằng cách nén thép sống. Bộ đốt khổng lồ cần được nạp thép sống làm nhiên liệu. Sau mỗi lần nạp nhiên liệu, chỉ có thể sử dụng một lần.</Gun_Incinerator.description>
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>Nhiên liệu</Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>Đang làm mát</Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Incinerator.tools.stock.label>Cán súng</Gun_Incinerator.tools.stock.label>
+  <Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>Máy phun lửa</Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>
+</LanguageData>

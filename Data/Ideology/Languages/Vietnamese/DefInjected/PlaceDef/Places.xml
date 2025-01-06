@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AturaStation.placeRules.rulesStrings>
+		<li>place_name-&gt;Trạm Atura</li>
+		<li>place_adjective-&gt;Atura</li>
+		<li>place_summary-&gt;Cảng tàu hỏa</li>
+		<li>place_community-&gt;Bến tàu shuttle</li>
+		<li>place_community-&gt;Vành đai sản xuất</li>
+		<li>place_community-&gt;Vành đai cư trú</li>
+		<li>place_powerCenter-&gt;Phòng điều khiển trung tâm</li>
+		<li>place_job-&gt;Nhà điều hành drone</li>
+		<li>place_job-&gt;Quản lý</li>
+		<li>place_job-&gt;Phi công thử nghiệm</li>
+		<li>place_job-&gt;Nhà phân phối</li>
+		<li>place_job-&gt;Kỹ thuật viên in 3D</li>
+		<li>place_personalWeapon-&gt;Súng tazer</li>
+		<li>place_personalWeapon-&gt;Súng hàn hồ quang</li>
+		<li>place_massWeapon-&gt;[anEMPAttack]</li>
+		<li>place_massWeapon-&gt;Drone hàn điều khiển từ xa</li>
+		<li>place_foeLeader-&gt;Thủ lĩnh tội phạm</li>
+		<li>place_foeSoldiers-&gt;Bạo loạn</li>
+	</AturaStation.placeRules.rulesStrings>
+	<Bagua5.placeRules.rulesStrings>
+		<li>place_name-&gt;Hình Bát Quái V</li>
+		<li>place_adjective-&gt;Bát Quái</li>
+		<li>place_summary-&gt;Hành tinh rác</li>
+		<li>place_community-&gt;Bãi phế liệu phòng thủ tăng cường</li>
+		<li>place_community-&gt;Nhà máy chế biến nước mưa</li>
+		<li>place_community-&gt;Thị trấn phế liệu</li>
+		<li>place_powerCenter-&gt;Trung tâm giao dịch không gian</li>
+		<li>place_job-&gt;Người nhặt rác</li>
+		<li>place_job-&gt;Thương nhân</li>
+		<li>place_job-&gt;Thợ sửa chữa</li>
+		<li>place_job-&gt;Người bảo vệ</li>
+		<li>place_job-&gt;Người xúc tải</li>
+		<li>place_personalWeapon-&gt;Súng trường ống sắt</li>
+		<li>place_personalWeapon-&gt;Kiếm phế liệu</li>
+		<li>place_massWeapon-&gt;Bom hạt nhân còn lại</li>
+		<li>place_massWeapon-&gt;Virus gỉ sét</li>
+		<li>place_foeLeader-&gt;Lãnh chúa phế phẩm</li>
+		<li>place_foeSoldiers-&gt;Chiến sĩ đầu sắt</li>
+	</Bagua5.placeRules.rulesStrings>
+	<Boccocarro.placeRules.rulesStrings>
+		<li>place_name-&gt;Boccocarro</li>
+		<li>place_adjective-&gt;Boccocarro</li>
+		<li>place_summary-&gt;Thế giới hang động</li>
+		<li>place_community-&gt;Đường hầm trên mặt đất</li>
+		<li>place_community-&gt;Hang động nấm</li>
+		<li>place_community-&gt;Giếng nước nhỏ</li>
+		<li>place_powerCenter-&gt;Phòng họp</li>
+		<li>place_job-&gt;Thợ mỏ</li>
+		<li>place_job-&gt;Nông dân nấm</li>
+		<li>place_job-&gt;Người dọn dẹp mặt đất</li>
+		<li>place_job-&gt;Đầu bếp cộng đồng</li>
+		<li>place_job-&gt;Người săn ếch</li>
+		<li>place_personalWeapon-&gt;Cuốc chim</li>
+		<li>place_personalWeapon-&gt;Nỏ thủy lực</li>
+		<li>place_massWeapon-&gt;[thiết bị địa chấn]</li>
+		<li>place_massWeapon-&gt;Bom thuốc nổ</li>
+		<li>place_foeLeader-&gt;Chương trình quản lý khai thác</li>
+		<li>place_foeSoldiers-&gt;Thủy quân lục chiến sâu</li>
+	</Boccocarro.placeRules.rulesStrings>
+	<Chelis.placeRules.rulesStrings>
+		<li>place_name-&gt;Chelis</li>
+		<li>place_adjective-&gt;Chelis</li>
+		<li>place_summary-&gt;Thế giới khô cằn</li>
+		<li>place_community-&gt;Nông trại ẩm ướt</li>
+		<li>place_community-&gt;Thị trấn khô hạn</li>
+		<li>place_community-&gt;Trung tâm nước</li>
+		<li>place_powerCenter-&gt;Đại sảnh sinh vật cao cấp</li>
+		<li>place_job-&gt;Công nhân thu nước</li>
+		<li>place_job-&gt;Thương nhân da thằn lằn</li>
+		<li>place_job-&gt;Người tìm kiếm ốc đảo</li>
+		<li>place_job-&gt;Công nhân thu hoạch xương rồng</li>
+		<li>place_job-&gt;Người nhặt rác</li>
+		<li>place_personalWeapon-&gt;Mũi tên cát</li>
+		<li>place_personalWeapon-&gt;Gậy xương rồng</li>
+		<li>place_massWeapon-&gt;Bão cát cổ đại</li>
+		<li>place_massWeapon-&gt;Bão móng vuốt thằn lằn</li>
+		<li>place_foeLeader-&gt;Lãnh chúa</li>
+		<li>place_foeSoldiers-&gt;Chiến binh cát</li>
+	</Chelis.placeRules.rulesStrings>
+	<Creticon.placeRules.rulesStrings>
+		<li>place_name-&gt;Creticon</li>
+		<li>place_adjective-&gt;Creticon</li>
+		<li>place_summary-&gt;Thế giới tĩnh lặng bị tẩy rửa bởi cú sốc</li>
+		<li>place_community-&gt;Hầm trú ẩn</li>
+		<li>place_community-&gt;Hang động</li>
+		<li>place_community-&gt;Nơi trú ẩn tuyết và băng</li>
+		<li>place_powerCenter-&gt;Bunker của giám đốc</li>
+		<li>place_job-&gt;Kỹ thuật viên hệ thống tuần hoàn nước</li>
+		<li>place_job-&gt;Nông dân tảo</li>
+		<li>place_job-&gt;Bác sĩ</li>
+		<li>place_job-&gt;Giáo viên</li>
+		<li>place_job-&gt;Chỉ huy quân sự</li>
+		<li>place_job-&gt;Phi công tàu shuttle</li>
+		<li>place_personalWeapon-&gt;Súng ngắn tự động</li>
+		<li>place_personalWeapon-&gt;Súng máy nhẹ</li>
+		<li>place_massWeapon-&gt;Bom hạt nhân mang vai</li>
+		<li>place_massWeapon-&gt;Đèn hiệu ném bom đường ray</li>
+		<li>place_massWeapon-&gt;Bom hóa học</li>
+		<li>place_massWeapon-&gt;Cỗ máy điều khiển</li>
+		<li>place_foeLeader-&gt;Lãnh chúa quân phiệt</li>
+		<li>place_foeSoldiers-&gt;Lính đánh thuê</li>
+	</Creticon.placeRules.rulesStrings>
+	<Filson.placeRules.rulesStrings>
+		<li>place_name-&gt;Filson</li>
+		<li>place_adjective-&gt;Filson</li>
+		<li>place_summary-&gt;Thế giới nông thôn</li>
+		<li>place_community-&gt;Thị trấn</li>
+		<li>place_community-&gt;Nhà máy phân bón</li>
+		<li>place_community-&gt;Kho thóc khổng lồ</li>
+		<li>place_community-&gt;Trạm bơm nước</li>
+		<li>place_powerCenter-&gt;Tòa thị chính</li>
+		<li>place_job-&gt;Chủ trang trại</li>
+		<li>place_job-&gt;Công nhân hái trái cây</li>
+		<li>place_job-&gt;Tài xế vận chuyển</li>
+		<li>place_job-&gt;Giáo viên trường học</li>
+		<li>place_job-&gt;Kỹ sư đất</li>
+		<li>place_personalWeapon-&gt;Rifle</li>
+		<li>place_personalWeapon-&gt;Lưỡi hái</li>
+		<li>place_massWeapon-&gt;Bom phân bón</li>
+		<li>place_massWeapon-&gt;Thuốc xịt diệt côn trùng vũ khí hóa</li>
+		<li>place_massWeapon-&gt;Thấu kính không gian</li>
+		<li>place_foeLeader-&gt;Địa chủ</li>
+		<li>place_foeSoldiers-&gt;Dân quân</li>
+	</Filson.placeRules.rulesStrings>
+	<Ilwaba.placeRules.rulesStrings>
+		<li>place_name-&gt;Ilwaba</li>
+		<li>place_adjective-&gt;Ilwaba</li>
+		<li>place_summary-&gt;Thế giới đổ nát hồi sinh</li>
+		<li>place_community-&gt;Làng cao</li>
+		<li>place_community-&gt;Trạm giao dịch tốc độ cao</li>
+		<li>place_community-&gt;Ốc đảo bùng nổ</li>
+		<li>place_powerCenter-&gt;Nhà tái sinh</li>
+		<li>place_job-&gt;Nông dân sáng tạo</li>
+		<li>place_job-&gt;Người xây dựng đường</li>
+		<li>place_job-&gt;Thợ săn cổ vật</li>
+		<li>place_job-&gt;Người đi bộ đường hầm</li>
+		<li>place_job-&gt;Thợ phục hồi cổ vật</li>
+		<li>place_personalWeapon-&gt;Kiếm phế liệu</li>
+		<li>place_personalWeapon-&gt;Dao găm có vết nứt</li>
+		<li>place_massWeapon-&gt;Bom hạt nhân khai thác</li>
+		<li>place_massWeapon-&gt;Bom độc cổ đại</li>
+		<li>place_foeLeader-&gt;Lãnh đạo bí mật</li>
+		<li>place_foeSoldiers-&gt;Lính bí mật</li>
+	</Ilwaba.placeRules.rulesStrings>
+	<Iwamura.placeRules.rulesStrings>
+		<li>place_name-&gt;Iwamura</li>
+		<li>place_adjective-&gt;Iwamura</li>
+		<li>place_summary-&gt;Tiểu hành tinh đá</li>
+		<li>place_community-&gt;Kho thị trường</li>
+		<li>place_community-&gt;Kho công cụ</li>
+		<li>place_community-&gt;Bến đỗ</li>
+		<li>place_powerCenter-&gt;Tòa nhà trạm</li>
+		<li>place_job-&gt;Kỹ sư sinh tồn</li>
+		<li>place_job-&gt;Thương nhân</li>
+		<li>place_job-&gt;Điều phối viên bay</li>
+		<li>place_job-&gt;Vận động viên không trọng lực</li>
+		<li>place_job-&gt;Người dẫn chương trình phát thanh</li>
+		<li>place_personalWeapon-&gt;Rifle điện</li>
+		<li>place_personalWeapon-&gt;Súng hàn</li>
+		<li>place_massWeapon-&gt;Chất độc khí dạng sương</li>
+		<li>place_massWeapon-&gt;[anEMPAttack]</li>
+		<li>place_massWeapon-&gt;Virus phá hoại hệ thống sinh tồn</li>
+		<li>place_foeLeader-&gt;Giám đốc khổng lồ</li>
+		<li>place_foeSoldiers-&gt;Người thi hành pháp luật thuê</li>
+	</Iwamura.placeRules.rulesStrings>
+	<Kemia.placeRules.rulesStrings>
+		<li>place_name-&gt;Kemia</li>
+		<li>place_adjective-&gt;Kemia</li>
+		<li>place_summary-&gt;Thế giới chiến tranh độc hại</li>
+		<li>place_community-&gt;Khu ổ chuột</li>
+		<li>place_community-&gt;Thuộc địa đường hầm</li>
+		<li>place_community-&gt;Thị trấn ngầm</li>
+		<li>place_powerCenter-&gt;Tòa thị chính</li>
+		<li>place_job-&gt;Người quét dọn đường phố</li>
+		<li>place_job-&gt;Kỹ sư dọn dẹp</li>
+		<li>place_job-&gt;Nông dân protein</li>
+		<li>place_job-&gt;Tài xế taxi</li>
+		<li>place_job-&gt;Thợ chế tạo vũ khí</li>
+		<li>place_personalWeapon-&gt;Bom khí độc</li>
+		<li>place_personalWeapon-&gt;Bình xịt khí độc</li>
+		<li>place_massWeapon-&gt;Bom bẩn hạt nhân</li>
+		<li>place_massWeapon-&gt;Dịch bệnh cải tiến sinh học</li>
+		<li>place_massWeapon-&gt;Bom khí độc xuyên thấu</li>
+		<li>place_foeLeader-&gt;Bạo chúa độc hại</li>
+		<li>place_foeSoldiers-&gt;Chiến binh độc tố</li>
+	</Kemia.placeRules.rulesStrings>
+	<Lutuni.placeRules.rulesStrings>
+		<li>place_name-&gt;Lutuni</li>
+		<li>place_adjective-&gt;Lutuni</li>
+		<li>place_summary-&gt;Thế giới rừng mưa</li>
+		<li>place_community-&gt;Phòng khám mở rộng</li>
+		<li>place_community-&gt;Siêu du thuyền</li>
+		<li>place_community-&gt;Sân vận động không trọng lực</li>
+		<li>place_powerCenter-&gt;Tổ hợp thang máy không gian</li>
+		<li>place_job-&gt;Hướng dẫn viên du lịch</li>
+		<li>place_job-&gt;Người biểu diễn không trọng lực</li>
+		<li>place_job-&gt;Nhà phân phối chất gây nghiện</li>
+		<li>place_job-&gt;Ngôi sao ảo</li>
+		<li>place_job-&gt;Phi công tàu shuttle</li>
+		<li>place_personalWeapon-&gt;Dao rung</li>
+		<li>place_personalWeapon-&gt;Súng ngắn điện</li>
+		<li>place_massWeapon-&gt;Nấm phân hủy cấu trúc</li>
+		<li>place_massWeapon-&gt;Đèn hiệu ném bom buôn lậu</li>
+		<li>place_foeLeader-&gt;Ông trùm giải trí</li>
+		<li>place_foeSoldiers-&gt;Người thi hành pháp luật</li>
+	</Lutuni.placeRules.rulesStrings>
+	<Novaroma.placeRules.rulesStrings>
+		<li>place_name-&gt;Novaroma</li>
+		<li>place_adjective-&gt;Novaroma</li>
+		<li>place_summary-&gt;Tiểu hành tinh</li>
+		<li>place_community-&gt;Bộ phận cấp phép</li>
+		<li>place_community-&gt;Cổng biên giới</li>
+		<li>place_community-&gt;Thành phố đảo ngược</li>
+		<li>place_community-&gt;Thành phố ngầm</li>
+		<li>place_powerCenter-&gt;Đại sảnh thành phố khổng lồ</li>
+		<li>place_job-&gt;Thư ký</li>
+		<li>place_job-&gt;Cán bộ</li>
+		<li>place_job-&gt;Người giao thực phẩm</li>
+		<li>place_job-&gt;Tài xế taxi</li>
+		<li>place_job-&gt;Công nhân bán lẻ</li>
+		<li>place_personalWeapon-&gt;Súng lục xoay</li>
+		<li>place_personalWeapon-&gt;Dao nhỏ</li>
+		<li>place_massWeapon-&gt;[thiết bị địa chấn]</li>
+		<li>place_massWeapon-&gt;Bom chùm</li>
+		<li>place_massWeapon-&gt;Bom hạt nhân dạng hộp</li>
+		<li>place_foeLeader-&gt;Lãnh chúa ngầm cao cấp</li>
+		<li>place_foeSoldiers-&gt;Lực lượng ngầm</li>
+	</Novaroma.placeRules.rulesStrings>
+	<Nuchadus.placeRules.rulesStrings>
+		<li>place_name-&gt;Nuchadus</li>
+		<li>place_adjective-&gt;Nuchadus</li>
+		<li>place_summary-&gt;Thế giới núi lửa u ám</li>
+		<li>place_community-&gt;Đảo bazan</li>
+		<li>place_community-&gt;Thị trấn hồ miệng núi lửa</li>
+		<li>place_community-&gt;Làng khinh khí cầu</li>
+		<li>place_powerCenter-&gt;Pháo đài dòng chảy</li>
+		<li>place_job-&gt;Nhà địa chấn học</li>
+		<li>place_job-&gt;Nông dân ốc sên dung nham</li>
+		<li>place_job-&gt;Thợ sửa bình chứa</li>
+		<li>place_job-&gt;Trinh sát trên không</li>
+		<li>place_personalWeapon-&gt;Dao obsidian</li>
+		<li>place_personalWeapon-&gt;Rifle mũi nhọn</li>
+		<li>place_massWeapon-&gt;Kích hoạt núi lửa cổ đại</li>
+		<li>place_massWeapon-&gt;Bom hóa học</li>
+		<li>place_foeLeader-&gt;Lãnh chúa dung nham</li>
+		<li>place_foeSoldiers-&gt;Chiến binh u ám</li>
+	</Nuchadus.placeRules.rulesStrings>
+	<Oubanyen.placeRules.rulesStrings>
+		<li>place_name-&gt;Oubanyen</li>
+		<li>place_adjective-&gt;Oubanyen</li>
+		<li>place_summary-&gt;Thế giới rừng rậm ồn ào</li>
+		<li>place_community-&gt;Làng trên cây</li>
+		<li>place_community-&gt;Hang động shaman</li>
+		<li>place_community-&gt;Đền trên đỉnh núi</li>
+		<li>place_powerCenter-&gt;Chùa thành phố</li>
+		<li>place_job-&gt;Shaman</li>
+		<li>place_job-&gt;Thợ săn</li>
+		<li>place_job-&gt;Người đánh cá</li>
+		<li>place_job-&gt;Người thu hoạch</li>
+		<li>place_job-&gt;Người chăn cừu</li>
+		<li>place_personalWeapon-&gt;Giáo</li>
+		<li>place_personalWeapon-&gt;Mác ngắn</li>
+		<li>place_massWeapon-&gt;Drone gây rối tâm trí chết người</li>
+		<li>place_massWeapon-&gt;Bom chất độc thần kinh</li>
+		<li>place_foeLeader-&gt;Người chặt cây</li>
+		<li>place_foeSoldiers-&gt;Người đánh thuê</li>
+	</Oubanyen.placeRules.rulesStrings>
+	<Rhydell.placeRules.rulesStrings>
+		<li>place_name-&gt;Rhydell</li>
+		<li>place_adjective-&gt;Rhydell</li>
+		<li>place_summary-&gt;Tháng rừng hoang dã</li>
+		<li>place_community-&gt;Tàu vận chuyển độn</li>
+		<li>place_community-&gt;Trại che chắn thấp</li>
+		<li>place_community-&gt;Trung tâm liên lạc</li>
+		<li>place_powerCenter-&gt;Bunker bọc thép</li>
+		<li>place_job-&gt;Nhà thực vật học tiền tuyến</li>
+		<li>place_job-&gt;Thợ săn tiền thưởng</li>
+		<li>place_job-&gt;Bác sĩ</li>
+		<li>place_job-&gt;Đầu bếp trại</li>
+		<li>place_job-&gt;Kỹ sư sinh học</li>
+		<li>place_personalWeapon-&gt;Sniper rifle</li>
+		<li>place_personalWeapon-&gt;Dao lớn</li>
+		<li>place_massWeapon-&gt;Khí độc thực vật</li>
+		<li>place_massWeapon-&gt;Đèn hiệu tấn công laser</li>
+		<li>place_foeLeader-&gt;Giám đốc sâu</li>
+		<li>place_foeSoldiers-&gt;Lực lượng sâu</li>
+	</Rhydell.placeRules.rulesStrings>
+	<Rogia.placeRules.rulesStrings>
+		<li>place_name-&gt;Rogia</li>
+		<li>place_adjective-&gt;Rogia</li>
+		<li>place_summary-&gt;Thế giới công nghệ sáng chói</li>
+		<li>place_community-&gt;Cơ sở y tế</li>
+		<li>place_community-&gt;Thang máy không gian</li>
+		<li>place_community-&gt;Nhà máy robot</li>
+		<li>place_powerCenter-&gt;Thủ đô hành tinh</li>
+		<li>place_job-&gt;Học viên quân sự liên sao</li>
+		<li>place_job-&gt;Nông dân thợ thủ công</li>
+		<li>place_job-&gt;Thiên tài truyền thông xã hội</li>
+		<li>place_job-&gt;Vận động viên không trọng lực</li>
+		<li>place_job-&gt;Người buôn lậu công nghệ</li>
+		<li>place_personalWeapon-&gt;Giáo điện</li>
+		<li>place_personalWeapon-&gt;Kiếm đơn phân tử</li>
+		<li>place_massWeapon-&gt;Đầu đạn phản vật chất</li>
+		<li>place_massWeapon-&gt;Virus máy tính vũ khí hóa</li>
+		<li>place_massWeapon-&gt;Virus máy móc điều khiển từ xa</li>
+		<li>place_foeLeader-&gt;Quan chức tham nhũng</li>
+		<li>place_foeSoldiers-&gt;Người bảo vệ sinh học</li>
+	</Rogia.placeRules.rulesStrings>
+	<Wavia.placeRules.rulesStrings>
+		<li>place_name-&gt;Wavia</li>
+		<li>place_adjective-&gt;Wavia</li>
+		<li>place_summary-&gt;Hành tinh đại dương</li>
+		<li>place_community-&gt;Rạn san hô thương mại</li>
+		<li>place_community-&gt;Làng nổi</li>
+		<li>place_community-&gt;Nhà máy tinh chế tảo</li>
+		<li>place_powerCenter-&gt;Tòa nhà quốc hội</li>
+		<li>place_job-&gt;Người đánh cá</li>
+		<li>place_job-&gt;Thợ lặn ngọc trai</li>
+		<li>place_job-&gt;Thợ làm buồm</li>
+		<li>place_job-&gt;Thuyền trưởng</li>
+		<li>place_job-&gt;Người thu hoạch tảo</li>
+		<li>place_personalWeapon-&gt;Giáo</li>
+		<li>place_personalWeapon-&gt;Lưới đánh cá</li>
+		<li>place_massWeapon-&gt;Ngư lôi năng lượng cao</li>
+		<li>place_massWeapon-&gt;[quái vật biển] bị giam giữ</li>
+		<li>place_foeLeader-&gt;Đô đốc thợ săn cá voi</li>
+		<li>place_foeSoldiers-&gt;Lính thợ săn cá voi</li>
+		<li>seaBeast-&gt;Quái vật biển sâu</li>
+		<li>seaBeast-&gt;Leviathan vĩ đại</li>
+	</Wavia.placeRules.rulesStrings>
+	<Xanides.placeRules.rulesStrings>
+		<li>place_name-&gt;Xanides</li>
+		<li>place_adjective-&gt;Xanides</li>
+		<li>place_summary-&gt;Hành tinh khoáng sản đã khai thác</li>
+		<li>place_community-&gt;Mỏ khoáng dạng dải</li>
+		<li>place_community-&gt;Nhà máy tinh chế quặng</li>
+		<li>place_community-&gt;Căn tin dinh dưỡng</li>
+		<li>place_powerCenter-&gt;Kho oxy</li>
+		<li>place_job-&gt;Thợ mỏ</li>
+		<li>place_job-&gt;Giám sát viên</li>
+		<li>place_job-&gt;Kỹ thuật viên</li>
+		<li>place_job-&gt;Thợ cơ khí</li>
+		<li>place_job-&gt;Kỹ sư sinh tồn</li>
+		<li>place_personalWeapon-&gt;Gậy điện</li>
+		<li>place_personalWeapon-&gt;Súng ngắn tự động</li>
+		<li>place_massWeapon-&gt;Bom nổ điện</li>
+		<li>place_massWeapon-&gt;[anEMPAttack]</li>
+		<li>place_foeLeader-&gt;Giám đốc tập đoàn khai thác</li>
+		<li>place_foeSoldiers-&gt;Lính tập đoàn khai thác</li>
+	</Xanides.placeRules.rulesStrings>
+	<Yttak.placeRules.rulesStrings>
+		<li>place_name-&gt;Yttak</li>
+		<li>place_adjective-&gt;Yttak</li>
+		<li>place_summary-&gt;Nhà tù băng</li>
+		<li>place_community-&gt;Căng tin</li>
+		<li>place_community-&gt;Trại gác</li>
+		<li>place_community-&gt;Trung tâm giam giữ</li>
+		<li>place_powerCenter-&gt;Tòa nhà văn phòng giám đốc trại</li>
+		<li>place_job-&gt;Tù nhân</li>
+		<li>place_job-&gt;Người gác</li>
+		<li>place_job-&gt;Người trốn chạy</li>
+		<li>place_job-&gt;Công nhân bảo trì</li>
+		<li>place_job-&gt;Tài xế vận chuyển</li>
+		<li>place_personalWeapon-&gt;Dao nhỏ</li>
+		<li>place_personalWeapon-&gt;Súng tiểu liên</li>
+		<li>place_massWeapon-&gt;Bom hóa học đơn giản</li>
+		<li>place_massWeapon-&gt;Đèn hiệu tấn công laser</li>
+		<li>place_foeLeader-&gt;Giám đốc nhà tù</li>
+		<li>place_foeSoldiers-&gt;Vệ sĩ tham nhũng</li>
+	</Yttak.placeRules.rulesStrings>
+	<Zoutera.placeRules.rulesStrings>
+		<li>place_name-&gt;Zoutera</li>
+		<li>place_adjective-&gt;Zoutera</li>
+		<li>place_summary-&gt;Thế giới khủng long cỏ cao</li>
+		<li>place_community-&gt;Trạm giao dịch</li>
+		<li>place_community-&gt;Làng lều</li>
+		<li>place_community-&gt;Nghĩa trang voi ma mút</li>
+		<li>place_powerCenter-&gt;Pháo đài trên đỉnh núi</li>
+		<li>place_job-&gt;Kỵ sĩ khủng long</li>
+		<li>place_job-&gt;Người chăn bò</li>
+		<li>place_job-&gt;Thợ săn</li>
+		<li>place_job-&gt;Người chế tạo da</li>
+		<li>place_personalWeapon-&gt;Gậy tre</li>
+		<li>place_personalWeapon-&gt;Mũi tên săn bắn</li>
+		<li>place_massWeapon-&gt;Đàn[megaFauna]</li>
+		<li>place_massWeapon-&gt;Bom phân bón</li>
+		<li>place_foeLeader-&gt;Vua nanh</li>
+		<li>place_foeSoldiers-&gt;Chiến binh nanh</li>
+		<li>megaFauna-&gt;Khủng long mạnh xương</li>
+		<li>megaFauna-&gt;Voi ma mút xanh</li>
+		<li>megaFauna-&gt;Khủng long velociraptor</li>
+	</Zoutera.placeRules.rulesStrings>
+</LanguageData>

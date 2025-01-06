@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AssemblySpeedFactor.label>Hệ số tốc độ lắp ráp</AssemblySpeedFactor.label>
+<AssemblySpeedFactor.description>Tốc độ khi thực hiện lắp ráp gen sẽ được nhân với giá trị này.</AssemblySpeedFactor.description>
+<AssemblySpeedFactor.parts.Room_cleanliness.customLabel>Sự sạch sẽ của phòng</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
+<BabyPlayGainFactor.label>Độ thú vị</BabyPlayGainFactor.label>
+<BabyPlayGainFactor.description>Khả năng của vật phẩm này trong việc đáp ứng nhu cầu chơi đùa của trẻ sơ sinh.</BabyPlayGainFactor.description>
+<BirthRitualQualityOffset.label>Chênh lệch chất lượng sinh sản</BirthRitualQualityOffset.label>
+<BirthRitualQualityOffset.description>Khi là địa điểm sinh sản, nó sẽ thay đổi chất lượng sinh ra. Chất lượng sinh sẽ ảnh hưởng đến khả năng trẻ sơ sinh ra đời bình thường.</BirthRitualQualityOffset.description>
+<GeneticComplexityIncrease.label>Tăng độ phức tạp gen</GeneticComplexityIncrease.label>
+<GeneticComplexityIncrease.description>Khi đặt gần máy lắp ráp gen, thiết bị này sẽ tăng giới hạn độ phức tạp gen có thể lắp ráp một lần.</GeneticComplexityIncrease.description>
+</LanguageData>

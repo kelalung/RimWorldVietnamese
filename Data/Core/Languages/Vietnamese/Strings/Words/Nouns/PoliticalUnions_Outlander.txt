@@ -1,0 +1,21 @@
+﻿//Common with tribals
+Liên minh
+Dân tộc thống nhất trận tuyến
+Liên Bang
+Liên hợp thể
+Đồng minh
+Gia tộc liên minh
+Đồng minh
+Hiệp ước
+Công ước
+Liên hợp
+
+//Outlander specific (different from empire)
+Hiệp hội
+Liên Bang
+Liên minh
+Hiệp nghị
+Công ước
+Hiệp định
+Dạng dung hợp
+Thể thống nhất

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AwkwardExecution.stages.awkward_execution.label>Cuộc xử án ngượng ngùng</AwkwardExecution.stages.awkward_execution.label>
+<AwkwardExecution.stages.awkward_execution.description>Cuộc xử án đó rất ngượng ngùng. Sự thể hiện sự bất lực khiến mọi thứ trở nên không công bằng.</AwkwardExecution.stages.awkward_execution.description>
+<BeautifulSkyLanterns.stages.beautiful_skylantern_festival.label>Lễ hội đèn trời đẹp</BeautifulSkyLanterns.stages.beautiful_skylantern_festival.label>
+<BeautifulSkyLanterns.stages.beautiful_skylantern_festival.description>Khi nhìn thấy những chiếc đèn lồng dần xa, tâm hồn tôi được bình yên.</BeautifulSkyLanterns.stages.beautiful_skylantern_festival.description>
+<BoringBlinding.stages.boring_blinding.label>Nhìn mờ nhạt</BoringBlinding.stages.boring_blinding.label>
+<BoringBlinding.stages.boring_blinding.description>Nhìn mờ nhạt này thiếu đi sự đam mê, kỹ thuật cũng không cao.</BoringBlinding.stages.boring_blinding.description>
+<BoringDuel.stages.boring_duel.label>Cuộc quyết đấu tẻ nhạt</BoringDuel.stages.boring_duel.label>
+<BoringDuel.stages.boring_duel.description>Cuộc quyết đấu đó rất ngượng ngùng. Thiếu tính tấn công, chỉ để sinh tồn.</BoringDuel.stages.boring_duel.description>
+<BoringFestival.stages.boring_festival.label>Lễ hội tẻ nhạt</BoringFestival.stages.boring_festival.label>
+<BoringFestival.stages.boring_festival.description>Lễ hội đó thật ngượng ngùng, tôi hy vọng có thể rời đi nhanh chóng.</BoringFestival.stages.boring_festival.description>
+<BoringParty.stages.boring_party.label>Buổi tiệc tẻ nhạt</BoringParty.stages.boring_party.label>
+<BoringParty.stages.boring_party.description>Buổi tiệc đó không tốt lắm. Âm nhạc tẻ nhạt, điệu nhảy tệ hại. Thật sự tôi ước mình chưa bao giờ đến.</BoringParty.stages.boring_party.description>
+<BoringSacrifice.stages.boring_sacrifice.label>Hy sinh tẻ nhạt</BoringSacrifice.stages.boring_sacrifice.label>
+<BoringSacrifice.stages.boring_sacrifice.description>Hy sinh này thiếu đi sự đam mê, và kỹ thuật cũng không cao.</BoringSacrifice.stages.boring_sacrifice.description>
+<BoringScarification.stages.boring_scarification.label>Sẹo tẻ nhạt</BoringScarification.stages.boring_scarification.label>
+<BoringScarification.stages.boring_scarification.description>Sẹo đó thiếu đi sự đam mê, và kỹ thuật cũng không cao.</BoringScarification.stages.boring_scarification.description>
+<EffectiveConversion.stages.effective_conversion.label>Giáo hóa hiệu quả</EffectiveConversion.stages.effective_conversion.label>
+<EffectiveConversion.stages.effective_conversion.description>Lễ giáo hóa diễn ra rất suôn sẻ. Bài phát biểu thật cảm động, nghe thật dễ chịu.</EffectiveConversion.stages.effective_conversion.description>
+<FunFestival.stages.fun_festival.label>Lễ hội vui vẻ</FunFestival.stages.fun_festival.label>
+<FunFestival.stages.fun_festival.description>Tôi đã có một khoảng thời gian vui vẻ! Chúng tôi đã ra ngoài chơi và thư giãn.</FunFestival.stages.fun_festival.description>
+<FunParty.stages.fun_party.label>Buổi tiệc vui vẻ</FunParty.stages.fun_party.label>
+<FunParty.stages.fun_party.description>Đó là một buổi tiệc thú vị. Có thể thoát khỏi cuộc sống hàng ngày để nghỉ ngơi một chút.</FunParty.stages.fun_party.description>
+<GoodDuel.stages.good_duel.label>Cuộc quyết đấu tuyệt vời</GoodDuel.stages.good_duel.label>
+<GoodDuel.stages.good_duel.description>Cuộc quyết đấu đó rất tuyệt vời. Các chiến binh thật sự đã thể hiện được lòng dũng cảm.</GoodDuel.stages.good_duel.description>
+<GoodFuneral.stages.good_funeral.label>Đám tang tốt đẹp</GoodFuneral.stages.good_funeral.label>
+<GoodFuneral.stages.good_funeral.description>Đám tang diễn ra rất suôn sẻ, đây là một cách chia tay tốt đẹp.</GoodFuneral.stages.good_funeral.description>
+<HeartwarmingFuneral.stages.heartwarming_funeral.label>Đám tang cảm động</HeartwarmingFuneral.stages.heartwarming_funeral.label>
+<HeartwarmingFuneral.stages.heartwarming_funeral.description>Đám tang diễn ra rất hoàn hảo, nó gợi lại nhiều kỷ niệm đẹp và chỉ ra con đường tiến lên cho chúng tôi.</HeartwarmingFuneral.stages.heartwarming_funeral.description>
+<LacklusterFuneral.stages.lackluster_funeral.label>Đám tang nhạt nhẽo</LacklusterFuneral.stages.lackluster_funeral.label>
+<LacklusterFuneral.stages.lackluster_funeral.description>Đám tang đó thật nhạt nhẽo, không giải quyết được vấn đề gì.</LacklusterFuneral.stages.lackluster_funeral.description>
+<MasterfulConversion.stages.masterful_conversion.label>Thay đổi niềm tin một cách điêu luyện</MasterfulConversion.stages.masterful_conversion.label>
+<MasterfulConversion.stages.masterful_conversion.description>Kỹ thuật thật tinh xảo! Niềm tin cũ bị xé nát, và sự thật của chúng tôi được chấp nhận mà không nghi ngờ gì.</MasterfulConversion.stages.masterful_conversion.description>
+<SatisfyingBlinding.stages.satisfying_blinding.label>Nhìn mờ thỏa mãn</SatisfyingBlinding.stages.satisfying_blinding.label>
+<SatisfyingBlinding.stages.satisfying_blinding.description>Nhìn mờ này thật thỏa mãn. Vết thương rất sâu, phát ra âm thanh hút ẩm thật dễ chịu.</SatisfyingBlinding.stages.satisfying_blinding.description>
+<SatisfyingExecution.stages.satisfying_execution.label>Cuộc xử án thỏa mãn</SatisfyingExecution.stages.satisfying_execution.label>
+<SatisfyingExecution.stages.satisfying_execution.description>Cuộc xử án như vậy thật thỏa mãn. Công lý đã được thực thi.</SatisfyingExecution.stages.satisfying_execution.description>
+<SatisfyingSacrifice.stages.satisfying_sacrifice.label>Hy sinh thỏa mãn</SatisfyingSacrifice.stages.satisfying_sacrifice.label>
+<SatisfyingSacrifice.stages.satisfying_sacrifice.description>Hy sinh như vậy thật thỏa mãn, máu chảy vừa đủ.</SatisfyingSacrifice.stages.satisfying_sacrifice.description>
+<SatisfyingScarification.stages.satisfying_scarification.label>Vết sẹo thỏa mãn</SatisfyingScarification.stages.satisfying_scarification.label>
+<SatisfyingScarification.stages.satisfying_scarification.description>Vết sẹo đó thật thỏa mãn, dấu vết rõ ràng, và trông khá đau đớn.</SatisfyingScarification.stages.satisfying_scarification.description>
+<SpectacularBlinding.stages.spectacular_blinding.label>Nhìn mờ ngoạn mục</SpectacularBlinding.stages.spectacular_blinding.label>
+<SpectacularBlinding.stages.spectacular_blinding.description>Âm thanh nhịp nhàng đó, lưỡi dao đáng sợ, sự run rẩy đau đớn và vết thương, nghi lễ nhìn mờ thật cao cả!</SpectacularBlinding.stages.spectacular_blinding.description>
+<SpectacularExecution.stages.spectacular_execution.label>Cuộc xử án ngoạn mục</SpectacularExecution.stages.spectacular_execution.label>
+<SpectacularExecution.stages.spectacular_execution.description>Cuộc xử án đó thật hồi hộp! Tôi chưa bao giờ có cảm giác công lý được thực thi như vậy.</SpectacularExecution.stages.spectacular_execution.description>
+<SpectacularSacrifice.stages.spectacular_sacrifice.label>Hy sinh ngoạn mục</SpectacularSacrifice.stages.spectacular_sacrifice.label>
+<SpectacularSacrifice.stages.spectacular_sacrifice.description>Máu! Giải phóng! Hy sinh này khiến tôi cảm thấy chúng ta đang kết nối với một thế giới khác.</SpectacularSacrifice.stages.spectacular_sacrifice.description>
+<SpectacularScarification.stages.spectacular_scarification.label>Vết sẹo ngoạn mục</SpectacularScarification.stages.spectacular_scarification.label>
+<SpectacularScarification.stages.spectacular_scarification.description>Thịt uốn cong dưới lưỡi dao thành những hình dạng kỳ diệu. Đây là sự chuyển đổi thật sự của nỗi đau!</SpectacularScarification.stages.spectacular_scarification.description>
+<TerribleBlinding.stages.terrible_blinding.label>Nhìn mờ tồi tệ</TerribleBlinding.stages.terrible_blinding.label>
+<TerribleBlinding.stages.terrible_blinding.description>Nghi lễ đó đã thất bại, bầu không khí cũng rất tệ. Thật là một nghi lễ ngượng ngùng.</TerribleBlinding.stages.terrible_blinding.description>
+<TerribleDuel.stages.terrible_duel.label>Cuộc quyết đấu tồi tệ</TerribleDuel.stages.terrible_duel.label>
+<TerribleDuel.stages.terrible_duel.description>Cuộc quyết đấu đó thật tồi tệ. Nghĩ về cuộc quyết đấu vụng về và nhát gan đó, tôi vẫn cảm thấy ngượng ngùng.</TerribleDuel.stages.terrible_duel.description>
+<TerribleFestival.stages.terrible_festival.label>Lễ hội tồi tệ</TerribleFestival.stages.terrible_festival.label>
+<TerribleFestival.stages.terrible_festival.description>Lễ hội đó thật tồi tệ. Tôi vẫn không muốn nhớ lại những kỷ niệm ngượng ngùng đó.</TerribleFestival.stages.terrible_festival.description>
+<TerribleFuneral.stages.disgraceful_funeral.label>Đám tang đáng xấu hổ</TerribleFuneral.stages.disgraceful_funeral.label>
+<TerribleFuneral.stages.disgraceful_funeral.description>Đám tang đó là một sự xúc phạm đối với tất cả mọi người.</TerribleFuneral.stages.disgraceful_funeral.description>
+<TerribleParty.stages.terrible_party.label>Buổi tiệc tồi tệ</TerribleParty.stages.terrible_party.label>
+<TerribleParty.stages.terrible_party.description>Buổi tiệc đó thật tệ. Âm nhạc tệ hại, điệu nhảy vụng về, ơ...</TerribleParty.stages.terrible_party.description>
+<TerribleSacrifice.stages.terrible_sacrifice.label>Hy sinh tồi tệ</TerribleSacrifice.stages.terrible_sacrifice.label>
+<TerribleSacrifice.stages.terrible_sacrifice.description>Hy sinh này thật kém cỏi, cảm xúc cũng rất không bình thường. Thật tồi tệ, thật ngượng ngùng khi phải chết như vậy.</TerribleSacrifice.stages.terrible_sacrifice.description>
+<TerribleScarification.stages.terrible_scarification.label>Vết sẹo tồi tệ</TerribleScarification.stages.terrible_scarification.label>
+<TerribleScarification.stages.terrible_scarification.description>Vết sẹo này đã thất bại, bầu không khí cũng rất không bình thường. Thật là một nghi lễ ngượng ngùng.</TerribleScarification.stages.terrible_scarification.description>
+<TerribleSkyLanterns.stages.terrible_skylantern_festival.label>Lễ hội đèn trời tồi tệ</TerribleSkyLanterns.stages.terrible_skylantern_festival.label>
+<TerribleSkyLanterns.stages.terrible_skylantern_festival.description>Tôi ghét làm những chiếc đèn trời đó, chúng trông như rác rưởi.</TerribleSkyLanterns.stages.terrible_skylantern_festival.description>
+<UnforgettableDuel.stages.unforgettable_duel.label>Cuộc quyết đấu không thể quên</UnforgettableDuel.stages.unforgettable_duel.label>
+<UnforgettableDuel.stages.unforgettable_duel.description>Dũng cảm... máu... cái chết... tôi sẽ không bao giờ quên.</UnforgettableDuel.stages.unforgettable_duel.description>
+<UnforgettableFestival.stages.unforgettable_festival.label>Lễ hội không thể quên</UnforgettableFestival.stages.unforgettable_festival.label>
+<UnforgettableFestival.stages.unforgettable_festival.description>Lễ hội đó tôi sẽ không bao giờ quên.</UnforgettableFestival.stages.unforgettable_festival.description>
+<UnforgettableParty.stages.unforgettable_party.label>Buổi tiệc không thể quên</UnforgettableParty.stages.unforgettable_party.label>
+<UnforgettableParty.stages.unforgettable_party.description>Buổi tiệc đó thật tuyệt vời! Âm nhạc, tâm trạng... mọi thứ đều hoàn hảo.</UnforgettableParty.stages.unforgettable_party.description>
+<UnforgettableSkyLanterns.stages.unforgettable_skylantern_festival.label>Lễ hội đèn trời không thể quên</UnforgettableSkyLanterns.stages.unforgettable_skylantern_festival.label>
+<UnforgettableSkyLanterns.stages.unforgettable_skylantern_festival.description>Sự hợp tác khi làm lễ hội thật tuyệt vời. Vào khoảnh khắc thả đèn, dường như mọi lo âu của tôi cũng bay đi cùng những chiếc đèn trời.</UnforgettableSkyLanterns.stages.unforgettable_skylantern_festival.description>
+<UnimpressiveSkyLanterns.stages.boring_skylanterns.label>Đèn trời nhạt nhẽo</UnimpressiveSkyLanterns.stages.boring_skylanterns.label>
+<UnimpressiveSkyLanterns.stages.boring_skylanterns.description>Những chiếc đèn trời đó không gây ấn tượng với tôi. Hoàn toàn là lãng phí thời gian và tài nguyên.</UnimpressiveSkyLanterns.stages.boring_skylanterns.description>
+</LanguageData>

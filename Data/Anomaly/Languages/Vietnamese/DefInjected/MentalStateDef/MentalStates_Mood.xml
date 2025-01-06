@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DarkVisions.label>Thị giác tối tăm</DarkVisions.label>
+	<DarkVisions.baseInspectLine>Trạng thái tinh thần: Thị giác tối tăm</DarkVisions.baseInspectLine>
+	<DarkVisions.beginLetter>{PAWN_nameDef} đã bị những hình ảnh kinh hoàng đè bẹp, liên tục lẩm bẩm về những điều chỉ {PAWN_pronoun} có thể thấy. {PAWN_pronoun} sẽ bình phục sau vài giờ.</DarkVisions.beginLetter>
+	<DarkVisions.beginLetterLabel>Thị giác tối tăm</DarkVisions.beginLetterLabel>
+	<DarkVisions.recoveryMessage>Thị giác tối tăm của {PAWN_nameDef} đã kết thúc.</DarkVisions.recoveryMessage>
+	<EntityKiller.label>Kẻ giết thực thể</EntityKiller.label>
+	<EntityKiller.baseInspectLine>Trạng thái tinh thần: Kẻ giết thực thể</EntityKiller.baseInspectLine>
+	<EntityKiller.beginLetter>{0} đã sụp đổ. {PAWN_pronoun} không thể chịu đựng việc những thực thể nguy hiểm bị giam giữ như vậy. {PAWN_pronoun} muốn giết tất cả chúng.</EntityKiller.beginLetter>
+	<EntityKiller.recoveryMessage>{0} không còn giết chóc ngẫu nhiên các thực thể nữa.</EntityKiller.recoveryMessage>
+	<EntityLiberator.label>Đấng cứu rỗi thực thể</EntityLiberator.label>
+	<EntityLiberator.baseInspectLine>Trạng thái tinh thần: Đấng cứu rỗi thực thể</EntityLiberator.baseInspectLine>
+	<EntityLiberator.beginLetter>{0} đã bị một thực thể bị giam giữ quyến rũ, tin rằng nó xứng đáng được tự do.</EntityLiberator.beginLetter>
+	<EntityLiberator.recoveryMessage>{0} không còn thả thực thể nữa.</EntityLiberator.recoveryMessage>
+	<InsaneRamblings.label>Lời nói điên cuồng</InsaneRamblings.label>
+	<InsaneRamblings.baseInspectLine>Trạng thái tinh thần: Lời nói điên cuồng</InsaneRamblings.baseInspectLine>
+	<InsaneRamblings.beginLetter>Ý nghĩ của {PAWN_nameDef} đã hoàn toàn thoát khỏi thực tại, miệng nói toàn những lời điên rồ. {PAWN_pronoun} sẽ bình phục sau vài giờ.</InsaneRamblings.beginLetter>
+	<InsaneRamblings.beginLetterLabel>Lời nói điên cuồng</InsaneRamblings.beginLetterLabel>
+	<InsaneRamblings.recoveryMessage>{PAWN_nameDef} không còn nói điên cuồng nữa.</InsaneRamblings.recoveryMessage>
+	<TerrifyingHallucinations.label>Ảo giác kinh hoàng</TerrifyingHallucinations.label>
+	<TerrifyingHallucinations.baseInspectLine>Trạng thái tinh thần: Ảo giác kinh hoàng</TerrifyingHallucinations.baseInspectLine>
+	<TerrifyingHallucinations.beginLetter>Những ảo giác sống động bao quanh {0}, những đồng minh trong mắt {PAWN_pronoun} đều biến thành những quái vật kinh hoàng. {PAWN_pronoun} sẽ chạy trốn khỏi bất kỳ ai mà {PAWN_pronoun} xem là mối đe dọa.</TerrifyingHallucinations.beginLetter>
+	<TerrifyingHallucinations.beginLetterLabel>Ảo giác kinh hoàng</TerrifyingHallucinations.beginLetterLabel>
+	<TerrifyingHallucinations.recoveryMessage>{0} không còn có ảo giác nữa.</TerrifyingHallucinations.recoveryMessage>
+</LanguageData>

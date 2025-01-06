@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>Trans->của</li>
+		<li>Trans->của</li>
+		<li>Trans->cùng</li>
+		<li>Trans->với</li>
+		<li>Character(p=6)->[PersonJob]</li>
+		<li>Character(p=4)->[Animal]</li>
+		<li>Character(p=3)->[Enemy]</li>
+		<li>Character->[Mechanoid]</li>
+		<li>Quantity_adjphrase->hai cái</li>
+		<li>Quantity_adjphrase->ba cái</li>
+		<li>Quantity_adjphrase->bốn cái</li>
+		<li>Quantity_adjphrase->năm cái</li>
+		<li>Quantity_adjphrase->sáu cái</li>
+		<li>Quantity_adjphrase->bảy cái</li>
+		<li>Quantity_adjphrase->tám cái</li>
+		<li>Quantity_adjphrase->chín cái</li>
+		<li>Quantity_adjphrase->mười cái</li>
+		<li>Quantity_adjphrase->một số</li>
+		<li>Quantity_adjphrase->một nhóm</li>
+		<li>Quantity_adjphrase->một đám lớn</li>
+		<li>Quantity_adjphrase->một vài chục</li>
+		<li>Quantity_adjphrase->hàng trăm</li>
+		<li>Quantity_adjphrase->hàng ngàn</li>
+		<li>Quantity_adjphrase->vô số</li>
+		<li>Shape->hình tam giác</li>
+		<li>Shape->hình vuông</li>
+		<li>Shape->hình chữ nhật</li>
+		<li>Shape->hình nón</li>
+		<li>Shape->đường thẳng</li>
+		<li>Shape->hình trái tim</li>
+		<li>Shape->hình ngôi sao</li>
+		<li>Shape->hình tròn</li>
+		<li>Shape->hình elip</li>
+		<li>AdjectiveAny->[AdjectiveBadass]</li>
+		<li>AdjectiveAny->[AdjectiveAngsty]</li>
+		<li>AdjectiveAny->[AdjectiveFriendly]</li>
+		<li>AdjectiveAny->[AdjectiveNatural]</li>
+		<li>ConceptAny->[ConceptPositive]</li>
+		<li>ConceptAny->[ConceptBadass]</li>
+		<li>ConceptAny->[ConceptAngsty]</li>
+		<li>PersonalCharacteristic(p=0.15)->cơ quan sinh dục</li>
+		<li>PersonalCharacteristic(p=0.15)->lông mu</li>
+		<li>PersonalCharacteristic(p=0.15)->lông cơ thể</li>
+		<li>PersonalCharacteristic(p=0.15)->thói quen đi vệ sinh</li>
+		<li>PersonalCharacteristic(p=0.15)->khả năng tình dục</li>
+		<li>PersonalCharacteristic(p=0.15)->xu hướng tình dục</li>
+		<li>PersonalCharacteristic(p=0.15)->kinh nghiệm tình dục</li>
+	</GlobalUtility.rulePack.rulesStrings>
+	<TalkTopicsUtility.rulePack.rulesStrings>
+		<li>TalkTopicAny->[TalkTopicLight]</li>
+		<li>TalkTopicAny->[TalkTopicHeavy]</li>
+		<li>TalkTopicHeavy->[talktopicheavyfile]</li>
+		<li>TalkTopicHeavy(p=0.08)->mối liên hệ giữa [talktopicheavyfile] và [talktopicheavyfile]</li>
+		<li>TalkTopicHeavy(p=0.08)->mối liên hệ giữa [talktopicheavyfile] và [talktopicheavyfile]</li>
+		<li>TalkTopicHeavy(p=0.08)->mối quan hệ giữa [talktopicheavyfile] và [talktopicheavyfile]</li>
+		<li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+		<li>TalkTopicLight->[Rau]</li>
+		<li>TalkTopicLight->ăn [Rau]</li>
+		<li>TalkTopicLight->nấu ăn với [Rau]</li>
+		<li>TalkTopicLight->[Trò chơi]</li>
+		<li>TalkTopicLight->chơi [Trò chơi]</li>
+		<li>TalkTopicLight->luyện tập [Trò chơi]</li>
+		<li>TalkTopicLight->học [Trò chơi]</li>
+		<li>TalkTopicLight->[Động vật]</li>
+		<li>TalkTopicLight->huấn luyện [Động vật]</li>
+		<li>TalkTopicLight->thuần hóa [Động vật]</li>
+		<li>TalkTopicLight->chiến đấu với [Động vật]</li>
+		<li>TalkTopicLight->[Động vật] điên cuồng</li>
+		<li>TalkTopicLight->[Vũ khí]</li>
+		<li>TalkTopicLight->sử dụng [Vũ khí]</li>
+		<li>TalkTopicLight->luyện tập sử dụng [Vũ khí]</li>
+		<li>TalkTopicLight->[Đặc điểm Địa hình]</li>
+		<li>TalkTopicLight->[Đối tượng Tự nhiên]</li>
+		<li>TalkTopicLight->[Loại Cây]</li>
+		<li>TalkTopicLight->[Công việc Nhân vật]</li>
+		<li>TalkTopicLight->công việc thân thiện [Công việc Nhân vật]</li>
+		<li>TalkTopicLight->công việc thù địch [Công việc Nhân vật]</li>
+		<li>TalkTopicLight->[Kẻ thù]</li>
+		<li>TalkTopicLight->chiến đấu với [Kẻ thù]</li>
+		<li>TalkTopicLight->[Trang phục]</li>
+		<li>TalkTopicLight->mặc [Trang phục]</li>
+		<li>TalkTopicLight->làm [Trang phục]</li>
+		<li>talktopicheavyfile(p=0.15)->tình dục</li>
+		<li>talktopicheavyfile(p=0.15)->cám dỗ tình dục</li>
+		<li>talktopicheavyfile(p=0.15)->Hành vi tình dục của động vật</li>
+		<li>talktopicheavyfile(p=0.15)->Sùng bái</li>
+	</TalkTopicsUtility.rulePack.rulesStrings>
+</LanguageData>

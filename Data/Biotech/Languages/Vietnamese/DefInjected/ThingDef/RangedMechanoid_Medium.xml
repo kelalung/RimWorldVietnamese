@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bullet_ToxicNeedleGun.label>Đạn kim độc</Bullet_ToxicNeedleGun.label>
+	<Gun_BeamGraser.label>Súng bắn tia rộng</Gun_BeamGraser.label>
+	<Gun_BeamGraser.description>Một máy phát tia gamma năng lượng cao, có thể phát ra một chùm tia năng lượng cao, xuyên qua lớp giáp dày và thiêu đốt mục tiêu. Do tia gamma có thể gây nguy hiểm cho sức khỏe, loại vũ khí này thường chỉ được trang bị cho cơ giới, và mẫu này còn gắn liền với nguồn năng lượng của cơ giới.</Gun_BeamGraser.description>
+	<Gun_BeamGraser.tools.barrel.label>Ống súng</Gun_BeamGraser.tools.barrel.label>
+	<Gun_BeamGraser.verbs.Verb_ShootBeam.label>Súng bắn tia rộng</Gun_BeamGraser.verbs.Verb_ShootBeam.label>
+	<Gun_NeedleLauncher.label>Máy phóng kim</Gun_NeedleLauncher.label>
+	<Gun_NeedleLauncher.description>Vũ khí của cơ giới này là một phiên bản nhẹ của súng kim. Nó bắn ra các viên đạn hình kim đặc biệt, với độ chính xác rất cao. Máy phóng kim có tầm bắn ngắn hơn so với súng kim, nhưng do nhẹ hơn, nó có thể được sử dụng bởi các cơ giới có khả năng di động cao.</Gun_NeedleLauncher.description>
+	<Gun_NeedleLauncher.tools.barrel.label>Ống súng</Gun_NeedleLauncher.tools.barrel.label>
+	<Gun_NeedleLauncher.verbs.Verb_Shoot.label>Máy phóng kim</Gun_NeedleLauncher.verbs.Verb_Shoot.label>
+	<Gun_ToxicNeedle.label>Súng kim độc</Gun_ToxicNeedle.label>
+	<Gun_ToxicNeedle.description>Một vũ khí được sử dụng bởi cơ giới, bắn ra các viên đạn kim chứa độc tố. Nó có tầm bắn xa, đồng thời gây sát thương vật lý cho mục tiêu và làm cho chúng bị ngộ độc.</Gun_ToxicNeedle.description>
+	<Gun_ToxicNeedle.tools.barrel.label>Ống súng</Gun_ToxicNeedle.tools.barrel.label>
+	<Gun_ToxicNeedle.verbs.Verb_Shoot.label>Súng kim độc</Gun_ToxicNeedle.verbs.Verb_Shoot.label>
+</LanguageData>

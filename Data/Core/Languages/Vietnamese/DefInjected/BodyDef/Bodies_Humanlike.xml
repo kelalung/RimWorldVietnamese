@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Human.label>Con người</Human.label>
+	<Human.corePart.parts.left_lung.customLabel>Phổi trái</Human.corePart.parts.left_lung.customLabel>
+	<Human.corePart.parts.right_lung.customLabel>Phổi phải</Human.corePart.parts.right_lung.customLabel>
+	<Human.corePart.parts.left_kidney.customLabel>Thận trái</Human.corePart.parts.left_kidney.customLabel>
+	<Human.corePart.parts.right_kidney.customLabel>Thận phải</Human.corePart.parts.right_kidney.customLabel>
+	<Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<Human.corePart.parts.left_shoulder.customLabel>Vai trái</Human.corePart.parts.left_shoulder.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>Xương đòn trái</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>Cánh tay trái</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>Xương cánh tay trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>Xương quay trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>Đôi tay trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>Ngón út trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>Ngón đeo nhẫn trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>Ngón giữa trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>Ngón trỏ trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+	<Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>Ngón cái trái</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+	<Human.corePart.parts.right_shoulder.customLabel>Vai phải</Human.corePart.parts.right_shoulder.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>Xương đòn phải</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>Cánh tay phải</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>Xương cánh tay phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Xương quay phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>Đôi tay phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>Ngón út phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>Ngón đeo nhẫn phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>Ngón giữa phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>Ngón trỏ phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+	<Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>Ngón cái phải</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+	<Human.corePart.parts.left_leg.customLabel>Chân trái</Human.corePart.parts.left_leg.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_femur.customLabel>Xương đùi trái</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_tibia.customLabel>Xương ống chân trái</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.customLabel>Bàn chân trái</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>Ngón út trái</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Ngón thứ tư trái</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>Ngón giữa trái</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Ngón thứ hai trái</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+	<Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>Ngón cái trái</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+	<Human.corePart.parts.right_leg.customLabel>Chân phải</Human.corePart.parts.right_leg.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_femur.customLabel>Xương đùi phải</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_tibia.customLabel>Xương ống chân phải</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.customLabel>Bàn chân phải</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>Ngón út phải</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Ngón thứ tư phải</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>Ngón giữa phải</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Ngón thứ hai phải</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+	<Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>Ngón cái phải</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+</LanguageData>

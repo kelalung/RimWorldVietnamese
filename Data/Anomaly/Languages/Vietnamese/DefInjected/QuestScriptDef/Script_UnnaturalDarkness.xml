@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<UnnaturalDarkness.questContentRules.rulesStrings>
+		<li>initialPhaseLetterLabel-&gt;Bầu trời u ám</li>
+		<li>initialPhaseLetterText-&gt;Bầu trời đang ngày càng tối. Chẳng bao lâu nữa, sẽ rất khó nhìn thấy bất cứ thứ gì mà không có đèn hoặc đuốc.\n\nXây dựng những khu vực có đủ ánh sáng để sinh tồn. Tạo ra ba lô chói mắt để khám phá bóng tối.</li>
+		<li>mainPhaseLetterLabel-&gt;Bóng tối bất thường</li>
+		<li>mainPhaseLetterText-&gt;Bóng tối bất thường đang tràn đến. Những sinh vật không phải người đang hoạt động ở nơi ánh sáng không chạm tới.\n\nNhững cột kim loại thô và nhờn đang rơi xuống từ trên trời. Những cột này có vẻ ghê rợn nhưng chắc chắn chứa đựng công nghệ quý giá. Hãy xây dựng những con đường có đủ ánh sáng để đến gần chúng - rồi phá hủy chúng, chấm dứt cơn ác mộng này.\n\nNgoài ra, nếu bạn có thể sống sót đủ lâu, bóng tối cũng sẽ tự tan biến.</li>
+		<li>darknessLiftedLetterLabel-&gt;Bóng tối tan biến</li>
+		<li>darknessLiftedLetterText-&gt;Bóng tối bất thường này bắt đầu tan biến. Những cột kim loại đã tự biến dạng và biến mất không rõ lúc nào. Bạn đã sống sót!</li>
+	</UnnaturalDarkness.questContentRules.rulesStrings>
+	<UnnaturalDarkness.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;</li>
+	</UnnaturalDarkness.questDescriptionRules.rulesStrings>
+	<UnnaturalDarkness.questNameRules.rulesStrings>
+		<li>questDescription-&gt;Bóng tối bất thường</li>
+	</UnnaturalDarkness.questNameRules.rulesStrings>
+</LanguageData>

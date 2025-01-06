@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Chuyên gia động vật</li>
+		<li>r_roleName-&gt;Chuyên gia động vật</li>
+		<li>firstPart-&gt;Lông</li>
+		<li>firstPart-&gt;Móng vuốt</li>
+		<li>firstPart-&gt;Móng</li>
+		<li>firstPart-&gt;Đuôi</li>
+		<li>firstPart-&gt;Râu</li>
+		<li>firstPart-&gt;Răng sắc</li>
+		<li>firstPart-&gt;Hoang dã</li>
+		<li>firstPart-&gt;Mũi dài</li>
+		<li>secondPart(p=4)-&gt;Gia đình</li>
+		<li>secondPart(p=4)-&gt;Huấn luyện viên</li>
+	</NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+	<NamerRoleBrawler.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Chiến binh điên cuồng</li>
+		<li>firstPart-&gt;Kiếm</li>
+		<li>firstPart-&gt;Đấm bốc</li>
+		<li>firstPart-&gt;Kinh nghiệm chiến đấu</li>
+		<li>firstPart-&gt;Lưỡi dao</li>
+		<li>firstPart-&gt;Đấu vật</li>
+		<li>firstPart-&gt;Kungfu</li>
+		<li>firstPart-&gt;Giáo dài</li>
+		<li>firstPart-&gt;Kiếm dài</li>
+		<li>firstPart-&gt;Gậy</li>
+		<li>firstPart-&gt;Lưỡi sắc</li>
+		<li>firstPart-&gt;Kỹ thuật kiếm</li>
+		<li>firstPart-&gt;Phá hủy</li>
+		<li>firstPart-&gt;Hủy diệt</li>
+	</NamerRoleBrawler.rulePack.rulesStrings>
+	<NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+		<li>firstPart-&gt;Y tế</li>
+		<li>firstPart-&gt;Chữa bệnh</li>
+		<li>firstPart-&gt;Tim</li>
+		<li>firstPart-&gt;Y học</li>
+		<li>firstPart-&gt;Phẫu thuật</li>
+		<li>firstPart-&gt;Chăm sóc y tế</li>
+		<li>firstPart-&gt;Ngoại khoa</li>
+		<li>firstPart-&gt;Chẩn đoán</li>
+	</NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+	<NamerRoleMiner.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Chuyên gia hang động</li>
+		<li>firstPart-&gt;Mỏ</li>
+		<li>firstPart-&gt;Sâu thẳm</li>
+		<li>firstPart-&gt;Dưới lòng đất</li>
+		<li>firstPart-&gt;Đá</li>
+		<li>firstPart-&gt;Hang động</li>
+		<li>firstPart-&gt;Thu hoạch</li>
+		<li>firstPart-&gt;Khoan</li>
+		<li>firstPart-&gt;Dưới lòng đất</li>
+		<li>firstPart-&gt;Đá quý</li>
+		<li>firstPart-&gt;Đồi</li>
+		<li>firstPart-&gt;Hang động</li>
+		<li>firstPart-&gt;Đường hầm</li>
+		<li>firstPart-&gt;Khe nứt</li>
+	</NamerRoleMiner.rulePack.rulesStrings>
+	<NamerRoleMoralist.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeMoralist]</li>
+		<li>r_roleName(p=2)-&gt;[memeAdjective][memeMoralist]</li>
+		<li>r_roleName-&gt;[chosenTheme][memeMoralist]</li>
+		<li>r_roleName-&gt;[keyDeity][memeMoralist]</li>
+		<li>r_roleName-&gt;[memeConcept] [memeMoralist]</li>
+		<li>r_roleName-&gt;[chosenIdeoName][memeMoralist]</li>
+		<li>r_roleName-&gt;[chosenAdjective][memeMoralist]</li>
+		<li>r_roleName-&gt;[keyDeity][memeMoralist]</li>
+	</NamerRoleMoralist.rulePack.rulesStrings>
+	<NamerRoleProductionSpecialist.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Chuyên gia sản xuất</li>
+    <li>r_roleName-&gt;Thợ thủ công</li>
+    <li>r_roleName-&gt;Thợ kỹ thuật</li>
+    <li>firstPart-&gt;Chế tạo</li>
+    <li>firstPart-&gt;Thủ công</li>
+    <li>firstPart-&gt;Xây dựng</li>
+    <li>firstPart-&gt;Thủ công</li>
+    <li>firstPart-&gt;Sản xuất</li>
+	</NamerRoleProductionSpecialist.rulePack.rulesStrings>
+	<NamerRoleResearcher.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Người cố vấn</li>
+    <li>r_roleName-&gt;Người suy nghĩ</li>
+    <li>r_roleName-&gt;Nhà nghiên cứu</li>
+    <li>r_roleName-&gt;Người học hỏi</li>
+    <li>firstPart-&gt;Trí tuệ</li>
+    <li>firstPart-&gt;Suy nghĩ</li>
+    <li>firstPart-&gt;Nghiên cứu</li>
+    <li>firstPart-&gt;Thần kinh</li>
+    <li>firstPart-&gt;Tư tưởng</li>
+    <li>firstPart-&gt;Phát minh</li>
+	</NamerRoleResearcher.rulePack.rulesStrings>
+	<NamerRoleShooter.rulePack.rulesStrings>
+		<li>firstPart-&gt;Súng</li>
+    <li>firstPart-&gt;Bắn</li>
+    <li>firstPart-&gt;Bắn</li>
+    <li>firstPart-&gt;Đạn dược</li>
+    <li>firstPart-&gt;Đạn dược</li>
+    <li>firstPart-&gt;Hỏa lực</li>
+    <li>firstPart-&gt;Săn bắn</li>
+    <li>firstPart-&gt;Săn bắn</li>
+    <li>firstPart-&gt;Bắn</li>
+    <li>secondPart(p=4)-&gt;Người bảo vệ</li>
+	</NamerRoleShooter.rulePack.rulesStrings>
+	<NamerRoleSower.rulePack.rulesStrings>
+		<li>r_roleName-&gt;Chuyên gia trồng trọt</li>
+    <li>firstPart-&gt;Lá cây</li>
+    <li>firstPart-&gt;Thực vật</li>
+    <li>firstPart-&gt;Xanh tươi</li>
+    <li>firstPart-&gt;Mầm</li>
+    <li>firstPart-&gt;Vườn</li>
+    <li>firstPart-&gt;Thực vật</li>
+    <li>firstPart-&gt;Thảo dược</li>
+    <li>firstPart-&gt;Cây trồng</li>
+    <li>firstPart-&gt;Nông trại</li>
+    <li>firstPart-&gt;Đất</li>
+    <li>firstPart-&gt;Đất</li>
+    <li>firstPart-&gt;Hạt giống</li>
+    <li>firstPart-&gt;Đất đai</li>
+    <li>firstPart-&gt;Rễ và thân</li>
+	</NamerRoleSower.rulePack.rulesStrings>
+	<NamerRoleSpecialistUtility.rulePack.rulesStrings>
+		<li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+<li>secondPart-&gt;Bậc thầy</li>
+    <li>secondPart-&gt;Bậc thầy</li>
+    <li>secondPart-&gt;Ánh sáng</li>
+    <li>secondPart-&gt;Bậc thầy</li>
+    <li>secondPart-&gt;Bậc thầy</li>
+    <li>secondPart-&gt;Mắt</li>
+    <li>secondPart-&gt;Bàn tay</li>
+    <li>secondPart-&gt;Người khéo tay</li>
+    <li>secondPart-&gt;Bậc thầy</li>
+    <li>secondPart-&gt;Người khéo tay</li>
+    <li>secondPart-&gt;Người khéo tay</li>
+    <li>secondPart-&gt;Người nói</li>
+    <li>secondPart-&gt;Người nói</li>
+    <li>secondPart-&gt;Người biết</li>
+    <li>secondPart-&gt;Người yêu thích</li>
+    <li>secondPart-&gt;Người khéo tay</li>
+    <li>secondPart-&gt;Người khéo tay</li>
+	<li>secondPart-&gt;Người trong nghề</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+    <li>secondPart-&gt;Chuyên gia</li>
+	</NamerRoleSpecialistUtility.rulePack.rulesStrings>
+</LanguageData>

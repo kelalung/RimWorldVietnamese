@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Defoliator.label>Thiết bị loại bỏ lá</Defoliator.label>
+<Defoliator.description>Một thiết bị phong tỏa khu vực có khả năng tiêu diệt thực vật xung quanh mà không ảnh hưởng đến động vật. \n\nTrong các cuộc chiến tranh giữa các vì sao, nó được sử dụng để loại bỏ nguồn cung cấp thực phẩm và nơi trú ẩn của kẻ thù mà không làm hỏng lãnh thổ. Chúng thường liên quan đến các thiết bị cơ khí được thả từ quỹ đạo.</Defoliator.description>
+<Gloomlight.label>Node cơ khí</Gloomlight.label>
+<Gloomlight.description>Node cơ khí tự cấp điện với chức năng chưa xác định. Node cơ khí có thể bị tháo rời để thu hồi tài nguyên quý giá, hoặc được sử dụng để chiếu sáng - miễn là nó được thu giữ nguyên vẹn. Nếu node bị hư hại nghiêm trọng, pin vi công suất bên trong sẽ quá tải và bị thiêu rụi.</Gloomlight.description>
+<UnstablePowerCell.label>Pin năng lượng không ổn định</UnstablePowerCell.label>
+<UnstablePowerCell.description>Một mô-đun năng lượng cơ khí. Lõi năng lượng hư vô bên trong sẽ hoạt động mãi mãi và khai thác năng lượng từ sự dao động của bọt lượng tử.\n\nHệ thống khuếch đại lắp bên trong khiến thiết bị này trở nên khá không ổn định, có khả năng gây ra vụ nổ lớn khi bị hư hại.\n\nMột số người dũng cảm đã đánh cắp thiết bị này từ các cơ khí để sử dụng như máy phát điện hoặc bom phòng thủ. Để tránh tai nạn, hãy đảm bảo lưu trữ chúng an toàn.</UnstablePowerCell.description>
+</LanguageData>

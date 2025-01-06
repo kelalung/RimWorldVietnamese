@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MechCluster.label>Cụm máy móc</MechCluster.label>
+<MechCluster.letterLabel>Cụm máy móc</MechCluster.letterLabel>
+<MechCluster.letterText>Một cụm chiến đấu máy móc đang hạ cánh gần đó, và chúng sẽ ngủ một thời gian sau khi hạ cánh, bạn có thể tận dụng thời gian này để quyết định cách đối phó với chúng.\n\nChúng có thể giữ nguyên trạng thái ngủ cho đến khi bị tấn công, nhưng chúng cũng có thể tự thức dậy hoặc tỉnh dậy khi có sinh vật khác tiếp cận.\n\nCác máy móc đang ngủ có thể thỉnh thoảng gây ra các cuộc tấn công từ máy móc, hoặc gây ra những rắc rối khác mà bạn cần giải quyết.</MechCluster.letterText>
+<WandererJoinAbasia.label>Người lang thang gia nhập</WandererJoinAbasia.label>
+<WandererJoinAbasia.letterLabel>Module vận chuyển rơi: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
+<WandererJoinAbasia.letterText>Một module vận chuyển chở {PAWN_nameDef}, {PAWN_title} đã rơi gần đó.\n\n{PAWN_nameDef} đã mất khả năng di chuyển do {HEDIFF_label}.\n\n{PAWN_pronoun} có thể tự phục hồi sau vài ngày. Đồng thời có một xác suất nhỏ để phục hồi sớm hơn. Cũng có thể chữa khỏi {HEDIFF_label} thông qua một ca phẫu thuật tiêu tốn nhiều thuốc từ thế giới chói lọi.\n\n[PAWN_pronoun] sẵn sàng cống hiến sau khi [PAWN_pronoun] phục hồi, nhưng sẽ không tự nguyện rời đi. Nếu bạn không muốn chấp nhận {PAWN_nameDef}, bạn có thể lưu đày {PAWN_objective}, bán {PAWN_objective} làm nô lệ, hoặc để {PAWN_objective} tự sinh tự diệt. Tuy nhiên, những người khác trong thuộc địa của bạn có thể sẽ không hài lòng với điều này.</WandererJoinAbasia.letterText>
+</LanguageData>

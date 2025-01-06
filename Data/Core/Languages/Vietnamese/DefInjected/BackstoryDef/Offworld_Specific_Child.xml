@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ApocalypseSurvivor23.description>[PAWN_nameDef] sinh ra trong thời kỳ hỗn loạn trên hành tinh mẹ, khi biến đổi khí hậu gây ra nạn đói và lũ lụt trên diện rộng. Khi [PAWN_pronoun] lớn lên, tình hình ngày càng xấu đi, hàng tỷ người chết, các quốc gia vốn hòa bình rơi vào tình trạng vô chính phủ. [PAWN_nameDef] và cha mẹ của [PAWN_possessive] phải làm mọi cách để sinh tồn.</ApocalypseSurvivor23.description>
+	<ApocalypseSurvivor23.baseDesc>[PAWN_nameDef] sinh ra trong thời kỳ hỗn loạn trên hành tinh mẹ, khi biến đổi khí hậu gây ra nạn đói và lũ lụt trên diện rộng. Khi [PAWN_pronoun] lớn lên, tình hình ngày càng xấu đi, hàng tỷ người chết, các quốc gia vốn hòa bình rơi vào tình trạng vô chính phủ. [PAWN_nameDef] và cha mẹ của [PAWN_possessive] phải làm mọi cách để sinh tồn.</ApocalypseSurvivor23.baseDesc>
+	<ApocalypseSurvivor23.title>Người sống sót sau thảm họa khí hậu</ApocalypseSurvivor23.title>
+	<ApocalypseSurvivor23.titleShort>Người sống sót</ApocalypseSurvivor23.titleShort>
+	<CaveworldTender26.description>[PAWN_nameDef] lớn lên trong một mạng lưới hang động lớn và phức tạp dưới bề mặt của một thế giới hoang tàn. [PAWN_pronoun] cùng với những đứa trẻ khác có trách nhiệm chăm sóc các cây nấm trong bộ lạc.</CaveworldTender26.description>
+	<CaveworldTender26.baseDesc>[PAWN_nameDef] lớn lên trong một mạng lưới hang động lớn và phức tạp dưới bề mặt của một thế giới hoang tàn. [PAWN_pronoun] cùng với những đứa trẻ khác có trách nhiệm chăm sóc các cây nấm trong bộ lạc.</CaveworldTender26.baseDesc>
+	<CaveworldTender26.title>Người chăm sóc trong thế giới hang động</CaveworldTender26.title>
+	<CaveworldTender26.titleShort>Trẻ em trong hang động</CaveworldTender26.titleShort>
+	<CaveworldTunneler48.description>[PAWN_nameDef] là một thợ đào trong một mạng lưới hang động lớn và phức tạp.\n\n[PAWN_pronoun] hiểu rõ về đá, thậm chí có thể di chuyển trong hang chỉ bằng khứu giác.</CaveworldTunneler48.description>
+	<CaveworldTunneler48.baseDesc>[PAWN_nameDef] là một thợ đào trong một mạng lưới hang động lớn và phức tạp.\n\n[PAWN_pronoun] hiểu rõ về đá, thậm chí có thể di chuyển trong hang chỉ bằng khứu giác.</CaveworldTunneler48.baseDesc>
+	<CaveworldTunneler48.title>Thợ đào trong thế giới hang động</CaveworldTunneler48.title>
+	<CaveworldTunneler48.titleShort>Thợ đào</CaveworldTunneler48.titleShort>
+	<IndustrialOrphan13.description>[PAWN_nameDef] không bao giờ biết cha mẹ của mình là ai. Ký ức đầu tiên của [PAWN_pronoun] là ở trại cứu trợ lao động và những công việc khổ sai trong mỏ trên thế giới công nghiệp mà [PAWN_pronoun] sống.\n\nDo đó, [PAWN_pronoun] chưa bao giờ nhận được bất kỳ giáo dục chính thức nào.</IndustrialOrphan13.description>
+	<IndustrialOrphan13.baseDesc>[PAWN_nameDef] không bao giờ biết cha mẹ của mình là ai. Ký ức đầu tiên của [PAWN_pronoun] là ở trại cứu trợ lao động và những công việc khổ sai trong mỏ trên thế giới công nghiệp mà [PAWN_pronoun] sống.\n\nDo đó, [PAWN_pronoun] chưa bao giờ nhận được bất kỳ giáo dục chính thức nào.</IndustrialOrphan13.baseDesc>
+	<IndustrialOrphan13.title>Trẻ mồ côi trong thế giới công nghiệp</IndustrialOrphan13.title>
+	<IndustrialOrphan13.titleShort>Trẻ mồ côi</IndustrialOrphan13.titleShort>
+	<Scout44.description>[PAWN_nameDef] sinh ra trong một gia đình quản lý thuộc địa ở thế giới biên giới, và đã tham gia một chương trình thanh thiếu niên dạy kỹ năng do thám quân sự.\n\n[PAWN_pronoun] đã học cách sống sót trong hoang dã, tuân theo mệnh lệnh và không hỏi những điều không nên hỏi.</Scout44.description>
+	<Scout44.baseDesc>[PAWN_nameDef] sinh ra trong một gia đình quản lý thuộc địa ở thế giới biên giới, và đã tham gia một chương trình thanh thiếu niên dạy kỹ năng do thám quân sự.\n\n[PAWN_pronoun] đã học cách sống sót trong hoang dã, tuân theo mệnh lệnh và không hỏi những điều không nên hỏi.</Scout44.baseDesc>
+	<Scout44.title>Đặc vụ thuộc địa</Scout44.title>
+	<Scout44.titleShort>Đặc vụ</Scout44.titleShort>
+	<ShelterChild50.description>[PAWN_nameDef] lớn lên trong một nơi trú ẩn sâu dưới lòng đất của một thế giới độc hại. [PAWN_pronoun] đã nhận được một nền giáo dục rất toàn diện, nhưng không bao giờ có cơ hội làm việc thể chất.</ShelterChild50.description>
+	<ShelterChild50.baseDesc>[PAWN_nameDef] lớn lên trong một nơi trú ẩn sâu dưới lòng đất của một thế giới độc hại. [PAWN_pronoun] đã nhận được một nền giáo dục rất toàn diện, nhưng không bao giờ có cơ hội làm việc thể chất.</ShelterChild50.baseDesc>
+	<ShelterChild50.title>Trẻ em trong nơi trú ẩn</ShelterChild50.title>
+	<ShelterChild50.titleShort>Trẻ em trong nơi trú ẩn</ShelterChild50.titleShort>
+	<TestSubject15.description>Trong thế giới đô thị suy đồi nhất, các nhà khoa học không có bất kỳ đạo đức nào đã phạm phải nhiều tội ác không thể mô tả dưới danh nghĩa nghiên cứu khoa học. [PAWN_nameDef] từ khi sinh ra đã bị giam giữ một mình trong một cơ sở thí nghiệm kín và bị thực hiện nhiều thí nghiệm hành vi. Các nhân viên thí nghiệm cố gắng biến [PAWN_objective] thành một siêu chiến binh hoàn hảo.</TestSubject15.description>
+	<TestSubject15.baseDesc>Trong thế giới đô thị suy đồi nhất, các nhà khoa học không có bất kỳ đạo đức nào đã phạm phải nhiều tội ác không thể mô tả dưới danh nghĩa nghiên cứu khoa học. [PAWN_nameDef] từ khi sinh ra đã bị giam giữ một mình trong một cơ sở thí nghiệm kín và bị thực hiện nhiều thí nghiệm hành vi. Các nhân viên thí nghiệm cố gắng biến [PAWN_objective] thành một siêu chiến binh hoàn hảo.</TestSubject15.baseDesc>
+	<TestSubject15.title>Đối tượng thí nghiệm</TestSubject15.title>
+	<TestSubject15.titleShort>Sản phẩm thí nghiệm</TestSubject15.titleShort>
+	<UrbworldUrchin61.description>Thế giới đô thị — nơi nhân tính và sự suy thoái tạo nên cảnh quan công nghiệp cổ xưa và sâu thẳm. [PAWN_nameDef] lớn lên trong một nơi tối tăm, không được chào đón như vậy. [PAWN_pronoun] phải chiến đấu vì từng mẩu thức ăn.</UrbworldUrchin61.description>
+	<UrbworldUrchin61.baseDesc>Thế giới đô thị — nơi nhân tính và sự suy thoái tạo nên cảnh quan công nghiệp cổ xưa và sâu thẳm. [PAWN_nameDef] lớn lên trong một nơi tối tăm, không được chào đón như vậy. [PAWN_pronoun] phải chiến đấu vì từng mẩu thức ăn.</UrbworldUrchin61.baseDesc>
+	<UrbworldUrchin61.title>Trẻ lang thang trong thế giới đô thị</UrbworldUrchin61.title>
+	<UrbworldUrchin61.titleShort>Trẻ lang thang</UrbworldUrchin61.titleShort>
+	<WreckageExplorer93.description>Nhiệm vụ của [PAWN_nameDef] là chăm sóc đàn gia súc trong nhà, nhưng [PAWN_pronoun] thường bỏ mặc công việc của mình để khám phá những đống đổ nát của các tàu chiến bị rơi rải rác trên hành tinh.</WreckageExplorer93.description>
+	<WreckageExplorer93.baseDesc>Nhiệm vụ của [PAWN_nameDef] là chăm sóc đàn gia súc trong nhà, nhưng [PAWN_pronoun] thường bỏ mặc công việc của mình để khám phá những đống đổ nát của các tàu chiến bị rơi rải rác trên hành tinh.</WreckageExplorer93.baseDesc>
+	<WreckageExplorer93.title>Nhà thám hiểm đống đổ nát</WreckageExplorer93.title>
+	<WreckageExplorer93.titleShort>Nhà thám hiểm</WreckageExplorer93.titleShort>
+</LanguageData>

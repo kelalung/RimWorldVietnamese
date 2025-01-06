@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Deities>Thần thánh</Deities>
+<ButtonShowAllIdeoligions>Hiển thị tất cả các văn hóa</ButtonShowAllIdeoligions>
+<IdeoligionOf>Hình thức văn hóa</IdeoligionOf>
+<Memes>Meme</Memes>
+<CoreNarrative>Câu chuyện cốt lõi</CoreNarrative>
+<CoreNarrativeDesc>Câu chuyện cốt lõi của hình thức văn hóa của bạn. Điều này không ảnh hưởng đến lối chơi.</CoreNarrativeDesc>
+<EditNarrative>Sửa đổi câu chuyện</EditNarrative>
+<LockButtonDesc>Khóa hoặc mở khóa câu chuyện văn hóa hiện tại. Khi khóa, nếu văn hóa thay đổi, văn bản câu chuyện sẽ không tự động tái sinh.</LockButtonDesc>
+<LockInOn>{0} khóa hiện đang mở. {1} sẽ không tự động tái sinh.</LockInOn>
+<LockInOff>{0} khóa hiện đã tắt. {1} văn bản có thể tự động tái sinh.</LockInOff>
+<LockPreceptNameButtonDesc>Khóa hoặc mở khóa tên của quy tắc này. Khi khóa, tên quy tắc sẽ không được tái sinh khi hình thức văn hóa thay đổi.</LockPreceptNameButtonDesc>
+<Precepts>Quy tắc</Precepts>
+<Rituals>Nghi lễ</Rituals>
+<IdeoRoles>Vị trí</IdeoRoles>
+<IdeoBuildings>Công trình</IdeoBuildings>
+<IdeoRelics>Thánh vật</IdeoRelics>
+<IdeoApparel>Trang phục ưa thích</IdeoApparel>
+<IdeoApparelDesire>Ưu tiên trang phục</IdeoApparelDesire>
+<UnwillingToDoIdeoAction>Không muốn làm</UnwillingToDoIdeoAction>
+<PreceptStats>Thông số</PreceptStats>
+<Prohibitions>Cấm</Prohibitions>
+<Opinions>Ý kiến</Opinions>
+<MentalBreaks>Khủng hoảng tinh thần</MentalBreaks>
+<RandomizeName>Tên ngẫu nhiên</RandomizeName>
+<RandomizePrecepts>Quy tắc ngẫu nhiên</RandomizePrecepts>
+<RandomizeDeities>Thần thánh ngẫu nhiên</RandomizeDeities>
+<AddDeity>Thêm thần thánh</AddDeity>
+<ChooseMemes>Chọn meme</ChooseMemes>
+<ChooseStartingMeme>Chọn meme khởi đầu</ChooseStartingMeme>
+<ChooseStructure>Chọn cấu trúc</ChooseStructure>
+<ChooseCulture>Chọn truyền thống</ChooseCulture>
+<Culture>Truyền thống</Culture>
+<CultureTip>Truyền thống sẽ ảnh hưởng đến tên, diện mạo và biểu tượng.</CultureTip>
+<StructureMeme>Cấu trúc</StructureMeme>
+<StructureMemeTip>Cấu trúc của một hình thức văn hóa xác định loại thực thể và sức mạnh mà nó coi trọng trong cấu trúc đạo đức vũ trụ. Nó không có ảnh hưởng trực tiếp đến lối chơi.</StructureMemeTip>
+<Adjective>Tính từ</Adjective>
+<WorshipRoom>Phòng thờ</WorshipRoom>
+<IdeoMembers>Tên thành viên</IdeoMembers>
+<IdeoMembersPlural>Nhóm thành viên</IdeoMembersPlural>
+<EditSymbols>Sửa đổi biểu tượng</EditSymbols>
+<EditDeity>Sửa đổi thần thánh</EditDeity>
+<EditApparelRequirement>Sửa đổi yêu cầu trang phục</EditApparelRequirement>
+<EditName>Sửa đổi tên</EditName>
+<StartingCondition_Anytime>Bất cứ lúc nào</StartingCondition_Anytime>
+<StartingCondition_Date>Ngày</StartingCondition_Date>
+<StartingCondition>Điều kiện khởi đầu</StartingCondition>
+<Edit>Sửa đổi</Edit>
+<RandomizeSymbols>Ngẫu nhiên hóa biểu tượng</RandomizeSymbols>
+<RandomizeSymbolsTooltip>Ngẫu nhiên hóa tên hình thức văn hóa, biểu tượng, câu chuyện, danh hiệu lãnh đạo và bất kỳ văn bản nào khác, chẳng hạn như tên nghi lễ hoặc tên vị trí. Điều này sẽ không ảnh hưởng đến các yếu tố trò chơi như meme hoặc quy tắc.</RandomizeSymbolsTooltip>
+<ClickAnyElementToEditIt>Nhấp vào bất kỳ phần tử nào để sửa đổi</ClickAnyElementToEditIt>
+<LeaderTitle>Danh hiệu lãnh đạo</LeaderTitle>
+<DeityName>Tên thần thánh</DeityName>
+<DeityTitle>Danh hiệu thần thánh</DeityTitle>
+<DeityGender>Giới tính thần thánh</DeityGender>
+<Name>Tên</Name>
+<Icon>Biểu tượng</Icon>
+<RelatedToMeme>Meme liên quan</RelatedToMeme>
+<IdeoCharityQuestInfo>Đây là một sự kiện từ thiện. Nếu bạn không thực hiện nó, những tín đồ của {0} sẽ không vui vì niềm tin từ thiện của họ. Nếu bạn làm như vậy, những tín đồ của {0} sẽ rất vui ({1}).</IdeoCharityQuestInfo>
+<WorkDisabledSlave>Nô lệ sẽ không làm công việc này</WorkDisabledSlave>
+<WorkDisabledHealth>Bị vô hiệu hóa do tình trạng sức khỏe</WorkDisabledHealth>
+<WorkDisabledRole>Bị vô hiệu hóa do vị trí {0}</WorkDisabledRole>
+<AffectedByTraits>Đặc điểm ngoại lệ</AffectedByTraits>
+<CharityQuestTip>Đây là một sự kiện từ thiện. Những người có niềm tin từ thiện sẽ bị ảnh hưởng bởi kết quả của nó.</CharityQuestTip>
+<Formerly>Trước đây</Formerly>
+<All>Tất cả</All>
+<RelicTip>Thánh vật là những đồ vật có ý nghĩa tinh thần hoặc văn hóa. Chúng có thể được phát hiện thông qua việc hoàn thành các nhiệm vụ dài và nguy hiểm. Một thánh vật có thể được lắp đặt trong gian thờ thánh vật để thu hút những người hành hương, tăng cường hiệu ứng nghi lễ và cải thiện khả năng giáo hóa người ngoài của tín đồ văn hóa.</RelicTip>
+<RelicTipClassic>Thánh vật là những đồ vật có ý nghĩa tinh thần hoặc văn hóa. Chúng có thể được phát hiện thông qua việc hoàn thành các nhiệm vụ dài và nguy hiểm. Một thánh vật có thể được lắp đặt trong gian thờ thánh vật để thu hút những người hành hương và tăng cường hiệu ứng nghi lễ.</RelicTipClassic>
+<Animal>Động vật</Animal>
+<VeneratedAnimals>Thần thú</VeneratedAnimals>
+<IdeoWeapon>Thánh khí</IdeoWeapon>
+<IdeoWeapons>Vũ khí</IdeoWeapons>
+<SwapNobleAndDespised>Hoán đổi sự tôn kính và khinh thường</SwapNobleAndDespised>
+<Noble>Tôn kính</Noble>
+<Despised>Khinh thường</Despised>
+<UnlockedRecipes>Công thức đã mở khóa</UnlockedRecipes>
+<IdeoStartWithResearch>Bắt đầu với nghiên cứu</IdeoStartWithResearch>
+<AgreeableTraits>Đặc điểm đồng thuận</AgreeableTraits>
+<DisagreeableTraits>Đặc điểm xung đột</DisagreeableTraits>
+<Shooting>Bắn</Shooting>
+<IdeoImpact>Ảnh hưởng</IdeoImpact>
+<IdeoImpactOverall>Ảnh hưởng tổng thể</IdeoImpactOverall>
+<IdeoImpactOverallDesc>Một số meme có ảnh hưởng đến lối chơi hơn những meme khác. Điểm ảnh hưởng của meme có thể cho biết mức độ ảnh hưởng của nó đến lối chơi.</IdeoImpactOverallDesc>
+<IdeoMemeImpactLabel_1>Thấp</IdeoMemeImpactLabel_1>
+<IdeoMemeImpactLabel_2>Trung bình</IdeoMemeImpactLabel_2>
+<IdeoMemeImpactLabel_3>Cao</IdeoMemeImpactLabel_3>
+<IdeoImpactLabel_1>Cực thấp</IdeoImpactLabel_1>
+<IdeoImpactLabel_2>Thấp</IdeoImpactLabel_2>
+<IdeoImpactLabel_3>Nhẹ nhàng</IdeoImpactLabel_3>
+<IdeoImpactLabel_4>Yên bình</IdeoImpactLabel_4>
+<IdeoImpactLabel_5>Mạnh mẽ</IdeoImpactLabel_5>
+<IdeoImpactLabel_6>Cực mạnh</IdeoImpactLabel_6>
+<IdeoImpactLabel_7>Rất mạnh mẽ</IdeoImpactLabel_7>
+<IdeoImpactLabel_8>Rất mạnh</IdeoImpactLabel_8>
+<IdeoImpactLabel_9>Cực kỳ mạnh mẽ</IdeoImpactLabel_9>
+<InitialPlayerIdeo>Đây là hình thức văn hóa khởi đầu của thuộc địa của bạn.</InitialPlayerIdeo>
+<FluidIdeoTip>Hình thức văn hóa tiến hóa này dường như mới xuất hiện trên hành tinh này, với rất ít tín đồ. Nó có thể phát triển theo thời gian.\n\nCải cách hình thức văn hóa cần tiêu tốn điểm phát triển, bạn có thể kiếm điểm phát triển bằng cách hoàn thành các nghi lễ hoặc nhiệm vụ liên quan đến văn hóa này.\n\nVới đủ điểm, bạn có thể cải cách hình thức văn hóa với các meme, quy tắc, phong cách hoặc nội dung khác mới.</FluidIdeoTip>
+<FluidIdeoTipGetPoints>Cách kiếm điểm phát triển</FluidIdeoTipGetPoints>
+<FluidIdeoTipGetPoinsByConversion>Giáo hóa người khác theo hình thức văn hóa của bạn</FluidIdeoTipGetPoinsByConversion>
+<ResearchProjectHasDefsWithMissingMemes>Vì không có ai công nhận các meme tương ứng, {0} đã mở khóa những thứ bạn không thể xây dựng</ResearchProjectHasDefsWithMissingMemes>
+<SelectedWorkTypeOpposedByIdeo>Cảnh báo: Công việc này bị hình thức văn hóa {0_possessive} phản đối, do đó có thể khiến người này không vui.</SelectedWorkTypeOpposedByIdeo>
+  <DevelopmentPoints>Điểm phát triển</DevelopmentPoints>
+</LanguageData>

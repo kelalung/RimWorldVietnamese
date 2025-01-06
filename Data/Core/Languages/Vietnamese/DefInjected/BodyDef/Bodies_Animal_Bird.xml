@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bird.label>Chim</Bird.label>
+	<Bird.corePart.parts.left_lung.customLabel>Phổi trái</Bird.corePart.parts.left_lung.customLabel>
+	<Bird.corePart.parts.right_lung.customLabel>Phổi phải</Bird.corePart.parts.right_lung.customLabel>
+	<Bird.corePart.parts.left_kidney.customLabel>Thận trái</Bird.corePart.parts.left_kidney.customLabel>
+	<Bird.corePart.parts.right_kidney.customLabel>Thận phải</Bird.corePart.parts.right_kidney.customLabel>
+	<Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<Bird.corePart.parts.left_leg.customLabel>Chân trái</Bird.corePart.parts.left_leg.customLabel>
+	<Bird.corePart.parts.left_leg.parts.left_foot.customLabel>Chân trái</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+	<Bird.corePart.parts.right_leg.customLabel>Chân phải</Bird.corePart.parts.right_leg.customLabel>
+	<Bird.corePart.parts.right_leg.parts.right_foot.customLabel>Chân phải</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

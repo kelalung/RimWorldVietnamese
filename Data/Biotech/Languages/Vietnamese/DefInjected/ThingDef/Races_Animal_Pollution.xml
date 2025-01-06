@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Toxalope.label>Cừu nổ độc</Toxalope.label>
+<Toxalope.description>Một loài có khả năng thích ứng với ô nhiễm, có quan hệ gần gũi với cừu nổ. Khi chết, túi độc trên lưng nó sẽ nổ tung, giải phóng một đám khí độc chết người. Cừu nổ độc không thể sản xuất nhiên liệu hóa học như cừu nổ.</Toxalope.description>
+<Toxalope.tools.head.label>Đầu</Toxalope.tools.head.label>
+<Toxalope.tools.left_hoof.label>Chân trái</Toxalope.tools.left_hoof.label>
+<Toxalope.tools.left_hoof.labelNoLocation>Chân</Toxalope.tools.left_hoof.labelNoLocation>
+<Toxalope.tools.right_hoof.label>Chân phải</Toxalope.tools.right_hoof.label>
+<Toxalope.tools.right_hoof.labelNoLocation>Chân</Toxalope.tools.right_hoof.labelNoLocation>
+<WasteRat.label>Chuột ô nhiễm</WasteRat.label>
+<WasteRat.description>Một loài chuột biến thể có khả năng thích ứng với độc tố. So với chuột thông thường, chuột ô nhiễm không chỉ tiến hóa để chống lại ô nhiễm, mà còn có kích thước lớn hơn và tính cách hiếu chiến hơn. Đòn cắn của nó cũng có thể gây ngộ độc.</WasteRat.description>
+<WasteRat.tools.left_claw.label>Chân trái</WasteRat.tools.left_claw.label>
+<WasteRat.tools.right_claw.label>Chân phải</WasteRat.tools.right_claw.label>
+<WasteRat.tools.head.label>Đầu</WasteRat.tools.head.label>
+</LanguageData>

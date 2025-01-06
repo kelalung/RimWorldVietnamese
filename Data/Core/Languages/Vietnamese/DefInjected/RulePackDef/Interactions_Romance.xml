@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã chấp nhận lời cầu hôn.</li>
+	</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã từ chối lời cầu hôn.</li>
+	</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+		<li>sent->Mối quan hệ giữa hai người không thể duy trì, tình cảm đã tan vỡ.</li>
+	</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã chấp nhận lời tỏ tình và trở thành người yêu của [INITIATOR_nameDef].</li>
+		<li>sent->[RECIPIENT_nameDef] đã đưa ra câu trả lời tích cực và trở thành người yêu của [INITIATOR_nameDef].</li>
+		<li>sent->[RECIPIENT_nameDef] đã bị chinh phục và đồng ý trở thành người yêu của [INITIATOR_nameDef].</li>
+	</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[RECIPIENT_nameDef] đã từ chối lời tỏ tình.</li>
+		<li>sent->[RECIPIENT_nameDef] đã phớt lờ lời tỏ tình.</li>
+		<li>sent->[RECIPIENT_nameDef] đã từ chối một cách lịch sự.</li>
+		<li>sent->[RECIPIENT_nameDef] đã quay lưng đi.</li>
+		<li>sent->[RECIPIENT_nameDef] đã đưa ra phản hồi tiêu cực.</li>
+		<li>sent->[RECIPIENT_nameDef] không nói một lời.</li>
+		<li>sent->[RECIPIENT_nameDef] đã từ chối [INITIATOR_objective].</li>
+	</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

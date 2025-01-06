@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GotLovin.label>Đã ân ái</GotLovin.label>
+	<GotLovin_NonSpouse.label>Đã ngoại tình</GotLovin_NonSpouse.label>
+	<GotLovin_Spouse.label>Đã ân ái với vợ/chồng</GotLovin_Spouse.label>
+	<InitiatedLovin.label>Đã cố gắng ân ái</InitiatedLovin.label>
+	<SharedBed.label>Đã ngủ chung</SharedBed.label>
+	<SharedBed_NonSpouse.label>Đã ngủ chung với tình nhân</SharedBed_NonSpouse.label>
+	<SharedBed_Spouse.label>Đã ngủ chung với vợ/chồng</SharedBed_Spouse.label>
+</LanguageData>

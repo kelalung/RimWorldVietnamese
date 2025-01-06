@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Arm.label>Cánh tay</Arm.label>
+	<Clavicle.label>Xương đòn</Clavicle.label>
+	<Femur.label>Xương đùi</Femur.label>
+	<Finger.label>Ngón tay</Finger.label>
+	<Hand.label>Đôi tay</Hand.label>
+	<Humerus.label>Xương cánh tay</Humerus.label>
+	<Pelvis.label>Xương chậu</Pelvis.label>
+	<Radius.label>Xương quay</Radius.label>
+	<Shoulder.label>Vai</Shoulder.label>
+	<Sternum.label>Xương ức</Sternum.label>
+	<Tibia.label>Xương ống chân</Tibia.label>
+	<Toe.label>Ngón chân</Toe.label>
+	<Torso.label>Thân</Torso.label>
+	<Waist.label>Eo</Waist.label>
+</LanguageData>

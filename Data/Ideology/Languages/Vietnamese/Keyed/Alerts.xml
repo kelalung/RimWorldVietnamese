@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedSlaveBeds>Cần giường cho nô lệ</NeedSlaveBeds>
+<NeedSlaveBedsDesc>Số lượng nô lệ bạn có nhiều hơn số giường bạn chuẩn bị cho chúng, sẽ có nô lệ không thể ngủ.\nXây dựng thêm giường hoặc chuyển đổi giường của người thuộc địa hoặc tù nhân thành giường cho nô lệ.\n\nNếu bạn không có tài nguyên, việc thiết lập điểm ngủ là một lựa chọn tuyệt vời.</NeedSlaveBedsDesc>
+<SlavesUnsuppressedLabel>Nô lệ chưa bị đàn áp</SlavesUnsuppressedLabel>
+<SlavesUnsuppressedDesc>Giá trị đàn áp của {0_nameDef} đã giảm xuống mức nguy hiểm, {0_pronoun} rất có khả năng nổi loạn vào lúc này.\n\nĐảm bảo bạn có một người thuộc địa được phân công công việc giám sát, cai ngục sẽ đàn áp nô lệ theo từng giai đoạn để ngăn chặn sự nổi loạn.</SlavesUnsuppressedDesc>
+<SlaveUnattendedLabel>Nô lệ không được giám sát</SlaveUnattendedLabel>
+<SlaveUnattendedMultipleLabel>Nhiều nô lệ không được giám sát</SlaveUnattendedMultipleLabel>
+<SlavesUnattendedDesc>Có một số nô lệ trên bản đồ không có người thuộc địa nào có thể giám sát, những nô lệ như vậy có khả năng nổi loạn trong vài giờ đến vài ngày tới.</SlavesUnattendedDesc>
+<RitualOpportunity>{0}</RitualOpportunity>
+<RitualOpportunityFor>{1} của {0}</RitualOpportunityFor>
+<RitualExpiresIn>Hết hạn vào {0}, {1}</RitualExpiresIn>
+<RitualSingleTargetDesc>Để bắt đầu nghi lễ, hãy chọn một {FOCUS} rồi nhấp vào lệnh 'Bắt đầu {RITUAL_label}'.</RitualSingleTargetDesc>
+<RitualMultiTargetDesc>Để bắt đầu nghi lễ, hãy chọn một trong những đối tượng sau rồi nhấp vào lệnh 'Bắt đầu {RITUAL_label}'.</RitualMultiTargetDesc>
+<RitualTargetsExplanation>Để bắt đầu một nghi lễ, hãy chọn một phương tiện bằng chuột và nhấp vào lệnh 'Bắt đầu {RITUAL_label}'. Dưới đây là các phương tiện có sẵn:\n{1}</RitualTargetsExplanation>
+<RitualJumpToTargets>Nhấp để nhảy đến mục tiêu</RitualJumpToTargets>
+<RitualUnfilledRoles>Bạn cần chỉ định các vị trí sau để tổ chức {0}</RitualUnfilledRoles>
+<IdeoBuildingMissing>Yêu cầu: {0}</IdeoBuildingMissing>
+<IdeoBuildingMissingDesc>{IDEO_name} yêu cầu thuộc địa của bạn phải có {0} khi ở {2} hoặc cao hơn.\n\n{0} là một biến thể của {BASEBUILDING_label}. {BUILDINGINFO}\n\nYêu cầu này chỉ có hiệu lực khi {IDEO_name} là văn hóa chính của phái bạn, hoặc ít nhất có {MINBELIEVERS} tín đồ. {4}\n\nNếu yêu cầu này không được đáp ứng, các tín đồ sau sẽ không hài lòng:\n {3} </IdeoBuildingMissingDesc>
+<IdeoBuildingArchitectTabDesc>Bạn có thể tìm thấy nó bằng cách mở tab ⌈{TABNAME}⌋.</IdeoBuildingArchitectTabDesc>
+<IdeoBuildingCanBeCraftedAt>Nó có thể được chế tạo tại:\n{0}.</IdeoBuildingCanBeCraftedAt>
+<IdeoBuildingRoomRequirementsDesc>Để thánh hóa {0}, các yêu cầu phòng này phải được đáp ứng.</IdeoBuildingRoomRequirementsDesc>
+<IdeoBuildingExpectations>Kỳ vọng là</IdeoBuildingExpectations>
+<IdeoBuildingDisrespected>{0} không được tôn trọng</IdeoBuildingDisrespected>
+<IdeoBuildingDisrespectedDesc>{0} yêu cầu {1} phải ở trong một căn phòng tươm tất. Các yêu cầu này phải được đáp ứng:\n{2}\n\nNếu yêu cầu phòng của {1} không được đáp ứng, các tín đồ này sẽ không hài lòng:\n{3}</IdeoBuildingDisrespectedDesc>
+<QuestPartRaidsDelay>Các cuộc tấn công sẽ đến sau {0}</QuestPartRaidsDelay>
+<QuestPartRaidsDelayDesc>Các cuộc tấn công sẽ đến sau {0}.\n\nMục tiêu của kẻ tấn công là tìm và phá hủy drone không gian này. Bảo vệ nó cho đến khi người thuộc địa của bạn trích xuất dữ liệu bên trong máy tính của nó.</QuestPartRaidsDelayDesc>
+<IdeoRoleEmpty>Vị trí {0} chưa được phân công</IdeoRoleEmpty>
+<IdeoRolesEmpty>Vị trí {0} chưa được phân công</IdeoRolesEmpty>
+<IdeoRolesEmptyDesc>Các vị trí chưa được phân công:\n{0}\n\nBạn có thể chỉ định một vị trí cho ai đó thông qua lễ thay đổi vị trí, chỉ định vị trí trong tab 'Xã hội', hoặc chọn một điểm tổ chức lễ hội/ bàn thờ và nhấp vào 'Bắt đầu thay đổi vị trí'.\n\nNếu vị trí vẫn chưa được phân công, những người sau sẽ không hài lòng.</IdeoRolesEmptyDesc>
+<AncientAltarThreatsWaking>Các giao thức an ninh sẽ được kích hoạt trong vòng {0}</AncientAltarThreatsWaking>
+<AncientAltarThreatsWakingDesc>Các giao thức an ninh sẽ được kích hoạt trong vòng {0}, chúng sẽ tấn công bất kỳ mục tiêu nào có thể gây ra mối đe dọa đối với thánh vật.</AncientAltarThreatsWakingDesc>
+<AlertRitualComing>Cơ hội nghi lễ sắp đến</AlertRitualComing>
+<AlertRitualComingDesc>Sẽ sớm có cơ hội thực hiện các nghi lễ sau đây</AlertRitualComingDesc>
+<AlertRitualComingExtra>Cơ hội sẽ hết hạn sau {0} ngày và sẽ xuất hiện lại vào cùng một ngày hàng năm.</AlertRitualComingExtra>
+<AlertRitualComingEntry>{0} vào {1}, trước khi cơ hội đến {2}</AlertRitualComingEntry>
+<AlertAgeReversalDemandNear>Yêu cầu đảo ngược tuổi tác</AlertAgeReversalDemandNear>
+<AlertAgeReversalDemandDesc>Dựa trên niềm tin của họ, một phần người thuộc địa của bạn yêu cầu điều trị đảo ngược tuổi tác trong buồng tạo hình, nếu họ không thực hiện điều trị, họ sẽ không hài lòng.\n\nDưới đây là danh sách những người yêu cầu thực hiện điều trị đảo ngược tuổi tác:</AlertAgeReversalDemandDesc>
+<AlertAgeReversalDemandDesc_Recruit>{PAWN} gần đây gia nhập {FACTION}, và mong muốn bắt đầu điều trị đảo ngược tuổi tác của mình trong vòng {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
+<AlertAgeReversalDemandDesc_Next>{PAWN} mong muốn thực hiện điều trị tiếp theo trong vòng {DURATION}.</AlertAgeReversalDemandDesc_Next>
+<AlertAgeReversalDemandDesc_Initial>{PAWN} mong muốn thực hiện điều trị đầu tiên trong vòng {DURATION}.</AlertAgeReversalDemandDesc_Initial>
+<AlertAgeReversalDemandDesc_Overdue>{PAWN} đã quá hạn điều trị {DURATION}</AlertAgeReversalDemandDesc_Overdue>
+<AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef} không thể ăn thịt từ {ANIMALS} do niềm tin vào {IDEO_name}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+<AlertGauranlenTreeWithoutDryadTypeLabel>Chưa thiết lập loại cây tinh linh</AlertGauranlenTreeWithoutDryadTypeLabel>
+<AlertGauranlenTreeWithoutDryadTypeDesc>Một hoặc nhiều cây mẹ chưa được thiết lập loại cây tinh linh của chúng.\n\nHãy chọn cây mẹ và nhấn {0} để thiết lập loại cây tinh linh.</AlertGauranlenTreeWithoutDryadTypeDesc>
+<AlertConnectedPawnNotAssignedToPlantCuttingLabel>Người đồng cảm với cây mẹ chưa được phân công công việc cắt tỉa</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+<AlertConnectedPawnNotAssignedToPlantCuttingDesc>Bạn có cây mẹ cần chăm sóc, nhưng người đồng cảm của chúng chưa được phân công công việc cắt tỉa.\n\nBạn nên chỉ định công việc cắt tỉa cho những người sau đây.</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+<AlertFuelNodeIgniting>Trạm nhiên liệu sẽ phát nổ sau {0}</AlertFuelNodeIgniting>
+<AlertFuelNodeIgnitingDesc>Một trạm nhiên liệu đã được đốt cháy! Nó sẽ nhanh chóng tan chảy và phát nổ.\n\nHãy chạy ra xa và chuẩn bị đối mặt với ngọn lửa lớn.</AlertFuelNodeIgnitingDesc>
+<AlertInfestationArriving>Những con sâu sẽ đến sau {0}</AlertInfestationArriving>
+<AlertInfestationArrivingDesc>Các con sâu khổng lồ đã cảm nhận được hành động của bạn và đang chuẩn bị tấn công dưới mặt đất, một cuộc tấn công sâu sắp bắt đầu.</AlertInfestationArrivingDesc>
+<AlertHostilesWakingUp>{0_pawnsPlural} sẽ tỉnh dậy trong {1}</AlertHostilesWakingUp>
+<AlertHostilesWakingUpDesc>Một hoặc nhiều {0_pawnsPlural} đang tỉnh dậy.\n\nHọ sẽ tấn công khi phát hiện bạn.</AlertHostilesWakingUpDesc>
+<AlertCasketOpening>Buồng ngủ sắp mở sau {0}</AlertCasketOpening>
+<AlertCasketOpeningDesc>Buồng ngủ chứa mối đe dọa chưa biết sắp mở ra.</AlertCasketOpeningDesc>
+<AlertSlaveRebellionLikely>Có khả năng nổi loạn của nô lệ</AlertSlaveRebellionLikely>
+<AlertSlaveRebellionLikelyRebelliousCount>Có {REBELLIOUSCOUNT} nô lệ đang bắt đầu nổi loạn.</AlertSlaveRebellionLikelyRebelliousCount>
+<AlertSlaveRebellionLikelyMostRebellious>Nô lệ có khả năng nổi loạn khoảng mỗi {COMBINEDTIME}. Các nô lệ không thông báo cho nhau về kế hoạch nổi loạn, mỗi người sẽ tự mình suy nghĩ về việc nổi loạn. Nếu bất kỳ nô lệ nào nổi loạn, những nô lệ khác gần đó có thể tham gia.\n\n{REBEL_labelShort} có mong muốn phản kháng mạnh nhất, dự kiến sẽ nổi loạn khoảng mỗi {INDIVIDUALTIME}.\n\nNhững yếu tố này sẽ ảnh hưởng đến sự nổi loạn của họ:</AlertSlaveRebellionLikelyMostRebellious>
+</LanguageData>

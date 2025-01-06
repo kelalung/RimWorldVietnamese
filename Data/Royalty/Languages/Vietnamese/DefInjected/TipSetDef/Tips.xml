@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoyaltyTips.TitleMilitaryAid>Các danh hiệu nhất định cho phép người sở hữu yêu cầu hỗ trợ quân sự. Điều này có thể giúp bạn thoát khỏi tình huống nguy hiểm.</RoyaltyTips.TitleMilitaryAid>
+<RoyaltyTips.NoblesDemandPrivileges>Các quý tộc trong đế chế sẽ yêu cầu tất cả các đặc quyền của họ, trong khi những người thuộc danh hiệu danh dự sẽ linh hoạt hơn, trừ khi họ tham lam hoặc ghen tị.</RoyaltyTips.NoblesDemandPrivileges>
+<RoyaltyTips.RoyalArmor>Các bộ giáp "Thánh" và "Tinh chất" cũng có thể đáp ứng yêu cầu trang phục của danh hiệu danh dự.</RoyaltyTips.RoyalArmor>
+<RoyaltyTips.TitleInheritance>Nếu người nắm giữ danh hiệu danh dự qua đời, danh hiệu sẽ được truyền cho người thừa kế mà họ chọn.</RoyaltyTips.TitleInheritance>
+<RoyaltyTips.ChangeHeir>Bạn có thể thay đổi người thừa kế của người giữ danh hiệu danh dự thông qua "Trạm Liên Lạc". Tất nhiên, điều này cần phải có một nghi lễ.</RoyaltyTips.ChangeHeir>
+<RoyaltyTips.FreePsychicAmplifier>Đế chế miễn phí cấp "Thiết Bị Khơi Dậy Tâm Linh" cho tất cả những người nhận danh hiệu danh dự, nếu danh hiệu đó có thể sử dụng được.</RoyaltyTips.FreePsychicAmplifier>
+<RoyaltyTips.IllegalImplantUse>Thiết bị khơi dậy có thể nhận được thông qua nhiệm vụ. Những vật phẩm này có thể mang lại sức mạnh tâm linh cho mọi người.</RoyaltyTips.IllegalImplantUse>
+<RoyaltyTips.InstallingPsychicAmplifier>Thiết bị khơi dậy tâm linh sẽ nhận được kiến thức về khả năng tâm linh cấp độ này khi nâng cấp.</RoyaltyTips.InstallingPsychicAmplifier>
+<RoyaltyTips.PsycastAdvantage>Khả năng tâm linh sẽ mang lại cho bạn lợi thế lớn trong trận chiến.</RoyaltyTips.PsycastAdvantage>
+<RoyaltyTips.PsycastFactionRelations>Việc phát ra "khả năng tâm linh" cho đồng minh sẽ làm tổn hại đến mối quan hệ giữa các phe - nếu khả năng đó có hiệu ứng tiêu cực.</RoyaltyTips.PsycastFactionRelations>
+<RoyaltyTips.PsycastInvisibility>Khả năng "Vô Hình" sẽ không biến mất khi tấn công.</RoyaltyTips.PsycastInvisibility>
+<RoyaltyTips.PsychicEntropyLimit>"Năng lượng tâm linh" quá tải có thể cứu bạn khỏi nguy hiểm, nhưng sự mất cân bằng tâm linh có thể kéo dài một thời gian.</RoyaltyTips.PsychicEntropyLimit>
+<RoyaltyTips.PsycastSensitivity>Độ nhạy cảm tâm linh càng cao, bạn càng bị ảnh hưởng nhiều hơn bởi "khả năng tâm linh".</RoyaltyTips.PsycastSensitivity>
+<RoyaltyTips.EltexGear>Sử dụng "Thiết Bị Tinh Chất" cho "Người Tinh Linh" sẽ tăng giới hạn "ngưỡng năng lượng tâm linh" và tăng tốc độ giảm năng lượng tâm linh.</RoyaltyTips.EltexGear>
+<RoyaltyTips.MechClusterPowercell>Khi chiến đấu với cụm máy, hãy cố gắng bắn vào pin năng lượng của chúng. Những vụ nổ lớn sẽ phá hủy sinh vật, máy móc và công trình trong khu vực.</RoyaltyTips.MechClusterPowercell>
+<RoyaltyTips.MechClusterDormant>Các cụm máy nhất định sẽ giữ trạng thái ngủ trước khi bị quấy rối. Hãy tận dụng thời gian này để chuẩn bị.</RoyaltyTips.MechClusterDormant>
+<RoyaltyTips.RoyalTributeCollector>Đại diện tuyển dụng của đế chế sẽ đến thăm hai lần mỗi năm, bạn có thể đổi tù nhân hoặc vàng để lấy điểm danh dự.</RoyaltyTips.RoyalTributeCollector>
+<RoyaltyTips.MechClusterDormantTrigger>Bạn có thể an toàn đi qua một cụm máy đang ngủ, tất nhiên điều này phải diễn ra khi bạn không tấn công chúng hoặc kích hoạt bộ kích hoạt.</RoyaltyTips.MechClusterDormantTrigger>
+<RoyaltyTips.SkipPsycastsMultiuse>Khả năng tâm linh có thể tác động đến bản thân, đồng minh, kẻ thù hoặc thậm chí là vật phẩm. Khả năng này có vô số khả năng chiến thuật.</RoyaltyTips.SkipPsycastsMultiuse>
+<RoyaltyTips.JumpPackRescue>Bạn có thể sử dụng ba lô nhảy để cứu một đồng minh ngã xuống - cứu hộ trên không!</RoyaltyTips.JumpPackRescue>
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_AdvancedHelmet.label>Mũ bảo hiểm chống đạn</Apparel_AdvancedHelmet.label>
+	<Apparel_AdvancedHelmet.description>Một chiếc mũ bảo hiểm chiến đấu nhẹ được thiết kế phức tạp và gia cố bằng sợi thủy tinh. Chỉ bảo vệ phần đầu, không hiệu quả với các loại vũ khí gây chấn thương.</Apparel_AdvancedHelmet.description>
+	<Apparel_ArmorHelmetRecon.label>Mũ bảo hiểm trinh sát</Apparel_ArmorHelmetRecon.label>
+	<Apparel_ArmorHelmetRecon.description>Một chiếc mũ bảo hiểm công nghệ cao kết hợp với áo giáp trinh sát, có máy tính kiểm tra trạng thái bên trong và được phủ bằng lớp áo giáp sợi thủy tinh.\n\nLoại mũ như thế này thường được sử dụng bởi lính trinh sát của đế chế hoặc lực lượng cảnh sát thế giới chói sáng.</Apparel_ArmorHelmetRecon.description>
+	<Apparel_BowlerHat.label>Mũ chóp</Apparel_BowlerHat.label>
+	<Apparel_BowlerHat.description>Một chiếc mũ đẹp nổi bật phong cách đô thị nhẹ nhàng và sang trọng. Có thể nâng cao hiệu ứng xã hội của người mặc.</Apparel_BowlerHat.description>
+	<Apparel_CowboyHat.label>Mũ cao bồi</Apparel_CowboyHat.label>
+	<Apparel_CowboyHat.description>Chiếc mũ thời trang, thô ráp và có phong cách độc đáo này có thể bảo vệ người mặc khỏi gió và mưa, và khi đội lên cũng sẽ tạo nên sức hấp dẫn đặc biệt. Phần không thể thiếu trong trang phục phong cách miền Tây.</Apparel_CowboyHat.description>
+	<Apparel_HatHood.label>Mũ trùm đầu</Apparel_HatHood.label>
+	<Apparel_HatHood.description>Một chiếc mũ có nếp gấp và có thể che đầu và tai.</Apparel_HatHood.description>
+	<Apparel_PowerArmorHelmet.label>Mũ bảo hiểm hải quân</Apparel_PowerArmorHelmet.label>
+	<Apparel_PowerArmorHelmet.description>Một chiếc mũ bảo hiểm công nghệ cao kết hợp với áo giáp hải quân, có máy tính kiểm tra trạng thái bên trong và được phủ bằng lớp áo giáp sợi thủy tinh.\n\nLoại mũ như thế này thường được sử dụng bởi lính thủy đánh bộ không gian thực hiện các nhiệm vụ tấn công nhanh.</Apparel_PowerArmorHelmet.description>
+	<Apparel_PsychicFoilHelmet.label>Mũ bảo hiểm bảo vệ tâm linh</Apparel_PsychicFoilHelmet.label>
+	<Apparel_PsychicFoilHelmet.description>Một chiếc mũ bảo hiểm nhẹ, bên trong có lớp mỏng được điều chỉnh tinh vi từ "màng hấp thụ tâm linh". Có thể giảm đáng kể độ nhạy cảm tâm linh của người mặc.</Apparel_PsychicFoilHelmet.description>
+	<Apparel_SimpleHelmet.label>Mũ bảo hiểm đơn giản</Apparel_SimpleHelmet.label>
+	<Apparel_SimpleHelmet.description>Một chiếc mũ bảo hiểm đơn giản cung cấp một mức độ bảo vệ nhất định khỏi các cuộc tấn công bằng vũ khí sắc bén. Chỉ bảo vệ phần đầu, không hiệu quả với các loại vũ khí gây chấn thương.</Apparel_SimpleHelmet.description>
+	<Apparel_TribalHeaddress.label>Đầu trang trí bộ lạc</Apparel_TribalHeaddress.label>
+	<Apparel_TribalHeaddress.description>Trang phục truyền thống thanh lịch, thường có ý nghĩa tôn giáo. Có thể nâng cao hiệu ứng xã hội của người mặc.</Apparel_TribalHeaddress.description>
+	<Apparel_Tuque.label>Mũ giữ ấm</Apparel_Tuque.label>
+	<Apparel_Tuque.description>Một chiếc mũ mềm và dày. Rất thích hợp để giữ ấm trong mùa đông.</Apparel_Tuque.description>
+	<Apparel_WarMask.label>Mặt nạ chiến tranh</Apparel_WarMask.label>
+	<Apparel_WarMask.description>Mặt nạ chiến tranh có vẻ ngoài tinh xảo và đáng sợ. Có thể che mặt, giúp người mặc thêm can đảm.</Apparel_WarMask.description>
+	<Apparel_WarVeil.label>Khăn che mặt</Apparel_WarVeil.label>
+	<Apparel_WarVeil.description>Vải che mặt đơn giản dùng để che mặt người mặc. Có thể tăng cường khả năng kháng lại môi trường độc hại ở một mức độ nhất định.</Apparel_WarVeil.description>
+</LanguageData>

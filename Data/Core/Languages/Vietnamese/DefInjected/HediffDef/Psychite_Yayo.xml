@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PsychiteAddiction.label>Nghiện Psychite</PsychiteAddiction.label>
+	<PsychiteAddiction.description>Sử dụng quá liều lâu dài của Psychite đã gây ra sự thích nghi của hệ thần kinh.\n\nNếu không sử dụng liều lượng phù hợp của Psychite định kỳ, sẽ bắt đầu xuất hiện phản ứng cai nghiện. Thời gian cai nghiện lâu dài sẽ buộc não bộ phải thích nghi và trở lại trạng thái bình thường, từ đó giúp từ bỏ nghiện Psychite.</PsychiteAddiction.description>
+	<PsychiteAddiction.stages.withdrawal.label>Phản ứng cai nghiện</PsychiteAddiction.stages.withdrawal.label>
+	<PsychiteTolerance.label>Độ nhờn Psychite</PsychiteTolerance.label>
+	<PsychiteTolerance.description>Độ nhờn lâu dài đối với Psychite. Độ nhờn càng nghiêm trọng, càng cần nhiều Psychite để đạt được hiệu ứng tương tự như trước.</PsychiteTolerance.description>
+	<PsychiteTolerance.stages.small.label>Nhẹ</PsychiteTolerance.stages.small.label>
+	<PsychiteTolerance.stages.large.label>Trung bình</PsychiteTolerance.stages.large.label>
+	<PsychiteTolerance.stages.massive.label>Cực mạnh</PsychiteTolerance.stages.massive.label>
+	<YayoHigh.label>Nghiện Yayo</YayoHigh.label>
+	<YayoHigh.description>Hợp chất Yayo trong máu mang lại cảm giác hưng phấn ảo giác.</YayoHigh.description>
+	<YayoHigh.labelNoun>Nghiện Yayo</YayoHigh.labelNoun>
+</LanguageData>

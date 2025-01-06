@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+    <li>commonEnding-&gt;Xây dựng cái [monumentSize] kỷ niệm này cần những tài nguyên sau (tổng giá trị: [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nMột khi bắt đầu dự án này, việc xây dựng phải hoàn thành trong [constructionTimeoutTicks_duration].\n\nSau khi xây dựng hoàn tất, bạn cần bảo vệ kỷ niệm này trong [haveToProtectForTicks_duration]. Nếu kỷ niệm này bị hư hại một chút, hệ thống thực thi của [asker2] sẽ kích hoạt và [threatDescription].\n\nKhi bạn hoàn thành việc xây dựng kỷ niệm, bạn sẽ nhận được phần thưởng.</li>
+</BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+<BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>Kỷ niệm đã hoàn thành</BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>
+<BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>Bạn đã xây dựng xong kỷ niệm.\n\nBạn cần bảo vệ kỷ niệm này trong [haveToProtectForTicks_duration]. Nếu kỷ niệm này bị hư hại một chút, hệ thống thực thi của [asker2] sẽ kích hoạt và [threatDescription].</BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>
+</LanguageData>

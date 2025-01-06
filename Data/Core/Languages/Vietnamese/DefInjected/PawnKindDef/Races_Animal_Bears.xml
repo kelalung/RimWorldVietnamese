@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bear_Grizzly.label>Gấu xám</Bear_Grizzly.label>
+	<Bear_Grizzly.labelFemale>Gấu xám cái</Bear_Grizzly.labelFemale>
+	<Bear_Grizzly.labelFemalePlural>Gấu xám cái</Bear_Grizzly.labelFemalePlural>
+	<Bear_Grizzly.labelMale>Gấu xám đực</Bear_Grizzly.labelMale>
+	<Bear_Grizzly.labelMalePlural>Gấu xám đực</Bear_Grizzly.labelMalePlural>
+	<Bear_Grizzly.labelPlural>Gấu xám</Bear_Grizzly.labelPlural>
+	<Bear_Grizzly.lifeStages.0.label>Gấu xám con</Bear_Grizzly.lifeStages.0.label>
+	<Bear_Grizzly.lifeStages.0.labelFemale>Gấu xám con cái</Bear_Grizzly.lifeStages.0.labelFemale>
+	<Bear_Grizzly.lifeStages.0.labelFemalePlural>Gấu xám con cái</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+	<Bear_Grizzly.lifeStages.0.labelMale>Gấu xám con đực</Bear_Grizzly.lifeStages.0.labelMale>
+	<Bear_Grizzly.lifeStages.0.labelMalePlural>Gấu xám con đực</Bear_Grizzly.lifeStages.0.labelMalePlural>
+	<Bear_Grizzly.lifeStages.0.labelPlural>Gấu xám con</Bear_Grizzly.lifeStages.0.labelPlural>
+	<Bear_Grizzly.lifeStages.1.label>Gấu xám tuổi thơ</Bear_Grizzly.lifeStages.1.label>
+	<Bear_Grizzly.lifeStages.1.labelFemale>Gấu xám cái tuổi thơ</Bear_Grizzly.lifeStages.1.labelFemale>
+	<Bear_Grizzly.lifeStages.1.labelFemalePlural>Gấu xám cái tuổi thơ</Bear_Grizzly.lifeStages.1.labelFemalePlural>
+	<Bear_Grizzly.lifeStages.1.labelMale>Gấu xám đực tuổi thơ</Bear_Grizzly.lifeStages.1.labelMale>
+	<Bear_Grizzly.lifeStages.1.labelMalePlural>Gấu xám đực tuổi thơ</Bear_Grizzly.lifeStages.1.labelMalePlural>
+	<Bear_Grizzly.lifeStages.1.labelPlural>Gấu xám tuổi thơ</Bear_Grizzly.lifeStages.1.labelPlural>
+	<Bear_Grizzly.lifeStages.2.label>Gấu xám trưởng thành</Bear_Grizzly.lifeStages.2.label>
+	<Bear_Grizzly.lifeStages.2.labelFemale>Gấu xám cái trưởng thành</Bear_Grizzly.lifeStages.2.labelFemale>
+	<Bear_Grizzly.lifeStages.2.labelFemalePlural>Gấu xám cái trưởng thành</Bear_Grizzly.lifeStages.2.labelFemalePlural>
+	<Bear_Grizzly.lifeStages.2.labelMale>Gấu xám đực trưởng thành</Bear_Grizzly.lifeStages.2.labelMale>
+	<Bear_Grizzly.lifeStages.2.labelMalePlural>Gấu xám đực trưởng thành</Bear_Grizzly.lifeStages.2.labelMalePlural>
+	<Bear_Grizzly.lifeStages.2.labelPlural>Gấu xám trưởng thành</Bear_Grizzly.lifeStages.2.labelPlural>
+	<Bear_Polar.label>Gấu Bắc Cực</Bear_Polar.label>
+	<Bear_Polar.labelFemale>Gấu Bắc Cực cái</Bear_Polar.labelFemale>
+	<Bear_Polar.labelFemalePlural>Gấu Bắc Cực cái</Bear_Polar.labelFemalePlural>
+	<Bear_Polar.labelMale>Gấu Bắc Cực đực</Bear_Polar.labelMale>
+	<Bear_Polar.labelMalePlural>Gấu Bắc Cực đực</Bear_Polar.labelMalePlural>
+	<Bear_Polar.labelPlural>Gấu Bắc Cực</Bear_Polar.labelPlural>
+	<Bear_Polar.lifeStages.0.label>Gấu Bắc Cực con</Bear_Polar.lifeStages.0.label>
+	<Bear_Polar.lifeStages.0.labelFemale>Gấu Bắc Cực con cái</Bear_Polar.lifeStages.0.labelFemale>
+	<Bear_Polar.lifeStages.0.labelFemalePlural>Gấu Bắc Cực con cái</Bear_Polar.lifeStages.0.labelFemalePlural>
+	<Bear_Polar.lifeStages.0.labelMale>Gấu Bắc Cực con đực</Bear_Polar.lifeStages.0.labelMale>
+	<Bear_Polar.lifeStages.0.labelMalePlural>Gấu Bắc Cực con đực</Bear_Polar.lifeStages.0.labelMalePlural>
+	<Bear_Polar.lifeStages.0.labelPlural>Gấu Bắc Cực con</Bear_Polar.lifeStages.0.labelPlural>
+	<Bear_Polar.lifeStages.1.label>Gấu Bắc Cực tuổi thơ</Bear_Polar.lifeStages.1.label>
+	<Bear_Polar.lifeStages.1.labelFemale>Gấu Bắc Cực cái tuổi thơ</Bear_Polar.lifeStages.1.labelFemale>
+	<Bear_Polar.lifeStages.1.labelFemalePlural>Gấu Bắc Cực cái tuổi thơ</Bear_Polar.lifeStages.1.labelFemalePlural>
+	<Bear_Polar.lifeStages.1.labelMale>Gấu Bắc Cực đực tuổi thơ</Bear_Polar.lifeStages.1.labelMale>
+	<Bear_Polar.lifeStages.1.labelMalePlural>Gấu Bắc Cực đực tuổi thơ</Bear_Polar.lifeStages.1.labelMalePlural>
+	<Bear_Polar.lifeStages.1.labelPlural>Gấu Bắc Cực tuổi thơ</Bear_Polar.lifeStages.1.labelPlural>
+	<Bear_Polar.lifeStages.2.label>Gấu Bắc Cực trưởng thành</Bear_Polar.lifeStages.2.label>
+	<Bear_Polar.lifeStages.2.labelFemale>Gấu Bắc Cực cái trưởng thành</Bear_Polar.lifeStages.2.labelFemale>
+	<Bear_Polar.lifeStages.2.labelFemalePlural>Gấu Bắc Cực cái trưởng thành</Bear_Polar.lifeStages.2.labelFemalePlural>
+	<Bear_Polar.lifeStages.2.labelMale>Gấu Bắc Cực đực trưởng thành</Bear_Polar.lifeStages.2.labelMale>
+	<Bear_Polar.lifeStages.2.labelMalePlural>Gấu Bắc Cực đực trưởng thành</Bear_Polar.lifeStages.2.labelMalePlural>
+	<Bear_Polar.lifeStages.2.labelPlural>Gấu Bắc Cực trưởng thành</Bear_Polar.lifeStages.2.labelPlural>
+</LanguageData>

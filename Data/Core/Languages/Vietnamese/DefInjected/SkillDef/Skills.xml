@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Animals.label>Nuôi thú</Animals.label>
+	<Animals.description>Nuôi dưỡng, huấn luyện, quản lý và kiểm soát động vật.</Animals.description>
+	<Animals.generalRules.rulesStrings>
+		<li>subject->Nuôi thú</li>
+		<li>subject->Chăn thả</li>
+		<li>subject->Thuần hóa</li>
+		<li>subject->Chăn nuôi</li>
+		<li>subject->Cho ăn</li>
+		<li>subject->Động vật học</li>
+		<li>subject->Chăn nuôi</li>
+		<li>subject->Chăm sóc</li>
+		<li>subject->Thuần hóa</li>
+		<li>subject->Đàn động vật</li>
+		<li>subject->Động vật hoang dã</li>
+		<li>subject->Gia cầm</li>
+	</Animals.generalRules.rulesStrings>
+	<Animals.skillLabel>Nuôi thú</Animals.skillLabel>
+	<Artistic.label>Nghệ thuật</Artistic.label>
+	<Artistic.description>Tạo ra các tác phẩm nghệ thuật.</Artistic.description>
+	<Artistic.generalRules.rulesStrings>
+		<li>subject->Nghệ thuật</li>
+		<li>subject->Gốm sứ</li>
+		<li>subject->Điêu khắc</li>
+		<li>subject->Vẽ tranh</li>
+		<li>subject->Sáng tác</li>
+		<li>subject->Biểu đạt</li>
+		<li>subject->Thẩm mỹ</li>
+		<li>subject->Thiết kế</li>
+		<li>subject->Điêu khắc</li>
+		<li>subject->Ấn tượng</li>
+		<li>subject->Tính nghệ thuật</li>
+	</Artistic.generalRules.rulesStrings>
+	<Artistic.skillLabel>Nghệ thuật</Artistic.skillLabel>
+	<Construction.label>Xây dựng</Construction.label>
+	<Construction.description>Xây dựng hoặc phá dỡ cấu trúc và đồ nội thất nhanh hơn và tốt hơn.</Construction.description>
+	<Construction.generalRules.rulesStrings>
+		<li>subject->Xây dựng</li>
+		<li>subject->Xây dựng</li>
+		<li>subject->Kiến trúc</li>
+		<li>subject->Kỹ thuật</li>
+		<li>subject->Thiết kế</li>
+		<li>subject->Cải tạo</li>
+		<li>subject->Cấu trúc</li>
+		<li>subject->Móng</li>
+		<li>subject->Thợ mộc</li>
+		<li>subject->Cơ sở hạ tầng</li>
+	</Construction.generalRules.rulesStrings>
+	<Construction.skillLabel>Xây dựng</Construction.skillLabel>
+	<Cooking.label>Nấu ăn</Cooking.label>
+	<Cooking.description>Sử dụng các nguyên liệu khác nhau để nấu ăn. Đầu bếp lành nghề có thể nấu ăn nhanh hơn và tránh thực phẩm độc hại.</Cooking.description>
+	<Cooking.generalRules.rulesStrings>
+		<li>subject->Nấu ăn</li>
+		<li>subject->Thực phẩm</li>
+		<li>subject->Nướng</li>
+		<li>subject->Món ăn</li>
+		<li>subject->Công thức</li>
+		<li>subject->Ẩm thực</li>
+		<li>subject->Hương vị</li>
+		<li>subject->Thành phần</li>
+		<li>subject->Gia vị</li>
+		<li>subject->Dinh dưỡng</li>
+		<li>subject->Thẩm mỹ</li>
+		<li>subject->Công thức nấu ăn</li>
+		<li>subject->Nhà bếp</li>
+		<li>subject->Nước sốt</li>
+		<li>subject->Bữa ăn</li>
+	</Cooking.generalRules.rulesStrings>
+	<Cooking.skillLabel>Nấu ăn</Cooking.skillLabel>
+	<Crafting.label>Thủ công</Crafting.label>
+	<Crafting.description>Chế tạo vũ khí, linh kiện và các vật phẩm thông thường, cũng như tinh chế tài nguyên.</Crafting.description>
+	<Crafting.generalRules.rulesStrings>
+		<li>subject->Thủ công</li>
+		<li>subject->Lắp ráp</li>
+		<li>subject->Chế tạo</li>
+		<li>subject->Gắn kết</li>
+		<li>subject->Sản xuất</li>
+		<li>subject->Sản xuất</li>
+		<li>subject->Nghệ thuật thủ công</li>
+		<li>subject->Gia công</li>
+		<li>subject->Kỹ năng thủ công</li>
+	</Crafting.generalRules.rulesStrings>
+	<Crafting.skillLabel>Thủ công</Crafting.skillLabel>
+	<Intellectual.label>Trí thức</Intellectual.label>
+	<Intellectual.description>Tiến hành nghiên cứu và chế tạo các chất gây nghiện.</Intellectual.description>
+	<Intellectual.generalRules.rulesStrings>
+		<li>subject->Vật lý</li>
+		<li>subject->Hóa học</li>
+		<li>subject->Động lực học quỹ đạo</li>
+		<li>subject->Toán học</li>
+		<li>subject->Sinh học</li>
+		<li>subject->Khoa học</li>
+		<li>subject->Nghiên cứu</li>
+		<li>subject->Đổi mới</li>
+		<li>subject->Khám phá</li>
+		<li>subject->Phân tích</li>
+		<li>subject->Thí nghiệm</li>
+		<li>subject->Kiến thức</li>
+		<li>subject->Khám phá</li>
+		<li>subject->Vật lý</li>
+		<li>subject->Hóa học</li>
+		<li>subject->Phân tích dữ liệu</li>
+		<li>subject->Khám phá khoa học</li>
+		<li>subject->Phát triển trí tuệ</li>
+		<li>subject->Theo đuổi học thuật</li>
+		<li>subject->Phân tích định lượng</li>
+		<li>subject->Thiết kế thí nghiệm</li>
+		<li>subject->Phương pháp nghiên cứu</li>
+		<li>subject->Khám phá trí tuệ</li>
+	</Intellectual.generalRules.rulesStrings>
+	<Intellectual.skillLabel>Trí thức</Intellectual.skillLabel>
+	<Medicine.label>Y tế</Medicine.label>
+	<Medicine.description>Chữa trị vết thương và bệnh tật, cũng như thực hiện phẫu thuật y tế.</Medicine.description>
+	<Medicine.generalRules.rulesStrings>
+		<li>subject->Y học</li>
+		<li>subject->Phẫu thuật</li>
+		<li>subject->Vi khuẩn học</li>
+		<li>subject->Sửa chữa da</li>
+		<li>subject->Chăm sóc sức khỏe</li>
+		<li>subject->Bệnh học</li>
+		<li>subject->Sinh lý học</li>
+		<li>subject->Dược lý học</li>
+		<li>subject->Điều trị</li>
+		<li>subject->Chẩn đoán</li>
+		<li>subject->Phẫu thuật</li>
+		<li>subject->Giải phẫu học</li>
+		<li>subject->Vi khuẩn học</li>
+		<li>subject->Bệnh lý học</li>
+		<li>subject->Quản lý bệnh tật</li>
+		<li>subject->Chăm sóc bệnh nhân</li>
+		<li>subject->Y học khẩn cấp</li>
+		<li>subject->Chăm sóc</li>
+		<li>subject->Nghiên cứu y tế</li>
+		<li>subject->Y tế công cộng</li>
+		<li>subject->Vi rút học</li>
+		<li>subject->Khoa học sức khỏe</li>
+	</Medicine.generalRules.rulesStrings>
+	<Medicine.skillLabel>Y tế</Medicine.skillLabel>
+	<Melee.label>Đánh gần</Melee.label>
+	<Melee.description>Sử dụng các loại vũ khí cận chiến và tay không để chiến đấu.</Melee.description>
+	<Melee.generalRules.rulesStrings>
+		<li>subject->Chiến đấu</li>
+		<li>subject->Đánh gần</li>
+		<li>subject->Cận chiến</li>
+		<li>subject->Võ thuật</li>
+		<li>subject->Kiếm thuật</li>
+		<li>subject->Vũ khí</li>
+		<li>subject->Đánh nhau</li>
+		<li>subject->Đấm bốc</li>
+		<li>subject->Đấu kiếm</li>
+		<li>subject->Kỵ sĩ</li>
+		<li>subject->Đấu tay đôi</li>
+	</Melee.generalRules.rulesStrings>
+	<Melee.skillLabel>Đánh gần</Melee.skillLabel>
+	<Mining.label>Khai thác</Mining.label>
+	<Mining.description>Đào hầm, khai thác khoáng sản hoặc tài nguyên chôn vùi.</Mining.description>
+	<Mining.generalRules.rulesStrings>
+		<li>subject->Khai thác</li>
+		<li>subject->Đào bới</li>
+		<li>subject->Khai thác đá</li>
+		<li>subject->Khai thác hàng dọc</li>
+		<li>subject->Đào</li>
+		<li>subject->Khảo sát</li>
+		<li>subject->Quặng</li>
+		<li>subject->Hầm</li>
+		<li>subject->Khoan</li>
+		<li>subject->Khoáng sản</li>
+		<li>subject->Ngọc học</li>
+		<li>subject->Địa chất học</li>
+		<li>subject->Xây dựng đất</li>
+	</Mining.generalRules.rulesStrings>
+	<Mining.skillLabel>Khai thác</Mining.skillLabel>
+	<Plants.label>Trồng trọt</Plants.label>
+	<Plants.description>Gieo hạt, chăm sóc và thu hoạch cây trồng hoặc thu thập thực phẩm trong hành trình.</Plants.description>
+	<Plants.generalRules.rulesStrings>
+		<li>subject->Trồng trọt</li>
+		<li>subject->Thảo dược</li>
+		<li>subject->Rau củ</li>
+		<li>subject->Thực vật</li>
+		<li>subject->Nuôi trồng</li>
+		<li>subject->Vườn</li>
+		<li>subject->Nông nghiệp</li>
+		<li>subject->Vườn tược</li>
+		<li>subject->Nông nghiệp</li>
+		<li>subject->Gặt hái</li>
+		<li>subject->Canh tác bền vững</li>
+		<li>subject->Thực vật học</li>
+		<li>subject->Quản lý cây trồng</li>
+		<li>subject->Bổ sung đất</li>
+		<li>subject->Nông nghiệp hữu cơ</li>
+		<li>subject->Sản xuất thực phẩm</li>
+		<li>subject->Khoa học cây trồng</li>
+	</Plants.generalRules.rulesStrings>
+	<Plants.skillLabel>Trồng trọt</Plants.skillLabel>
+	<Shooting.label>Bắn xa</Shooting.label>
+	<Shooting.description>Sử dụng các loại vũ khí tầm xa.</Shooting.description>
+	<Shooting.generalRules.rulesStrings>
+		<li>subject->Súng</li>
+		<li>subject->Vũ khí</li>
+		<li>subject->Ngắm bắn</li>
+		<li>subject->Bắn súng</li>
+		<li>subject->Chiến đấu súng</li>
+		<li>subject->Kỹ năng bắn súng</li>
+		<li>subject->Súng trường</li>
+		<li>subject->Sát thủ bắn tỉa</li>
+		<li>subject->Đạn đạo học</li>
+		<li>subject->Chiến tranh tầm xa</li>
+		<li>subject->Bắn chính xác</li>
+		<li>subject->Thành thạo súng trường</li>
+		<li>subject->Tập bắn</li>
+		<li>subject->Xạ thủ</li>
+		<li>subject->Chiến thuật tầm xa</li>
+		<li>subject->Vị trí bắn</li>
+		<li>subject->Xử lý vũ khí</li>
+		<li>subject->Bắn xa</li>
+	</Shooting.generalRules.rulesStrings>
+	<Shooting.skillLabel>Bắn xa</Shooting.skillLabel>
+	<Social.label>Xã hội</Social.label>
+	<Social.description>Đàm phán, thuyết phục, thao túng, lãnh đạo và truyền cảm hứng cho người khác.</Social.description>
+	<Social.generalRules.rulesStrings>
+		<li>subject->Giao tiếp</li>
+		<li>subject->Mạng lưới</li>
+		<li>subject->Giải quyết xung đột</li>
+		<li>subject->Hợp tác</li>
+		<li>subject->Lãnh đạo</li>
+		<li>subject->Cảm thông</li>
+		<li>subject->Đàm phán</li>
+		<li>subject->Thương mại</li>
+		<li>subject->Lắng nghe</li>
+		<li>subject->Ngoại giao</li>
+		<li>subject->Làm việc nhóm</li>
+		<li>subject->Nghi thức</li>
+		<li>subject->Sự quyến rũ</li>
+		<li>subject->Thông minh xã hội</li>
+		<li>subject->Tự tin</li>
+		<li>subject->Cảm xúc</li>
+		<li>subject->Kỹ năng giao tiếp</li>
+	</Social.generalRules.rulesStrings>
+	<Social.skillLabel>Xã hội</Social.skillLabel>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArchotechArm.label>Cánh tay sinh học siêu việt</ArchotechArm.label>
+	<ArchotechArm.description>Một cánh tay sinh học siêu việt đã được lắp đặt. Nó mạnh mẽ đến mức có thể dễ dàng phá hủy gỗ cứng, nhưng cũng tinh tế đến mức có thể viết một bài thơ mười bốn dòng trong không gian chỉ bằng một hạt gạo. Nó trông gần như giống như chi thể sinh học ban đầu, nhưng cứng hơn cả sợi thủy tinh. Ngay cả khi bị tổn thương, nó cũng sẽ tự phục hồi theo thời gian. Cấu trúc bên trong của nó vẫn là một bí ẩn đối với mọi người.</ArchotechArm.description>
+	<ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>Đấm</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+	<ArchotechArm.labelNoun>Cánh tay sinh học siêu việt</ArchotechArm.labelNoun>
+	<ArchotechEye.label>Mắt sinh học siêu việt</ArchotechEye.label>
+	<ArchotechEye.description>Một mắt sinh học siêu việt đã được lắp đặt. Nó có thể nhận diện sóng vô tuyến, hồng ngoại, ánh sáng nhìn thấy, tia X, tia gamma và nhiều loại sóng điện từ khác nhau, với khả năng nhận diện thị giác sắc nét đến mức có thể phân biệt chữ viết từ khoảng cách 20 mét. Nó có thể phát ra nhiều bước sóng khác nhau để hỗ trợ đánh giá, trong khi AI nhân cách thứ cấp tích hợp bên trong có thể hỗ trợ hình ảnh. Cấu trúc bên trong của nó vẫn là một bí ẩn đối với mọi người.</ArchotechEye.description>
+	<ArchotechEye.labelNoun>Mắt sinh học siêu việt</ArchotechEye.labelNoun>
+	<ArchotechLeg.label>Chân sinh học siêu việt</ArchotechLeg.label>
+	<ArchotechLeg.description>Một chân sinh học siêu việt đã được lắp đặt. Nó trông gần như giống như chi thể sinh học ban đầu, nhưng cứng hơn cả sợi thủy tinh, chạy nhanh hơn cả ô tô. Ngay cả khi bị tổn thương, nó cũng sẽ tự phục hồi theo thời gian. Cấu trúc bên trong của nó vẫn là một bí ẩn đối với mọi người.</ArchotechLeg.description>
+	<ArchotechLeg.labelNoun>Chân sinh học siêu việt</ArchotechLeg.labelNoun>
+</LanguageData>

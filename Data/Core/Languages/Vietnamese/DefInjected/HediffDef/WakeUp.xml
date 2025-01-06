@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WakeUpAddiction.label>Nghiện Wake-Up</WakeUpAddiction.label>
+	<WakeUpAddiction.description>Sử dụng quá liều Wake-Up lâu dài đã gây ra sự thích nghi của hệ thần kinh.\n\nNếu không sử dụng liều lượng Wake-Up phù hợp định kỳ, sẽ bắt đầu xuất hiện phản ứng cai nghiện. Thời gian cai nghiện lâu dài sẽ buộc não bộ phải thích nghi và trở lại trạng thái bình thường, từ đó giúp từ bỏ nghiện Wake-Up.</WakeUpAddiction.description>
+	<WakeUpAddiction.stages.withdrawal.label>Phản ứng cai nghiện</WakeUpAddiction.stages.withdrawal.label>
+	<WakeUpHigh.label>Wake-Up High</WakeUpHigh.label>
+	<WakeUpHigh.description>Hợp chất Wake-Up trong máu có thể đáp ứng nhu cầu nghỉ ngơi bằng cách kích thích não bộ, đồng thời tăng cường ý thức, tốc độ làm việc và hiệu quả thiền định.</WakeUpHigh.description>
+	<WakeUpHigh.labelNoun>Wake-Up High</WakeUpHigh.labelNoun>
+	<WakeUpTolerance.label>Độ nhờn Wake-Up</WakeUpTolerance.label>
+	<WakeUpTolerance.description>Độ nhờn lâu dài đối với Wake-Up. Độ nhờn càng nghiêm trọng, càng cần nhiều Wake-Up để đạt được hiệu ứng tương tự như trước.</WakeUpTolerance.description>
+	<WakeUpTolerance.stages.small.label>Nhẹ</WakeUpTolerance.stages.small.label>
+	<WakeUpTolerance.stages.large.label>Trung bình</WakeUpTolerance.stages.large.label>
+	<WakeUpTolerance.stages.massive.label>Cực mạnh</WakeUpTolerance.stages.massive.label>
+</LanguageData>

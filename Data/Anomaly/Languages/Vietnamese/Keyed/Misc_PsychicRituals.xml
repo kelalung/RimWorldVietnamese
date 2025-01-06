@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PsychicRitual>Nghi lễ tâm linh</PsychicRitual>
+	<CastPsychicRitual>Bắt đầu nghi lễ tâm linh</CastPsychicRitual>
+	<CastPsychicRitualDesc>Chọn nghi lễ tâm linh cần thực hiện</CastPsychicRitualDesc>
+	<CannotCastPsychicRitual>{0_labelShort} không thể thực hiện nghi lễ tâm linh {1}, lý do là {2}.</CannotCastPsychicRitual>
+	<PsychicRitualBegun>Nghi lễ tâm linh {0} đã bắt đầu.</PsychicRitualBegun>
+	<PsychicRitualCompleted>Nghi lễ tâm linh {0} đã hoàn thành.</PsychicRitualCompleted>
+	<PsychicRitualAttending>Đang tham gia nghi lễ tâm linh {RITUALNAME}</PsychicRitualAttending>
+	<ParticipatingInPsychicRitual>{0_labelShort} đang tham gia nghi lễ tâm linh {1}.</ParticipatingInPsychicRitual>
+	<AbilityDisabledInPsychicRitual>{0_labelShort} đang tham gia nghi lễ tâm linh {1}.</AbilityDisabledInPsychicRitual>
+	<PsychicRitual_LocationTargetting>Chọn vị trí</PsychicRitual_LocationTargetting>
+	<PsychicRitualExpectedQualityLabel>Hiệu ứng tổng thể</PsychicRitualExpectedQualityLabel>
+	<PsychicRitualQualityFactorLabel>Hệ số hiệu ứng</PsychicRitualQualityFactorLabel>
+	<PsychicRitualExpectedDurationLabel>Thời gian kéo dài</PsychicRitualExpectedDurationLabel>
+	<PsychicRitualRequiredOffering>Yêu cầu vật tế</PsychicRitualRequiredOffering>
+	<CausedByPsychicRitual>Do nghi lễ tâm linh gây ra</CausedByPsychicRitual>
+	<PsychicRitualCooldownLabel>Thời gian hồi chiêu</PsychicRitualCooldownLabel>
+	<PsychicRitualSpotObstructed>Khu vực nghi lễ tâm linh bị chắn.</PsychicRitualSpotObstructed>
+	<PsychicRitualOnCooldown>Nghi lễ tâm linh đang trong thời gian hồi chiêu. Nó sẽ có sẵn sau {0}.</PsychicRitualOnCooldown>
+	<PsychicRitualCanBeCastAgain>Nghi lễ tâm linh {0} có thể thực hiện lại.</PsychicRitualCanBeCastAgain>
+	<NoBasicResearchForPsychicRitual>Chưa chọn dự án nghiên cứu hiện tượng cơ bản.</NoBasicResearchForPsychicRitual>
+	<CantCastOnPocketMap>Cần thực hiện nghi lễ tâm linh {0} trên mặt đất.</CantCastOnPocketMap>
+	<PsychicRitualFactionWarning>Cảnh báo: Thực hiện nghi lễ trên {PAWN_nameDef} sẽ khiến {PAWN_possessive} phái ( {FACTION_name} ) tức giận.</PsychicRitualFactionWarning>
+	<PsychicRitualWakingPawnWarning>{0} hiện đang ngủ, sẽ tỉnh dậy khi nghi lễ tâm linh bắt đầu.</PsychicRitualWakingPawnWarning>
+	<PsychicRitualUndraftPawnWarning>{0} hiện đang trong trạng thái triệu tập, sẽ được giải triệu tập khi nghi lễ tâm linh bắt đầu.</PsychicRitualUndraftPawnWarning>
+	<PsychicRitualWakingPawnsWarning>{0} hiện đang ngủ, sẽ tỉnh dậy khi nghi lễ tâm linh bắt đầu.</PsychicRitualWakingPawnsWarning>
+	<PsychicRitualUndraftPawnsWarning>{0} hiện đang trong trạng thái triệu tập, sẽ được giải triệu tập khi nghi lễ tâm linh bắt đầu.</PsychicRitualUndraftPawnsWarning>
+	<PsychicRitualLeft>{0_labelShort} đã rời khỏi nghi lễ tâm linh {1}.</PsychicRitualLeft>
+	<PsychicRitualLeftBecause>{0_labelShort} đã rời khỏi nghi lễ tâm linh {1}, lý do là {2}.</PsychicRitualLeftBecause>
+	<PsychicRitualCanceled>Nghi lễ tâm linh {0} đã bị hủy bỏ.</PsychicRitualCanceled>
+	<PsychicRitualCanceledBecause>Nghi lễ tâm linh {0} đã bị hủy bỏ, lý do là {1}.</PsychicRitualCanceledBecause>
+	<PsychicRitualOfferingsInsufficient>Cần {0} nhưng chỉ có {1} có sẵn.</PsychicRitualOfferingsInsufficient>
+	<PsychicRitualTargetUnreachableByInvoker>{INVOKER_labelShort} không thể đến {TARGET_labelShort}</PsychicRitualTargetUnreachableByInvoker>
+	<CommandLeavePsychicRitual>Rời khỏi nghi lễ tâm linh {0}</CommandLeavePsychicRitual>
+	<CommandLeavePsychicRitualDesc>Ngừng tham gia nghi lễ tâm linh {0}. Chỉ cần nghi lễ có ít nhất một người tham gia, nó sẽ tiếp tục diễn ra.</CommandLeavePsychicRitualDesc>
+	<CommandCancelPsychicRitual>Hủy bỏ nghi lễ tâm linh {0}</CommandCancelPsychicRitual>
+	<CommandCancelPsychicRitualDesc>Kết thúc ngay lập tức nghi lễ tâm linh {0}. Bạn có thể khởi động lại nghi lễ này sau.</CommandCancelPsychicRitualDesc>
+	<CommandCancelPsychicRitualConfirm>Bạn có chắc chắn muốn hủy bỏ nghi lễ tâm linh {0} không?</CommandCancelPsychicRitualConfirm>
+	<PsychicRitualLeaveReason_Vanished>{PAWN_labelShort} đã biến mất</PsychicRitualLeaveReason_Vanished>
+	<PsychicRitualLeaveReason_Incapped>{PAWN_labelShort} không thể hành động</PsychicRitualLeaveReason_Incapped>
+	<PsychicRitualLeaveReason_Killed>{PAWN_labelShort} đã chết</PsychicRitualLeaveReason_Killed>
+	<PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort} không phải là thành viên của {FACTION_name}</PsychicRitualLeaveReason_WrongFaction>
+	<PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort} không có trên bản đồ</PsychicRitualLeaveReason_ExitedMap>
+	<PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort} có việc khác</PsychicRitualLeaveReason_LeftVoluntarily>
+	<PsychicRitualLeaveReason_Drafted>{PAWN_labelShort} đã bị triệu tập</PsychicRitualLeaveReason_Drafted>
+	<PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort} đang trong trạng thái tâm thần</PsychicRitualLeaveReason_InMentalState>
+	<PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort} đang chảy máu</PsychicRitualLeaveReason_Bleeding>
+	<PsychicRitualLeaveReason_Burning>{PAWN_labelShort} đang cháy</PsychicRitualLeaveReason_Burning>
+	<PsychicRitualLeaveReason_ExtremeTemperature>Nhiệt độ xung quanh không an toàn cho {PAWN_labelShort}</PsychicRitualLeaveReason_ExtremeTemperature>
+	<PsychicRitualLeaveReason_InsideBuilding>{PAWN_labelShort} ở trong {BUILDING}, không thể tham gia</PsychicRitualLeaveReason_InsideBuilding>
+	<PsychicRitualLeaveReason_Humanlike>{PAWN_labelShort} là sinh vật hình người</PsychicRitualLeaveReason_Humanlike>
+	<PsychicRitualLeaveReason_NonHumanlike>{PAWN_labelShort} không phải là sinh vật hình người</PsychicRitualLeaveReason_NonHumanlike>
+	<PsychicRitualLeaveReason_Prisoner>{PAWN_labelShort} là tù nhân</PsychicRitualLeaveReason_Prisoner>
+	<PsychicRitualLeaveReason_Slave>{PAWN_labelShort} là nô lệ</PsychicRitualLeaveReason_Slave>
+	<PsychicRitualLeaveReason_Freeman>{PAWN_labelShort} là người tự do</PsychicRitualLeaveReason_Freeman>
+	<PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort} đang ở giai đoạn {STAGE}</PsychicRitualLeaveReason_DevelopmentalStage>
+	<PsychicRitualLeaveReason_CannotReachTarget>{PAWN_labelShort} không thể đến mục tiêu</PsychicRitualLeaveReason_CannotReachTarget>
+	<PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort} đang ngủ</PsychicRitualLeaveReason_Sleeping>
+	<PsychicRitualLeaveReason_Mutant>{PAWN_labelShort} không phải là con người</PsychicRitualLeaveReason_Mutant>
+	<PsychicRitualLeaveReason_IdeoUnwilling>{PAWN_labelShort} không thể tham gia vì tín ngưỡng {IDEO_name}</PsychicRitualLeaveReason_IdeoUnwilling>
+	<PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} không có độ nhạy tâm linh</PsychicRitualLeaveReason_NoPsychicSensitivity>
+	<PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort} là thành viên tạm thời của phái</PsychicRitualLeaveReason_TemporaryFactionMember>
+	<PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort} đang làm việc khác</PsychicRitualLeaveReason_PawnBusyWithLord>
+	<PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort} đang làm việc khác</PsychicRitualLeaveReason_ForcedByQuest>
+	<PsychicRitualToil_Goto_JobReport_Moving>Đang di chuyển đến vị trí</PsychicRitualToil_Goto_JobReport_Moving>
+	<PsychicRitualToil_Goto_JobReport_Waiting>Đang chờ người khác đến vị trí</PsychicRitualToil_Goto_JobReport_Waiting>
+	<PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort} không thể tìm đủ {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+	<PsychicRitualToil_GatherOfferings_JobReport>Đang thu thập vật tế</PsychicRitualToil_GatherOfferings_JobReport>
+	<PsychicRitualToil_InvokeHorax_JobReport_Invoker>Đang chủ trì nghi lễ tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
+	<PsychicRitualToil_InvokeHorax_JobReport_Chanter>Đang thực hiện nghi lễ tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+	<PsychicRitualToil_InvokeHorax_JobReport_Target>Mục tiêu của nghi lễ tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Target>
+	<PsychicRitualToil_InvokeHorax_MissingRequiredOffering>{0} không có đủ {1}</PsychicRitualToil_InvokeHorax_MissingRequiredOffering>
+	<PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>{PAWN_labelShort} đã rời khỏi vị trí</PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>
+	<PsychicRitualToil_InvokeHorax_JobReport_Defender>Đang bảo vệ nghi lễ tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Defender>
+	<PsychicRitualToil_GatherForInvocation_Report>Đang chờ</PsychicRitualToil_GatherForInvocation_Report>
+	<PsychicRitualToil_InvokeHorax_Report>Đang triệu hồi hư không</PsychicRitualToil_InvokeHorax_Report>
+	<PsychicRitualDef_TargetDestroyed>{TARGET_labelShort} đã bị phá hủy</PsychicRitualDef_TargetDestroyed>
+	<PsychicRitualDef_InvocationCircle_InvokerLost>{INVOKER_labelShort} không thể tiếp tục nghi lễ tâm linh</PsychicRitualDef_InvocationCircle_InvokerLost>
+	<PsychicRitualDef_InvocationCircle_AreaMustBeClear>Khu vực mục tiêu phải không bị chắn</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
+	<PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>{PAWN_labelShort} độ nhạy tâm linh</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+	<PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>Mức độ phù hợp của {PAWN_labelShort} với hiện tượng tâm linh.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
+	<PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>Các vật phẩm này giúp tập trung năng lượng tâm linh cho nghi lễ.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+	<PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>Ảnh hưởng văn hóa</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
+	<PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>Mức độ ảnh hưởng của hình thức văn hóa đến nghi lễ tâm linh.</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
+	<PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0} đã bắt đầu thực hiện nghi lễ tâm linh {1}.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+	<PsychicRitualAreaObstructed>Khu vực nghi lễ tâm linh bị chắn</PsychicRitualAreaObstructed>
+	<NotEnoughAnimals>Cộng đồng sinh thái này thiếu đủ động vật.</NotEnoughAnimals>
+	<NoNearbyShamblers>Không có quái vật đi lang thang gần đây.</NoNearbyShamblers>
+	<PitGateAlreadyExists>Đã có một cái hố lớn trên bản đồ hiện tại.</PitGateAlreadyExists>
+	<InvokerTooYoung>Cần độ tuổi tối thiểu của người khởi xướng: {0}.</InvokerTooYoung>
+	<PsychicRitualTargetTooYoung>Cần độ tuổi tối thiểu của mục tiêu: {0}.</PsychicRitualTargetTooYoung>
+	<CronophagyAgeChange>{INVOKER_labelShort} sẽ trở thành {1} tuổi, {TARGET_labelShort} sẽ trở thành {3} tuổi.</CronophagyAgeChange>
+	<PhilophagyTransferReport>{INVOKER_labelShort} sẽ rút ra {1} điểm kinh nghiệm {SKILL_label} từ {TARGET_labelShort}.</PhilophagyTransferReport>
+	<NoSkillsToTransfer>{TARGET_labelShort} không có kỹ năng nào để rút ra.</NoSkillsToTransfer>
+</LanguageData>

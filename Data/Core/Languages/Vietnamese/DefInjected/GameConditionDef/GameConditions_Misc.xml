@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Aurora.label>Ánh sáng cực quang</Aurora.label>
+	<Aurora.description>Một ánh sáng cực quang đẹp lung linh chiếu sáng bầu trời, những màu sắc nhấp nhô sẽ làm cho những người nhìn thấy bên ngoài cảm thấy vui vẻ.</Aurora.description>
+	<Aurora.endMessage>Ánh sáng cực quang đã kết thúc.</Aurora.endMessage>
+	<Aurora.letterText>Một ánh sáng cực quang đẹp lung linh chiếu sáng bầu trời, những màu sắc nhấp nhô sẽ làm cho những người nhìn thấy bên ngoài cảm thấy vui vẻ và làm cho đêm trở nên sáng hơn.</Aurora.letterText>
+	<ClimateCycle.label>Chu kỳ khí hậu</ClimateCycle.label>
+	<ClimateCycle.description>Do quỹ đạo quay của hành tinh này hình elip, nên chu kỳ khí hậu cần mất vài năm.</ClimateCycle.description>
+	<ColdSnap.label>Đợt lạnh</ColdSnap.label>
+	<ColdSnap.description>Một đợt lạnh hiếm gặp đang làm đông cứng khu vực này.</ColdSnap.description>
+	<ColdSnap.descriptionFuture>Một đợt không khí lạnh sẽ kéo dài trong [map_definite] trong [gameConditionDuration_duration], gây hại cho các sinh vật và cây trồng không được bảo vệ.</ColdSnap.descriptionFuture>
+	<ColdSnap.endMessage>Đợt lạnh đã kết thúc.</ColdSnap.endMessage>
+	<ColdSnap.letterText>Một đợt lạnh không bình thường đột ngột ập đến.\n\nHạ thân nhiệt do đợt lạnh có thể nhanh chóng giết chết những sinh vật không chịu lạnh. Hãy đảm bảo có nơi trú ẩn với nhiệt độ phù hợp và trang phục ấm áp, nếu có thể, hãy thu hoạch sản phẩm trước khi chúng bị đóng băng.</ColdSnap.letterText>
+	<Eclipse.label>Nhật thực</Eclipse.label>
+	<Eclipse.description>Một cái bóng của thiên thể đã chiếu xuống hành tinh này, gây ra hiện tượng nhật thực. Trong thời gian nhật thực, ngay cả khi ban ngày cũng sẽ rất tối.</Eclipse.description>
+	<Eclipse.endMessage>Nhật thực đã kết thúc.</Eclipse.endMessage>
+	<Eclipse.letterText>Một vệ tinh của hành tinh này đã di chuyển vào vị trí chính giữa, gây ra hiện tượng nhật thực.</Eclipse.letterText>
+	<Flashstorm.label>Bão sét</Flashstorm.label>
+	<Flashstorm.description>Một cơn bão sét rất bất thường đang liên tục tấn công một khu vực nhỏ.</Flashstorm.description>
+	<Flashstorm.endMessage>Bão sét đã kết thúc.</Flashstorm.endMessage>
+	<Flashstorm.letterText>Một cơn bão sét rất bất thường đang liên tục tấn công một khu vực nhỏ trong địa phương. Điều này sẽ gây ra hỏa hoạn quy mô lớn.</Flashstorm.letterText>
+	<HeatWave.label>Đợt nắng nóng</HeatWave.label>
+	<HeatWave.description>Một đợt nắng nóng với nhiệt độ cực cao đang làm khô khu vực này.</HeatWave.description>
+	<HeatWave.descriptionFuture>Đợt nắng nóng kéo dài sẽ tiếp tục trong [map_definite] trong [gameConditionDuration_duration], gây hại cho cây trồng địa phương và có thể giết chết những người hoặc động vật không chịu nổi nhiệt.</HeatWave.descriptionFuture>
+	<HeatWave.endMessage>Đợt nắng nóng đã kết thúc.</HeatWave.endMessage>
+	<HeatWave.letterText>Một đợt nắng nóng rất bất thường đã bắt đầu.\n\nĐợt nắng nóng có thể gây ra tình trạng say nắng chết người. Bạn có thể giữ cho không gian trong nhà mát mẻ bằng máy làm mát hoặc điều hòa không khí, hoặc tìm đến những vùng núi cao để tránh nóng.</HeatWave.letterText>
+	<Planetkiller.label>Vũ khí hủy diệt hành tinh</Planetkiller.label>
+	<Planetkiller.description>Một vũ khí hủy diệt hành tinh đang tiến gần đến hành tinh này. Khi nó va chạm, tất cả sự sống sẽ bị tiêu diệt.</Planetkiller.description>
+	<PsychicDrone.label>Âm thanh tâm linh</PsychicDrone.label>
+	<PsychicDrone.description>Một thiết bị siêu nhiên nào đó ở vùng xa đang phát tín hiệu tâm linh qua một bộ khuếch đại tín hiệu quỹ đạo, khiến người ta phát điên.</PsychicDrone.description>
+	<PsychicDrone.descriptionFuture>Một loạt tín hiệu tâm linh [psychicDroneLevel] sẽ tiếp tục vang vọng trong [gameConditionDuration_duration] tại [map_definite], khiến tất cả những người định cư [psychicDroneGender] trở nên điên cuồng.</PsychicDrone.descriptionFuture>
+	<PsychicDrone.endMessage>Âm thanh tâm linh đã kết thúc.</PsychicDrone.endMessage>
+	<PsychicDrone.letterText>Mỗi người định cư {0} sẽ cảm thấy một cơn giận dữ và lo âu!\n\nGiống như có điều gì đó đang kích thích ngọn lửa thù hận trong lòng họ từ xa. Một thực thể chưa biết đang phát tín hiệu tâm linh khiến người ta phát điên qua một bộ khuếch đại tín hiệu quỹ đạo, nó chỉ ảnh hưởng đến {0}. Trong vài ngày tới, tâm trạng của một số người sẽ trở nên tồi tệ hơn.\n\nMức độ âm thanh tâm linh hiện tại là {1}.</PsychicDrone.letterText>
+	<PsychicSoothe.label>Gợn sóng an thần tâm linh</PsychicSoothe.label>
+	<PsychicSoothe.description>Một thiết bị siêu nhiên nào đó ở vùng xa đang phát tín hiệu tâm linh qua một bộ khuếch đại tín hiệu quỹ đạo, khiến người ta cảm thấy bình tĩnh và an ổn.</PsychicSoothe.description>
+	<PsychicSoothe.endMessage>Gợn sóng an thần tâm linh đã kết thúc.</PsychicSoothe.endMessage>
+	<PsychicSoothe.letterText>Mỗi người định cư {0} sẽ cảm thấy hạnh phúc và thoải mái!\n\nGiống như có điều gì đó đang khơi dậy hy vọng trong lòng họ từ xa. Một thực thể chưa biết đang phát tín hiệu tâm linh khiến người ta bình tĩnh qua một bộ khuếch đại tín hiệu quỹ đạo, nó chỉ ảnh hưởng đến {0}. Trong vài ngày tới, tâm trạng của một số người sẽ trở nên tốt hơn.</PsychicSoothe.letterText>
+	<SolarFlare.label>Phát sáng mặt trời</SolarFlare.label>
+	<SolarFlare.description>Một vụ bùng phát mặt trời đang tấn công hành tinh này, gây ra sự nhiễu loạn điện từ mạnh mẽ và làm cho hầu hết các thiết bị điện không hoạt động.</SolarFlare.description>
+	<SolarFlare.endMessage>Phát sáng mặt trời đã kết thúc.</SolarFlare.endMessage>
+	<SolarFlare.letterText>Một vụ bùng phát mặt trời đã bắt đầu.\n\nBức xạ điện từ mạnh sẽ khiến tất cả các thiết bị điện không hoạt động.\n\nHiện tượng này sẽ kéo dài khoảng một ngày.</SolarFlare.letterText>
+	<ToxicFallout.label>Bụi độc hại</ToxicFallout.label>
+	<ToxicFallout.description>Bụi độc hại từ vùng xa đang từ từ lấp đầy khu vực này. Bất kỳ con người hoặc động vật nào không ở dưới mái nhà sẽ từ từ bị nhiễm độc, và các vật phẩm sẽ bị ăn mòn và lão hóa nhanh chóng.</ToxicFallout.description>
+	<ToxicFallout.descriptionFuture>Một đám bụi độc hại sẽ bao phủ khu vực [map_definite] trong [gameConditionDuration_duration], giết chết tất cả động thực vật còn ở ngoài trời.</ToxicFallout.descriptionFuture>
+	<ToxicFallout.endMessage>Bụi độc hại đã gần như biến mất.</ToxicFallout.endMessage>
+	<ToxicFallout.letterText>Bụi độc hại từ vùng xa đang từ từ lấp đầy khu vực này.\n\nBất kỳ con người hoặc động vật nào không ở dưới mái nhà sẽ từ từ bị nhiễm độc.\n\nBụi độc hại sẽ tồn tại từ vài ngày đến một thời gian dài.</ToxicFallout.letterText>
+	<VolcanicWinter.label>Mùa đông núi lửa</VolcanicWinter.label>
+	<VolcanicWinter.description>Khí quyển địa phương bị ngập tràn bởi một lượng lớn khói bụi từ hoạt động núi lửa hoặc hỏa hoạn ở xa, khiến ánh sáng mặt trời bị che khuất. Nhiệt độ giảm, tốc độ sinh trưởng của thực vật chậm lại.</VolcanicWinter.description>
+	<VolcanicWinter.descriptionFuture>Một lớp bụi dày sẽ bao phủ bầu khí quyển trên cao, dự kiến sẽ kéo dài trong [gameConditionDuration_duration] tại khu vực [map_definite], gây hại nghiêm trọng cho hệ sinh thái địa phương.</VolcanicWinter.descriptionFuture>
+	<VolcanicWinter.endMessage>Bụi núi lửa đã gần như biến mất.</VolcanicWinter.endMessage>
+	<VolcanicWinter.letterText>Khí quyển địa phương bị ngập tràn bởi một lượng lớn khói bụi từ hoạt động núi lửa hoặc hỏa hoạn ở xa.\n\nÁnh sáng mặt trời bị che khuất.\n\nNhiệt độ giảm, tốc độ sinh trưởng của thực vật chậm lại. Tình trạng này sẽ kéo dài vài tuần hoặc có thể lâu hơn.</VolcanicWinter.letterText>
+</LanguageData>

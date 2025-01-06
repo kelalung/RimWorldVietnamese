@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chemical.label>Hóa chất</Chemical.label>
+	<Gaming_Cerebral.label>Trò chơi trí tuệ</Gaming_Cerebral.label>
+	<Gaming_Dexterity.label>Trò chơi khéo léo</Gaming_Dexterity.label>
+	<Gluttonous.label>Tham ăn</Gluttonous.label>
+	<HighCulture.label>Âm nhạc</HighCulture.label>
+	<Meditative.label>Thiền</Meditative.label>
+	<Reading.label>Đọc sách</Reading.label>
+	<Social.label>Xã hội</Social.label>
+	<Telescope.label>Nghiên cứu thiên văn</Telescope.label>
+	<Television.label>Xem tivi</Television.label>
+</LanguageData>

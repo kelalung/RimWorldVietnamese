@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Luciferium.label>Luciferium</Luciferium.label>
+	<Luciferium.description>Hỗn hợp của các nano máy móc cao cấp từ thế giới lấp lánh, nâng cao khả năng toàn diện. Thậm chí theo thời gian, nó có thể chữa lành vết thương cũ và tổn thương não. Nhưng không may, nếu không được tái sử dụng liều lượng thích hợp mỗi năm ngày, các nano máy móc trong cơ thể sẽ mất khả năng phối hợp, dẫn đến chủ thể bị điên cuồng liên tục cho đến chết.\n\nSau khi tiêu thụ loại nano máy móc này lần đầu tiên, gần như không có cách nào để đào thải ra ngoài.\n\nTrong thế giới đô thị, người ta gọi Luciferium là "thỏa thuận với quỷ". Nhiều người bị buộc phải tự tay giết chết bạn bè của mình khi không thể có được những viên thuốc đỏ hấp dẫn này.</Luciferium.description>
+	<Luciferium.ingestible.ingestCommandString>Uống {0}</Luciferium.ingestible.ingestCommandString>
+	<Luciferium.ingestible.ingestReportString>Đang uống {0}.</Luciferium.ingestible.ingestReportString>
+</LanguageData>

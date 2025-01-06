@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Malnutrition.label>Thiếu dinh dưỡng</Malnutrition.label>
+	<Malnutrition.description>Chất béo và trọng lượng cơ thể thấp hơn mức bình thường, thường do đói kéo dài. Thiếu dinh dưỡng sẽ khiến bệnh nhân tâm trạng u ám, nhưng tác động ban đầu là nhẹ. Tuy nhiên, nếu không có thức ăn trong thời gian dài, thiếu dinh dưỡng sẽ khiến bệnh nhân dần mất đi khối lượng cơ bắp và khả năng làm việc. Trong tình trạng nghiêm trọng nhất, thiếu dinh dưỡng có thể dẫn đến cái chết. Thiếu dinh dưỡng sẽ tự nhiên hồi phục theo thời gian sau khi ăn. Động vật trong tình trạng thiếu dinh dưỡng cần nhiều thức ăn hơn mức bình thường.</Malnutrition.description>
+	<Malnutrition.stages.trivial.label>Nhẹ</Malnutrition.stages.trivial.label>
+	<Malnutrition.stages.minor.label>Khá nhẹ</Malnutrition.stages.minor.label>
+	<Malnutrition.stages.moderate.label>Vừa phải</Malnutrition.stages.moderate.label>
+	<Malnutrition.stages.severe.label>Nghiêm trọng</Malnutrition.stages.severe.label>
+	<Malnutrition.stages.extreme.label>Cực kỳ nghiêm trọng</Malnutrition.stages.extreme.label>
+</LanguageData>

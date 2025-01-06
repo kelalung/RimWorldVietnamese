@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallAdrenalHeart.label>Gắn trái tim hormone</InstallAdrenalHeart.label>
+	<InstallAdrenalHeart.description>Gắn trái tim hormone.</InstallAdrenalHeart.description>
+	<InstallAdrenalHeart.jobString>Đang gắn trái tim hormone.</InstallAdrenalHeart.jobString>
+	<InstallCorrosiveHeart.label>Gắn trái tim axit</InstallCorrosiveHeart.label>
+	<InstallCorrosiveHeart.description>Gắn trái tim axit.</InstallCorrosiveHeart.description>
+	<InstallCorrosiveHeart.jobString>Đang gắn trái tim axit.</InstallCorrosiveHeart.jobString>
+	<InstallGhoulBarbs.label>Gắn gai xác sống</InstallGhoulBarbs.label>
+	<InstallGhoulBarbs.description>Gắn gai xác sống.</InstallGhoulBarbs.description>
+	<InstallGhoulBarbs.jobString>Đang gắn gai xác sống.</InstallGhoulBarbs.jobString>
+	<InstallGhoulPlating.label>Gắn lớp bảo vệ xác sống</InstallGhoulPlating.label>
+	<InstallGhoulPlating.description>Gắn lớp bảo vệ xác sống.</InstallGhoulPlating.description>
+	<InstallGhoulPlating.jobString>Đang gắn lớp bảo vệ xác sống.</InstallGhoulPlating.jobString>
+	<InstallMetalbloodHeart.label>Gắn trái tim máu thép</InstallMetalbloodHeart.label>
+	<InstallMetalbloodHeart.description>Gắn trái tim máu thép.</InstallMetalbloodHeart.description>
+	<InstallMetalbloodHeart.jobString>Đang gắn trái tim máu thép.</InstallMetalbloodHeart.jobString>
+	<InstallRevenantVertebrae.label>Gắn cột sống hồn ma</InstallRevenantVertebrae.label>
+	<InstallRevenantVertebrae.description>Gắn cột sống hồn ma.</InstallRevenantVertebrae.description>
+	<InstallRevenantVertebrae.jobString>Đang gắn cột sống hồn ma.</InstallRevenantVertebrae.jobString>
+</LanguageData>

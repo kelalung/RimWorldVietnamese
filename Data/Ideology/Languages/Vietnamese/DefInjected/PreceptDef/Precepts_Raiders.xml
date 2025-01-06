@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Raiding_Required.label>Cần thiết</Raiding_Required.label>
+<Raiding_Required.description>Chúng tôi không tham gia vào công việc thông thường, chúng tôi chỉ là "người vận chuyển" của cải, những người yếu đuối là khách hàng chính của chúng tôi. Nếu không, đó sẽ là một sự sỉ nhục lớn.</Raiding_Required.description>
+<Raiding_Required.comps.3.thoughtStageDescriptions.0>Đã {DAYSSINCELASTRAIDTHRESHOLD} ngày kể từ lần tấn công cuối cùng</Raiding_Required.comps.3.thoughtStageDescriptions.0>
+<Raiding_Required.comps.3.thoughtStageDescriptions.1>Đã hơn {DAYSSINCELASTRAIDTHRESHOLD} ngày kể từ lần tấn công cuối cùng</Raiding_Required.comps.3.thoughtStageDescriptions.1>
+<Raiding_Respected.label>Được tôn trọng</Raiding_Respected.label>
+<Raiding_Respected.description>Chúng tôi không tham gia vào công việc thông thường, chúng tôi chỉ là "người vận chuyển" của cải, những người yếu đuối là khách hàng chính của chúng tôi. Nếu không, đó sẽ là dấu hiệu của sự nhục nhã.</Raiding_Respected.description>
+<Raiding_Respected.comps.3.thoughtStageDescriptions.0>Đã {DAYSSINCELASTRAIDTHRESHOLD} ngày kể từ lần tấn công cuối cùng</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
+<Raiding_Respected.comps.3.thoughtStageDescriptions.1>Đã hơn {DAYSSINCELASTRAIDTHRESHOLD} ngày kể từ lần tấn công cuối cùng</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
+</LanguageData>

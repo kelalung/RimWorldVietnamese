@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bite.label>Cắn</Bite.label>
+	<Bite.deathMessage>{0} đã bị cắn chết.</Bite.deathMessage>
+	<Blunt.label>Chấn thương</Blunt.label>
+	<Blunt.deathMessage>{0} đã bị đánh chết.</Blunt.deathMessage>
+	<Crush.label>Ép</Crush.label>
+	<Crush.deathMessage>{0} đã bị ép chết.</Crush.deathMessage>
+	<Cut.label>Cắt</Cut.label>
+	<Cut.deathMessage>{0} đã chết do cắt.</Cut.deathMessage>
+	<Demolish.label>Chấn thương</Demolish.label>
+	<Demolish.deathMessage>{0} đã bị đánh chết.</Demolish.deathMessage>
+	<Poke.label>Đâm</Poke.label>
+	<Poke.deathMessage>{0} đã bị đánh chết.</Poke.deathMessage>
+	<Scratch.label>Cào</Scratch.label>
+	<Scratch.deathMessage>{0} đã bị cào chết.</Scratch.deathMessage>
+	<ScratchToxic.label>Cào độc</ScratchToxic.label>
+	<ScratchToxic.deathMessage>{0} đã chết do cào độc.</ScratchToxic.deathMessage>
+	<Stab.label>Đâm</Stab.label>
+	<Stab.deathMessage>{0} đã bị đâm chết.</Stab.deathMessage>
+	<ToxicBite.label>Cắn độc</ToxicBite.label>
+	<ToxicBite.deathMessage>{0} đã chết do cắn độc.</ToxicBite.deathMessage>
+</LanguageData>

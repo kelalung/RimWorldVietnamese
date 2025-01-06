@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SanguophageShip.questContentRules.rulesStrings>
+    <li>sanguophageShuttleCrashedLetterLabel-&gt;Tàu vũ trụ bị rơi</li>
+    <li>sanguophageShuttleCrashedLetterText-&gt;Một chiếc tàu vũ trụ chở một chủ máu tộc và [thrallCount] nô lệ máu đã bị rơi gần đây, họ sẽ rời khỏi đống đổ nát và chuẩn bị chiến đấu.</li>
+    <li>reinforcementsArrivedLetterLabel-&gt;Nô lệ máu tiếp viện</li>
+    <li>reinforcementsArrivedLetterText-&gt;Các nô lệ máu khác đang đến bằng khoang vận chuyển để hỗ trợ chủ máu tộc bị rơi.</li>
+    <li>assaultBeginLetterLabel-&gt;Bắt đầu tấn công</li>
+    <li>assaultBeginLetterText-&gt;Chủ máu tộc thù địch và các nô lệ máu của [sanguophage_possessive] bắt đầu tấn công thuộc địa.</li>
+</SanguophageShip.questContentRules.rulesStrings>
+<SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn đã chặn được một tín hiệu cầu cứu! Một chiếc tàu vũ trụ chở một chủ máu tộc và [thrallCount] nô lệ máu đã gặp sự cố động cơ. Bạn có thể sử dụng tín hiệu để dẫn dắt nó đến khu vực [map_definite] để rơi.\n\nKhi tàu vũ trụ rơi, bạn có thể chiến đấu với máu tộc và các nô lệ của [sanguophage_possessive]. Nếu bạn bắt được một máu tộc, bạn có thể buộc [sanguophage_objective] biến một tín đồ của bạn thành máu tộc.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo-&gt;(*Gray) Về máu tộc (Huyết tộc): Máu tộc là những sinh vật siêu nhiên được tăng cường, và Huyết tộc là dòng tộc nổi tiếng nhất trong số đó. Họ rất đẹp và thông minh, có khả năng tự chữa lành mọi vết thương, không bao giờ bị bệnh tật hay độc tố làm phiền. Trong chiến đấu, họ có thể bắn ra những mũi nhọn chết người và chữa lành đồng đội. Tuy nhiên, cái giá phải trả là họ phải thường xuyên tiêu thụ máu người và thường xuyên rơi vào trạng thái ngủ chết dài hạn. Họ sợ lửa và sẽ bị yếu đi bởi tia UV. (/Gray)</li>
+</SanguophageShip.questDescriptionRules.rulesStrings>
+<SanguophageShip.questNameRules.rulesStrings>
+    <li>questName-&gt;[shipAdjective][shipNoun]</li>
+    <li>shipAdjective-&gt;Máu tộc</li>
+    <li>shipAdjective-&gt;Khát máu</li>
+    <li>shipAdjective-&gt;Máu</li>
+    <li>shipAdjective-&gt;Bóng tối</li>
+    <li>shipAdjective-&gt;Đen tối</li>
+    <li>shipAdjective-&gt;Đỏ thẫm</li>
+    <li>shipAdjective-&gt;Màu đỏ</li>
+    <li>shipAdjective-&gt;Vết máu</li>
+    <li>shipAdjective-&gt;Máu</li>
+    <li>shipAdjective-&gt;Màu đỏ máu</li>
+    <li>shipNoun-&gt;Tàu vũ trụ</li>
+    <li>shipNoun-&gt;Tàu vũ trụ</li>
+    <li>shipNoun-&gt;Phương tiện bay</li>
+    <li>shipNoun-&gt;Mảnh vỡ</li>
+    <li>shipNoun-&gt;Đoạn vỡ</li>
+    <li>shipNoun-&gt;Vận chuyển</li>
+</SanguophageShip.questNameRules.rulesStrings>
+</LanguageData>

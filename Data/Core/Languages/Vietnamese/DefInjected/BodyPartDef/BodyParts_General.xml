@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Brain.label>Não</Brain.label>
+	<Ear.label>Tai</Ear.label>
+	<Eye.label>Mắt</Eye.label>
+	<Foot.label>Chân</Foot.label>
+	<Head.label>Đầu</Head.label>
+	<Jaw.label>Hàm dưới</Jaw.label>
+	<Leg.label>Chân</Leg.label>
+	<Neck.label>Cổ</Neck.label>
+	<Nose.label>Mũi</Nose.label>
+	<Ribcage.label>Xương sườn</Ribcage.label>
+	<Skull.label>Xương sọ</Skull.label>
+	<Spine.label>Cột sống</Spine.label>
+	<Tongue.label>Liếm</Tongue.label>
+	<Tongue.removeRecipeLabelOverride>Gỡ ra</Tongue.removeRecipeLabelOverride>
+</LanguageData>

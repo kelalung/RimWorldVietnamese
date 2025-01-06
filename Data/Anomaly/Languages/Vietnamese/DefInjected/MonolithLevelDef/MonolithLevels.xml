@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Disrupted.monolithDescription>Những mảnh vụn của khối đá khổng lồ kết nối thế giới của chúng ta với hư không đã bị vỡ nát. Những đường nét méo mó từng bò lổm ngổm trên bề mặt giờ đã lặng im. Bạn có thể điều tra những mảnh đá này để tìm hiểu thêm về hiện tượng hư không.</Disrupted.monolithDescription>
+	<Disrupted.monolithLabel>Khối đá sụp đổ</Disrupted.monolithLabel>
+	<Embraced.levelInspectText>Cấp độ 4: Hoàn toàn tỉnh thức</Embraced.levelInspectText>
+	<Embraced.monolithLabel>Khối đá hư không</Embraced.monolithLabel>
+	<Gleaming.extraQuestDescription>Hư không đã được đánh thức, kết nối tâm hồn giữa hai thế giới đã mở ra. Bóng tối vô tận của hư không tràn vào thực tại của chúng ta, xuất hiện từ trí tuệ siêu phàm đầy phẫn nộ.</Gleaming.extraQuestDescription>
+	<Gleaming.levelInspectText>Cấp độ 4: Hoàn toàn tỉnh thức</Gleaming.levelInspectText>
+	<Gleaming.monolithLabel>Khối đá hư không</Gleaming.monolithLabel>
+	<Inactive.activateFloatMenuText>Điều tra {0}</Inactive.activateFloatMenuText>
+	<Inactive.activateGizmoDescription>Gửi một người định cư đi điều tra khối đá.</Inactive.activateGizmoDescription>
+	<Inactive.activateGizmoText>Điều tra</Inactive.activateGizmoText>
+	<Inactive.activateQuestText>Gửi một người định cư đi điều tra khối đá.</Inactive.activateQuestText>
+	<Inactive.levelInspectText>Bề mặt khối đá được khắc những đường nét méo mó, giao thoa tạo thành một hình ảnh kinh hoàng.</Inactive.levelInspectText>
+	<Inactive.monolithCanBeActivatedText>Bây giờ có thể điều tra.</Inactive.monolithCanBeActivatedText>
+	<Inactive.monolithLabel>Khối đá đổ</Inactive.monolithLabel>
+	<Inactive.pawnSentToActivateMessage>Đã gửi {PAWN_nameDef} đi điều tra khối đá.</Inactive.pawnSentToActivateMessage>
+	<Stirring.activatableLetterLabel>Điều chỉnh khối đá</Stirring.activatableLetterLabel>
+	<Stirring.activatableLetterText>Bạn hiện đã nắm đủ kiến thức về hiện tượng hư không để điều chỉnh khối đá, mở rộng tâm hồn của nó.\n\nĐiều này sẽ thu hút những thực thể bất thường nguy hiểm hơn.</Stirring.activatableLetterText>
+	<Stirring.activatedLetterText>Khi khối đá biến dạng, tinh thần của {PAWN_nameDef} bị một cảnh tượng kinh hoàng chinh phục. {PAWN_pronoun} ngay lập tức hiểu ra.\n\nKhối đá chính là một cánh cửa, và bạn đang từ từ mở cánh cửa đó. Ở phía bên kia, {PAWN_nameDef} cảm nhận được một tồn tại phi nhân vô cùng bí ẩn, chứa đựng cơn thịnh nộ vô tận. Trí tuệ siêu phàm tối tăm đó đang sục sôi, ảnh hưởng của nó lên thực tại sẽ càng tăng lên.\n\n - Đã mở khóa loại kiến trúc: Hiện tượng\n - Đã mở khóa thẻ nghiên cứu: Hiện tượng\n - Đã mở khóa bách khoa toàn thư thực thể\n - Bạn hiện có thể tiến hành dự án nghiên cứu hiện tượng thông qua việc điều tra khối đá và các thực thể khác.</Stirring.activatedLetterText>
+	<Stirring.activateFloatMenuText>Điều chỉnh {0}</Stirring.activateFloatMenuText>
+	<Stirring.activateGizmoDescription>Gửi một người định cư để điều chỉnh khối đá.\n\nĐiều này sẽ thu hút nhiều thực thể chưa biết và nguy hiểm hơn.</Stirring.activateGizmoDescription>
+	<Stirring.activateGizmoText>Điều chỉnh</Stirring.activateGizmoText>
+	<Stirring.activateQuestText>Gửi một người định cư để điều chỉnh khối đá.</Stirring.activateQuestText>
+	<Stirring.extraQuestDescription>Bạn đã kích hoạt khối đá. Đây là một con đường tràn ngập năng lượng tâm hồn, và chỉ mới được mở một phần. Ở đầu bên kia, một thực thể kinh hoàng không thể mô tả đang rục rịch, chạm vào thế giới của chúng ta.\n\nKhối đá dường như chỉ mới được kích hoạt một phần, và có vẻ như không thể đóng lại. Để hiểu thêm thông tin, bạn cần phải kích hoạt nó hơn nữa, điều này yêu cầu hoàn thành một số dự án nghiên cứu đặc biệt.</Stirring.extraQuestDescription>
+	<Stirring.levelInspectText>Cấp độ 1: Rung động và tiếng vo ve</Stirring.levelInspectText>
+	<Stirring.monolithCanBeActivatedText>Bây giờ có thể điều chỉnh.</Stirring.monolithCanBeActivatedText>
+	<Stirring.monolithLabel>Khối đá hư không</Stirring.monolithLabel>
+	<Stirring.pawnSentToActivateMessage>Đã gửi {PAWN_nameDef} đi điều chỉnh khối đá.</Stirring.pawnSentToActivateMessage>
+	<VoidAwakened.activatedLetterText>Bầu trời trở nên u ám, không khí tràn ngập những lời thì thầm ác độc. Khối đá đã bắt đầu tỉnh dậy. Hành động của bạn đã thu hút sự chú ý của một tồn tại vượt quá nhận thức của nhân loại.\n\nSẽ sớm có những cấu trúc hư không xuất hiện trong thực tại. Kích hoạt những cấu trúc hư không này để hoàn toàn đánh thức khối đá.\n\nLàn sóng đầu tiên sẽ xuất hiện nhanh chóng. Hãy chuẩn bị sẵn sàng.</VoidAwakened.activatedLetterText>
+	<VoidAwakened.extraQuestDescription>Khối đá đã được đánh thức, kết nối tâm hồn giữa hai thế giới đã được mở. Bóng tối của hư không tràn vào thực tại của chúng ta, và nguồn gốc chính là trí tuệ siêu phàm tối tăm chứa đựng cơn thịnh nộ vô tận.</VoidAwakened.extraQuestDescription>
+	<VoidAwakened.levelInspectText>Cấp độ 3: Thời khắc tỉnh dậy dần</VoidAwakened.levelInspectText>
+	<VoidAwakened.monolithLabel>Khối đá hư không</VoidAwakened.monolithLabel>
+	<Waking.activatableLetterLabel>Đánh thức khối đá</Waking.activatableLetterLabel>
+	<Waking.activatableLetterText>Bạn hiện đã nắm đủ kiến thức về hiện tượng tối tăm để hoàn toàn đánh thức khối đá hư không, mở ra một con đường tâm hồn hai chiều giữa hai thế giới.\n\nXin lưu ý: Một khi bắt đầu đánh thức khối đá hư không, sẽ không có đường quay lại. Toàn bộ khu vực sẽ bị bóng tối bất thường bao trùm, những thực thể kinh hoàng sẽ ập đến như thủy triều.\n\nHãy đảm bảo rằng thuộc địa của bạn được chiếu sáng đầy đủ và chuẩn bị kỹ càng.</Waking.activatableLetterText>
+	<Waking.activatedLetterText>Bằng cách điều chỉnh khối đá, nó càng trở nên méo mó và phát triển trở lại. Khi sự biến đổi này diễn ra, {PAWN_nameDef} đã có thể nhìn thấy những điều ẩn giấu sau đó. {PAWN_pronoun} cuối cùng đã hiểu hoàn toàn.\n\nKhối đá chính là một cánh cửa, và những gì bạn làm chính là từ từ mở cánh cửa đó. Ở phía bên kia, {PAWN_nameDef} cảm nhận được một tồn tại phi nhân bí ẩn, chứa đựng cơn thịnh nộ vô tận. Trí tuệ siêu phàm tối tăm đó đang sục sôi, ảnh hưởng của nó lên thực tại sẽ càng tăng lên.\n\n - Bây giờ có thể phát hiện những thực thể mới.</Waking.activatedLetterText>
+	<Waking.activateFloatMenuText>Đánh thức {0}</Waking.activateFloatMenuText>
+	<Waking.activateGizmoDescription>Gửi một người định cư đi đánh thức khối đá. Tín hiệu tâm hồn này có thể được phát hiện trong bán kính hàng trăm dặm và sẽ thu hút nhiều thực thể kinh hoàng, hãy đảm bảo rằng thuộc địa của bạn đã chuẩn bị đầy đủ.\n\nKhi khối đá được hoàn toàn đánh thức, nó sẽ kết nối thực tại với hư không một cách trực tiếp.</Waking.activateGizmoDescription>
+	<Waking.activateGizmoText>Đánh thức</Waking.activateGizmoText>
+	<Waking.activateQuestText>Gửi một người định cư đi đánh thức khối đá.</Waking.activateQuestText>
+	<Waking.extraQuestDescription>Khối đá là con đường tâm hồn kết nối thực tại với hư không. Ở đó, một trí tuệ siêu phàm tối tăm đang ẩn nấp, nắm giữ những giấc mơ vô hạn của sự căm ghét và phẫn nộ. Khối đá hiện đang ở trạng thái kích hoạt một phần. Nếu bạn tiếp tục kích hoạt nó, có thể bạn sẽ tìm ra cách để đóng nó lại — hoặc ngược lại, tận dụng sức mạnh của nó.</Waking.extraQuestDescription>
+	<Waking.levelInspectText>Cấp độ 2: Nhịp đập tâm hồn</Waking.levelInspectText>
+	<Waking.monolithCanBeActivatedText>Bây giờ có thể đánh thức.</Waking.monolithCanBeActivatedText>
+	<Waking.monolithLabel>Khối đá hư không</Waking.monolithLabel>
+	<Waking.pawnSentToActivateMessage>Đã gửi {PAWN_nameDef} đi đánh thức khối đá.</Waking.pawnSentToActivateMessage>
+</LanguageData>

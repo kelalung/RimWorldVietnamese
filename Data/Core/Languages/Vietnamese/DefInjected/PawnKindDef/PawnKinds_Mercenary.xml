@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Grenadier_Destructive.label>Lính đánh thuê ném lựu đạn</Grenadier_Destructive.label>
+	<Grenadier_Destructive.labelPlural>Lính đánh thuê ném lựu đạn</Grenadier_Destructive.labelPlural>
+	<Grenadier_EMP.label>Lính đánh thuê ném lựu đạn EMP</Grenadier_EMP.label>
+	<Grenadier_EMP.labelPlural>Lính đánh thuê ném lựu đạn EMP</Grenadier_EMP.labelPlural>
+	<Grenadier_Smoke.label>Lính đánh thuê ném lựu đạn khói</Grenadier_Smoke.label>
+	<Mercenary_Elite.label>Lính đánh thuê tinh nhuệ</Mercenary_Elite.label>
+	<Mercenary_Elite.labelPlural>Lính đánh thuê tinh nhuệ</Mercenary_Elite.labelPlural>
+	<Mercenary_Elite_Acidifier.label>Lính đánh thuê tinh nhuệ</Mercenary_Elite_Acidifier.label>
+	<Mercenary_Elite_Acidifier.labelPlural>Lính đánh thuê tinh nhuệ</Mercenary_Elite_Acidifier.labelPlural>
+	<Mercenary_Gunner.label>Lính đánh thuê bắn súng</Mercenary_Gunner.label>
+	<Mercenary_Gunner.labelPlural>Lính đánh thuê bắn súng</Mercenary_Gunner.labelPlural>
+	<Mercenary_Gunner_Acidifier.label>Lính đánh thuê bắn súng</Mercenary_Gunner_Acidifier.label>
+	<Mercenary_Heavy.label>Lính đánh thuê nặng</Mercenary_Heavy.label>
+	<Mercenary_Heavy.labelPlural>Lính đánh thuê nặng</Mercenary_Heavy.labelPlural>
+	<Mercenary_Slasher.label>Lính đánh thuê chém</Mercenary_Slasher.label>
+	<Mercenary_Slasher.labelPlural>Lính đánh thuê chém</Mercenary_Slasher.labelPlural>
+	<Mercenary_Slasher_Acidifier.label>Lính đánh thuê chém</Mercenary_Slasher_Acidifier.label>
+	<Mercenary_Sniper.label>Lính đánh thuê bắn tỉa</Mercenary_Sniper.label>
+	<Mercenary_Sniper.labelPlural>Lính đánh thuê bắn tỉa</Mercenary_Sniper.labelPlural>
+	<Mercenary_Sniper_Acidifier.label>Lính đánh thuê bắn tỉa</Mercenary_Sniper_Acidifier.label>
+	<PirateBoss.label>Thủ lĩnh lính đánh thuê</PirateBoss.label>
+	<PirateBoss.labelPlural>Thủ lĩnh lính đánh thuê</PirateBoss.labelPlural>
+</LanguageData>

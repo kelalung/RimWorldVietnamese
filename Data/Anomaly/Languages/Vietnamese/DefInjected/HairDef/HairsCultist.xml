@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DoubleTuft.label>Đầu tóc cuộn đôi</DoubleTuft.label>
+  <LargeTuft.label>Đầu tóc cuộn lớn</LargeTuft.label>
+  <LongMess.label>Tóc dài rối</LongMess.label>
+  <LongOily.label>Tóc dài nhờn</LongOily.label>
+  <Parted.label>Tóc chia ngôi</Parted.label>
+  <PatchyShave.label>Tóc cắt ngắn lởm chởm</PatchyShave.label>
+  <RoughShave.label>Tóc cắt ngắn thô</RoughShave.label>
+  <ShavedMohawk.label>Tóc mohawk cạo trọc</ShavedMohawk.label>
+  <ShortCut.label>Tóc ngắn</ShortCut.label>
+  <SideCut.label>Tóc cắt bên</SideCut.label>
+  <SideSpikes.label>Tóc nhọn hai bên</SideSpikes.label>
+</LanguageData>

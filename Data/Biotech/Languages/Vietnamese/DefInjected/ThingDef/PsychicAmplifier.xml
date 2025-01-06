@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PsychicAmplifier.label>psylink neuroformer</PsychicAmplifier.label>
+	<PsychicAmplifier.description>A consumable archotech-created device that forms or upgrades a psylink in the user's mind.\n\nThe user presses the device over the eyes, where it links to the brain directly and restructures part of it. Afterwards, the device disintegrates into worthless ash.</PsychicAmplifier.description>
+	<PsychicAmplifier.comps.CompUsableImplant.useLabel>Use neuroformer to form psylink</PsychicAmplifier.comps.CompUsableImplant.useLabel>
+	<CommsConsole.comps.CompUsable.useLabel>Summon diabolus threat</CommsConsole.comps.CompUsable.useLabel>
+	<Apparel_Cape.label>cape</Apparel_Cape.label>
+	<Apparel_Cape.description>A long cape of elegant design. It hangs over one side of the torso.</Apparel_Cape.description>
+</LanguageData>

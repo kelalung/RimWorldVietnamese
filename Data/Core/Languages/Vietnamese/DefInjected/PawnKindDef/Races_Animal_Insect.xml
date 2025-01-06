@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Megascarab.label>Bọ Hung khổng lồ</Megascarab.label>
+	<Megascarab.labelFemale>Bọ Hung cái khổng lồ</Megascarab.labelFemale>
+	<Megascarab.labelFemalePlural>Bọ Hung cái khổng lồ</Megascarab.labelFemalePlural>
+	<Megascarab.labelMale>Bọ Hung đực khổng lồ</Megascarab.labelMale>
+	<Megascarab.labelMalePlural>Bọ Hung đực khổng lồ</Megascarab.labelMalePlural>
+	<Megascarab.labelPlural>Bọ Hung khổng lồ</Megascarab.labelPlural>
+	<Megascarab.lifeStages.0.label>Bọ Hung khổng lồ ấu trùng</Megascarab.lifeStages.0.label>
+	<Megascarab.lifeStages.0.labelFemale>Bọ Hung khổng lồ ấu trùng cái</Megascarab.lifeStages.0.labelFemale>
+	<Megascarab.lifeStages.0.labelFemalePlural>Bọ Hung khổng lồ ấu trùng cái</Megascarab.lifeStages.0.labelFemalePlural>
+	<Megascarab.lifeStages.0.labelMale>Bọ Hung khổng lồ ấu trùng đực</Megascarab.lifeStages.0.labelMale>
+	<Megascarab.lifeStages.0.labelMalePlural>Bọ Hung khổng lồ ấu trùng đực</Megascarab.lifeStages.0.labelMalePlural>
+	<Megascarab.lifeStages.0.labelPlural>Bọ Hung khổng lồ ấu trùng</Megascarab.lifeStages.0.labelPlural>
+	<Megascarab.lifeStages.1.label>Bọ Hung khổng lồ trưởng thành</Megascarab.lifeStages.1.label>
+	<Megascarab.lifeStages.1.labelFemale>Bọ Hung khổng lồ trưởng thành cái</Megascarab.lifeStages.1.labelFemale>
+	<Megascarab.lifeStages.1.labelFemalePlural>Bọ Hung khổng lồ trưởng thành cái</Megascarab.lifeStages.1.labelFemalePlural>
+	<Megascarab.lifeStages.1.labelMale>Bọ Hung khổng lồ trưởng thành đực</Megascarab.lifeStages.1.labelMale>
+	<Megascarab.lifeStages.1.labelMalePlural>Bọ Hung khổng lồ trưởng thành đực</Megascarab.lifeStages.1.labelMalePlural>
+	<Megascarab.lifeStages.1.labelPlural>Bọ Hung khổng lồ trưởng thành</Megascarab.lifeStages.1.labelPlural>
+	<Megascarab.lifeStages.2.label>Bọ Hung khổng lồ</Megascarab.lifeStages.2.label>
+	<Megascarab.lifeStages.2.labelFemale>Bọ Hung khổng lồ cái</Megascarab.lifeStages.2.labelFemale>
+	<Megascarab.lifeStages.2.labelFemalePlural>Bọ Hung khổng lồ cái</Megascarab.lifeStages.2.labelFemalePlural>
+	<Megascarab.lifeStages.2.labelMale>Bọ Hung khổng lồ đực</Megascarab.lifeStages.2.labelMale>
+	<Megascarab.lifeStages.2.labelMalePlural>Bọ Hung khổng lồ đực</Megascarab.lifeStages.2.labelMalePlural>
+	<Megascarab.lifeStages.2.labelPlural>Bọ Hung khổng lồ</Megascarab.lifeStages.2.labelPlural>
+	<Megaspider.label>Nhện khổng lồ</Megaspider.label>
+	<Megaspider.labelFemale>Nhện khổng lồ cái</Megaspider.labelFemale>
+	<Megaspider.labelFemalePlural>Nhện khổng lồ cái</Megaspider.labelFemalePlural>
+	<Megaspider.labelMale>Nhện khổng lồ đực</Megaspider.labelMale>
+	<Megaspider.labelMalePlural>Nhện khổng lồ đực</Megaspider.labelMalePlural>
+	<Megaspider.labelPlural>Nhện khổng lồ</Megaspider.labelPlural>
+	<Megaspider.lifeStages.0.label>Nhện khổng lồ ấu trùng</Megaspider.lifeStages.0.label>
+	<Megaspider.lifeStages.0.labelFemale>Nhện khổng lồ ấu trùng cái</Megaspider.lifeStages.0.labelFemale>
+	<Megaspider.lifeStages.0.labelFemalePlural>Nhện khổng lồ ấu trùng cái</Megaspider.lifeStages.0.labelFemalePlural>
+	<Megaspider.lifeStages.0.labelMale>Nhện khổng lồ ấu trùng đực</Megaspider.lifeStages.0.labelMale>
+	<Megaspider.lifeStages.0.labelMalePlural>Nhện khổng lồ ấu trùng đực</Megaspider.lifeStages.0.labelMalePlural>
+	<Megaspider.lifeStages.0.labelPlural>Nhện khổng lồ ấu trùng</Megaspider.lifeStages.0.labelPlural>
+	<Megaspider.lifeStages.1.label>Nhện khổng lồ trưởng thành</Megaspider.lifeStages.1.label>
+	<Megaspider.lifeStages.1.labelFemale>Nhện khổng lồ trưởng thành cái</Megaspider.lifeStages.1.labelFemale>
+	<Megaspider.lifeStages.1.labelFemalePlural>Nhện khổng lồ trưởng thành cái</Megaspider.lifeStages.1.labelFemalePlural>
+	<Megaspider.lifeStages.1.labelMale>Nhện khổng lồ trưởng thành đực</Megaspider.lifeStages.1.labelMale>
+	<Megaspider.lifeStages.1.labelMalePlural>Nhện khổng lồ trưởng thành đực</Megaspider.lifeStages.1.labelMalePlural>
+	<Megaspider.lifeStages.1.labelPlural>Nhện khổng lồ trưởng thành</Megaspider.lifeStages.1.labelPlural>
+	<Megaspider.lifeStages.2.label>Nhện khổng lồ</Megaspider.lifeStages.2.label>
+	<Megaspider.lifeStages.2.labelFemale>Nhện khổng lồ cái</Megaspider.lifeStages.2.labelFemale>
+	<Megaspider.lifeStages.2.labelFemalePlural>Nhện khổng lồ cái</Megaspider.lifeStages.2.labelFemalePlural>
+	<Megaspider.lifeStages.2.labelMale>Nhện khổng lồ đực</Megaspider.lifeStages.2.labelMale>
+	<Megaspider.lifeStages.2.labelMalePlural>Nhện khổng lồ đực</Megaspider.lifeStages.2.labelMalePlural>
+	<Megaspider.lifeStages.2.labelPlural>Nhện khổng lồ</Megaspider.lifeStages.2.labelPlural>
+	<Spelopede.label>Rết hang</Spelopede.label>
+	<Spelopede.labelFemale>Rết hang cái</Spelopede.labelFemale>
+	<Spelopede.labelFemalePlural>Rết hang cái</Spelopede.labelFemalePlural>
+	<Spelopede.labelMale>Rết hang đực</Spelopede.labelMale>
+	<Spelopede.labelMalePlural>Rết hang đực</Spelopede.labelMalePlural>
+	<Spelopede.labelPlural>Rết hang</Spelopede.labelPlural>
+	<Spelopede.lifeStages.0.label>Rết hang ấu trùng</Spelopede.lifeStages.0.label>
+	<Spelopede.lifeStages.0.labelFemale>Rết hang ấu trùng cái</Spelopede.lifeStages.0.labelFemale>
+	<Spelopede.lifeStages.0.labelFemalePlural>Rết hang ấu trùng cái</Spelopede.lifeStages.0.labelFemalePlural>
+	<Spelopede.lifeStages.0.labelMale>Rết hang ấu trùng đực</Spelopede.lifeStages.0.labelMale>
+	<Spelopede.lifeStages.0.labelMalePlural>Rết hang ấu trùng đực</Spelopede.lifeStages.0.labelMalePlural>
+	<Spelopede.lifeStages.0.labelPlural>Rết hang ấu trùng</Spelopede.lifeStages.0.labelPlural>
+	<Spelopede.lifeStages.1.label>Rết hang trưởng thành</Spelopede.lifeStages.1.label>
+	<Spelopede.lifeStages.1.labelFemale>Rết hang trưởng thành cái</Spelopede.lifeStages.1.labelFemale>
+	<Spelopede.lifeStages.1.labelFemalePlural>Rết hang trưởng thành cái</Spelopede.lifeStages.1.labelFemalePlural>
+	<Spelopede.lifeStages.1.labelMale>Rết hang trưởng thành đực</Spelopede.lifeStages.1.labelMale>
+	<Spelopede.lifeStages.1.labelMalePlural>Rết hang trưởng thành đực</Spelopede.lifeStages.1.labelMalePlural>
+	<Spelopede.lifeStages.1.labelPlural>Rết hang trưởng thành</Spelopede.lifeStages.1.labelPlural>
+	<Spelopede.lifeStages.2.label>Rết hang</Spelopede.lifeStages.2.label>
+	<Spelopede.lifeStages.2.labelFemale>Rết hang cái</Spelopede.lifeStages.2.labelFemale>
+	<Spelopede.lifeStages.2.labelFemalePlural>Rết hang cái</Spelopede.lifeStages.2.labelFemalePlural>
+	<Spelopede.lifeStages.2.labelMale>Rết hang đực</Spelopede.lifeStages.2.labelMale>
+	<Spelopede.lifeStages.2.labelMalePlural>Rết hang đực</Spelopede.lifeStages.2.labelMalePlural>
+	<Spelopede.lifeStages.2.labelPlural>Rết hang</Spelopede.lifeStages.2.labelPlural>
+</LanguageData>

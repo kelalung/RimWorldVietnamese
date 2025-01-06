@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EmergeFromWater.arrivalTextEnemy>Họ sẽ ngay lập tức bắt đầu tấn công.</EmergeFromWater.arrivalTextEnemy>
+	<EmergeFromWater.arrivalTextFriendly>Họ sẽ ngay lập tức hỗ trợ bạn.</EmergeFromWater.arrivalTextFriendly>
+	<EmergeFromWater.letterLabelEnemy>Tấn công</EmergeFromWater.letterLabelEnemy>
+	<EmergeFromWater.letterLabelFriendly>Đồng minh</EmergeFromWater.letterLabelFriendly>
+	<ImmediateAttack.arrivalTextEnemy>Họ sẽ ngay lập tức bắt đầu tấn công.</ImmediateAttack.arrivalTextEnemy>
+	<ImmediateAttack.arrivalTextFriendly>Họ sẽ ngay lập tức hỗ trợ bạn.</ImmediateAttack.arrivalTextFriendly>
+	<ImmediateAttack.letterLabelEnemy>Tấn công</ImmediateAttack.letterLabelEnemy>
+	<ImmediateAttack.letterLabelFriendly>Đồng minh</ImmediateAttack.letterLabelFriendly>
+	<ImmediateAttackFriendly.arrivalTextEnemy>Họ sẽ ngay lập tức bắt đầu tấn công.</ImmediateAttackFriendly.arrivalTextEnemy>
+	<ImmediateAttackFriendly.arrivalTextFriendly>Họ sẽ ngay lập tức hỗ trợ bạn.</ImmediateAttackFriendly.arrivalTextFriendly>
+	<ImmediateAttackFriendly.letterLabelEnemy>Tấn công</ImmediateAttackFriendly.letterLabelEnemy>
+	<ImmediateAttackFriendly.letterLabelFriendly>Đồng minh</ImmediateAttackFriendly.letterLabelFriendly>
+	<ImmediateAttackSmart.arrivalTextEnemy>Họ sẽ ngay lập tức bắt đầu tấn công.\n\nLưu ý: Họ dường như rất thông minh trong việc áp dụng chiến thuật và sẽ cố gắng tránh các tháp canh và bẫy.</ImmediateAttackSmart.arrivalTextEnemy>
+	<ImmediateAttackSmart.arrivalTextFriendly>Họ sẽ ngay lập tức hỗ trợ bạn.</ImmediateAttackSmart.arrivalTextFriendly>
+	<ImmediateAttackSmart.letterLabelEnemy>Tấn công</ImmediateAttackSmart.letterLabelEnemy>
+	<ImmediateAttackSmart.letterLabelFriendly>Đồng minh</ImmediateAttackSmart.letterLabelFriendly>
+	<StageThenAttack.arrivalTextEnemy>Họ sẽ chuẩn bị một thời gian rồi mới tấn công.\n\nChuẩn bị phòng thủ hoặc chủ động tấn công trước.</StageThenAttack.arrivalTextEnemy>
+	<StageThenAttack.arrivalTextFriendly>Họ sẽ chuẩn bị một thời gian rồi mới hỗ trợ bạn.</StageThenAttack.arrivalTextFriendly>
+	<StageThenAttack.letterLabelEnemy>Tấn công</StageThenAttack.letterLabelEnemy>
+	<StageThenAttack.letterLabelFriendly>Đồng minh</StageThenAttack.letterLabelFriendly>
+</LanguageData>

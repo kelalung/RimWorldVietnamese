@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MinifiedThing.label>Đồ vật đã gỡ bỏ</MinifiedThing.label>
+	<MinifiedTree.label>Cây đã được đào lên</MinifiedTree.label>
+	<UnfinishedApparel.label>Trang phục chưa hoàn thành</UnfinishedApparel.label>
+	<UnfinishedApparel.description>Một bộ trang phục chưa hoàn thành.</UnfinishedApparel.description>
+	<UnfinishedArmor.label>Giáp chưa hoàn thành</UnfinishedArmor.label>
+	<UnfinishedArmor.description>Một bộ giáp đơn giản chưa hoàn thành.</UnfinishedArmor.description>
+	<UnfinishedBelt.label>Thắt lưng chưa hoàn thành</UnfinishedBelt.label>
+	<UnfinishedBelt.description>Một chiếc thắt lưng chưa hoàn thành.</UnfinishedBelt.description>
+	<UnfinishedComponent.label>Thành phần chưa hoàn thành</UnfinishedComponent.label>
+	<UnfinishedComponent.description>Một thành phần chưa hoàn thành.</UnfinishedComponent.description>
+	<UnfinishedGun.label>Khẩu súng chưa hoàn thành</UnfinishedGun.label>
+	<UnfinishedGun.description>Một khẩu súng chưa hoàn thành.</UnfinishedGun.description>
+	<UnfinishedHealthItemBionic.label>Thành phần sinh học chưa hoàn thành</UnfinishedHealthItemBionic.label>
+	<UnfinishedHealthItemBionic.description>Một bộ phận sinh học chưa hoàn thành.</UnfinishedHealthItemBionic.description>
+	<UnfinishedHealthItemProsthetic.label>Chân giả chưa hoàn thành</UnfinishedHealthItemProsthetic.label>
+	<UnfinishedHealthItemProsthetic.description>Một chân giả chưa hoàn thành.</UnfinishedHealthItemProsthetic.description>
+	<UnfinishedMask.label>Khẩu trang chưa hoàn thành</UnfinishedMask.label>
+	<UnfinishedMask.description>Một khẩu trang chưa hoàn thành.</UnfinishedMask.description>
+	<UnfinishedMetallicTechArmor.label>Giáp kim loại chưa hoàn thành</UnfinishedMetallicTechArmor.label>
+	<UnfinishedMetallicTechArmor.description>Một bộ giáp kim loại chưa hoàn thành.</UnfinishedMetallicTechArmor.description>
+	<UnfinishedPack.label>Balo chưa hoàn thành</UnfinishedPack.label>
+	<UnfinishedPack.description>Một chiếc balo chưa hoàn thành.</UnfinishedPack.description>
+	<UnfinishedSculpture.label>Tác phẩm điêu khắc chưa hoàn thành</UnfinishedSculpture.label>
+	<UnfinishedSculpture.description>Một tác phẩm điêu khắc chưa hoàn thành.</UnfinishedSculpture.description>
+	<UnfinishedTechArmor.label>Giáp công nghệ cao chưa hoàn thành</UnfinishedTechArmor.label>
+	<UnfinishedTechArmor.description>Một bộ giáp công nghệ cao chưa hoàn thành.</UnfinishedTechArmor.description>
+	<UnfinishedWeapon.label>Vũ khí chưa hoàn thành</UnfinishedWeapon.label>
+	<UnfinishedWeapon.description>Một vũ khí chưa hoàn thành.</UnfinishedWeapon.description>
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TwistedArchotechSupport_Large.label>Cột hỗ trợ siêu phàm biến dạng lớn</TwistedArchotechSupport_Large.label>
+	<TwistedArchotechSupport_Large.description>Cấu trúc công nghệ siêu phàm biến dạng. Năng lượng tâm linh cụ thể chảy qua nó vào các nút hư vô gần đó. Không bị hư hại.</TwistedArchotechSupport_Large.description>
+	<TwistedArchotechSupport_Small.label>Cột hỗ trợ siêu phàm biến dạng nhỏ</TwistedArchotechSupport_Small.label>
+	<TwistedArchotechSupport_Small.description>Cấu trúc công nghệ siêu phàm biến dạng. Năng lượng tâm linh cụ thể chảy qua nó vào các nút hư vô gần đó. Không bị hư hại.</TwistedArchotechSupport_Small.description>
+	<TwistedArchotechSupport_Vertical.label>Cột hỗ trợ siêu phàm biến dạng thẳng đứng</TwistedArchotechSupport_Vertical.label>
+	<TwistedArchotechSupport_Vertical.description>Cấu trúc công nghệ siêu phàm biến dạng. Năng lượng tâm linh cụ thể chảy qua nó vào các nút hư vô gần đó. Không bị hư hại.</TwistedArchotechSupport_Vertical.description>
+	<VoidmetalMassLarge.label>Khối kim loại hư vô lớn</VoidmetalMassLarge.label>
+	<VoidmetalMassLarge.description>Vật liệu không nhân tạo có hình dạng răng cưa không đều. Những mảnh nhọn kỳ quái chĩa ra theo mọi hướng. Vật liệu này là một chất kim loại có dầu, cảm giác trơn nhưng không dính. Không bị hư hại.</VoidmetalMassLarge.description>
+	<VoidmetalMassMedium.label>Khối kim loại hư vô vừa</VoidmetalMassMedium.label>
+	<VoidmetalMassMedium.description>Vật liệu không nhân tạo có hình dạng răng cưa không đều. Những mảnh nhọn kỳ quái chĩa ra theo mọi hướng. Vật liệu này là một chất kim loại có dầu, cảm giác trơn nhưng không dính. Không bị hư hại.</VoidmetalMassMedium.description>
+	<VoidmetalMassSmall.label>Khối kim loại hư vô nhỏ</VoidmetalMassSmall.label>
+	<VoidmetalMassSmall.description>Vật liệu không nhân tạo có hình dạng răng cưa không đều. Những mảnh nhọn kỳ quái chĩa ra theo mọi hướng. Vật liệu này là một chất kim loại có dầu, cảm giác trơn nhưng không dính. Không bị hư hại.</VoidmetalMassSmall.description>
+	<VoidmetalWall.label>Vách ngăn kim loại hư vô</VoidmetalWall.label>
+	<VoidmetalWall.description>Một bức tường kim loại đen và chắc chắn, bề mặt được bao phủ bởi những mảnh tinh thể không đều. Cảm giác trơn nhưng không dính. Không bị hư hại.</VoidmetalWall.description>
+	<VoidMonolith.label>Khối đá hư vô</VoidMonolith.label>
+	<VoidMonolith.description>Một khối đá kỳ quái, không ai biết tuổi tác, mục đích hay cấu trúc của nó. Bề mặt nhẵn được khắc đầy các hoa văn, những hoa văn xoắn ốc kỳ quái này tạo thành những hình ảnh rùng rợn.</VoidMonolith.description>
+	<VoidMonolith.comps.CompGleamingMonolith.jobString>Kích hoạt</VoidMonolith.comps.CompGleamingMonolith.jobString>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>Điều tra khối đá có tiến triển</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef} đã có bước đột phá trong việc điều tra khối đá. {PAWN_pronoun} tin rằng khối đá này thực chất là một kênh năng lượng tâm linh, kết nối với một nơi xa xôi nào đó. Nhưng {PAWN_pronoun} không thể xác định được đầu bên kia của kênh là nơi nào, hoặc nói cách khác, là gì.\n\n{PAWN_nameDef} còn tin rằng bằng cách điều tra thêm các thực thể bất thường, {PAWN_pronoun} có thể tìm ra cách để đóng kênh này, hoặc học cách khai thác sức mạnh của nó.\n\nHiện tại, điều tra khối đá có thể thu thập thêm kiến thức về các hiện tượng bất thường.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>Điều tra khối đá có tiến triển</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>{PAWN_nameDef} đã tiến triển trong việc điều tra khối đá. Cấu trúc này kết nối thực tại mà chúng ta đang sống với hư vô — một chiều không gian ẩn mình trong cấu trúc không-thời gian. Một ý chí mạnh mẽ nào đó trong hư vô đang dần ảnh hưởng đến thực tại.\n\n{PAWN_nameDef} muốn điều tra thêm khối đá để hiểu rõ hơn.\n\nHiện tại, điều tra khối đá có thể thu thập thêm kiến thức về các hiện tượng bất thường.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>Điều tra khối đá hoàn tất</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>
+	<VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef} đã hoàn thành cuộc điều tra về khối đá của {PAWN_possessive}. Cấu trúc này thực tế là một kênh, đầu bên kia là hư vô — một thế giới ẩn mình trong không-thời gian. Và trong hư vô, những trí thông minh siêu phàm tối tăm tồn tại, như những cơn ác mộng hoành hành.\n\nKích hoạt khối đá sẽ mở hoàn toàn kênh. Và {PAWN_nameDef} tin rằng, thông qua việc điều tra kênh đã mở, {PAWN_pronoun} có thể tìm ra cách đóng kênh vĩnh viễn, hoặc tìm cách khai thác sức mạnh tối tăm của nó.\n\nHiện tại, điều tra khối đá có thể thu thập thêm kiến thức về các hiện tượng bất thường.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
+	<VoidMonolith.comps.CompProximityLetter.letterLabel>Khối đá đổ</VoidMonolith.comps.CompProximityLetter.letterLabel>
+	<VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef} phát hiện một khối đá cổ xưa bán chôn ở gần đây.\n\nNếu tiến hành điều tra, có thể thu thập thêm thông tin.</VoidMonolith.comps.CompProximityLetter.letterText>
+	<VoidMonolithAttachmentBottomLeft.label>Cấu trúc phụ của khối đá hư vô</VoidMonolithAttachmentBottomLeft.label>
+	<VoidMonolithAttachmentBottomRight.label>Cấu trúc phụ của khối đá hư vô</VoidMonolithAttachmentBottomRight.label>
+	<VoidMonolithAttachmentLeft.label>Cấu trúc phụ của khối đá hư vô</VoidMonolithAttachmentLeft.label>
+	<VoidMonolithAttachmentRight.label>Cấu trúc phụ của khối đá hư vô</VoidMonolithAttachmentRight.label>
+	<VoidMonolithAttachmentTop.label>Cấu trúc phụ của khối đá hư vô</VoidMonolithAttachmentTop.label>
+	<VoidNode.label>Nút hư vô</VoidNode.label>
+	<VoidNode.description>Một quả cầu không ngừng dao động, hoàn toàn được cấu thành từ năng lượng tâm linh bị biến dạng. Nó được điều khiển bởi các thiết bị công nghệ siêu phàm gần đó, là một phần của cầu nối giữa thế giới thực và hư vô tối tăm.</VoidNode.description>
+	<VoidNode.comps.CompVoidNode.activateDescString>Ra lệnh cho một thuộc địa chạm vào nó.</VoidNode.comps.CompVoidNode.activateDescString>
+	<VoidNode.comps.CompVoidNode.activateLabelString>Chạm vào...</VoidNode.comps.CompVoidNode.activateLabelString>
+	<VoidNode.comps.CompVoidNode.activatingStringPending>Đang chạm vào nút hư vô</VoidNode.comps.CompVoidNode.activatingStringPending>
+	<VoidNode.comps.CompVoidNode.guiLabelString>Chọn người sẽ chạm vào</VoidNode.comps.CompVoidNode.guiLabelString>
+	<VoidNode.comps.CompVoidNode.inspectString>Gửi một thuộc địa để chạm vào nó.</VoidNode.comps.CompVoidNode.inspectString>
+	<VoidNode.comps.CompVoidNode.jobString>Chạm vào nút hư vô</VoidNode.comps.CompVoidNode.jobString>
+	<VoidStructure.label>Cấu trúc hư vô</VoidStructure.label>
+	<VoidStructure.description>Cấu trúc biến dạng được tạo thành từ các mảnh kim loại có dầu không đều. Nó là hình thức cụ thể hóa của các yếu tố hư vô ảnh hưởng đến thế giới thực. Nó cũng phát ra những rung động tâm linh rùng rợn và bằng một cách bất thường nào đó khiến thực vật xung quanh héo úa. Cấu trúc này có liên hệ với khối đá hư vô, nhưng bản chất của mối liên hệ này vượt quá sự hiểu biết của con người.</VoidStructure.description>
+	<VoidStructure.comps.CompVoidStructure.jobString>Bắt đầu</VoidStructure.comps.CompVoidStructure.jobString>
+</LanguageData>

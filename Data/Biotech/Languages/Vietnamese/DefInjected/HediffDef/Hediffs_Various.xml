@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioStarvation.label>Đói sinh lý</BioStarvation.label>
+<BioStarvation.description>Người này đang ở trong buồng nuôi dưỡng, do thiếu dinh dưỡng hoặc điện năng, cơ thể không thể hoạt động bình thường và đang trong trạng thái đói sinh lý.</BioStarvation.description>
+<Deathrest.label>Ngủ chết</Deathrest.label>
+<Deathrest.description>Trạng thái ngủ sâu kéo dài nhiều ngày, phục hồi khả năng của cơ thể. Một số gen dẫn đến nhu cầu ngủ chết. Ngủ chết cũng có thể được tăng cường thông qua các cơ sở bổ sung, cung cấp phần thưởng độc đáo cho giấc ngủ chết.</Deathrest.description>
+<DeathrestExhaustion.label>Mệt mỏi sau ngủ chết</DeathrestExhaustion.label>
+<DeathrestExhaustion.description>Người này cần ngủ chết khẩn cấp để phục hồi khả năng cơ thể.</DeathrestExhaustion.description>
+<GeneticDrugNeed.label>Phụ thuộc hóa học</GeneticDrugNeed.label>
+<GeneticDrugNeed.description>Người này có sự phụ thuộc hóa học di truyền vào một số chất gây nghiện nhất định. Nếu không sử dụng định kỳ các chất này, cơ thể sẽ không thể duy trì trạng thái khỏe mạnh, sức khỏe và tâm trạng sẽ tiếp tục xấu đi cho đến khi chết.\n\nTuổi bắt đầu có hiệu lực: 13.</GeneticDrugNeed.description>
+<GeneticDrugNeed.stages.deficiency.label>Thiếu hụt</GeneticDrugNeed.stages.deficiency.label>
+<GeneticDrugNeed.stages.deficiency.overrideLabel>Hôn mê</GeneticDrugNeed.stages.deficiency.overrideLabel>
+<GeneticDrugNeed.stages.3.overrideLabel>Hôn mê</GeneticDrugNeed.stages.3.overrideLabel>
+<HemogenCraving.label>Khát khao huyết nguyên</HemogenCraving.label>
+<HemogenCraving.description>Người này đang phân hủy dự trữ huyết nguyên trong tủy xương do thiếu huyết nguyên. Điều này sẽ dẫn đến việc họ mất phương hướng và khao khát máu người.</HemogenCraving.description>
+<HemogenCraving.stages.minor.label>Nhẹ</HemogenCraving.stages.minor.label>
+<HemogenCraving.stages.moderate.label>Vừa</HemogenCraving.stages.moderate.label>
+<HemogenCraving.stages.major.label>Nghiêm trọng</HemogenCraving.stages.major.label>
+<InterruptedDeathrest.label>Ngủ chết bị gián đoạn</InterruptedDeathrest.label>
+<InterruptedDeathrest.description>Giấc ngủ chết của người này đã bị gián đoạn. Ngủ chết không hoàn chỉnh sẽ gây ra cảm giác yếu đuối kéo dài trong vài ngày, sau đó sẽ hồi phục bình thường.</InterruptedDeathrest.description>
+<PsychicBond.label>Liên kết tâm linh</PsychicBond.label>
+<PsychicBond.description>Người này đã thiết lập một liên kết tâm linh với bạn đời thông qua gen. Liên kết này tự nó sẽ cung cấp một mức độ cảm nhận tâm linh, do đó có thể tác động đến những người mù tâm linh.</PsychicBond.description>
+<PsychicBond.stages.0.extraTooltip>Người này có bạn tâm linh gần bên.</PsychicBond.stages.0.extraTooltip>
+<PsychicBond.stages.0.overrideLabel>Liên kết tâm linh</PsychicBond.stages.0.overrideLabel>
+<PsychicBond.stages.1.extraTooltip>Người này có bạn tâm linh ở xa.</PsychicBond.stages.1.extraTooltip>
+<PsychicBond.stages.1.overrideLabel>Liên kết tâm linh bị đứt</PsychicBond.stages.1.overrideLabel>
+<PsychicBondTorn.label>Liên kết tâm linh bị rách</PsychicBondTorn.label>
+<PsychicBondTorn.description>Người này từng có một bạn tâm linh với liên kết tâm linh, nhưng sau khi bạn đời qua đời, liên kết tâm linh đã bị rách.</PsychicBondTorn.description>
+<RegenerationComa.label>Hôn mê tái sinh</RegenerationComa.label>
+<RegenerationComa.description>Nếu người này không có gen bất tử, họ đã chết từ lâu. Tuy nhiên, bây giờ họ đang rơi vào trạng thái hôn mê tái sinh, trong thời gian hôn mê sẽ dần phục hồi sức khỏe của cơ thể.</RegenerationComa.description>
+<ScanningSickness.label>Di chứng quét</ScanningSickness.label>
+<ScanningSickness.description>Người này đã bị quét bởi máy quét để sản xuất lõi phụ cơ khí. Thiết bị quét đã can thiệp vào não của họ, cần một khoảng thời gian để phục hồi. Sẽ không gây tổn thương lâu dài.</ScanningSickness.description>
+<VatGrowing.label>Đang phát triển trong buồng nuôi</VatGrowing.label>
+<VatGrowing.description>Buồng nuôi đang kích thích cơ thể của người này, tăng tốc độ phân chia tế bào và lão hóa.</VatGrowing.description>
+<VatLearning.label>Đang học trong buồng nuôi</VatLearning.label>
+<VatLearning.description>Buồng nuôi đang kích thích não của người này bằng dòng điện để tăng trải nghiệm kỹ năng. Quá trình này không hiệu quả và chỉ có tác dụng đối với những kỹ năng bị bỏ lỡ do không phát triển bên ngoài.</VatLearning.description>
+<XenogerminationComa.label>Hôn mê do mầm ngoại lai</XenogerminationComa.label>
+<XenogerminationComa.description>Trong cơ thể người này đã được cấy ghép mầm ngoại lai. Mầm ngoại lai cần một khoảng thời gian nhất định để hòa nhập vào vật chủ và thay đổi gen và thành phần hóa học bên trong. Do mầm ngoại lai gây ra hôn mê, người này tạm thời không thể tỉnh dậy an toàn.\n\nViệc cấy ghép mầm ngoại lai dưới sự hỗ trợ của cơ sở y tế tốt và bác sĩ có tay nghề có thể rút ngắn thời gian hôn mê.</XenogerminationComa.description>
+<XenogermLossShock.label>Sốc do mất gen ngoại lai</XenogermLossShock.label>
+<XenogermLossShock.description>Gen ngoại lai của người này gần đây đã bị loại bỏ hoặc thải ra, sự ổn định của trao đổi chất và tiết hormone bị phá hủy, dẫn đến hệ miễn dịch rơi vào trạng thái yếu đuối kéo dài trong vài ngày, tạm thời cảm thấy cơ thể mệt mỏi và buồn ngủ.</XenogermLossShock.description>
+<XenogermReplicating.label>Tái cấu trúc gen</XenogermReplicating.label>
+<XenogermReplicating.description>Gen của người này đang được tái cấu trúc. Quá trình này sẽ không gây ảnh hưởng trực tiếp đến sức khỏe. Tuy nhiên, việc trích xuất gen của người này trong quá trình tái cấu trúc sẽ dẫn đến cái chết.</XenogermReplicating.description>
+<XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} đã hoàn tất tái cấu trúc gen.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>helpersParagraph(helpersCount==0)-&gt;</li>
+    <li>helpersParagraph(helpersCount==1)-&gt;\n\n[helperKind_label] sẽ nghe theo bạn. Bạn cần cung cấp các điều kiện sống cơ bản cho [helpers0_objective], nếu [helpers0_pronoun] không may hy sinh trong trận chiến thì sẽ không có hậu quả gì.\n\n</li>
+    <li>helpersParagraph(helpersCount&gt;=2)-&gt;\n\n[helpersCount] [helperKind_labelPlural] sẽ nghe theo bạn. Bạn cần cung cấp các điều kiện sống cơ bản cho họ, nếu họ không may hy sinh trong trận chiến thì sẽ không có hậu quả gì.\n\n</li>
+    <li>helpersArrivalLetterEnd(helpersCount==0)-&gt;</li>
+    <li>helpersArrivalLetterEnd(helpersCount&gt;=1)-&gt;\n\n[helpersCount] [helpersLabelSingOrPlural][helpersHasHave] đến hỗ trợ bạn.</li>
+    <li>helpersLabelSingOrPlural(helpersCount==1)-&gt;[helperKind_label]</li>
+    <li>helpersLabelSingOrPlural(helpersCount&gt;=2)-&gt;[helperKind_labelPlural]</li>
+    <li>helpersHasHave(helpersCount==1)-&gt;đã</li>
+    <li>helpersHasHave(helpersCount&gt;=2)-&gt;đã</li>
+    <li>helpersIsAre(helpersCount==1)-&gt;là</li>
+    <li>helpersIsAre(helpersCount&gt;=2)-&gt;là</li>
+</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+<Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[helpersLabelSingOrPlural] đã đến</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
+<Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>[asker_nameDef][helpersHasHave] cử [helpersLabelSingOrPlural] đến hỗ trợ bạn, và sẽ giúp bạn thực hiện nhiệm vụ “[resolvedQuestName]”.</Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>
+<Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>[helpersLabelSingOrPlural]</Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>
+<Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>[helpersLabelSingOrPlural] đang rời đi</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
+<Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>[asker_nameDef] đã cử [helpersLabelSingOrPlural] đến hỗ trợ nhiệm vụ, nhưng [helpersHasHave] đã tiêu tốn quá nhiều thời gian, bây giờ [helpersIsAre] phải rời đi.</Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>
+</LanguageData>

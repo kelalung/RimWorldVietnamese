@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chimera.label>Quái vật ghép</Chimera.label>
+	<Chimera.description>Một sinh vật khổng lồ, như thể được ghép từ một con gấu và các loài động vật khác, cực kỳ hung dữ.\n\nKhông ai biết nó là sản phẩm của thiên nhiên hay là một sản phẩm kém chất lượng của trí tuệ siêu nhiên điên cuồng.</Chimera.description>
+	<Chimera.comps.CompChimera.simpleAnimalLabel>Quái vật ghép</Chimera.comps.CompChimera.simpleAnimalLabel>
+	<Chimera.tools.left_claw.label>Chân trái</Chimera.tools.left_claw.label>
+	<Chimera.tools.left_claw.labelNoLocation>Claw</Chimera.tools.left_claw.labelNoLocation>
+	<Chimera.tools.right_claw.label>Chân phải</Chimera.tools.right_claw.label>
+	<Chimera.tools.right_claw.labelNoLocation>Claw</Chimera.tools.right_claw.labelNoLocation>
+	<Chimera.tools.head.label>Đầu</Chimera.tools.head.label>
+	<CreepJoiner.label>Con người</CreepJoiner.label>
+	<CreepJoiner.description>Con người bình thường, phần lớn không bị biến đổi gen và không tiến hóa do áp lực sinh sống trên hành tinh giống Trái Đất.</CreepJoiner.description>
+	<CreepJoiner.tools.left_fist.label>Đấm trái</CreepJoiner.tools.left_fist.label>
+	<CreepJoiner.tools.left_fist.labelNoLocation>Đấm tay</CreepJoiner.tools.left_fist.labelNoLocation>
+	<CreepJoiner.tools.right_fist.label>Đấm phải</CreepJoiner.tools.right_fist.label>
+	<CreepJoiner.tools.right_fist.labelNoLocation>Đấm tay</CreepJoiner.tools.right_fist.labelNoLocation>
+	<CreepJoiner.tools.teeth.label>Răng</CreepJoiner.tools.teeth.label>
+	<CreepJoiner.tools.head.label>Đầu</CreepJoiner.tools.head.label>
+	<Devourer.label>Quái vật nuốt chửng</Devourer.label>
+	<Devourer.description>Một con quái vật khổng lồ với miệng rộng và cơ thể giống như rắn. Quái vật nuốt chửng có thể nhảy lên cao gấp nhiều lần chiều dài cơ thể, nuốt trọn người. Nạn nhân thường chưa kịp tắt thở đã bị dạ dày mạnh mẽ của nó tiêu hóa nhanh chóng. Xác thối còn lại sẽ nhanh chóng được nhai lại.</Devourer.description>
+	<Devourer.comps.CompDevourer.digestingInspector>Đang tiêu hóa {PAWN_nameDef}: còn lại {SECONDS} giây</Devourer.comps.CompDevourer.digestingInspector>
+	<Devourer.comps.CompDevourer.messageDigested>Quái vật nuốt chửng đã nuốt trọn {PAWN_nameDef}! Phải nhanh chóng giết quái vật trước khi {PAWN_nameDef} bị tiêu hóa.</Devourer.comps.CompDevourer.messageDigested>
+	<Devourer.comps.CompDevourer.messageDigestionCompleted>Quái vật nuốt chửng đã nhai lại xác {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigestionCompleted>
+	<Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef} đã bò ra từ cơ thể quái vật nuốt chửng.</Devourer.comps.CompDevourer.messageEmerged>
+	<Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef} đã bò ra từ xác quái vật nuốt chửng đã chết.</Devourer.comps.CompDevourer.messageEmergedCorpse>
+	<Devourer.tools.left_fin.label>Vây trái</Devourer.tools.left_fin.label>
+	<Devourer.tools.left_fin.labelNoLocation>Vây</Devourer.tools.left_fin.labelNoLocation>
+	<Devourer.tools.right_fin.label>Vây phải</Devourer.tools.right_fin.label>
+	<Devourer.tools.right_fin.labelNoLocation>Vây</Devourer.tools.right_fin.labelNoLocation>
+	<Devourer.tools.teeth.label>Răng</Devourer.tools.teeth.label>
+	<FleshmassNucleus.label>Hạt nhân thịt</FleshmassNucleus.label>
+	<FleshmassNucleus.description>Hạt nhân siêu nhiên bên trong trái tim thịt. Cấu trúc tổng thể là một lưới hỗn loạn làm từ kim loại, bề mặt được phủ một lớp chất nhờn. Nó chứa nhiều mảnh kim loại cứng không đều, là sản phẩm điển hình của công nghệ siêu nhiên. Toàn bộ cấu trúc từ từ biến dạng dưới tác động của năng lượng của chính nó.\n\nBề mặt của nó liên tục phát triển thịt mới, và đôi khi nổ tung mạnh mẽ. Nếu để cho thịt của nó tiếp tục phát triển, nó sẽ tái sinh thành một trái tim thịt mới.</FleshmassNucleus.description>
+	<FleshmassNucleus.comps.CompActivity.letterDesc>Hạt nhân thịt đã phát triển một lượng lớn thịt mới. Nó đã trở thành một trái tim thịt mới!\n\nTrong quá trình này, trái tim thịt đã xảy ra đột biến và có những đặc điểm sinh học mới.</FleshmassNucleus.comps.CompActivity.letterDesc>
+	<FleshmassNucleus.comps.CompActivity.letterTitle>Đột biến thịt</FleshmassNucleus.comps.CompActivity.letterTitle>
+	<Gorehulk.label>Người khổng lồ máu</Gorehulk.label>
+	<Gorehulk.description>Một sinh vật khổng lồ hình người, nhưng các bộ phận cơ thể phình to như thể đã bị tái cấu trúc một cách ngẫu nhiên. Phần trên cơ thể của nó có một khuôn mặt người bị kéo dài biến dạng, với ánh mắt vô hồn nhìn chằm chằm vào nạn nhân của nó.\n\nHàng trăm chiếc gai sắc nhọn từ da của người khổng lồ máu. Nó có thể bắn ra những chiếc gai này, đâm xuyên nạn nhân ở xa, nhưng cơ thể nặng nề của nó khiến nó kém hiệu quả trong chiến đấu cận chiến.\n\nRất khó để xác định liệu nó có phải là một con người bị biến dạng nghiêm trọng do ảnh hưởng của khoảng không hay là một sản phẩm kém chất lượng do trí tuệ siêu nhiên tạo ra từ đầu.</Gorehulk.description>
+	<Gorehulk.tools.left_flesh_club.label>Cán thịt trái</Gorehulk.tools.left_flesh_club.label>
+	<Gorehulk.tools.left_flesh_club.labelNoLocation>Cán thịt</Gorehulk.tools.left_flesh_club.labelNoLocation>
+	<Gorehulk.tools.right_flesh_club.label>Cán thịt phải</Gorehulk.tools.right_flesh_club.label>
+	<Gorehulk.tools.right_flesh_club.labelNoLocation>Cán thịt</Gorehulk.tools.right_flesh_club.labelNoLocation>
+	<Gorehulk.tools.head.label>Đầu</Gorehulk.tools.head.label>
+	<Metalhorror.label>Quái vật kim loại</Metalhorror.label>
+	<Metalhorror.description>Một con quái vật kinh hoàng được tạo thành từ sợi kim loại, lưỡi dao và cấu trúc cơ khí. Trong cơ thể của quái vật kim loại, chất lỏng tối chảy qua để duy trì chức năng sinh lý và tái sinh.\n\nTrong trạng thái ngủ, quái vật kim loại ở trạng thái lỏng ẩn nấp bên trong vật chủ. Chúng sử dụng vật chủ để lây nhiễm cho người khác, tạo ra nhiều quái vật kim loại hơn. Nếu bị phát hiện hoặc bị đe dọa, quái vật kim loại sẽ hình thành bộ xương ngoài sắc nhọn và phá vỡ vật chủ để thoát ra.\n\nNếu không bị quấy rầy, quái vật kim loại mới sinh sẽ cuối cùng rơi vào trạng thái ngủ tiêu thụ năng lượng thấp.</Metalhorror.description>
+	<Metalhorror.tools.left_blade.label>Dao trái</Metalhorror.tools.left_blade.label>
+	<Metalhorror.tools.left_blade.labelNoLocation>Dao</Metalhorror.tools.left_blade.labelNoLocation>
+	<Metalhorror.tools.right_blade.label>Dao phải</Metalhorror.tools.right_blade.label>
+	<Metalhorror.tools.right_blade.labelNoLocation>Dao</Metalhorror.tools.right_blade.labelNoLocation>
+	<Metalhorror.tools.head.label>Đầu</Metalhorror.tools.head.label>
+	<Nociosphere.label>Quả cầu đau khổ</Nociosphere.label>
+	<Nociosphere.description>Quả cầu kim loại màu tối với các rãnh cưa méo mó. Quả cầu này tỏa ra mùi hương của đau đớn, gần nó sẽ cảm thấy đau đớn.\n\nNó phát ra năng lượng bí ẩn và có vẻ như ngày càng hoạt động nhiều hơn. Hiện tại chưa rõ điều gì sẽ xảy ra khi nó hoàn toàn kích hoạt. Nhưng nếu bị bắt, có thể giảm hoạt động của nó bằng cách kìm hãm nó.</Nociosphere.description>
+	<Nociosphere.comps.CompActivity.letterDesc>Hoạt động của quả cầu đau khổ đã đạt 100%, nó đã hoàn toàn kích hoạt và bắt đầu phát tán đau đớn và hủy diệt.\n\nCuối cùng nó sẽ rời đi, nhưng điều đó phụ thuộc vào việc bạn có thể trụ lại đến lúc đó hay không.</Nociosphere.comps.CompActivity.letterDesc>
+	<Nociosphere.comps.CompActivity.letterTitle>Quả cầu đau khổ đã được kích hoạt</Nociosphere.comps.CompActivity.letterTitle>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>Tiến triển điều tra quả cầu đau khổ</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef} đã hiểu thêm về cách hoạt động của quả cầu đau khổ. Sự tồn tại của nó dường như chỉ có một mục đích - mang lại đau đớn cho những cá thể xung quanh.\n\n{PAWN_nameDef} tin rằng {PAWN_pronoun} có thể sử dụng quả cầu đau khổ như một vũ khí, nhưng cần điều tra thêm.</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>Tiến triển điều tra quả cầu đau khổ</Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.1.text>Bằng cách điều tra quả cầu đau khổ, bạn đã biết cách kích hoạt nó.\n\nKhi được kích hoạt, quả cầu đau khổ sẽ được gửi đến một địa điểm xa xôi mà bạn chọn và phát tán nỗi đau vô tận cho bất kỳ ai ở gần. Quả cầu đau khổ sẽ tiếp tục truy đuổi bất kỳ mục tiêu nào trong khu vực cho đến khi bị tiêu diệt hoặc tự quay về. Chọn quả cầu đau khổ để kích hoạt nó.</Nociosphere.comps.CompStudyUnlocks.studyNotes.1.text>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>Điều tra quả cầu đau khổ hoàn thành</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.label>
+	<Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>Điều tra quả cầu đau khổ đã mang đến cho {PAWN_nameDef} một phát hiện đáng kinh ngạc. Thực thể này cho thấy một số dấu hiệu mất kiểm soát.\n\nKhi quả cầu đau khổ bắt đầu trở nên không ổn định, bạn có thể gửi nó tấn công các phe đối địch để đẩy nó đi. Trong một khoảng thời gian, nó sẽ tấn công mọi thứ xung quanh mà không phân biệt bạn bè hay kẻ thù, cho đến khi cuộc tấn công kết thúc, nó sẽ rời đi mãi mãi. Một khi nó hoàn toàn mất kiểm soát, sẽ không thể kìm hãm nó nữa.</Nociosphere.comps.CompStudyUnlocks.studyNotes.2.text>
+	<Nociosphere.comps.CompNociosphere.activateDescString>Gửi quả cầu đau khổ đến một địa điểm gần đó. Nó sẽ tấn công tất cả các mục tiêu xung quanh trong một khoảng thời gian ngắn, phát tán đau đớn. Quả cầu đau khổ sẽ truy đuổi mọi mục tiêu bao gồm cả đơn vị đồng minh và các thực thể khác.\n\nQuả cầu đau khổ có thể được gửi đi nhiều lần.</Nociosphere.comps.CompNociosphere.activateDescString>
+	<Nociosphere.comps.CompNociosphere.activateLabelString>Gửi quả cầu đau khổ</Nociosphere.comps.CompNociosphere.activateLabelString>
+	<Nociosphere.comps.CompNociosphere.activatingString>Đang gửi {0}: {1} giây</Nociosphere.comps.CompNociosphere.activatingString>
+	<Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>Bắt đầu không ổn định</Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>
+	<Nociosphere.comps.CompNociosphere.departingMessage>Quả cầu đau khổ đang rời đi</Nociosphere.comps.CompNociosphere.departingMessage>
+	<Nociosphere.comps.CompNociosphere.jobString>Gửi quả cầu đau khổ</Nociosphere.comps.CompNociosphere.jobString>
+	<Nociosphere.comps.CompNociosphere.leftLetterLabel>Quả cầu đau khổ đã rời đi</Nociosphere.comps.CompNociosphere.leftLetterLabel>
+	<Nociosphere.comps.CompNociosphere.leftLetterText>Quả cầu đau khổ đã ngừng tấn công và biến mất không dấu vết.\n\nHiện tại chưa rõ quả cầu đau khổ đã đi đâu và liệu nó có quay lại hay không.</Nociosphere.comps.CompNociosphere.leftLetterText>
+	<Nociosphere.comps.CompNociosphere.onCooldownString>Thời gian hồi chiêu tấn công quả cầu đau khổ</Nociosphere.comps.CompNociosphere.onCooldownString>
+	<Nociosphere.comps.CompNociosphere.onslaughtEndedMessage>Quả cầu đau khổ đã ngừng tấn công và quay về nơi xuất phát.</Nociosphere.comps.CompNociosphere.onslaughtEndedMessage>
+	<Nociosphere.comps.CompNociosphere.onslaughtInspectText>Chế độ tấn công: còn lại {0} giây</Nociosphere.comps.CompNociosphere.onslaughtInspectText>
+	<Nociosphere.comps.CompNociosphere.unstableInspectText>Mất kiểm soát: không thể kìm hãm</Nociosphere.comps.CompNociosphere.unstableInspectText>
+	<Nociosphere.comps.CompNociosphere.unstableWarning>Cảnh báo: Quả cầu đau khổ sẽ kháng cự kìm hãm trong {0} ngày.</Nociosphere.comps.CompNociosphere.unstableWarning>
+	<Noctol.label>Ác mộng</Noctol.label>
+	<Noctol.description>Một sinh vật khổng lồ ồn ào, toàn thân bao phủ bởi lớp vỏ đen nhờn, được trang bị móng vuốt làm từ thép sống. Mặc dù nó rất chết chóc trong bóng tối, nhưng khi bị ánh sáng chiếu vào, nó sẽ bị kích thích khiến nó khó khăn trong việc di chuyển.</Noctol.description>
+	<Noctol.tools.left_claw.label>Móng vuốt trái</Noctol.tools.left_claw.label>
+	<Noctol.tools.left_claw.labelNoLocation>Móng</Noctol.tools.left_claw.labelNoLocation>
+	<Noctol.tools.right_claw.label>Móng vuốt phải</Noctol.tools.right_claw.label>
+	<Noctol.tools.right_claw.labelNoLocation>Móng</Noctol.tools.right_claw.labelNoLocation>
+	<Noctol.tools.head.label>Đầu</Noctol.tools.head.label>
+	<Revenant.label>Hồn ma</Revenant.label>
+	<Revenant.description>Hình bóng gầy gò, dài như ma quái, làn da nhăn nheo bao bọc khung xương hình người không thể tưởng tượng nổi. Tên gọi của hồn ma xuất phát từ việc nó quay trở lại mỗi đêm để tìm kiếm nạn nhân mới cho giấc mơ mê hoặc.\n\nTruyền thuyết dân gian về những kẻ ngoại lai mô tả nó như một hồn ma vô hình, có khả năng bắt giữ ý thức của tội nhân và đưa họ đến một địa ngục không thể sống nổi. Trong truyền thuyết, chỉ khi tiêu diệt con quái vật trong khi nó ngủ, nạn nhân mới có thể sống lại.\n\nCó thể sử dụng pháo sáng, vật nổ, xung EMP, bọt chống cháy hoặc lửa để khiến nó hiện hình.</Revenant.description>
+	<Revenant.tools.head.label>Đầu</Revenant.tools.head.label>
+	<Sightstealer.label>Quái vật ẩn hình</Sightstealer.label>
+	<Sightstealer.description>Sinh vật dị dạng gầy guộc giống người. Phần cuối của cánh tay là những móng vuốt cong làm từ thép sống. Thể chất của quái vật ẩn hình rất yếu, nhưng chúng sử dụng năng lượng tâm linh để làm cho mình trở nên vô hình và lén lút tiếp cận nạn nhân. Theo hiểu biết về tập tính của chúng, tiếng gào thét ghê rợn chính là dấu hiệu cho thấy chúng đang tụ tập để săn mồi một cách đáng sợ.</Sightstealer.description>
+	<Sightstealer.tools.left_claw.label>Móng vuốt trái</Sightstealer.tools.left_claw.label>
+	<Sightstealer.tools.left_claw.labelNoLocation>Móng</Sightstealer.tools.left_claw.labelNoLocation>
+	<Sightstealer.tools.right_claw.label>Móng vuốt phải</Sightstealer.tools.right_claw.label>
+	<Sightstealer.tools.right_claw.labelNoLocation>Móng</Sightstealer.tools.right_claw.labelNoLocation>
+	<Sightstealer.tools.head.label>Đầu</Sightstealer.tools.head.label>
+</LanguageData>

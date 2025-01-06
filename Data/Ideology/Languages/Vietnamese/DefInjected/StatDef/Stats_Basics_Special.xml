@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SlaveSuppressionOffset.label>Độ lệch giảm áp lực nô lệ</SlaveSuppressionOffset.label>
+<SlaveSuppressionOffset.description>Hệ số lệch giảm áp lực nô lệ áp dụng cho người mang nó. Áp lực càng cao, thời gian đàn áp nô lệ càng lâu, trong khi áp lực thấp hơn thì khả năng nổi dậy của nô lệ càng thường xuyên.</SlaveSuppressionOffset.description>
+<TerrorSource.label>Khiếp sợ</TerrorSource.label>
+<TerrorSource.description>Cường độ khiếp sợ gây ra khi quan sát vật thể này.</TerrorSource.description>
+<TerrorSource.formatString>{0}%</TerrorSource.formatString>
+</LanguageData>

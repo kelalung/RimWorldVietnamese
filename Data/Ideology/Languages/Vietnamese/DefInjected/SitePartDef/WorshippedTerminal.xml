@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WorshippedTerminal.label>Ngôi làng sùng bái</WorshippedTerminal.label>
+<WorshippedTerminal.description>Một ngôi làng có một thiết bị cổ được người dân địa phương sùng bái.</WorshippedTerminal.description>
+<WorshippedTerminal.approachingReportString>Tấn công {0} đang diễn ra</WorshippedTerminal.approachingReportString>
+<WorshippedTerminal.approachOrderString>Điều tra {0}</WorshippedTerminal.approachOrderString>
+<WorshippedTerminal.arrivedLetter>Chỉ cần bạn không vi phạm quy tắc của họ, bạn có thể ở lại đây {TIMER}.</WorshippedTerminal.arrivedLetter>
+</LanguageData>

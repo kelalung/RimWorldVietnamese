@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Tunneler.label>Máy móc nặng (Móng vuốt động lực)</Mech_Tunneler.label>
+<Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Cảm biến thị giác trái</Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+<Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Cảm biến thị giác phải</Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+<Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Cảm biến thính giác trái</Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+<Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Cảm biến thính giác phải</Mech_Tunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+<Mech_Tunneler.corePart.parts.left_shoulder.customLabel>Vai trái</Mech_Tunneler.corePart.parts.left_shoulder.customLabel>
+<Mech_Tunneler.corePart.parts.left_shoulder.parts.left_arm.customLabel>Cánh tay trái</Mech_Tunneler.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+<Mech_Tunneler.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_claw.customLabel>Móng vuốt động lực trái</Mech_Tunneler.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_claw.customLabel>
+<Mech_Tunneler.corePart.parts.right_shoulder.customLabel>Vai phải</Mech_Tunneler.corePart.parts.right_shoulder.customLabel>
+<Mech_Tunneler.corePart.parts.right_shoulder.parts.right_arm.customLabel>Cánh tay phải</Mech_Tunneler.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+<Mech_Tunneler.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_claw.customLabel>Móng vuốt động lực phải</Mech_Tunneler.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_claw.customLabel>
+<Mech_Tunneler.corePart.parts.left_leg.customLabel>Chân trái</Mech_Tunneler.corePart.parts.left_leg.customLabel>
+<Mech_Tunneler.corePart.parts.left_leg.parts.left_foot.customLabel>Chân trái</Mech_Tunneler.corePart.parts.left_leg.parts.left_foot.customLabel>
+<Mech_Tunneler.corePart.parts.right_leg.customLabel>Chân phải</Mech_Tunneler.corePart.parts.right_leg.customLabel>
+<Mech_Tunneler.corePart.parts.right_leg.parts.right_foot.customLabel>Chân phải</Mech_Tunneler.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

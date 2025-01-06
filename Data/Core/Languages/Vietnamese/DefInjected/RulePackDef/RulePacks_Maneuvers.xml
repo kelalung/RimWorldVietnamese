@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Maneuver_Bite.rulePack.rulesStrings>
+		<li>damaged_inf->cắn</li>
+		<li>damaged_inf->xé</li>
+		<li>damaged_inf(p=0.5)->gặm</li>
+		<li>damaged_past->cắn trúng</li>
+		<li>damaged_past->cắn</li>
+		<li>damaged_past->gặm</li>
+		<li>damaged_past->cắn giữ</li>
+		<li>damaged_past(deflected!=True)->xé rách</li>
+		<li>damaged_present->cắn thương</li>
+		<li>damaged_present->xé rách</li>
+		<li>damaged_present->gặm rách</li>
+		<li>damaged_present->cắn thương</li>
+		<li>damaged_present(deflected!=True)->xé</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->lộ ra thịt bên dưới</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->lộ ra dây cáp cơ khí bên trong</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại vết thương khủng khiếp trên da</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->để lại vết nứt khủng khiếp trên vỏ kim loại</li>
+		<li>destroyed_past->cắn đứt</li>
+		<li>destroyed_past->cắn xuống</li>
+		<li>destroyed_past->xé bỏ</li>
+		<li>destroyed_present->cắn đứt</li>
+		<li>destroyed_present->cắn xuống</li>
+		<li>destroyed_present->xé bỏ</li>
+		<li>destroyed_suffix->[to] mảnh vụn</li>
+		<li>destroyed_suffix->[to] mảnh nhỏ</li>
+		<li>destroyed_suffix->[to] mảnh vỡ</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mảnh vụn</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mảnh vụn lộn xộn</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] máu thịt bầy nhầy</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] một vũng bùn</li>
+	</Maneuver_Bite.rulePack.rulesStrings>
+	<Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] cố gắng đá [TOOL_label] vào mắt [RECIPIENT_definite] nhưng [RECIPIENT_definite] đã né tránh.</li>
+		<li>r_logentry->[INITIATOR_definite] đá [TOOL_label] lên, muốn ảnh hưởng đến quan sát của [RECIPIENT_definite], nhưng bị [RECIPIENT_definite] nhìn thấu.</li>
+	</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+	<Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] đá [TOOL_label] lên, thành công ảnh hưởng đến quan sát của [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)->[INITIATOR_definite] đá một đợt [TOOL_label] vào mắt [RECIPIENT_definite].</li>
+	</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+	<Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] cố gắng đá [TOOL_label] vào mắt [RECIPIENT_definite] nhưng không trúng.</li>
+	</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+	<Maneuver_Poke.rulePack.rulesStrings>
+		<li>damaged_inf(p=2)->đâm thẳng</li>
+		<li>damaged_inf(p=2)->đánh mạnh</li>
+		<li>damaged_inf->đâm</li>
+		<li>damaged_inf->đẩy mạnh</li>
+		<li>damaged_inf->đâm vào</li>
+		<li>damaged_past(p=2)->đâm trúng</li>
+		<li>damaged_past(p=2)->đánh trúng</li>
+		<li>damaged_past->đâm trúng</li>
+		<li>damaged_past->đẩy trúng</li>
+		<li>damaged_past->đâm vào</li>
+		<li>damaged_present(p=2)->đâm thương</li>
+		<li>damaged_present(p=2)->đâm vào</li>
+		<li>damaged_present->đâm thương</li>
+		<li>damaged_present->đánh thương</li>
+		<li>damaged_present->đâm vào</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một vết bầm lớn</li>
+		<li>flavortext_consequence->vùng bị đánh trúng rõ ràng bị biến dạng</li>
+		<li>flavortext_consequence->sức va chạm khiến [RECIPIENT_objective] mất thăng bằng</li>
+		<li>flavortext_consequence->[RECIPIENT_objective] bị đẩy sang một bên</li>
+		<li>destroyed_past->nghiền nát</li>
+		<li>destroyed_past->ép nát</li>
+		<li>destroyed_past->đánh hỏng</li>
+		<li>destroyed_past->hỏng mất</li>
+		<li>destroyed_past->đập vỡ</li>
+		<li>destroyed_present->nghiền nát</li>
+		<li>destroyed_present->ép nát</li>
+		<li>destroyed_present->đánh hỏng</li>
+		<li>destroyed_present->mang đi</li>
+		<li>destroyed_present->đập vỡ</li>
+		<li>destroyed_suffix->[to] mảnh vụn</li>
+		<li>destroyed_suffix->[to] mảnh nhỏ</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] bụi mù</li>
+		<li>destroyed_suffix->[to] chất thải</li>
+	</Maneuver_Poke.rulePack.rulesStrings>
+	<Maneuver_Scratch.rulePack.rulesStrings>
+		<li>woundname->vết thương</li>
+		<li>woundname(p=0.3)->vết cắt</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->và lộ ra thịt bên dưới</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->và lộ ra dây cáp cơ khí bên trong</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->và để lại vết thương chảy máu [woundname]</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mảnh vụn lộn xộn</li>
+		<li>destroyed_suffix->[to] mảnh vụn</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] mảnh vụn lộn xộn</li>
+		<li>destroyed_suffix->[to] mảnh vỡ</li>
+		<li>destroyed_suffix->[to] mảnh nhỏ</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] một đống máu</li>
+	</Maneuver_Scratch.rulePack.rulesStrings>
+	<Maneuver_Scratch_Damage.rulePack.rulesStrings>
+		<li>damaged_inf(p=4)->cào xước</li>
+		<li>damaged_inf(deflected!=True)->xé rách</li>
+		<li>damaged_inf(deflected!=True)->xé rách</li>
+		<li>damaged_inf->cắt</li>
+		<li>damaged_past(p=4)->cào trúng</li>
+		<li>damaged_past(deflected!=True)->xé rách</li>
+		<li>damaged_past(deflected!=True)->xé rách</li>
+		<li>damaged_past->cắt trúng</li>
+		<li>damaged_present->cào xước</li>
+		<li>damaged_present(deflected!=True)->xé rách</li>
+		<li>damaged_present(deflected!=True)->xé rách</li>
+		<li>damaged_present->cắt đứt</li>
+		<li>destroyed_past->hỏng mất</li>
+		<li>destroyed_past->cắt rách</li>
+		<li>destroyed_past->xé bỏ</li>
+		<li>destroyed_past->xé nát</li>
+		<li>destroyed_past->xé mở</li>
+		<li>destroyed_present->hỏng mất</li>
+		<li>destroyed_present->cắt rách</li>
+		<li>destroyed_present->xé bỏ</li>
+		<li>destroyed_present->xé nát</li>
+		<li>destroyed_present->xé mở</li>
+	</Maneuver_Scratch_Damage.rulePack.rulesStrings>
+	<Maneuver_Slash.rulePack.rulesStrings>
+		<li>damaged_inf(p=4)->chém</li>
+		<li>damaged_inf->cắt</li>
+		<li>damaged_inf->đánh chém</li>
+		<li>damaged_inf->đánh mạnh</li>
+		<li>damaged_inf->cắt lát</li>
+		<li>damaged_inf(deflected!=True)->cào</li>
+		<li>damaged_past(p=4)->đánh trúng</li>
+		<li>damaged_past->cắt trúng</li>
+		<li>damaged_past->chém tới</li>
+		<li>damaged_past->đánh trúng</li>
+		<li>damaged_past->cắt trúng</li>
+		<li>damaged_past(deflected!=True)->cào xước</li>
+		<li>damaged_present->đánh thương</li>
+		<li>damaged_present->cắt thương</li>
+		<li>damaged_present->cào rách</li>
+		<li>damaged_present(deflected!=True)->cào mở</li>
+		<li>damaged_present(deflected!=True)->xé rách</li>
+		<li>damaged_present(deflected!=True)->xé mở</li>
+		<li>woundname->vết thương</li>
+		<li>woundname(p=0.3)->vết cắt</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->và lộ ra thịt bên dưới</li>
+		<li>flavortext_consequence(recipient_flesh==Mechanoid)->và lộ ra dây cáp cơ khí bên trong</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->và để lại vết thương chảy máu [woundname]</li>
+		<li>destroyed_past->cắt đứt</li>
+		<li>destroyed_past->cắt xuống</li>
+		<li>destroyed_past->đánh đứt</li>
+		<li>destroyed_past->cắt bỏ</li>
+		<li>destroyed_past->chẻ ra</li>
+		<li>destroyed_present->cắt đứt</li>
+		<li>destroyed_present->cắt xuống</li>
+		<li>destroyed_present->đánh đứt</li>
+		<li>destroyed_present->cắt bỏ</li>
+		<li>destroyed_present->chẻ ra</li>
+		<li>destroyed_suffix->để lại một vết cắt gọn gàng</li>
+		<li>destroyed_suffix->sạch sẽ</li>
+		<li>destroyed_suffix(target_part_destroyed_count==1)->lộ ra hoạt động bên trong</li>
+		<li>destroyed_suffix(target_part_destroyed_count==1)->cắt đứt một cách rõ ràng</li>
+	</Maneuver_Slash.rulePack.rulesStrings>
+	<Maneuver_Smash.rulePack.rulesStrings>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một vết bầm lớn</li>
+		<li>flavortext_consequence->vùng bị đánh trúng rõ ràng bị biến dạng</li>
+		<li>flavortext_consequence->sức va chạm khiến [RECIPIENT_objective] mất thăng bằng</li>
+		<li>flavortext_consequence->[RECIPIENT_objective] bị đẩy sang một bên</li>
+		<li>destroyed_suffix->[to] mảnh vụn</li>
+		<li>destroyed_suffix->[to] mảnh nhỏ</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] bụi mù</li>
+		<li>destroyed_suffix->[to] chất thải</li>
+	</Maneuver_Smash.rulePack.rulesStrings>
+	<Maneuver_Smash_Damage.rulePack.rulesStrings>
+		<li>damaged_inf(p=4)->đánh mạnh</li>
+		<li>damaged_inf->đánh mạnh</li>
+		<li>damaged_inf->đánh mạnh</li>
+		<li>damaged_inf->tấn công</li>
+		<li>damaged_inf->tấn công</li>
+		<li>damaged_past(p=4)->đánh trúng</li>
+		<li>damaged_past->đánh trúng</li>
+		<li>damaged_past->đánh trúng</li>
+		<li>damaged_past->đánh trúng</li>
+		<li>damaged_past->đánh trúng</li>
+		<li>damaged_present->đánh thương</li>
+		<li>damaged_present->đánh nát</li>
+		<li>damaged_present->đánh thương</li>
+		<li>damaged_present(deflected!=True)->ép thương</li>
+		<li>damaged_present(deflected!=True)->đánh chí mạng</li>
+		<li>destroyed_past->nghiền nát</li>
+		<li>destroyed_past->ép nát</li>
+		<li>destroyed_past->phá hủy</li>
+		<li>destroyed_past->hỏng mất</li>
+		<li>destroyed_past->đập vỡ</li>
+		<li>destroyed_present->nghiền nát</li>
+		<li>destroyed_present->ép nát</li>
+		<li>destroyed_present->phá hủy</li>
+		<li>destroyed_present->hỏng mất</li>
+		<li>destroyed_present->đập vỡ</li>
+	</Maneuver_Smash_Damage.rulePack.rulesStrings>
+	<Maneuver_Stab.rulePack.rulesStrings>
+		<li>damaged_inf(p=4)->đâm mạnh</li>
+		<li>damaged_inf->đâm</li>
+		<li>damaged_inf(deflected!=True)->đâm xuyên</li>
+		<li>damaged_inf(deflected!=True)->xuyên thấu</li>
+		<li>damaged_inf(deflected!=True)->chèn vào</li>
+		<li>damaged_past(p=4)->đâm trúng</li>
+		<li>damaged_past->đâm trúng</li>
+		<li>damaged_past(deflected!=True)->đâm xuyên</li>
+		<li>damaged_past(deflected!=True)->xuyên thấu</li>
+		<li>damaged_past(deflected!=True)->chèn vào</li>
+		<li>damaged_present(deflected!=True)->đâm rách</li>
+		<li>damaged_present(deflected!=True)->đâm thương</li>
+		<li>damaged_present(deflected!=True)->đâm thương</li>
+		<li>damaged_present(deflected!=True)->làm thương</li>
+		<li>woundname->lỗ</li>
+		<li>woundname->vết thương</li>
+		<li>woundname->vết rách</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một [woundname] đầy máu</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một [woundname] bị xé rách</li>
+		<li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một [woundname] chảy máu</li>
+		<li>destroyed_past->đâm xuyên</li>
+		<li>destroyed_past->xuyên thấu</li>
+		<li>destroyed_past->chèn vào</li>
+		<li>destroyed_present->đâm xuyên</li>
+		<li>destroyed_present->xuyên thấu</li>
+		<li>destroyed_present->chèn hỏng</li>
+		<li>destroyed_suffix->đâm xuyên qua</li>
+		<li>destroyed_suffix->để lại một lỗ rõ ràng</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->đầy máu</li>
+		<li>destroyed_suffix(target_part_destroyed_count==1)->khiến nó chảy ra chất lỏng không xác định.</li>
+	</Maneuver_Stab.rulePack.rulesStrings>
+</LanguageData>

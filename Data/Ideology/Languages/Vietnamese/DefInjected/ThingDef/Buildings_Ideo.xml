@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Altar_Grand.label>Bàn thờ lớn</Altar_Grand.label>
+<Altar_Grand.description>Bàn thờ lớn là không thể thiếu trong suốt quá trình nghi lễ.</Altar_Grand.description>
+<Altar_Large.label>Bàn thờ lớn</Altar_Large.label>
+<Altar_Large.description>Bàn thờ lớn là không thể thiếu trong suốt quá trình nghi lễ.</Altar_Large.description>
+<Altar_Medium.label>Bàn thờ trung bình</Altar_Medium.label>
+<Altar_Medium.description>Bàn thờ trung bình là không thể thiếu trong suốt quá trình nghi lễ.</Altar_Medium.description>
+<Altar_Small.label>Bàn thờ nhỏ</Altar_Small.label>
+<Altar_Small.description>Bàn thờ nhỏ là không thể thiếu trong suốt quá trình nghi lễ.</Altar_Small.description>
+<BiosculpterPod.label>Buồng điều chỉnh sinh học</BiosculpterPod.label>
+<BiosculpterPod.description>Buồng chứa được trang bị bơm chất lỏng điều chỉnh hình dạng và hệ thống điều khiển. Nó có thể thực hiện nhiều điều chỉnh sinh học cho người sử dụng, bao gồm cả đảo ngược tuổi tác và kích thích cảm giác vui vẻ.\n\nVào cuối mỗi chu kỳ điều chỉnh, buồng điều chỉnh sẽ đồng bộ hóa với người sử dụng, trong thời gian này người khác không thể sử dụng buồng này và có thể làm cho chu kỳ điều chỉnh nhanh hơn 25%. Đồng bộ sẽ được đặt lại sau 80 ngày buồng điều chỉnh không có ai sử dụng.\n\nMỗi buồng điều chỉnh tiêu thụ 200W khi hoạt động và chỉ 50W khi chờ.</BiosculpterPod.description>
+<BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>Chữa lành vết thương</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
+<BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>Chữa lành tất cả các vết thương mới, mất máu và chữa một nhiễm trùng ngẫu nhiên.</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
+<BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>Đảo ngược sinh học</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+<BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>Chữa lành tất cả các vết thương mới, chữa một sẹo ngẫu nhiên và phục hồi các bộ phận nhỏ của cơ thể như ngón tay và ngón chân bị thiếu.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
+<BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>Đảo ngược tuổi tác</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+<BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Giúp người sử dụng đảo ngược tuổi tác {DURATION}.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+<BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>Điều chỉnh cảm giác vui vẻ</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+<BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>Định hình lại hệ thần kinh của người sử dụng để nâng cao tâm trạng trong một khoảng thời gian.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+<Burnbong.label>Ống hút thuốc</Burnbong.label>
+<Burnbong.description>Một ống hút thuốc dùng để chứa lá cần sa để đốt. Nó sẽ được đốt trong nghi lễ, tạo ra một lượng lớn khói. Hiệu ứng kéo dài vài giờ trước khi biến mất.</Burnbong.description>
+<CannibalPlatter.label>Bữa tiệc ăn thịt người</CannibalPlatter.label>
+<CannibalPlatter.description>Bàn đầy thịt người đã được cắt sẵn, dùng cho bữa tiệc ăn thịt người.</CannibalPlatter.description>
+<ChristmasTree.label>Cây thông Noel</ChristmasTree.label>
+<ChristmasTree.description>Một cây thông được trang trí bằng đèn và đồ trang trí, dùng cho lễ hội Giáng sinh.</ChristmasTree.description>
+<Darktorch.label>Đuốc mờ</Darktorch.label>
+<Darktorch.description>Một cây đuốc gỗ được xử lý đặc biệt, có thể phát ra ánh sáng mờ trên diện rộng. Thích hợp cho những người thích làm việc trong ánh sáng mờ. Cần thêm gỗ làm nhiên liệu. Tạo ra một lượng nhiệt nhỏ.</Darktorch.description>
+<DarktorchFungus.label>Đèn nấm mờ</DarktorchFungus.label>
+<DarktorchFungus.description>Một loại nấm đèn được xử lý đặc biệt, có thể phát ra ánh sáng mờ trên diện rộng. Thích hợp cho những người thích làm việc trong ánh sáng mờ. Cần thêm nấm làm nhiên liệu. Tạo ra một lượng nhiệt nhỏ.</DarktorchFungus.description>
+<Effigy.label>Tượng gỗ</Effigy.label>
+<Effigy.description>Một bức tượng người thô sơ bằng gỗ, được sử dụng như một phần của nghi lễ để thiêu đốt.</Effigy.description>
+<Ideogram.label>Hình tượng</Ideogram.label>
+<Ideogram.description>Một hình ảnh lớn được vẽ trên mặt đất và được củng cố bằng kim loại. Nó được sử dụng để đánh dấu địa điểm tổ chức nghi lễ.</Ideogram.description>
+<IncenseShrine.label>Bàn thờ hương</IncenseShrine.label>
+<IncenseShrine.description>Một ống hút thuốc dùng để chứa hương liệu. Nó sẽ được đốt trong nghi lễ, tạo ra một hiệu ứng hương mạnh mẽ.</IncenseShrine.description>
+<NeuralSupercharger.label>Thiết bị tăng tốc thần kinh</NeuralSupercharger.label>
+<NeuralSupercharger.description>Một thiết bị tăng tốc thần kinh chỉ có thể sử dụng một lần mỗi ngày. Thiết bị này có thể tăng tốc quá trình học tập nhưng cũng làm cho người sử dụng dễ đói hơn. Thiết bị tiêu thụ một lượng lớn điện năng. Hiệu ứng này sẽ biến mất sau một ngày.</NeuralSupercharger.description>
+<NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Nhận tăng tốc thần kinh</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+<Pyre.label>Đống củi</Pyre.label>
+<Pyre.description>Đống củi dùng cho nghi lễ.</Pyre.description>
+<RitualSpot.label>Điểm tổ chức nghi lễ</RitualSpot.label>
+<RitualSpot.description>Nơi diễn ra nghi lễ.</RitualSpot.description>
+<SacrificialFlag.label>Cờ hiến tế</SacrificialFlag.label>
+<SacrificialFlag.description>Một lá cờ đại diện cho kẻ thù, được sử dụng để thiêu đốt như một phần của nghi lễ.</SacrificialFlag.description>
+<SleepAccelerator.label>Thiết bị tăng tốc giấc ngủ</SleepAccelerator.label>
+<SleepAccelerator.description>Một thiết bị đặt bên cạnh giường có khả năng nâng cao hiệu suất nghỉ ngơi của người ngủ. Nó sẽ tiêu thụ một lượng lớn điện năng trong khi nâng cao hiệu suất nghỉ ngơi, khiến người ngủ dễ đói hơn. Phải được đặt ngay bên cạnh giường và hướng về phía giường. Đặt nhiều thiết bị tăng tốc giấc ngủ bên cạnh cùng một giường sẽ không tạo ra hiệu ứng bổ sung.</SleepAccelerator.description>
+</LanguageData>

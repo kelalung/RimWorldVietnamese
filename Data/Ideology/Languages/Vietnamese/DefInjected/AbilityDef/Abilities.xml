@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalCalm.label>Xoa dịu động vật</AnimalCalm.label>
+<AnimalCalm.description>Sử dụng phương pháp độc đáo để giao tiếp với động vật nhằm xoa dịu một con thú hoang dã.</AnimalCalm.description>
+<AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} đã thành công trong việc làm cho {RECIPIENT_labelShort} trở nên bình tĩnh và hiền hòa.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+<BerserkTrance.label>Huyền bí cuồng nộ</BerserkTrance.label>
+<BerserkTrance.description>Người thi triển kích thích cơn giận vượt quá giới hạn lý trí của bản thân. Trạng thái này sẽ tăng cường sức mạnh thể chất vượt qua giới hạn bình thường, nhưng cũng đồng nghĩa với việc mất kiểm soát bản thân và sẽ tấn công mọi kẻ thù xung quanh trong cơn cuồng nộ. Trạng thái này sẽ kéo dài 3 giờ.</BerserkTrance.description>
+<CombatCommand.label>Ra lệnh chiến đấu</CombatCommand.label>
+<CombatCommand.description>Tạo ra một hào quang nâng cao kỹ năng chiến đấu của tất cả mọi người xung quanh. Hiệu ứng của hào quang này sẽ kéo dài 24 giờ trong phạm vi xung quanh người lãnh đạo.</CombatCommand.description>
+<ConversionRitual.label>Nghi lễ cải đạo</ConversionRitual.label>
+<ConversionRitual.description>Cố gắng thuyết phục ai đó chấp nhận hình thức văn hóa của bạn. Nếu tiến triển thuận lợi, họ sẽ mất đi sự công nhận đối với một số hình thức văn hóa của bản thân và có thể thay đổi hình thức văn hóa. Nếu kết quả không tốt, họ sẽ càng kiên định với hình thức văn hóa ban đầu của mình.\n\nCần phải chọn một địa điểm nghi lễ cụ thể và có bàn thờ hoặc biểu tượng văn hóa phù hợp để bắt đầu nghi lễ.</ConversionRitual.description>
+<Convert.label>Cải đạo</Convert.label>
+<Convert.description>Cố gắng thay đổi hình thức văn hóa khác của ai đó thành hình thức văn hóa của người nói. Điều này sẽ giảm mức độ công nhận của mục tiêu đối với hình thức văn hóa của họ. Mức độ giảm phụ thuộc vào khả năng đàm phán của người nói.</Convert.description>
+<Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} đã không thành công trong việc cải đạo {RECIPIENT_labelShort}. {RECIPIENT_labelShort} cảm thấy khó chịu với hành động thử nghiệm này, nhưng mức độ công nhận của {RECIPIENT_possessive} đã giảm từ {CERTAINTYBEFORE} xuống {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+<Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} đã thành công trong việc cải đạo {RECIPIENT_labelShort} thành {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+<Counsel.label>An ủi</Counsel.label>
+<Counsel.description>Giúp ai đó vượt qua ký ức buồn, đối mặt với thực tại. Tỷ lệ thành công phụ thuộc vào cấp độ kỹ năng xã hội của người nói và mối quan hệ xã hội với mục tiêu.</Counsel.description>
+<Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} đã thất bại trong việc an ủi {RECIPIENT_labelShort}. {RECIPIENT_labelShort} trở nên bối rối.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+<Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} đã thành công trong việc an ủi {RECIPIENT_labelShort} và làm dịu trạng thái cảm xúc {2} của họ.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+<Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} đã thành công trong việc an ủi {RECIPIENT_labelShort} và tăng giá trị cảm xúc của {RECIPIENT_possessive} lên {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+<FarmingCommand.label>Ra lệnh nông nghiệp</FarmingCommand.label>
+<FarmingCommand.description>Cung cấp hướng dẫn kỹ thuật canh tác, nâng cao khả năng canh tác của tất cả mọi người xung quanh. Hiệu ứng này kéo dài 24 giờ trên người thi triển.</FarmingCommand.description>
+<ImmunityDrive.label>Kích thích miễn dịch</ImmunityDrive.label>
+<ImmunityDrive.description>Cung cấp động lực tinh thần, làm cho cơ thể tràn đầy sức sống, tăng cường lượng miễn dịch trong một ngày của ai đó.</ImmunityDrive.description>
+<LeaderSpeech.label>Diễn thuyết lãnh đạo</LeaderSpeech.label>
+<LeaderSpeech.description>Phát động một bài diễn thuyết lãnh đạo. Nếu tiến triển thuận lợi, khán giả sẽ có tâm trạng tốt hơn, tăng cường sự tôn trọng đối với người diễn thuyết, và có thể nhận được cảm hứng mới. Nếu tiến triển không tốt, sẽ làm tổn hại đến mối quan hệ xã hội.</LeaderSpeech.description>
+<MarksmanCommand.label>Ra lệnh xạ thủ</MarksmanCommand.label>
+<MarksmanCommand.description>Gọi lệnh bắn và nâng cao kỹ năng bắn của tất cả mọi người xung quanh. Hiệu ứng này kéo dài 24 giờ trên người thi triển.</MarksmanCommand.description>
+<MiningCommand.label>Ra lệnh khai thác</MiningCommand.label>
+<MiningCommand.description>Cung cấp hướng dẫn kỹ thuật khai thác, nâng cao khả năng khai thác của tất cả mọi người xung quanh. Hiệu ứng này kéo dài 24 giờ trên người thi triển.</MiningCommand.description>
+<PreachHealth.label>Giảng dạy sức khỏe</PreachHealth.label>
+<PreachHealth.description>Giảng dạy khái niệm ý thức văn hóa cho những người bị bệnh hoặc bị thương. Tăng tốc độ chữa lành vết thương và tăng cường miễn dịch.</PreachHealth.description>
+<ProductionCommand.label>Ra lệnh sản xuất</ProductionCommand.label>
+<ProductionCommand.description>Cung cấp hướng dẫn kỹ thuật chế tạo, nâng cao khả năng chế tạo của tất cả mọi người xung quanh. Hiệu ứng này kéo dài 24 giờ trên người thi triển.</ProductionCommand.description>
+<Reassure.label>Củng cố niềm tin</Reassure.label>
+<Reassure.description>Củng cố mức độ công nhận của ai đó đối với văn hóa của họ. Kết quả củng cố phụ thuộc vào khả năng đàm phán của người nói.</Reassure.description>
+<Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} đã thành công trong việc khích lệ {RECIPIENT_labelShort}, nâng cao mức độ công nhận của {RECIPIENT_possessive} đối với {IDEO} từ {BEFORECERTAINTY} lên {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+<ResearchCommand.label>Ra lệnh nghiên cứu</ResearchCommand.label>
+<ResearchCommand.description>Cung cấp lời khuyên và hỗ trợ tinh thần, nâng cao khả năng nghiên cứu của tất cả mọi người xung quanh. Hiệu ứng này kéo dài 24 giờ trên người thi triển.</ResearchCommand.description>
+<Trial.label>Xét xử</Trial.label>
+<Trial.description>Buộc tội ai đó phạm tội nghiêm trọng và khởi động một phiên tòa để quyết định có tội hay không. Nếu mục tiêu bị kết tội, bạn có thể giam giữ, xử án hoặc lưu đày mà không bị trừng phạt. Tỷ lệ kết tội phụ thuộc vào khả năng xã hội của người buộc tội và bị cáo.</Trial.description>
+<WorkDrive.label>Kích thích làm việc</WorkDrive.label>
+<WorkDrive.description>Kêu gọi ai đó làm việc chăm chỉ hơn trong một khoảng thời gian nhất định.</WorkDrive.description>
+</LanguageData>

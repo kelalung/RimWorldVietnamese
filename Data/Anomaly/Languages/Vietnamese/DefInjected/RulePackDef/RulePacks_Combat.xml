@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Combat_RangedFlamethrower.rulePack.rulesStrings>
+<li>r_logentry-&gt;[INITIATOR_definite] dùng [INITIATOR_possessive][WEAPON_label] vào [RECIPIENT_definite][firedat].</li>
+<li>r_logentry-&gt;[INITIATOR_definite] dùng [INITIATOR_possessive][WEAPON_label] vào [RECIPIENT_definite][fired].</li>
+<li>r_logentry-&gt;[INITIATOR_definite] vào [RECIPIENT_definite][firedat].</li>
+<li>r_logentry(RECIPIENT_missing==True)-&gt;[INITIATOR_definite] dùng [INITIATOR_possessive][WEAPON_label][fired].</li>
+<li>fired(p=2)-&gt;[verb_fired]</li>
+<li>fired-&gt;Phát động [skillAdv]</li>
+<li>firedat-&gt;Bắn</li>
+<li>firedat-&gt;Phát động [skillAdv]</li>
+<li>firedat(p=0.5)-&gt;Nhắm và bắn</li>
+<li>firedat(p=0.5)-&gt;Nhắm và phát động [skillAdv]</li>
+<li>firedat(p=0.3)-&gt;Bắn</li>
+<li>verb_fired-&gt;Bắn</li>
+  </Combat_RangedFlamethrower.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Artillery_AutoMortar.label>Pháo tự động</Artillery_AutoMortar.label>
+<Artillery_AutoMortar.verbs.Verb_Shoot.label>Pháo tự động</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+<Bullet_MiniSlug.label>Đạn nhỏ</Bullet_MiniSlug.label>
+<Gun_ChargeBlasterHeavyTurret.label>Pháo điện nhẹ</Gun_ChargeBlasterHeavyTurret.label>
+<Gun_ChargeBlasterHeavyTurret.description>Vũ khí có khả năng bắn đạn điện năng cao, dùng để kiểm soát khu vực.</Gun_ChargeBlasterHeavyTurret.description>
+<Gun_ChargeBlasterHeavyTurret.tools.barrel.label>Thân pháo</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+<Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>Pháo điện nhẹ</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+<Gun_InfernoCannonTurret.label>Pháo địa ngục</Gun_InfernoCannonTurret.label>
+<Gun_InfernoCannonTurret.description>Vũ khí bắn đạn cháy lớn.</Gun_InfernoCannonTurret.description>
+<Gun_InfernoCannonTurret.tools.barrel.label>Thân pháo</Gun_InfernoCannonTurret.tools.barrel.label>
+<Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>Pháo địa ngục</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+<Gun_MiniTurretMech.label>Pháo tự động nhỏ</Gun_MiniTurretMech.label>
+<Gun_MiniTurretMech.description>Một vũ khí tự động có khả năng tạo ra xung động động năng.</Gun_MiniTurretMech.description>
+<Gun_MiniTurretMech.verbs.Verb_Shoot.label>Pháo tự động nhỏ</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+<Turret_AutoChargeBlaster.label>Tháp pháo tự động bắn điện</Turret_AutoChargeBlaster.label>
+<Turret_AutoChargeBlaster.description>Một tháp pháo tự cấp điện được trang bị pháo bắn điện. Nó không thể phát hiện mục tiêu ở khoảng cách gần.</Turret_AutoChargeBlaster.description>
+<Turret_AutoInferno.label>Tháp pháo tự động địa ngục</Turret_AutoInferno.label>
+<Turret_AutoInferno.description>Một tháp pháo tự cấp điện được trang bị pháo địa ngục. Nó không thể phát hiện mục tiêu ở khoảng cách gần.</Turret_AutoInferno.description>
+<Turret_AutoMiniTurret.label>Tháp pháo tự động nhỏ</Turret_AutoMiniTurret.label>
+<Turret_AutoMiniTurret.description>Một tháp pháo tự cấp điện dùng để phòng thủ gần, được trang bị pháo tự động nhỏ, có thể phát nổ khi bị hư hại.</Turret_AutoMiniTurret.description>
+<Turret_AutoMortar.label>Pháo tự động</Turret_AutoMortar.label>
+<Turret_AutoMortar.description>Một pháo tự cấp điện, tự động nạp đạn. Nó có khả năng tấn công mục tiêu qua tường nhưng không chính xác.</Turret_AutoMortar.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<GainedTitle.stages.Received_title.label>Nhận Danh Hiệu {TITLE}</GainedTitle.stages.Received_title.label>
+<GainedTitle.stages.Received_title.description>Tôi đã được trao danh hiệu {TITLE}. Tôi thích sự công nhận này!</GainedTitle.stages.Received_title.description>
+<LostTitle.stages.Lost_title.label>Mất Danh Hiệu {TITLE}</LostTitle.stages.Lost_title.label>
+<LostTitle.stages.Lost_title.description>Tôi đã mất danh hiệu {TITLE} của mình.</LostTitle.stages.Lost_title.description>
+<TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>Muốn Trang Phục Đạt Chất Lượng {TITLE_label}</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
+<TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>Người như tôi với danh hiệu {TITLE_label} cần trang phục chất lượng {QUALITY} hoặc tốt hơn. Những mảnh vải này không xứng đáng với danh phận của tôi!</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
+<TitleApparelRequirementNotMet.stages.want_specific_apparel.label>Muốn Trang Phục Chuyên Dụng {TITLE_label}</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
+<TitleApparelRequirementNotMet.stages.want_specific_apparel.description>Người như tôi với danh hiệu {TITLE_label} nên mặc trang phục phù hợp với danh phận:\n\n{0}\n\nTrong lãnh thổ của tôi không có những thứ cần thiết như vậy.</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+<TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>Phòng Ngủ Làm Mất Dignity</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
+<TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>Người như tôi với danh hiệu {TITLE_label} nên có một phòng ngủ đáp ứng các điều kiện sau:\n\n{0}</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
+<TitleNoPersonalBedroom.stages.no_personal_bedroom.label>Không Có Phòng Ngủ Riêng</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
+<TitleNoPersonalBedroom.stages.no_personal_bedroom.description>Chia sẻ phòng ngủ với người khác là không thể chấp nhận đối với {TITLE_label}!</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+<TitleNoThroneRoom.stages.no_throne_room.label>Không Có Phòng Ngai Vàng</TitleNoThroneRoom.stages.no_throne_room.label>
+<TitleNoThroneRoom.stages.no_throne_room.description>Một quý tộc lại không có phòng ngai vàng? Thật vô lý!</TitleNoThroneRoom.stages.no_throne_room.description>
+<TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>Phòng Ngai Vàng Làm Mất Dignity</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
+<TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>Người như tôi với danh hiệu {TITLE_label} nên có những thứ cần thiết trong phòng ngai vàng của mình:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+</LanguageData>

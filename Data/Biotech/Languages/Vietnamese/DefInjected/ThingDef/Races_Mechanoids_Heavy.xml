@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Mech_Tunneler.label>Máy khoan</Mech_Tunneler.label>
+<Mech_Tunneler.description>Một cơ giới hạng nặng, được thiết kế để khai thác ở những địa điểm hẻo lánh. Mặc dù nó được sinh ra chỉ để đào bới, nhưng móng vuốt mạnh mẽ và giáp dày khiến nó trở thành một đối thủ đáng sợ trên chiến trường.</Mech_Tunneler.description>
+<Mech_Tunneler.tools.left_power_claw.label>Móng vuốt trái</Mech_Tunneler.tools.left_power_claw.label>
+<Mech_Tunneler.tools.left_power_claw.labelNoLocation>Móng vuốt</Mech_Tunneler.tools.left_power_claw.labelNoLocation>
+<Mech_Tunneler.tools.right_power_claw.label>Móng vuốt phải</Mech_Tunneler.tools.right_power_claw.label>
+<Mech_Tunneler.tools.right_power_claw.labelNoLocation>Móng vuốt</Mech_Tunneler.tools.right_power_claw.labelNoLocation>
+</LanguageData>

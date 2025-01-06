@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bulbfreak.label>Quái thú mùi hôi</Bulbfreak.label>
+	<Bulbfreak.corePart.parts.left_lung.customLabel>Phổi trái</Bulbfreak.corePart.parts.left_lung.customLabel>
+	<Bulbfreak.corePart.parts.right_lung.customLabel>Phổi phải</Bulbfreak.corePart.parts.right_lung.customLabel>
+	<Bulbfreak.corePart.parts.left_kidney.customLabel>Thận trái</Bulbfreak.corePart.parts.left_kidney.customLabel>
+	<Bulbfreak.corePart.parts.right_kidney.customLabel>Thận phải</Bulbfreak.corePart.parts.right_kidney.customLabel>
+	<Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>Mắt trái</Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+	<Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>Mắt phải</Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+	<Dreadmeld.label>Quái thú kinh hoàng</Dreadmeld.label>
+	<Dreadmeld.corePart.parts.left_lung.customLabel>Phổi trái</Dreadmeld.corePart.parts.left_lung.customLabel>
+	<Dreadmeld.corePart.parts.right_lung.customLabel>Phổi phải</Dreadmeld.corePart.parts.right_lung.customLabel>
+	<Dreadmeld.corePart.parts.left_kidney.customLabel>Thận trái</Dreadmeld.corePart.parts.left_kidney.customLabel>
+	<Dreadmeld.corePart.parts.right_kidney.customLabel>Thận phải</Dreadmeld.corePart.parts.right_kidney.customLabel>
+	<Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>Mắt trái</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+	<Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>Mắt phải</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+	<Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>Gai xương phải</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>
+	<Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>Gai xương trái</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>
+	<Fingerspike.label>Quái thú móng độc</Fingerspike.label>
+	<Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>Gai lưng</Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>
+	<Fingerspike.corePart.parts.left_lung.customLabel>Phổi trái</Fingerspike.corePart.parts.left_lung.customLabel>
+	<Fingerspike.corePart.parts.right_lung.customLabel>Phổi phải</Fingerspike.corePart.parts.right_lung.customLabel>
+	<Fingerspike.corePart.parts.left_kidney.customLabel>Thận trái</Fingerspike.corePart.parts.left_kidney.customLabel>
+	<Fingerspike.corePart.parts.right_kidney.customLabel>Thận phải</Fingerspike.corePart.parts.right_kidney.customLabel>
+	<Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>Mắt trái</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+	<Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>Mắt phải</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+	<Fingerspike.corePart.parts.left_shoulder.customLabel>Vai trái</Fingerspike.corePart.parts.left_shoulder.customLabel>
+	<Fingerspike.corePart.parts.right_shoulder.customLabel>Vai phải</Fingerspike.corePart.parts.right_shoulder.customLabel>
+	<Fingerspike.corePart.parts.left_tentacle.customLabel>Râu trái</Fingerspike.corePart.parts.left_tentacle.customLabel>
+	<Fingerspike.corePart.parts.right_tentacle.customLabel>Râu phải</Fingerspike.corePart.parts.right_tentacle.customLabel>
+	<Toughspike.label>Quái thú hai móng</Toughspike.label>
+	<Toughspike.corePart.parts.left_lung.customLabel>Phổi trái</Toughspike.corePart.parts.left_lung.customLabel>
+	<Toughspike.corePart.parts.right_lung.customLabel>Phổi phải</Toughspike.corePart.parts.right_lung.customLabel>
+	<Toughspike.corePart.parts.left_kidney.customLabel>Thận trái</Toughspike.corePart.parts.left_kidney.customLabel>
+	<Toughspike.corePart.parts.right_kidney.customLabel>Thận phải</Toughspike.corePart.parts.right_kidney.customLabel>
+	<Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>Mắt trái</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+	<Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>Mắt phải</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+	<Toughspike.corePart.parts.left_shoulder.customLabel>Vai trái</Toughspike.corePart.parts.left_shoulder.customLabel>
+	<Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>Gai cánh tay trái</Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+	<Toughspike.corePart.parts.right_shoulder.customLabel>Vai phải</Toughspike.corePart.parts.right_shoulder.customLabel>
+	<Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>Gai cánh tay phải</Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+	<Toughspike.corePart.parts.left_tentacle.customLabel>Râu trái</Toughspike.corePart.parts.left_tentacle.customLabel>
+	<Toughspike.corePart.parts.right_tentacle.customLabel>Râu phải</Toughspike.corePart.parts.right_tentacle.customLabel>
+	<Trispike.label>Quái thú ba móng</Trispike.label>
+	<Trispike.corePart.parts.Spine.parts.back_spike.customLabel>Gai lưng</Trispike.corePart.parts.Spine.parts.back_spike.customLabel>
+	<Trispike.corePart.parts.left_lung.customLabel>Phổi trái</Trispike.corePart.parts.left_lung.customLabel>
+	<Trispike.corePart.parts.right_lung.customLabel>Phổi phải</Trispike.corePart.parts.right_lung.customLabel>
+	<Trispike.corePart.parts.left_kidney.customLabel>Thận trái</Trispike.corePart.parts.left_kidney.customLabel>
+	<Trispike.corePart.parts.right_kidney.customLabel>Thận phải</Trispike.corePart.parts.right_kidney.customLabel>
+	<Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>Mắt trái</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+	<Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>Mắt phải</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+	<Trispike.corePart.parts.left_shoulder.customLabel>Vai trái</Trispike.corePart.parts.left_shoulder.customLabel>
+	<Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>Gai cánh tay trái</Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+	<Trispike.corePart.parts.right_shoulder.customLabel>Vai phải</Trispike.corePart.parts.right_shoulder.customLabel>
+	<Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>Gai cánh tay phải</Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+	<Trispike.corePart.parts.left_tentacle.customLabel>Râu trái</Trispike.corePart.parts.left_tentacle.customLabel>
+	<Trispike.corePart.parts.right_tentacle.customLabel>Râu phải</Trispike.corePart.parts.right_tentacle.customLabel>
+</LanguageData>

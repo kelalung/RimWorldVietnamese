@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Empire_Common_Laborer.label>Công nhân đế quốc</Empire_Common_Laborer.label>
+<Empire_Common_Lodger.label>Công dân đế quốc</Empire_Common_Lodger.label>
+<Empire_Common_Trader.label>Thương nhân đế quốc</Empire_Common_Trader.label>
+<Empire_Fighter_Cataphract.label>Kỵ sĩ bọc giáp</Empire_Fighter_Cataphract.label>
+<Empire_Fighter_Champion.label>Kiếm sĩ vô địch</Empire_Fighter_Champion.label>
+<Empire_Fighter_Grenadier.label>Đế quốc cận vệ</Empire_Fighter_Grenadier.label>
+<Empire_Fighter_Janissary.label>Cận vệ hoàng gia</Empire_Fighter_Janissary.label>
+<Empire_Fighter_StellicGuardMelee.label>Bảo vệ tinh vân</Empire_Fighter_StellicGuardMelee.label>
+<Empire_Fighter_StellicGuardRanged.label>Bảo vệ tinh vân tầm xa</Empire_Fighter_StellicGuardRanged.label>
+<Empire_Fighter_Trooper.label>Chiến binh</Empire_Fighter_Trooper.label>
+<Empire_Royal_Acolyte.label>Người hầu</Empire_Royal_Acolyte.label>
+<Empire_Royal_Baron.label>Nam tước</Empire_Royal_Baron.label>
+<Empire_Royal_Baron.labelFemale>Nữ Nam tước</Empire_Royal_Baron.labelFemale>
+<Empire_Royal_Bestower.label>Người ban tặng</Empire_Royal_Bestower.label>
+<Empire_Royal_Consul.label>Chấp chính quan</Empire_Royal_Consul.label>
+<Empire_Royal_Count.label>Bá tước</Empire_Royal_Count.label>
+<Empire_Royal_Count.labelFemale>Nữ Bá tước</Empire_Royal_Count.labelFemale>
+<Empire_Royal_Duke.label>Công tước</Empire_Royal_Duke.label>
+<Empire_Royal_Duke.labelFemale>Nữ Công tước</Empire_Royal_Duke.labelFemale>
+<Empire_Royal_Knight.label>Kỵ sĩ</Empire_Royal_Knight.label>
+<Empire_Royal_Knight.labelFemale>Nữ Kỵ sĩ</Empire_Royal_Knight.labelFemale>
+<Empire_Royal_NobleWimp.label>Quý tộc</Empire_Royal_NobleWimp.label>
+<Empire_Royal_Praetor.label>Thống đốc</Empire_Royal_Praetor.label>
+<Empire_Royal_Stellarch.label>Chúa tể thiên hà</Empire_Royal_Stellarch.label>
+<Empire_Royal_Yeoman.label>Thư ký</Empire_Royal_Yeoman.label>
+<Slave_Empire.label>Nô lệ</Slave_Empire.label>
+</LanguageData>

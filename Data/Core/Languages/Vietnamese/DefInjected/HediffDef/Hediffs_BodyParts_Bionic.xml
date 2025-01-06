@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BionicArm.label>Cánh tay sinh học</BionicArm.label>
+	<BionicArm.description>Một cánh tay sinh học đã được lắp đặt. Hệ thống servo mini bên trong cung cấp sức mạnh lớn, trong khi các dây thần kinh gel sinh học cung cấp khả năng điều khiển chính xác, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi sau khi bị tổn thương. Nó vượt trội hơn chi thể sinh học ban đầu ở mọi phương diện.</BionicArm.description>
+	<BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>Đấm</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+	<BionicArm.labelNoun>Cánh tay sinh học</BionicArm.labelNoun>
+	<BionicEar.label>Tai sinh học</BionicEar.label>
+	<BionicEar.description>Một tai sinh học đã được lắp đặt. Thiết bị ẩn dưới da có thể thu âm thanh và truyền trực tiếp đến dây thần kinh thính giác thông qua các dây thần kinh gel sinh học. Độ nhạy của nó đủ để cho phép người dùng nhận biết âm thanh trước khi quan sát, đồng thời có thể chống lại thiệt hại do tiếng ồn lớn và tự động lọc ra âm thanh mục tiêu trong môi trường ồn ào.</BionicEar.description>
+	<BionicEar.labelNoun>Tai sinh học</BionicEar.labelNoun>
+	<BionicEye.label>Mắt sinh học</BionicEye.label>
+	<BionicEye.description>Một mắt sinh học đã được lắp đặt. Nó kết nối cảm biến ánh sáng và bộ xử lý tín hiệu bên trong thông qua các dây thần kinh gel sinh học, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi sau khi bị tổn thương. Nó vượt trội hơn mắt sinh học ban đầu ở mọi phương diện.</BionicEye.description>
+	<BionicEye.labelNoun>Mắt sinh học</BionicEye.labelNoun>
+	<BionicHeart.label>Tim sinh học</BionicHeart.label>
+	<BionicHeart.description>Một trái tim sinh học đã được lắp đặt. Các sợi cơ tổng hợp tạo thành nó có thể mô phỏng nhịp tim thực, và máy bơm lưu lượng cao tích hợp có thể nhanh chóng bơm máu dưới áp lực cao, đạt được khả năng tuần hoàn máu mạnh mẽ hơn. Nó vượt trội hơn tim sinh học ban đầu ở mọi phương diện.</BionicHeart.description>
+	<BionicHeart.labelNoun>Tim sinh học</BionicHeart.labelNoun>
+	<BionicJaw.label>Hàm sinh học</BionicJaw.label>
+	<BionicJaw.description>Một hàm sinh học đã được lắp đặt. Nó được lắp ráp từ xương tổng hợp, có răng giả bằng sợi thủy tinh và một hệ thống servo mini cho phép chuyển động toàn diện.</BionicJaw.description>
+	<BionicJaw.labelNoun>Hàm sinh học</BionicJaw.labelNoun>
+	<BionicLeg.label>Chân sinh học</BionicLeg.label>
+	<BionicLeg.description>Một chân sinh học đã được lắp đặt. Nó được trang bị hệ thống dây thần kinh gel sinh học, hệ thống servo mini và hệ thống sửa chữa ma trận hạt. Nó vượt trội hơn chi thể sinh học ban đầu ở mọi phương diện.</BionicLeg.description>
+	<BionicLeg.labelNoun>Chân sinh học</BionicLeg.labelNoun>
+	<BionicSpine.label>Cột sống sinh học</BionicSpine.label>
+	<BionicSpine.description>Một cột sống sinh học đã được lắp đặt. Nó được cấu thành từ lõi thủy tinh chứa đầy các bó dây thần kinh gel sinh học, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi sau khi bị tổn thương. Nó gần như có thể thay thế hoàn hảo cột sống sinh học ban đầu.</BionicSpine.description>
+	<BionicSpine.labelNoun>Cột sống sinh học</BionicSpine.labelNoun>
+	<BionicStomach.label>Dạ dày sinh học</BionicStomach.label>
+	<BionicStomach.description>Một dạ dày sinh học đã được lắp đặt. Các cảm biến và máy tổng hợp hóa học bên trong có thể tiêu hóa hiệu quả bất kỳ loại thực phẩm nào chứa dinh dưỡng. Nó có khả năng giảm thiểu nguy cơ ngộ độc thực phẩm cho người lắp đặt và miễn dịch với một số bệnh về dạ dày. Hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi sau khi bị tổn thương. Nó vượt trội hơn các cơ quan tiêu hóa sinh học ban đầu ở mọi phương diện, bao gồm cả giá cả.</BionicStomach.description>
+	<BionicStomach.labelNoun>Dạ dày sinh học</BionicStomach.labelNoun>
+	<BionicTongue.label>Đầu lưỡi sinh học</BionicTongue.label>
+	<BionicTongue.description>Một đầu lưỡi sinh học đã được lắp đặt. Nó được làm từ sợi tổng hợp mịn và kết nối thông qua giao diện gel thần kinh. Nó có khả năng nói, ăn và nếm đủ để so sánh với lưỡi sinh học ban đầu.</BionicTongue.description>
+	<BionicTongue.labelNoun>Đầu lưỡi sinh học</BionicTongue.labelNoun>
+	<DeathAcidifier.label>Chất phân hủy</DeathAcidifier.label>
+	<DeathAcidifier.description>Một chất phân hủy đã được lắp đặt. Khi người lắp đặt chết, nó sẽ giải phóng các hóa chất mạnh mẽ để phân hủy thiết bị tiếp xúc với cơ thể. Chất phân hủy sẽ không gây hại cho người khác.</DeathAcidifier.description>
+	<DeathAcidifier.labelNoun>Chất phân hủy</DeathAcidifier.labelNoun>
+</LanguageData>

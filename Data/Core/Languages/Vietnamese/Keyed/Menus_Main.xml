@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Tutorial>Hướng dẫn trò chơi</Tutorial>
+	<NewColony>Tạo thuộc địa mới</NewColony>
+	<BackToGame>Quay lại trò chơi</BackToGame>
+	<ReviewScenario>Xem kịch bản</ReviewScenario>
+	<Save>Lưu</Save>
+	<LoadGame>Tải trò chơi</LoadGame>
+	<Options>Tùy chọn</Options>
+	<Mod>Mod</Mod>
+	<Mods>Cài đặt Mod</Mods>
+	<SaveTranslationReport>Lưu báo cáo dịch thuật</SaveTranslationReport>
+	<GeneratingTranslationReport>Đang tạo báo cáo dịch thuật</GeneratingTranslationReport>
+	<CleanupTranslationFiles>Dọn dẹp tệp dịch thuật</CleanupTranslationFiles>
+	<TranslationFilesTKeyUpdate>Cập nhật tệp dịch thuật (TKey's)</TranslationFilesTKeyUpdate>
+	<CleaningTranslationFiles>Đang dọn dẹp tệp dịch thuật</CleaningTranslationFiles>
+	<DevQuickTest>Dev: Kiểm tra nhanh</DevQuickTest>
+	<Credits>Nhóm phát triển</Credits>
+	<QuitToMainMenu>Thoát về menu chính</QuitToMainMenu>
+	<SaveAndQuitToMainMenu>Lưu và thoát về menu chính</SaveAndQuitToMainMenu>
+	<QuitToOS>Thoát về máy tính để bàn</QuitToOS>
+	<SaveAndQuitToOS>Lưu và thoát về máy tính để bàn</SaveAndQuitToOS>
+	<FictionPrimer>Giới thiệu nội dung</FictionPrimer>
+	<LudeonBlog>Blog của nhóm Ludeon</LudeonBlog>
+	<Forums>Diễn đàn chính thức</Forums>
+	<OfficialWiki>Wiki chính thức</OfficialWiki>
+	<TynansTwitter>Twitter của Tynan</TynansTwitter>
+	<TynansDesignBook>Sách hướng dẫn thiết kế của Tynan</TynansDesignBook>
+	<HelpTranslate>Hỗ trợ dịch RimWorld</HelpTranslate>
+	<BuySoundtrack>Mua nhạc nền</BuySoundtrack>
+	<CreateWorld>Tạo thế giới</CreateWorld>
+	<TranslationThanks>Tất cả bản dịch của RimWorld đều do các tình nguyện viên thực hiện.\nCác thành viên dịch thuật bao gồm:\n\n{0}</TranslationThanks>
+	<TranslationHowToContribute>Bạn cũng có thể đóng góp cho bản dịch của trò chơi này. Nhấn nút bên dưới để tìm hiểu thêm (mở trình duyệt web)</TranslationHowToContribute>
+	<LearnMore>Tìm hiểu thêm</LearnMore>
+	<DevBuildWarning>Cảnh báo: Đây là phiên bản phát triển không ổn định. Điều này có nghĩa là chúng tôi đang thực hiện các thử nghiệm thiết kế và phát triển kỹ thuật.\n\nMột số khu vực có thể tạm thời mất cân bằng. Đây là một phương pháp thiết kế trò chơi cổ điển, nhằm hiểu rõ hơn về giới hạn của sự cân bằng, chúng tôi sẽ cố tình đi vòng quanh vấn đề này. Sau đó, chúng tôi sẽ quyết định điểm cân bằng cuối cùng dựa trên thông tin thu được.\n\nTrong thời gian này, chúng tôi sẽ gặp một số vấn đề, thậm chí có thể gây ra sự cố trò chơi. Hỗ trợ tương thích với các lưu trữ cũng sẽ không tốt lắm.\n\nNếu bạn hài lòng với tất cả điều này, cảm ơn bạn đã tham gia thử nghiệm! Nếu bạn không muốn chấp nhận thử nghiệm, hãy chọn phiên bản ổn định mới nhất.</DevBuildWarning>
+	<ReviewWorld>Xem thế giới</ReviewWorld>
+	<WorldGenerate>Thế giới đang được tạo</WorldGenerate>
+	<WorldSaveAndFinish>Lưu và hoàn tất</WorldSaveAndFinish>
+	<ResetFactions>Đặt lại các phe</ResetFactions>
+	<PlanetCoverage>Độ phủ toàn cầu</PlanetCoverage>
+	<PlanetRainfall>Tổng lượng mưa</PlanetRainfall>
+	<PlanetTemperature>Nhiệt độ tổng thể</PlanetTemperature>
+	<PlanetPopulation>Mật độ dân số</PlanetPopulation>
+	<PlanetRainfall_Low>Thấp</PlanetRainfall_Low>
+	<PlanetRainfall_Normal>Bình thường</PlanetRainfall_Normal>
+	<PlanetRainfall_High>Cao</PlanetRainfall_High>
+	<PlanetTemperature_Low>Thấp</PlanetTemperature_Low>
+	<PlanetTemperature_Normal>Bình thường</PlanetTemperature_Normal>
+	<PlanetTemperature_High>Cao</PlanetTemperature_High>
+	<PlanetPopulation_Low>Thưa thớt</PlanetPopulation_Low>
+	<PlanetPopulation_Normal>Trung bình</PlanetPopulation_Normal>
+	<PlanetPopulation_High>Đông đúc</PlanetPopulation_High>
+	<WorldSeed>Hạt giống</WorldSeed>
+	<RandomizeSeed>Hạt giống ngẫu nhiên</RandomizeSeed>
+	<PlanetCoverageTip>Kích thước hành tinh là cố định, nhưng do nó vượt xa bề mặt cần thiết cho trò chơi bình thường, nên chúng tôi mặc định không tạo toàn bộ bề mặt hành tinh (có thể mất nhiều thời gian). Tùy chọn này cho tỷ lệ bề mặt hành tinh mà bạn muốn tạo.</PlanetCoverageTip>
+	<WorldFactionsTab>Các phe</WorldFactionsTab>
+	<SelectWorld>Chọn thế giới</SelectWorld>
+	<WorldChooseButton>Chọn</WorldChooseButton>
+	<NoWorldsFilesFound>Không tìm thấy tệp thế giới nào. Vui lòng tạo một thế giới trước.</NoWorldsFilesFound>
+	<BuildNowAvailable>Phiên bản mới {0} đã được phát hành. Truy cập Ludeon.com để biết thêm thông tin.</BuildNowAvailable>
+	<BuildUpToDate>Phiên bản hiện tại đã là mới nhất.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Không thể lấy thông tin phiên bản: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Đang lấy thông tin phiên bản……</LoadingVersionInfo>
+	<GenerateWorld>Tạo thế giới</GenerateWorld>
+	<OpenSteamWorkshop>Mở Steam Workshop</OpenSteamWorkshop>
+	<GetModsFromForum>Lấy Mod từ diễn đàn</GetModsFromForum>
+	<OpenModsDataFolder>Mở thư mục Mod</OpenModsDataFolder>
+	<ShowModsDataLocation>Hiển thị vị trí lưu Mod</ShowModsDataLocation>
+	<ConfirmDisableCoreMod>Bạn có chắc chắn muốn vô hiệu hóa mod cốt lõi không? Trò chơi sẽ không hoạt động nếu không có mod thay thế hoàn toàn tất cả chức năng cốt lõi của trò chơi.\n\nHãy nhớ rằng, các mod khác có thể ghi đè các thiết lập trong trò chơi bằng cách sử dụng cùng một defName.</ConfirmDisableCoreMod>
+	<ConfirmDeleteMod>Bạn có chắc chắn muốn xóa tất cả nội dung của {0} không?</ConfirmDeleteMod>
+	<ResolveModOrder>Sắp xếp tự động</ResolveModOrder>
+	<SaveModChanges>Lưu và áp dụng thay đổi Mod</SaveModChanges>
+	<DiscardModChanges>Danh sách mod đã thay đổi đã được lưu, bạn có chắc chắn muốn tiếp tục không?</DiscardModChanges>
+	<ModReorderConflict_MustLoadAfter>Không thể di chuyển {0}: nó phải được tải sau {1}.</ModReorderConflict_MustLoadAfter>
+	<ModReorderConflict_MustLoadBefore>Không thể di chuyển {0}: nó phải được tải trước {1}.</ModReorderConflict_MustLoadBefore>
+	<Unsubscribe>Hủy đăng ký</Unsubscribe>
+	<ConfirmUnsubscribe>Bạn có chắc chắn muốn hủy đăng ký không?</ConfirmUnsubscribe>
+	<ConfirmUnsubscribeFrom>Bạn có chắc chắn muốn hủy đăng ký {0} không?</ConfirmUnsubscribeFrom>
+	<ConfirmUnsubscribeFromMultiple>Bạn có chắc chắn muốn hủy đăng ký không?\n\n{0}</ConfirmUnsubscribeFromMultiple>
+	<Author>Tác giả</Author>
+	<Enabled>Bật</Enabled>
+	<Disabled>Tắt</Disabled>
+	<Enable>Bật</Enable>
+	<Disable>Tắt</Disable>
+	<GetMods>Lấy Mods...</GetMods>
+	<UnsubscribeMultiple>Hủy đăng ký...</UnsubscribeMultiple>
+	<SaveLoadList>Lưu/Đọc danh sách...</SaveLoadList>
+	<SaveModList>Lưu danh sách mod</SaveModList>
+	<LoadModList>Đọc danh sách mod</LoadModList>
+	<AddedModsList>Đã thêm</AddedModsList>
+	<MissingModsList>Thiếu</MissingModsList>
+	<SharedModsList>Khớp</SharedModsList>
+	<ModWebsite>Trang web</ModWebsite>
+	<ModFolder>Mở thư mục</ModFolder>
+	<ModOptions>Tùy chọn Mod</ModOptions>
+	<FromWorkshop>Từ Workshop</FromWorkshop>
+	<FromForum>Từ diễn đàn</FromForum>
+	<MoreActions>Hành động nâng cao...</MoreActions>
+	<AllSelectedMods>Tất cả mod đã chọn</AllSelectedMods>
+	<AllDisabledMods>Tất cả mod đã tắt</AllDisabledMods>
+	<AllIncompatibleMods>Tất cả mod không tương thích</AllIncompatibleMods>
+	<WorkshopPage>Trang Workshop</WorkshopPage>
+	<UploadToSteamWorkshop>Tải lên Steam Workshop</UploadToSteamWorkshop>
+	<UpdateOnSteamWorkshop>Cập nhật lên Steam Workshop</UpdateOnSteamWorkshop>
+	<UploadAlreadyInProgress>Đang trong quá trình tải lên.</UploadAlreadyInProgress>
+	<WorkshopSubmissionFailed>Gửi đến Workshop thất bại.\n\nLý do: {0}</WorkshopSubmissionFailed>
+	<WorkshopUploadSucceeded>Đã tải lên thành công {0}.</WorkshopUploadSucceeded>
+	<Downloading>Đang tải xuống</Downloading>
+	<WorkshopId>ID Workshop</WorkshopId>
+	<ModDisplayFulfilledRequirements>Hiển thị yêu cầu đã được đáp ứng</ModDisplayFulfilledRequirements>
+	<ModClickToSelect>Nhấn để chọn.</ModClickToSelect>
+	<ModClickToGoToWebsite>Nhấn để vào trang web.</ModClickToGoToWebsite>
+	<Source>Nguồn</Source>
+	<ModTargetVersion>Phiên bản trò chơi</ModTargetVersion>
+	<ModVersion>Phiên bản Mod</ModVersion>
+	<ModPackageId>ID</ModPackageId>
+	<ModMustLoadBefore>Phải được tải trước các mod này: {0}.</ModMustLoadBefore>
+	<ModMustLoadAfter>Phải được tải sau các mod này: {0}.</ModMustLoadAfter>
+	<ModDependsOn>Cần thiết: {0}</ModDependsOn>
+	<ModIncompatibleWith>Không tương thích: {0}</ModIncompatibleWith>
+	<ModIncompatibleWithTip>Các mod không tương thích với cái này: {0}.</ModIncompatibleWithTip>
+	<ModOrderingWarning>Thứ tự tải mod này không đúng so với một mod khác. Sử dụng nút "Tự động sắp xếp", hoặc sắp xếp lại mod thủ công.</ModOrderingWarning>
+	<ModWithSameIdAlreadyActive>Có một mod khác đang hoạt động sử dụng cùng ID: {0}.</ModWithSameIdAlreadyActive>
+	<ModCyclicDependency>Có sự phụ thuộc vòng lặp với {0}.</ModCyclicDependency>
+	<ModUnsatisfiedDependency>Mod này cần các mod sau để hoạt động: {0}.</ModUnsatisfiedDependency>
+	<ModNotMadeForThisVersion>Mod này không tương thích với phiên bản RimWorld hiện tại, có thể không hoạt động bình thường.</ModNotMadeForThisVersion>
+	<ModNotMadeForThisVersionShort>Mod này không tương thích với phiên bản này.</ModNotMadeForThisVersionShort>
+	<ModNotMadeForThisVersion_Newer>Mod này được tạo cho phiên bản RimWorld cao hơn, có thể không hoạt động bình thường.</ModNotMadeForThisVersion_Newer>
+	<MessageModNeedsWellFormattedTargetVersion>Mod cần có thông tin phiên bản trò chơi được định dạng đúng trong About.xml. Ví dụ: [supportedVersions][li]{0}[/li][/supportedVersions]——[targetVersion] đã bị loại bỏ. Xem nhật ký để biết thêm thông tin.</MessageModNeedsWellFormattedTargetVersion>
+	<MessageModNeedsWellFormattedPackageId>Mod cần có một "packageId" được định dạng đúng và duy nhất trong tệp "About.xml". "packageId" phải đáp ứng các yêu cầu sau:\n\n - Chỉ bao gồm chữ cái, số và dấu chấm nửa rộng「.」\n - Không có khoảng trắng\n - Ít nhất một dấu chấm「.」\n - Không có dấu chấm liên tiếp「.」và không bắt đầu hoặc kết thúc bằng dấu chấm\n - Tối đa 60 ký tự\n - Không được bao gồm từ "Ludeon"\n\nVí dụ:\nAuthorName.ModName\nAuthorName.ModName.Specific</MessageModNeedsWellFormattedPackageId>
+	<ModHadLoadFolderIssues>Mod này có vấn đề trong LoadFolders.xml. Cần giải quyết trước khi tải lên:</ModHadLoadFolderIssues>
+	<ModLoadFolderDoesntExist>Thư mục được chỉ định cho phiên bản {1} {0} không tồn tại.</ModLoadFolderDoesntExist>
+	<ModLoadFolderMalformedVersion>Ký tự phiên bản '{0}' không đúng định dạng. Định dạng đúng là Major.Minor (ví dụ: 1.1)</ModLoadFolderMalformedVersion>
+	<ModLoadFolderListEmpty>Danh sách thư mục tải cho phiên bản {0} trống.</ModLoadFolderListEmpty>
+	<ModLoadFolderRepeatingFolder>Phiên bản {0} đã liệt kê thư mục trùng lặp: {1}.</ModLoadFolderRepeatingFolder>
+	<ModLoadFolderOutOfOrder>Thứ tự phiên bản không hợp lệ: {0} nên nằm trước {1}.</ModLoadFolderOutOfOrder>
+	<ModLoadFolderOutOfOrderDefault>Thứ tự phiên bản không hợp lệ: nên định nghĩa "default" trước tiên.</ModLoadFolderOutOfOrderDefault>
+	<ModLoadFolderDefaultDeprecated>Không khuyến khích sử dụng thư mục phiên bản định dạng mặc định trong tệp tải lên. Vui lòng gán nhãn cho thư mục của mỗi phiên bản với một thẻ như 'v...'.</ModLoadFolderDefaultDeprecated>
+	<ModLoadFolderDefinesUnsupportedGameVersion>Phiên bản {0} được xác định trong tệp tải lên, nhưng không có trong About.xml của mod.</ModLoadFolderDefinesUnsupportedGameVersion>
+	<DragToReorder>Kéo để sắp xếp</DragToReorder>
+	<ChooseScenario>Chọn kịch bản</ChooseScenario>
+	<ScenariosCustom>Tùy chỉnh</ScenariosCustom>
+	<ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+	<ScenarioEditor>Trình chỉnh sửa kịch bản</ScenarioEditor>
+	<Delete>Xóa</Delete>
+	<Seed>Hạt giống</Seed>
+	<Load>Tải</Load>
+	<EditMode>Chế độ chỉnh sửa</EditMode>
+	<Summary>Tóm tắt</Summary>
+	<AddPart>Thêm điều kiện</AddPart>
+	<TextFieldsMustBeFilled>Tất cả các ô văn bản phải được điền đầy đủ.</TextFieldsMustBeFilled>
+	<ConfirmSteamWorkshopUpload>Bạn có chắc chắn muốn tải lên Steam Workshop không?\n\nBạn phải đồng ý với điều khoản dịch vụ của Steam Workshop. Xem điều khoản đầy đủ tại:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+	<ConfirmContentAuthor>Nội dung bạn tải lên phải là của bạn sáng tạo.\n\nĐây có phải là sản phẩm của bạn không?</ConfirmContentAuthor>
+	<Incompatible>Không tương thích</Incompatible>
+	<TagAsTranslation>Đánh dấu là bản dịch</TagAsTranslation>
+	<TooMany>Quá nhiều (tối đa {0}): </TooMany>
+	<CanBeUpdatedOnWorkshop>Với tư cách là tác giả, bạn có thể cập nhật nó lên Steam Workshop.</CanBeUpdatedOnWorkshop>
+	<ScenarioChangedSavePrompt>Kịch bản này đã được thay đổi.\n\nBạn có muốn lưu trước khi sử dụng không?</ScenarioChangedSavePrompt>
+	<ChooseAIStoryteller>Chọn người kể chuyện AI</ChooseAIStoryteller>
+	<HowStorytellersWork>Người kể chuyện AI tạo ra các sự kiện khác nhau, chẳng hạn như cướp bóc của hải tặc, rơi tàu hàng, cuộc tấn công của động vật hoang dã, v.v. Chọn người kể chuyện khác nhau sẽ ảnh hưởng đến câu chuyện của thuộc địa của bạn.</HowStorytellersWork>
+	<MustChooseDifficulty>Vui lòng chọn một độ khó.</MustChooseDifficulty>
+	<Difficulty>Độ khó</Difficulty>
+	<CommitmentMode>Chế độ hardcore</CommitmentMode>
+	<ReloadAnytimeMode>Chế độ bình thường</ReloadAnytimeMode>
+	<MustChoosePermadeath>Vui lòng chọn một chế độ.</MustChoosePermadeath>
+	<ReloadAnytimeModeInfo>Bạn có thể lưu hoặc tải lại trò chơi bất cứ lúc nào.\n\nNếu bạn thích cách chơi này, hoặc đang tìm hiểu trò chơi, hoặc đã chọn mod có thể gây ra sự cố, hoặc chơi theo cách tự nguyện, thì chế độ này sẽ là lựa chọn tốt.</ReloadAnytimeModeInfo>
+	<PermadeathModeInfo>Bạn chỉ có thể lưu tiến trình khi thoát trò chơi. Khi thuộc địa gặp khủng hoảng, bạn không thể khôi phục sai lầm bằng cách tải lại.\n\nRimWorld là một máy tạo câu chuyện, việc mất mát không phải là điểm dừng của trò chơi—sinh và tử đều là một phần của câu chuyện, mang lại cho bạn những bài học.\n\nNiềm vui và nỗi buồn, thất bại hay thành công, tất cả đều được cô đọng thành câu chuyện của bạn—đó chính là RimWorld. Giống như Luke Skywalker (nhân vật trong Star Wars) khi gia đình anh bị giết, không chọn từ bỏ và bắt đầu lại, mất mát và đạt được đều là một phần của cuộc sống, đầy kịch tính.</PermadeathModeInfo>
+	<CanChangeStorytellerSettingsDuringPlay>Người kể chuyện và chế độ có thể thay đổi bất cứ lúc nào.</CanChangeStorytellerSettingsDuringPlay>
+	<DifficultyCustomSectionLabel>Cài đặt độ khó trò chơi tùy chỉnh</DifficultyCustomSectionLabel>
+	<DifficultyReset>Nhập mẫu cơ bản...</DifficultyReset>
+	<DifficultyThreatSection>Đe dọa</DifficultyThreatSection>
+	<Difficulty_ThreatScale_Label>Tỷ lệ đe dọa</Difficulty_ThreatScale_Label>
+	<Difficulty_ThreatScale_Info>Điều chỉnh quy mô đe dọa, tương tự như các cuộc tấn công và dịch bệnh, cũng như độ khó của nhiệm vụ.</Difficulty_ThreatScale_Info>
+	<Difficulty_AllowBigThreats_Label>Đe dọa lớn</Difficulty_AllowBigThreats_Label>
+	<Difficulty_AllowBigThreats_Info>Cho phép xuất hiện các đe dọa lớn, chẳng hạn như cuộc tấn công, dịch bệnh, săn người, rơi tàu vũ trụ, v.v.</Difficulty_AllowBigThreats_Info>
+	<Difficulty_AllowViolentQuests_Label>Các nhiệm vụ đe dọa</Difficulty_AllowViolentQuests_Label>
+	<Difficulty_AllowViolentQuests_Info>Cho phép xuất hiện các đe dọa và thử thách bạo lực trong nhiệm vụ. Nếu tùy chọn này bị tắt, nhiệm vụ sẽ chuyển thành loại không bạo lực.</Difficulty_AllowViolentQuests_Info>
+	<Difficulty_AllowIntroThreats_Label>Đe dọa hướng dẫn</Difficulty_AllowIntroThreats_Label>
+	<Difficulty_AllowIntroThreats_Info>Cho phép xuất hiện một đe dọa hướng dẫn bắt buộc khi bắt đầu trò chơi.</Difficulty_AllowIntroThreats_Info>
+	<Difficulty_PredatorsHuntHumanlikes_Label>Thú săn người</Difficulty_PredatorsHuntHumanlikes_Label>
+	<Difficulty_PredatorsHuntHumanlikes_Info>Cho phép động vật săn mồi hoang dã nhắm vào con người.</Difficulty_PredatorsHuntHumanlikes_Info>
+	<Difficulty_AllowExtremeWeatherIncidents_Label>Thời tiết cực đoan</Difficulty_AllowExtremeWeatherIncidents_Label>
+	<Difficulty_AllowExtremeWeatherIncidents_Info>Cho phép xuất hiện các sự kiện thời tiết cực đoan, chẳng hạn như bụi độc, mùa đông núi lửa và bão sấm sét.</Difficulty_AllowExtremeWeatherIncidents_Info>
+	<DifficultyEconomySection>Kinh tế</DifficultyEconomySection>
+	<Difficulty_TradePriceFactorLoss_Label>Giá giao dịch thiệt hại</Difficulty_TradePriceFactorLoss_Label>
+	<Difficulty_TradePriceFactorLoss_Info>Tăng giá mua và giảm giá bán khi giao dịch.</Difficulty_TradePriceFactorLoss_Info>
+	<Difficulty_CropYieldFactor_Label>Năng suất thu hoạch</Difficulty_CropYieldFactor_Label>
+	<Difficulty_CropYieldFactor_Info>Điều chỉnh năng suất của cây trồng và thu hoạch. Điều này bao gồm thu hoạch cây và chặt cây.</Difficulty_CropYieldFactor_Info>
+	<Difficulty_MineYieldFactor_Label>Năng suất khai thác</Difficulty_MineYieldFactor_Label>
+	<Difficulty_MineYieldFactor_Info>Điều chỉnh năng suất khi khai thác.</Difficulty_MineYieldFactor_Info>
+	<Difficulty_ButcherYieldFactor_Label>Năng suất giết mổ</Difficulty_ButcherYieldFactor_Label>
+	<Difficulty_ButcherYieldFactor_Info>Điều chỉnh năng suất khi giết mổ. Điều này bao gồm thịt, da và sản phẩm thu được từ việc tháo dỡ máy móc.</Difficulty_ButcherYieldFactor_Info>
+	<Difficulty_ResearchSpeedFactor_Label>Tốc độ nghiên cứu</Difficulty_ResearchSpeedFactor_Label>
+	<Difficulty_ResearchSpeedFactor_Info>Điều chỉnh tốc độ nghiên cứu.</Difficulty_ResearchSpeedFactor_Info>
+	<Difficulty_QuestRewardValueFactor_Label>Giá trị thưởng nhiệm vụ</Difficulty_QuestRewardValueFactor_Label>
+	<Difficulty_QuestRewardValueFactor_Info>Điều chỉnh giá trị thưởng từ nhiệm vụ.\n\nChú ý: Thưởng nhiệm vụ cũng sẽ tự động điều chỉnh theo mức độ đe dọa. Nếu bạn điều chỉnh tùy chọn này, bạn sẽ nhận được một hệ số bổ sung.</Difficulty_QuestRewardValueFactor_Info>
+	<Difficulty_RaidLootPointsFactor_Label>Điểm loot từ cuộc tấn công</Difficulty_RaidLootPointsFactor_Label>
+	<Difficulty_RaidLootPointsFactor_Info>Điều chỉnh số lượng loot mà kẻ tấn công mang theo.\n\nChú ý: Loot từ cuộc tấn công cũng sẽ tự động điều chỉnh theo mức độ đe dọa. Nếu bạn điều chỉnh tùy chọn này, bạn sẽ nhận được một hệ số bổ sung.</Difficulty_RaidLootPointsFactor_Info>
+	<Difficulty_MaintenanceCostFactor_Label>Chi phí bảo trì tháp</Difficulty_MaintenanceCostFactor_Label>
+	<Difficulty_MaintenanceCostFactor_Info>Điều chỉnh chi phí bảo trì tháp.</Difficulty_MaintenanceCostFactor_Info>
+	<Difficulty_ScariaRotChance_Label>Xác suất phân hủy Scaria</Difficulty_ScariaRotChance_Label>
+	<Difficulty_ScariaRotChance_Info>Xác suất phân hủy ngay lập tức của sinh vật mắc bệnh Scaria khi chết.\n\nChú ý: Cài đặt mặc định nhằm đảm bảo tất cả các độ khó đều nhận được phần thưởng thịt tương tự để cân bằng, vì ở độ khó cao, số lượng động vật sẽ tăng lên.</Difficulty_ScariaRotChance_Info>
+	<Difficulty_EnemyDeathOnDownedChanceFactor_Label>Xác suất kẻ thù chết khi bị đánh ngã</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+	<Difficulty_EnemyDeathOnDownedChanceFactor_Info>Điều chỉnh xác suất kẻ thù chết ngay khi bị đánh ngã. Điều này ảnh hưởng đến cơ hội bắt giữ, từ đó ảnh hưởng đến tỷ lệ tăng trưởng dân số của thuộc địa.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+	<DifficultyGeneralSection>Chung</DifficultyGeneralSection>
+	<Difficulty_ColonistMoodOffset_Label>Điểm tâm trạng của thuộc địa</Difficulty_ColonistMoodOffset_Label>
+	<Difficulty_ColonistMoodOffset_Info>Bổ sung tâm trạng vĩnh viễn cho tất cả các thuộc địa và tù nhân. Tâm trạng cơ bản của thuộc địa là 50%.</Difficulty_ColonistMoodOffset_Info>
+	<Difficulty_FoodPoisonChanceFactor_Label>Xác suất ngộ độc thực phẩm</Difficulty_FoodPoisonChanceFactor_Label>
+	<Difficulty_FoodPoisonChanceFactor_Info>Điều chỉnh xác suất một người bị ngộ độc khi ăn thực phẩm có thể độc hại.</Difficulty_FoodPoisonChanceFactor_Info>
+	<Difficulty_ManhunterChanceOnDamageFactor_Label>Xác suất phản công của động vật</Difficulty_ManhunterChanceOnDamageFactor_Label>
+	<Difficulty_ManhunterChanceOnDamageFactor_Info>Điều chỉnh xác suất động vật hoang dã phản công khi bị tấn công.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+	<Difficulty_FriendlyFireChanceFactor_Label>Xác suất gây thương tích cho đồng đội</Difficulty_FriendlyFireChanceFactor_Label>
+	<Difficulty_FriendlyFireChanceFactor_Info>Điều chỉnh xác suất gây thương tích cho đồng đội.\n\nChú ý: Tùy chọn này chỉ ảnh hưởng đến các phát bắn trực tiếp trúng mục tiêu. Nó không thể ngăn chặn thiệt hại do nổ hoặc đạn bắn trúng mục tiêu gây ra.</Difficulty_FriendlyFireChanceFactor_Info>
+	<Difficulty_AllowInstantKillChance_Label>Xác suất tử vong ngay lập tức của thuộc địa</Difficulty_AllowInstantKillChance_Label>
+	<Difficulty_AllowInstantKillChance_Info>Điều chỉnh xác suất thuộc địa tử vong ngay lập tức do bị tấn công. Thiệt hại sẽ được điều chỉnh, khiến thuộc địa ngã xuống thay vì tử vong.\n\nTuy nhiên, điều này chỉ ảnh hưởng đến một số loại thiệt hại có thể gây tử vong ngay lập tức cho thuộc địa; họ vẫn có thể bị ngã, chảy máu đến chết, hoặc tử vong do hỏa hoạn, nổ, bệnh tật, v.v.</Difficulty_AllowInstantKillChance_Info>
+	<Difficulty_PlayerPawnInfectionChanceFactor_Label>Xác suất nhiễm trùng</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+	<Difficulty_PlayerPawnInfectionChanceFactor_Info>Điều chỉnh xác suất nhiễm trùng từ vết thương.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+	<Difficulty_DiseaseIntervalFactor_Inverted_Label>Tần suất bệnh tật</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+	<Difficulty_DiseaseIntervalFactor_Inverted_Info>Điều chỉnh tần suất các sự kiện bệnh tật ngẫu nhiên.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+	<Difficulty_EnemyReproductionRateFactor_Label>Tỷ lệ sinh sản của côn trùng</Difficulty_EnemyReproductionRateFactor_Label>
+	<Difficulty_EnemyReproductionRateFactor_Info>Điều chỉnh xác suất sinh sản của tổ côn trùng. Giá trị thấp hơn có nghĩa là thời gian giữa các sự kiện sinh sản sẽ lâu hơn.\n\nĐiều này không ảnh hưởng đến khả năng xảy ra sự kiện côn trùng, chỉ ảnh hưởng đến tốc độ sinh sản của côn trùng từ tổ đang hoạt động.</Difficulty_EnemyReproductionRateFactor_Info>
+	<Difficulty_DeepDrillInfestationChanceFactor_Label>Xác suất côn trùng tấn công giếng sâu</Difficulty_DeepDrillInfestationChanceFactor_Label>
+	<Difficulty_DeepDrillInfestationChanceFactor_Info>Điều chỉnh xác suất côn trùng tấn công khi khai thác giếng sâu.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+	<Difficulty_PeacefulTemples_Inverted_Label>Đe dọa cổ xưa</Difficulty_PeacefulTemples_Inverted_Label>
+	<Difficulty_PeacefulTemples_Inverted_Info>Các di tích cổ có thể chứa các mối đe dọa nguy hiểm.</Difficulty_PeacefulTemples_Inverted_Info>
+	<Difficulty_AllowCaveHives_Label>Tổ côn trùng tự nhiên</Difficulty_AllowCaveHives_Label>
+	<Difficulty_AllowCaveHives_Info>Các tổ côn trùng ngủ có thể xuất hiện trong các hang động tự nhiên.\n\nTùy chọn này chỉ ảnh hưởng đến việc tạo bản đồ, không ảnh hưởng đến các đàn côn trùng hoạt động trong trò chơi.</Difficulty_AllowCaveHives_Info>
+	<Difficulty_UnwaveringPrisoners_Label>Tù nhân trung thành</Difficulty_UnwaveringPrisoners_Label>
+	<Difficulty_UnwaveringPrisoners_Info>Tùy chọn này thêm vào các loại tù nhân có thể bắt giữ, những người không thể được tuyển dụng do sự trung thành kiên định của họ.\n\nTù nhân trung thành là một biến thể được thêm vào từ tù nhân thông thường, vì vậy việc tắt tùy chọn này sẽ không làm tăng số lượng tù nhân có thể tuyển dụng—nó chỉ xóa loại tù nhân trung thành.\n\nTù nhân trung thành vẫn có thể được thả vì lợi ích ngoại giao, bán, nô lệ, lấy nội tạng, hoặc được sử dụng theo cách khác. Tổng thể, họ cung cấp nhiều lựa chọn và tài nguyên hơn, làm cho trò chơi phong phú hơn và dễ dàng hơn.</Difficulty_UnwaveringPrisoners_Info>
+	<DifficultyPlayerToolsSection>Công cụ của người chơi</DifficultyPlayerToolsSection>
+	<Difficulty_AllowTraps_Label>Người chơi có thể chế tạo bẫy</Difficulty_AllowTraps_Label>
+	<Difficulty_AllowTraps_Info>Người chơi có thể chế tạo các loại bẫy như bẫy nhọn hoặc bẫy nổ.</Difficulty_AllowTraps_Info>
+	<Difficulty_AllowTurrets_Label>Người chơi có thể xây dựng tháp</Difficulty_AllowTurrets_Label>
+	<Difficulty_AllowTurrets_Info>Người chơi có thể xây dựng các tháp cố định như tháp súng tự động nhỏ, tháp pháo tự động, v.v.\n\nBạn vẫn có thể sử dụng các tháp bị thu giữ khi tùy chọn này bị tắt.</Difficulty_AllowTurrets_Info>
+	<Difficulty_AllowMortars_Label>Người chơi có thể xây dựng súng cối</Difficulty_AllowMortars_Label>
+	<Difficulty_AllowMortars_Info>Cho phép người chơi xây dựng súng cối.\n\nBạn vẫn có thể sử dụng các súng cối bị thu giữ khi tùy chọn này bị tắt.</Difficulty_AllowMortars_Info>
+	<Difficulty_ClassicMortars_Label>Súng cối cổ điển</Difficulty_ClassicMortars_Label>
+	<Difficulty_ClassicMortars_Info>Súng cối sẽ không cần nòng súng được tăng cường để xây dựng hoặc nạp lại, và đã được cân bằng cho sự tiện lợi này.</Difficulty_ClassicMortars_Info>
+	<DifficultyAdaptationSection>Điều chỉnh thích ứng</DifficultyAdaptationSection>
+	<Difficulty_AdaptationGrowthRateFactorOverZero_Label>Tăng trưởng thích ứng</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+	<Difficulty_AdaptationGrowthRateFactorOverZero_Info>Thích ứng thể hiện khả năng của người chơi trong việc thích nghi với trò chơi hiện tại, người kể chuyện sẽ làm cho trò chơi thách thức hơn theo thời gian khi bạn chơi tốt. Điểm thích ứng sẽ tăng theo thời gian và giảm khi bạn bị thương.\n\nTùy chọn này sẽ điều chỉnh tốc độ tăng trưởng điểm thích ứng theo thời gian.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+	<Difficulty_AdaptationEffectFactor_Label>Ảnh hưởng của thích ứng</Difficulty_AdaptationEffectFactor_Label>
+	<Difficulty_AdaptationEffectFactor_Info>Thích ứng thể hiện khả năng của người chơi trong việc thích nghi với trò chơi hiện tại, người kể chuyện sẽ làm cho trò chơi thách thức hơn theo thời gian khi bạn chơi tốt. Điểm thích ứng sẽ tăng theo thời gian và giảm khi bạn bị thương.\n\nTùy chọn này sẽ điều chỉnh ảnh hưởng của điểm thích ứng đến mối đe dọa thực tế.</Difficulty_AdaptationEffectFactor_Info>
+	<Difficulty_FixedWealthMode_Label>Chế độ tài sản cố định</Difficulty_FixedWealthMode_Label>
+	<Difficulty_FixedWealthMode_Info>Chơi trong chế độ tài sản cố định.\n\nTrong chế độ bình thường, người kể chuyện sẽ đánh giá độ mạnh của mối đe dọa dựa trên thuộc địa, dân số, giá trị tài sản và các yếu tố khác. Trong chế độ tài sản cố định, yếu tố tài sản đã bị loại bỏ và thay thế bằng một đường cong tiến độ cố định dựa trên thời gian. Đường cong thời gian này bắt đầu từ khi thuộc địa được thành lập.\n\nGiải pháp này chỉ được khuyến nghị cho những người tìm kiếm thách thức kỹ năng nghiêm ngặt. Trong chế độ tài sản cố định, rất khó để phục hồi từ tổn thất nghiêm trọng trừ khi bạn tìm ra giải pháp mới. Tất nhiên, cũng có khả năng trò chơi trở nên quá dễ dàng do phát triển quá nhanh.</Difficulty_FixedWealthMode_Info>
+	<Difficulty_FixedWealthTimeFactor_Label>Thời gian tối đa để đạt được mối đe dọa tối đa</Difficulty_FixedWealthTimeFactor_Label>
+	<Difficulty_FixedWealthTimeFactor_Info>Số năm trong trò chơi cần thiết để đạt được mức độ đe dọa tối đa trong chế độ tài sản cố định.\n\nChú ý rằng người kể chuyện vẫn sẽ điều chỉnh độ mạnh của mối đe dọa dựa trên số lượng thuộc địa và các yếu tố khác.</Difficulty_FixedWealthTimeFactor_Info>
+	<DifficultyIdeologySection>Văn hóa</DifficultyIdeologySection>
+	<Difficulty_LowPopConversionBoost_Label>Thúc đẩy chuyển hóa dân số thấp</Difficulty_LowPopConversionBoost_Label>
+	<Difficulty_LowPopConversionBoost_Info>Khi người chơi có một người theo dõi trong hình thức văn hóa khởi đầu, xác suất chuyển hóa người khác thành hình thức văn hóa này sẽ được nhân với giá trị này.\n\nKhi người chơi có hai người theo dõi trong hình thức văn hóa khởi đầu, hiệu ứng thúc đẩy này sẽ giảm một nửa.\n\nKhi người chơi có ít nhất ba người theo dõi trong hình thức văn hóa khởi đầu, hiệu ứng thúc đẩy này sẽ không còn hiệu lực.</Difficulty_LowPopConversionBoost_Info>
+	<SelectStartingSite>Chọn điểm hạ cánh ban đầu</SelectStartingSite>
+	<SelectRandomSite>Điểm hạ cánh ngẫu nhiên</SelectRandomSite>
+	<SelectSite>Chọn địa điểm</SelectSite>
+	<MustSelectStartingSite>Vui lòng chọn một điểm hạ cánh.</MustSelectStartingSite>
+	<CannotLandBiome>Bạn không thể hạ cánh tại sinh cảnh {0}.</CannotLandBiome>
+	<BiomeNotImplemented>Hệ sinh thái này chưa được triển khai trong trò chơi.</BiomeNotImplemented>
+	<CannotLandImpassableMountains>Bạn không thể hạ cánh trên những ngọn núi không thể vượt qua.</CannotLandImpassableMountains>
+	<BaseAlreadyThere>Vị trí này đã bị chiếm bởi căn cứ của {0}.</BaseAlreadyThere>
+	<YourBaseAlreadyThere>Bạn đã có một căn cứ ở đây.</YourBaseAlreadyThere>
+	<TileOccupied>Khu vực này đã bị chiếm.</TileOccupied>
+	<FactionBaseAdjacent>Các khu định cư không thể nằm cạnh nhau.</FactionBaseAdjacent>
+	<Biome>Hệ sinh thái</Biome>
+	<Terrain>Địa hình</Terrain>
+	<Road>Đường</Road>
+	<River>Sông</River>
+	<Elevation>Độ cao</Elevation>
+	<Fertility>Độ màu mỡ</Fertility>
+	<FertilityLower>Độ màu mỡ thấp</FertilityLower>
+	<AvgTemp>Nhiệt độ trung bình</AvgTemp>
+	<Rainfall>Lượng mưa</Rainfall>
+	<SpecialFeatures>Đặc điểm đặc biệt</SpecialFeatures>
+	<HasCoast0>Bờ biển phía Bắc</HasCoast0>
+	<HasCoast1>Bờ biển phía Đông</HasCoast1>
+	<HasCoast2>Bờ biển phía Nam</HasCoast2>
+	<HasCoast3>Bờ biển phía Tây</HasCoast3>
+	<HasCaves>Hang động</HasCaves>
+	<FactionBase>Căn cứ của phe phái</FactionBase>
+	<StoneTypesHere>Loại đá</StoneTypesHere>
+	<TimeZone>Múi giờ</TimeZone>
+	<MovementDifficulty>Độ khó di chuyển</MovementDifficulty>
+	<AnimalsCanGrazeNow>Hiện tại có thể cho động vật ăn cỏ không</AnimalsCanGrazeNow>
+	<AverageDiseaseFrequency>Tần suất bệnh tật trung bình</AverageDiseaseFrequency>
+	<PerYear>Mỗi năm</PerYear>
+	<Forageability>Số lượng thu thập từ việc tìm kiếm</Forageability>
+	<ConfirmRequiredWorkTypeDisabledForEveryone>Trong số những người đã chọn, không ai có thể thực hiện các công việc sau:\n\n{0}\n\nĐiều này sẽ làm cho trò chơi khó khăn hơn bình thường. Bạn có chắc chắn muốn tiếp tục không?</ConfirmRequiredWorkTypeDisabledForEveryone>
+	<TemperatureLower>Nhiệt độ</TemperatureLower>
+	<LightLower>Ánh sáng</LightLower>
+	<CreateCharacters>Tạo nhân vật</CreateCharacters>
+	<FirstNameDesc>Tên của nhân vật.\n\nTên này chỉ hiển thị trong một số menu.</FirstNameDesc>
+	<ShortIdentifierDesc>Biệt danh của nhân vật.\n\nBiệt danh này sẽ hiển thị trong mọi trường hợp. Nó có thể giống như họ hoặc tên, hoặc là một biệt danh hoàn toàn khác.</ShortIdentifierDesc>
+	<LastNameDesc>Họ của nhân vật.\n\nHọ này chỉ hiển thị trong một số menu.</LastNameDesc>
+	<Randomize>Ngẫu nhiên</Randomize>
+	<AgeIndicator>Tuổi {0}</AgeIndicator>
+	<PawnSummary>{PAWN_race}, tuổi {PAWN_ageFull}</PawnSummary>
+	<PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, tuổi {PAWN_ageFull}</PawnSummaryWithGender>
+	<Backstory>Câu chuyện nền</Backstory>
+	<IncapableOf>Không thể làm</IncapableOf>
+	<Abilities>Khả năng</Abilities>
+	<IncapableOfTooltipHediff>Do</IncapableOfTooltipHediff>
+	<IncapableOfTooltipWorkTypes>Các loại công việc bị vô hiệu hóa:</IncapableOfTooltipWorkTypes>
+	<IncapableOfTooltipBackstory>Câu chuyện nền</IncapableOfTooltipBackstory>
+	<IncapableOfTooltipTitle>Chức vụ</IncapableOfTooltipTitle>
+	<IncapableOfTooltipTrait>Đặc điểm</IncapableOfTooltipTrait>
+	<IncapableOfTooltipQuest>Trạng thái nhiệm vụ</IncapableOfTooltipQuest>
+	<IncapableOfTooltipRole>Vai trò</IncapableOfTooltipRole>
+	<IncapableOfTooltipGene>Gen</IncapableOfTooltipGene>
+	<IncapableOfTooltipMutant>Do</IncapableOfTooltipMutant>
+	<Traits>Đặc điểm</Traits>
+	<PermanentMoodEffect>Ảnh hưởng tâm trạng (vĩnh viễn)</PermanentMoodEffect>
+	<Skills>Kỹ năng</Skills>
+	<NoneLower>Không có</NoneLower>
+	<Adulthood>Lúc lớn</Adulthood>
+	<Childhood>Lúc nhỏ</Childhood>
+	<Male>Nam</Male>
+	<Female>Nữ</Female>
+	<MaleAndFemale>Nam và Nữ</MaleAndFemale>
+	<MaleAnimal>Đực</MaleAnimal>
+	<FemaleAnimal>Cái</FemaleAnimal>
+	<Pain>Đau đớn</Pain>
+	<Health>Sức khỏe</Health>
+	<Relations>Quan hệ</Relations>
+	<Possessions>Tài sản</Possessions>
+	<TeamSkills>Kỹ năng nhóm</TeamSkills>
+	<StartingPawnsSelected>Đã chọn</StartingPawnsSelected>
+	<StartingPawnsLeftBehind>Bỏ lại</StartingPawnsLeftBehind>
+	<GuiltyDesc>Thuộc địa này được coi là có tội. Bạn có thể tự do lưu đày, xử án hoặc bắt giữ họ mà không gây rắc rối cho người khác.\n\nThời gian có tội</GuiltyDesc>
+	<Start>Bắt đầu</Start>
+	<Advanced>Nâng cao</Advanced>
+	<Next>Tiếp theo</Next>
+	<Back>Quay lại</Back>
+	<ShowMaterials>Hiển thị vật liệu</ShowMaterials>
+	<Gameplay>Chơi game</Gameplay>
+	<ConfirmQuit>Bạn có chắc chắn muốn thoát không? Bạn sẽ mất tất cả tiến trình chưa được lưu.</ConfirmQuit>
+	<EveryoneNeedsValidName>Mỗi nhân vật đều cần có một tên hợp lệ.</EveryoneNeedsValidName>
+	<RequiredWorkTypeDisabledForEveryone>Trong số những người đã chọn, không ai có thể thực hiện các công việc sau</RequiredWorkTypeDisabledForEveryone>
+	<Quit>Thoát</Quit>
+	<Ignore>Bỏ qua</Ignore>
+	<GeneratingWorld>Đang tạo thế giới</GeneratingWorld>
+	<GeneratingPlanet>Đang tạo hành tinh</GeneratingPlanet>
+	<GeneratingMap>Đang tạo bản đồ</GeneratingMap>
+	<GeneratingMapForNewEncounter>Đang tạo bản đồ khu vực mới</GeneratingMapForNewEncounter>
+	<ClickForMoreInfo>Nhấp để biết thêm thông tin.</ClickForMoreInfo>
+	<NoMoreInfoAvailable>Không còn thông tin nào khác.</NoMoreInfoAvailable>
+	<Factions>Các phe phái</Factions>
+	<TotalFactionsAllowed>Tối đa cho phép {0} phe phái cơ bản.</TotalFactionsAllowed>
+	<MaxFactionsForType>Tối đa {0}</MaxFactionsForType>
+	<FactionSelectionDesc>Chọn các phe phái xuất hiện trong thế giới. Bạn có thể chọn tối đa {0} phe phái.</FactionSelectionDesc>
+	<FactionDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là giảm số lượng loại nhiệm vụ và nội dung khác.</FactionDisabledContentWarning>
+	<InsectsDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là giảm số lượng loại mối đe dọa tự phát.</InsectsDisabledContentWarning>
+	<MechanoidsDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là giảm số lượng nhiệm vụ và loại mối đe dọa tự phát.</MechanoidsDisabledContentWarning>
+	<FactionsDisabledWarning>Không có phe phái khác, các cuộc tấn công, thương mại và nhiệm vụ sẽ không diễn ra bình thường.</FactionsDisabledWarning>
+</LanguageData>

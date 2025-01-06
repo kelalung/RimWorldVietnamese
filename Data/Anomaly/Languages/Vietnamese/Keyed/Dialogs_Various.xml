@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MaxMentalBreakChance>{0} tỷ lệ sụp đổ tâm lý tối đa</MaxMentalBreakChance>
+	<TomePolicy>Sách ma thuật</TomePolicy>
+	<EntitiesSection>Các thực thể</EntitiesSection>
+	<UndiscoveredItemLabel>Chưa phát hiện</UndiscoveredItemLabel>
+	<UndiscoveredItemDesc>Chưa phát hiện món đồ này.</UndiscoveredItemDesc>
+	<MedGroupEntities>Các thực thể</MedGroupEntities>
+	<MedGroupEntitiesDesc>Các thực thể dị thường và biến thể của chúng.</MedGroupEntitiesDesc>
+	<MedGroupGhouls>Thịt thối</MedGroupGhouls>
+	<MedGroupGhoulsDesc>Các thịt thối thuộc về thuộc địa của bạn.</MedGroupGhoulsDesc>
+	<GhoulConfirmation>Quá trình chuyển {PAWN_nameDef} thành thịt thối là không thể đảo ngược. {PAWN_pronoun} sẽ rơi vào trạng thái mơ hồ và không thể làm bất kỳ công việc nào.\n\nBạn có chắc chắn muốn chuyển {PAWN_nameDef} thành thịt thối không?</GhoulConfirmation>
+	<RoomRequirementNoAnomalyBuildings>Không cho phép có công trình dị thường</RoomRequirementNoAnomalyBuildings>
+	<EntityCodex>Hồ sơ thực thể</EntityCodex>
+	<EntityCodexGizmoTip>Xem tất cả các thực thể đã phát hiện. Khám phá các thực thể mới để mở khóa các dự án nghiên cứu mới và khám phá bí mật của khối đá khổng lồ.</EntityCodexGizmoTip>
+	<ResearchUnlocks>Mở khóa nghiên cứu</ResearchUnlocks>
+	<EntityCodexDesc>Trang này liệt kê tất cả các thực thể đã biết liên quan đến hư không đen tối. Thực hiện nghi lễ tâm linh “Rối loạn hư không” để phát hiện các thực thể mới. Phát hiện thực thể mới có thể mở khóa các dự án nghiên cứu mới, giúp bạn tiến xa hơn trong bí mật của khối đá hư không.</EntityCodexDesc>
+	<UndiscoveredEntity>Thực thể chưa phát hiện</UndiscoveredEntity>
+	<UndiscoveredEntityDesc>Chưa phát hiện thực thể này. Bạn có thể phát hiện các thực thể mới bằng cách thực hiện nghi lễ tâm linh “Rối loạn hư không”.</UndiscoveredEntityDesc>
+	<ViewEntityCodex>Xem hồ sơ thực thể</ViewEntityCodex>
+</LanguageData>

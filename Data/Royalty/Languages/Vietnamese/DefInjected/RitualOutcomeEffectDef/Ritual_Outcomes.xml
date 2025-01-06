@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimaTreeLinking.comps.0.label>Số lượng người tham gia</AnimaTreeLinking.comps.0.label>
+<BestowingCeremony.description>Tùy thuộc vào hiệu ứng của nghi lễ, người được ban thưởng có thể nhận tối đa 3 lần phần thưởng danh dự. Những người tham gia khác nhận được tối đa +6 tăng cường tâm trạng trong vòng 6 ngày.</BestowingCeremony.description>
+<BestowingCeremony.comps.0.label>Số lượng người tham gia</BestowingCeremony.comps.0.label>
+<BestowingCeremony.comps.1.label>Cảm giác trong phòng</BestowingCeremony.comps.1.label>
+<BestowingCeremony.outcomeChances.0.label>Kém</BestowingCeremony.outcomeChances.0.label>
+<BestowingCeremony.outcomeChances.1.label>Không nổi bật</BestowingCeremony.outcomeChances.1.label>
+<BestowingCeremony.outcomeChances.2.label>Vinh quang</BestowingCeremony.outcomeChances.2.label>
+<BestowingCeremony.outcomeChances.3.label>Tráng lệ</BestowingCeremony.outcomeChances.3.label>
+</LanguageData>

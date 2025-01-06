@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeditationDesiredPsyfocus.label>Ngưỡng Khao Khát Thiền Định</MeditationDesiredPsyfocus.label>
+<MeditationDesiredPsyfocus.helpText>Bạn có thể thiết lập mức độ nhu cầu tinh thần cho mỗi thuộc địa. Để thực hiện điều này, hãy chọn một thuộc địa có cấp độ khai mở, sau đó điều chỉnh thanh tiến độ tinh thần của họ.\n\nNếu tinh thần của thuộc địa thấp hơn ngưỡng khao khát, họ sẽ tự động đi thiền vào "bất kỳ" thời điểm nào.</MeditationDesiredPsyfocus.helpText>
+<MeditationSchedule.label>Quản Lý Thiền Định</MeditationSchedule.label>
+<MeditationSchedule.helpText>Bạn có thể chỉ định thuộc địa của bạn thiền định vào những thời điểm cụ thể.\n\nMở bảng "Quản Lý", chọn "Thiền Định", sau đó nhấp hoặc kéo để chỉ định ai đó thiền vào thời gian bạn muốn.</MeditationSchedule.helpText>
+</LanguageData>

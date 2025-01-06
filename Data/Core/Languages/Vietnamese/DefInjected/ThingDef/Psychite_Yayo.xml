@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Yayo.label>Bột ya-yo(cocaine)</Yayo.label>
+<Yayo.description>Một loại bột trắng mịn, khi hít vào qua mũi có thể khiến người dùng trở nên hưng phấn cao độ, tinh thần tăng cường và giảm đau. Bột ya-yo cũng có tính gây nghiện như tất cả các loại thuốc tâm thần khác, nhưng yếu hơn so với miếng thuốc sản xuất thô.\n\nDo chi phí cao và hình thức tinh tế, nhiều nền văn minh liên kết bột ya-yo với các tầng lớp tha hóa. Ở cả cung điện và quốc hội, nhiều chính sách thô bạo đều được quyết định trong các bữa tiệc hưng phấn với bột ya-yo.</Yayo.description>
+<Yayo.ingestible.ingestCommandString>Hút {0}</Yayo.ingestible.ingestCommandString>
+<Yayo.ingestible.ingestReportString>Đang hút {0}.</Yayo.ingestible.ingestReportString>
+</LanguageData>

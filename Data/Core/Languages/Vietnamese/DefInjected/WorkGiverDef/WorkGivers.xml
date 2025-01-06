@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BasicReleasePrisoner.label>Thả tù nhân</BasicReleasePrisoner.label>
+	<BasicReleasePrisoner.gerund>Thả</BasicReleasePrisoner.gerund>
+	<BasicReleasePrisoner.verb>Thả</BasicReleasePrisoner.verb>
+	<BuildRoofs.label>Xây dựng mái</BuildRoofs.label>
+	<BuildRoofs.gerund>Xây dựng mái</BuildRoofs.gerund>
+	<BuildRoofs.verb>Xây dựng mái</BuildRoofs.verb>
+	<ChatWithPrisoner.label>Trò chuyện với tù nhân</ChatWithPrisoner.label>
+	<ChatWithPrisoner.gerund>Trò chuyện</ChatWithPrisoner.gerund>
+	<ChatWithPrisoner.verb>Trò chuyện</ChatWithPrisoner.verb>
+	<CleanClearSnow.label>Dọn tuyết</CleanClearSnow.label>
+	<CleanClearSnow.gerund>Dọn tuyết</CleanClearSnow.gerund>
+	<CleanClearSnow.verb>Dọn tuyết</CleanClearSnow.verb>
+	<CleanFilth.label>Dọn dẹp bẩn thỉu</CleanFilth.label>
+	<CleanFilth.gerund>Dọn dẹp</CleanFilth.gerund>
+	<CleanFilth.verb>Dọn dẹp</CleanFilth.verb>
+	<ConstructDeliverResourcesToBlueprints.label>Chuyển vật liệu đến bản vẽ</ConstructDeliverResourcesToBlueprints.label>
+	<ConstructDeliverResourcesToBlueprints.gerund>Xây dựng</ConstructDeliverResourcesToBlueprints.gerund>
+	<ConstructDeliverResourcesToBlueprints.verb>Xây dựng</ConstructDeliverResourcesToBlueprints.verb>
+	<ConstructDeliverResourcesToFrames.label>Chuyển vật liệu đến khung</ConstructDeliverResourcesToFrames.label>
+	<ConstructDeliverResourcesToFrames.gerund>Xây dựng</ConstructDeliverResourcesToFrames.gerund>
+	<ConstructDeliverResourcesToFrames.verb>Xây dựng</ConstructDeliverResourcesToFrames.verb>
+	<ConstructFinishFrames.label>Xây dựng khung đã bố trí</ConstructFinishFrames.label>
+	<ConstructFinishFrames.gerund>Xây dựng</ConstructFinishFrames.gerund>
+	<ConstructFinishFrames.verb>Xây dựng</ConstructFinishFrames.verb>
+	<ConstructRemoveFloors.label>Loại bỏ sàn nhà</ConstructRemoveFloors.label>
+	<ConstructRemoveFloors.gerund>Loại bỏ sàn nhà</ConstructRemoveFloors.gerund>
+	<ConstructRemoveFloors.verb>Loại bỏ sàn nhà</ConstructRemoveFloors.verb>
+	<ConstructSmoothFloors.label>Đánh bóng sàn nhà</ConstructSmoothFloors.label>
+	<ConstructSmoothFloors.gerund>Đánh bóng</ConstructSmoothFloors.gerund>
+	<ConstructSmoothFloors.verb>Đánh bóng</ConstructSmoothFloors.verb>
+	<ConstructSmoothWalls.label>Đánh bóng tường</ConstructSmoothWalls.label>
+	<ConstructSmoothWalls.gerund>Đánh bóng</ConstructSmoothWalls.gerund>
+	<ConstructSmoothWalls.verb>Đánh bóng</ConstructSmoothWalls.verb>
+	<CookFillHopper.label>Đổ đầy hốc vào</CookFillHopper.label>
+	<CookFillHopper.gerund>Đổ đầy</CookFillHopper.gerund>
+	<CookFillHopper.verb>Đổ đầy</CookFillHopper.verb>
+	<Deconstruct.label>Tháo dỡ công trình</Deconstruct.label>
+	<Deconstruct.gerund>Tháo dỡ</Deconstruct.gerund>
+	<Deconstruct.verb>Tháo dỡ</Deconstruct.verb>
+	<DeliverFoodToPrisoner.label>Gửi thức ăn cho tù nhân</DeliverFoodToPrisoner.label>
+	<DeliverFoodToPrisoner.gerund>Gửi thức ăn cho</DeliverFoodToPrisoner.gerund>
+	<DeliverFoodToPrisoner.verb>Gửi thức ăn cho</DeliverFoodToPrisoner.verb>
+	<DeliverResourcesToBlueprints.label>Vận chuyển vật liệu đến bản vẽ</DeliverResourcesToBlueprints.label>
+	<DeliverResourcesToBlueprints.gerund>Vận chuyển đến</DeliverResourcesToBlueprints.gerund>
+	<DeliverResourcesToBlueprints.verb>Vận chuyển đến</DeliverResourcesToBlueprints.verb>
+	<DeliverResourcesToFrames.label>Vận chuyển vật liệu đến khung</DeliverResourcesToFrames.label>
+	<DeliverResourcesToFrames.gerund>Vận chuyển đến</DeliverResourcesToFrames.gerund>
+	<DeliverResourcesToFrames.verb>Vận chuyển đến</DeliverResourcesToFrames.verb>
+	<DoBillsBrew.label>Thực hiện nấu bia tại bàn nấu</DoBillsBrew.label>
+	<DoBillsBrew.gerund>Nấu tại</DoBillsBrew.gerund>
+	<DoBillsBrew.verb>Nấu</DoBillsBrew.verb>
+	<DoBillsButcherFlesh.label>Thịt xác</DoBillsButcherFlesh.label>
+	<DoBillsButcherFlesh.gerund>Thịt tại</DoBillsButcherFlesh.gerund>
+	<DoBillsButcherFlesh.verb>Thịt</DoBillsButcherFlesh.verb>
+	<DoBillsCook.label>Nấu ăn trên bếp</DoBillsCook.label>
+	<DoBillsCook.gerund>Nấu tại</DoBillsCook.gerund>
+	<DoBillsCook.verb>Nấu</DoBillsCook.verb>
+	<DoBillsCookCampfire.label>Nấu ăn trên lửa trại</DoBillsCookCampfire.label>
+	<DoBillsCookCampfire.gerund>Nấu tại</DoBillsCookCampfire.gerund>
+	<DoBillsCookCampfire.verb>Nấu</DoBillsCookCampfire.verb>
+	<DoBillsCremate.label>Hỏa táng xác chết hoặc quần áo</DoBillsCremate.label>
+	<DoBillsCremate.gerund>Hỏa táng</DoBillsCremate.gerund>
+	<DoBillsCremate.verb>Hỏa táng</DoBillsCremate.verb>
+	<DoBillsFabricationBench.label>Lắp ráp vật phẩm</DoBillsFabricationBench.label>
+	<DoBillsFabricationBench.gerund>Lắp ráp tại</DoBillsFabricationBench.gerund>
+	<DoBillsFabricationBench.verb>Lắp ráp</DoBillsFabricationBench.verb>
+	<DoBillsHaulCampfire.label>Làm việc trên lửa trại</DoBillsHaulCampfire.label>
+	<DoBillsHaulCampfire.gerund>Làm việc tại</DoBillsHaulCampfire.gerund>
+	<DoBillsHaulCampfire.verb>Làm việc tại</DoBillsHaulCampfire.verb>
+	<DoBillsMachiningTable.label>Hoàn thành danh sách tại bàn gia công</DoBillsMachiningTable.label>
+	<DoBillsMachiningTable.gerund>Gia công tại</DoBillsMachiningTable.gerund>
+	<DoBillsMachiningTable.verb>Gia công</DoBillsMachiningTable.verb>
+	<DoBillsMakeApparel.label>May quần áo</DoBillsMakeApparel.label>
+	<DoBillsMakeApparel.gerund>May tại</DoBillsMakeApparel.gerund>
+	<DoBillsMakeApparel.verb>May</DoBillsMakeApparel.verb>
+	<DoBillsMakeWeapons.label>Rèn vũ khí</DoBillsMakeWeapons.label>
+	<DoBillsMakeWeapons.gerund>Rèn tại</DoBillsMakeWeapons.gerund>
+	<DoBillsMakeWeapons.verb>Rèn</DoBillsMakeWeapons.verb>
+	<DoBillsMedicalAnimalOperation.label>Phẫu thuật động vật</DoBillsMedicalAnimalOperation.label>
+	<DoBillsMedicalAnimalOperation.gerund>Phẫu thuật</DoBillsMedicalAnimalOperation.gerund>
+	<DoBillsMedicalAnimalOperation.verb>Phẫu thuật</DoBillsMedicalAnimalOperation.verb>
+	<DoBillsMedicalHumanOperation.label>Phẫu thuật con người</DoBillsMedicalHumanOperation.label>
+	<DoBillsMedicalHumanOperation.gerund>Phẫu thuật</DoBillsMedicalHumanOperation.gerund>
+	<DoBillsMedicalHumanOperation.verb>Phẫu thuật</DoBillsMedicalHumanOperation.verb>
+	<DoBillsProduceDrugs.label>Sản xuất thuốc</DoBillsProduceDrugs.label>
+	<DoBillsProduceDrugs.gerund>Sản xuất tại</DoBillsProduceDrugs.gerund>
+	<DoBillsProduceDrugs.verb>Sản xuất</DoBillsProduceDrugs.verb>
+	<DoBillsRefinery.label>Vận hành thiết bị tinh chế</DoBillsRefinery.label>
+	<DoBillsRefinery.gerund>Tinh chế tại</DoBillsRefinery.gerund>
+	<DoBillsRefinery.verb>Tinh chế</DoBillsRefinery.verb>
+	<DoBillsSculpt.label>Điêu khắc</DoBillsSculpt.label>
+	<DoBillsSculpt.gerund>Điêu khắc tại</DoBillsSculpt.gerund>
+	<DoBillsSculpt.verb>Điêu khắc</DoBillsSculpt.verb>
+	<DoBillsSmelter.label>Chảy kim loại</DoBillsSmelter.label>
+	<DoBillsSmelter.gerund>Chảy tại</DoBillsSmelter.gerund>
+	<DoBillsSmelter.verb>Chảy</DoBillsSmelter.verb>
+	<DoBillsStonecut.label>Cắt đá</DoBillsStonecut.label>
+	<DoBillsStonecut.gerund>Cắt đá tại</DoBillsStonecut.gerund>
+	<DoBillsStonecut.verb>Cắt đá</DoBillsStonecut.verb>
+	<DoBillsUseCraftingSpot.label>Hoàn thành danh sách tại điểm chế tác</DoBillsUseCraftingSpot.label>
+	<DoBillsUseCraftingSpot.gerund>Chế tác tại</DoBillsUseCraftingSpot.gerund>
+	<DoBillsUseCraftingSpot.verb>Chế tác</DoBillsUseCraftingSpot.verb>
+	<DoctorFeedAnimals.label>Cho động vật ăn</DoctorFeedAnimals.label>
+	<DoctorFeedAnimals.gerund>Cho ăn</DoctorFeedAnimals.gerund>
+	<DoctorFeedAnimals.verb>Cho ăn</DoctorFeedAnimals.verb>
+	<DoctorFeedHumanlikes.label>Cho bệnh nhân ăn</DoctorFeedHumanlikes.label>
+	<DoctorFeedHumanlikes.gerund>Cho ăn</DoctorFeedHumanlikes.gerund>
+	<DoctorFeedHumanlikes.verb>Cho ăn</DoctorFeedHumanlikes.verb>
+	<DoctorRescue.label>Cứu người thuộc địa ngã xuống</DoctorRescue.label>
+	<DoctorRescue.gerund>Cứu</DoctorRescue.gerund>
+	<DoctorRescue.verb>Cứu</DoctorRescue.verb>
+	<DoctorTendEmergency.label>Cung cấp điều trị khẩn cấp</DoctorTendEmergency.label>
+	<DoctorTendEmergency.gerund>Điều trị</DoctorTendEmergency.gerund>
+	<DoctorTendEmergency.verb>Điều trị</DoctorTendEmergency.verb>
+	<DoctorTendToAnimals.label>Điều trị động vật</DoctorTendToAnimals.label>
+	<DoctorTendToAnimals.gerund>Điều trị</DoctorTendToAnimals.gerund>
+	<DoctorTendToAnimals.verb>Điều trị</DoctorTendToAnimals.verb>
+	<DoctorTendToHumanlikes.label>Điều trị bệnh nhân</DoctorTendToHumanlikes.label>
+	<DoctorTendToHumanlikes.gerund>Điều trị</DoctorTendToHumanlikes.gerund>
+	<DoctorTendToHumanlikes.verb>Điều trị</DoctorTendToHumanlikes.verb>
+	<DoctorTendToSelf.label>Điều trị bản thân</DoctorTendToSelf.label>
+	<DoctorTendToSelf.gerund>Điều trị</DoctorTendToSelf.gerund>
+	<DoctorTendToSelf.verb>Điều trị</DoctorTendToSelf.verb>
+	<DoctorTendToSelfEmergency.label>Điều trị bản thân</DoctorTendToSelfEmergency.label>
+	<DoctorTendToSelfEmergency.gerund>Điều trị</DoctorTendToSelfEmergency.gerund>
+	<DoctorTendToSelfEmergency.verb>Điều trị</DoctorTendToSelfEmergency.verb>
+	<DoExecution.label>Thi hành án tử hình cho tù nhân</DoExecution.label>
+	<DoExecution.gerund>Thi hành án</DoExecution.gerund>
+	<DoExecution.verb>Thi hành án</DoExecution.verb>
+	<Drill.label>Khoan</Drill.label>
+	<Drill.gerund>Khoan</Drill.gerund>
+	<Drill.verb>Khoan</Drill.verb>
+	<EmptyEggBox.label>Đổ trứng ra khỏi hộp</EmptyEggBox.label>
+	<EmptyEggBox.gerund>Đổ ra</EmptyEggBox.gerund>
+	<EmptyEggBox.verb>Đổ ra</EmptyEggBox.verb>
+	<ExecuteGuiltyColonist.label>Thi hành án tử hình cho người thuộc địa có tội</ExecuteGuiltyColonist.label>
+	<ExecuteGuiltyColonist.gerund>Thi hành án</ExecuteGuiltyColonist.gerund>
+	<ExecuteGuiltyColonist.verb>Thi hành án</ExecuteGuiltyColonist.verb>
+	<ExtractSkull.label>Lấy hộp sọ ra</ExtractSkull.label>
+	<ExtractSkull.gerund>Lấy hộp sọ ra</ExtractSkull.gerund>
+	<ExtractSkull.verb>Lấy hộp sọ ra</ExtractSkull.verb>
+	<ExtractTree.label>Đào cây</ExtractTree.label>
+	<ExtractTree.gerund>Đào</ExtractTree.gerund>
+	<ExtractTree.verb>Đào</ExtractTree.verb>
+	<FeedPrisoner.label>Cho tù nhân ăn</FeedPrisoner.label>
+	<FeedPrisoner.gerund>Cho ăn</FeedPrisoner.gerund>
+	<FeedPrisoner.verb>Cho ăn</FeedPrisoner.verb>
+	<FightFires.label>Chữa cháy</FightFires.label>
+	<FightFires.gerund>Chữa cháy</FightFires.gerund>
+	<FightFires.verb>Chữa cháy</FightFires.verb>
+	<FillFermentingBarrel.label>Đổ đầy thùng lên men</FillFermentingBarrel.label>
+	<FillFermentingBarrel.gerund>Đổ đầy</FillFermentingBarrel.gerund>
+	<FillFermentingBarrel.verb>Đổ đầy</FillFermentingBarrel.verb>
+	<FixBrokenDownBuilding.label>Thay thế các bộ phận hỏng</FixBrokenDownBuilding.label>
+	<FixBrokenDownBuilding.gerund>Thay thế các bộ phận hỏng</FixBrokenDownBuilding.gerund>
+	<FixBrokenDownBuilding.verb>Thay thế các bộ phận hỏng</FixBrokenDownBuilding.verb>
+	<Flick.label>Bật/Tắt</Flick.label>
+	<Flick.gerund>Bật/Tắt</Flick.gerund>
+	<Flick.verb>Bật/Tắt</Flick.verb>
+	<GroundPenetratingScan.label>Vận hành máy quét địa chất</GroundPenetratingScan.label>
+	<GroundPenetratingScan.gerund>Quét khoáng sản tại</GroundPenetratingScan.gerund>
+	<GroundPenetratingScan.verb>Quét khoáng sản</GroundPenetratingScan.verb>
+	<GrowerHarvest.label>Thu hoạch cây trồng</GrowerHarvest.label>
+	<GrowerHarvest.gerund>Thu hoạch</GrowerHarvest.gerund>
+	<GrowerHarvest.verb>Thu hoạch</GrowerHarvest.verb>
+	<GrowerSow.label>Gieo hạt</GrowerSow.label>
+	<GrowerSow.gerund>Gieo hạt</GrowerSow.gerund>
+	<GrowerSow.verb>Gieo hạt</GrowerSow.verb>
+	<HandlingFeedPatientAnimals.label>Cho động vật ăn</HandlingFeedPatientAnimals.label>
+	<HandlingFeedPatientAnimals.gerund>Cho ăn</HandlingFeedPatientAnimals.gerund>
+	<HandlingFeedPatientAnimals.verb>Cho ăn</HandlingFeedPatientAnimals.verb>
+	<HaulCorpses.label>Vận chuyển xác</HaulCorpses.label>
+	<HaulCorpses.gerund>Vận chuyển</HaulCorpses.gerund>
+	<HaulCorpses.verb>Vận chuyển</HaulCorpses.verb>
+	<HaulGeneral.label>Vận chuyển đồ vật</HaulGeneral.label>
+	<HaulGeneral.gerund>Vận chuyển</HaulGeneral.gerund>
+	<HaulGeneral.verb>Vận chuyển</HaulGeneral.verb>
+	<HaulMerge.label>Gộp đồ vật</HaulMerge.label>
+	<HaulMerge.gerund>Gộp</HaulMerge.gerund>
+	<HaulMerge.verb>Gộp</HaulMerge.verb>
+	<HaulToPortal.label>Vận chuyển ra ngoài bản đồ</HaulToPortal.label>
+	<HaulToPortal.gerund>Chuyển hàng</HaulToPortal.gerund>
+	<HaulToPortal.verb>Chuyển hàng</HaulToPortal.verb>
+	<HelpGatheringItemsForCaravan.label>Chuẩn bị hàng cho đoàn xe</HelpGatheringItemsForCaravan.label>
+	<HelpGatheringItemsForCaravan.gerund>Chuyển hàng</HelpGatheringItemsForCaravan.gerund>
+	<HelpGatheringItemsForCaravan.verb>Chuyển hàng</HelpGatheringItemsForCaravan.verb>
+	<HunterHunt.label>Săn bắn</HunterHunt.label>
+	<HunterHunt.gerund>Săn bắn</HunterHunt.gerund>
+	<HunterHunt.verb>Săn bắn</HunterHunt.verb>
+	<LoadTransporters.label>Chất hàng vào phương tiện vận chuyển</LoadTransporters.label>
+	<LoadTransporters.gerund>Chất hàng</LoadTransporters.gerund>
+	<LoadTransporters.verb>Chất hàng</LoadTransporters.verb>
+	<LongRangeScan.label>Vận hành máy quét khoáng sản tầm xa</LongRangeScan.label>
+	<LongRangeScan.gerund>Quét khoáng sản tại</LongRangeScan.gerund>
+	<LongRangeScan.verb>Quét khoáng sản</LongRangeScan.verb>
+	<Milk.label>Thu hoạch sản phẩm từ động vật</Milk.label>
+	<Milk.gerund>Thu hoạch</Milk.gerund>
+	<Milk.verb>Thu hoạch</Milk.verb>
+	<Mine.label>Khai thác</Mine.label>
+	<Mine.gerund>Khai thác</Mine.gerund>
+	<Mine.verb>Khai thác</Mine.verb>
+	<Open.label>Mở container</Open.label>
+	<Open.gerund>Mở</Open.gerund>
+	<Open.verb>Mở</Open.verb>
+	<PaintBuilding.label>Sơn tường</PaintBuilding.label>
+	<PaintBuilding.gerund>Sơn</PaintBuilding.gerund>
+	<PaintBuilding.verb>Sơn</PaintBuilding.verb>
+	<PaintFloor.label>Sơn sàn</PaintFloor.label>
+	<PaintFloor.gerund>Sơn</PaintFloor.gerund>
+	<PaintFloor.verb>Sơn</PaintFloor.verb>
+	<PatientGoToBedEmergencyTreatment.label>Đi vào giường để điều trị khẩn cấp</PatientGoToBedEmergencyTreatment.label>
+	<PatientGoToBedEmergencyTreatment.gerund>Nhận điều trị tại</PatientGoToBedEmergencyTreatment.gerund>
+	<PatientGoToBedEmergencyTreatment.verb>Nhận điều trị tại</PatientGoToBedEmergencyTreatment.verb>
+	<PatientGoToBedRecuperate.label>Nghỉ ngơi trên giường</PatientGoToBedRecuperate.label>
+	<PatientGoToBedRecuperate.gerund>Nghỉ ngơi tại</PatientGoToBedRecuperate.gerund>
+	<PatientGoToBedRecuperate.verb>Nghỉ ngơi tại</PatientGoToBedRecuperate.verb>
+	<PatientGoToBedTreatment.label>Đi vào giường để điều trị</PatientGoToBedTreatment.label>
+	<PatientGoToBedTreatment.gerund>Nhận điều trị tại</PatientGoToBedTreatment.gerund>
+	<PatientGoToBedTreatment.verb>Nhận điều trị tại</PatientGoToBedTreatment.verb>
+	<PlantsCut.label>Cắt bỏ thực vật</PlantsCut.label>
+	<PlantsCut.gerund>Cắt bỏ</PlantsCut.gerund>
+	<PlantsCut.verb>Cắt bỏ</PlantsCut.verb>
+	<PlantSeed.label>Gieo hạt</PlantSeed.label>
+	<PlantSeed.gerund>Trồng</PlantSeed.gerund>
+	<PlantSeed.verb>Trồng</PlantSeed.verb>
+	<RearmTurrets.label>Chuẩn bị lại các pháo đài</RearmTurrets.label>
+	<RearmTurrets.gerund>Chuẩn bị</RearmTurrets.gerund>
+	<RearmTurrets.verb>Chuẩn bị</RearmTurrets.verb>
+	<RebalanceAnimalsInPens.label>Phân bổ động vật trong chuồng</RebalanceAnimalsInPens.label>
+	<RebalanceAnimalsInPens.gerund>Kéo</RebalanceAnimalsInPens.gerund>
+	<RebalanceAnimalsInPens.verb>Kéo</RebalanceAnimalsInPens.verb>
+	<Refuel.label>Bổ sung nhiên liệu</Refuel.label>
+	<Refuel.gerund>Bổ sung nhiên liệu</Refuel.gerund>
+	<Refuel.verb>Bổ sung nhiên liệu</Refuel.verb>
+	<ReleasePrisoner.label>Thả tù nhân</ReleasePrisoner.label>
+	<ReleasePrisoner.gerund>Thả</ReleasePrisoner.gerund>
+	<ReleasePrisoner.verb>Thả</ReleasePrisoner.verb>
+	<ReleaseToWild.label>Thả về tự nhiên</ReleaseToWild.label>
+	<ReleaseToWild.gerund>Thả về tự nhiên</ReleaseToWild.gerund>
+	<ReleaseToWild.verb>Thả về tự nhiên</ReleaseToWild.verb>
+	<RemovePaintBuilding.label>Loại bỏ sơn</RemovePaintBuilding.label>
+	<RemovePaintBuilding.gerund>Loại bỏ sơn</RemovePaintBuilding.gerund>
+	<RemovePaintBuilding.verb>Loại bỏ sơn</RemovePaintBuilding.verb>
+	<RemovePaintFloor.label>Loại bỏ sơn</RemovePaintFloor.label>
+	<RemovePaintFloor.gerund>Loại bỏ sơn</RemovePaintFloor.gerund>
+	<RemovePaintFloor.verb>Loại bỏ sơn</RemovePaintFloor.verb>
+	<RemoveRoofs.label>Tháo dỡ mái nhà</RemoveRoofs.label>
+	<RemoveRoofs.gerund>Tháo dỡ mái nhà</RemoveRoofs.gerund>
+	<RemoveRoofs.verb>Tháo dỡ mái nhà</RemoveRoofs.verb>
+	<Repair.label>Sửa chữa công trình hư hỏng</Repair.label>
+	<Repair.gerund>Sửa chữa</Repair.gerund>
+	<Repair.verb>Sửa chữa</Repair.verb>
+	<Replant.label>Trồng lại cây</Replant.label>
+	<Replant.gerund>Trồng lại</Replant.gerund>
+	<Replant.verb>Trồng lại</Replant.verb>
+	<Research.label>Nghiên cứu công nghệ</Research.label>
+	<Research.gerund>Nghiên cứu tại</Research.gerund>
+	<Research.verb>Nghiên cứu</Research.verb>
+	<Shear.label>Cắt lông động vật</Shear.label>
+	<Shear.gerund>Cắt lông</Shear.gerund>
+	<Shear.verb>Cắt lông</Shear.verb>
+	<Slaughter.label>Giết thịt động vật</Slaughter.label>
+	<Slaughter.gerund>Giết thịt</Slaughter.gerund>
+	<Slaughter.verb>Giết thịt</Slaughter.verb>
+	<Strip.label>Tháo bỏ quần áo</Strip.label>
+	<Strip.gerund>Tháo bỏ</Strip.gerund>
+	<Strip.verb>Tháo bỏ</Strip.verb>
+	<StudyArchotechStructures.label>Khảo sát cấu trúc siêu công nghệ</StudyArchotechStructures.label>
+	<StudyArchotechStructures.gerund>Khảo sát</StudyArchotechStructures.gerund>
+	<StudyArchotechStructures.verb>Khảo sát</StudyArchotechStructures.verb>
+	<TakeBeerOutOfFermentingBarrel.label>Lấy bia ra khỏi thùng lên men</TakeBeerOutOfFermentingBarrel.label>
+	<TakeBeerOutOfFermentingBarrel.gerund>Lấy bia ra</TakeBeerOutOfFermentingBarrel.gerund>
+	<TakeBeerOutOfFermentingBarrel.verb>Lấy bia ra</TakeBeerOutOfFermentingBarrel.verb>
+	<TakePrisonerToBed.label>Đưa tù nhân lên giường</TakePrisonerToBed.label>
+	<TakePrisonerToBed.gerund>Đưa lên giường</TakePrisonerToBed.gerund>
+	<TakePrisonerToBed.verb>Đưa lên giường</TakePrisonerToBed.verb>
+	<TakeRoamingAnimalsToPen.label>Kéo động vật di cư vào chuồng</TakeRoamingAnimalsToPen.label>
+	<TakeRoamingAnimalsToPen.gerund>Kéo</TakeRoamingAnimalsToPen.gerund>
+	<TakeRoamingAnimalsToPen.verb>Kéo</TakeRoamingAnimalsToPen.verb>
+	<TakeToBedToOperate.label>Đưa bệnh nhân lên giường phẫu thuật</TakeToBedToOperate.label>
+	<TakeToBedToOperate.gerund>Đưa lên giường phẫu thuật</TakeToBedToOperate.gerund>
+	<TakeToBedToOperate.verb>Đưa lên giường phẫu thuật</TakeToBedToOperate.verb>
+	<TakeToPen.label>Kéo động vật vào chuồng</TakeToPen.label>
+	<TakeToPen.gerund>Kéo</TakeToPen.gerund>
+	<TakeToPen.verb>Kéo</TakeToPen.verb>
+	<Tame.label>Thuần hóa động vật</Tame.label>
+	<Tame.gerund>Thuần hóa</Tame.gerund>
+	<Tame.verb>Thuần hóa</Tame.verb>
+	<Train.label>Đào tạo động vật</Train.label>
+	<Train.gerund>Đào tạo</Train.gerund>
+	<Train.verb>Đào tạo</Train.verb>
+	<Uninstall.label>Gỡ bỏ công trình</Uninstall.label>
+	<Uninstall.gerund>Gỡ bỏ</Uninstall.gerund>
+	<Uninstall.verb>Gỡ bỏ</Uninstall.verb>
+	<UnloadCarriers.label>Tháo dỡ hàng hóa</UnloadCarriers.label>
+	<UnloadCarriers.gerund>Tháo dỡ</UnloadCarriers.gerund>
+	<UnloadCarriers.verb>Tháo dỡ</UnloadCarriers.verb>
+	<VisitSickPawn.label>Thăm bệnh nhân</VisitSickPawn.label>
+	<VisitSickPawn.gerund>Thăm</VisitSickPawn.gerund>
+	<VisitSickPawn.verb>Thăm</VisitSickPawn.verb>
+</LanguageData>

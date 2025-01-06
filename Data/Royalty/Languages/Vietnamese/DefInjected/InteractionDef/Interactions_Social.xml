@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WordOfInspiration.label>Ngôn từ truyền cảm hứng</WordOfInspiration.label>
+<WordOfInspiration.logRulesInitiator.rulesStrings>
+<li>r_logentry-&gt;[INITIATOR_nameDef] đã khích lệ [RECIPIENT_nameDef] bằng ngôn từ và gợi ý tâm linh.</li>
+</WordOfInspiration.logRulesInitiator.rulesStrings>
+<WordOfJoy.label>Ngôn từ vui vẻ</WordOfJoy.label>
+<WordOfJoy.logRulesInitiator.rulesStrings>
+<li>r_logentry-&gt;[INITIATOR_nameDef] đã thôi miên [RECIPIENT_nameDef] vào trạng thái ấm áp và thoải mái.</li>
+</WordOfJoy.logRulesInitiator.rulesStrings>
+<WordOfLove.label>Ngôn từ tình yêu</WordOfLove.label>
+<WordOfLove.logRulesInitiator.rulesStrings>
+<li>r_logentry-&gt;[INITIATOR_nameDef] đã gợi ý tâm linh rằng [RECIPIENT_nameDef] nên có một khát vọng lãng mạn.</li>
+</WordOfLove.logRulesInitiator.rulesStrings>
+<WordOfSerenity.label>Ngôn từ thanh thản</WordOfSerenity.label>
+<WordOfSerenity.logRulesInitiator.rulesStrings>
+<li>r_logentry-&gt;[INITIATOR_nameDef] đã gợi ý tâm linh cho [RECIPIENT_nameDef] bình tĩnh lại, chấm dứt sự sụp đổ tâm lý của [RECIPIENT_possessive].</li>
+</WordOfSerenity.logRulesInitiator.rulesStrings>
+<WordOfTrust.label>Ngôn từ tin cậy</WordOfTrust.label>
+  <WordOfTrust.logRulesInitiator.rulesStrings>
+   <li>r_logentry-&gt;[INITIATOR_nameDef] đã gợi ý tâm linh cho [RECIPIENT_nameDef] buông bỏ [RECIPIENT_possessive] sự phòng thủ.</li>
+  </WordOfTrust.logRulesInitiator.rulesStrings>
+</LanguageData>

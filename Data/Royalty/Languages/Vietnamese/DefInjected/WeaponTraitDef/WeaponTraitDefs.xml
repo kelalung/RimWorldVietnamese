@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <HungerMaker.label>Cơn Khát</HungerMaker.label>
+<HungerMaker.description>Nó yêu thích thức ăn và truyền lại sở thích này cho chủ nhân của nó. Người sử dụng bị liên kết sẽ cảm thấy đói nhanh hơn (tăng 50% cơn đói).</HungerMaker.description>
+<Jealous.label>Ghen Tị</Jealous.label>
+<Jealous.description>Nó sẽ cảm thấy ghen tị khi người liên kết sử dụng vũ khí khác, do đó làm giảm tâm trạng của người sử dụng.</Jealous.description>
+<NeedKill.label>Cần Giết Chóc</NeedKill.label>
+<NeedKill.description>Nó cho rằng giết chóc là ý nghĩa tồn tại của nó. Nếu nó không có máu trong 20 ngày, nó sẽ tức giận và phàn nàn với người liên kết.</NeedKill.description>
+<NeuralHeatRecoveryGain.label>Làm Mát</NeuralHeatRecoveryGain.label>
+<NeuralHeatRecoveryGain.description>Nó có khả năng giúp người sử dụng làm mát thần kinh nhanh hơn. Tốc độ giảm năng lượng tâm linh của người sử dụng tăng 0.15/giây.</NeuralHeatRecoveryGain.description>
+<NeverBond.label>Tự Do</NeverBond.label>
+<NeverBond.description>Nó không quan tâm đến người sở hữu là ai, bất kỳ ai cũng có thể cầm nắm và sử dụng nó.</NeverBond.description>
+<NoPain.label>Không Đau</NoPain.label>
+<NoPain.description>Nó có khả năng nào đó để khiến người sử dụng mất cảm giác đau đớn thông qua tâm linh. Người cầm vũ khí sẽ không cảm thấy bất kỳ cơn đau nào.</NoPain.description>
+<OnKill_PsyfocusGain.label>Ma Quái</OnKill_PsyfocusGain.label>
+<OnKill_PsyfocusGain.description>Tất cả sự chú ý của nó đều tập trung vào cái chết. Nếu vũ khí này giết chết ai đó, người sở hữu sẽ ngay lập tức nhận được 20% sức mạnh tinh thần.</OnKill_PsyfocusGain.description>
+<OnKill_ThoughtBad.label>Chán Ghét Giết Chóc</OnKill_ThoughtBad.label>
+<OnKill_ThoughtBad.description>Nó ghét giết chóc. Nếu nó gây ra cái chết, nỗi buồn của nó sẽ được truyền qua tâm linh đến người sở hữu, ảnh hưởng đến tâm trạng của họ trong vài ngày.</OnKill_ThoughtBad.description>
+<OnKill_ThoughtGood.label>Thích Giết Chóc</OnKill_ThoughtGood.label>
+<OnKill_ThoughtGood.description>Nó thích giết chóc. Nếu nó giết chết ai đó, niềm vui của nó sẽ được truyền qua tâm linh đến người sở hữu, khiến họ cảm thấy vui vẻ trong vài ngày.</OnKill_ThoughtGood.description>
+<PsychicSensitivityDownMajor.label>Sương Mù Tâm Linh</PsychicSensitivityDownMajor.label>
+<PsychicSensitivityDownMajor.description>Nó sẽ giảm 30% độ nhạy cảm tâm linh của người sở hữu. Hiệu ứng này chỉ có hiệu lực khi cầm vũ khí.</PsychicSensitivityDownMajor.description>
+<PsychicSensitivityDownMinor.label>Yên Tĩnh Tâm Linh</PsychicSensitivityDownMinor.label>
+<PsychicSensitivityDownMinor.description>Nó sẽ giảm 15% độ nhạy cảm tâm linh của người sở hữu. Hiệu ứng này chỉ có hiệu lực khi cầm vũ khí.</PsychicSensitivityDownMinor.description>
+<PsychicSensitivityUpMajor.label>Tăng Cường Tâm Linh</PsychicSensitivityUpMajor.label>
+<PsychicSensitivityUpMajor.description>Nó sẽ tăng 40% độ nhạy cảm tâm linh của người sở hữu. Hiệu ứng này chỉ có hiệu lực khi cầm vũ khí.</PsychicSensitivityUpMajor.description>
+<PsychicSensitivityUpMinor.label>Nhạy Cảm Tâm Linh</PsychicSensitivityUpMinor.label>
+<PsychicSensitivityUpMinor.description>Nó sẽ tăng 20% độ nhạy cảm tâm linh của người sở hữu. Hiệu ứng này chỉ có hiệu lực khi cầm vũ khí.</PsychicSensitivityUpMinor.description>
+<PsyfocusMeditationBonus.label>Ngôn Ngữ Tâm Linh</PsyfocusMeditationBonus.label>
+<PsyfocusMeditationBonus.description>Nó sẽ tạo ra hiệu ứng thiền tự nhiên để giúp người sở hữu phục hồi sức mạnh tinh thần trong khi thiền. Người sở hữu có thể nhận được 10% sức mạnh tinh thần bổ sung khi thiền.</PsyfocusMeditationBonus.description>
+<SpeedBoost.label>Tăng Tốc</SpeedBoost.label>
+<SpeedBoost.description>Nó có khả năng cảm nhận động. Nó có thể cung cấp cho người sử dụng khả năng tương ứng, giúp họ tăng tốc độ di chuyển lên 15% khi cầm vũ khí.</SpeedBoost.description>
+<ThoughtCalm.label>Bình Tĩnh</ThoughtCalm.label>
+<ThoughtCalm.description>Nó là một thứ thư giãn và bình tĩnh. Nó sẽ truyền đạt những suy nghĩ bình tĩnh cho người sử dụng liên kết, nâng cao tâm trạng của họ.</ThoughtCalm.description>
+<ThoughtKind.label>Dịu Dàng</ThoughtKind.label>
+<ThoughtKind.description>Nó là một thứ dịu dàng và hỗ trợ. Nó sẽ truyền đạt những suy nghĩ ấm áp cho người liên kết, nâng cao tâm trạng của họ.</ThoughtKind.description>
+<ThoughtMuttering.label>Lảm Nhảm</ThoughtMuttering.label>
+<ThoughtMuttering.description>Nó là một thứ thần kinh và không ổn định. Nó sẽ liên tục thì thầm những ý tưởng điên rồ với người liên kết, làm giảm tâm trạng của họ.</ThoughtMuttering.description>
+<ThoughtWailing.label>Điên Cuồng</ThoughtWailing.label>
+<ThoughtWailing.description>Nó bị xáo trộn nặng nề và không bao giờ im lặng. Nó gào thét điên cuồng với bất kỳ ai kết nối với nó, kìm nén cảm xúc của họ.</ThoughtWailing.description>
+</LanguageData>

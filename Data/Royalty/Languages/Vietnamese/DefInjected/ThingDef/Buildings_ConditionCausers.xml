@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ClimateAdjuster.label>Thiết bị điều chỉnh khí hậu</ClimateAdjuster.label>
+<ClimateAdjuster.description>Một thiết bị công nghệ tiên tiến dùng để điều chỉnh khí hậu. Nó sử dụng hóa chất và trường từ kỳ lạ để ảnh hưởng đến bầu khí quyển, từ đó thay đổi nhiệt độ của khu vực này.</ClimateAdjuster.description>
+<EMIDynamo.label>Thiết bị nhiễu điện từ</EMIDynamo.label>
+<EMIDynamo.description>Một thiết bị có khả năng tạo ra nhiễu điện từ lớn, có thể làm gián đoạn hoặc tắt các thiết bị điện trong khu vực lân cận.</EMIDynamo.description>
+<PsychicDroner.label>Thiết bị nhiễu tâm linh</PsychicDroner.label>
+<PsychicDroner.description>Một thiết bị công nghệ tiên tiến truyền tải tư tưởng của trí tuệ siêu phàm. Nó tạo ra một trường tâm linh lớn, ảnh hưởng đến tất cả những người thuộc giới tính nhất định trong một khu vực trên hành tinh. Tâm trạng của những người bị ảnh hưởng sẽ tiếp tục suy giảm và có thể dẫn đến cơn thịnh nộ. Ảnh hưởng này sẽ khác nhau tùy theo độ nhạy tâm linh của từng cá nhân.</PsychicDroner.description>
+<PsychicSuppressor.label>Thiết bị ức chế tâm linh</PsychicSuppressor.label>
+<PsychicSuppressor.description>Một thiết bị công nghệ tiên tiến tạo ra một trường ức chế tâm linh lớn ảnh hưởng đến một giới tính nhất định. Sự hoạt động tâm linh của những người thuộc giới tính này sẽ bị ức chế, làm giảm ý thức của họ. Ảnh hưởng này cũng sẽ khác nhau tùy theo độ nhạy tâm linh của từng cá nhân.</PsychicSuppressor.description>
+<SmokeSpewer.label>Thiết bị tạo khói</SmokeSpewer.label>
+<SmokeSpewer.description>Một vũ khí công nghệ tiên tiến được thiết kế để gây sát thương lớn trong khu vực. Bằng cách thu thập các hợp chất xung quanh và chuyển đổi chúng thành các phân tử mờ đục tự sao chép, nó có thể phát ra đủ khói để che khuất ánh sáng mặt trời trong toàn bộ khu vực của hành tinh.</SmokeSpewer.description>
+<SunBlocker.label>Thiết bị tạo bóng tối</SunBlocker.label>
+<SunBlocker.description>Một thiết bị công nghệ tiên tiến có thể tạo ra một trường từ kỳ lạ để ảnh hưởng đến bầu khí quyển, làm cho bầu khí trở nên mờ đục và chặn ánh sáng mặt trời.</SunBlocker.description>
+<ToxicSpewer.label>Thiết bị ô nhiễm không khí</ToxicSpewer.label>
+<ToxicSpewer.description>Một vũ khí công nghệ tiên tiến được thiết kế để gây sát thương lớn trong khu vực. Bằng cách thu thập các hợp chất có sẵn xung quanh và chuyển đổi chúng thành các chất độc tự sao chép, nó có thể tạo ra đủ khí độc để gây ra sương mù độc hại trong một khu vực trên hành tinh.</ToxicSpewer.description>
+<WeatherController.label>Thiết bị điều khiển thời tiết</WeatherController.label>
+<WeatherController.description>Một thiết bị công nghệ tiên tiến dùng để điều khiển thời tiết. Dựa trên hóa chất và trường từ kỳ lạ, nó có thể ép buộc thời tiết trong khu vực thay đổi theo cài đặt của máy tính bên trong.</WeatherController.description>
+</LanguageData>

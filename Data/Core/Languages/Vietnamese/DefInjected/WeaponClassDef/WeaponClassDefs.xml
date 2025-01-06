@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<LongShots.label>Bắn xa</LongShots.label>
+<Melee.label>Vũ khí cận chiến</Melee.label>
+<MeleeBlunt.label>Vũ khí cận chiến cùn</MeleeBlunt.label>
+<MeleePiercer.label>Vũ khí cận chiến sắc</MeleePiercer.label>
+<Neolithic.label>Thời kỳ đồ đá</Neolithic.label>
+<Ranged.label>Vũ khí tầm xa</Ranged.label>
+<RangedHeavy.label>Vũ khí tầm xa nặng</RangedHeavy.label>
+<RangedLight.label>Vũ khí tầm xa nhẹ</RangedLight.label>
+<ShortShots.label>Bắn gần</ShortShots.label>
+<Ultratech.label>Công nghệ tối tân</Ultratech.label>
+</LanguageData>

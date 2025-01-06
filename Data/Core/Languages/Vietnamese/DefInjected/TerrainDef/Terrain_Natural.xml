@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Gravel.label>Đá dăm</Gravel.label>
+	<Gravel.tools.gravel.label>Đá dăm</Gravel.tools.gravel.label>
+	<Ice.label>Băng</Ice.label>
+	<MarshyTerrain.label>Đất mềm ẩm</MarshyTerrain.label>
+	<MarshyTerrain.tools.mud.label>Bùn</MarshyTerrain.tools.mud.label>
+	<MossyTerrain.label>Mặt đất rêu</MossyTerrain.label>
+	<Mud.label>Đất bùn</Mud.label>
+	<Mud.tools.mud.label>Bùn</Mud.tools.mud.label>
+	<Sand.label>Cát</Sand.label>
+	<Sand.tools.sand.label>Cát</Sand.tools.sand.label>
+	<SoftSand.label>Cát mịn</SoftSand.label>
+	<SoftSand.tools.sand.label>Cát</SoftSand.tools.sand.label>
+	<Soil.label>Đất</Soil.label>
+	<Soil.tools.dirt.label>Bụi đất</Soil.tools.dirt.label>
+	<SoilRich.label>Đất màu mỡ</SoilRich.label>
+	<SoilRich.tools.dirt.label>Bụi đất</SoilRich.tools.dirt.label>
+</LanguageData>

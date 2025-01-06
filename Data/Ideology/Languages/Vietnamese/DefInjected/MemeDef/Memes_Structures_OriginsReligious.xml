@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Structure_OriginBuddhist.label>Nguồn gốc Phật giáo</Structure_OriginBuddhist.label>
+	<Structure_OriginBuddhist.description>Hệ tư tưởng này là sự tiếp nối của Phật giáo cổ đại. Các giới luật của nó có thể khác biệt nhiều so với các giới luật hàng ngàn năm trước, nhưng các biểu tượng thì có sự tương đồng.</Structure_OriginBuddhist.description>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.0>r_ideoName(p=99)-&gt;[globalAdjective][packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.0>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.1>r_ideoName(p=99)-&gt;[memeAdjective][packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.1>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.2>r_ideoName(p=99)-&gt;[packAdjective][packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.2>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.3>r_ideoName(p=99)-&gt;[packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.3>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.4>memeLeaderNoun-&gt;Bồ Tát</Structure_OriginBuddhist.generalRules.rulesStrings.4>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Sattva</Structure_OriginBuddhist.generalRules.rulesStrings.5>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Lama</Structure_OriginBuddhist.generalRules.rulesStrings.6>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;Đạt được</Structure_OriginBuddhist.generalRules.rulesStrings.7>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;Thông thái</Structure_OriginBuddhist.generalRules.rulesStrings.8>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;Tính linh</Structure_OriginBuddhist.generalRules.rulesStrings.9>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;Brahma</Structure_OriginBuddhist.generalRules.rulesStrings.10>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;Đạt Lai</Structure_OriginBuddhist.generalRules.rulesStrings.11>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)-&gt;Tỳ kheo</Structure_OriginBuddhist.generalRules.rulesStrings.12>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist-&gt;Trụ trì</Structure_OriginBuddhist.generalRules.rulesStrings.13>
+	<Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist-&gt;Đại sư</Structure_OriginBuddhist.generalRules.rulesStrings.14>
+	<Structure_OriginBuddhist.symbolPacks.0.adjective>Phật</Structure_OriginBuddhist.symbolPacks.0.adjective>
+	<Structure_OriginBuddhist.symbolPacks.0.ideoName>Phật giáo</Structure_OriginBuddhist.symbolPacks.0.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.0.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.0.member>
+	<Structure_OriginBuddhist.symbolPacks.0.theme>Phật</Structure_OriginBuddhist.symbolPacks.0.theme>
+	<Structure_OriginBuddhist.symbolPacks.1.adjective>Thượng tọa bộ</Structure_OriginBuddhist.symbolPacks.1.adjective>
+	<Structure_OriginBuddhist.symbolPacks.1.ideoName>Phật giáo Thượng tọa</Structure_OriginBuddhist.symbolPacks.1.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.1.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.1.member>
+	<Structure_OriginBuddhist.symbolPacks.2.adjective>Đại thừa</Structure_OriginBuddhist.symbolPacks.2.adjective>
+	<Structure_OriginBuddhist.symbolPacks.2.ideoName>Phật giáo Đại thừa</Structure_OriginBuddhist.symbolPacks.2.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.2.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.2.member>
+	<Structure_OriginBuddhist.symbolPacks.3.adjective>Mật tông</Structure_OriginBuddhist.symbolPacks.3.adjective>
+	<Structure_OriginBuddhist.symbolPacks.3.ideoName>Phật giáo Mật tông</Structure_OriginBuddhist.symbolPacks.3.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.3.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.3.member>
+	<Structure_OriginBuddhist.symbolPacks.4.adjective>Thiền</Structure_OriginBuddhist.symbolPacks.4.adjective>
+	<Structure_OriginBuddhist.symbolPacks.4.ideoName>Thiền</Structure_OriginBuddhist.symbolPacks.4.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.4.member>Người theo Thiền</Structure_OriginBuddhist.symbolPacks.4.member>
+	<Structure_OriginBuddhist.symbolPacks.5.adjective>Tu la</Structure_OriginBuddhist.symbolPacks.5.adjective>
+	<Structure_OriginBuddhist.symbolPacks.5.ideoName>Giáo phái Tu la</Structure_OriginBuddhist.symbolPacks.5.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.5.member>Người theo giáo phái Tu la</Structure_OriginBuddhist.symbolPacks.5.member>
+	<Structure_OriginBuddhist.symbolPacks.6.adjective>Nhất thừa</Structure_OriginBuddhist.symbolPacks.6.adjective>
+	<Structure_OriginBuddhist.symbolPacks.6.ideoName>Phật giáo Nhất thừa</Structure_OriginBuddhist.symbolPacks.6.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.6.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.6.member>
+	<Structure_OriginBuddhist.symbolPacks.7.adjective>Mới thừa</Structure_OriginBuddhist.symbolPacks.7.adjective>
+	<Structure_OriginBuddhist.symbolPacks.7.ideoName>Phật giáo Mới thừa</Structure_OriginBuddhist.symbolPacks.7.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.7.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.7.member>
+	<Structure_OriginBuddhist.symbolPacks.8.adjective>Mật thừa</Structure_OriginBuddhist.symbolPacks.8.adjective>
+	<Structure_OriginBuddhist.symbolPacks.8.ideoName>Phật giáo Mật thừa</Structure_OriginBuddhist.symbolPacks.8.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.8.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.8.member>
+	<Structure_OriginBuddhist.symbolPacks.9.adjective>Giáo phái Gelug</Structure_OriginBuddhist.symbolPacks.9.adjective>
+	<Structure_OriginBuddhist.symbolPacks.9.ideoName>Giáo phái Gelug</Structure_OriginBuddhist.symbolPacks.9.ideoName>
+	<Structure_OriginBuddhist.symbolPacks.9.member>Người theo Phật giáo</Structure_OriginBuddhist.symbolPacks.9.member>
+	<Structure_OriginBuddhist.worshipRoomLabel>Tháp Phật</Structure_OriginBuddhist.worshipRoomLabel>
+	<Structure_OriginChristian.label>Nguồn gốc Kitô giáo</Structure_OriginChristian.label>
+	<Structure_OriginChristian.description>Đây là một nhánh của cấu trúc thần luận trừu tượng. Hệ tư tưởng này là sự tiếp nối của Kitô giáo cổ đại. Các giới luật của nó có thể khác biệt nhiều so với các giới luật hàng ngàn năm trước, nhưng các biểu tượng thì có sự tương đồng.</Structure_OriginChristian.description>
+	<Structure_OriginChristian.generalRules.rulesStrings.0>r_ideoName(p=99)-&gt;[globalAdjective][packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.0>
+	<Structure_OriginChristian.generalRules.rulesStrings.1>r_ideoName(p=99)-&gt;[memeAdjective][packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.1>
+	<Structure_OriginChristian.generalRules.rulesStrings.2>r_ideoName(p=99)-&gt;[packAdjective][packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.2>
+	<Structure_OriginChristian.generalRules.rulesStrings.3>r_ideoName(p=99)-&gt;[packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.3>
+	<Structure_OriginChristian.generalRules.rulesStrings.4>memeLeaderNoun-&gt;Giám mục</Structure_OriginChristian.generalRules.rulesStrings.4>
+	<Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Hồng y</Structure_OriginChristian.generalRules.rulesStrings.5>
+	<Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Giáo hoàng</Structure_OriginChristian.generalRules.rulesStrings.6>
+	<Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Hồng y</Structure_OriginChristian.generalRules.rulesStrings.7>
+	<Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Người truyền giáo</Structure_OriginChristian.generalRules.rulesStrings.8>
+	<Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Nhà thần học</Structure_OriginChristian.generalRules.rulesStrings.9>
+	<Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Mục sư</Structure_OriginChristian.generalRules.rulesStrings.10>
+	<Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun-&gt;Giáo sĩ</Structure_OriginChristian.generalRules.rulesStrings.11>
+	<Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;Thần thánh</Structure_OriginChristian.generalRules.rulesStrings.12>
+	<Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;Thánh thiện</Structure_OriginChristian.generalRules.rulesStrings.13>
+	<Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;Kitô</Structure_OriginChristian.generalRules.rulesStrings.14>
+	<Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;Thần</Structure_OriginChristian.generalRules.rulesStrings.15>
+	<Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist-&gt;Cha sứ</Structure_OriginChristian.generalRules.rulesStrings.16>
+	<Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist-&gt;Mục sư</Structure_OriginChristian.generalRules.rulesStrings.17>
+	<Structure_OriginChristian.generalRules.rulesStrings.18>memeMoralist-&gt;Giáo sĩ</Structure_OriginChristian.generalRules.rulesStrings.18>
+	<Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist-&gt;Người truyền giáo</Structure_OriginChristian.generalRules.rulesStrings.19>
+	<Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist-&gt;Giáo sĩ</Structure_OriginChristian.generalRules.rulesStrings.20>
+	<Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist-&gt;Nhà sư</Structure_OriginChristian.generalRules.rulesStrings.21>
+	<Structure_OriginChristian.symbolPacks.0.adjective>Kitô giáo</Structure_OriginChristian.symbolPacks.0.adjective>
+	<Structure_OriginChristian.symbolPacks.0.ideoName>Kitô giáo</Structure_OriginChristian.symbolPacks.0.ideoName>
+	<Structure_OriginChristian.symbolPacks.0.member>Người Kitô giáo</Structure_OriginChristian.symbolPacks.0.member>
+	<Structure_OriginChristian.symbolPacks.1.adjective>Công giáo</Structure_OriginChristian.symbolPacks.1.adjective>
+	<Structure_OriginChristian.symbolPacks.1.ideoName>Công giáo</Structure_OriginChristian.symbolPacks.1.ideoName>
+	<Structure_OriginChristian.symbolPacks.1.member>Người Công giáo</Structure_OriginChristian.symbolPacks.1.member>
+	<Structure_OriginChristian.symbolPacks.2.adjective>Tin lành</Structure_OriginChristian.symbolPacks.2.adjective>
+	<Structure_OriginChristian.symbolPacks.2.ideoName>Tin lành</Structure_OriginChristian.symbolPacks.2.ideoName>
+	<Structure_OriginChristian.symbolPacks.2.member>Người Tin lành</Structure_OriginChristian.symbolPacks.2.member>
+	<Structure_OriginChristian.symbolPacks.3.adjective>Đông phương giáo</Structure_OriginChristian.symbolPacks.3.adjective>
+	<Structure_OriginChristian.symbolPacks.3.ideoName>Đông phương giáo</Structure_OriginChristian.symbolPacks.3.ideoName>
+	<Structure_OriginChristian.symbolPacks.3.member>Người Đông phương giáo</Structure_OriginChristian.symbolPacks.3.member>
+	<Structure_OriginChristian.symbolPacks.4.adjective>Giáo hội Nestorian</Structure_OriginChristian.symbolPacks.4.adjective>
+	<Structure_OriginChristian.symbolPacks.4.ideoName>Giáo hội Nestorian</Structure_OriginChristian.symbolPacks.4.ideoName>
+	<Structure_OriginChristian.symbolPacks.4.member>Người Nestorian</Structure_OriginChristian.symbolPacks.4.member>
+	<Structure_OriginChristian.symbolPacks.5.adjective>Giáo hội Anh giáo</Structure_OriginChristian.symbolPacks.5.adjective>
+	<Structure_OriginChristian.symbolPacks.5.ideoName>Giáo hội Anh giáo</Structure_OriginChristian.symbolPacks.5.ideoName>
+	<Structure_OriginChristian.symbolPacks.5.member>Người Anh giáo</Structure_OriginChristian.symbolPacks.5.member>
+	<Structure_OriginChristian.symbolPacks.6.adjective>Giáo hội Baptist</Structure_OriginChristian.symbolPacks.6.adjective>
+	<Structure_OriginChristian.symbolPacks.6.ideoName>Giáo hội Baptist</Structure_OriginChristian.symbolPacks.6.ideoName>
+	<Structure_OriginChristian.symbolPacks.6.member>Người Baptist</Structure_OriginChristian.symbolPacks.6.member>
+	<Structure_OriginChristian.symbolPacks.7.adjective>Nhóm tái rửa</Structure_OriginChristian.symbolPacks.7.adjective>
+	<Structure_OriginChristian.symbolPacks.7.ideoName>Nhóm tái rửa</Structure_OriginChristian.symbolPacks.7.ideoName>
+	<Structure_OriginChristian.symbolPacks.7.member>Người tái rửa</Structure_OriginChristian.symbolPacks.7.member>
+	<Structure_OriginChristian.symbolPacks.8.adjective>Giáo phái Calvin</Structure_OriginChristian.symbolPacks.8.adjective>
+	<Structure_OriginChristian.symbolPacks.8.ideoName>Giáo phái Calvin</Structure_OriginChristian.symbolPacks.8.ideoName>
+	<Structure_OriginChristian.symbolPacks.8.member>Người Calvin</Structure_OriginChristian.symbolPacks.8.member>
+	<Structure_OriginChristian.symbolPacks.9.adjective>Giáo hội Luther</Structure_OriginChristian.symbolPacks.9.adjective>
+	<Structure_OriginChristian.symbolPacks.9.ideoName>Giáo hội Luther</Structure_OriginChristian.symbolPacks.9.ideoName>
+	<Structure_OriginChristian.symbolPacks.9.member>Người Luther</Structure_OriginChristian.symbolPacks.9.member>
+	<Structure_OriginChristian.symbolPacks.10.adjective>Giáo phái Kitô phục lâm</Structure_OriginChristian.symbolPacks.10.adjective>
+	<Structure_OriginChristian.symbolPacks.10.ideoName>Giáo phái Kitô phục lâm</Structure_OriginChristian.symbolPacks.10.ideoName>
+	<Structure_OriginChristian.symbolPacks.10.member>Người Kitô phục lâm</Structure_OriginChristian.symbolPacks.10.member>
+	<Structure_OriginChristian.symbolPacks.11.adjective>Giáo hội Methodist</Structure_OriginChristian.symbolPacks.11.adjective>
+	<Structure_OriginChristian.symbolPacks.11.ideoName>Giáo hội Methodist</Structure_OriginChristian.symbolPacks.11.ideoName>
+	<Structure_OriginChristian.symbolPacks.11.member>Người Methodist</Structure_OriginChristian.symbolPacks.11.member>
+	<Structure_OriginChristian.symbolPacks.12.adjective>Giáo phái Mormon</Structure_OriginChristian.symbolPacks.12.adjective>
+	<Structure_OriginChristian.symbolPacks.12.ideoName>Giáo phái Mormon</Structure_OriginChristian.symbolPacks.12.ideoName>
+	<Structure_OriginChristian.symbolPacks.12.member>Người Mormon</Structure_OriginChristian.symbolPacks.12.member>
+	<Structure_OriginChristian.symbolPacks.13.adjective>Thần học</Structure_OriginChristian.symbolPacks.13.adjective>
+	<Structure_OriginChristian.symbolPacks.13.ideoName>Thần học</Structure_OriginChristian.symbolPacks.13.ideoName>
+	<Structure_OriginChristian.symbolPacks.13.member>Nhà thần học</Structure_OriginChristian.symbolPacks.13.member>
+	<Structure_OriginChristian.worshipRoomLabel>Nhà thờ</Structure_OriginChristian.worshipRoomLabel>
+	<Structure_OriginHindu.label>Nguồn gốc Ấn Độ giáo</Structure_OriginHindu.label>
+	<Structure_OriginHindu.description>Đây là một nhánh của cấu trúc thần luận cụ thể. Hệ tư tưởng này là sự tiếp nối của Ấn Độ giáo cổ đại. Các giới luật của nó có thể khác biệt nhiều so với các giới luật hàng ngàn năm trước, nhưng các biểu tượng thì có sự tương đồng.</Structure_OriginHindu.description>
+	<Structure_OriginHindu.fixedDeityNameTypes.0.name>Brahma</Structure_OriginHindu.fixedDeityNameTypes.0.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.0.type>Thần sáng tạo</Structure_OriginHindu.fixedDeityNameTypes.0.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.1.name>Vishnu</Structure_OriginHindu.fixedDeityNameTypes.1.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.1.type>Thần bảo trì</Structure_OriginHindu.fixedDeityNameTypes.1.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.2.name>Shiva</Structure_OriginHindu.fixedDeityNameTypes.2.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.2.type>Thần hủy diệt</Structure_OriginHindu.fixedDeityNameTypes.2.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.3.name>Ushas</Structure_OriginHindu.fixedDeityNameTypes.3.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.3.type>Thần bình minh</Structure_OriginHindu.fixedDeityNameTypes.3.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.4.name>Tiểu Tỳ</Structure_OriginHindu.fixedDeityNameTypes.4.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.4.type>Thần nữ</Structure_OriginHindu.fixedDeityNameTypes.4.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.5.name>Lakshmi</Structure_OriginHindu.fixedDeityNameTypes.5.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.5.type>Thần mục tiêu</Structure_OriginHindu.fixedDeityNameTypes.5.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.6.name>Uma</Structure_OriginHindu.fixedDeityNameTypes.6.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.6.type>Thần nuôi dưỡng</Structure_OriginHindu.fixedDeityNameTypes.6.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.7.name>Yama</Structure_OriginHindu.fixedDeityNameTypes.7.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.7.type>Thần bảo vệ</Structure_OriginHindu.fixedDeityNameTypes.7.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.8.name>Prithvi</Structure_OriginHindu.fixedDeityNameTypes.8.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.8.type>Thần đất</Structure_OriginHindu.fixedDeityNameTypes.8.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.9.name>Saraswati</Structure_OriginHindu.fixedDeityNameTypes.9.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.9.type>Thần âm nhạc</Structure_OriginHindu.fixedDeityNameTypes.9.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.10.name>Gauri</Structure_OriginHindu.fixedDeityNameTypes.10.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.10.type>Thần sự sống</Structure_OriginHindu.fixedDeityNameTypes.10.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.11.name>Anna</Structure_OriginHindu.fixedDeityNameTypes.11.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.11.type>Thần thực phẩm</Structure_OriginHindu.fixedDeityNameTypes.11.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.12.name>Nidra</Structure_OriginHindu.fixedDeityNameTypes.12.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.12.type>Thần giấc ngủ</Structure_OriginHindu.fixedDeityNameTypes.12.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.13.name>Shashthi</Structure_OriginHindu.fixedDeityNameTypes.13.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.13.type>Thần trẻ em</Structure_OriginHindu.fixedDeityNameTypes.13.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.14.name>Manasa</Structure_OriginHindu.fixedDeityNameTypes.14.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.14.type>Thần rắn</Structure_OriginHindu.fixedDeityNameTypes.14.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.15.name>Shava</Structure_OriginHindu.fixedDeityNameTypes.15.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.15.type>Thần tro</Structure_OriginHindu.fixedDeityNameTypes.15.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.16.name>Parvati</Structure_OriginHindu.fixedDeityNameTypes.16.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.16.type>Thần hủy diệt</Structure_OriginHindu.fixedDeityNameTypes.16.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.17.name>Krishna</Structure_OriginHindu.fixedDeityNameTypes.17.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.17.type>Thần từ bi</Structure_OriginHindu.fixedDeityNameTypes.17.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.18.name>Surya</Structure_OriginHindu.fixedDeityNameTypes.18.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.18.type>Thần mặt trời</Structure_OriginHindu.fixedDeityNameTypes.18.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.19.name>Varuna</Structure_OriginHindu.fixedDeityNameTypes.19.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.19.type>Thần trời</Structure_OriginHindu.fixedDeityNameTypes.19.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.20.name>Mitra</Structure_OriginHindu.fixedDeityNameTypes.20.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.20.type>Thần tình bạn</Structure_OriginHindu.fixedDeityNameTypes.20.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.21.name>Indra</Structure_OriginHindu.fixedDeityNameTypes.21.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.21.type>Thần thiên đường</Structure_OriginHindu.fixedDeityNameTypes.21.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.22.name>Agni</Structure_OriginHindu.fixedDeityNameTypes.22.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.22.type>Thần lửa</Structure_OriginHindu.fixedDeityNameTypes.22.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.23.name>Soma</Structure_OriginHindu.fixedDeityNameTypes.23.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.23.type>Thần mặt trăng</Structure_OriginHindu.fixedDeityNameTypes.23.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.24.name>Vayu</Structure_OriginHindu.fixedDeityNameTypes.24.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.24.type>Thần gió</Structure_OriginHindu.fixedDeityNameTypes.24.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.25.name>Bhumi</Structure_OriginHindu.fixedDeityNameTypes.25.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.25.type>Thần đất mẹ</Structure_OriginHindu.fixedDeityNameTypes.25.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.26.name>Aditya</Structure_OriginHindu.fixedDeityNameTypes.26.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.26.type>Thần đạo đức</Structure_OriginHindu.fixedDeityNameTypes.26.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.27.name>Vāk</Structure_OriginHindu.fixedDeityNameTypes.27.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.27.type>Thần âm thanh</Structure_OriginHindu.fixedDeityNameTypes.27.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.28.name>Nīlī</Structure_OriginHindu.fixedDeityNameTypes.28.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.28.type>Thần hủy diệt</Structure_OriginHindu.fixedDeityNameTypes.28.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.29.name>Nakula</Structure_OriginHindu.fixedDeityNameTypes.29.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.29.type>Thần đêm</Structure_OriginHindu.fixedDeityNameTypes.29.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.30.name>Aranyani</Structure_OriginHindu.fixedDeityNameTypes.30.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.30.type>Thần rừng</Structure_OriginHindu.fixedDeityNameTypes.30.type>
+	<Structure_OriginHindu.fixedDeityNameTypes.31.name>Durga</Structure_OriginHindu.fixedDeityNameTypes.31.name>
+	<Structure_OriginHindu.fixedDeityNameTypes.31.type>Thần chiến tranh nữ</Structure_OriginHindu.fixedDeityNameTypes.31.type>
+	<Structure_OriginHindu.generalRules.rulesStrings.0>r_ideoName(p=99)-&gt;[globalAdjective][packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.0>
+	<Structure_OriginHindu.generalRules.rulesStrings.1>r_ideoName(p=99)-&gt;[memeAdjective][packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.1>
+	<Structure_OriginHindu.generalRules.rulesStrings.2>r_ideoName(p=99)-&gt;[packAdjective][packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.2>
+	<Structure_OriginHindu.generalRules.rulesStrings.3>r_ideoName(p=99)-&gt;[packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.3>
+	<Structure_OriginHindu.generalRules.rulesStrings.4>memeLeaderNoun-&gt;Đại thánh</Structure_OriginHindu.generalRules.rulesStrings.4>
+	<Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Tự tại</Structure_OriginHindu.generalRules.rulesStrings.5>
+	<Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Yoga</Structure_OriginHindu.generalRules.rulesStrings.6>
+	<Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Brahmin</Structure_OriginHindu.generalRules.rulesStrings.7>
+	<Structure_OriginHindu.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Avatara</Structure_OriginHindu.generalRules.rulesStrings.8>
+	<Structure_OriginHindu.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;Thần thánh</Structure_OriginHindu.generalRules.rulesStrings.9>
+	<Structure_OriginHindu.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;Bắc Ấn</Structure_OriginHindu.generalRules.rulesStrings.10>
+	<Structure_OriginHindu.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;Ấn Độ</Structure_OriginHindu.generalRules.rulesStrings.11>
+	<Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;Yoga</Structure_OriginHindu.generalRules.rulesStrings.12>
+	<Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;Tirtha</Structure_OriginHindu.generalRules.rulesStrings.13>
+	<Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)-&gt;Pujari</Structure_OriginHindu.generalRules.rulesStrings.14>
+	<Structure_OriginHindu.generalRules.rulesStrings.15>memeMoralist-&gt;Prohit</Structure_OriginHindu.generalRules.rulesStrings.15>
+	<Structure_OriginHindu.generalRules.rulesStrings.16>memeMoralist-&gt;Acharya</Structure_OriginHindu.generalRules.rulesStrings.16>
+	<Structure_OriginHindu.generalRules.rulesStrings.17>memeMoralist-&gt;Brahman</Structure_OriginHindu.generalRules.rulesStrings.17>
+	<Structure_OriginHindu.symbolPacks.0.adjective>Ấn Độ giáo</Structure_OriginHindu.symbolPacks.0.adjective>
+	<Structure_OriginHindu.symbolPacks.0.ideoName>Ấn Độ giáo</Structure_OriginHindu.symbolPacks.0.ideoName>
+	<Structure_OriginHindu.symbolPacks.0.member>Người theo Ấn Độ giáo</Structure_OriginHindu.symbolPacks.0.member>
+	<Structure_OriginHindu.symbolPacks.1.adjective>Hindu</Structure_OriginHindu.symbolPacks.1.adjective>
+	<Structure_OriginHindu.symbolPacks.1.ideoName>Hindu giáo</Structure_OriginHindu.symbolPacks.1.ideoName>
+	<Structure_OriginHindu.symbolPacks.1.member>Người theo Hindu giáo</Structure_OriginHindu.symbolPacks.1.member>
+	<Structure_OriginHindu.symbolPacks.2.adjective>Thân Độc</Structure_OriginHindu.symbolPacks.2.adjective>
+	<Structure_OriginHindu.symbolPacks.2.ideoName>Thân Độc giáo</Structure_OriginHindu.symbolPacks.2.ideoName>
+	<Structure_OriginHindu.symbolPacks.2.member>Người theo Thân Độc giáo</Structure_OriginHindu.symbolPacks.2.member>
+	<Structure_OriginHindu.symbolPacks.3.adjective>Tantra</Structure_OriginHindu.symbolPacks.3.adjective>
+	<Structure_OriginHindu.symbolPacks.3.ideoName>Tantra giáo</Structure_OriginHindu.symbolPacks.3.ideoName>
+	<Structure_OriginHindu.symbolPacks.3.member>Người theo Tantra giáo</Structure_OriginHindu.symbolPacks.3.member>
+	<Structure_OriginHindu.symbolPacks.4.adjective>Vệ Đà</Structure_OriginHindu.symbolPacks.4.adjective>
+	<Structure_OriginHindu.symbolPacks.4.ideoName>Vệ Đà giáo</Structure_OriginHindu.symbolPacks.4.ideoName>
+	<Structure_OriginHindu.symbolPacks.4.member>Người theo Vệ Đà giáo</Structure_OriginHindu.symbolPacks.4.member>
+	<Structure_OriginHindu.symbolPacks.5.adjective>Đạt Ma</Structure_OriginHindu.symbolPacks.5.adjective>
+	<Structure_OriginHindu.symbolPacks.5.ideoName>Đạt Ma giáo</Structure_OriginHindu.symbolPacks.5.ideoName>
+	<Structure_OriginHindu.symbolPacks.5.member>Người theo Đạt Ma giáo</Structure_OriginHindu.symbolPacks.5.member>
+	<Structure_OriginHindu.symbolPacks.6.adjective>Viṣṇu</Structure_OriginHindu.symbolPacks.6.adjective>
+	<Structure_OriginHindu.symbolPacks.6.ideoName>Viṣṇu giáo</Structure_OriginHindu.symbolPacks.6.ideoName>
+	<Structure_OriginHindu.symbolPacks.6.member>Người theo Viṣṇu giáo</Structure_OriginHindu.symbolPacks.6.member>
+	<Structure_OriginHindu.symbolPacks.7.adjective>Shiva</Structure_OriginHindu.symbolPacks.7.adjective>
+	<Structure_OriginHindu.symbolPacks.7.ideoName>Shiva giáo</Structure_OriginHindu.symbolPacks.7.ideoName>
+	<Structure_OriginHindu.symbolPacks.7.member>Người theo Shiva giáo</Structure_OriginHindu.symbolPacks.7.member>
+	<Structure_OriginHindu.symbolPacks.8.adjective>Yoga</Structure_OriginHindu.symbolPacks.8.adjective>
+	<Structure_OriginHindu.symbolPacks.8.ideoName>Yoga giáo</Structure_OriginHindu.symbolPacks.8.ideoName>
+	<Structure_OriginHindu.symbolPacks.8.member>Người theo Yoga giáo</Structure_OriginHindu.symbolPacks.8.member>
+	<Structure_OriginHindu.symbolPacks.9.adjective>Chánh lý</Structure_OriginHindu.symbolPacks.9.adjective>
+	<Structure_OriginHindu.symbolPacks.9.ideoName>Chánh lý phái</Structure_OriginHindu.symbolPacks.9.ideoName>
+	<Structure_OriginHindu.symbolPacks.9.member>Người theo Chánh lý phái</Structure_OriginHindu.symbolPacks.9.member>
+	<Structure_OriginHindu.symbolPacks.10.adjective>Thắng luận</Structure_OriginHindu.symbolPacks.10.adjective>
+	<Structure_OriginHindu.symbolPacks.10.ideoName>Thắng luận phái</Structure_OriginHindu.symbolPacks.10.ideoName>
+	<Structure_OriginHindu.symbolPacks.10.member>Người theo Thắng luận phái</Structure_OriginHindu.symbolPacks.10.member>
+	<Structure_OriginHindu.symbolPacks.11.adjective>Số luận</Structure_OriginHindu.symbolPacks.11.adjective>
+	<Structure_OriginHindu.symbolPacks.11.ideoName>Số luận phái</Structure_OriginHindu.symbolPacks.11.ideoName>
+	<Structure_OriginHindu.symbolPacks.11.member>Người theo Số luận phái</Structure_OriginHindu.symbolPacks.11.member>
+	<Structure_OriginHindu.symbolPacks.12.adjective>Mi Mạn Sa</Structure_OriginHindu.symbolPacks.12.adjective>
+	<Structure_OriginHindu.symbolPacks.12.ideoName>Mi Mạn Sa phái</Structure_OriginHindu.symbolPacks.12.ideoName>
+	<Structure_OriginHindu.symbolPacks.12.member>Người theo Mi Mạn Sa phái</Structure_OriginHindu.symbolPacks.12.member>
+	<Structure_OriginHindu.symbolPacks.13.adjective>Vệ Đàn Đa</Structure_OriginHindu.symbolPacks.13.adjective>
+	<Structure_OriginHindu.symbolPacks.13.ideoName>Vệ Đàn Đa phái</Structure_OriginHindu.symbolPacks.13.ideoName>
+	<Structure_OriginHindu.symbolPacks.13.member>Người theo Vệ Đàn Đa phái</Structure_OriginHindu.symbolPacks.13.member>
+	<Structure_OriginHindu.worshipRoomLabel>Thánh điện</Structure_OriginHindu.worshipRoomLabel>
+	<Structure_OriginIslamic.label>Nguồn gốc Hồi giáo</Structure_OriginIslamic.label>
+	<Structure_OriginIslamic.description>Đây là một nhánh của cấu trúc thần luận trừu tượng. Hệ tư tưởng này là sự tiếp nối của Hồi giáo cổ đại. Các giới luật của nó có thể khác biệt nhiều so với các giới luật hàng ngàn năm trước, nhưng các biểu tượng thì có sự tương đồng.</Structure_OriginIslamic.description>
+	<Structure_OriginIslamic.generalRules.rulesStrings.0>r_ideoName(p=99)-&gt;[globalAdjective][packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.0>
+	<Structure_OriginIslamic.generalRules.rulesStrings.1>r_ideoName(p=99)-&gt;[memeAdjective][packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.1>
+	<Structure_OriginIslamic.generalRules.rulesStrings.2>r_ideoName(p=99)-&gt;[packAdjective][packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.2>
+	<Structure_OriginIslamic.generalRules.rulesStrings.3>r_ideoName(p=99)-&gt;[packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.3>
+	<Structure_OriginIslamic.generalRules.rulesStrings.4>memeLeaderNoun-&gt;Mullah</Structure_OriginIslamic.generalRules.rulesStrings.4>
+	<Structure_OriginIslamic.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Imam</Structure_OriginIslamic.generalRules.rulesStrings.5>
+	<Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Khalifah</Structure_OriginIslamic.generalRules.rulesStrings.6>
+	<Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Mufti</Structure_OriginIslamic.generalRules.rulesStrings.7>
+	<Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Amin</Structure_OriginIslamic.generalRules.rulesStrings.8>
+	<Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Shia</Structure_OriginIslamic.generalRules.rulesStrings.9>
+	<Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Ayatollah</Structure_OriginIslamic.generalRules.rulesStrings.10>
+	<Structure_OriginIslamic.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;Vĩ đại</Structure_OriginIslamic.generalRules.rulesStrings.11>
+	<Structure_OriginIslamic.generalRules.rulesStrings.12>memeMoralist(p=4)-&gt;Imam</Structure_OriginIslamic.generalRules.rulesStrings.12>
+	<Structure_OriginIslamic.generalRules.rulesStrings.13>memeMoralist-&gt;Qadi</Structure_OriginIslamic.generalRules.rulesStrings.13>
+	<Structure_OriginIslamic.generalRules.rulesStrings.14>memeMoralist-&gt;Alim</Structure_OriginIslamic.generalRules.rulesStrings.14>
+	<Structure_OriginIslamic.generalRules.rulesStrings.15>memeMoralist-&gt;Ulama</Structure_OriginIslamic.generalRules.rulesStrings.15>
+	<Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist-&gt;Muezzin</Structure_OriginIslamic.generalRules.rulesStrings.16>
+	<Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist-&gt;Mujtahid</Structure_OriginIslamic.generalRules.rulesStrings.17>
+	<Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist-&gt;Giáo sĩ</Structure_OriginIslamic.generalRules.rulesStrings.18>
+	<Structure_OriginIslamic.symbolPacks.0.adjective>Hồi giáo</Structure_OriginIslamic.symbolPacks.0.adjective>
+	<Structure_OriginIslamic.symbolPacks.0.ideoName>Hồi giáo</Structure_OriginIslamic.symbolPacks.0.ideoName>
+	<Structure_OriginIslamic.symbolPacks.0.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.0.member>
+	<Structure_OriginIslamic.symbolPacks.1.adjective>Hồi giáo</Structure_OriginIslamic.symbolPacks.1.adjective>
+	<Structure_OriginIslamic.symbolPacks.1.ideoName>Hồi giáo</Structure_OriginIslamic.symbolPacks.1.ideoName>
+	<Structure_OriginIslamic.symbolPacks.1.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.1.member>
+	<Structure_OriginIslamic.symbolPacks.2.adjective>Shia</Structure_OriginIslamic.symbolPacks.2.adjective>
+	<Structure_OriginIslamic.symbolPacks.2.ideoName>Shia</Structure_OriginIslamic.symbolPacks.2.ideoName>
+	<Structure_OriginIslamic.symbolPacks.2.member>Người Shia</Structure_OriginIslamic.symbolPacks.2.member>
+	<Structure_OriginIslamic.symbolPacks.3.adjective>Sunni</Structure_OriginIslamic.symbolPacks.3.adjective>
+	<Structure_OriginIslamic.symbolPacks.3.ideoName>Sunni</Structure_OriginIslamic.symbolPacks.3.ideoName>
+	<Structure_OriginIslamic.symbolPacks.3.member>Người Sunni</Structure_OriginIslamic.symbolPacks.3.member>
+	<Structure_OriginIslamic.symbolPacks.4.adjective>Ibadah</Structure_OriginIslamic.symbolPacks.4.adjective>
+	<Structure_OriginIslamic.symbolPacks.4.ideoName>Ibadah</Structure_OriginIslamic.symbolPacks.4.ideoName>
+	<Structure_OriginIslamic.symbolPacks.4.member>Người Ibadah</Structure_OriginIslamic.symbolPacks.4.member>
+	<Structure_OriginIslamic.symbolPacks.5.adjective>Ismaili</Structure_OriginIslamic.symbolPacks.5.adjective>
+	<Structure_OriginIslamic.symbolPacks.5.ideoName>Ismaili</Structure_OriginIslamic.symbolPacks.5.ideoName>
+	<Structure_OriginIslamic.symbolPacks.5.member>Người Ismaili</Structure_OriginIslamic.symbolPacks.5.member>
+	<Structure_OriginIslamic.symbolPacks.6.adjective>Musta'li</Structure_OriginIslamic.symbolPacks.6.adjective>
+	<Structure_OriginIslamic.symbolPacks.6.ideoName>Musta'li</Structure_OriginIslamic.symbolPacks.6.ideoName>
+	<Structure_OriginIslamic.symbolPacks.6.member>Người Musta'li</Structure_OriginIslamic.symbolPacks.6.member>
+	<Structure_OriginIslamic.symbolPacks.7.adjective>Tayyibi</Structure_OriginIslamic.symbolPacks.7.adjective>
+	<Structure_OriginIslamic.symbolPacks.7.ideoName>Tayyibi</Structure_OriginIslamic.symbolPacks.7.ideoName>
+	<Structure_OriginIslamic.symbolPacks.7.member>Người Tayyibi</Structure_OriginIslamic.symbolPacks.7.member>
+	<Structure_OriginIslamic.symbolPacks.8.adjective>Nizari</Structure_OriginIslamic.symbolPacks.8.adjective>
+	<Structure_OriginIslamic.symbolPacks.8.ideoName>Nizari</Structure_OriginIslamic.symbolPacks.8.ideoName>
+	<Structure_OriginIslamic.symbolPacks.8.member>Người Nizari</Structure_OriginIslamic.symbolPacks.8.member>
+	<Structure_OriginIslamic.symbolPacks.9.adjective>Sufi</Structure_OriginIslamic.symbolPacks.9.adjective>
+	<Structure_OriginIslamic.symbolPacks.9.ideoName>Sufi</Structure_OriginIslamic.symbolPacks.9.ideoName>
+	<Structure_OriginIslamic.symbolPacks.9.member>Người Sufi</Structure_OriginIslamic.symbolPacks.9.member>
+	<Structure_OriginIslamic.symbolPacks.10.adjective>Qadir</Structure_OriginIslamic.symbolPacks.10.adjective>
+	<Structure_OriginIslamic.symbolPacks.10.ideoName>Qadir</Structure_OriginIslamic.symbolPacks.10.ideoName>
+	<Structure_OriginIslamic.symbolPacks.10.member>Người Qadir</Structure_OriginIslamic.symbolPacks.10.member>
+	<Structure_OriginIslamic.symbolPacks.11.adjective>Dzogchen</Structure_OriginIslamic.symbolPacks.11.adjective>
+	<Structure_OriginIslamic.symbolPacks.11.ideoName>Dzogchen</Structure_OriginIslamic.symbolPacks.11.ideoName>
+	<Structure_OriginIslamic.symbolPacks.11.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.11.member>
+	<Structure_OriginIslamic.symbolPacks.12.adjective>Ahmadi</Structure_OriginIslamic.symbolPacks.12.adjective>
+	<Structure_OriginIslamic.symbolPacks.12.ideoName>Ahmadi</Structure_OriginIslamic.symbolPacks.12.ideoName>
+	<Structure_OriginIslamic.symbolPacks.12.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.12.member>
+	<Structure_OriginIslamic.symbolPacks.13.adjective>Wahhabi</Structure_OriginIslamic.symbolPacks.13.adjective>
+	<Structure_OriginIslamic.symbolPacks.13.ideoName>Wahhabi</Structure_OriginIslamic.symbolPacks.13.ideoName>
+	<Structure_OriginIslamic.symbolPacks.13.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.13.member>
+	<Structure_OriginIslamic.symbolPacks.14.adjective>Khalifa</Structure_OriginIslamic.symbolPacks.14.adjective>
+	<Structure_OriginIslamic.symbolPacks.14.ideoName>Khalifa</Structure_OriginIslamic.symbolPacks.14.ideoName>
+	<Structure_OriginIslamic.symbolPacks.14.member>Người Hồi giáo</Structure_OriginIslamic.symbolPacks.14.member>
+	<Structure_OriginIslamic.worshipRoomLabel>Nhà thờ Hồi giáo</Structure_OriginIslamic.worshipRoomLabel>
+</LanguageData>

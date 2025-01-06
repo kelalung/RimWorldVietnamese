@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bloodfeeders_Revered.label>Được tôn kính</Bloodfeeders_Revered.label>
+<Bloodfeeders_Revered.description>Các người hút máu là những người sở hữu gen "hút máu".\n\nNgười hút máu đáng được tôn kính. Nếu cộng đồng có người hút máu, các tín đồ sẽ rất vui và không ngại bị hút máu.</Bloodfeeders_Revered.description>
+<Bloodfeeders_Revered.comps.0.description>Người hút máu</Bloodfeeders_Revered.comps.0.description>
+<Bloodfeeders_Revered.comps.2.description>Người hút máu được tôn kính</Bloodfeeders_Revered.comps.2.description>
+<Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>Không có người hút máu</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>
+<Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>Chúa tể không phải người hút máu</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>
+<Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>Chúa tể hút máu</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>
+<Bloodfeeders_Reviled.label>Bị thù ghét</Bloodfeeders_Reviled.label>
+<Bloodfeeders_Reviled.description>Các người hút máu là những người sở hữu gen "hút máu".\n\nNgười hút máu đều là những quái vật đáng sợ.</Bloodfeeders_Reviled.description>
+<Bloodfeeders_Reviled.comps.0.description>Gây lây lan gen hút máu</Bloodfeeders_Reviled.comps.0.description>
+<Bloodfeeders_Reviled.comps.1.description>Người hút máu</Bloodfeeders_Reviled.comps.1.description>
+<Bloodfeeders_Reviled.comps.3.description>Người hút máu tự ghét bản thân</Bloodfeeders_Reviled.comps.3.description>
+<Bloodfeeders_Reviled.comps.4.description>Có người hút máu trong chúng ta</Bloodfeeders_Reviled.comps.4.description>
+</LanguageData>

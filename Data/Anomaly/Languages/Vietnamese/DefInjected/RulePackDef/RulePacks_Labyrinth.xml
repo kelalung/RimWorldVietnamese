@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LabyrinthRamblings.rulePack.rulesStrings>
+		<li>r_root-&gt;[textDescSentence][horrorDescSentence][maybeSignature]</li>
+		<li>maybeSignature(p=3)-&gt;</li>
+		<li>maybeSignature-&gt;Tác giả đã ký tên [PAWN_possessive]: [PAWN_nameDef].</li>
+		<li>maybeSignature-&gt;Cuối cùng là một cái tên: [PAWN_nameDef].</li>
+		<li>maybeSignature-&gt;Dưới đáy có ghi vội tên [PAWN_nameDef].</li>
+		<li>textDescSentence-&gt;Nền đất vẽ ra vô hạn, ngôn từ lộn xộn.</li>
+		<li>textDescSentence-&gt;Những chữ này khó hiểu.</li>
+		<li>textDescSentence-&gt;Những hình vẽ kỳ quái được viết ngược.</li>
+		<li>textDescSentence-&gt;Chữ viết lắc lư, yếu ớt.</li>
+		<li>textDescSentence-&gt;Càng về sau, chữ viết càng trở nên kỳ lạ.</li>
+		<li>textDescSentence-&gt;Chữ viết bằng [writingMaterial], một phần đã bị xóa.</li>
+		<li>textDescSentence-&gt;Những ký hiệu bí ẩn hòa lẫn với chữ viết không đều.</li>
+		<li>textDescSentence-&gt;Chữ viết đứt quãng, như bị ngắt quãng nhiều lần.</li>
+		<li>textDescSentence-&gt;Khi chữ viết kéo dài, hình vẽ dần biến mất rồi lại xuất hiện.</li>
+		<li>textDescSentence-&gt;Những chữ này được viết bằng [writingMaterial], tạo thành những hình dạng điên cuồng.</li>
+		<li>horrorDescSentence-&gt;Chỉ có thể phân biệt rõ một câu: [rambling].</li>
+		<li>horrorDescSentence-&gt;Câu này lặp đi lặp lại nhiều lần: [rambling].</li>
+		<li>horrorDescSentence-&gt;Cuối mỗi câu đều là câu này: [rambling].</li>
+		<li>horrorDescSentence-&gt;Từ ngữ lặp đi lặp lại, không ngừng nhắc lại câu này: [rambling].</li>
+		<li>horrorDescSentence-&gt;Tác giả dường như tin rằng [PAWN_possessive] là nơi trú ngụ của một quái vật kim loại. [PAWN_pronoun] mô tả cơn đau dữ dội khi quái vật kim loại di chuyển.</li>
+		<li>horrorDescSentence-&gt;Tác giả khẳng định bạn bè đã tiêm cho cô ấy một ký sinh trùng kim loại. [PAWN_pronoun] mô tả cảm giác kinh hoàng khi quái vật kim loại phát triển trong [PAWN_objective].</li>
+		<li>horrorDescSentence-&gt;Tác giả hy vọng có thể được tự do, cầu xin người đang hành hạ [PAWN_pronoun]: [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Câu giống nhau lặp đi lặp lại, mô tả [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Một bài thơ kỳ lạ mô tả [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Những chữ này khó khăn miêu tả [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Chữ viết run rẩy mô tả phản ứng của tác giả với ảo giác [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Văn bản còn kèm theo hình vẽ, mô tả [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Những phác thảo điên cuồng giải thích [horrorDesc] và chú thích các đặc điểm của nó.</li>
+		<li>horrorDescSentence-&gt;Những âm điệu rùng rợn mô tả [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Những hình minh họa phong phú xen lẫn trong văn bản, đều ám chỉ đến [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Những lời thì thầm trong chỗ trống kể về câu chuyện [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Giọng điệu điên cuồng của tác giả đưa mô tả về [horrorDesc] lên cao trào.</li>
+		<li>horrorDescSentence-&gt;Hình ảnh được tạo ra trong mô tả, mỗi bức đều là một bức chân dung về [horrorDesc].</li>
+		<li>horrorDescSentence-&gt;Trong từng chữ, hình ảnh sống động về [horrorDesc] được xen lẫn.</li>
+		<li>horrorDescSentence-&gt;Trong khi mô tả [horrorDesc], còn viết một bài hát ru đáng sợ.</li>
+		<li>horrorDescSentence-&gt;Câu chuyện về [horrorDesc] hòa lẫn với những lời cầu xin tuyệt vọng.</li>
+		<li>horrorDesc-&gt;Một sinh vật vô hình nuốt chửng suy nghĩ của những kẻ vô tín</li>
+		<li>horrorDesc-&gt;Một quả cầu đen tối tỏa ra nỗi đau thuần khiết</li>
+		<li>horrorDesc-&gt;Một sinh vật được tạo thành từ thịt và xương biến dạng</li>
+		<li>horrorDesc-&gt;Một thực thể bóng tối với đôi mắt lấp lánh</li>
+		<li>horrorDesc-&gt;Một người đầy máu với những lưỡi dao sắc bén</li>
+		<li>horrorDesc-&gt;Một đống lưỡi cưa xoay tròn từ vực thẳm</li>
+		<li>horrorDesc-&gt;Một đứa trẻ im lặng với miệng nứt rộng như cả mặt</li>
+		<li>horrorDesc-&gt;Một tòa tháp vĩ đại xoắn ốc được tạo thành từ những chiếc gai và lưỡi dao</li>
+		<li>horrorDesc-&gt;Một sinh vật kỳ lạ mang đặc điểm của nhiều loài khác nhau</li>
+		<li>horrorDesc-&gt;Một người dị dạng với cơ thể biến dạng</li>
+		<li>horrorDesc-&gt;Một đám đông người chết thối rữa</li>
+		<li>horrorDesc-&gt;Một bức tượng hình người với mặt nạ gai đáng sợ</li>
+		<li>rambling-&gt;Thả tôi ra</li>
+		<li>rambling-&gt;Giúp tôi với</li>
+		<li>rambling-&gt;Cứu tôi</li>
+		<li>rambling-&gt;Nó đang nhìn chằm chằm</li>
+		<li>rambling-&gt;Nó không buông tay</li>
+		<li>rambling-&gt;Thả tôi ra</li>
+		<li>rambling-&gt;Tôi nghe thấy âm thanh đó</li>
+		<li>rambling-&gt;Thời gian là một lời nói dối</li>
+		<li>rambling-&gt;Đưa tôi ra khỏi địa ngục</li>
+		<li>rambling-&gt;Biển đen</li>
+		<li>rambling-&gt;Cắt, cắt</li>
+		<li>rambling-&gt;Lời thì thầm trong hư vô</li>
+		<li>rambling-&gt;Nó đang ở sau lưng tôi</li>
+		<li>rambling-&gt;Quá nhiều ánh mắt</li>
+		<li>rambling-&gt;Ngay trong đầu tôi</li>
+		<li>rambling-&gt;Đắm chìm trong sự im lặng</li>
+		<li>rambling-&gt;Nó biết tên tôi</li>
+		<li>rambling-&gt;Bóng tối đang di chuyển</li>
+		<li>rambling-&gt;Không có lối thoát</li>
+		<li>rambling-&gt;Bóng tối đang mở miệng</li>
+		<li>rambling-&gt;Chúng đang nhìn chằm chằm</li>
+		<li>writingMaterial-&gt;Phấn</li>
+		<li>writingMaterial-&gt;Tro than</li>
+		<li>writingMaterial-&gt;Nước thải</li>
+		<li>writingMaterial-&gt;Tro thuốc lá</li>
+		<li>writingMaterial-&gt;Mực đen đậm</li>
+	</LabyrinthRamblings.rulePack.rulesStrings>
+</LanguageData>

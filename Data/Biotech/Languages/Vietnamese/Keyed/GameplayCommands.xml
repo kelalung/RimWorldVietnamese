@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <CommandAutoRepair>Sửa chữa tự động</CommandAutoRepair>
+<CommandAutoRepairDesc>Khi kích hoạt, kỹ sư sẽ tự động sửa chữa máy móc này. Công việc sửa chữa sẽ tiêu tốn năng lượng của nó.</CommandAutoRepairDesc>
+<CommandDisabledDeathresting>{0_labelShort} đang trong trạng thái ngủ chết.</CommandDisabledDeathresting>
+<CommandCancelGrowth>Hủy bỏ phát triển trong buồng</CommandCancelGrowth>
+<CommandCancelGrowthDesc>Hủy bỏ việc phát triển hiện tại của người sử dụng trong buồng, người sử dụng hiện tại sẽ bị đẩy ra.</CommandCancelGrowthDesc>
+<CommandSelectOverseer>Chọn người giám sát</CommandSelectOverseer>
+<CommandSelectOverseerDesc>Chọn một kỹ sư máy móc làm người giám sát cho máy móc này.</CommandSelectOverseerDesc>
+<CommandSelectOverseerDisabledDesc>Không có người giám sát.</CommandSelectOverseerDisabledDesc>
+<CommandCancelExtraction>Hủy bỏ việc chiết xuất</CommandCancelExtraction>
+<CommandCancelExtractionDesc>Hủy bỏ quá trình chiết xuất, những người trong buồng sẽ bị đẩy ra.</CommandCancelExtractionDesc>
+<CommandCallBossgroup>Gọi cuộc tấn công máy móc</CommandCallBossgroup>
+<CommandCallBossgroupDesc>Gọi một máy móc chỉ huy và đội bảo vệ của nó.\n\nNếu tiêu diệt thành công máy móc chỉ huy, bạn sẽ nhận được chip đặc biệt để thúc đẩy công nghệ máy móc.\n\nMáy móc chỉ huy có ba loại khác nhau, sử dụng các cách gọi khác nhau và rơi ra các loại chip khác nhau.</CommandCallBossgroupDesc>
+<CommandAutoLoad>Bật/tắt tự động tải {0}</CommandAutoLoad>
+<CommandAutoLoadDesc>Khi kích hoạt, thuộc địa sẽ tự động tải {0}.</CommandAutoLoadDesc>
+<CommandEjectContents>Đẩy ra các nội dung</CommandEjectContents>
+<CommandEjectContentsDesc>Đẩy tất cả {0} ra ngoài.</CommandEjectContentsDesc>
+<CommandSelectAllMechs>Chọn tất cả máy móc</CommandSelectAllMechs>
+<CommandSelectAllMechsDesc>Chọn tất cả máy móc mà kỹ sư này điều khiển.</CommandSelectAllMechsDesc>
+<CommandToggleTurret>Bật/tắt tháp pháo</CommandToggleTurret>
+<CommandToggleTurretDesc>Bật/tắt chế độ tự động bắn của tháp pháo.\n\nKhi tắt, tháp pháo sẽ không tự động bắn. Điều này rất hữu ích khi cần hành động bí mật.</CommandToggleTurretDesc>
+<CommandCancelSubcoreScan>Hủy bỏ quét</CommandCancelSubcoreScan>
+<CommandCancelSubcoreScanDesc>Hủy bỏ quá trình quét, người trong buồng sẽ bị đẩy ra.</CommandCancelSubcoreScanDesc>
+<ForceXenogermImplantation>Cưỡng chế cấy ghép gen</ForceXenogermImplantation>
+<ForceXenogermImplantationDesc>Cưỡng chế người này sử dụng ống tiêm đặc biệt để cấy ghép phôi chứa bản sao gen ngoại lai của chính mình vào cơ thể khác. Nếu gen ngoại lai của người cấy ghép vẫn đang trong trạng thái tái cấu trúc, điều này sẽ dẫn đến cái chết của họ.\n\nSau khi cấy ghép, gen của phôi ngoại lai sẽ che phủ gen ngoại lai của người được cấy ghép, trong khi gen nội sinh không bị ảnh hưởng.</ForceXenogermImplantationDesc>
+</LanguageData>

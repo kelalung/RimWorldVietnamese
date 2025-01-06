@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DirtInEyes.label>Bụi</DirtInEyes.label>
+	<DirtInEyes.description>Bụi đã vào mắt. Nó sẽ ảnh hưởng đến thị lực, nhưng sẽ được làm sạch trong vài phút.</DirtInEyes.description>
+	<DirtInEyes.battleStateLabel>Đột ngột mù</DirtInEyes.battleStateLabel>
+	<DirtInEyes.labelNoun>Bụi</DirtInEyes.labelNoun>
+	<GravelInEyes.label>Sỏi</GravelInEyes.label>
+	<GravelInEyes.description>Sỏi đã vào mắt. Nó sẽ ảnh hưởng đến thị lực, nhưng sẽ được làm sạch trong vài phút.</GravelInEyes.description>
+	<GravelInEyes.battleStateLabel>Đột ngột mù</GravelInEyes.battleStateLabel>
+	<GravelInEyes.labelNoun>Sỏi</GravelInEyes.labelNoun>
+	<MudInEyes.label>Bùn</MudInEyes.label>
+	<MudInEyes.description>Bùn đã vào mắt. Nó sẽ ảnh hưởng đến thị lực, nhưng sẽ được làm sạch trong vài phút.</MudInEyes.description>
+	<MudInEyes.battleStateLabel>Đột ngột mù</MudInEyes.battleStateLabel>
+	<MudInEyes.labelNoun>Bùn</MudInEyes.labelNoun>
+	<SandInEyes.label>Cát</SandInEyes.label>
+	<SandInEyes.description>Cát đã vào mắt. Nó sẽ ảnh hưởng đến thị lực, nhưng sẽ được làm sạch trong vài phút.</SandInEyes.description>
+	<SandInEyes.battleStateLabel>Đột ngột mù</SandInEyes.battleStateLabel>
+	<SandInEyes.labelNoun>Cát</SandInEyes.labelNoun>
+	<WaterInEyes.label>Nước</WaterInEyes.label>
+	<WaterInEyes.description>Nước còn lại trong mắt sẽ ảnh hưởng đến thị lực, nhưng sẽ được làm sạch trong vài phút.</WaterInEyes.description>
+	<WaterInEyes.battleStateLabel>Đột ngột mù</WaterInEyes.battleStateLabel>
+	<WaterInEyes.labelNoun>Nước</WaterInEyes.labelNoun>
+</LanguageData>

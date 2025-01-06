@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PsychicRitualSpot.label>Nơi tổ chức nghi lễ tâm linh</PsychicRitualSpot.label>
+<PsychicRitualSpot.description>Nơi dùng để tổ chức nghi lễ tâm linh. Khu vực xung quanh nghi lễ phải không bị che chắn để có thể tiến hành.</PsychicRitualSpot.description>
+<ShardBeacon.label>Đèn hiệu mảnh vụn</ShardBeacon.label>
+<ShardBeacon.description>Được lắp đặt trên nền tảng bioferrite, mảnh vụn siêu phàm tối tăm. Nó sử dụng bioferrite để tập trung năng lượng, có thể điều khiển dòng chảy siêu phàm tối tăm gần đó. Đặt nó gần nơi tổ chức nghi lễ tâm linh có thể nâng cao chất lượng của nghi lễ.\n\nMỗi nghi lễ có thể sử dụng tối đa bốn đèn hiệu mảnh vụn.</ShardBeacon.description>
+<VoidSculpture.label>Tượng điêu khắc hư vô</VoidSculpture.label>
+<VoidSculpture.description>Tượng điêu khắc được làm từ bioferrite, phát ra khí chất không tốt. Tính năng tâm linh của bioferrite có thể nâng cao hiệu quả của các nghi lễ tâm linh diễn ra gần đó.\n\nMột nơi tổ chức nghi lễ tâm linh có thể kết nối với tối đa sáu tượng điêu khắc hư vô.</VoidSculpture.description>
+</LanguageData>

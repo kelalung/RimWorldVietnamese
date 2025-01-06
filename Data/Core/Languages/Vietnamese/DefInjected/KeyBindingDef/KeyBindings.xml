@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Accept.label>Chấp nhận</Accept.label>
+	<Cancel.label>Hủy bỏ</Cancel.label>
+	<Command_ColonistDraft.label>Chiêu mộ</Command_ColonistDraft.label>
+	<Command_ItemForbid.label>Cấm/Cho phép</Command_ItemForbid.label>
+	<Command_TogglePower.label>Bật/tắt điện</Command_TogglePower.label>
+	<Designator_Cancel.label>Hủy bỏ</Designator_Cancel.label>
+	<Designator_Deconstruct.label>Tháo dỡ</Designator_Deconstruct.label>
+	<Designator_RotateLeft.label>Quay trái</Designator_RotateLeft.label>
+	<Designator_RotateRight.label>Quay phải</Designator_RotateRight.label>
+	<Dev_ChangeSelectedDebugAction.label>Thay đổi hành động gỡ lỗi đã chọn</Dev_ChangeSelectedDebugAction.label>
+	<Dev_TickOnce.label>Tick một lần (gỡ lỗi)</Dev_TickOnce.label>
+	<Dev_ToggleDebugActionsMenu.label>Bật/tắt menu gỡ lỗi</Dev_ToggleDebugActionsMenu.label>
+	<Dev_ToggleDebugInspector.label>Bật/tắt trình xem gỡ lỗi</Dev_ToggleDebugInspector.label>
+	<Dev_ToggleDebugLog.label>Bật/tắt nhật ký gỡ lỗi</Dev_ToggleDebugLog.label>
+	<Dev_ToggleDebugLogMenu.label>Bật/tắt menu nhật ký gỡ lỗi</Dev_ToggleDebugLogMenu.label>
+	<Dev_ToggleDebugSettingsMenu.label>Bật/tắt menu cài đặt gỡ lỗi</Dev_ToggleDebugSettingsMenu.label>
+	<Dev_ToggleDevPalette.label>Bật/tắt bảng màu nhà phát triển</Dev_ToggleDevPalette.label>
+	<Dev_ToggleGodMode.label>Bật/tắt chế độ thần thánh</Dev_ToggleGodMode.label>
+	<MapDolly_Down.label>Đi xuống</MapDolly_Down.label>
+	<MapDolly_Left.label>Đi trái</MapDolly_Left.label>
+	<MapDolly_Right.label>Đi phải</MapDolly_Right.label>
+	<MapDolly_Up.label>Đi lên</MapDolly_Up.label>
+	<MapZoom_In.label>Phóng to</MapZoom_In.label>
+	<MapZoom_Out.label>Thu nhỏ</MapZoom_Out.label>
+	<Misc1.label>Các thao tác khác 1</Misc1.label>
+	<Misc10.label>Các thao tác khác 10</Misc10.label>
+	<Misc11.label>Các thao tác khác 11</Misc11.label>
+	<Misc12.label>Các thao tác khác 12</Misc12.label>
+	<Misc2.label>Các thao tác khác 2</Misc2.label>
+	<Misc3.label>Các thao tác khác 3</Misc3.label>
+	<Misc4.label>Các thao tác khác 4</Misc4.label>
+	<Misc5.label>Các thao tác khác 5</Misc5.label>
+	<Misc6.label>Các thao tác khác 6</Misc6.label>
+	<Misc7.label>Các thao tác khác 7</Misc7.label>
+	<Misc8.label>Các thao tác khác 8</Misc8.label>
+	<Misc9.label>Các thao tác khác 9</Misc9.label>
+	<ModifierIncrement_100x.label>Tăng 100x</ModifierIncrement_100x.label>
+	<ModifierIncrement_10x.label>Tăng 10x</ModifierIncrement_10x.label>
+	<NextColonist.label>Người định cư tiếp theo</NextColonist.label>
+	<OpenMapSearch.label>Mở cửa sổ tìm kiếm</OpenMapSearch.label>
+	<PreviousColonist.label>Người định cư trước đó</PreviousColonist.label>
+	<QueueOrder.label>Sắp xếp hàng đợi</QueueOrder.label>
+	<SelectNextInCell.label>Chọn vật thể tiếp theo trong ô</SelectNextInCell.label>
+	<ShowCellInspector.label>Hiển thị trình xem ô</ShowCellInspector.label>
+	<ShowEyedropper.label>Hiển thị công cụ chọn màu</ShowEyedropper.label>
+	<TakeScreenshot.label>Chụp màn hình</TakeScreenshot.label>
+	<TimeSpeed_Fast.label>Tốc độ trò chơi: Nhanh</TimeSpeed_Fast.label>
+	<TimeSpeed_Faster.label>Tốc độ trò chơi: Nhanh hơn</TimeSpeed_Faster.label>
+	<TimeSpeed_Normal.label>Tốc độ trò chơi: Bình thường</TimeSpeed_Normal.label>
+	<TimeSpeed_Slower.label>Tốc độ trò chơi: Chậm hơn</TimeSpeed_Slower.label>
+	<TimeSpeed_Superfast.label>Tốc độ trò chơi: Rất nhanh</TimeSpeed_Superfast.label>
+	<TimeSpeed_Ultrafast.label>Tốc độ trò chơi: Cực nhanh (Gỡ lỗi)</TimeSpeed_Ultrafast.label>
+	<ToggleBeautyDisplay.label>Bật/tắt hiển thị tính thẩm mỹ</ToggleBeautyDisplay.label>
+	<TogglePause.label>Tạm dừng/tiếp tục trò chơi</TogglePause.label>
+	<ToggleRoomStatsDisplay.label>Bật/tắt hiển thị thống kê phòng</ToggleRoomStatsDisplay.label>
+	<ToggleScreenshotMode.label>Chuyển đổi chế độ chụp màn hình (ẩn/hiện giao diện)</ToggleScreenshotMode.label>
+</LanguageData>

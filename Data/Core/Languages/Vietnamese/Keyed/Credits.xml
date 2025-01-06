@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MainPageCredit>Câu chuyện tạo ra của Taina Sylvester trong thế giới biên giới</MainPageCredit>
+	<Credits_Design>Thiết kế</Credits_Design>
+	<Credits_Developers>Kỹ sư</Credits_Developers>
+	<Credit_MusicAndSound>Âm thanh</Credit_MusicAndSound>
+	<Credit_GameArt>Mỹ thuật</Credit_GameArt>
+	<Credit_Testers>Người kiểm tra</Credit_Testers>
+	<Credits_AdditionalDevelopment>Phát triển bổ sung</Credits_AdditionalDevelopment>
+	<Credits_TitleTester>Người thử nghiệm cộng đồng</Credits_TitleTester>
+	<Credits_TitleMods>Mods</Credits_TitleMods>
+	<Credits_TitleLanguage>Ngôn ngữ: {0}</Credits_TitleLanguage>
+	<Credits_Localization_Anomaly>Địa phương hóa DLC Anomaly</Credits_Localization_Anomaly>
+	<Credits_LeadLocalizationProjectManager>Quản lý dự án địa phương hóa chính</Credits_LeadLocalizationProjectManager>
+	<Credits_LocalizationProjectManager>Quản lý dự án địa phương hóa</Credits_LocalizationProjectManager>
+	<Credits_ProjectManager>Quản lý dự án</Credits_ProjectManager>
+	<Credits_Translator>Người dịch</Credits_Translator>
+	<Credits_Editor>Biên tập viên</Credits_Editor>
+	<Credits_French>Tiếng Pháp</Credits_French>
+	<Credits_Japanese>Tiếng Nhật</Credits_Japanese>
+	<Credits_Korean>Tiếng Hàn</Credits_Korean>
+	<Credits_Polish>Tiếng Ba Lan</Credits_Polish>
+	<Credits_Russian>Tiếng Nga</Credits_Russian>
+	<Credits_ChineseSimplified>Tiếng Trung giản thể</Credits_ChineseSimplified>
+	<Credits_ChineseTraditional>Tiếng Trung phồn thể</Credits_ChineseTraditional>
+	<Credit_SpecialThanks>Cảm ơn đặc biệt</Credit_SpecialThanks>
+	<Credit_TestLead>Kiểm tra</Credit_TestLead>
+	<Credits_TitleCommunity>Tình nguyện viên cộng đồng</Credits_TitleCommunity>
+	<Credit_ModDonation>Người đóng góp Mod</Credit_ModDonation>
+	<Credit_WritingDonation>Người đóng góp nội dung</Credit_WritingDonation>
+	<ThanksForPlaying>Cảm ơn bạn đã chơi!</ThanksForPlaying>
+	<SkipCredits>Bỏ qua</SkipCredits>
+	<!--<Credit_MenuArt>Mỹ thuật menu</Credit_MenuArt>-->
+	<!--<Credit_Moderator>Quản trị viên diễn đàn</Credit_Moderator>-->
+	<!--<Credit_WikiMaster>Quản trị viên Wiki</Credit_WikiMaster>-->
+</LanguageData>

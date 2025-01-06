@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+		<li>questDescription->Một tù nhân bị giam giữ bởi [siteFaction_name] đã đánh cắp được thiết bị vô tuyến và gửi cho chúng ta một thông điệp cầu cứu!\n\n[prisoner_nameDef] đang bị giam giữ tại một trại gần [map_definite] dưới sự giám sát của [underArmedGuard]. Nếu chúng ta có thể cứu được [prisoner_objective], [prisoner_pronoun] hứa sẽ gia nhập thuộc địa của chúng ta. [prisoner_nameDef] là một [prisoner_age] tuổi [prisoner_title].\n\n[prisoner_nameDef] cũng nhắc nhở chúng ta rằng:\n\nCó [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nNếu bỏ lỡ cơ hội này, có thể chúng ta sẽ không bao giờ gặp lại [prisoner_nameDef].</li>
+		<li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+		<li>formerColonistInfo-></li>
+		<li>underArmedGuard(allowViolentQuests==true,priority=1)->Vệ sĩ có vũ trang</li>
+		<li>underArmedGuard-></li>
+	</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+	<OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+		<li>questName->Kế hoạch đào tẩu của [prisoner_nameDef]</li>
+		<li>questName->Hành động cứu hộ [prisoner_nameDef]</li>
+		<li>questName->Kế hoạch vượt ngục của [prisoner_nameDef]</li>
+		<li>questName->Giải cứu [prisoner_nameDef]</li>
+		<li>questName->Cứu vãn [prisoner_nameDef]</li>
+		<li>questName->Cứu vớt [prisoner_nameDef]</li>
+	</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NeedLearning.stages.learningstarved.label>Thiếu học hỏi</NeedLearning.stages.learningstarved.label>
+	<NeedLearning.stages.learningstarved.description>Tôi đã lâu không học được điều gì mới. Những ngày đơn điệu thật chán!</NeedLearning.stages.learningstarved.description>
+	<NeedLearning.stages.learningdeprived.label>Khao khát học hỏi</NeedLearning.stages.learningdeprived.label>
+	<NeedLearning.stages.learningdeprived.description>Tôi còn nhiều điều muốn học. Nơi này thật chán!</NeedLearning.stages.learningdeprived.description>
+	<NeedLearning.stages.learning_unfulfilled.label>Học hỏi chưa thỏa mãn</NeedLearning.stages.learning_unfulfilled.label>
+	<NeedLearning.stages.learning_unfulfilled.description>Tôi cần nhiều cơ hội hơn và nhiều thời gian để học hỏi!</NeedLearning.stages.learning_unfulfilled.description>
+	<NeedLearning.stages.learning_satisfied.label>Học hỏi hài lòng</NeedLearning.stages.learning_satisfied.label>
+	<NeedLearning.stages.learning_satisfied.description>Tôi đã học được nhiều kiến thức gần đây! Thật mong chờ ngày mai.</NeedLearning.stages.learning_satisfied.description>
+	<NeedLearning.stages.learning_fully_satisfied.label>Học hỏi thỏa mãn hoàn toàn</NeedLearning.stages.learning_fully_satisfied.label>
+	<NeedLearning.stages.learning_fully_satisfied.description>Tôi đã học được rất nhiều kiến thức! Tôi thích tất cả những trải nghiệm mới này.</NeedLearning.stages.learning_fully_satisfied.description>
+	<NeedPlay.stages.desperately_wants_to_play.label>Rất muốn chơi</NeedPlay.stages.desperately_wants_to_play.label>
+	<NeedPlay.stages.desperately_wants_to_play.description>Hãy chơi với tôi ngay!</NeedPlay.stages.desperately_wants_to_play.description>
+	<NeedPlay.stages.really_wants_to_play.label>Rất muốn chơi</NeedPlay.stages.really_wants_to_play.label>
+	<NeedPlay.stages.really_wants_to_play.description>Tại sao không ai chơi với tôi?</NeedPlay.stages.really_wants_to_play.description>
+	<NeedPlay.stages.wants_to_play.label>Muốn chơi</NeedPlay.stages.wants_to_play.label>
+	<NeedPlay.stages.wants_to_play.description>Nơi này thật chán.</NeedPlay.stages.wants_to_play.description>
+	<NeedPlay.stages.entertained.label>Vui vẻ</NeedPlay.stages.entertained.label>
+	<NeedPlay.stages.entertained.description>Tôi đang chơi rất vui.</NeedPlay.stages.entertained.description>
+	<NeedPlay.stages.very_entertained.label>Rất vui vẻ</NeedPlay.stages.very_entertained.label>
+	<NeedPlay.stages.very_entertained.description>Tôi đang chơi cực kỳ vui!</NeedPlay.stages.very_entertained.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<TreeCutting_Disapproved.label>Phản cảm</TreeCutting_Disapproved.label>
+<TreeCutting_Disapproved.description>Chặt cây là một việc đáng ghê tởm.</TreeCutting_Disapproved.description>
+<TreeCutting_Disapproved.comps.2.description>Có người chặt cây</TreeCutting_Disapproved.comps.2.description>
+<TreeCutting_Horrible.label>Kinh khủng</TreeCutting_Horrible.label>
+<TreeCutting_Horrible.description>Chặt cây là một hành động đáng sợ.</TreeCutting_Horrible.description>
+<TreeCutting_Horrible.comps.2.description>Có người chặt cây</TreeCutting_Horrible.comps.2.description>
+<TreeCutting_Prohibited.label>Cấm kỵ</TreeCutting_Prohibited.label>
+<TreeCutting_Prohibited.description>Xâm phạm rừng bằng cách chặt cây là hành vi nghiêm trọng, không bao giờ được làm như vậy.</TreeCutting_Prohibited.description>
+<TreeCutting_Prohibited.comps.2.description>Có người chặt cây</TreeCutting_Prohibited.comps.2.description>
+</LanguageData>

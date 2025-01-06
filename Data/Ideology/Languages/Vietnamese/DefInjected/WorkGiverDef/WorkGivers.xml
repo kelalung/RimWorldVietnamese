@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChangeTreeMode.label>Thay đổi loại cây tinh linh</ChangeTreeMode.label>
+<ChangeTreeMode.gerund>Thay đổi loại cây tinh linh tại</ChangeTreeMode.gerund>
+<ChangeTreeMode.verb>Thay đổi loại cây tinh linh tại</ChangeTreeMode.verb>
+<ConvertPrisoner.label>Giáo hóa tù nhân</ConvertPrisoner.label>
+<ConvertPrisoner.gerund>Giáo hóa</ConvertPrisoner.gerund>
+<ConvertPrisoner.verb>Giáo hóa</ConvertPrisoner.verb>
+<EmancipateSlave.label>Giải phóng nô lệ</EmancipateSlave.label>
+<EmancipateSlave.gerund>Giải phóng</EmancipateSlave.gerund>
+<EmancipateSlave.verb>Giải phóng</EmancipateSlave.verb>
+<EnslavePrisoner.label>Biến tù nhân thành nô lệ</EnslavePrisoner.label>
+<EnslavePrisoner.gerund>Biến thành nô lệ</EnslavePrisoner.gerund>
+<EnslavePrisoner.verb>Biến thành nô lệ</EnslavePrisoner.verb>
+<ExecuteSlave.label>Xử án nô lệ</ExecuteSlave.label>
+<ExecuteSlave.gerund>Xử án</ExecuteSlave.gerund>
+<ExecuteSlave.verb>Xử án</ExecuteSlave.verb>
+<HaulToBiosculpterPod.label>Chuyển đến buồng tạo hình</HaulToBiosculpterPod.label>
+<HaulToBiosculpterPod.gerund>Chuyển hàng</HaulToBiosculpterPod.gerund>
+<HaulToBiosculpterPod.verb>Chuyển hàng</HaulToBiosculpterPod.verb>
+<ImprisonSlave.label>Tống giam nô lệ</ImprisonSlave.label>
+<ImprisonSlave.gerund>Tống giam</ImprisonSlave.gerund>
+<ImprisonSlave.verb>Tống giam</ImprisonSlave.verb>
+<PruneGauranlenTree.label>Cắt tỉa cây mẹ</PruneGauranlenTree.label>
+<PruneGauranlenTree.gerund>Cắt tỉa</PruneGauranlenTree.gerund>
+<PruneGauranlenTree.verb>Cắt tỉa</PruneGauranlenTree.verb>
+<SuppressSlave.label>Đàn áp nô lệ</SuppressSlave.label>
+<SuppressSlave.gerund>Đàn áp</SuppressSlave.gerund>
+<SuppressSlave.verb>Đàn áp</SuppressSlave.verb>
+</LanguageData>

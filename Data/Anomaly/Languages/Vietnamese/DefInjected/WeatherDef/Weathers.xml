@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BloodRain.label>Mưa giận dữ</BloodRain.label>
+<BloodRain.description>Bất kỳ ai tiếp xúc lâu dài với mưa giận dữ sẽ rơi vào cơn cuồng nộ. Một số đặc điểm và độ nhạy tâm linh sẽ ảnh hưởng đến hiệu ứng cuồng nộ.</BloodRain.description>
+<GrayPall.label>Sương mù xám</GrayPall.label>
+<GrayPall.description>Sương mù thô như bụi cát lan tỏa trên bầu trời, phát ra mùi thối rữa và chua chát khó chịu. Thời tiết bất thường này sẽ gợi lên nỗi sợ hãi trong lòng mọi người.</GrayPall.description>
+<MetalHell.label>Địa ngục kim loại</MetalHell.label>
+<MetalHell.description>Dưới lòng đất không bị ảnh hưởng bởi thời tiết.</MetalHell.description>
+<Undercave.label>Hang động dưới lòng đất</Undercave.label>
+<Undercave.description>Dưới lòng đất không bị ảnh hưởng bởi thời tiết.</Undercave.description>
+<Underground.label>Dưới lòng đất</Underground.label>
+<Underground.description>Dưới lòng đất không bị ảnh hưởng bởi thời tiết.</Underground.description>
+<UnnaturalDarkness_Stage1.label>Bóng tối bất thường</UnnaturalDarkness_Stage1.label>
+<UnnaturalDarkness_Stage1.description>Một hiện tượng tâm linh kỳ quái đang ảnh hưởng đến những người định cư của bạn. Bầu trời đang vỡ vụn, hòa tan, cả thế giới chìm trong bóng tối bất thường. Theo thời gian, bóng tối này sẽ dần sâu hơn và trở nên nguy hiểm.</UnnaturalDarkness_Stage1.description>
+<UnnaturalDarkness_Stage2.label>Bóng tối bất thường</UnnaturalDarkness_Stage2.label>
+<UnnaturalDarkness_Stage2.description>Một hiện tượng tâm linh kỳ quái đang ảnh hưởng đến những người định cư của bạn. Bầu trời dường như đang sụp đổ, cả thế giới chìm trong bóng tối bất thường. Hãy ở lại những nơi có ánh sáng đầy đủ.</UnnaturalDarkness_Stage2.description>
+<UnnaturalFog.label>Sương mù chết chóc</UnnaturalFog.label>
+<UnnaturalFog.description>Sương mù màu xám đen đang lan tỏa trên bầu trời, phát ra mùi cổ xưa và thối rữa.\n\nSương mù này được tạo ra từ các vi sinh vật siêu nhiên đang phân hủy, chúng sẽ chui vào xác chết của sinh vật, "hồi sinh" chúng thành những quái vật điên cuồng.\n\nCẩn thận! Dù là đốt, chôn, hủy hay chuyển vào trong nhà... bạn phải ngăn chặn chúng tái hoạt động càng nhiều càng tốt!</UnnaturalFog.description>
+</LanguageData>

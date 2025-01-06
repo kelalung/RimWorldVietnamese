@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ability.label>Khả năng</Ability.label>
+	<AnimalProductivity.label>Năng suất động vật</AnimalProductivity.label>
+	<Apparel.label>Trang phục</Apparel.label>
+	<Basics.label>Cơ bản</Basics.label>
+	<BasicsImportant.label>Cơ bản</BasicsImportant.label>
+	<BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
+	<BasicsNonPawnImportant.label>Cơ bản</BasicsNonPawnImportant.label>
+	<BasicsPawn.label>Cơ bản</BasicsPawn.label>
+	<BasicsPawnImportant.label>Cơ bản</BasicsPawnImportant.label>
+	<Building.label>Xây dựng</Building.label>
+	<CapacityEffects.label>Ảnh hưởng năng lực</CapacityEffects.label>
+	<Drug.label>Chất gây nghiện</Drug.label>
+	<DrugAddiction.label>Nghiện chất gây nghiện</DrugAddiction.label>
+	<EquippedStatOffsets.label>Chỉ số thay đổi khi trang bị</EquippedStatOffsets.label>
+	<Genetics.label>Di truyền</Genetics.label>
+	<Implant.label>Cấy ghép</Implant.label>
+	<Mechanoid.label>Cơ giới</Mechanoid.label>
+	<Meditation.label>Thiền</Meditation.label>
+	<PawnCombat.label>Chiến đấu</PawnCombat.label>
+	<PawnMisc.label>Khác</PawnMisc.label>
+	<PawnSocial.label>Xã hội</PawnSocial.label>
+	<PawnWork.label>Công việc</PawnWork.label>
+	<Source.label>Nguồn gốc</Source.label>
+	<StuffOfEquipmentStatFactors.label>Hệ số thuộc tính của trang bị làm từ vật liệu này</StuffOfEquipmentStatFactors.label>
+	<StuffStatFactors.label>Hệ số thuộc tính khi làm từ vật liệu này</StuffStatFactors.label>
+	<StuffStatOffsets.label>Chỉ số thay đổi khi làm từ vật liệu này</StuffStatOffsets.label>
+	<Surgery.label>Phẫu thuật</Surgery.label>
+	<Terrain.label>Địa hình</Terrain.label>
+	<Weapon.label>Vũ khí</Weapon.label>
+	<Weapon_Melee.label>Vũ khí (cận chiến)</Weapon_Melee.label>
+	<Weapon_Ranged.label>Vũ khí (tầm xa)</Weapon_Ranged.label>
+</LanguageData>

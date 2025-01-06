@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HoldingPlatformEscapeMTBDays>Khoảng thời gian trốn thoát</HoldingPlatformEscapeMTBDays>
+	<HoldingPlatformEscapeMTBDaysDesc>Khoảng thời gian trung bình giữa các lần thử trốn thoát. Giá trị này bị ảnh hưởng bởi các yếu tố sau: khả năng giam giữ, loại thực thể, khả năng di chuyển của thực thể, và thời gian bị giam giữ. Một số thực thể có thể bị kiềm chế bởi nhiệt độ thấp.</HoldingPlatformEscapeMTBDaysDesc>
+	<TabEntity>Thực thể</TabEntity>
+	<StudyInterval>Khoảng thời gian điều tra</StudyInterval>
+	<StudyIntervalDesc>Bao lâu có thể điều tra thực thể này một lần.</StudyIntervalDesc>
+	<EntityStudyMode_MaintainOnly>Giữ sinh mạng</EntityStudyMode_MaintainOnly>
+	<EntityStudyMode_MaintainOnlyDesc>Lính gác sẽ không thực hiện hành động đặc biệt nào đối với thực thể này, nhưng vẫn có thể tương tác khác.</EntityStudyMode_MaintainOnlyDesc>
+	<EntityStudyMode_Study>Điều tra</EntityStudyMode_Study>
+	<EntityStudyMode_StudyDesc>Người điều tra sẽ điều tra thực thể này.</EntityStudyMode_StudyDesc>
+	<EntityStudyMode_Release>Thả tự do</EntityStudyMode_Release>
+	<EntityStudyMode_ReleaseDesc>Một lính gác sẽ thả thực thể này khỏi nền tảng giam giữ. Sau khi được thả, thực thể có thể trở nên thù địch.</EntityStudyMode_ReleaseDesc>
+	<EntityStudyMode_Execute>Thi hành án</EntityStudyMode_Execute>
+	<EntityStudyMode_ExecuteDesc>Lính gác sẽ thi hành án đối với thực thể này ngay tại chỗ.</EntityStudyMode_ExecuteDesc>
+	<EntityStudyMode_Extract>Chiết xuất sắt sống</EntityStudyMode_Extract>
+	<EntityStudyMode_ExtractDesc>Các người định cư được phân công công việc “bác sĩ” sẽ cố gắng chiết xuất sắt sống từ thực thể bị bắt. Phương pháp này tuy đơn giản nhưng hiệu quả rất thấp và có thể lãng phí sản phẩm. Nếu nền tảng giam giữ của thực thể đã kết nối với máy thu thập sắt sống, thì không thể thực hiện chiết xuất.</EntityStudyMode_ExtractDesc>
+	<RequiresBioferriteExtraction>Cần hoàn thành dự án nghiên cứu “Chiết xuất sắt sống”.</RequiresBioferriteExtraction>
+	<BioferriteHarvesterAttached>Bị chặn bởi máy thu thập sắt sống.</BioferriteHarvesterAttached>
+	<CantBeExecuted>Không thể bị thi hành án.</CantBeExecuted>
+	<StudyKnowledgeGain>Có được kiến thức</StudyKnowledgeGain>
+	<StudyKnowledgeGainDesc>Mỗi vòng điều tra có thể thu được bao nhiêu kiến thức dị thường. Tình trạng giam giữ càng tốt, người điều tra càng có thể tập trung vào việc điều tra và đạt được nhiều kết quả hơn, thay vì luôn lo lắng về sự an toàn của bản thân.</StudyKnowledgeGainDesc>
+	<MedicineQualityDescriptionEntity>Có thể sử dụng loại thuốc gì cho thực thể này.</MedicineQualityDescriptionEntity>
+	<FactorForElectroharvester>Máy thu điện</FactorForElectroharvester>
+	<FactorForDaysInCaptivity>Giam giữ lâu dài</FactorForDaysInCaptivity>
+	<FactorForColdCaptivity>Tăng cường giam giữ lạnh</FactorForColdCaptivity>
+	<IncapableOfEscaping>Không thể trốn thoát</IncapableOfEscaping>
+	<EntityDowned>Thực thể bị đánh ngã</EntityDowned>
+	<FactorContainmentStrength>Khả năng giam giữ</FactorContainmentStrength>
+	<FactorElectroharvester>Máy thu điện</FactorElectroharvester>
+	<FactorActivity>Hoạt động</FactorActivity>
+</LanguageData>

@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Namer_Novel.rulePack.rulesStrings>
+		<li>title(p=3)->[titleNaked]</li>
+		<li>title->[ANYPAWN_nameIndef] [titleNaked]</li>
+		<li>title->[Character] [story]</li>
+		<li>title->[Character] [objectAny]</li>
+		<li>title->[place][linkagePlace][Character]</li>
+		<li>title->[adjective][Character]</li>
+		<li>title->[adjective][objectAny]</li>
+		<li>titleNaked->[ConceptAny]</li>
+		<li>titleNaked->[adjective][ConceptAny]</li>
+		<li>titleNaked->[ConceptAny][linkage][ConceptAny]</li>
+		<li>titleNaked->[place][linkagePlace][ConceptAny]</li>
+		<li>titleNaked->[objectAny][linkage][ConceptAny]</li>
+		<li>objectAny->[Game]</li>
+		<li>objectAny->[Weapon]</li>
+		<li>linkage->Về</li>
+		<li>linkage->Bởi</li>
+		<li>linkage->Cho</li>
+		<li>linkage->Không liên quan</li>
+		<li>linkage->Về</li>
+		<li>linkagePlace->Trong</li>
+		<li>linkagePlace->Liên quan</li>
+		<li>linkagePlace->Ở trên</li>
+		<li>linkagePlace->Gần</li>
+		<li>adjective->[Tính từ bất kỳ]</li>
+		<li>place(p=25)->[Đặc điểm địa hình]</li>
+		<li>place->Vực sâu</li>
+		<li>place->Nhà hát ngoài trời</li>
+		<li>place->Thủy cung</li>
+		<li>place->Kênh nước</li>
+		<li>place->Đấu trường</li>
+		<li>place->Bệnh viện tâm thần</li>
+		<li>place->Doanh trại</li>
+		<li>place->Căn cứ</li>
+		<li>place->Bunker</li>
+		<li>place->Nhà nhỏ</li>
+		<li>place->Trại</li>
+		<li>place->Lâu đài</li>
+		<li>place->Nhà thờ lớn</li>
+		<li>place->Hang động</li>
+		<li>place->Căn cứ địa</li>
+		<li>place->Thành phố</li>
+		<li>place->Đấu trường</li>
+		<li>place->Thuộc địa</li>
+		<li>place->Biển sâu</li>
+		<li>place->Sa mạc</li>
+		<li>place->Thang máy</li>
+		<li>place->Nhà máy</li>
+		<li>place->Lễ hội</li>
+		<li>place->Pháo đài</li>
+		<li>place->Khoảng trống trong rừng</li>
+		<li>place->Nghĩa trang</li>
+		<li>place->Nhà kính</li>
+		<li>place->Rừng nhỏ</li>
+		<li>place->Cảng</li>
+		<li>place->Vùng nội địa</li>
+		<li>place->Tổ ong</li>
+		<li>place->Bệnh viện</li>
+		<li>place->Đảo</li>
+		<li>place->Rừng rậm</li>
+		<li>place->Trại lao động</li>
+		<li>place->Phòng thí nghiệm</li>
+		<li>place->Labyrinth</li>
+		<li>place->Bệ phóng</li>
+		<li>place->Thư viện</li>
+		<li>place->Ngọn hải đăng</li>
+		<li>place->Điền trang</li>
+		<li>place->Tòa nhà lớn</li>
+		<li>place->Chợ</li>
+		<li>place->Mỏ</li>
+		<li>place->Tu viện</li>
+		<li>place->Núi cao</li>
+		<li>place->Trung tâm</li>
+		<li>place->Oasis</li>
+		<li>place->Đài thiên văn</li>
+		<li>place->Vườn cây ăn trái</li>
+		<li>place->Trạm canh</li>
+		<li>place->Cung điện</li>
+		<li>place->Cao nguyên</li>
+		<li>place->Nhà tù</li>
+		<li>place->Nhà máy tinh chế</li>
+		<li>place->Điểm tham quan</li>
+		<li>place->Khe nứt</li>
+		<li>place->Di tích</li>
+		<li>place->Nơi trú ẩn</li>
+		<li>place->Trường học</li>
+		<li>place->Khu định cư</li>
+		<li>place->Tàu chiến</li>
+		<li>place->Linh hồn</li>
+		<li>place->Trạm không gian</li>
+		<li>place->Cảng không gian</li>
+		<li>place->Tháp cao</li>
+		<li>place->Đầm lầy</li>
+		<li>place->Khách sạn</li>
+		<li>place->Đền thờ</li>
+		<li>place->Thị trấn</li>
+		<li>place->Đồng băng</li>
+		<li>place->Đại học</li>
+		<li>place->Làng</li>
+		<li>place->Núi lửa</li>
+		<li>place->Kho</li>
+		<li>place->Vùng đất hoang</li>
+		<li>place->Đồng cỏ</li>
+		<li>place->Sở thú</li>
+		<li>story->Cuộc phiêu lưu</li>
+		<li>story->Chuyện phiêu lưu</li>
+		<li>story->Huyền thoại</li>
+		<li>story->Truyện thú vị</li>
+		<li>story->Biên niên sử</li>
+		<li>story->Dân ca</li>
+		<li>story->Tiểu sử</li>
+		<li>story->Chương</li>
+		<li>story->Ghi chép</li>
+		<li>story->Biên niên sử</li>
+		<li>story->Niên biểu</li>
+		<li>story->Truyện cười</li>
+		<li>story->Tóm tắt</li>
+		<li>story->Tập hợp</li>
+		<li>story->Đối thoại</li>
+		<li>story->Nhật ký</li>
+		<li>story->Bài luận</li>
+		<li>story->Kịch bản</li>
+		<li>story->Giấc mơ</li>
+		<li>story->Câu đố</li>
+		<li>story->Sử thi</li>
+		<li>story->Khám phá</li>
+		<li>story->Tập thư</li>
+		<li>story->Bài thơ trẻ em</li>
+		<li>story->Truyền thuyết</li>
+		<li>story->Cổ tích</li>
+		<li>story->Sáng tạo</li>
+		<li>story->Tưởng tượng</li>
+		<li>story->Hư cấu</li>
+		<li>story->Phong tục</li>
+		<li>story->Lịch sử</li>
+		<li>story->Tưởng tượng</li>
+		<li>story->Tưởng tượng</li>
+		<li>story->Nhận thức</li>
+		<li>story->Tiểu luận</li>
+		<li>story->Hành trình</li>
+		<li>story->Lịch trình</li>
+		<li>story->Di sản</li>
+		<li>story->Truyền thuyết</li>
+		<li>story->Truyền thuyết</li>
+		<li>story->Tác phẩm văn học</li>
+		<li>story->Nhật ký</li>
+		<li>story->Tự truyện</li>
+		<li>story->Hồi ký</li>
+		<li>story->Ghi nhớ</li>
+		<li>story->Tinh thần</li>
+		<li>story->Bản nhạc</li>
+		<li>story->Thiền</li>
+		<li>story->Huyền thoại</li>
+		<li>story->Huyền thoại học</li>
+		<li>story->Huyền thoại</li>
+		<li>story->Kể chuyện</li>
+		<li>story->Kể lại</li>
+		<li>story->Tiểu thuyết</li>
+		<li>story->Báo cáo quan sát</li>
+		<li>story->Bài hát</li>
+		<li>story->Trang đơn</li>
+		<li>story->Đề thi</li>
+		<li>story->Châm ngôn</li>
+		<li>story->Tập tản văn</li>
+		<li>story->Hồi tưởng</li>
+		<li>story->Kể lại</li>
+		<li>story->Ký ức</li>
+		<li>story->Hình ảnh</li>
+		<li>story->Hồi ký</li>
+		<li>story->Khải huyền</li>
+		<li>story->Rhapsody</li>
+		<li>story->Truyền thuyết phương Bắc</li>
+		<li>story->Lời nói bừa bãi</li>
+		<li>story->Kịch bản</li>
+		<li>story->Bản thảo</li>
+		<li>story->Sổ tay</li>
+		<li>story->Câu chuyện</li>
+		<li>story->Cuộc phiêu lưu</li>
+		<li>story->Tập truyện</li>
+		<li>story->Lời chứng</li>
+		<li>story->Lời khai</li>
+		<li>story->Bi kịch</li>
+		<li>story->Lời ca ngợi</li>
+		<li>story->Tập thơ</li>
+		<li>story->Tác phẩm lớn</li>
+		<li>story->Sáng tạo kỳ diệu</li>
+	</Namer_Novel.rulePack.rulesStrings>
+	<Namer_Schematic.rulePack.rulesStrings>
+		<li>title->[subject_primary] thiết kế</li>
+		<li>title->Ghi chú về [subject_primary]</li>
+		<li>title->Đột phá trong lĩnh vực [subject_primary]</li>
+		<li>title->Báo cáo nghiên cứu về [subject_primary]</li>
+		<li>title->Ứng dụng mới của [subject_primary]</li>
+		<li>title->Hiểu biết về [subject_primary]</li>
+		<li>title->Nguyên lý của [subject_primary]</li>
+		<li>title->Cơ sở của [subject_primary]</li>
+		<li>title->[subject_primary]: Phần [volNumeral]</li>
+		<li>title->[subject_primary]: Tập [volNumeral]</li>
+		<li>title->[randAdjective] [subject_primary]</li>
+		<li>title->[randAdjective] [subject_primary]: Tập [volNumeral]</li>
+		<li>title->[maybe_authored_title]</li>
+		<li>title(has_subject_secondary==true)->[studiesStart][subject_primary] trong lĩnh vực [subject_secondary] sector</li>
+		<li>title->[studiesStart][subject_primary]: Sau [lifeEvent]</li>
+		<li>title->[studiesStart][subject_primary]: Giai thoại</li>
+		<li>title->[studiesStart][subject_primary]: Một [anomAdj][discussionNoun]</li>
+		<li>title->[anomAdj][subject_primary][referenceType]</li>
+		<li>title->[anomAdj] về [referenceType][subject_primary]: Tập [volNumeral]</li>
+		<li>title->[studiesStart][anomAdj][subject_primary]: Tập [volNumeral]</li>
+		<li>title->[anomAdj] về [referenceType][studiesStart][subject_primary]</li>
+		<li>title->[lifeEvent][discussionNoun] và [subject_primary]</li>
+		<li>title->Một [bookCompound][referenceType]</li>
+		<li>studiesStart->Bắt đầu học</li>
+		<li>studiesStart->Cơ bản</li>
+		<li>studiesStart->Quản lý</li>
+		<li>studiesStart->Lịch sử</li>
+		<li>studiesStart->Tham gia</li>
+		<li>studiesStart->Biểu tượng</li>
+		<li>studiesStart->Sổ tay sinh tồn</li>
+		<li>studiesStart->Đột phá</li>
+		<li>studiesStart->Ứng dụng</li>
+		<li>studiesStart->Định hình tương lai:</li>
+		<li>studiesStart->Tài liệu:</li>
+		<li>referenceType->Bách khoa toàn thư</li>
+		<li>referenceType->Từ điển</li>
+		<li>referenceType->Niên giám</li>
+		<li>referenceType->Ghi chép</li>
+		<li>referenceType->Hướng dẫn</li>
+		<li>referenceType->Biên niên sử</li>
+		<li>referenceType->Hướng dẫn viên</li>
+		<li>referenceType->Sách hướng dẫn</li>
+		<li>anecdotes->Suy nghĩ</li>
+		<li>anecdotes->Giai thoại</li>
+		<li>anecdotes->Từ truyền thuyết dân gian</li>
+		<li>anecdotes->Nghe đồn</li>
+		<li>anecdotes->Tiểu thuyết</li>
+		<li>anecdotes->Kể chuyện</li>
+		<li>discussionNoun->Luận luận</li>
+		<li>discussionNoun->Tranh luận</li>
+		<li>discussionNoun->Giao tiếp</li>
+		<li>discussionNoun->Đối thoại</li>
+		<li>discussionNoun->Biện chứng pháp</li>
+		<li>discussionNoun->Khảo sát</li>
+		<li>discussionNoun->Tư vấn</li>
+		<li>discussionNoun->Tranh cãi</li>
+		<li>lifeEvent->Bị thương</li>
+		<li>lifeEvent->Bị nhân bản</li>
+		<li>lifeEvent->Bị thất bại</li>
+		<li>lifeEvent->Cách ly với gia đình</li>
+		<li>lifeEvent->Sau khi hạ cánh</li>
+		<li>lifeEvent->Cách mạng</li>
+		<li>lifeEvent->Bị gọi bởi công nghệ vượt trội</li>
+		<li>lifeEvent->Horax</li>
+		<li>lifeEvent->Sinh con</li>
+		<li>lifeEvent->Tai nạn</li>
+		<li>lifeEvent->Hợp nhất thể xác</li>
+		<li>lifeEvent->Ngủ chết</li>
+		<li>lifeEvent->Nổi dậy</li>
+		<li>lifeEvent->Trở thành sinh vật lai</li>
+		<li>lifeEvent->Mơ mộng</li>
+		<li>lifeEvent->Ripperfall</li>
+		<li>lifeEvent->Phẫu thuật cắt não</li>
+		<li>lifeEvent->Nhiễm hạt siêu nhiên</li>
+		<li>volNumeral->1</li>
+		<li>volNumeral->2</li>
+		<li>volNumeral->3</li>
+		<li>volNumeral->4</li>
+		<li>volNumeral->5</li>
+		<li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=2)->[titleTwoSubjects]</li>
+		<li>titleTwoSubjects->Giới thiệu [subjectsTuple]</li>
+		<li>titleTwoSubjects->[subjectsTuple] báo cáo phân tích</li>
+		<li>maybe_authored_title->[author_gen]</li>
+		<li>author_gen->[ANYPAWN_nameIndef] nghiên cứu kết quả</li>
+		<li>author_gen->[ANYPAWN_nameIndef] ghi chú</li>
+		<li>author_gen->[ANYPAWN_nameIndef] bài giảng</li>
+		<li>maybe_authored_title(length_subject_primary[less_than]20,p=2)->[authored_title_gen]</li>
+		<li>maybe_authored_title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[authored_title_gen_two]</li>
+		<li>authored_title_gen->[ANYPAWN_nameIndef] hướng dẫn về [subject_primary]</li>
+		<li>authored_title_gen->[ANYPAWN_nameIndef] giới thiệu về [subject_primary]</li>
+		<li>authored_title_gen_two->[ANYPAWN_nameIndef] hướng dẫn về [subjectsTuple]</li>
+		<li>authored_title_gen_two->[ANYPAWN_nameIndef] giới thiệu về [subjectsTuple]</li>
+		<li>subjectsTuple(has_subject_secondary==true,p=2)->[subject_primary] và [subject_secondary]</li>
+		<li>subjectsTuple(has_subject_secondary==true)->[subject_secondary] và [randTheme]</li>
+		<li>subjectsTuple->[subject_primary] và [randTheme]</li>
+		<li>randAdjective->Cơ bản</li>
+		<li>randAdjective->Tốt nhất</li>
+		<li>randAdjective->Sáng chói thế giới</li>
+		<li>randAdjective->Thế kỷ trung cổ</li>
+		<li>randAdjective->Cổ đại</li>
+		<li>randAdjective->Màu đỏ thẫm</li>
+		<li>randAdjective->Cuối đời</li>
+		<li>randAdjective->Thế giới chết chóc</li>
+		<li>randAdjective->Vô lý</li>
+		<li>randAdjective->U ám</li>
+		<li>randAdjective->Thần thánh</li>
+		<li>randAdjective->Tối tăm</li>
+		<li>randAdjective->Subworld</li>
+		<li>randAdjective->Nguyên thủy</li>
+		<li>randAdjective->Hướng dẫn sinh tồn</li>
+		<li>randAdjective->U ám</li>
+		<li>randAdjective->Buồn bã</li>
+		<li>randAdjective->Lưu giữ linh hồn</li>
+		<li>randAdjective->Huyền bí</li>
+		<li>randAdjective->Bị nguyền rủa</li>
+		<li>randTheme->Nghiên cứu kỹ thuật</li>
+		<li>randTheme->Phong tục tập quán</li>
+		<li>randTheme->Khoa học viễn tưởng</li>
+		<li>randTheme->Kỹ năng sinh tồn</li>
+		<li>randTheme->Thế giới biên giới</li>
+		<li>randTheme->Tự tiêu hóa</li>
+		<li>randTheme->Niềm tin</li>
+		<li>randTheme->Quyền lực</li>
+		<li>randTheme->Đạo đức học</li>
+	</Namer_Schematic.rulePack.rulesStrings>
+	<Namer_TextBook.rulePack.rulesStrings>
+		<li>title->[titleBasic]</li>
+		<li>title(p=2)->[titleAuthored]</li>
+		<li>title(p=2)->[titleAuthoredNoSubject]</li>
+		<li>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</li>
+		<li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</li>
+		<li>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</li>
+		<li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+		<li>titleBasic(p=6)->[randNoun] and [subject_primary]</li>
+		<li>titleBasic->[subject_primary] kế hoạch bài học</li>
+		<li>titleBasic->Suy nghĩ về [subject_primary]</li>
+		<li>titleBasic->Hướng dẫn đến [subject_primary]</li>
+		<li>titleBasic->[subject_primary] giới thiệu</li>
+		<li>titleBasic->[subject_primary] sách đọc cơ bản</li>
+		<li>titleBasic->[subject_primary] nội dung cần biết</li>
+		<li>titleBasic->Nắm vững [subject_primary]</li>
+		<li>titleBasic->Cơ bản về [subject_primary]</li>
+		<li>titleBasic->Khám phá lĩnh vực [subject_primary]</li>
+		<li>titleBasic->[subject_primary] ý tưởng chính</li>
+		<li>titleBasic->[subject_primary] nghệ thuật thực hiện</li>
+		<li>titleBasic->[subject_primary]: Khóa học của bậc thầy</li>
+		<li>titleBasic->Giải mã [subject_primary]</li>
+		<li>titleBasic->[subject_primary] kỹ thuật nâng cao</li>
+		<li>titleBasic->Mở khóa [subject_primary]</li>
+		<li>titleBasic->[subject_primary] hướng dẫn thực hành</li>
+		<li>titleBasic->Khám phá [subject_primary]</li>
+		<li>titleBasic->Lời khuyên từ chuyên gia: [subject_primary]</li>
+		<li>titleBasic->Hiểu biết về [subject_primary]</li>
+		<li>titleBasic->Hành trình qua [subject_primary]</li>
+		<li>titleBasic->[subject_primary] con đường</li>
+		<li>titleBasic->Những hiểu biết về [subject_primary]</li>
+		<li>titleBasic->Giải mã bí mật của [subject_primary]</li>
+		<li>titleBasic->[subject_primary] bí mật</li>
+		<li>titleBasic->Nắm vững [subject_primary]</li>
+		<li>titleBasic->Học sâu về [subject_primary]</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] học tập</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] nghiên cứu [randAdjective]</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] nhật ký</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] biên niên sử</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] ghi chú</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] hành trình</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] suy tư</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] cuộc phiêu lưu</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] phản ánh</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] khám phá</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] chứng thực</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] sử thi</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] cuộc hành trình</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] cuộc đời</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] câu chuyện</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] di sản</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] cuộc phiêu lưu</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] nhật ký</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] hành trình</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] suy tư</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] chứng thực</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] biên niên sử</li>
+		<li>titleAuthoredNoSubject->[ANYPAWN_nameIndef] ghi chú</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] hướng dẫn về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] giới thiệu về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->Khám phá [subject_primary] cùng [ANYPAWN_nameIndef]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] hiểu biết về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] sổ tay về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] quan điểm về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] ghi chú về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] phân tích về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] thực hiện [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] khám phá trong lĩnh vực [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] suy tư về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] học về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] báo cáo điều tra về [subject_primary]</li>
+		<li>titleAuthoredOneSubject->[ANYPAWN_nameIndef] báo cáo nghiên cứu về [subject_primary]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] trong [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Guide to Hướng dẫn về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] giới thiệu về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] và [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] hướng dẫn về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] dẫn dắt [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] khám phá [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] cảm hứng về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] sổ tay về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] góc nhìn về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] sổ tay thao tác về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] phân tích về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] thực hiện [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] khám phá [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] suy tư về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] học về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] báo cáo điều tra về [subjectsTuple]</li>
+		<li>titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] báo cáo nghiên cứu về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Giới thiệu về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] thực hành tốt nhất</li>
+		<li>titleBasicTwoSubjects->Kết hợp [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Khóa học về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Suy nghĩ về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Hướng dẫn về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Giới thiệu về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] hướng dẫn cho người mới bắt đầu</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] điểm nổi bật</li>
+		<li>titleBasicTwoSubjects->Nắm vững [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] cơ bản</li>
+		<li>titleBasicTwoSubjects->Khám phá [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] ý tưởng chính</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] nghệ thuật thực hiện</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] khóa học của bậc thầy</li>
+		<li>titleBasicTwoSubjects->Giải mã [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Kỹ năng nâng cao trong [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Giải mã bí ẩn của [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple]: Hướng dẫn thực hành</li>
+		<li>titleBasicTwoSubjects->Khám phá [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple]: Chuyên gia nói gì</li>
+		<li>titleBasicTwoSubjects->Hiểu biết về [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] hành trình</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] con đường</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple] nguồn cảm hứng</li>
+		<li>titleBasicTwoSubjects->Giải mã [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->[subjectsTuple]: Không còn bí ẩn</li>
+		<li>titleBasicTwoSubjects->Thành thạo [subjectsTuple]</li>
+		<li>titleBasicTwoSubjects->Học sâu về [subjectsTuple]</li>
+		<li>subjectsTuple(has_subject_secondary==true,p=6)->[subject_primary] và [subject_secondary]</li>
+		<li>subjectsTuple->[subject_secondary], [subject_primary], và [randTheme]</li>
+		<li>subjectsTuple->[subject_primary] [randTheme]</li>
+		<li>randNoun->Cái chết</li>
+		<li>randNoun->Cuộc sống</li>
+		<li>randNoun->Tình yêu</li>
+		<li>randNoun->Sự trưởng thành</li>
+		<li>randNoun->Courage</li>
+		<li>randNoun->Wisdom</li>
+		<li>randNoun->Sức khỏe</li>
+		<li>randNoun->Cừu nổ</li>
+		<li>randNoun->Cướp biển</li>
+		<li>randAdjective->Cơ bản</li>
+		<li>randAdjective->Hiệu quả</li>
+		<li>randAdjective->Suy tư</li>
+		<li>randAdjective->Kỳ diệu</li>
+		<li>randAdjective->Cẩu thả</li>
+		<li>randAdjective->Xấu</li>
+		<li>randAdjective->Tốt</li>
+		<li>randAdjective->Sáng chói thế giới</li>
+		<li>randAdjective->Nông thôn</li>
+		<li>randAdjective->Thế kỷ trung cổ</li>
+		<li>randAdjective->Truyền cảm hứng</li>
+		<li>randAdjective->Khỏe mạnh</li>
+		<li>randAdjective->Ác độc</li>
+		<li>randAdjective->Hỗn loạn</li>
+		<li>randAdjective->Thú vị</li>
+		<li>randTheme->Kiến thức</li>
+		<li>randTheme->Tự cải thiện</li>
+		<li>randTheme->Hiểu biết</li>
+	</Namer_TextBook.rulePack.rulesStrings>
+</LanguageData>

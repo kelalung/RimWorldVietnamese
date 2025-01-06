@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ActivatorCountdown.label>Thiết bị kích hoạt hẹn giờ</ActivatorCountdown.label>
+<ActivatorCountdown.description>Thiết bị kích hoạt cơ khí hẹn giờ. Sau khi hết thời gian đếm ngược, nó sẽ đánh thức bất kỳ cơ khí hoặc cấu trúc nào đang ngủ gần đó.</ActivatorCountdown.description>
+<ActivatorProximity.label>Thiết bị kích hoạt phát hiện</ActivatorProximity.label>
+<ActivatorProximity.description>Cảm biến báo động phát hiện cơ khí đang ngủ. Nếu nó phát hiện một mối đe dọa giống con người gần đó, nó sẽ đánh thức bất kỳ cơ khí hoặc cấu trúc nào đang ngủ gần đó.</ActivatorProximity.description>
+</LanguageData>

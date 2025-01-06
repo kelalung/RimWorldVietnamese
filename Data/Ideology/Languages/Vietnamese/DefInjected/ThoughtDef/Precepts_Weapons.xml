@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<KillWithNobleWeapon.stages.victory_by_noble_weapon.label>Chiến thắng bằng vũ khí cao quý</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
+<KillWithNobleWeapon.stages.victory_by_noble_weapon.description>Tôi đã sử dụng vũ khí cao quý và giành chiến thắng!</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+<UsedDespisedWeapon.stages.used_despised_weapon.label>Chiến thắng bằng vũ khí đáng khinh</UsedDespisedWeapon.stages.used_despised_weapon.label>
+<UsedDespisedWeapon.stages.used_despised_weapon.description>Tôi đã sử dụng một vũ khí bẩn thỉu mà không nên sử dụng, thật là một sự sỉ nhục.</UsedDespisedWeapon.stages.used_despised_weapon.description>
+<WieldingNobleOrDespisedWeapon.stages.wielding-0.label>Cầm {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+<WieldingNobleOrDespisedWeapon.stages.wielding-0.description>Tôi đang cầm {WEAPON_label}, một vũ khí thật cao quý!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+<WieldingNobleOrDespisedWeapon.stages.wielding-1.label>Cầm {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+<WieldingNobleOrDespisedWeapon.stages.wielding-1.description>Tôi đang cầm {WEAPON_label}, một vũ khí thật đáng ghét!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Adaptation.label>Khôi phục</Adaptation.label>
+	<Adaptation.graphLabelY>Ngày</Adaptation.graphLabelY>
+	<Adaptation.valueFormat>{0} ngày</Adaptation.valueFormat>
+	<ColonistMood.label>Tâm trạng thực dân</ColonistMood.label>
+	<ColonistMood.graphLabelY>Phần trăm</ColonistMood.graphLabelY>
+	<FreeColonists.label>Thực dân tự do</FreeColonists.label>
+	<FreeColonists.graphLabelY>Thực dân</FreeColonists.graphLabelY>
+	<PopAdaptation.label>Khôi phục dân số</PopAdaptation.label>
+	<PopAdaptation.graphLabelY>Ngày</PopAdaptation.graphLabelY>
+	<PopAdaptation.valueFormat>{0} ngày</PopAdaptation.valueFormat>
+	<PopIntent.label>Dân số ý định ×10</PopIntent.label>
+	<PopIntent.graphLabelY>Ngày</PopIntent.graphLabelY>
+	<PopIntent.valueFormat>{0} ngày</PopIntent.valueFormat>
+	<Prisoners.label>Tù nhân</Prisoners.label>
+	<Prisoners.graphLabelY>Tù nhân</Prisoners.graphLabelY>
+	<ThreatPoints.label>Điểm đe dọa/10</ThreatPoints.label>
+	<ThreatPoints.graphLabelY>Điểm</ThreatPoints.graphLabelY>
+	<ThreatPoints.valueFormat>{0} điểm</ThreatPoints.valueFormat>
+	<Wealth_Buildings.label>Giàu có (công trình)</Wealth_Buildings.label>
+	<Wealth_Buildings.graphLabelY>Tổng cộng</Wealth_Buildings.graphLabelY>
+	<Wealth_Items.label>Giàu có (vật phẩm)</Wealth_Items.label>
+	<Wealth_Items.graphLabelY>Tổng cộng</Wealth_Items.graphLabelY>
+	<Wealth_Pawns.label>Giàu có (động vật)</Wealth_Pawns.label>
+	<Wealth_Pawns.graphLabelY>Tổng cộng</Wealth_Pawns.graphLabelY>
+	<Wealth_Total.label>Giàu có (tất cả)</Wealth_Total.label>
+	<Wealth_Total.graphLabelY>Tổng cộng</Wealth_Total.graphLabelY>
+</LanguageData>

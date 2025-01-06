@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BasicMechtech.label>Công nghệ cơ khí cơ bản</BasicMechtech.label>
+<BasicMechtech.description>Mở khóa công nghệ cần thiết cho kỹ sư để chế tạo và điều khiển máy móc cơ bản.</BasicMechtech.description>
+<BasicMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;Máy móc</li>
+    <li>subject_story-&gt;Xuất bản sách trẻ em giới thiệu các loại máy móc cơ bản</li>
+    <li>subject_story-&gt;Cấy ghép trung tâm điều khiển máy móc nguyên mẫu</li>
+    <li>subject_story-&gt;Tự động đảo ngược kỹ thuật máy móc cơ bản</li>
+    <li>subject_story-&gt;Khám phá xác máy bắn pháo cổ đại và tìm thấy trung tâm điều khiển máy móc bên trong</li>
+    <li>subject_gerund-&gt;Chế tạo máy móc cơ bản</li>
+</BasicMechtech.generalRules.rulesStrings>
+<HighMechtech.label>Công nghệ cơ khí nâng cao</HighMechtech.label>
+<HighMechtech.description>Mở khóa công nghệ cần thiết cho kỹ sư để chế tạo và điều khiển máy móc nâng cao.\n\nBạn có thể thu hút một nữ hoàng chiến tranh và đánh bại để nhận chip năng lượng.</HighMechtech.description>
+<HighMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;Máy móc nâng cao</li>
+    <li>subject_story-&gt;Sống sót sau cuộc tấn công của nữ hoàng chiến tranh vào thế giới của đế chế</li>
+    <li>subject_story-&gt;Mua chip năng lượng từ một thương nhân không biết giá trị của nó</li>
+    <li>subject_story-&gt;Bắt và thẩm vấn một kỹ sư trong quá trình tấn công hành tinh</li>
+    <li>subject_story-&gt;Xây dựng nguyên mẫu cơ quan nano máy móc cho phòng khám ở thế giới thấp</li>
+    <li>subject_gerund-&gt;Chế tạo máy móc nâng cao</li>
+</HighMechtech.generalRules.rulesStrings>
+  <StandardMechtech.label>Công nghệ cơ khí tiêu chuẩn</StandardMechtech.label>
+<StandardMechtech.description>Mở khóa công nghệ cần thiết cho kỹ sư để chế tạo và điều khiển máy móc tiêu chuẩn.\n\nBạn có thể thu hút một vua địa ngục và đánh bại để nhận chip tín hiệu đồng bộ.</StandardMechtech.description>
+<StandardMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;Máy móc</li>
+    <li>subject_story-&gt;Nhận chip tín hiệu đồng bộ trong hoàn cảnh không chính đáng</li>
+    <li>subject_story-&gt;Phát hiện chip tín hiệu đồng bộ hoàn chỉnh trong vua địa ngục</li>
+    <li>subject_story-&gt;Sống sót sau cuộc tấn công vào tổ máy móc</li>
+    <li>subject_story-&gt;Thu thập báo cáo tấn công máy móc, tìm kiếm điểm chung</li>
+    <li>subject_gerund-&gt;Chế tạo máy móc tiêu chuẩn</li>
+</StandardMechtech.generalRules.rulesStrings>
+<UltraMechtech.label>Công nghệ cơ khí cực hạn</UltraMechtech.label>
+<UltraMechtech.description>Mở khóa công nghệ cần thiết cho kỹ sư để chế tạo và điều khiển máy móc cực hạn, cũng như chế tạo máy móc lớn và trang bị cho kỹ sư cực hạn.\n\nBạn có thể thu hút một con ong độc ác và đánh bại để nhận chip cấu trúc nano.</UltraMechtech.description>
+<UltraMechtech.generalRules.rulesStrings>
+    <li>subject-&gt;Máy móc cực hạn</li>
+    <li>subject_story-&gt;Phát hiện một con ong độc ác đang ngủ trong đống đổ nát của một thế giới tĩnh lặng</li>
+    <li>subject_story-&gt;Quan sát con ong độc ác hồi sinh máy móc từ khoảng cách an toàn</li>
+    <li>subject_story-&gt;Khám phá sự thù hận sâu sắc của con ong độc ác đối với nhân loại</li>
+    <li>subject_story-&gt;Phát hiện một nhật ký thăng thiên bên cạnh trung tâm siêu nhiên đang ngủ</li>
+    <li>subject_gerund-&gt;Chế tạo máy móc cực hạn</li>
+</UltraMechtech.generalRules.rulesStrings>
+<WastepackAtomizer.label>Máy phân hủy rác thải</WastepackAtomizer.label>
+<WastepackAtomizer.description>Mở khóa xây dựng "Máy phân hủy rác thải", có thể phân hủy an toàn rác thải độc hại ở cấp độ phân tử và thải ra ngoài.</WastepackAtomizer.description>
+<WastepackAtomizer.generalRules.rulesStrings>
+    <li>subject-&gt;Phân hủy rác thải độc hại</li>
+    <li>subject_story-&gt;Nghiên cứu xử lý chất thải hạt nhân an toàn</li>
+    <li>subject_story-&gt;Tuyển dụng một đội ngũ linh hoạt cho nhiệm vụ xử lý chất thải năng lượng mặt trời</li>
+    <li>subject_story-&gt;Thiết kế lý thuyết không ổn định nguyên tử theo nguyên lý đầu tiên</li>
+    <li>subject_story-&gt;Quan sát một thế giới cực độc từ quỹ đạo</li>
+    <li>subject_gerund-&gt;Xây dựng máy phân hủy rác thải</li>
+</WastepackAtomizer.generalRules.rulesStrings>
+</LanguageData>

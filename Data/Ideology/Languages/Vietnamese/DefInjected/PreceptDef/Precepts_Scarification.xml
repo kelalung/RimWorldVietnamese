@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Scarification_Extreme.label>Cực đoan</Scarification_Extreme.label>
+<Scarification_Extreme.description>Mọi người đều nên tham gia vào nghi lễ khắc dấu - toàn thân.</Scarification_Extreme.description>
+<Scarification_Extreme.comps.0.thoughtStageDescriptions.0>Khắc dấu (cần 5 vết sẹo)</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+<Scarification_Extreme.comps.1.thoughtStageDescriptions.0>Khắc dấu (cần 5 vết sẹo)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+<Scarification_Heavy.label>Nghiêm trọng</Scarification_Heavy.label>
+<Scarification_Heavy.description>Mọi người đều nên tham gia vào nghi lễ khắc dấu - nhiều vết sẹo.</Scarification_Heavy.description>
+<Scarification_Heavy.comps.0.thoughtStageDescriptions.0>Khắc dấu (cần 3 vết sẹo)</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+<Scarification_Heavy.comps.1.thoughtStageDescriptions.0>Khắc dấu (cần 3 vết sẹo)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+<Scarification_Horrible.label>Kinh sợ</Scarification_Horrible.label>
+<Scarification_Horrible.description>Do tín ngưỡng văn hóa, để lại sẹo cho người khác là điều đáng sợ.</Scarification_Horrible.description>
+<Scarification_Horrible.comps.0.description>Có người có sẹo</Scarification_Horrible.comps.0.description>
+<Scarification_Minor.label>Ít</Scarification_Minor.label>
+<Scarification_Minor.description>Mọi người đều nên tham gia vào một nghi lễ khắc dấu.</Scarification_Minor.description>
+<Scarification_Minor.comps.0.thoughtStageDescriptions.0>Khắc dấu (cần 1 vết sẹo)</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+<Scarification_Minor.comps.1.thoughtStageDescriptions.0>Khắc dấu (cần 1 vết sẹo)</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
+</LanguageData>

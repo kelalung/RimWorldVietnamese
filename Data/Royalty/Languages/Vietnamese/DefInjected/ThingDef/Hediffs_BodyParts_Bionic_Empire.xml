@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <AestheticNose.label>Mũi Thẩm Mỹ</AestheticNose.label>
+<AestheticNose.description>Mũi này có thể biến thành hình dạng mà người cấy ghép cần, và phù hợp với thẩm mỹ phổ biến hơn, có thể tăng cường ấn tượng của người khác về người cấy ghép.</AestheticNose.description>
+<AestheticShaper.label>Thiết Bị Tạo Hình Thẩm Mỹ</AestheticShaper.label>
+<AestheticShaper.description>Thiết bị cấy ghép này với hormon và cơ khí nano tiên tiến có thể tạo hình cơ bắp và mỡ của cơ thể, thêm mô thẩm mỹ không chức năng ở những nơi cần thiết. Nó cũng có thể điều chỉnh hình dạng cụ thể theo sở thích của người cấy ghép hoặc bạn đời.</AestheticShaper.description>
+<ArmorskinGland.label>Tuyến Da Giáp</ArmorskinGland.label>
+<ArmorskinGland.description>Một tuyến sinh học có thể tiết ra hóa chất và cơ khí nano, có thể tăng cường độ bền của da và tạo ra keratin dưới da ở những vị trí quan trọng, giúp người cấy ghép chống lại tổn thương tốt hơn. Không may, điều này sẽ khiến toàn bộ da trông giống như da thuộc và đầy nếp nhăn, rất xấu xí.</ArmorskinGland.description>
+<CircadianAssistant.label>Trợ Lý Sinh Lý</CircadianAssistant.label>
+<CircadianAssistant.description>Một tuyến nhân tạo, các cơ chế nano tiết ra của nó có thể làm sạch độc tố và hóa chất có hại tích tụ trong não.</CircadianAssistant.description>
+<CircadianHalfCycler.label>Thiết Bị Chu Kỳ Sinh Học</CircadianHalfCycler.label>
+<CircadianHalfCycler.description>Một thiết bị định hướng tín hiệu, có thể tách biệt hai bán cầu não, cho phép một bán cầu nghỉ ngơi khi bán cầu còn lại làm việc. Khi hai bán cầu làm việc luân phiên, người cấy ghép sẽ không cần ngủ. Không may, một bán cầu rõ ràng không hiệu quả bằng hai, chỉ sử dụng một nửa não sẽ dẫn đến giảm ý thức.</CircadianHalfCycler.description>
+<Coagulator.label>Thiết Bị Đông Máu</Coagulator.label>
+<Coagulator.description>Có khả năng giải phóng yếu tố đông máu khi mất máu, có thể giảm đáng kể tỷ lệ chảy máu.</Coagulator.description>
+<DetoxifierStomach.label>Dạ Dày Giải Độc</DetoxifierStomach.label>
+<DetoxifierStomach.description>Một dạ dày nhân tạo có bộ lọc độc tố đa năng và hệ thống khử trùng, người cấy ghép có thể ăn bất cứ thứ gì mà không cần lo lắng về ngộ độc thực phẩm.</DetoxifierStomach.description>
+<GastroAnalyzer.label>Thiết Bị Phân Tích Thực Phẩm</GastroAnalyzer.label>
+<GastroAnalyzer.description>Một chiếc mũi sinh học tăng cường khả năng ngửi thực phẩm. Mạng lưới hấp thụ nhiều lớp có thể phát hiện các hợp chất trong không khí và xử lý dữ liệu thành tín hiệu thần kinh qua giao diện kết nối thần kinh đến não. Do đó, người cấy ghép có thể ngửi thấy những mùi sâu sắc mà người khác không thể, từ đó cải thiện khả năng nấu ăn. Thiết bị cấy ghép này đủ nhỏ để lắp vào mũi mà không ảnh hưởng đến ngoại hình của người cấy ghép.</GastroAnalyzer.description>
+<HealingEnhancer.label>Thiết Bị Tăng Cường Chữa Lành</HealingEnhancer.label>
+<HealingEnhancer.description>Thiết bị cấy ghép này có thể giải phóng máy nano và yếu tố chữa lành, tăng tốc độ chữa lành vết thương. Tuy nhiên, nó chỉ có hiệu quả đối với việc chữa lành vết thương, không thể chống lại bệnh tật hoặc giải quyết các vấn đề sức khỏe khác.</HealingEnhancer.description>
+<Immunoenhancer.label>Thiết Bị Tăng Cường Miễn Dịch</Immunoenhancer.label>
+<Immunoenhancer.description>Máy tính vi mô trong thiết bị cấy ghép này có thể phân tích máu theo thời gian thực, phân loại các tác nhân gây bệnh, và nhanh chóng kích thích hệ thống miễn dịch của cơ thể để ứng phó. Có thể tăng cường đáng kể khả năng miễn dịch.</Immunoenhancer.description>
+<LearningAssistant.label>Trợ Lý Học Tập</LearningAssistant.label>
+<LearningAssistant.description>Một hệ thống ghi lại cảm giác, có thể phát lại những trải nghiệm quan trọng trong khi ngủ để củng cố việc hình thành ký ức mới.</LearningAssistant.description>
+<LoveEnhancer.label>Thiết Bị Tăng Cường Tình Yêu</LoveEnhancer.label>
+<LoveEnhancer.description>Mọi người luôn cố gắng sử dụng các công nghệ mới để tăng cường cảm giác thỏa mãn tình dục, ngay cả sinh học cũng không phải là ngoại lệ. Thiết bị cấy ghép này sẽ thay đổi bản chất vật lý của cơ thể, từ đó tăng cường trải nghiệm tình yêu giữa hai bên - cả về thể xác và tâm lý. Sau khi cấy ghép, nó có thể tự thích ứng để cung cấp tăng cường cho nam hoặc nữ.</LoveEnhancer.description>
+<Neurocalculator.label>Máy Tính Thần Kinh</Neurocalculator.label>
+<Neurocalculator.description>Được điều khiển bởi giao diện thần kinh xúc giác/ thị giác, máy tính vi mô không thông minh. Có thể giúp não thực hiện các phép tính và ghi nhớ, giống như lắp đặt một máy tính và sổ ghi nhớ vào não.</Neurocalculator.description>
+<NuclearStomach.label>Dạ Dày Hạt Nhân</NuclearStomach.label>
+<NuclearStomach.description>Hợp nhất giữa lò phản ứng hạt nhân vi mô và phản ứng hóa học phức tạp cung cấp năng lượng, thay thế nhu cầu năng lượng của cơ thể từ thực phẩm. Người cấy ghép chỉ cần tiêu thụ một phần nhỏ thực phẩm để bù đắp cho các chất bị mất trong cơ thể. Dạ dày nhân tạo này có thể hoàn toàn tránh ngộ độc thực phẩm. Nhưng do không gian dùng để che chắn lò phản ứng rất nhỏ, bức xạ phát sinh sẽ làm tăng nguy cơ mắc bệnh ung thư.</NuclearStomach.description>
+<ReprocessorStomach.label>Dạ Dày Tiền Xử Lý</ReprocessorStomach.label>
+<ReprocessorStomach.description>Hệ thống xử lý hóa học tiên tiến trong dạ dày nhân tạo này có thể phân giải các thành phần dinh dưỡng mà cơ thể thường không thể sử dụng, làm cho chúng có thể sử dụng được, từ đó cải thiện hiệu quả ăn uống.</ReprocessorStomach.description>
+<StoneskinGland.label>Tuyến Da Đá</StoneskinGland.label>
+<StoneskinGland.description>Một tuyến sinh học có thể tiết ra hóa chất và máy nano, có thể chuyển đổi da của người cấy ghép thành áo giáp gần gũi. Toàn bộ bề mặt da trở nên cứng cáp và có thể chống cháy, trong khi bên ngoài da sẽ liên tục tạo ra keratin dạng tấm, bao gồm cả đầu và mặt. Mặc dù việc sử dụng thiết bị cấy ghép này có thể làm cho người cấy ghép khó bị tổn thương, nhưng làn da như thép sẽ làm giảm đáng kể sức hấp dẫn của người cấy ghép.</StoneskinGland.description>
+<ToughskinGland.label>Tuyến Da Bền</ToughskinGland.label>
+<ToughskinGland.description>Một tuyến sinh học có thể tiết ra hóa chất và máy nano, có thể tăng cường độ bền của da, làm cho nó khó bị mài mòn hơn. Mặc dù cung cấp ít bảo vệ hơn so với các tuyến sinh học khác cứng hóa da, nhưng chỉ cần da bền là không làm thay đổi rõ rệt ngoại hình của người cấy ghép.</ToughskinGland.description>
+</LanguageData>

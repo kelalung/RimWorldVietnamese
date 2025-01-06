@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SculptureGrand.label>Tượng điêu khắc hoành tráng</SculptureGrand.label>
+	<SculptureGrand.description>Một bức tượng khổng lồ có thể lấp đầy cả căn phòng.</SculptureGrand.description>
+	<SculptureLarge.label>Tượng điêu khắc lớn</SculptureLarge.label>
+	<SculptureLarge.description>Một tác phẩm nghệ thuật được tạo thành từ một khối vật liệu có kích thước người lớn.</SculptureLarge.description>
+	<SculptureSmall.label>Tượng điêu khắc nhỏ</SculptureSmall.label>
+	<SculptureSmall.description>Một tác phẩm nghệ thuật được tạo thành từ một khối vật liệu có kích thước thân người.</SculptureSmall.description>
+	<Snowman.label>Người tuyết</Snowman.label>
+	<Snowman.description>Một nhóm bóng tuyết lớn xếp chồng lên nhau, tạo thành hình dạng giống con người. Mọi người thường xây dựng một người tuyết khi giải trí.</Snowman.description>
+</LanguageData>

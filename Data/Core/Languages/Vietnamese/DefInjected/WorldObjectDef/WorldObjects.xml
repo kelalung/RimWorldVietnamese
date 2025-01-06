@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AbandonedSettlement.label>Khu định cư (đã bỏ hoang)</AbandonedSettlement.label>
+<AbandonedSettlement.description>Một khu định cư bị bỏ hoang.</AbandonedSettlement.description>
+<AttackedNonPlayerCaravan.label>Đoàn xe (bị tấn công)</AttackedNonPlayerCaravan.label>
+<AttackedNonPlayerCaravan.description>Một đoàn xe đang bị tấn công.</AttackedNonPlayerCaravan.description>
+<Caravan.label>Đoàn xe</Caravan.label>
+<Caravan.description>Một đoàn xe.</Caravan.description>
+<DestroyedSettlement.label>Khu định cư của phe (đã bị phá hủy)</DestroyedSettlement.label>
+<DestroyedSettlement.description>Một khu định cư của phe đã bị phá hủy.</DestroyedSettlement.description>
+<EscapeShip.label>Tàu vũ trụ hạ cánh</EscapeShip.label>
+<EscapeShip.description>Một địa điểm có tàu vũ trụ, có thể giúp bạn trốn thoát khỏi hành tinh này.</EscapeShip.description>
+<PeaceTalks.label>Đàm phán hòa bình</PeaceTalks.label>
+<PeaceTalks.description>Một địa điểm dùng để đàm phán hòa bình.</PeaceTalks.description>
+<PocketMap.label>Bản đồ bỏ túi</PocketMap.label>
+<RoutePlannerWaypoint.label>Điểm dừng đường đi</RoutePlannerWaypoint.label>
+<RoutePlannerWaypoint.description>Một điểm dừng tạm thời.</RoutePlannerWaypoint.description>
+<Settlement.label>Khu định cư của phe</Settlement.label>
+<Settlement.description>Một khu định cư thuộc về một phe nào đó.</Settlement.description>
+<TravelingTransportPods.label>Tàu vận chuyển</TravelingTransportPods.label>
+<TravelingTransportPods.description>Tàu vận chuyển đang bay.</TravelingTransportPods.description>
+</LanguageData>

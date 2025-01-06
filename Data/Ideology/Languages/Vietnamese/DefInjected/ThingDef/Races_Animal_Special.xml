@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Dryad_Barkskin.label>Rễ cây bảo vệ</Dryad_Barkskin.label>
+	<Dryad_Barkskin.description>Một loại cây tinh linh chuyên chịu đựng tổn thương trong chiến đấu. Rễ cây bảo vệ được bao phủ bởi lớp da giống như vỏ cây dày, một phần được hình thành từ chính cây mẹ. Dưới sự kiểm soát của con người, nó có thể đóng vai trò là đơn vị chiến đấu hấp thụ tổn thương.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Barkskin.description>
+	<Dryad_Barkskin.tools.left_claw.label>Chân trái</Dryad_Barkskin.tools.left_claw.label>
+	<Dryad_Barkskin.tools.left_claw.labelNoLocation>Véo</Dryad_Barkskin.tools.left_claw.labelNoLocation>
+	<Dryad_Barkskin.tools.right_claw.label>Chân phải</Dryad_Barkskin.tools.right_claw.label>
+	<Dryad_Barkskin.tools.right_claw.labelNoLocation>Véo</Dryad_Barkskin.tools.right_claw.labelNoLocation>
+	<Dryad_Barkskin.tools.head.label>Đầu</Dryad_Barkskin.tools.head.label>
+	<Dryad_Basic.label>Cây tinh linh non</Dryad_Basic.label>
+	<Dryad_Basic.description>Cây tinh linh là một sinh vật nhỏ giống như động vật có vú có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh chưa trưởng thành này có thể duy trì và bảo vệ cây mẹ của nó, nhưng nhiệm vụ chính của nó là chuyển đổi thành hình thức cây tinh linh chuyên nghiệp và mạnh mẽ hơn.</Dryad_Basic.description>
+	<Dryad_Basic.tools.left_claw.label>Chân trái</Dryad_Basic.tools.left_claw.label>
+	<Dryad_Basic.tools.left_claw.labelNoLocation>claw</Dryad_Basic.tools.left_claw.labelNoLocation>
+	<Dryad_Basic.tools.right_claw.label>Chân phải</Dryad_Basic.tools.right_claw.label>
+	<Dryad_Basic.tools.right_claw.labelNoLocation>claw</Dryad_Basic.tools.right_claw.labelNoLocation>
+	<Dryad_Basic.tools.head.label>Đầu</Dryad_Basic.tools.head.label>
+	<Dryad_Berrymaker.label>Cây tinh linh sản xuất trái cây</Dryad_Berrymaker.label>
+	<Dryad_Berrymaker.description>Một loại cây tinh linh chuyên sản xuất nguyên liệu thực phẩm. Cùng với cây mẹ của nó, cây tinh linh có thể liên tục sản xuất những quả mọng dinh dưỡng. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô ích.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Berrymaker.description>
+	<Dryad_Berrymaker.tools.left_claw.label>Chân trái</Dryad_Berrymaker.tools.left_claw.label>
+	<Dryad_Berrymaker.tools.left_claw.labelNoLocation>claw</Dryad_Berrymaker.tools.left_claw.labelNoLocation>
+	<Dryad_Berrymaker.tools.right_claw.label>Chân phải</Dryad_Berrymaker.tools.right_claw.label>
+	<Dryad_Berrymaker.tools.right_claw.labelNoLocation>claw</Dryad_Berrymaker.tools.right_claw.labelNoLocation>
+	<Dryad_Berrymaker.tools.head.label>Đầu</Dryad_Berrymaker.tools.head.label>
+	<Dryad_Carrier.label>Cây tinh linh vận chuyển</Dryad_Carrier.label>
+	<Dryad_Carrier.description>Một loại cây tinh linh chuyên trách việc vận chuyển đồ vật. Dưới sự kiểm soát của con người, nó có thể giúp kéo đồ đến nơi cần thiết.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Carrier.description>
+	<Dryad_Carrier.tools.left_claw.label>Chân trái</Dryad_Carrier.tools.left_claw.label>
+	<Dryad_Carrier.tools.left_claw.labelNoLocation>claw</Dryad_Carrier.tools.left_claw.labelNoLocation>
+	<Dryad_Carrier.tools.right_claw.label>Chân phải</Dryad_Carrier.tools.right_claw.label>
+	<Dryad_Carrier.tools.right_claw.labelNoLocation>claw</Dryad_Carrier.tools.right_claw.labelNoLocation>
+	<Dryad_Carrier.tools.head.label>Đầu</Dryad_Carrier.tools.head.label>
+	<Dryad_Clawer.label>Cây tinh linh móng vuốt</Dryad_Clawer.label>
+	<Dryad_Clawer.description>Một loại cây tinh linh có móng vuốt lớn, chuyên về khả năng chiến đấu và gây sát thương. Mặc dù nó có thể gây ra tổn thương lớn, nhưng bản thân nó rất dễ bị tấn công.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Clawer.description>
+	<Dryad_Clawer.tools.left_claw.label>Chân trái</Dryad_Clawer.tools.left_claw.label>
+	<Dryad_Clawer.tools.right_claw.label>Chân phải</Dryad_Clawer.tools.right_claw.label>
+	<Dryad_Clawer.tools.head.label>Đầu</Dryad_Clawer.tools.head.label>
+	<Dryad_Gaumaker.label>Cây tinh linh cộng sinh</Dryad_Gaumaker.label>
+	<Dryad_Gaumaker.description>Một loại cây tinh linh có khả năng độc đáo, có thể sản xuất ra quả đậu cây mẹ và sinh sản ra các sinh vật cộng sinh của cây mẹ — nữ hoàng cây tinh linh. Để làm được điều này, cần phải có ba cây tinh linh cộng sinh tiến hành hợp nhất chậm rãi.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Gaumaker.description>
+	<Dryad_Gaumaker.tools.left_claw.label>Chân trái</Dryad_Gaumaker.tools.left_claw.label>
+	<Dryad_Gaumaker.tools.left_claw.labelNoLocation>claw</Dryad_Gaumaker.tools.left_claw.labelNoLocation>
+	<Dryad_Gaumaker.tools.right_claw.label>Chân phải</Dryad_Gaumaker.tools.right_claw.label>
+	<Dryad_Gaumaker.tools.right_claw.labelNoLocation>claw</Dryad_Gaumaker.tools.right_claw.labelNoLocation>
+	<Dryad_Gaumaker.tools.head.label>Đầu</Dryad_Gaumaker.tools.head.label>
+	<Dryad_Medicinemaker.label>Cây tinh linh dược sư</Dryad_Medicinemaker.label>
+	<Dryad_Medicinemaker.description>Một loại cây tinh linh chuyên trách sản xuất thuốc. Cùng với cây mẹ của nó, loại cây tinh linh này có thể liên tục sản xuất thuốc thảo dược. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô ích.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Medicinemaker.description>
+	<Dryad_Medicinemaker.tools.left_claw.label>Chân trái</Dryad_Medicinemaker.tools.left_claw.label>
+	<Dryad_Medicinemaker.tools.left_claw.labelNoLocation>claw</Dryad_Medicinemaker.tools.left_claw.labelNoLocation>
+	<Dryad_Medicinemaker.tools.right_claw.label>Chân phải</Dryad_Medicinemaker.tools.right_claw.label>
+	<Dryad_Medicinemaker.tools.right_claw.labelNoLocation>claw</Dryad_Medicinemaker.tools.right_claw.labelNoLocation>
+	<Dryad_Medicinemaker.tools.head.label>Đầu</Dryad_Medicinemaker.tools.head.label>
+	<Dryad_Woodmaker.label>Cây tinh linh sản xuất gỗ</Dryad_Woodmaker.label>
+	<Dryad_Woodmaker.description>Một loại cây tinh linh chậm chạp, vụng về, chuyên sản xuất gỗ. Cùng với cây mẹ của nó, cây tinh linh này có thể liên tục sản xuất một loại vật liệu giống như gỗ. Tuy nhiên, sự giúp đỡ của nó trong công việc hoặc chiến đấu là chậm chạp và vô ích.\n\nNói chung, cây tinh linh là một sinh vật giống như động vật có vú, có mối quan hệ cộng sinh với cây mẹ. Cây tinh linh sinh sản cùng với cây mẹ, cây mẹ chứa một nữ hoàng cây tinh linh ẩn giấu. Cây tinh linh có thể chuyển đổi thành nhiều loại hình thức khác nhau.</Dryad_Woodmaker.description>
+	<Dryad_Woodmaker.tools.left_claw.label>Chân trái</Dryad_Woodmaker.tools.left_claw.label>
+	<Dryad_Woodmaker.tools.left_claw.labelNoLocation>claw</Dryad_Woodmaker.tools.left_claw.labelNoLocation>
+	<Dryad_Woodmaker.tools.right_claw.label>Chân phải</Dryad_Woodmaker.tools.right_claw.label>
+	<Dryad_Woodmaker.tools.right_claw.labelNoLocation>claw</Dryad_Woodmaker.tools.right_claw.labelNoLocation>
+	<Dryad_Woodmaker.tools.head.label>Đầu</Dryad_Woodmaker.tools.head.label>
+</LanguageData>

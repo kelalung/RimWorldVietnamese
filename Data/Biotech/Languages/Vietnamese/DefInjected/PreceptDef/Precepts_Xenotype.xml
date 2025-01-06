@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PreferredXenotype.label>Khuyến khích</PreferredXenotype.label>
+<PreferredXenotype.description>Các tín đồ tin rằng giống người này có vị trí đạo đức hoặc tinh thần cao hơn so với các giống người khác. Nếu thuộc địa chỉ có giống người được khuyến khích, họ sẽ rất vui. Tuy nhiên, sự hiện diện của giống người được khuyến khích có nghĩa là các giống người khác không được chào đón, và các tín đồ sẽ không vui khi sống cùng họ.</PreferredXenotype.description>
+<PreferredXenotype.comps.0.description>Trở thành giống người không được khuyến khích</PreferredXenotype.comps.0.description>
+<PreferredXenotype.comps.1.thoughtStageDescriptions.0>Giống người được khuyến khích</PreferredXenotype.comps.1.thoughtStageDescriptions.0>
+<PreferredXenotype.comps.1.thoughtStageDescriptions.1>Giống người bị ghét</PreferredXenotype.comps.1.thoughtStageDescriptions.1>
+<PreferredXenotype.comps.2.thoughtStageDescriptions.0>Có giống người được khuyến khích (tất cả)</PreferredXenotype.comps.2.thoughtStageDescriptions.0>
+<PreferredXenotype.comps.2.thoughtStageDescriptions.1>Có giống người được khuyến khích (một ít)</PreferredXenotype.comps.2.thoughtStageDescriptions.1>
+<PreferredXenotype.comps.2.thoughtStageDescriptions.2>Có giống người được khuyến khích (nhiều)</PreferredXenotype.comps.2.thoughtStageDescriptions.2>
+<PreferredXenotype.comps.2.thoughtStageDescriptions.3>Có giống người được khuyến khích (rất nhiều)</PreferredXenotype.comps.2.thoughtStageDescriptions.3>
+</LanguageData>

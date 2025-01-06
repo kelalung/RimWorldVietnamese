@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Difficulty_BabiesAreHealthy_Label>Trẻ sơ sinh luôn khỏe mạnh</Difficulty_BabiesAreHealthy_Label>
+<Difficulty_BabiesAreHealthy_Info>Trẻ sơ sinh của con người luôn khỏe mạnh khi sinh ra. Mẹ sẽ không chết do sinh khó hoặc sảy thai.</Difficulty_BabiesAreHealthy_Info>
+<Difficulty_NoBabiesOrChildren_Label>Không có trẻ em</Difficulty_NoBabiesOrChildren_Label>
+<Difficulty_NoBabiesOrChildren_Info>Con người sẽ không mang thai. Trẻ sơ sinh và trẻ em sẽ không xuất hiện, trừ khi bạn chọn chúng làm thuộc địa ban đầu.</Difficulty_NoBabiesOrChildren_Info>
+<Difficulty_ChildAgingRate_Label>Tốc độ lão hóa của trẻ em</Difficulty_ChildAgingRate_Label>
+<Difficulty_ChildAgingRate_Info>Điều chỉnh tốc độ phát triển của trẻ sơ sinh và trẻ em. Từ 11 đến 20 tuổi, tốc độ phát triển của trẻ em sẽ chuyển dần thành tốc độ lão hóa của người lớn.</Difficulty_ChildAgingRate_Info>
+<Difficulty_AdultAgingRate_Label>Tốc độ lão hóa của người lớn</Difficulty_AdultAgingRate_Label>
+<Difficulty_AdultAgingRate_Info>Điều chỉnh tốc độ lão hóa của người lớn.</Difficulty_AdultAgingRate_Info>
+<Difficulty_WastepackInfestationChanceFactor_Label>Cơ hội nhiễm độc từ rác thải</Difficulty_WastepackInfestationChanceFactor_Label>
+<Difficulty_WastepackInfestationChanceFactor_Info>Điều chỉnh xác suất một gói rác độc hại sẽ gây ra nhiễm độc khi bị phân hủy.</Difficulty_WastepackInfestationChanceFactor_Info>
+<Difficulty_ChildRaidersAllowed_Label>Trẻ em tấn công</Difficulty_ChildRaidersAllowed_Label>
+<Difficulty_ChildRaidersAllowed_Info>Đội quân tấn công đôi khi có thể bao gồm trẻ em.</Difficulty_ChildRaidersAllowed_Info>
+<BabiesAreHealthyDisableReason>Bị vô hiệu hóa do các thiết lập khác ngăn cản sự sinh sản của con người.</BabiesAreHealthyDisableReason>
+<DifficultyChildrenSection>Trẻ em</DifficultyChildrenSection>
+<PlanetPollution>Ô nhiễm</PlanetPollution>
+<!-- <DifficultyBiotechSection>Công nghệ sinh học</DifficultyBiotechSection> -->
+</LanguageData>

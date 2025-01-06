@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NamerBiosignature.rulePack.rulesStrings>
+		<li>r_root->[bioWord]-[id]</li>
+		<li>id->[Digit][Letter]</li>
+		<li>id->[Letter][Digit]</li>
+		<li>bioWord->[halfA][halfB]</li>
+		<li>halfA->Vệ tinh</li>
+		<li>halfA->Ngoại tinh</li>
+		<li>halfA->Cát</li>
+		<li>halfA->Đi lại</li>
+		<li>halfA->Lửa</li>
+		<li>halfA->Plasma</li>
+		<li>halfA->Vết nứt</li>
+		<li>halfA->Liên kết</li>
+		<li>halfA->Sinh vật</li>
+		<li>halfA->Nước linh thiêng</li>
+		<li>halfA->Nhân loại</li>
+		<li>halfA->Màu sắc</li>
+		<li>halfA->Độc tính</li>
+		<li>halfA->U sầu</li>
+		<li>halfA->Ngôi sao</li>
+		<li>halfA->Lumi</li>
+		<li>halfA->Sắt</li>
+		<li>halfA->Gấu trúc</li>
+		<li>halfA->Ether</li>
+		<li>halfA->Nuốt chửng</li>
+		<li>halfA->Đại dương</li>
+		<li>halfA->Thối rữa</li>
+		<li>halfA->Biến hình</li>
+		<li>halfA->Nhiệt phân</li>
+		<li>halfA->Đông lạnh</li>
+		<li>halfA->Cái chết</li>
+		<li>halfA->Ánh sáng</li>
+		<li>halfA->Hư không</li>
+		<li>halfA->Bóng tối</li>
+		<li>halfA->U nang</li>
+		<li>halfA->Nâng lên</li>
+		<li>halfA->Tro tàn</li>
+		<li>halfA->Virus</li>
+		<li>halfA->Gió mạnh</li>
+		<li>halfA->Linh hồn</li>
+		<li>halfA->Ký sinh</li>
+		<li>halfB->Vỏ</li>
+		<li>halfB->Mụn</li>
+		<li>halfB->Nấm</li>
+		<li>halfB->Nấm</li>
+		<li>halfB->Lớp</li>
+		<li>halfB->Ngọc</li>
+		<li>halfB->Dòng chảy</li>
+		<li>halfB->Túi</li>
+		<li>halfB->Bùn</li>
+		<li>halfB->Đá</li>
+		<li>halfB->Alkan</li>
+		<li>halfB->Dẫn</li>
+		<li>halfB->Thối</li>
+		<li>halfB->Giết</li>
+		<li>halfB->Chuỗi</li>
+		<li>halfB->Từ</li>
+		<li>halfB->Độc</li>
+		<li>halfB->Rỉ sét</li>
+		<li>halfB->Dòng chảy</li>
+		<li>halfB->Phân loại</li>
+		<li>halfB->Ánh sáng</li>
+		<li>halfB->Bệnh dịch</li>
+		<li>halfB->Đá</li>
+		<li>halfB->Lửa</li>
+		<li>halfB->Độc nhất</li>
+		<li>halfB->Nắm</li>
+		<li>halfB->Vân</li>
+		<li>halfB->Phát ban</li>
+		<li>halfB->Hỗn hợp</li>
+		<li>halfB->Phân loài</li>
+		<li>halfB->Răng</li>
+		<li>halfB->Nhóm</li>
+		<li>halfB->Cái cái</li>
+		<li>halfB->Ăn thịt</li>
+		<li>halfB->Nấm</li>
+		<li>halfB->Sắc bén</li>
+		<li>halfB->Hoa</li>
+		<li>halfB->Dệt</li>
+		<li>halfB->Độc</li>
+		<li>halfB->Đất</li>
+	</NamerBiosignature.rulePack.rulesStrings>
+</LanguageData>

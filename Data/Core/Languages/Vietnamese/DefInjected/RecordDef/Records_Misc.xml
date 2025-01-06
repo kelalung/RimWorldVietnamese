@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalsSlaughtered.label>Số lượng động vật bị giết</AnimalsSlaughtered.label>
+	<AnimalsSlaughtered.description>Số lượng động vật tôi đã giết.</AnimalsSlaughtered.description>
+	<AnimalsTamed.label>Số lượng động vật được thuần hóa</AnimalsTamed.label>
+	<AnimalsTamed.description>Số lượng động vật tôi đã thuần hóa.</AnimalsTamed.description>
+	<ArtifactsActivated.label>Số lượng đồ tạo tác đã kích hoạt</ArtifactsActivated.label>
+	<ArtifactsActivated.description>Số lượng đồ tạo tác tôi đã kích hoạt.</ArtifactsActivated.description>
+	<BodiesStripped.label>Số lượng xác đã lột</BodiesStripped.label>
+	<BodiesStripped.description>Số lượng xác và thương binh tôi đã lột.</BodiesStripped.description>
+	<CellsMined.label>Số lượng ô đã khai thác</CellsMined.label>
+	<CellsMined.description>Số lượng ô khoáng sản tôi đã khai thác.</CellsMined.description>
+	<ContainersOpened.label>Số lượng container đã mở</ContainersOpened.label>
+	<ContainersOpened.description>Số lượng container tôi đã mở.</ContainersOpened.description>
+	<CorpsesBuried.label>Số lượng xác đã chôn</CorpsesBuried.label>
+	<CorpsesBuried.description>Số lượng xác tôi đã chôn.</CorpsesBuried.description>
+	<DamageDealt.label>Số lượng sát thương gây ra</DamageDealt.label>
+	<DamageDealt.description>Số lượng sát thương tôi đã gây ra.</DamageDealt.description>
+	<DamageTaken.label>Số lượng sát thương nhận phải</DamageTaken.label>
+	<DamageTaken.description>Số lượng sát thương tôi đã nhận.</DamageTaken.description>
+	<FiresExtinguished.label>Số lần dập lửa</FiresExtinguished.label>
+	<FiresExtinguished.description>Số lượng vụ cháy tôi đã dập tắt.</FiresExtinguished.description>
+	<Headshots.label>Số lần bắn trúng đầu</Headshots.label>
+	<Headshots.description>Số lần tôi đã bắn trúng đầu.</Headshots.description>
+	<Kills.label>Số lượng sinh vật bị tiêu diệt</Kills.label>
+	<Kills.description>Số lượng sinh vật tôi đã tiêu diệt.</Kills.description>
+	<KillsAnimals.label>Số lượng động vật bị tiêu diệt</KillsAnimals.label>
+	<KillsAnimals.description>Số lượng động vật tôi đã tiêu diệt.</KillsAnimals.description>
+	<KillsHumanlikes.label>Số lượng sinh vật giống người bị tiêu diệt</KillsHumanlikes.label>
+	<KillsHumanlikes.description>Số lượng sinh vật giống người tôi đã tiêu diệt.</KillsHumanlikes.description>
+	<KillsMechanoids.label>Số lượng máy móc bị tiêu diệt</KillsMechanoids.label>
+	<KillsMechanoids.description>Số lượng máy móc tôi đã tiêu diệt.</KillsMechanoids.description>
+	<MealsCooked.label>Số lượng món ăn đã nấu</MealsCooked.label>
+	<MealsCooked.description>Số lượng món ăn tôi đã nấu.</MealsCooked.description>
+	<MessesCleaned.label>Số lượng rác đã dọn</MessesCleaned.label>
+	<MessesCleaned.description>Số lượng vết bẩn tôi đã dọn dẹp.</MessesCleaned.description>
+	<NutritionEaten.label>Số lượng dinh dưỡng đã hấp thụ</NutritionEaten.label>
+	<NutritionEaten.description>Số lượng dinh dưỡng tôi đã hấp thụ.</NutritionEaten.description>
+	<OperationsPerformed.label>Số lần thực hiện phẫu thuật</OperationsPerformed.label>
+	<OperationsPerformed.description>Số lần tôi đã thực hiện phẫu thuật.</OperationsPerformed.description>
+	<OperationsReceived.label>Số lần nhận phẫu thuật</OperationsReceived.label>
+	<OperationsReceived.description>Số lần tôi đã nhận phẫu thuật.</OperationsReceived.description>
+	<PawnsDowned.label>Số lượng sinh vật bị hạ gục</PawnsDowned.label>
+	<PawnsDowned.description>Số lượng sinh vật tôi đã hạ gục.</PawnsDowned.description>
+	<PawnsDownedAnimals.label>Số lượng động vật bị hạ gục</PawnsDownedAnimals.label>
+	<PawnsDownedAnimals.description>Số lượng động vật tôi đã hạ gục.</PawnsDownedAnimals.description>
+	<PawnsDownedHumanlikes.label>Số lượng sinh vật giống người bị hạ gục</PawnsDownedHumanlikes.label>
+	<PawnsDownedHumanlikes.description>Số lượng sinh vật giống người tôi đã hạ gục.</PawnsDownedHumanlikes.description>
+	<PawnsDownedMechanoids.label>Số lượng máy móc bị hạ gục</PawnsDownedMechanoids.label>
+	<PawnsDownedMechanoids.description>Số lượng máy móc tôi đã hạ gục.</PawnsDownedMechanoids.description>
+	<PeopleCaptured.label>Số lượng người bị bắt</PeopleCaptured.label>
+	<PeopleCaptured.description>Số lượng người tôi đã bắt.</PeopleCaptured.description>
+	<PlantsHarvested.label>Số lượng cây đã thu hoạch</PlantsHarvested.label>
+	<PlantsHarvested.description>Số lượng cây tôi đã thu hoạch.</PlantsHarvested.description>
+	<PlantsSown.label>Số lượng cây đã gieo</PlantsSown.label>
+	<PlantsSown.description>Số lượng cây tôi đã gieo.</PlantsSown.description>
+	<PrisonersChatted.label>Số lần trò chuyện với tù nhân</PrisonersChatted.label>
+	<PrisonersChatted.description>Số lần tôi đã trò chuyện với tù nhân.</PrisonersChatted.description>
+	<PrisonersRecruited.label>Số lượng tù nhân đã tuyển dụng</PrisonersRecruited.label>
+	<PrisonersRecruited.description>Số lượng tù nhân tôi đã tuyển dụng.</PrisonersRecruited.description>
+	<ResearchPointsResearched.label>Số lượng điểm nghiên cứu hoàn thành</ResearchPointsResearched.label>
+	<ResearchPointsResearched.description>Số lượng điểm nghiên cứu tôi đã hoàn thành.</ResearchPointsResearched.description>
+	<ShotsFired.label>Số lần bắn</ShotsFired.label>
+	<ShotsFired.description>Số lần tôi đã bắn.</ShotsFired.description>
+	<SwitchesFlicked.label>Số lượng công tắc đã bật</SwitchesFlicked.label>
+	<SwitchesFlicked.description>Số lượng công tắc tôi đã bật.</SwitchesFlicked.description>
+	<ThingsConstructed.label>Số lượng vật phẩm đã xây dựng</ThingsConstructed.label>
+	<ThingsConstructed.description>Số lượng vật phẩm tôi đã xây dựng.</ThingsConstructed.description>
+	<ThingsCrafted.label>Số lượng vật phẩm đã chế tạo</ThingsCrafted.label>
+	<ThingsCrafted.description>Số lượng vật phẩm tôi đã chế tạo.</ThingsCrafted.description>
+	<ThingsDeconstructed.label>Số lượng vật phẩm đã tháo dỡ</ThingsDeconstructed.label>
+	<ThingsDeconstructed.description>Số lượng vật phẩm tôi đã tháo dỡ.</ThingsDeconstructed.description>
+	<ThingsHauled.label>Số lượng vật phẩm đã vận chuyển</ThingsHauled.label>
+	<ThingsHauled.description>Số lượng vật phẩm tôi đã vận chuyển.</ThingsHauled.description>
+	<ThingsInstalled.label>Số lượng vật phẩm đã lắp đặt</ThingsInstalled.label>
+	<ThingsInstalled.description>Số lượng vật phẩm tôi đã lắp đặt.</ThingsInstalled.description>
+	<ThingsRepaired.label>Số lượng vật phẩm đã sửa chữa</ThingsRepaired.label>
+	<ThingsRepaired.description>Số lượng vật phẩm tôi đã sửa chữa.</ThingsRepaired.description>
+	<ThingsUninstalled.label>Số lượng vật phẩm đã gỡ cài đặt</ThingsUninstalled.label>
+	<ThingsUninstalled.description>Số lượng vật phẩm tôi đã gỡ cài đặt.</ThingsUninstalled.description>
+	<TimesInMentalState.label>Số lần rơi vào trạng thái tâm lý</TimesInMentalState.label>
+	<TimesInMentalState.description>Số lần tôi đã rơi vào trạng thái tâm lý.</TimesInMentalState.description>
+	<TimesOnFire.label>Số lần bị cháy</TimesOnFire.label>
+	<TimesOnFire.description>Số lần tôi bị cháy.</TimesOnFire.description>
+	<TimesTendedOther.label>Số lần chăm sóc người khác</TimesTendedOther.label>
+	<TimesTendedOther.description>Số lần tôi đã chăm sóc cho người khác.</TimesTendedOther.description>
+	<TimesTendedTo.label>Số lần nhận chăm sóc</TimesTendedTo.label>
+	<TimesTendedTo.description>Số lần tôi đã nhận chăm sóc.</TimesTendedTo.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Barn.label>Chuồng gia súc</Barn.label>
+	<Barracks.label>Ký túc xá nhiều người</Barracks.label>
+	<Bedroom.label>Phòng ngủ</Bedroom.label>
+	<DiningRoom.label>Phòng ăn</DiningRoom.label>
+	<Hospital.label>Phòng y tế</Hospital.label>
+	<Kitchen.label>Bếp</Kitchen.label>
+	<Laboratory.label>Phòng thí nghiệm</Laboratory.label>
+	<None.label>Chưa phân loại</None.label>
+	<PrisonBarracks.label>Phòng giam nhiều người</PrisonBarracks.label>
+	<PrisonCell.label>Phòng giam</PrisonCell.label>
+	<RecRoom.label>Phòng giải trí</RecRoom.label>
+	<Room.label>Phòng</Room.label>
+	<Storeroom.label>Kho</Storeroom.label>
+	<Tomb.label>Mồ mả</Tomb.label>
+	<Workshop.label>Nhà xưởng</Workshop.label>
+</LanguageData>

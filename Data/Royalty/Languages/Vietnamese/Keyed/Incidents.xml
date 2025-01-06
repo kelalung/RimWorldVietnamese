@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<LetterLabelTributeCollectorArrival>Đoàn Gọi Hoàng Gia</LetterLabelTributeCollectorArrival>
+<LetterTributeCollectorArrival>Đoàn gọi hoàng gia từ {FACTION_name} đang đến gần.\n\nHọ sẽ nhận bất kỳ tù nhân và vàng nào bạn cung cấp như một cống phẩm. Đổi lại, người cống phẩm sẽ nhận được {FACTION_royalFavorLabel}.\n\nChỉ cần bạn không phải là kẻ thù của {FACTION_name}, đoàn gọi hoàng gia sẽ đến thăm khoảng hai lần mỗi năm.</LetterTributeCollectorArrival>
+</LanguageData>

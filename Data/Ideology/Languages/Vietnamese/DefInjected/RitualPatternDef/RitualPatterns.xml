@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BurnCircle.descOverride>Một nghi lễ thiêu hủy biểu tượng ghê tởm. Người tham gia sẽ tập trung quanh một công trình thờ cúng, đốt cháy nó, và ăn mừng khi nó cháy thành tro.</BurnCircle.descOverride>
+<BurnCircle.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</BurnCircle.ritualExpectedDesc>
+<BurnCircle.shortDescOverride>Nghi lễ thiêu hủy biểu tượng</BurnCircle.shortDescOverride>
+<CelebrationPartyChat.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</CelebrationPartyChat.ritualExpectedDesc>
+<CelebrationPartyDanceDrum.descOverride>Một buổi tiệc trống. Người tham gia sẽ tập trung lại để đánh trống, nhảy múa và giao lưu để tăng điểm tâm trạng và mối quan hệ lẫn nhau.</CelebrationPartyDanceDrum.descOverride>
+<CelebrationPartyDanceDrum.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+<CelebrationPartyDanceDrum.shortDescOverride>Buổi tiệc trống</CelebrationPartyDanceDrum.shortDescOverride>
+<CelebrationPartyDanceTech.descOverride>Một buổi tiệc nhảy múa với âm nhạc ồn ào. Người tham gia sẽ tập trung lại để nhảy múa và giao lưu để tăng điểm tâm trạng và mối quan hệ lẫn nhau.</CelebrationPartyDanceTech.descOverride>
+<CelebrationPartyDanceTech.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</CelebrationPartyDanceTech.ritualExpectedDesc>
+<CelebrationPartyDanceTech.shortDescOverride>Buổi tiệc nhảy múa sôi động</CelebrationPartyDanceTech.shortDescOverride>
+<CelebrationSkyLanterns.descOverride>Nghi lễ thả đèn trời. Người tham gia sẽ lắp ráp những chiếc đèn gỗ trong khi giao lưu, sau đó thả chúng và nhìn chúng bay đi.</CelebrationSkyLanterns.descOverride>
+<CelebrationSkyLanterns.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</CelebrationSkyLanterns.ritualExpectedDesc>
+<CelebrationSkyLanterns.shortDescOverride>Lễ hội đèn trời</CelebrationSkyLanterns.shortDescOverride>
+<CelebrationTree.descOverride>Một buổi tiệc quanh cây thông. Người tham gia sẽ tập trung bên cạnh cây thông, tận hưởng niềm vui.</CelebrationTree.descOverride>
+<CelebrationTree.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</CelebrationTree.ritualExpectedDesc>
+<CelebrationTree.shortDescOverride>Lễ hội Giáng sinh</CelebrationTree.shortDescOverride>
+<Conversion.ritualExplanation>Nếu thành công, sự công nhận của họ sẽ giảm, hoặc họ sẽ ngay lập tức được đồng hóa. Nếu không, sự công nhận của họ đối với văn hóa của chính họ sẽ tăng lên.</Conversion.ritualExplanation>
+<FeastCannibal.descOverride>Một nghi lễ ăn thịt người. Người tham gia sẽ tập trung quanh một đĩa thịt người lớn, thưởng thức bữa tiệc máu me.</FeastCannibal.descOverride>
+<FeastCannibal.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</FeastCannibal.ritualExpectedDesc>
+<FeastCannibal.shortDescOverride>Bữa tiệc ăn thịt người</FeastCannibal.shortDescOverride>
+<FuneralNoCorpse.ritualExpectedDesc>Bạn có thể tổ chức một lễ tang {IDEOLIGION_adjective} cho {PAWN_nameDef}, ngay cả khi xác chết đã bị mất.</FuneralNoCorpse.ritualExpectedDesc>
+<FuneralNoCorpse.ritualExpectedDescNoAdjective>Bạn có thể tổ chức một lễ tang cho {PAWN_nameDef}, ngay cả khi xác chết đã bị mất.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+<FuneralStandard.ritualExpectedDesc>Bạn có thể tổ chức một lễ tang {IDEOLIGION_adjective} cho {PAWN_nameDef}</FuneralStandard.ritualExpectedDesc>
+<FuneralStandard.ritualExpectedDescNoAdjective>Bạn có thể tổ chức một lễ tang cho {PAWN_nameDef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+<SacrificeAnimal.descOverride>Nghi lễ hy sinh động vật. Người tổ chức sẽ có một bài phát biểu để khích lệ khán giả, sau đó sẽ cắt cổ động vật. Sau khi động vật chết, người tổ chức sẽ bắt đầu kết thúc nghi lễ.</SacrificeAnimal.descOverride>
+<SacrificeAnimal.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</SacrificeAnimal.ritualExpectedDesc>
+<SacrificeAnimal.shortDescOverride>Nghi lễ hy sinh động vật</SacrificeAnimal.shortDescOverride>
+<SacrificePrisoner.descOverride>Một nghi lễ hy sinh tù nhân. Người tổ chức sẽ có một bài phát biểu để khích lệ khán giả, sau đó sẽ cắt cổ tù nhân. Sau khi tù nhân chết, người tổ chức sẽ bắt đầu kết thúc nghi lễ.</SacrificePrisoner.descOverride>
+<SacrificePrisoner.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</SacrificePrisoner.ritualExpectedDesc>
+<SacrificePrisoner.shortDescOverride>Nghi lễ hy sinh tù nhân</SacrificePrisoner.shortDescOverride>
+<SmokeCircle.descOverride>Một nghi lễ hút một lượng lớn cần sa. Người tham gia sẽ tập trung quanh một bình hút hoặc lư hương, thắp sáng nó và ăn mừng trong khi hít thở khói.</SmokeCircle.descOverride>
+<SmokeCircle.ritualExpectedDesc>Mỗi năm vào {DATE}, {MEMBERS} có thể có một lễ kỷ niệm đặc biệt.</SmokeCircle.ritualExpectedDesc>
+<SmokeCircle.shortDescOverride>Bữa tiệc cần sa</SmokeCircle.shortDescOverride>
+</LanguageData>

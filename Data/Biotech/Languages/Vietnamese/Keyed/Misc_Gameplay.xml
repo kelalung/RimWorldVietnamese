@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SelfShutdown>Ngủ đông (tự sạc)</SelfShutdown>
+<CarryToRecharger>Mang đến trạm sạc</CarryToRecharger>
+<MustBeCarriedToRecharger>Phải được mang đến trạm sạc.</MustBeCarriedToRecharger>
+<Danger>Nguy hiểm</Danger>
+<DamageType>Thiệt hại {0}</DamageType>
+<ContainedThings>Chứa {0_labelPlural}</ContainedThings>
+<DurationUntilNextAtomization>Thời gian đến lần phân giải tiếp theo</DurationUntilNextAtomization>
+<FinishesIn>Kết thúc vào</FinishesIn>
+<WithLower>Với</WithLower>
+<TilesLower> ô</TilesLower>
+<CaravanMech>1x máy móc</CaravanMech>
+<CaravanMechsCount>{0}x máy móc</CaravanMechsCount>
+<BossWithApparel>{BOSS} được trang bị {APPAREL}</BossWithApparel>
+<ReportRemovingMechlink>Đang loại bỏ {0}.</ReportRemovingMechlink>
+<PollutionClear>Đã làm sạch ô nhiễm</PollutionClear>
+<Overseer>Người giám sát</Overseer>
+<OverseerNone>Không (không được kiểm soát)</OverseerNone>
+<MayGoFeral>Có thể ngoại tuyến bất cứ lúc nào</MayGoFeral>
+<Bandwidth>Băng thông</Bandwidth>
+<BandwidthLower>Băng thông</BandwidthLower>
+<BandwidthGizmoTip>Kỹ sư chỉ có thể giám sát máy móc khi có đủ băng thông. Mỗi loại máy móc khác nhau sẽ chiếm dụng băng thông khác nhau.\n\nCó thể tăng cường băng thông bằng cách xây dựng các nút băng tần kết nối với kỹ sư hoặc sử dụng một số trang bị đặc biệt cho kỹ sư.</BandwidthGizmoTip>
+<ControlGroup>Nhóm điều khiển</ControlGroup>
+<CurrentMechWorkMode>Chế độ hành động hiện tại</CurrentMechWorkMode>
+<AssignedMechs>Máy móc đã được phân công</AssignedMechs>
+<BandNodeTunedTo>Đã điều chỉnh đến</BandNodeTunedTo>
+<BandNodeTuneTo>Điều chỉnh đến</BandNodeTuneTo>
+<BandNodeTuningTo>Đang điều chỉnh đến</BandNodeTuningTo>
+<BandNodeRetuneTo>Điều chỉnh lại</BandNodeRetuneTo>
+<BandNodeTuningDesc>Điều chỉnh nút băng tần này kết nối với một kỹ sư, quá trình điều chỉnh sẽ kéo dài {0}.</BandNodeTuningDesc>
+<BandNodeRetuningDesc>Điều chỉnh lại nút băng tần này kết nối với một kỹ sư khác, quá trình điều chỉnh sẽ kéo dài {0}.</BandNodeRetuningDesc>
+<DropThingBandwidthApparel>Gỡ bỏ {0} sẽ làm băng thông của {1_labelShort} giảm từ {2} xuống {3}. Điều này có nghĩa là các máy móc này sẽ không còn nằm dưới sự kiểm soát của chúng.</DropThingBandwidthApparel>
+<NoMechs>Không có máy móc</NoMechs>
+<Group>Nhóm</Group>
+<Groups>Nhóm</Groups>
+<LoadingMechGestator>Tải tài nguyên nuôi dưỡng máy móc</LoadingMechGestator>
+<GestatingInspect>Thời gian còn lại của chu kỳ nuôi dưỡng</GestatingInspect>
+<InitMechGestationCycle>Khởi tạo chu kỳ nuôi dưỡng máy móc</InitMechGestationCycle>
+<InitMechBirth>Khởi tạo sinh sản máy móc</InitMechBirth>
+<MechEnergy>Năng lượng máy móc</MechEnergy>
+<Energy>Năng lượng</Energy>
+<EnergyLower>Năng lượng</EnergyLower>
+<BandwidthUsage>Sử dụng băng thông</BandwidthUsage>
+<MechGestationBandwidthUsed>Băng thông nuôi dưỡng máy móc</MechGestationBandwidthUsed>
+<CannotSummon>Không thể triệu hồi {0}</CannotSummon>
+<ReadyToSummonThreat>Có thể triệu hồi {0}</ReadyToSummonThreat>
+<Summon>Triệu hồi {0}</Summon>
+<NoReachableBossgroupCaller>Không có {0} nào có thể tiếp cận</NoReachableBossgroupCaller>
+<NoReservableBossgroupCaller>Không có {0} nào có sẵn</NoReservableBossgroupCaller>
+<NoPoweredBossgroupCaller>Không có {0} nào có điện</NoPoweredBossgroupCaller>
+<AlreadyUsed>Đã được sử dụng</AlreadyUsed>
+<Gestating>Đang nuôi dưỡng</Gestating>
+<Escorting>Đang bảo vệ {TARGET_labelShort}.</Escorting>
+<Worker>Công nhân</Worker>
+<WaitingFor>Đang chờ</WaitingFor>
+<Uncontrolled>Không được kiểm soát</Uncontrolled>
+<BossgroupIncoming>{0} đang đến</BossgroupIncoming>
+<Hemogen>Huyết nguyên</Hemogen>
+<HemogenDesc>Huyết nguyên là một dạng sinh năng lượng, có nguồn gốc từ các hợp chất trong máu của con người. Người bình thường sẽ sản xuất nó nội sinh trong cơ thể và tiêu thụ nó theo thời gian trong vòng tuần hoàn nội bộ. Một số sinh vật ngoại lai sử dụng nó như nhiên liệu cho các khả năng đặc biệt, trong khi những sinh vật khác phải tiêu thụ nó để tồn tại.</HemogenDesc>
+<DeathrestCapacity>Công suất ngủ chết</DeathrestCapacity>
+<DeathrestCapacityDesc>Điều này quyết định số lượng thiết bị ngủ chết mà một người có thể kết nối tối đa khi ngủ chết. Mỗi thiết bị ngủ chết đều cung cấp một số lợi ích nhất định, vì vậy càng kết nối nhiều càng tốt.\n\nCông suất ngủ chết có thể được tăng cường bằng cách sử dụng huyết thanh mở rộng công suất ngủ chết. Những huyết thanh này có thể mua từ thương nhân.</DeathrestCapacityDesc>
+<PawnIsConnectedToBuildings>{PAWN_nameDef} đã kết nối với ({CURRENT}/{MAX}) thiết bị ngủ chết.</PawnIsConnectedToBuildings>
+<Wake>Đánh thức</Wake>
+<WakeDesc>Đánh thức từ trạng thái ngủ chết.\n\n{PAWN_nameDef} đã ngủ chết trong {DURATION}.</WakeDesc>
+<WakeExtraDesc_Exhaustion>{PAWN_nameDef} cần ít nhất {TOTAL} để ngủ chết. Đánh thức {PAWN_nameDef} trước thời hạn sẽ khiến {PAWN_objective} không khỏe, và {PAWN_pronoun} sẽ không nhận được lợi ích từ bất kỳ thiết bị ngủ chết nào.</WakeExtraDesc_Exhaustion>
+<WakeExtraDesc_Safe>{PAWN_nameDef} hiện có thể được đánh thức an toàn.</WakeExtraDesc_Safe>
+<CannotWakeNotEnoughHemogen>Không thể đánh thức, cần ít nhất {0} huyết nguyên.</CannotWakeNotEnoughHemogen>
+<AutoWake>Đánh thức tự động</AutoWake>
+<AutoWakeDesc>Khi kích hoạt, {PAWN_nameDef} sẽ tự động tỉnh dậy khi hoàn tất ngủ chết.\n\nKhi tắt, {PAWN_nameDef} sẽ tiếp tục ngủ chết cho đến khi bạn đánh thức {PAWN_pronoun} thủ công.</AutoWakeDesc>
+<IsDeathresting>{PAWN_nameDef} đang ngủ chết.</IsDeathresting>
+<CannotDeathrest>Không thể ngủ chết</CannotDeathrest>
+<StartDeathrest>Bắt đầu ngủ chết</StartDeathrest>
+<ConfirmExitDeathrestUnderMinDays>Hoàn thành ngủ chết an toàn cần {MINDURATION}, nhưng {PAWN_nameDef} chỉ đã ngủ chết trong {CURDURATION}.\n\nĐánh thức {PAWN_nameDef} ngay bây giờ sẽ làm gián đoạn giấc ngủ chết của {PAWN_possessive}, điều này có thể làm {PAWN_possessive} mất cân bằng trao đổi chất và khiến {PAWN_objective} yếu đi trong vài ngày.\n\nBạn có chắc chắn muốn đánh thức {PAWN_objective} không?</ConfirmExitDeathrestUnderMinDays>
+<Deathresting>Đang ngủ chết</Deathresting>
+<CanWakeSafely>Hiện có thể đánh thức an toàn.</CanWakeSafely>
+<DisabledByGene>Bị cấm bởi gen</DisabledByGene>
+<WakeDisabledCriticalCondition>{PAWN_nameDef} đang trong tình trạng nguy hiểm.</WakeDisabledCriticalCondition>
+<DrainRate>Tốc độ tiêu hao</DrainRate>
+<RegenerationRate>Tốc độ tái sinh</RegenerationRate>
+<NextDeathrestNeed>Để tránh gây ra hội chứng suy kiệt ngủ chết, {PAWN_nameDef} nên bắt đầu ngủ chết trong {DURATION}.</NextDeathrestNeed>
+<PawnShouldDeathrestNow>Để tránh gây ra hội chứng suy kiệt ngủ chết, {PAWN_nameDef} nên bắt đầu ngủ chết ngay lập tức.</PawnShouldDeathrestNow>
+<AutoTakeHemogenDesc>Điều này quyết định khi nào {PAWN_nameDef} sẽ tự động tiêu thụ gói huyết nguyên khi lượng huyết nguyên thấp hơn {MIN}.\n\nTự động tiêu thụ hiện đang ở trạng thái “{ONOFF}”.</AutoTakeHemogenDesc>
+<ConsumeHemogenBelow>Ngưỡng tiêu thụ huyết nguyên</ConsumeHemogenBelow>
+<NeverConsumeHemogen>Không tiêu thụ huyết nguyên.</NeverConsumeHemogen>
+<WillKill>Sẽ chết</WillKill>
+<WillCauseSeriousBloodloss>Sẽ gây mất máu nghiêm trọng</WillCauseSeriousBloodloss>
+<TooSmall>Quá nhỏ</TooSmall>
+<BoundTo>Liên kết với</BoundTo>
+<WillBindOnFirstUse>Sẽ được liên kết sau lần sử dụng đầu tiên.</WillBindOnFirstUse>
+<TimeActiveThisDeathrest>Thời gian kích hoạt trong lần ngủ chết này</TimeActiveThisDeathrest>
+<MinimumNeededToApply>Tối thiểu {0}</MinimumNeededToApply>
+<CannotAssignBedCannotDeathrest>Không thể ngủ chết</CannotAssignBedCannotDeathrest>
+<CannotAssignAlreadyBound>Đã liên kết với {0_nameDef}</CannotAssignAlreadyBound>
+<CannotAssignBedCannotBindToMoreBuildings>Không thể liên kết với nhiều {BUILDING_labelPlural} hơn.</CannotAssignBedCannotBindToMoreBuildings>
+<Aptitude>Tài năng</Aptitude>
+<Aptitudes>Tài năng</Aptitudes>
+<AptitudePlural>Tài năng</AptitudePlural>
+<AptitudesDesc>Tài năng giúp một người có hiệu suất cao hơn hoặc thấp hơn so với cấp độ kỹ năng mà họ học.\n\nVí dụ, tài năng +1 cho một kỹ năng có cấp độ 5 có nghĩa là người đó sẽ có hiệu suất tương đương với cấp độ 6.\n\nTổng giá trị không thể vượt quá 20 hoặc thấp hơn 1.</AptitudesDesc>
+<Total>Tổng giá trị</Total>
+<FatherTip>Cha</FatherTip>
+<MotherTip>Mẹ di truyền</MotherTip>
+<RitualTargetChildBirth>Giường chưa sử dụng</RitualTargetChildBirth>
+<NoAppropriateBedChildBirth>Không có giường sinh phù hợp.</NoAppropriateBedChildBirth>
+<NoDoctorChildBirth>Không có bác sĩ nào gần đó.</NoDoctorChildBirth>
+<CantUseThisBed>Không thể sử dụng giường này.</CantUseThisBed>
+<NotInLabor>Không trong quá trình sinh nở.</NotInLabor>
+<Labor>Sinh nở</Labor>
+<LaborDilation>Mở rộng</LaborDilation>
+<PregnancyApproach_Normal>Bình thường</PregnancyApproach_Normal>
+<PregnancyApproach_AvoidPregnancy>Tránh thai</PregnancyApproach_AvoidPregnancy>
+<PregnancyApproach_TryForBaby>Thử sinh con</PregnancyApproach_TryForBaby>
+<PregnancyChance>Cơ hội mang thai</PregnancyChance>
+<PregnancyApproach>Cách thức mang thai</PregnancyApproach>
+  <ClickToChangePregnancyApproach>Nhấp để thay đổi cách mang thai.</ClickToChangePregnancyApproach>
+<PregnancyNotPossible>Hiện tại không thể mang thai.</PregnancyNotPossible>
+<BirthRitualHealthyBabyChance>Xác suất sinh con khỏe mạnh ở mức chất lượng hiện tại là {0_percentage}.</BirthRitualHealthyBabyChance>
+<GivingBirth>Đang sinh nở.</GivingBirth>
+<ShieldEnergy>Năng lượng lá chắn</ShieldEnergy>
+<ShieldTimeToRecovery>Thời gian khôi phục</ShieldTimeToRecovery>
+<Genes>Gen</Genes>
+<GenesDesc>Các gen liên quan đến sinh vật ngoại lai này.</GenesDesc>
+<Suppressed>Bị ức chế</Suppressed>
+<Active>Hoạt động</Active>
+<SuppressedDesc>Đặc điểm này đã bị một đặc điểm di truyền hoặc gen xung đột ức chế. Nó sẽ không được kích hoạt cho đến khi tất cả các xung đột được loại bỏ.</SuppressedDesc>
+<Trait>Đặc điểm</Trait>
+<Gene>Gen</Gene>
+<AddedByGene>Được thêm bởi gen</AddedByGene>
+<EjectAll>Đẩy tất cả ra</EjectAll>
+<EjectAllDesc>Đẩy tất cả các gen đã lưu ra mặt đất.</EjectAllDesc>
+<GenepacksStored>Các gen đã lưu</GenepacksStored>
+<GenepackAutoLoad>Tự động tải</GenepackAutoLoad>
+<GenepackAutoLoadDesc>Nếu được kích hoạt, người vận chuyển sẽ tự động lưu gen này vào kho gen.</GenepackAutoLoadDesc>
+<ForcedTraits>Đặc điểm bắt buộc</ForcedTraits>
+<SuppressedTraits>Đặc điểm bị ức chế</SuppressedTraits>
+<ForcedTraitsDesc>Các đặc điểm này sẽ được thêm vào, và tất cả các đặc điểm xung đột sẽ bị ức chế.</ForcedTraitsDesc>
+<Complexity>Độ phức tạp</Complexity>
+<ComplexityDesc>Độ phức tạp trong quá trình lắp ráp gen.</ComplexityDesc>
+<MaxComplexityDesc>Bằng cách xây dựng bộ xử lý gen gần bộ lắp ráp gen, bạn có thể tăng độ phức tạp tối đa.</MaxComplexityDesc>
+<ComplexityTotal>Tổng độ phức tạp</ComplexityTotal>
+<ComplexityTotalDesc>Tổng độ phức tạp của tất cả các gen đã sử dụng.</ComplexityTotalDesc>
+<Metabolism>Chỉ số trao đổi chất</Metabolism>
+<MetabolismDesc>Tổng chỉ số trao đổi chất sau khi các gen này được lắp ráp. Hiệu suất trao đổi chất cao hơn có nghĩa là tiêu thụ ít thức ăn hơn; chỉ số trao đổi chất thấp có nghĩa là cần ăn nhiều hơn.</MetabolismDesc>
+<MetabolismTotal>Tổng chỉ số trao đổi chất</MetabolismTotal>
+<MetabolismTotalDesc>Tổng chỉ số trao đổi chất của tất cả các gen trong gen này. Hiệu suất trao đổi chất cao hơn có nghĩa là tiêu thụ ít thức ăn hơn; chỉ số trao đổi chất thấp có nghĩa là cần ăn nhiều hơn.</MetabolismTotalDesc>
+<NumberOfGenes>Số lượng gen</NumberOfGenes>
+<GenePriceFactors>Hệ số giá trị gen</GenePriceFactors>
+<AnyLower>Bất kỳ</AnyLower>
+<ArchitesTotal>Tổng số vi mạch siêu nhiên</ArchitesTotal>
+<ArchitesRequired>Vi mạch siêu nhiên cần thiết</ArchitesRequired>
+<ArchitesRequiredDesc>Vi mạch siêu nhiên là các vi mạch nano được sản xuất bởi trí thông minh siêu nhiên - chúng có khả năng thao tác trực tiếp ở quy mô vi mô với các tế bào và phân tử. Chúng có thể hoàn thành những kỳ tích không thể giải thích, một số gen chỉ có thể hoạt động với sự hỗ trợ của vi mạch siêu nhiên. Chúng ta chỉ có thể thu thập chúng qua việc lục soát hoặc các phương pháp khác để có được những sản phẩm này do những bí mật không thể tiết lộ mà trí thông minh siêu nhiên tạo ra.</ArchitesRequiredDesc>
+<CancelXenogerm>Hủy bỏ phôi ngoại lai</CancelXenogerm>
+<CancelXenogermDesc>Hủy bỏ toàn bộ quá trình phôi ngoại lai hiện tại.</CancelXenogermDesc>
+<AllowAllGenepacks>Cho phép tất cả các gen</AllowAllGenepacks>
+<AllowAllGenepacksDesc>Có cho phép các thuộc địa tự động lưu bất kỳ gen nào vào trong thùng này không. Nếu bạn chỉ muốn chỉ định một số gen cụ thể được lưu ở đây, hãy tắt tùy chọn này.</AllowAllGenepacksDesc>
+<ContainedGenepacksDesc>Các gen hiện có trong thùng này.</ContainedGenepacksDesc>
+<GenepacksToLoadDesc>Các gen được chỉ định để tải vào thùng này.</GenepacksToLoadDesc>
+<GenepacksIgnoredDesc>Các gen không được chỉ định tải vào thùng này.</GenepacksIgnoredDesc>
+<GenepacksToLoad>Tải gen</GenepacksToLoad>
+<GenepacksToIgnore>Bỏ qua gen</GenepacksToIgnore>
+<EjectGenepackDesc>Đẩy gen ra khỏi thùng này.</EjectGenepackDesc>
+<ConfirmRemoveGenepack>Bạn có chắc chắn muốn đẩy {0} ra không? Nó sẽ bị vứt trực tiếp xuống đất gần đó.</ConfirmRemoveGenepack>
+<MissingRequiredResearch>Thiếu nghiên cứu cần thiết</MissingRequiredResearch>
+<NoGenepacksAvailable>Không có gen nào có sẵn trong kho gen gần đó.</NoGenepacksAvailable>
+<AddToLoadingListDesc>Cho phép gen này được tải vào thùng này.</AddToLoadingListDesc>
+<RemoveFromLoadingListDesc>Loại bỏ gen này khỏi danh sách tải.</RemoveFromLoadingListDesc>
+<Recombine>Tái tổ hợp</Recombine>
+<RecombineDesc>Sử dụng dữ liệu của gen trong kho gen của bạn để lắp ráp một phôi ngoại lai có thể cấy ghép.</RecombineDesc>
+<ContainedGenesDesc>Các gen</ContainedGenesDesc>
+<ImplantXenogerm>Cấy ghép</ImplantXenogerm>
+<ImplantXenogermDesc>Cấy ghép vào một cơ thể để phần nào thay thế thông tin di truyền của nó.\n\nĐây là một ca phẫu thuật, vì vậy cần có bác sĩ, giường y tế và {MEDICINEAMOUNT} thuốc.</ImplantXenogermDesc>
+<ImplantXenogermWarningDesc>Cấy ghép phôi ngoại lai sẽ khiến {PAWN_nameDef} rơi vào trạng thái hôn mê, vì phôi ngoại lai cần một thời gian nhất định để hòa nhập vào vật chủ. Thời gian hôn mê sẽ kéo dài khoảng {COMADURATION}. Thời gian hôn mê phụ thuộc vào trình độ kỹ năng y tế của bác sĩ và chất lượng cơ sở y tế của bạn.</ImplantXenogermWarningDesc>
+<ImplantXenogermWarningOverwriteXenogenes>Hơn nữa, cấy ghép một phôi ngoại lai sẽ ghi đè lên các gen ngoại lai hiện có. Gen ngoại lai hiện tại của {PAWN_nameDef} là “{XENOTYPE}”. {PAWN_pronoun} có các gen ngoại lai sau:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
+<ImplantXenogermWarningNewMetabolism>Sau khi cấy ghép, tỷ lệ trao đổi chất của {PAWN_nameDef} sẽ là {MET}, tỷ lệ tiêu thụ thực phẩm sẽ là {CONSUMPTION}.</ImplantXenogermWarningNewMetabolism>
+<WouldYouLikeToContinue>Bạn có muốn tiếp tục không?</WouldYouLikeToContinue>
+<CancelImplanting>Hủy cấy ghép</CancelImplanting>
+<CancelImplantingDesc>Hủy bỏ lệnh cấy ghép phôi ngoại lai này cho {PAWN_nameDef}.</CancelImplantingDesc>
+<Xenotype>Loại ngoại lai</Xenotype>
+<Unique>Độc nhất</Unique>
+<UniqueXenotypeDesc>Một biến thể con người độc nhất, có một bộ gen ngoại lai không thuộc về bất kỳ loại ngoại lai nào đã biết.</UniqueXenotypeDesc>
+<FactorForMetabolism>Hệ số tỷ lệ trao đổi chất của gen</FactorForMetabolism>
+<Progress>Tiến độ</Progress>
+<InSunlight>Trong ánh nắng</InSunlight>
+<ThingIsSkyExposed>{0_labelShort} bị lộ ra dưới bầu trời.</ThingIsSkyExposed>
+<InsertPerson>Chèn người</InsertPerson>
+<InsertPersonGeneExtractorDesc>Chèn một người vào máy trích xuất gen. Vật chất di truyền của họ sẽ được trích xuất và sử dụng để tạo ra một gen có chứa các gen được chọn ngẫu nhiên.\n\nViệc trích xuất gen là đau đớn và sẽ khiến người được trích xuất yếu đi và buồn ngủ trong vài ngày. Quá trình này là chết người đối với những người có gen đang được tái cấu trúc.</InsertPersonGeneExtractorDesc>
+<ConfirmExtractXenogermWillKill>Cảnh báo: gen của {PAWN_nameDef} đang được tái cấu trúc. Việc trích xuất chúng trước khi quá trình tái cấu trúc hoàn tất sẽ giết chết {PAWN_objective}.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmExtractXenogermWillKill>
+<GeneExtractionComplete>Gen của {PAWN_nameDef} đã được trích xuất</GeneExtractionComplete>
+<InsertXenogerm>Chèn phôi ngoại lai</InsertXenogerm>
+<InsertXenogermDesc>Chèn một phôi ngoại lai trong quá trình nuôi dưỡng.</InsertXenogermDesc>
+<WaitingForPawn>Đang chờ {PAWN_nameDef}.</WaitingForPawn>
+<ExtractingXenogermFrom>Đang trích xuất gen từ {PAWN_nameDef}.</ExtractingXenogermFrom>
+<ExtractionPausedNoPower>Trích xuất tạm dừng: Không có điện (dừng lại {TIME})</ExtractionPausedNoPower>
+<LastIngestedDurationAgo>Lần tiêu thụ {CHEMICAL_label} gần nhất là cách đây {DURATION}.</LastIngestedDurationAgo>
+<NamedXenogerm>Phôi ngoại lai {NAME}</NamedXenogerm>
+<InsertedThing>Đã chèn {0}</InsertedThing>
+<AssemblyPaused>Lắp ráp tạm dừng</AssemblyPaused>
+<GenebankUnpowered>Kho gen cần thiết không có điện</GenebankUnpowered>
+<Deathless>Bất tử</Deathless>
+<GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} cần tiêu thụ {0} định kỳ để sống. Nếu không có {0} trong {DEFICIENCYDURATION}, {PAWN_pronoun} sẽ bị thiếu {0}. Sau {COMADURATION}, {PAWN_pronoun} sẽ rơi vào trạng thái hôn mê. Sau {DEATHDURATION}, {PAWN_pronoun} sẽ chết.</GeneDefChemicalNeedDurationDesc>
+<ChemicalDependency>Phụ thuộc vào {CHEMICAL_label}</ChemicalDependency>
+<Xenogerm>Phôi ngoại lai</Xenogerm>
+<PawnWillKeepDeathrestingLethalInjuries>Chỉ cần {PAWN_nameDef} còn tồn tại vết thương chết người, {PAWN_pronoun} sẽ tiếp tục ngủ chết.</PawnWillKeepDeathrestingLethalInjuries>
+<PawnWillKeepRegeneratingLethalInjuries>Chỉ cần {PAWN_nameDef} còn tồn tại vết thương chết người, {PAWN_pronoun} sẽ tiếp tục ở trong trạng thái tái sinh.</PawnWillKeepRegeneratingLethalInjuries>
+<DeathrestPaused>Ngủ chết tạm dừng</DeathrestPaused>
+<LethalInjuries>Vết thương chết người</LethalInjuries>
+<Deathrest>Ngủ chết</Deathrest>
+<Capacity>Công suất</Capacity>
+<MissingGeneRomanceChance>Khả năng lãng mạn không có {GENE}</MissingGeneRomanceChance>
+<NotInGeneBank>Không có trong kho gen</NotInGeneBank>
+<ChildBirthAlwaysHealthy_Desc>Tập trung lại để hỗ trợ mẹ sinh nở, bác sĩ có thể giúp đỡ trong quá trình sinh.</ChildBirthAlwaysHealthy_Desc>
+<UntilBabyIsBorn>Cho đến khi em bé được sinh ra</UntilBabyIsBorn>
+<LearningDesireTooltip>Trẻ em mong muốn học hỏi từ các hoạt động khác nhau vào những thời điểm khác nhau.</LearningDesireTooltip>
+<DevelopmentHealthGizmoTooltip>Khả năng phát triển sức khỏe đề cập đến mức trung bình của nhu cầu học hỏi của trẻ em kể từ sinh nhật trước.\n\nTrẻ em có sức khỏe phát triển cao hơn sẽ có nhiều lựa chọn hơn khi lớn lên và sẽ đạt được nhiều kỹ năng hơn.</DevelopmentHealthGizmoTooltip>
+<MustNotBePlacedCloseToAnother>Không được đặt gần một {0_label} khác</MustNotBePlacedCloseToAnother>
+<PollutingTerrainProgress>Còn lại thời gian đến lần ô nhiễm địa hình tiếp theo</PollutingTerrainProgress>
+<PoisonedTerrain>Có độc {0}</PoisonedTerrain>
+<AssignMechToControlGroup>Phân công vào nhóm điều khiển {0}</AssignMechToControlGroup>
+<CurrentMechEnergyFallPerDay>Giảm mỗi ngày</CurrentMechEnergyFallPerDay>
+<CannotAssignMechToControlGroup>Không thể phân công vào nhóm điều khiển {0}</CannotAssignMechToControlGroup>
+<AssignMechAlreadyAssigned>Đã được phân công</AssignMechAlreadyAssigned>
+<LactatingAddedNutritionPerDay>Tiêu thụ thêm {0} dinh dưỡng mỗi ngày để tiết sữa (với mức thực phẩm hiện tại, tốc độ tiết sữa là {1_percentage}).</LactatingAddedNutritionPerDay>
+<LactatingStoppedBecauseFull>Dự trữ sữa đã đầy, tiết sữa tạm dừng.</LactatingStoppedBecauseFull>
+<LactatingStoppedBecauseHungry>Tạm dừng tiết sữa vì đói.</LactatingStoppedBecauseHungry>
+<CurrentGestationCycle>Chu kỳ nuôi dưỡng hiện tại</CurrentGestationCycle>
+<RemainingGestationCycles>Các chu kỳ nuôi dưỡng còn lại</RemainingGestationCycles>
+<GestationCycles>Các chu kỳ nuôi dưỡng</GestationCycles>
+<GestatingMech>Đang nuôi dưỡng {0}</GestatingMech>
+<GestatedMech>Đã nuôi dưỡng {0}</GestatedMech>
+<GestatingMechRequiresMechanitor>Cần {PAWN_nameDef} để tiếp tục nuôi dưỡng</GestatingMechRequiresMechanitor>
+<GestatedMechRequiresMechanitor>Cần {PAWN_nameDef} để hoàn tất</GestatedMechRequiresMechanitor>
+<GestationComplete>Nuôi dưỡng hoàn tất</GestationComplete>
+<ResurrectingMech>Đang hồi sinh {0}</ResurrectingMech>
+<ResurrectedMech>Đã hồi sinh {0}</ResurrectedMech>
+<MechCarrierRelease>Triển khai {0}</MechCarrierRelease>
+<MechCarrierDesc>Triển khai {0} {1}. Mỗi {2} cần {3}x{4} để sản xuất. Nếu cơ thể mẹ bị phá hủy, tất cả {1} liên kết sẽ chết. {1} không thể sạc điện, và sẽ chết khi năng lượng của chúng cạn kiệt.</MechCarrierDesc>
+<MechCarrierNotEnoughResources>Thiếu tài nguyên cần thiết</MechCarrierNotEnoughResources>
+<MechCarrierAutofillResources>Tự động nạp đầy</MechCarrierAutofillResources>
+  <MechCarrierClickToSetAutofillAmount>Nhấp để thiết lập lượng tự động nạp cần thiết.</MechCarrierClickToSetAutofillAmount>
+<MechCarrierAutofillDesc>Lượng tự động nạp này quyết định lượng tài nguyên tối đa mà thuộc địa của bạn sẽ tự động đặt vào {0}. Tài nguyên có thể được sử dụng để tạo ra {1}.</MechCarrierAutofillDesc>
+<MechPowerCell>Pin năng lượng</MechPowerCell>
+<MechPowerCellTip>Pin năng lượng tích hợp trong đơn vị này là nguồn năng lượng một lần. Khi năng lượng của pin cạn kiệt, nó sẽ chết.</MechPowerCellTip>
+<BossgroupAvailableIn>Có thể triệu hồi sau {0}.</BossgroupAvailableIn>
+<RequiresMechanitor>Cần có kỹ sư máy móc</RequiresMechanitor>
+<AbilityDisabledNoHemogenGene>{0_labelShort} không phải là người có khả năng máu.</AbilityDisabledNoHemogenGene>
+<AbilityDisabledNoHemogen>{0_labelShort} không có đủ huyết nguyên.</AbilityDisabledNoHemogen>
+<AbilityStartRitualDisabledChild>Trẻ em không thể thực hiện.</AbilityStartRitualDisabledChild>
+<AbilityStartRitualNoMembersOfIdeo>Cần có một {0}.</AbilityStartRitualNoMembersOfIdeo>
+<AbilityHemogenCost>Chi phí huyết nguyên</AbilityHemogenCost>
+<AbilityHemogenGain>Thu nhập huyết nguyên cơ bản</AbilityHemogenGain>
+<AbilityMechSmokepopCharged>Có thể phát ra khói.</AbilityMechSmokepopCharged>
+<AbilityMechSmokepopRecharging>Đang nạp khói (còn lại {0}).</AbilityMechSmokepopRecharging>
+<AbilityMechFirefoampopCharged>Có thể phát ra bọt chống cháy.</AbilityMechFirefoampopCharged>
+<AbilityMechFirefoampopRecharging>Đang nạp bọt chống cháy (còn lại {0}).</AbilityMechFirefoampopRecharging>
+<PollutedTerrain>Địa hình ô nhiễm {0}</PollutedTerrain>
+<Biostarvation>Đói sinh lý</Biostarvation>
+<BiostarvationExplanation>Một hoặc nhiều buồng nuôi dưỡng bị đói sinh lý do thiếu dinh dưỡng hoặc điện.\n\nNếu mức độ đói sinh lý đạt 100%, người trong buồng sẽ chết.</BiostarvationExplanation>
+<InsertPersonGrowthVatDesc>Đặt người vào buồng nuôi dưỡng, họ sẽ lão hóa với tốc độ gấp 20 lần.</InsertPersonGrowthVatDesc>
+<InsertEmbryoGrowthVatDesc>Đặt một phôi vào buồng nuôi dưỡng. Sau {0}, một em bé hoàn chỉnh sẽ hình thành trong buồng, hy vọng là khỏe mạnh.</InsertEmbryoGrowthVatDesc>
+<ImplantEmbryo>Cấy ghép phôi</ImplantEmbryo>
+<CannotInsertEmbryo>Không thể cấy ghép phôi</CannotInsertEmbryo>
+<EmbryoAlreadyInside>Đã có phôi bên trong.</EmbryoAlreadyInside>
+<ImplantNoEmbryos>Không có phôi</ImplantNoEmbryos>
+<EmbryoTimeUntilBirth>Thời gian đến khi sinh</EmbryoTimeUntilBirth>
+<EmbryoBirthQuality>Chất lượng sinh sản</EmbryoBirthQuality>
+<EmbryoSelected>Phôi đã chọn</EmbryoSelected>
+<PersonSelected>Người đã chọn</PersonSelected>
+<NoPawnsCanEnterGrowthVat>Không có người không đói phù hợp về độ tuổi. Để vào buồng nuôi dưỡng, người đó phải dưới {0} tuổi và hiện không bị đói.</NoPawnsCanEnterGrowthVat>
+<AgingSpeed>Tốc độ lão hóa</AgingSpeed>
+<WasteLevel>Mức độ ô nhiễm</WasteLevel>
+<DissolutionRateIndoors>Trong nhà</DissolutionRateIndoors>
+<DissolutionRain>Trong mưa</DissolutionRain>
+<DissolvesEvery>Mỗi {0} sẽ hòa tan một phần rác độc hại</DissolvesEvery>
+<DissolutionFrozen>Đông lạnh (sẽ không hòa tan)</DissolutionFrozen>
+<CellsPerDay>{0} ô/ngày</CellsPerDay>
+<WrongDevelopmentalStageForClothing>{0} không thể mặc đồ cho {1}</WrongDevelopmentalStageForClothing>
+<SubcoreScannerStart>Bắt đầu quét</SubcoreScannerStart>
+<SubcoreScannerProduces>Tiến độ</SubcoreScannerProduces>
+<SubcoreScannerStartDesc>Khi {0} đã đầy đủ nguyên liệu cần thiết ({1}), chọn một thuộc địa, nhấp chuột phải vào {0} hoặc người nằm xuống để bắt đầu quét.</SubcoreScannerStartDesc>
+<SubcoreScannerCompletesIn>Hoàn thành trong</SubcoreScannerCompletesIn>
+<SubcoreScannerWaitingForOccupant>Đang chờ người sử dụng</SubcoreScannerWaitingForOccupant>
+<SubcoreScannerWaitingForIngredients>Đang chờ nguyên liệu</SubcoreScannerWaitingForIngredients>
+<SubcoreScannerWaitingForIngredientsDesc>Cần ưu tiên nạp các nguyên liệu sau</SubcoreScannerWaitingForIngredientsDesc>
+<SubcoreScannerPawnHasSickness>Có {0}</SubcoreScannerPawnHasSickness>
+<SubcoreScannerBabyNotAllowed>Không cho phép trẻ sơ sinh</SubcoreScannerBabyNotAllowed>
+<InsertPersonSubcoreScannerDesc>Đặt một người vào {0}.</InsertPersonSubcoreScannerDesc>
+<DurationHours>Thời gian (giờ)</DurationHours>
+<Adult>Người lớn</Adult>
+<Adults>Người lớn</Adults>
+<Child>Trẻ em</Child>
+<Children>Trẻ em</Children>
+<Baby>Trẻ sơ sinh</Baby>
+<Babies>Trẻ sơ sinh</Babies>
+<FeralChild>Trẻ hoang dã</FeralChild>
+<WearableBy>Có thể mang bởi</WearableBy>
+<Reward_ReimplantXenogerm_Label>Cấy ghép phôi ngoại lai</Reward_ReimplantXenogerm_Label>
+<Reward_ReimplantXenogerm_Desc>Một trong số họ sẽ cấy ghép phôi ngoại lai vào thuộc địa mà bạn chọn, biến thuộc địa của bạn thành đồng loại của họ. Thuộc địa của bạn sẽ tiếp tục thuộc về phe của bạn và dưới sự kiểm soát của bạn.</Reward_ReimplantXenogerm_Desc>
+<MechResurrectionCharges>Sạc hồi sinh máy móc</MechResurrectionCharges>
+<MechStunPulseWarning>Giải phóng xung điện khi chết.</MechStunPulseWarning>
+<IsLowEnergySelfShutdown>{PAWN_nameDef} tự động tắt nguồn do thiếu năng lượng.</IsLowEnergySelfShutdown>
+<ShowPollutionOverlayToggleButton>Bật/tắt lớp phủ ô nhiễm. Điều này sẽ hiển thị những khu vực nào của địa hình bị ô nhiễm.\n\nTiếp xúc với địa hình ô nhiễm sẽ dẫn đến tích tụ chất độc, gây tử vong. Hầu hết các loại cây không thể sống trên địa hình ô nhiễm.</ShowPollutionOverlayToggleButton>
+<TilePollutionNone>Không có</TilePollutionNone>
+<TilePollutionLight>Nhẹ</TilePollutionLight>
+<TilePollutionModerate>Vừa phải</TilePollutionModerate>
+<TilePollutionExtreme>Nghiêm trọng</TilePollutionExtreme>
+<TilePollution>Ô nhiễm</TilePollution>
+<TilePollutionNearby>Gần ô nhiễm</TilePollutionNearby>
+<NearbyPollutionTip>Tổng mức độ ô nhiễm của tất cả các ô trong bán kính {0}. Khi khoảng cách đến ô này tăng lên, hiệu ứng ô nhiễm sẽ giảm:\n\n{1}\n\nMức độ ô nhiễm gần đó càng cao, xác suất xảy ra sương axit càng lớn.</NearbyPollutionTip>
+<NoxiousHazeInterval>Ô này trung bình mỗi {0} ngày sẽ xuất hiện sương axit.</NoxiousHazeInterval>
+<NoxiousHazeNeverOccurring>Ô này sẽ không xuất hiện sương axit.</NoxiousHazeNeverOccurring>
+<NearbyPollutionTilesAway>Ra ngoài ô</NearbyPollutionTilesAway>
+<PollutionLower>Ô nhiễm</PollutionLower>
+<CannotAbsorbPollution>Không thể hấp thụ ô nhiễm: quá gần công trình</CannotAbsorbPollution>
+<CanAbsorbPollution>Có thể hấp thụ ô nhiễm từ địa hình gần đó.</CanAbsorbPollution>
+<AbsorbingPollutionNext>Còn lại thời gian đến lần hấp thụ ô nhiễm tiếp theo: {0}</AbsorbingPollutionNext>
+<TerrainPollutionTip>Mức độ ô nhiễm của ô này.\n\nTiếp xúc với địa hình ô nhiễm sẽ gây ngộ độc, dẫn đến tử vong. Hầu hết các loại cây không thể trồng trên địa hình ô nhiễm.</TerrainPollutionTip>
+<StudyRequirementTip>Cần phân tích</StudyRequirementTip>
+<TriggerRadius>Bán kính kích hoạt</TriggerRadius>
+<DormantCompOpening>Đang mở</DormantCompOpening>
+<SurgeryDisableReasonOvumExtracted>Trứng vừa được lấy ra</SurgeryDisableReasonOvumExtracted>
+<Fertilize>Thụ tinh</Fertilize>
+<FertilizeThing>Thụ tinh {0_label}</FertilizeThing>
+<FertilizeCannotFloatOption>Không thể thụ tinh</FertilizeCannotFloatOption>
+<FertilizeGizmoDescription>Chọn một nam giới để thụ tinh cho trứng này và tạo ra một phôi. Sau đó, phôi này có thể được cấy ghép vào cơ thể mẹ hoặc bắt đầu phát triển trong một buồng nuôi dưỡng. Cha mẹ sinh học của đứa trẻ sẽ là người phụ nữ cung cấp trứng và người đàn ông làm cho nó được thụ tinh.</FertilizeGizmoDescription>
+<FertilizeCancel>Hủy thụ tinh bởi {0}</FertilizeCancel>
+<CannotSterile>Không sinh sản</CannotSterile>
+<CannotPregnant>Không thể mang thai</CannotPregnant>
+<CannotMustBeAge>Phải {0}</CannotMustBeAge>
+<CannotImplantingOtherEmbryo>Đã cấy ghép phôi khác</CannotImplantingOtherEmbryo>
+<DisabledOption>{0} ({1})</DisabledOption>
+<FertilizeDisabledNoMales>Không có nam giới để thụ tinh cho trứng này.</FertilizeDisabledNoMales>
+<ImplantLabel>Cấy ghép phôi</ImplantLabel>
+<ImplantDescription>Cấy ghép phôi này vào cơ thể người mẹ thay thế, bắt đầu quá trình mang thai.</ImplantDescription>
+<InsertGrowthVatLabel>Đặt vào buồng nuôi dưỡng.</InsertGrowthVatLabel>
+<ImplantCannotFloatOption>Không thể cấy ghép</ImplantCannotFloatOption>
+<ImplantDisabledNoWomen>Không có nữ giới nào có thể làm mẹ thay thế.</ImplantDisabledNoWomen>
+<ImplantDisabledNoVats>Không có buồng nuôi dưỡng nào có sẵn.</ImplantDisabledNoVats>
+<ImplantSurgeryLabel>Cấy ghép {0}</ImplantSurgeryLabel>
+<ImplantSurgeryConfirm>Khả năng thành công khi cấy ghép {0} vào {1} là {2}.\n\nKhả năng thành công của cấy ghép phụ thuộc vào khả năng sinh sản của người mẹ. Nếu mẹ quá già hoặc quá trẻ, khả năng sẽ giảm.</ImplantSurgeryConfirm>
+<ImplantEmbryoCancelVat>Bây giờ sẽ đẩy {0} ra khỏi buồng nuôi dưỡng, sẽ bị phá hủy trước khi đứa trẻ hình thành.\n\nBạn có muốn tiếp tục không?</ImplantEmbryoCancelVat>
+<ImplantFailedMessage>Cấy ghép {0} vào {1} thất bại.</ImplantFailedMessage>
+<ImplantEmbryoCancel>Hủy cấy ghép phôi</ImplantEmbryoCancel>
+<EmbryoEjectedFromGrowthVat>{0} đã bị đẩy ra khỏi buồng nuôi dưỡng và bị phá hủy.</EmbryoEjectedFromGrowthVat>
+<EmbryoEjectedFromGrowthVatBiostarvation>{0} đã bị phá hủy trong buồng nuôi dưỡng do đói sinh lý.</EmbryoEjectedFromGrowthVatBiostarvation>
+<IvfPregnancyLetterText>{0} đã thành công trong việc mang thai nhờ cấy ghép phôi!</IvfPregnancyLetterText>
+<IvfPregnancyLetterParents>Đứa trẻ sẽ có thành phần gen từ {0} và {1}.</IvfPregnancyLetterParents>
+<ProjectileInterceptorTip>Một lá chắn góc thấp. Lá chắn sẽ chặn các vật thể bay hoặc mảnh vỡ, nhưng sẽ cạn kiệt năng lượng ngay lập tức sau khi bị tấn công bằng EMP.</ProjectileInterceptorTip>
+<RemoteMechShieldTip>Một lá chắn được phóng từ xa bởi kỹ sư máy móc. Lá chắn sẽ chặn các vật thể bay hoặc mảnh vỡ, nhưng không thể chặn các cuộc tấn công cận chiến, nhiệt độ cao và lửa, sẽ cạn kiệt năng lượng ngay lập tức sau khi bị tấn công bằng EMP.</RemoteMechShieldTip>
+<MyChildIsHappy>Con tôi đang vui vẻ</MyChildIsHappy>
+<MyChildIsSad>Con tôi đang buồn</MyChildIsSad>
+<GeneticChemicalDependency_Label>Phụ thuộc gen {CHEMICAL_label}</GeneticChemicalDependency_Label>
+<GeneticChemicalDependency_Desc>Do nhu cầu gen, tôi cần {CHEMICAL_label}. Nhưng tôi đã không tiêu thụ trong một thời gian dài.</GeneticChemicalDependency_Desc>
+<!-- <LearningDesireTooltip_CurrentDesire>Khát vọng học hỏi hiện tại của {0_nameDef}:</LearningDesireTooltip_CurrentDesire> -->
+</LanguageData>

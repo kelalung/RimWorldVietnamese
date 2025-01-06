@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Gun_ChargeBlasterTurret.label>Tháp pháo điện tích</Gun_ChargeBlasterTurret.label>
+	<Gun_ChargeBlasterTurret.description>Một khẩu pháo điện tích nhỏ được lắp đặt trên tháp pháo phòng thủ.</Gun_ChargeBlasterTurret.description>
+	<Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>Tháp pháo điện tích</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
+	<Mech_Apocriton.label>Oán hận độc trùng</Mech_Apocriton.label>
+	<Mech_Apocriton.description>Một cơ giới chỉ huy siêu nặng được thiết kế để phối hợp và thúc đẩy các cơ giới khác trong cuộc chiến diệt chủng kéo dài. Khả năng độc đáo nhất của nó là có thể hồi sinh các cơ giới vừa chết bằng cách quá tải hệ thống tự sửa chữa của chúng, khiến chúng sống lại với một phần thương tích. Ngoài ra, nó còn có một khả năng khó bị phát hiện khác: nó có trí thông minh và nguồn lực tâm linh, có thể phát tán oán hận vào tất cả các mục tiêu trong một phạm vi nhất định. Nó cũng có thể sử dụng bộ phận nhảy tích hợp để di chuyển nhanh chóng.\n\nMặc dù tất cả các cơ giới đều có nguồn lực tâm linh yếu và ý thức tự động, nhưng Oán hận độc trùng là một trong số ít có thể thực sự cảm nhận oán hận đối với kẻ thù và tận hưởng việc giết chóc.</Mech_Apocriton.description>
+	<Mech_Apocriton.tools.head.label>Đầu</Mech_Apocriton.tools.head.label>
+	<Mech_Centurion.label>Người chỉ huy cơ giới</Mech_Centurion.label>
+	<Mech_Centurion.description>Một cơ giới siêu nặng được trang bị bộ phát khiên tích hợp. Người chỉ huy cơ giới mang theo một tháp pháo hình cầu, có thể bắn khi đang di chuyển.</Mech_Centurion.description>
+	<Mech_Centurion.tools.head.label>Đầu</Mech_Centurion.tools.head.label>
+	<Mech_Diabolus.label>Quỷ dữ địa ngục</Mech_Diabolus.label>
+	<Mech_Diabolus.description>Một cơ giới chỉ huy siêu nặng, được trang bị một khẩu pháo lửa địa ngục. Nó được thiết kế đặc biệt để công phá thành phố, khẩu pháo lửa địa ngục sẽ mất vài giây để nạp năng lượng trước khi giải phóng một cú đánh hủy diệt có thể làm tan chảy thép và khí hóa cơ thể người. Năng lượng dư thừa từ việc bắn khẩu pháo sẽ được phát tán qua bộ tản nhiệt trên lưng Quỷ dữ địa ngục, có thể đốt cháy các vật thể xung quanh.\n\nCơ giới này có tên từ một bài thơ thánh mà một tu sĩ của giáo hội bản lề đã viết từ hàng ngàn năm trước, mô tả một con quỷ sắc bén, toàn thân bọc lửa, đè nát vô số xác chết dưới móng vuốt khổng lồ của nó. Ít người sống sót sau khi đối đầu với nó cho rằng mô tả này vẫn còn hơi nhẹ nhàng.</Mech_Diabolus.description>
+	<Mech_Diabolus.tools.head.label>Đầu</Mech_Diabolus.tools.head.label>
+	<Mech_Warqueen.label>Nữ hoàng chiến tranh</Mech_Warqueen.label>
+	<Mech_Warqueen.description>Một cơ giới chỉ huy siêu nặng, tự trang bị thiết bị sản xuất cơ giới. Chỉ cần hấp thụ đủ tài nguyên, Nữ hoàng chiến tranh có thể liên tục sản xuất các đơn vị chiến tranh để đưa vào chiến trường.\n\nNữ hoàng chiến tranh trông giống như một con côn trùng khổng lồ hơn so với các cơ giới khác. Tất cả các cơ giới chiến đấu đều có vẻ đáng sợ theo cách riêng của chúng, nhưng ngoại hình của Nữ hoàng chiến tranh có thể nói là đáng sợ một cách đặc biệt, nổi bật hơn hẳn.</Mech_Warqueen.description>
+	<Mech_Warqueen.tools.head.label>Đầu</Mech_Warqueen.tools.head.label>
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BandNode.label>Nút tần số</BandNode.label>
+<BandNode.description>Một bộ khuếch đại tín hiệu dùng cho giao tiếp cơ giới. Nút tần số phải được điều chỉnh đến một kỹ sư cụ thể. Điều này sẽ tăng cường giới hạn băng thông của kỹ sư được điều chỉnh lên 1, cho phép họ điều khiển nhiều cơ giới hơn.\n\nNút tần số có thể được điều chỉnh nhanh chóng đến một kỹ sư sau khi hoàn thành xây dựng. Tuy nhiên, việc điều chỉnh lại nút tần số đến một kỹ sư khác sẽ mất nhiều thời gian hơn.</BandNode.description>
+<BurnoutMechlinkBooster.label>Ăng-ten tần số vô tuyến</BurnoutMechlinkBooster.label>
+<BurnoutMechlinkBooster.description>Một thiết bị giao tiếp tần số cơ giới. Khi được kích hoạt, nó sẽ phát ra một xung tín hiệu mạnh mẽ, thu hút một cơ giới địch siêu nặng cùng đội bảo vệ của nó tấn công. Nếu bạn có thể đánh bại nó, bạn sẽ thu thập được các thiết bị công nghệ đặc biệt từ xác của nó. Xung tín hiệu sẽ thiêu rụi bộ phát tín hiệu, vì vậy thiết bị này chỉ có thể sử dụng một lần.</BurnoutMechlinkBooster.description>
+<BurnoutMechlinkBooster.comps.CompUsable.useLabel>Gọi nữ hoàng chiến tranh</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+<GeneAssembler.label>Bộ lắp ráp gen</GeneAssembler.label>
+<GeneAssembler.description>Một bàn làm việc có khả năng trộn các bộ gen lưu trữ trong kho gen liên kết và sử dụng chúng để tạo ra phôi giống có thể cấy ghép. Các bộ gen trong quá trình này sẽ không bị tiêu hao và có thể sử dụng lại.</GeneAssembler.description>
+<GeneBank.label>Kho gen</GeneBank.label>
+<GeneBank.description>Thiết bị này có thể lưu trữ các bộ gen, và khi được đặt gần bộ lắp ráp gen, sẽ sử dụng chúng để tạo ra phôi giống mới. Một kho gen lớn thường cần nhiều kho gen.\n\nKho gen được cấp điện bình thường có thể ngăn chặn sự suy giảm của các bộ gen và từ từ phục hồi sự suy giảm này.</GeneBank.description>
+<GeneExtractor.label>Bộ chiết xuất gen</GeneExtractor.label>
+<GeneExtractor.description>Một thiết bị có thể chiết xuất gen người và tạo ra các bộ gen. Các gen được chiết xuất sẽ được chọn ngẫu nhiên từ gen ngoại lai và gen dòng dõi. Bạn có thể buộc ai đó vào máy này, nhưng họ sẽ không thích hành động đó.\n\nViệc chiết xuất gen trong khi một người đang tái cấu trúc gen có thể gây tử vong cho họ. Ngoài ra, việc chiết xuất gen bình thường sẽ không gây tổn thương vĩnh viễn.\n\nCác gen được tạo ra từ viên nang siêu phàm quá phức tạp nên không thể bị chiết xuất.</GeneExtractor.description>
+<GeneProcessor.label>Bộ xử lý gen</GeneProcessor.label>
+<GeneProcessor.description>Một thiết bị dùng để phân tích và xử lý thông tin gen. Đặt nó gần bộ lắp ráp gen có thể tăng giới hạn độ phức tạp của phôi giống có thể lắp ráp. Xây dựng nhiều bộ xử lý gen có thể nâng cao thêm giới hạn độ phức tạp của phôi giống.</GeneProcessor.description>
+<GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>Tăng cường độ phức tạp gen</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+<GrowthVat.label>Buồng phát triển</GrowthVat.label>
+<GrowthVat.description>Một buồng chứa đầy dung dịch dinh dưỡng, có khả năng nuôi dưỡng phôi hoặc tăng tốc độ phát triển của trẻ em.\n\nTrong quá trình tăng tốc hoặc nuôi dưỡng, buồng phải liên tục được cung cấp dinh dưỡng để đáp ứng nhu cầu phát triển. Lượng dinh dưỡng tiêu thụ cho việc nuôi dưỡng phôi gấp đôi so với việc tăng tốc phát triển trẻ em.\n\nPhôi nuôi dưỡng cần 9 ngày để phát triển thành trẻ sơ sinh. Và có thể đi kèm với các biến chứng.\n\nTrẻ em chỉ có thể được buồng phát triển tăng tốc đến 18 tuổi. Khi tăng tốc phát triển, cấp độ kỹ năng của trẻ em sẽ từ từ nâng cao. So với những trẻ em phát triển tự nhiên, trẻ em lớn lên trong buồng phát triển có cấp độ kỹ năng thấp hơn và ít hứng thú hơn.\n\nThiết bị này sử dụng tiêm hóa chất, kích thích điện và liệu pháp nano cơ bản để thúc đẩy sự phát triển cơ thể. Buồng phát triển thường được sử dụng để sản xuất nhanh chóng những công nhân hoặc lính chiến đã được biến đổi gen.</GrowthVat.description>
+<MechbandDish.label>Ăng-ten đĩa</MechbandDish.label>
+<MechbandDish.description>Một thiết bị giao tiếp tần số cơ giới mạnh mẽ hơn so với ăng-ten vô tuyến thông thường. Khi được kích hoạt, nó sẽ phát ra một xung tần số cực mạnh, thu hút một cơ giới chỉ huy cùng đội bảo vệ của nó tấn công. Nếu bạn có thể đánh bại nó, bạn sẽ thu thập được các thiết bị công nghệ đặc biệt từ xác của nó. Xung tín hiệu sẽ thiêu rụi đĩa ăng-ten, vì vậy thiết bị này chỉ có thể sử dụng một lần.</MechbandDish.description>
+<MechbandDish.comps.CompUsable.useLabel>Gọi côn trùng độc ác</MechbandDish.comps.CompUsable.useLabel>
+<MechBooster.label>Bộ tăng cường cơ giới</MechBooster.label>
+<MechBooster.description>Một thiết bị cung cấp năng lượng từ xa và phân phối tính toán. Tất cả các cơ giới đồng minh trong phạm vi ảnh hưởng của nó sẽ nhận được sự tăng cường tốc độ di chuyển và hiệu suất làm việc.</MechBooster.description>
+<PollutionPump.label>Bơm làm sạch ô nhiễm</PollutionPump.label>
+<PollutionPump.description>Một bơm lọc nước ngầm có khả năng từ từ làm sạch các khu vực ô nhiễm. Các chất ô nhiễm được trích xuất sẽ được đóng gói thành rác thải độc hại cần được lưu trữ đúng cách.</PollutionPump.description>
+<SanguphageMeetingTorch.label>Đuốc ánh sáng máu</SanguphageMeetingTorch.label>
+<SanguphageMeetingTorch.description>Đuốc gỗ đặc biệt chiếu sáng một khu vực màu đỏ máu. Những người thuộc dòng máu thích tụ tập quanh đuốc này khi tổ chức các cuộc họp. Ánh sáng đỏ máu khiến những người có gen "hút máu" cảm thấy dễ chịu và thoải mái. Cần thêm gỗ làm nhiên liệu. Tạo ra một lượng nhiệt nhỏ.</SanguphageMeetingTorch.description>
+<ShuttleCrashed_Exitable.label>Phi thuyền rơi</ShuttleCrashed_Exitable.label>
+<ShuttleCrashed_Exitable.description>Một phi thuyền thời không dùng để di chuyển giữa bề mặt và quỹ đạo hoặc vệ tinh.</ShuttleCrashed_Exitable.description>
+<ShuttleCrashed_Exitable_Mechanitor.label>Phi thuyền của kỹ sư bị rơi</ShuttleCrashed_Exitable_Mechanitor.label>
+<ShuttleCrashed_Exitable_Mechanitor.description>Một phi thuyền từng thuộc về một kỹ sư, dùng để vận chuyển cơ giới đến quỹ đạo gần hoặc thực hiện chuyến đi giữa các hành tinh.</ShuttleCrashed_Exitable_Mechanitor.description>
+<ToxifierGenerator.label>Máy phát thải</ToxifierGenerator.label>
+<ToxifierGenerator.description>Một máy phát điện gây ô nhiễm rất chậm cho các ô đất xung quanh trong khi phát điện. Nếu tất cả các ô trong phạm vi đã bị ô nhiễm, máy phát điện này sẽ ngừng hoạt động.</ToxifierGenerator.description>
+<TrapIED_ToxGas.label>Bẫy khí độc đơn giản</TrapIED_ToxGas.label>
+<TrapIED_ToxGas.description>Một bẫy được tạo thành từ một quả đạn khí độc và cơ chế kích hoạt tự chế. Khi cơ chế được kích hoạt bởi sinh vật hoặc bị đạn bắn trúng, bẫy sẽ phát nổ và giải phóng một lượng lớn khí độc ra xung quanh. Do nó được ẩn trong địa hình xung quanh, nên không thể đặt cạnh các bẫy khác. Động vật có thể cảm nhận bẫy trong trạng thái không hung hãn.</TrapIED_ToxGas.description>
+<WastepackAtomizer.label>Bộ phân giải rác thải</WastepackAtomizer.label>
+<WastepackAtomizer.description>Một thiết bị công nghệ sáng tạo có khả năng phân giải rác thải độc hại ở cấp độ phân tử và biến chúng thành khí trơ để thải ra. Trong quá trình hoạt động, nó cần tiêu tốn một lượng điện năng đáng kể.</WastepackAtomizer.description>
+</LanguageData>

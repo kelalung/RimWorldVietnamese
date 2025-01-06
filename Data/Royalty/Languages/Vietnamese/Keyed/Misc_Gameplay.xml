@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ThroneMaxSatisfiedTitle>Danh hiệu phù hợp</ThroneMaxSatisfiedTitle>
+<ThroneRoomImpressivenessInfo>({0} ấn tượng)</ThroneRoomImpressivenessInfo>
+<ThroneMustBePlacedInside>Ngai vàng phải được đặt trong nhà.</ThroneMustBePlacedInside>
+<MinimumRoyalTitleInspectString>Danh hiệu tối thiểu ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+<RequiresTradePermission>Giao dịch ở đây cần danh hiệu: {0}</RequiresTradePermission>
+<RequirementPersonalBedroom>Phòng ngủ riêng (cho phép bạn đời)</RequirementPersonalBedroom>
+<PsycastNeurotrainerLabel>Máy huấn luyện tâm linh ({0})</PsycastNeurotrainerLabel>
+<PsycastNeurotrainerUseLabel>Sử dụng máy huấn luyện tâm linh để học khả năng tâm linh {0}</PsycastNeurotrainerUseLabel>
+<PsycastNeurotrainerDescription>Chất lỏng siêu liều dùng một lần có thể huấn luyện khả năng tâm linh cụ thể.\n\nChất lỏng này được đưa vào qua hốc mắt. Khi vào não, các phân tử này hình thành kiến thức về một khả năng tâm linh cụ thể và cố định nó thành mô thần kinh khi cần thiết.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+<AbilityNeurotrainerUsed>{USER_labelShort} đã sử dụng máy huấn luyện thần kinh để học khả năng tâm linh {1}.</AbilityNeurotrainerUsed>
+<PsycastNeurotrainerNoPsylink>Cần có liên kết tâm linh</PsycastNeurotrainerNoPsylink>
+<PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} đã biết {1}</PsycastNeurotrainerAbilityAlreadyLearned>
+<Reward_RoyalFavor>Tất cả những người nhận nhiệm vụ sẽ nhận được {1}{0_royalFavorLabel} từ {0_name}.</Reward_RoyalFavor>
+<Reward_RoyalFavor_ChoosePawn>Bạn có thể chọn một trong những {2} tham gia để nhận {1}{0_royalFavorLabel} từ {0_name}.</Reward_RoyalFavor_ChoosePawn>
+<NotUsable>Không thể sử dụng</NotUsable>
+<Unpowered>Không có điện</Unpowered>
+<TooCloseToOtherBeacon>Quá gần với tín hiệu khác</TooCloseToOtherBeacon>
+<Psyfocus>Sức mạnh tinh thần</Psyfocus>
+<PsyfocusLabelGizmo>Sức mạnh tinh thần</PsyfocusLabelGizmo>
+<PsyfocusDesc>Sức mạnh tinh thần là cấu trúc tinh thần cần thiết để giải phóng khả năng tâm linh. Sức mạnh tinh thần sẽ giảm theo thời gian và có thể được phục hồi bằng cách thiền định thường xuyên. Nếu mất tất cả sức mạnh tinh thần, bạn sẽ không thể sử dụng khả năng tâm linh.\n\nMức sức mạnh tinh thần cao hơn có thể sử dụng khả năng tâm linh mạnh mẽ hơn, nhưng cũng sẽ làm giảm sức mạnh tinh thần nhanh hơn.</PsyfocusDesc>
+<PsyfocusLevelInfoRange>{0} - {1}%</PsyfocusLevelInfoRange>
+<PsyfocusLevelInfoPsycasts>Đạt được cấp độ tâm linh {0}.</PsyfocusLevelInfoPsycasts>
+<PsyfocusLevelInfoFallRate>Sức mạnh tinh thần giảm {0} mỗi ngày.</PsyfocusLevelInfoFallRate>
+<UserMeditationFocusStrength>Sức mạnh tập trung thiền (của {LASTUSER_labelShort})</UserMeditationFocusStrength>
+<MeditationFocusImpacted>Hiệu ứng tập trung bị ảnh hưởng</MeditationFocusImpacted>
+<MeditationFocusPerAnimusStoneAbstract>Mỗi viên đá pháp gần đó {1} (tối đa {0})</MeditationFocusPerAnimusStoneAbstract>
+<MeditationFocusPerAnimusStone>{2} mỗi viên đá pháp gần đó ( {0}/{1} )</MeditationFocusPerAnimusStone>
+<MeditationFocusPerAnimusStoneAndShrineAbstract>Mỗi viên đá pháp gần đó {2} và thánh địa tự nhiên {1} (tối đa {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+<MeditationFocusPerAnimusStoneAndShrine>Mỗi viên đá pháp gần đó {3} và thánh địa tự nhiên {2} ( {0} / {1} )</MeditationFocusPerAnimusStoneAndShrine>
+<MeditationFocusPerSculptureAbstract>Tối đa {1} mỗi bức tượng gần đó, bao gồm yếu tố chất lượng (tối đa {0})</MeditationFocusPerSculptureAbstract>
+<MeditationFocusPerSculpture>Tối đa {2} mỗi bức tượng gần đó, bao gồm yếu tố chất lượng ( {0}/{1} )</MeditationFocusPerSculpture>
+<MeditationFocusPerGraveAbstract>Mỗi ngôi mộ gần đó, {1} trống, {2} chứa xác người (tối đa {0})</MeditationFocusPerGraveAbstract>
+<MeditationFocusPerGrave>Mỗi ngôi mộ gần đó, {2} trống, {3} chứa xác người ( {0}/{1} )</MeditationFocusPerGrave>
+<MeditationFocusPerFlameAbstract>Mỗi nguồn lửa đang cháy gần đó {1} (tối đa {0})</MeditationFocusPerFlameAbstract>
+<MeditationFocusPerFlame>{2} mỗi nguồn lửa đang cháy gần đó ( {0}/{1} )</MeditationFocusPerFlame>
+<PsyfocusPerDayOfMeditation>Tốc độ tăng sức mạnh tinh thần: {0}/ngày</PsyfocusPerDayOfMeditation>
+<DesiredPsyfocus>Ngưỡng sức mạnh tinh thần</DesiredPsyfocus>
+<DesiredPsyfocusDesc>Nhấp để thiết lập ngưỡng sức mạnh tinh thần mong muốn.</DesiredPsyfocusDesc>
+<AbilitySpeechDisabledNoThroneAssigned>Chưa chỉ định ngai vàng.</AbilitySpeechDisabledNoThroneAssigned>
+<AbilitySpeechDisabledNoThroneIsNotAccessible>Ngai vàng không thể tiếp cận.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+<AbilitySpeechDisabledNoThroneUndignified>Ngai vàng không thể sử dụng vì không đủ trang trọng.</AbilitySpeechDisabledNoThroneUndignified>
+<AbilitySpeechDisabledAlreadyGivingSpeech>Đang tiến hành một bài phát biểu.</AbilitySpeechDisabledAlreadyGivingSpeech>
+<AbilitySpeechPossibleOutcomes>Các kết quả có thể xảy ra</AbilitySpeechPossibleOutcomes>
+<AbilitySpeechStatInfo>Trạng thái của {ORGANIZER_labelShort} về {1}</AbilitySpeechStatInfo>
+<AbilitySpeechTargetDescThrone>Ngai vàng trang trọng</AbilitySpeechTargetDescThrone>
+<RitualDisabledNoAltar>Không có bàn thờ nào có thể sử dụng.</RitualDisabledNoAltar>
+<RitualBestowingCeremony>Nghi lễ trao giải</RitualBestowingCeremony>
+<TotalMeditationToday>Tổng số thiền hôm nay: {0} (hệ số tiến độ {1})</TotalMeditationToday>
+<ProgressToNextSubplant>Tiến độ {0}</ProgressToNextSubplant>
+<BeginLinkingRitualFloatMenu>Bắt đầu nghi lễ liên kết</BeginLinkingRitualFloatMenu>
+<BeginLinkingRitualNeedSubplants>Cần {0} {1} gần đó (có {2})</BeginLinkingRitualNeedSubplants>
+<BeginLinkingRitualNeedFocus>Cần loại tâm linh “{0}”</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>Cấp độ tâm linh tối đa</BeginLinkingRitualMaxPsylinkLevel>
+<BeginLinkingRitualNeedLinkSpot>Cần có một địa điểm khả dụng trong vòng 3 ô để thực hiện nghi lễ cộng hưởng</BeginLinkingRitualNeedLinkSpot>
+<LetterLabelLinkingRitualCompleted>Nghi lễ cộng hưởng đã hoàn thành</LetterLabelLinkingRitualCompleted>
+<LetterTextLinkingRitualCompleted>{PAWN_labelShort} đã hoàn thành nghi lễ cộng hưởng với {LINKABLE_labelShort}.\n\n{PAWN_pronoun} hiện đã nhận được một cấp độ tâm linh mới, có thể sử dụng khả năng tâm linh mới.</LetterTextLinkingRitualCompleted>
+<LetterTextLinkingRitualCompletedAnimaGrass>Hơn nữa, {0}x cỏ linh đã được phục hồi.</LetterTextLinkingRitualCompletedAnimaGrass>
+<LandHere>Máy bay vũ trụ hạ cánh tại đây</LandHere>
+<MessageShuttleDestinationIsTooFar>Đích đến quá xa.</MessageShuttleDestinationIsTooFar>
+<BeginCeremony>Bắt đầu nghi lễ trao giải cho {0_labelShort}</BeginCeremony>
+<BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Phòng tiếp kiến của {PAWN_definite} không đáp ứng yêu cầu cho danh hiệu {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+<BestowingCeremonyThroneroomRequirementsNotSatisfied>Người trao giải tức giận vì phòng tiếp kiến của {PAWN_definite} không đáp ứng yêu cầu cho danh hiệu {TITLE}, vì vậy nghi lễ trao giải đã bị hủy bỏ.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+<BestowingCeremonyLabel>Nghi lễ trao giải</BestowingCeremonyLabel>
+<BestowingOutcomeQualitySpecific>Các yếu tố này xác định chất lượng tổng thể của nghi lễ trao giải là {0}</BestowingOutcomeQualitySpecific>
+<RitualTargetAnimaTreeNoPawnsToLink>Thiếu thuộc địa có thể cộng hưởng với cây thần.</RitualTargetAnimaTreeNoPawnsToLink>
+<RitualTargetAnimaTreeNoPawnsWithNatureFocus>Thiếu thuộc địa có loại tâm linh là “tự nhiên”.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+<RitualTargetAnimaTreeNotEnoughAnimaGrass>Cần ít nhất {0}x cỏ linh.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+<RitualTargetAnimaTreeInfo>Một cây thần.</RitualTargetAnimaTreeInfo>
+<RitualTargetAnimaTreeMustBeCapableOfNature>Phải là một thuộc địa có cấp độ tâm linh dưới mức tối đa và có tâm linh tự nhiên.</RitualTargetAnimaTreeMustBeCapableOfNature>
+<RitualTargetAnimaTreeMustBePsychicallySensitive>Không được là người bị điếc tâm linh.</RitualTargetAnimaTreeMustBePsychicallySensitive>
+<AnimaLinkingExplanationBase>Tham gia càng nhiều, nghi lễ cộng hưởng với cây thần càng hiệu quả. Số lượng người tham gia càng nhiều, thời gian cần thiết cho nghi lễ càng ngắn, và số lượng cỏ linh phục hồi càng nhiều.\n\nVới {0} người tham gia thêm, sẽ phục hồi {1} cây cỏ linh khi nghi lễ kết thúc.</AnimaLinkingExplanationBase>
+<ShuttleRequiredItemsNotSatisfied>Các vật phẩm cần thiết chưa được tải đầy đủ!</ShuttleRequiredItemsNotSatisfied>
+<CannotLoadIntoShuttle>Không thể tải {0_labelShort} vào máy bay vũ trụ</CannotLoadIntoShuttle>
+<AbilityNoEntropyToDump>Không có entropy tâm linh.</AbilityNoEntropyToDump>
+<LevelNum>Cấp độ {0}</LevelNum>
+</LanguageData>

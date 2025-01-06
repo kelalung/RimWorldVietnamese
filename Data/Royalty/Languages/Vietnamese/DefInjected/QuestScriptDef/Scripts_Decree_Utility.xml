@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DecreeSetup.questDescriptionRules.rulesStrings>
+    <li>decreeIntro-&gt;Nguyên thủy của bạn [asker_bestRoyalTitle]，[asker_nameDef] đã ban hành một sắc lệnh hoàng gia.</li>
+    <li>decreeThreatInfo-&gt;Nếu bạn không thể đáp ứng sắc lệnh này trong [decreeDays] ngày, [asker_nameDef] sẽ không hài lòng. Trừ khi bạn đáp ứng sắc lệnh này, cơn giận của [asker_possessive] sẽ không ngừng tăng lên.</li>
+</DecreeSetup.questDescriptionRules.rulesStrings>
+<DecreeSetup.LetterLabelDecreeForgotten.slateRef>Sắc lệnh của [asker_nameDef] đã bị lãng quên</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+<DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef] đã quên sắc lệnh của [asker_possessive].</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+<DecreeSetup.LetterLabelDecreeCancelled.slateRef>Sắc lệnh đã bị hủy bỏ</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+<DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef] miễn cưỡng hủy bỏ sắc lệnh '[resolvedQuestName]' mà không thể hoàn thành.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CounselFailed.stages.failed_consolation_by.label>Thất bại trong việc an ủi {0}</CounselFailed.stages.failed_consolation_by.label>
+<CounselFailed.stages.failed_consolation_by.description>Không hiểu sao, nỗ lực giúp đỡ này lại làm mọi thứ trở nên tồi tệ hơn.</CounselFailed.stages.failed_consolation_by.description>
+<Counselled.stages.counselled_by.label>Bị {0} an ủi</Counselled.stages.counselled_by.label>
+<Counselled.stages.counselled_by.description>Tôi đã nhận được sự an ủi tâm lý cho vấn đề mà tôi luôn bị ám ảnh.</Counselled.stages.counselled_by.description>
+<Counselled_MoodBoost.stages.counselled_by.label>Bị {0} an ủi</Counselled_MoodBoost.stages.counselled_by.label>
+<Counselled_MoodBoost.stages.counselled_by.description>Tôi đã nhận được sự an ủi tâm lý từ ai đó. Thật tuyệt khi có ai đó sẵn sàng lắng nghe tôi.</Counselled_MoodBoost.stages.counselled_by.description>
+<FailedConvertAbilityInitiator.stages.failed_to_convert.label>Thay đổi {0} thất bại</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+<FailedConvertAbilityInitiator.stages.failed_to_convert.description>Tôi đã cố gắng thay đổi niềm tin của ai đó, nhưng thất bại, có chút ngại ngùng.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+<FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0} cố gắng thay đổi tôi</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+<FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>Có ai đó cố gắng thay đổi tôi. Tôi hy vọng họ đừng làm phiền tôi.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+<TendedByMedicalSpecialist.stages.tended_by.label>Bị {0} chăm sóc</TendedByMedicalSpecialist.stages.tended_by.label>
+<TendedByMedicalSpecialist.stages.tended_by.description>Tôi đã nhận được sự hỗ trợ y tế từ một người có vị trí y tế đặc biệt, người có cùng niềm tin với tôi.</TendedByMedicalSpecialist.stages.tended_by.description>
+<WillDiminished.stages.will_diminished.label>Ý chí bị giảm sút</WillDiminished.stages.will_diminished.label>
+</LanguageData>

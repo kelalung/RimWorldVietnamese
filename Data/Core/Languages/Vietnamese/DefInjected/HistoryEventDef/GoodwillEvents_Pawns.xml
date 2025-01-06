@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttackedMember.label>Thành viên bị tấn công</AttackedMember.label>
+	<FriendlyExitedMapTended.label>Chăm sóc thành viên</FriendlyExitedMapTended.label>
+	<GuiltyPrisonerDied.label>Tù nhân có tội đã chết</GuiltyPrisonerDied.label>
+	<InnocentPrisonerDied.label>Tù nhân vô tội đã chết</InnocentPrisonerDied.label>
+	<MemberCaptured.label>Thành viên bị bắt</MemberCaptured.label>
+	<MemberCrushed.label>Thành viên bị nghiền nát</MemberCrushed.label>
+	<MemberExitedMapHealthy.label>Thành viên rời khỏi bản đồ trong tình trạng khỏe mạnh</MemberExitedMapHealthy.label>
+	<MemberKilled.label>Thành viên đã chết</MemberKilled.label>
+	<MemberNeutrallyDied.label>Thành viên đã chết một cách trung lập</MemberNeutrallyDied.label>
+	<MemberSold.label>Thành viên đã bị bán</MemberSold.label>
+	<MemberStripped.label>Thành viên đã bị lột sạch</MemberStripped.label>
+	<PerformedHarmfulSurgery.label>Thành viên đã trải qua phẫu thuật có hại</PerformedHarmfulSurgery.label>
+	<PrisonerDied.label>Tù nhân đã chết</PrisonerDied.label>
+	<UsedHarmfulItem.label>Thành viên bị tổn hại</UsedHarmfulItem.label>
+	<XenogermAbsorbed.label>Phôi ngoại lai của thành viên đã được hấp thụ</XenogermAbsorbed.label>
+</LanguageData>

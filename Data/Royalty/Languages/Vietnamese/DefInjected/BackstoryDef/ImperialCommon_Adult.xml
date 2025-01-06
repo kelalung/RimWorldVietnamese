@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Assembler69.description>[PAWN_nameDef] làm việc trên dây chuyền sản xuất, lắp ráp các bộ phận sản phẩm với sự trợ giúp của robot.</Assembler69.description>
+<Assembler69.baseDesc>[PAWN_nameDef] làm việc trên dây chuyền sản xuất, lắp ráp các bộ phận sản phẩm với sự trợ giúp của robot.</Assembler69.baseDesc>
+<Assembler69.title>Công Nhân Lắp Ráp</Assembler69.title>
+<Assembler69.titleShort>Công Nhân</Assembler69.titleShort>
+<BalletDancer81.description>[PAWN_nameDef] là một diễn viên trong đoàn ba lê truyền thống. [PAWN_pronoun] thành thạo trong điệu múa truyền thống và đã mang lại niềm vui cho hàng ngàn người.</BalletDancer81.description>
+<BalletDancer81.baseDesc>[PAWN_nameDef] là một diễn viên trong đoàn ba lê truyền thống. [PAWN_pronoun] thành thạo trong điệu múa truyền thống và đã mang lại niềm vui cho hàng ngàn người.</BalletDancer81.baseDesc>
+<BalletDancer81.title>Nhà Múa Ba Lê</BalletDancer81.title>
+<BalletDancer81.titleShort>Nhà Múa</BalletDancer81.titleShort>
+<BalletDancer81.titleShortFemale>Diễn Viên Ba Lê</BalletDancer81.titleShortFemale>
+<Builder96.description>[PAWN_nameDef] làm việc trên công trường xây dựng, xây dựng mọi công trình mà [PAWN_possessive] ông chủ yêu cầu.</Builder96.description>
+<Builder96.baseDesc>[PAWN_nameDef] làm việc trên công trường xây dựng, xây dựng mọi công trình mà [PAWN_possessive] ông chủ yêu cầu.</Builder96.baseDesc>
+<Builder96.title>Công Nhân Xây Dựng</Builder96.title>
+<Builder96.titleShort>Công Nhân</Builder96.titleShort>
+<ChurchPsychic98.description>[PAWN_nameDef] làm việc tại Tòa Án Đế Quốc.\n\n[PAWN_nameDef] cảm nhận suy nghĩ và cảm xúc của mọi người xung quanh bằng cách rèn luyện sức mạnh tâm linh của mình, để loại bỏ dị giáo cho Hoàng Đế.</ChurchPsychic98.description>
+<ChurchPsychic98.baseDesc>[PAWN_nameDef] làm việc tại Tòa Án Đế Quốc.\n\n[PAWN_nameDef] cảm nhận suy nghĩ và cảm xúc của mọi người xung quanh bằng cách rèn luyện sức mạnh tâm linh của mình, để loại bỏ dị giáo cho Hoàng Đế.</ChurchPsychic98.baseDesc>
+<ChurchPsychic98.title>Thầy Tế Tâm Linh</ChurchPsychic98.title>
+<ChurchPsychic98.titleShort>Người Tâm Linh</ChurchPsychic98.titleShort>
+<CorporateDrone10.description>[PAWN_nameDef] sống cuộc sống 996 trong một tòa nhà văn phòng lớn như nhiều người khác.\n\nCông việc này tràn ngập những công việc lặp đi lặp lại vô tận, các cuộc họp vô nghĩa, và tất nhiên là đánh giá hiệu suất.</CorporateDrone10.description>
+<CorporateDrone10.baseDesc>[PAWN_nameDef] sống cuộc sống 996 trong một tòa nhà văn phòng lớn như nhiều người khác.\n\nCông việc này tràn ngập những công việc lặp đi lặp lại vô tận, các cuộc họp vô nghĩa, và tất nhiên là đánh giá hiệu suất.</CorporateDrone10.baseDesc>
+<CorporateDrone10.title>Nô Lệ Công Ty</CorporateDrone10.title>
+<CorporateDrone10.titleShort>Nô Lệ</CorporateDrone10.titleShort>
+<CorporateFixer36.description>[PAWN_nameDef] là một thợ sửa chữa trong một công ty năng lượng, điều này có nghĩa là [PAWN_pronoun] phải biết khi nào thì làm gì, công việc máy móc khiến [PAWN_nameDef] thiếu cảm thông.\n\nMặc dù không phải lúc nào cũng cần giải quyết vấn đề bằng bạo lực, nhưng [PAWN_pronoun] đã sẵn sàng.</CorporateFixer36.description>
+<CorporateFixer36.baseDesc>[PAWN_nameDef] là một thợ sửa chữa trong một công ty năng lượng, điều này có nghĩa là [PAWN_pronoun] phải biết khi nào thì làm gì, công việc máy móc khiến [PAWN_nameDef] thiếu cảm thông.\n\nMặc dù không phải lúc nào cũng cần giải quyết vấn đề bằng bạo lực, nhưng [PAWN_pronoun] đã sẵn sàng.</CorporateFixer36.baseDesc>
+<CorporateFixer36.title>Thợ Sửa Chữa Công Ty</CorporateFixer36.title>
+<CorporateFixer36.titleShort>Thợ Sửa Chữa</CorporateFixer36.titleShort>
+<HeadButler50.description>[PAWN_nameDef] từng là một tổng quản trong một triều đình.\n\n[PAWN_pronoun] quản lý các người hầu khác để đảm bảo mong muốn của người cầm quyền được thực hiện, thậm chí trước khi người đó tự hiểu điều đó.</HeadButler50.description>
+<HeadButler50.baseDesc>[PAWN_nameDef] từng là một tổng quản trong một triều đình.\n\n[PAWN_pronoun] quản lý các người hầu khác để đảm bảo mong muốn của người cầm quyền được thực hiện, thậm chí trước khi người đó tự hiểu điều đó.</HeadButler50.baseDesc>
+<HeadButler50.title>Quản Gia Chính</HeadButler50.title>
+<HeadButler50.titleShort>Quản Gia</HeadButler50.titleShort>
+<HouseServant86.description>[PAWN_nameDef] từng là một người hầu thấp kém trong một triều đình.\n\n[PAWN_pronoun] dọn dẹp phòng theo chỉ thị của cấp trên, chuyển đồ, đồng thời cố gắng không để bị lãnh chúa và tiểu thư phát hiện.</HouseServant86.description>
+<HouseServant86.baseDesc>[PAWN_nameDef] từng là một người hầu thấp kém trong một triều đình.\n\n[PAWN_pronoun] dọn dẹp phòng theo chỉ thị của cấp trên, chuyển đồ, đồng thời cố gắng không để bị lãnh chúa và tiểu thư phát hiện.</HouseServant86.baseDesc>
+<HouseServant86.title>Người Hầu Thấp Kém</HouseServant86.title>
+<HouseServant86.titleShort>Người Hầu</HouseServant86.titleShort>
+  <ImperialInquisitor53.description>[PAWN_nameDef] từng là một quan chức thẩm vấn trong bộ phận chống dị giáo của Giáo Hội Đế Quốc.\n\n[PAWN_nameDef] tìm kiếm và truy bắt dị giáo trong mọi hình thức biểu đạt, cho dù là tác phẩm nghệ thuật, mã chương trình hay cuộc trò chuyện riêng tư. Không chỉ tìm kiếm dị giáo, [PAWN_pronoun] còn mang đến sự thanh lọc cho những người theo đạo khác. [PAWN_pronoun] luôn có thể tìm thấy điểm mấu chốt, miễn là [PAWN_pronoun] đủ nghiêm túc.</ImperialInquisitor53.description>
+<ImperialInquisitor53.baseDesc>[PAWN_nameDef] từng là một quan chức thẩm vấn trong bộ phận chống dị giáo của Giáo Hội Đế Quốc.\n\n[PAWN_nameDef] tìm kiếm và truy bắt dị giáo trong mọi hình thức biểu đạt, cho dù là tác phẩm nghệ thuật, mã chương trình hay cuộc trò chuyện riêng tư. Không chỉ tìm kiếm dị giáo, [PAWN_pronoun] còn mang đến sự thanh lọc cho những người theo đạo khác. [PAWN_pronoun] luôn có thể tìm thấy điểm mấu chốt, miễn là [PAWN_pronoun] đủ nghiêm túc.</ImperialInquisitor53.baseDesc>
+<ImperialInquisitor53.title>Quan Chức Thẩm Vấn Dị Giáo</ImperialInquisitor53.title>
+<ImperialInquisitor53.titleShort>Thẩm Vấn Viên</ImperialInquisitor53.titleShort>
+<ImperialInquisitor53.titleShortFemale>Thẩm Vấn Viên</ImperialInquisitor53.titleShortFemale>
+<ImperialPriest24.description>[PAWN_nameDef] từng là một nhân viên của Giáo Hội Đế Quốc.\n\n[PAWN_pronoun] đã dành một nửa cuộc đời để nghiên cứu về hình ảnh của Chúa và mối liên hệ với xã hội mà [PAWN_possessive] đang sống. Nửa còn lại thì chiến đấu với sự lười biếng và nghiện ngập.</ImperialPriest24.description>
+<ImperialPriest24.baseDesc>[PAWN_nameDef] từng là một nhân viên của Giáo Hội Đế Quốc.\n\n[PAWN_pronoun] đã dành một nửa cuộc đời để nghiên cứu về hình ảnh của Chúa và mối liên hệ với xã hội mà [PAWN_possessive] đang sống. Nửa còn lại thì chiến đấu với sự lười biếng và nghiện ngập.</ImperialPriest24.baseDesc>
+<ImperialPriest24.title>Thầy Tế Đế Quốc</ImperialPriest24.title>
+<ImperialPriest24.titleShort>Thầy Tế</ImperialPriest24.titleShort>
+<ImperialPriest24.titleShortFemale>Nữ Tu</ImperialPriest24.titleShortFemale>
+<Mailman2.description>[PAWN_nameDef] thu thập thư từ trên tuyến đường phân phát của [PAWN_possessive]. Đôi khi [PAWN_pronoun] còn được cử đến các văn phòng công ty hoặc tòa nhà sang trọng để vận chuyển các gói hàng đặc biệt.\n\n[PAWN_nameDef] rất giỏi trong việc tránh né những con chó tức giận.</Mailman2.description>
+<Mailman2.baseDesc>[PAWN_nameDef] thu thập thư từ trên tuyến đường phân phát của [PAWN_possessive]. Đôi khi [PAWN_pronoun] còn được cử đến các văn phòng công ty hoặc tòa nhà sang trọng để vận chuyển các gói hàng đặc biệt.\n\n[PAWN_nameDef] rất giỏi trong việc tránh né những con chó tức giận.</Mailman2.baseDesc>
+<Mailman2.title>Người Giao Thư</Mailman2.title>
+<Mailman2.titleFemale>Người Giao Thư</Mailman2.titleFemale>
+<Mailman2.titleShort>Người Giao Thư</Mailman2.titleShort>
+<Mailman2.titleShortFemale>Người Giao Thư</Mailman2.titleShortFemale>
+<MenagerieKeeper1.description>[PAWN_nameDef] là quản lý của vườn thú hoàng gia.\n\nCông việc hàng ngày của [PAWN_nameDef] chủ yếu là cho voi ăn, xoa dịu sư tử, huấn luyện chim biểu diễn, v.v.</MenagerieKeeper1.description>
+<MenagerieKeeper1.baseDesc>[PAWN_nameDef] là quản lý của vườn thú hoàng gia.\n\nCông việc hàng ngày của [PAWN_nameDef] chủ yếu là cho voi ăn, xoa dịu sư tử, huấn luyện chim biểu diễn, v.v.</MenagerieKeeper1.baseDesc>
+<MenagerieKeeper1.title>Người Chăm Sóc Động Vật</MenagerieKeeper1.title>
+<MenagerieKeeper1.titleShort>Người Chăm Sóc</MenagerieKeeper1.titleShort>
+<OrnamentMaker56.description>[PAWN_nameDef] làm việc cho hoàng gia, chế tác đồng hồ, huy chương, trang sức và các vật phẩm quý giá khác.</OrnamentMaker56.description>
+<OrnamentMaker56.baseDesc>[PAWN_nameDef] làm việc cho hoàng gia, chế tác đồng hồ, huy chương, trang sức và các vật phẩm quý giá khác.</OrnamentMaker56.baseDesc>
+<OrnamentMaker56.title>Thợ Chế Tác Trang Sức</OrnamentMaker56.title>
+<OrnamentMaker56.titleShort>Thợ Chế Tác</OrnamentMaker56.titleShort>
+<PlanetaryMiner64.description>[PAWN_nameDef] là kỹ sư khai thác trong một công ty khai thác hành tinh lớn. Tính chất công việc của [PAWN_pronoun] yêu cầu [PAWN_objective] phải ở dưới lòng đất trong nhiều tuần, điều này khiến [PAWN_pronoun] thích môi trường tối tăm.</PlanetaryMiner64.description>
+<PlanetaryMiner64.baseDesc>[PAWN_nameDef] là kỹ sư khai thác trong một công ty khai thác hành tinh lớn. Tính chất công việc của [PAWN_pronoun] yêu cầu [PAWN_objective] phải ở dưới lòng đất trong nhiều tuần, điều này khiến [PAWN_pronoun] thích môi trường tối tăm.</PlanetaryMiner64.baseDesc>
+<PlanetaryMiner64.title>Kỹ Sư Khai Thác Hành Tinh</PlanetaryMiner64.title>
+<PlanetaryMiner64.titleShort>Thợ Khai Thác</PlanetaryMiner64.titleShort>
+<RoyalCook18.description>[PAWN_nameDef] nấu ăn cho [PAWN_possessive] quý tộc tài trợ.\n\n[PAWN_nameDef] sử dụng nguyên liệu tốt nhất và chăm sóc một khu vườn nhỏ ở một góc của biệt thự để có được các loại thảo mộc và rau tươi nhất. [PAWN_nameDef] yêu thích thực phẩm hơn cả bản thân mình.</RoyalCook18.description>
+<RoyalCook18.baseDesc>[PAWN_nameDef] nấu ăn cho [PAWN_possessive] quý tộc tài trợ.\n\n[PAWN_nameDef] sử dụng nguyên liệu tốt nhất và chăm sóc một khu vườn nhỏ ở một góc của biệt thự để có được các loại thảo mộc và rau tươi nhất. [PAWN_nameDef] yêu thích thực phẩm hơn cả bản thân mình.</RoyalCook18.baseDesc>
+<RoyalCook18.title>Đầu Bếp Quý Tộc</RoyalCook18.title>
+<RoyalCook18.titleShort>Đầu Bếp</RoyalCook18.titleShort>
+<RoyalMasseuse43.description>[PAWN_nameDef] là một nhân viên massage hoàng gia. [PAWN_pronoun] phục vụ cho nhiều quý tộc.\n\n[PAWN_nameDef] đôi khi cung cấp một số dịch vụ đặc biệt nếu chủ nhân hoặc quý bà có tâm trạng. Làm công việc này có nghĩa là cần có kỹ năng xã hội xuất sắc.</RoyalMasseuse43.description>
+<RoyalMasseuse43.baseDesc>[PAWN_nameDef] là một nhân viên massage hoàng gia. [PAWN_pronoun] phục vụ cho nhiều quý tộc.\n\n[PAWN_nameDef] đôi khi cung cấp một số dịch vụ đặc biệt nếu chủ nhân hoặc quý bà có tâm trạng. Làm công việc này có nghĩa là cần có kỹ năng xã hội xuất sắc.</RoyalMasseuse43.baseDesc>
+<RoyalMasseuse43.title>Nhân Viên Massage Hoàng Gia</RoyalMasseuse43.title>
+<RoyalMasseuse43.titleShort>Nhân Viên Massage</RoyalMasseuse43.titleShort>
+</LanguageData>

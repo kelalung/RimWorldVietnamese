@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BioferriteHarvester.label>Máy thu thập sắt sống</BioferriteHarvester.label>
+<BioferriteHarvester.description>Đặt thiết bị này gần nền tảng chứa để thu thập sinh khối từ thực thể bị giam giữ và chuyển đổi chúng thành sắt sống.\n\nCác thực thể lớn hơn thường sản xuất nhiều sắt sống hơn. Tuy nhiên, quá trình này rất đau đớn đối với hầu hết các sinh vật, làm tăng độ khó trong việc giam giữ thực thể.\n\nMỗi nền tảng chứa chỉ có thể kết nối với một máy thu thập, nhưng mỗi máy thu thập có thể kết nối với tối đa bốn nền tảng chứa.</BioferriteHarvester.description>
+<BioferriteShaper.label>Bàn tạo hình sắt sống</BioferriteShaper.label>
+<BioferriteShaper.description>Được sử dụng để chế tạo các sản phẩm từ sắt sống. Nó có thể sử dụng nhiệt độ cao và kích thích điện từ để tạm thời chế biến sắt sống thành trạng thái dẻo, cho phép nó được rèn thành các hình dạng phức tạp và kết hợp với các vật liệu khác.</BioferriteShaper.description>
+<SerumCentrifuge.label>Bàn thí nghiệm huyết thanh</SerumCentrifuge.label>
+<SerumCentrifuge.description>Một bàn làm việc chế tạo huyết thanh dùng một lần, lấy cảm hứng từ công nghệ siêu phàm. Những huyết thanh này có thể tạo ra các hiệu ứng kỳ lạ nhờ sức mạnh của vi cơ siêu phàm.</SerumCentrifuge.description>
+</LanguageData>

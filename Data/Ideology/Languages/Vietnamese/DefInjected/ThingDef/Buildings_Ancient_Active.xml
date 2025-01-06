@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientCommsConsole.label>Bảng điều khiển cổ xưa</AncientCommsConsole.label>
+<AncientCommsConsole.description>Một bảng điều khiển cổ điển có ăng ten vệ tinh. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientCommsConsole.description>
+<AncientEnemyTerminal.label>Máy đầu cuối kẻ thù cổ xưa</AncientEnemyTerminal.label>
+<AncientEnemyTerminal.description>Một máy đầu cuối cổ xưa. Nó có thể bị xâm nhập để gọi các phe phái thù địch gần đó.</AncientEnemyTerminal.description>
+<AncientFuelNode.label>Trạm nhiên liệu cổ xưa</AncientFuelNode.label>
+<AncientFuelNode.description>Một trạm tiếp nhiên liệu cổ xưa và không ổn định, từng được sử dụng để tiếp nhiên liệu cho máy móc. Do thiếu bảo trì, nó đã trở nên rất không ổn định.</AncientFuelNode.description>
+<AncientHermeticCrate.label>Hòm chứa kín</AncientHermeticCrate.label>
+<AncientHermeticCrate.description>Hòm chứa tự cung tự cấp dùng để bảo quản vật quý. Nó có thể giữ nội dung trong thời gian dài.</AncientHermeticCrate.description>
+<AncientSecurityCrate.label>Hòm bảo mật</AncientSecurityCrate.label>
+<AncientSecurityCrate.description>Hòm tự cung tự cấp dùng để bảo quản vật quý. Nó có thể giữ nội dung trong thời gian dài. Nếu mở mà không nhập đúng mật khẩu, có thể kích hoạt "hệ thống an ninh" gần đó.</AncientSecurityCrate.description>
+<AncientTerminal.label>Máy đầu cuối cổ xưa</AncientTerminal.label>
+<AncientTerminal.description>Một máy đầu cuối cổ xưa. Nó có thể bị xâm nhập để thu thập thông tin bên trong.</AncientTerminal.description>
+<AncientTerminal_Worshipful.label>Bảng điều khiển cổ xưa</AncientTerminal_Worshipful.label>
+<AncientTerminal_Worshipful.description>Một máy đầu cuối cổ xưa. Nó có thể bị xâm nhập để thu thập thông tin bên trong.</AncientTerminal_Worshipful.description>
+</LanguageData>

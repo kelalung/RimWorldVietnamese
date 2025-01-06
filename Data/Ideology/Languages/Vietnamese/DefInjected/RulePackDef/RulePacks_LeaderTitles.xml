@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective][cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderAdjective-&gt;Cao cấp</li>
+		<li>cultureLeaderAdjective-&gt;Đầu tiên</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderNoun-&gt;Trưởng lão</li>
+	</LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+	<LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+		<li>cultureLeaderAdjective-&gt;Cao cấp</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderAdjective-&gt;Đầu tiên</li>
+		<li>cultureLeaderAdjective-&gt;Chủ tịch</li>
+		<li>cultureLeaderNoun-&gt;Tổng thống</li>
+		<li>cultureLeaderNoun-&gt;Giám đốc</li>
+		<li>cultureLeaderNoun-&gt;Thống đốc</li>
+		<li>cultureLeaderNoun-&gt;Lãnh đạo</li>
+	</LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+	<LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+		<li>r_leaderTitle(p=6)-&gt;[memeLeaderAdjective][memeLeaderNoun]</li>
+		<li>r_leaderTitle(p=3)-&gt;[cultureLeaderAdjective][memeLeaderNoun]</li>
+		<li>r_leaderTitle(p=1)-&gt;[memeLeaderAdjective][cultureLeaderNoun]</li>
+		<li>r_leaderTitle(p=1)-&gt;[cultureLeaderTitle]</li>
+	</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+	<LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective][cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderAdjective-&gt;Lớn</li>
+		<li>cultureLeaderNoun-&gt;Ông trùm</li>
+		<li>cultureLeaderNoun-&gt;Thủ lĩnh</li>
+		<li>cultureLeaderNoun-&gt;Ông chủ</li>
+		<li>cultureLeaderNoun-&gt;Ông chủ</li>
+		<li>cultureLeaderNoun-&gt;Ông chủ</li>
+	</LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+	<LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective][cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;Chủ tịch</li>
+		<li>cultureLeaderAdjective-&gt;Đầu tiên</li>
+		<li>cultureLeaderNoun-&gt;Nghị sĩ</li>
+		<li>cultureLeaderNoun-&gt;Lãnh đạo</li>
+		<li>cultureLeaderNoun-&gt;Bộ trưởng</li>
+		<li>cultureLeaderNoun-&gt;Lãnh đạo</li>
+		<li>cultureLeaderNoun-&gt;Người dẫn đường</li>
+	</LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+	<LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+		<li>r_leaderTitle-&gt;Cao cấp tinh chủ</li>
+	</LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+</LanguageData>

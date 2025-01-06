@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ProblemCauser.questDescriptionRules.rulesStrings>
+    <li>questDescription(siteFaction==Pirate)-&gt;Bọn cướp biển đã thiết lập một trạm gác gần [map_definite] để quấy rối bạn. [allSitePartsDescriptions]\n\nTrạm gác sẽ được giữ lại cho đến khi bạn cử một đội thám hiểm đến đó để tấn công và tiêu diệt nó.</li>
+    <li>questDescription(siteFaction==Mechanoids)-&gt;Một cụm máy móc đã hạ cánh không xa [map_definite]. [allSitePartsDescriptions]\n\nCụm máy móc sẽ được giữ lại cho đến khi bạn cử một đội thám hiểm đến đó để tấn công và tiêu diệt nó.</li>
+</ProblemCauser.questDescriptionRules.rulesStrings>
+<ProblemCauser.questNameRules.rulesStrings>
+    <li>questName(siteFaction==Pirate)-&gt;Cướp biển và [problemCauserLabel]</li>
+    <li>questName(siteFaction==Mechanoids)-&gt;Cụm máy móc và [problemCauserLabel]</li>
+</ProblemCauser.questNameRules.rulesStrings>
+<ProblemCauser.LetterLabelSuccess.slateRef>[problemCauserLabel] đã bị tiêu diệt</ProblemCauser.LetterLabelSuccess.slateRef>
+<ProblemCauser.LetterTextSuccess.slateRef>Bạn đã tiêu diệt [problemCauserLabel], điều này đã khích lệ [map_definite]!</ProblemCauser.LetterTextSuccess.slateRef>
+</LanguageData>

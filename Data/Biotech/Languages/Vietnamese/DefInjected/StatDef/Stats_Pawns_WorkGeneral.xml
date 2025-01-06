@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WorkSpeedGlobalOffsetMech.label>Độ lệch tốc độ làm việc của máy móc</WorkSpeedGlobalOffsetMech.label>
+<WorkSpeedGlobalOffsetMech.description>Độ lệch tốc độ làm việc của cơ thể máy mà người máy điều khiển.</WorkSpeedGlobalOffsetMech.description>
+</LanguageData>

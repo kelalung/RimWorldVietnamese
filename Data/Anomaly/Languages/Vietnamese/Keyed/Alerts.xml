@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ActivityMultipleDangerous>Đáng ngại: mức độ hoạt động nguy hiểm</ActivityMultipleDangerous>
+	<ActivityDangerousDesc>Các thực thể sau đã vào trạng thái hoạt động nguy hiểm cao.</ActivityDangerousDesc>
+	<ActivityDangerousDescAppended>Khi mức độ hoạt động của thực thể đạt 100%, nó sẽ vào trạng thái nguy hiểm.\n\nGửi lính gác để kiềm chế thực thể, cũng có thể kích hoạt “tự động kiềm chế” trong bảng tương tác của thực thể.</ActivityDangerousDescAppended>
+	<NeedAnomalyProject>Thiếu dự án nghiên cứu dị thường</NeedAnomalyProject>
+	<NeedAnomalyProjectDesc>Có một thực thể để điều tra, nhưng chưa kích hoạt dự án nghiên cứu dị thường tương ứng:</NeedAnomalyProjectDesc>
+	<NeedAnomalyProjectDescLine>Thiếu dự án nghiên cứu dị thường {NAME}</NeedAnomalyProjectDescLine>
+	<NeedAnomalyProjectDescAppended>Mở bảng “Nghiên cứu” ở dưới màn hình, kích hoạt một dự án trong tab dị thường.\n\nCó thể kích hoạt một dự án nghiên cứu cơ bản và một dự án nghiên cứu nâng cao cùng lúc.\n\n(Nhấp để mở bảng “Nghiên cứu”.)</NeedAnomalyProjectDescAppended>
+	<CreepJoinerTimeout>Khách bị bỏ rơi</CreepJoinerTimeout>
+	<CreepJoinerTimeoutDesc>Các khách dưới đây cảm thấy bị bỏ rơi và ngày càng không hài lòng</CreepJoinerTimeoutDesc>
+	<CreepJoinerTimeoutDescAppended>Chọn một người định cư, nhấp chuột phải vào khách.\n\nTăng tốc hành động... không thể bỏ rơi khách.</CreepJoinerTimeoutDescAppended>
+	<Alert_UndercaveUnstable>Hang động dưới đất không ổn định</Alert_UndercaveUnstable>
+	<Alert_UndercaveUnstableDesc>Hang động dưới đất đã bắt đầu không ổn định và sẽ sớm sụp đổ.\n\nNhân cơ hội này, nhanh chóng sơ tán những người định cư</Alert_UndercaveUnstableDesc>
+	<Alert_CultistPsychicRitual>Nghi lễ tâm linh của giáo phái</Alert_CultistPsychicRitual>
+	<Alert_CultistPsychicRitualDesc>{INVOKER_kindDef}{INVOKER_nameDef} đang thực hiện nghi lễ {RITUAL_definite}. Nếu không nhanh chóng ngăn chặn {INVOKER_objective}, có thể xảy ra hậu quả nghiêm trọng.</Alert_CultistPsychicRitualDesc>
+	<AlertMeatHunger>Thịt thối đói khát</AlertMeatHunger>
+	<AlertMeatHungerDesc>Thịt thối khao khát máu tươi.</AlertMeatHungerDesc>
+	<AlertMeatHungerDescAppended>Nếu không được cho ăn sớm, chúng rất có thể sẽ bắt đầu tấn công. Nhanh chóng tìm một ít thịt sống hoặc xác chết.</AlertMeatHungerDescAppended>
+	<AlertEmergingPitGate>Hố lớn đang hình thành</AlertEmergingPitGate>
+	<AlertEmergingPitGateDesc>Mặt đất đang sụp đổ. Một hố lớn sẽ sớm hình thành.</AlertEmergingPitGateDesc>
+	<Alert_InsufficientContainment>Khả năng giam giữ không đủ</Alert_InsufficientContainment>
+	<Alert_InsufficientContainmentDesc>Các phòng giam giữ thực thể dưới đây không đạt yêu cầu tối thiểu về khả năng giam giữ</Alert_InsufficientContainmentDesc>
+	<Alert_InsufficientContainmentDescAppended>Chúng sẽ nhanh chóng trốn thoát. Xây dựng các bức tường, cửa hoặc thiết bị giam giữ khác để kiềm chế chúng.</Alert_InsufficientContainmentDescAppended>
+	<AlertHoldingPlatform>Thiếu nền tảng giam giữ</AlertHoldingPlatform>
+	<AlertHoldingPlatformDesc>Xây dựng nền tảng giam giữ hoặc điểm giam giữ để giam giữ và điều tra các thực thể đã bị bắt.</AlertHoldingPlatformDesc>
+	<AlertCubeWithdrawal>Cai nghiện khối lập phương</AlertCubeWithdrawal>
+	<AlertCubeWithdrawalDesc>Các cá nhân sau đây đang trải qua cơn cai nghiện khối lập phương</AlertCubeWithdrawalDesc>
+	<AlertCubeWithdrawalDescAppended>Da của họ ngứa ngáy khó chịu, tư duy nhảy múa nhanh chóng, khao khát mãnh liệt được tiếp cận khối lập phương vàng. Phản ứng cai nghiện của họ sẽ ngày càng nghiêm trọng, cho đến khi họ có thể tiếp xúc với khối lập phương vàng.\n\nĐảm bảo họ có thời gian rảnh và có thể tiếp xúc với khối lập phương vàng.</AlertCubeWithdrawalDescAppended>
+	<AlertDigestion>Quái vật ăn thịt đang tiêu hóa</AlertDigestion>
+	<AlertDigestionDesc>Các cá nhân hoặc sinh vật sau đây đang bị quái vật ăn thịt tiêu hóa</AlertDigestionDesc>
+	<AlertDigestionDescAppended>Giết quái vật ăn thịt trước khi chúng tiêu hóa họ, để cứu họ ra.</AlertDigestionDescAppended>
+	<AlertInhibitorBlocked>Thiết bị ức chế bị chặn</AlertInhibitorBlocked>
+	<AlertInhibitorBlockedDesc>Một thiết bị ức chế điện tử bị chặn bởi các công trình khác, không thể hoạt động.\n\nDọn dẹp không gian phía trước thiết bị ức chế điện tử.</AlertInhibitorBlockedDesc>
+	<EntityNeedsTreatment>Thực thể cần điều trị</EntityNeedsTreatment>
+	<EntityNeedsTreatmentDesc>Các thực thể này cần điều trị. Nếu không được điều trị, chúng có thể chết do bị giam giữ.\n{0}\n\nGửi một bác sĩ đi điều trị cho chúng.</EntityNeedsTreatmentDesc>
+	<AlertGhoulHypothermia>Thịt thối bị hạ thân nhiệt</AlertGhoulHypothermia>
+	<AlertGhoulHypothermiaDesc>Các thịt thối này có nhiệt độ cơ thể quá thấp:\n{0}\n\nĐưa chúng đến nơi ấm áp.</AlertGhoulHypothermiaDesc>
+	<AlertGrayFleshSample>Mẫu thịt xám</AlertGrayFleshSample>
+	<AlertGrayFleshSampleDesc>Bạn đã phát hiện một mảnh mô thịt tươi màu xám. Phân tích nó để có thêm thông tin sinh học.</AlertGrayFleshSampleDesc>
+	<AlertNeuralLump>Khối tổ chức thần kinh</AlertNeuralLump>
+	<AlertNeuralLumpDesc>Các nốt thần kinh thịt đã rơi ra một khối tổ chức thần kinh. Phân tích nó để tìm hiểu cách tiêu diệt trái tim thịt.</AlertNeuralLumpDesc>
+	<AlertRevenantFlesh>Khối thịt của linh hồn</AlertRevenantFlesh>
+	<AlertRevenantFleshDesc>Một linh hồn bị thương đã rơi ra một khối thịt. Phân tích nó để học cách theo dõi linh hồn.</AlertRevenantFleshDesc>
+</LanguageData>

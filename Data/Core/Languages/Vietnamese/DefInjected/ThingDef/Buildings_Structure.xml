@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalFlap.label>Cửa rèm</AnimalFlap.label>
+	<AnimalFlap.description>Một lối vào được treo bằng những dải vải hoặc da dày chồng lên nhau. Nó cho phép động vật đi qua, đồng thời cách ly nhiệt độ. Cửa rèm thường được sử dụng làm cửa cho chuồng, cung cấp nơi ngủ cho động vật nuôi.</AnimalFlap.description>
+	<Autodoor.label>Cửa tự động</Autodoor.label>
+	<Autodoor.description>Ngăn cách các phòng. Hoạt động bằng điện, người đi qua cửa sẽ không bị giảm tốc độ.</Autodoor.description>
+	<Column.label>Cột hỗ trợ</Column.label>
+	<Column.description>Một cột có khả năng hỗ trợ mái nhà mà không cản trở tầm nhìn và di chuyển, nhìn khá đẹp.</Column.description>
+	<Door.label>Cửa</Door.label>
+	<Door.description>Ngăn cách các phòng. Chỉ có thể mở và đóng bằng tay, sẽ làm chậm tốc độ của người. Tốc độ chậm phụ thuộc vào chất liệu của cửa.</Door.description>
+	<Fence.label>Hàng rào</Fence.label>
+	<Fence.description>Hàng rào được làm từ cột và thanh ngang, dùng để xây dựng chuồng cho một số loại động vật. Một số loài động vật có thể nhảy qua hàng rào. Kẻ săn mồi sẽ không tấn công sinh vật ở phía bên kia hàng rào, nhưng vẫn có thể lang thang bên trong.</Fence.description>
+	<FenceGate.label>Cửa hàng rào</FenceGate.label>
+	<FenceGate.description>Cửa đơn giản được làm từ cột và thanh ngang, có thể ngăn chặn một số loài động vật như hàng rào. Người chăn nuôi có thể dẫn động vật vào và ra khỏi chuồng qua những cánh cửa này.</FenceGate.description>
+	<OrnateDoor.label>Cửa lớn sang trọng</OrnateDoor.label>
+	<OrnateDoor.description>Ngăn cách các phòng. Được chạm khắc tinh xảo, trang trí bằng vàng. Cánh cửa lớn và nặng này phải được kết nối với tường ở cả hai bên để hoạt động bình thường.</OrnateDoor.description>
+	<Wall.label>Tường</Wall.label>
+	<Wall.description>Một bức tường không thể đi qua. Có thể hỗ trợ mái nhà.</Wall.description>
+</LanguageData>

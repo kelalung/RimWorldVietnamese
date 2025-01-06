@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alpaca.label>Lạc đà Alpaca</Alpaca.label>
+  <Alpaca.labelFemale>Lạc đà Alpaca cái</Alpaca.labelFemale>
+  <Alpaca.labelFemalePlural>Lạc đà Alpaca cái</Alpaca.labelFemalePlural>
+  <Alpaca.labelMale>Lạc đà Alpaca đực</Alpaca.labelMale>
+  <Alpaca.labelMalePlural>Lạc đà Alpaca đực</Alpaca.labelMalePlural>
+  <Alpaca.labelPlural>Lạc đà Alpaca</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>Lạc đà Alpaca con non</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelFemale>Lạc đà Alpaca con non</Alpaca.lifeStages.0.labelFemale>
+  <Alpaca.lifeStages.0.labelFemalePlural>Lạc đà Alpaca con non</Alpaca.lifeStages.0.labelFemalePlural>
+  <Alpaca.lifeStages.0.labelMale>Lạc đà Alpaca con non</Alpaca.lifeStages.0.labelMale>
+  <Alpaca.lifeStages.0.labelMalePlural>Lạc đà Alpaca con non</Alpaca.lifeStages.0.labelMalePlural>
+  <Alpaca.lifeStages.0.labelPlural>Lạc đà Alpaca con non</Alpaca.lifeStages.0.labelPlural>
+  <Alpaca.lifeStages.1.label>Lạc đà Alpaca mới lớn</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelFemale>Lạc đà Alpaca mới lớn cái</Alpaca.lifeStages.1.labelFemale>
+  <Alpaca.lifeStages.1.labelFemalePlural>Lạc đà Alpaca mới lớn cái</Alpaca.lifeStages.1.labelFemalePlural>
+  <Alpaca.lifeStages.1.labelMale>Lạc đà Alpaca mới lớn đực</Alpaca.lifeStages.1.labelMale>
+  <Alpaca.lifeStages.1.labelMalePlural>Lạc đà Alpaca mới lớn đực</Alpaca.lifeStages.1.labelMalePlural>
+  <Alpaca.lifeStages.1.labelPlural>Lạc đà Alpaca mới lớn</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.lifeStages.2.label>Lạc đà Alpaca</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelFemale>Lạc đà Alpaca cái</Alpaca.lifeStages.2.labelFemale>
+  <Alpaca.lifeStages.2.labelFemalePlural>Lạc đà Alpaca cái</Alpaca.lifeStages.2.labelFemalePlural>
+  <Alpaca.lifeStages.2.labelMale>Lạc đà Alpaca đực</Alpaca.lifeStages.2.labelMale>
+  <Alpaca.lifeStages.2.labelMalePlural>Lạc đà Alpaca đực</Alpaca.lifeStages.2.labelMalePlural>
+  <Alpaca.lifeStages.2.labelPlural>Lạc đà Alpaca</Alpaca.lifeStages.2.labelPlural>
+  <Capybara.label>Chuột Lang Nước</Capybara.label>
+  <Capybara.labelFemale>Chuột Lang Nước cái</Capybara.labelFemale>
+  <Capybara.labelFemalePlural>Chuột Lang Nước cái</Capybara.labelFemalePlural>
+  <Capybara.labelMale>Chuột Lang Nước đực</Capybara.labelMale>
+  <Capybara.labelMalePlural>Chuột Lang Nước đực</Capybara.labelMalePlural>
+  <Capybara.labelPlural>Chuột Lang Nước</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>Chuột Lang Nước con non</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.0.labelFemale>Chuột Lang Nước con non</Capybara.lifeStages.0.labelFemale>
+  <Capybara.lifeStages.0.labelFemalePlural>Chuột Lang Nước con non</Capybara.lifeStages.0.labelFemalePlural>
+  <Capybara.lifeStages.0.labelMale>Chuột Lang Nước con non</Capybara.lifeStages.0.labelMale>
+  <Capybara.lifeStages.0.labelMalePlural>Chuột Lang Nước con non</Capybara.lifeStages.0.labelMalePlural>
+  <Capybara.lifeStages.0.labelPlural>Chuột Lang Nước con non</Capybara.lifeStages.0.labelPlural>
+  <Capybara.lifeStages.1.label>Chuột Lang Nước mới lớn</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.1.labelFemale>Chuột Lang Nước mới lớn cái</Capybara.lifeStages.1.labelFemale>
+  <Capybara.lifeStages.1.labelFemalePlural>Chuột Lang Nước mới lớn cái</Capybara.lifeStages.1.labelFemalePlural>
+  <Capybara.lifeStages.1.labelMale>Chuột Lang Nước mới lớn đực</Capybara.lifeStages.1.labelMale>
+  <Capybara.lifeStages.1.labelMalePlural>Chuột Lang Nước mới lớn đực</Capybara.lifeStages.1.labelMalePlural>
+  <Capybara.lifeStages.1.labelPlural>Chuột Lang Nước mới lớn</Capybara.lifeStages.1.labelPlural>
+  <Capybara.lifeStages.2.label>Chuột Lang Nước</Capybara.lifeStages.2.label>
+  <Capybara.lifeStages.2.labelFemale>Chuột Lang Nước cái</Capybara.lifeStages.2.labelFemale>
+  <Capybara.lifeStages.2.labelFemalePlural>Chuột Lang Nước cái</Capybara.lifeStages.2.labelFemalePlural>
+  <Capybara.lifeStages.2.labelMale>Chuột Lang Nước đực</Capybara.lifeStages.2.labelMale>
+  <Capybara.lifeStages.2.labelMalePlural>Chuột Lang Nước đực</Capybara.lifeStages.2.labelMalePlural>
+  <Capybara.lifeStages.2.labelPlural>Chuột Lang Nước</Capybara.lifeStages.2.labelPlural>
+  <Megasloth.label>Lười Đất Bự</Megasloth.label>
+  <Megasloth.labelFemale>Lười Đất Bự cái</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>Lười Đất Bự cái</Megasloth.labelFemalePlural>
+  <Megasloth.labelMale>Lười Đất Bự đực</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>Lười Đất Bự đực</Megasloth.labelMalePlural>
+  <Megasloth.labelPlural>Lười Đất Bự</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>Lười Đất Bự con non</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelFemale>Lười Đất Bự con non</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>Lười Đất Bự con non</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.0.labelMale>Lười Đất Bự con non</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>Lười Đất Bự con non</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelPlural>Lười Đất Bự con non</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.1.label>Lười Đất Bự mới lớn</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelFemale>Lười Đất Bự mới lớn cái</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>Lười Đất Bự mới lớn cái</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.1.labelMale>Lười Đất Bự mới lớn đực</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>Lười Đất Bự mới lớn đực</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelPlural>Lười Đất Bự mới lớn</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.2.label>Lười Đất Bự</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelFemale>Lười Đất Bự cái</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>Lười Đất Bự cái</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.lifeStages.2.labelMale>Lười Đất Bự đực</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>Lười Đất Bự đực</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelPlural>Lười Đất Bự</Megasloth.lifeStages.2.labelPlural>
+  <Sheep.label>Cừu</Sheep.label>
+  <Sheep.labelFemale>Cừu cái</Sheep.labelFemale>
+  <Sheep.labelMale>Cừu đực</Sheep.labelMale>
+  <Sheep.labelPlural>Cừu</Sheep.labelPlural>
+  <Sheep.lifeStages.lamb.label>Cừu đực mới lớn</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.labelPlural>Cừu đực mới lớn</Sheep.lifeStages.lamb.labelPlural>
+</LanguageData>

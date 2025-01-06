@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<GrowthVat_Essential.label>Cần thiết</GrowthVat_Essential.label>
+<GrowthVat_Essential.description>Chúng ta có công nghệ sinh nở an toàn hơn và tăng trưởng nhanh hơn. Tín đồ phát triển nhanh hơn trong buồng nuôi, nhưng nếu trẻ em của họ không ở trong buồng nuôi, họ sẽ không vui.</GrowthVat_Essential.description>
+<GrowthVat_Essential.comps.0.description>Thụ thai tự nhiên</GrowthVat_Essential.comps.0.description>
+<GrowthVat_Essential.comps.1.description>Trẻ em không ở trong buồng nuôi</GrowthVat_Essential.comps.1.description>
+<GrowthVat_Prohibited.label>Cấm kỵ</GrowthVat_Prohibited.label>
+<GrowthVat_Prohibited.description>Buồng nuôi tước đoạt tuổi thơ của trẻ em.</GrowthVat_Prohibited.description>
+<GrowthVat_Prohibited.comps.0.description>Xây dựng buồng nuôi</GrowthVat_Prohibited.comps.0.description>
+<GrowthVat_Prohibited.comps.1.description>Có buồng nuôi trong thuộc địa</GrowthVat_Prohibited.comps.1.description>
+<GrowthVat_Prohibited.comps.2.description>Con tôi ở trong buồng nuôi</GrowthVat_Prohibited.comps.2.description>
+<GrowthVat_Prohibited.comps.3.description>Trẻ em không ở trong buồng nuôi</GrowthVat_Prohibited.comps.3.description>
+</LanguageData>

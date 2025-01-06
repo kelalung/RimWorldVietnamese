@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Entities.label>Thực thể</Entities.label>
+  <Entities.fixedName>Thực thể bóng tối</Entities.fixedName>
+  <Entities.leaderTitle>Lãnh đạo</Entities.leaderTitle>
+  <Entities.pawnSingular>Thực thể</Entities.pawnSingular>
+  <Entities.pawnsPlural>Thực thể</Entities.pawnsPlural>
+  <HoraxCult.label>Giáo phái Horax</HoraxCult.label>
+  <HoraxCult.deityPresets.0.nameType.type>Thần hư vô</HoraxCult.deityPresets.0.nameType.type>
+  <HoraxCult.fixedName>Đầy tớ của Horax</HoraxCult.fixedName>
+  <HoraxCult.ideoDescription>Trong mắt các ngươi, mọi thứ đều trong sáng, chúng ta biết rõ đó chỉ là ảo giác. Những cơn ác mộng chôn vùi trong không gian và thời gian, vũ trụ bị che đậy bằng lớp mặt nạ. Hư vô vô tận sâu thẳm, chúa tể vực thẳm ngự trị trên đó. Chủ nhân của chúng ta thông thái, tỏa sáng trong bóng tối, nhận được phần thưởng từ ý chí của Ngài.</HoraxCult.ideoDescription>
+  <HoraxCult.ideoName>Ác mộng sâu thẳm</HoraxCult.ideoName>
+  <HoraxCult.leaderTitle>Lãnh đạo</HoraxCult.leaderTitle>
+  <HoraxCult.pawnSingular>Tín đồ</HoraxCult.pawnSingular>
+  <HoraxCult.pawnsPlural>Người theo giáo</HoraxCult.pawnsPlural>
+</LanguageData>

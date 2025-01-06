@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <OverridesSomePrecepts>Vi phạm quy tắc</OverridesSomePrecepts>
+<AgreeableMemes>Meme phù hợp</AgreeableMemes>
+<DisagreeableMemes>Meme xung đột</DisagreeableMemes>
+<TabSlave>Nô lệ</TabSlave>
+<SlaveReleaseRelationGainsDesc>Nếu bạn thả một nô lệ, bạn sẽ nhận được mối quan hệ tốt với phái. Điều này liên quan đến sức khỏe thể chất và tinh thần của nô lệ.</SlaveReleaseRelationGainsDesc>
+<SlaveReleasePotentialRelationGains>Thả để nhận mối quan hệ tốt</SlaveReleasePotentialRelationGains>
+<SlaveRebellionMTBDays>Khoảng thời gian giữa các cuộc nổi loạn của nô lệ</SlaveRebellionMTBDays>
+<SlaveRebellionMTBDaysDescription>Số ngày trung bình mà nô lệ cố gắng nổi loạn. Chỉ tính trong thời gian tỉnh táo. Giá trị này bị ảnh hưởng bởi sự đàn áp, cảm xúc, sức khỏe, số vũ khí gần kề, số lượng nô lệ trên bản đồ và có hay không có người thuộc địa trên bản đồ.</SlaveRebellionMTBDaysDescription>
+<Suppression>Đàn áp</Suppression>
+<SuppressionDesc>Đàn áp là ảnh hưởng tâm lý của sự sợ hãi và kiểm soát đối với nô lệ. Nếu mức độ đàn áp thấp, nô lệ có khả năng nổi loạn cao hơn.</SuppressionDesc>
+<SuppressionFallRate>Tốc độ giảm đàn áp</SuppressionFallRate>
+<SuppressionFallRateDesc>Đàn áp giảm theo thời gian, tùy thuộc vào mức độ hiện tại:\n\n-{1}+ Đàn áp: {0}/ngày\n-{4}-{3} Đàn áp: {2}/ngày\n-{6}- Đàn áp: {5}/ngày\n\nTrang phục và sự sợ hãi cũng sẽ ảnh hưởng đến tốc độ giảm đàn áp. Tính toán tốc độ giảm của nô lệ này là</SuppressionFallRateDesc>
+<CannotEmancipate>Không thể thả</CannotEmancipate>
+<CannotImprison>Không thể giam giữ</CannotImprison>
+<CurrentSuppression>Đàn áp hiện tại</CurrentSuppression>
+<Terror>Sợ hãi</Terror>
+<TerrorDescription>Sợ hãi là một cách để đàn áp nô lệ. Khi nô lệ ở gần những thứ đáng sợ như tượng điêu khắc kinh dị trong một khoảng thời gian nhất định, giá trị này sẽ tăng lên. Một nô lệ chỉ có thể bị ảnh hưởng bởi ba nguồn sợ hãi một lần.\n\nKhi giá trị sợ hãi cao, mức độ đàn áp sẽ giảm chậm hơn.\nNhư sau</TerrorDescription>
+<TerrorCurrentThoughts>Sợ hãi gần đây</TerrorCurrentThoughts>
+<SuppressionBaseInterval>Khoảng thời gian cơ bản</SuppressionBaseInterval>
+<SuppressionMovingCapacityFactor>Khả năng di chuyển</SuppressionMovingCapacityFactor>
+<SuppressionFactor>Đàn áp</SuppressionFactor>
+<SuppressionMoodFactor>Cảm xúc</SuppressionMoodFactor>
+<SuppressionSlaveCountFactor>Số lượng nô lệ</SuppressionSlaveCountFactor>
+<SuppressionEscapeFactor>Đường chạy trốn</SuppressionEscapeFactor>
+<SuppressionWeaponProximityFactor>Vũ khí gần kề</SuppressionWeaponProximityFactor>
+<SuppressionFinalInterval>Khoảng thời gian cuối cùng</SuppressionFinalInterval>
+<SuppressionUnattendedByColonists>Không có người canh gác</SuppressionUnattendedByColonists>
+<SuppressionRebellionAnySlave>Trong số {0} nô lệ trên bản đồ này, ít nhất một người dự kiến sẽ nổi loạn trung bình mỗi {1}.</SuppressionRebellionAnySlave>
+<WillLevel>Ý chí</WillLevel>
+<WillLevelDesc>Hiển thị mức độ ý chí không khuất phục của tù nhân. Khi giá trị này bằng không, họ sẽ chấp nhận bị nô lệ.</WillLevelDesc>
+<WillFromPawnKind>{0} Ý chí cơ bản</WillFromPawnKind>
+<IdeoConversionTarget>Mục tiêu văn hóa</IdeoConversionTarget>
+<IdeoConversionTargetDesc>Người canh gác cố gắng giáo hóa tù nhân này thành văn hóa này.</IdeoConversionTargetDesc>
+<CertaintyChangePerDay>Thay đổi hàng ngày do tâm trạng</CertaintyChangePerDay>
+<MoodChangeRate>Tốc độ thay đổi theo tâm trạng</MoodChangeRate>
+<CertaintyInIdeo>{PAWN_nameDef} đối với {IDEO_name}</CertaintyInIdeo>
+<RoleDesc>Người này có vị trí đặc biệt trong văn hóa của họ. Nếu bạn thay đổi hoặc hủy bỏ vị trí này, họ sẽ cảm thấy không hài lòng.</RoleDesc>
+<RoleAssignmentTip>Thay đổi vị trí cần thực hiện nghi lễ thay đổi vị trí, chọn một điểm tổ chức nghi lễ hoặc bàn thờ và nhấp vào "Bắt đầu thay đổi vị trí".</RoleAssignmentTip>
+<ConversionWeakerDueToTraitAgreements>Do sự đồng nhất giữa đặc tính/meme, nỗ lực giáo hóa sẽ yếu hơn</ConversionWeakerDueToTraitAgreements>
+<ConversionStrongerDueToTraitAgreements>Do sự xung đột giữa đặc tính/meme, nỗ lực giáo hóa sẽ mạnh mẽ hơn</ConversionStrongerDueToTraitAgreements>
+<Cut>Cắt</Cut>
+<CutBothEyes>Cắt cả hai mắt</CutBothEyes>
+</LanguageData>

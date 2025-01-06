@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ExciseCarcinoma.label>Cắt bỏ khối u</ExciseCarcinoma.label>
+	<ExciseCarcinoma.description>Cắt bỏ khối u.</ExciseCarcinoma.description>
+	<ExciseCarcinoma.jobString>Đang cắt bỏ khối u.</ExciseCarcinoma.jobString>
+	<ExciseCarcinoma.successfullyRemovedHediffMessage>{0} đã cắt bỏ thành công khối u của {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+</LanguageData>

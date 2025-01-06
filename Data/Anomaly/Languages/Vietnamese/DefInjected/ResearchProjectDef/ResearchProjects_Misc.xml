@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SecurityDoor.label>Cửa an toàn</SecurityDoor.label>
+	<SecurityDoor.description>Mở khóa xây dựng "Cửa an toàn". Cửa này được gia cố rất chắc chắn, mở và đóng chậm, cần có điện, nhưng ưu điểm là rất bền. Nếu cần ngăn chặn mối nguy hiểm bên ngoài hoặc khóa chúng bên trong, đây là một lựa chọn tốt.</SecurityDoor.description>
+	<SecurityDoor.generalRules.rulesStrings>
+		<li>subject->Cửa an toàn</li>
+		<li>subject_story->Đã từng làm nhân viên bảo vệ tại một cơ sở nghiên cứu bí mật</li>
+		<li>subject_story->Đã thiết kế thiết bị bảo mật cho một đoàn thương mại giữa các vì sao</li>
+		<li>subject_story->Đã nghiên cứu khoa học vật liệu cho một công ty lính đánh thuê</li>
+		<li>subject_story->Đã làm việc tại một sở thú ở thế giới chớp nhoáng</li>
+		<li>subject_gerund->Xây dựng cửa an toàn</li>
+	</SecurityDoor.generalRules.rulesStrings>
+	<TurretPack.label>Balo tháp pháo</TurretPack.label>
+	<TurretPack.description>Mở khóa chế tạo "Balo tháp pháo", khi đeo có thể triển khai một tháp pháo chiến thuật được cung cấp năng lượng bởi pin tích hợp tại một địa điểm chỉ định.</TurretPack.description>
+	<TurretPack.generalRules.rulesStrings>
+		<li>subject->Tháp pháo có thể triển khai</li>
+		<li>subject_story->Đã bảo vệ một lâu đài ở thế giới hoang dã khỏi cuộc tấn công</li>
+		<li>subject_story->Đã vận hành pháo sau trên một chiếc khí cầu của Đế chế</li>
+		<li>subject_story->Đã nghiên cứu công nghệ quân sự có thể triển khai</li>
+		<li>subject_story->Đã tham gia chiến tranh chiến hào trong cuộc chiến [worldname]</li>
+		<li>subject_gerund->Chế tạo tháp súng có thể triển khai</li>
+	</TurretPack.generalRules.rulesStrings>
+</LanguageData>

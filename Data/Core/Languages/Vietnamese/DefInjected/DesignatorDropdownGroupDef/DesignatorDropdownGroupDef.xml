@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Floor_Carpet.label>Thảm</Floor_Carpet.label>
+	<Floor_Carpet_Fine.label>Thảm tinh xảo</Floor_Carpet_Fine.label>
+	<Floor_Flagstone.label>Đá lát</Floor_Flagstone.label>
+	<Floor_Tile.label>Gạch lát</Floor_Tile.label>
+	<Floor_Tile_Fine.label>Gạch lát tinh xảo</Floor_Tile_Fine.label>
+	<Floor_Tile_Metal.label>Gạch kim loại</Floor_Tile_Metal.label>
+	<StandingLampColored.label>Đèn đứng</StandingLampColored.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ExecutionCut.label>Xử án</ExecutionCut.label>
+	<ExecutionCut.deathMessage>{0} đã bị xử án.</ExecutionCut.deathMessage>
+	<SurgicalCut.label>Thương tích phẫu thuật</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} đã chết trong quá trình phẫu thuật.</SurgicalCut.deathMessage>
+</LanguageData>

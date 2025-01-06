@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <InstallAestheticNose.label>Cài đặt mũi thẩm mỹ</InstallAestheticNose.label>
+<InstallAestheticNose.description>Cài đặt mũi thẩm mỹ.</InstallAestheticNose.description>
+<InstallAestheticNose.jobString>Đang cài đặt mũi thẩm mỹ.</InstallAestheticNose.jobString>
+<InstallAestheticShaper.label>Cài đặt thiết bị tạo hình thẩm mỹ</InstallAestheticShaper.label>
+<InstallAestheticShaper.description>Cài đặt thiết bị tạo hình thẩm mỹ.</InstallAestheticShaper.description>
+<InstallAestheticShaper.jobString>Đang cài đặt thiết bị tạo hình thẩm mỹ.</InstallAestheticShaper.jobString>
+<InstallArmorskinGland.label>Cài đặt tuyến da giáp</InstallArmorskinGland.label>
+<InstallArmorskinGland.description>Cài đặt tuyến da giáp.</InstallArmorskinGland.description>
+<InstallArmorskinGland.jobString>Đang cài đặt tuyến da giáp.</InstallArmorskinGland.jobString>
+<InstallCircadianAssistant.label>Cài đặt trợ lý sinh lý</InstallCircadianAssistant.label>
+<InstallCircadianAssistant.description>Cài đặt trợ lý sinh lý.</InstallCircadianAssistant.description>
+<InstallCircadianAssistant.jobString>Đang cài đặt trợ lý sinh lý.</InstallCircadianAssistant.jobString>
+<InstallCircadianHalfCycler.label>Cài đặt thiết bị điều tiết nhịp sinh học</InstallCircadianHalfCycler.label>
+<InstallCircadianHalfCycler.description>Cài đặt thiết bị điều tiết nhịp sinh học.</InstallCircadianHalfCycler.description>
+<InstallCircadianHalfCycler.jobString>Đang cài đặt thiết bị điều tiết nhịp sinh học.</InstallCircadianHalfCycler.jobString>
+<InstallCoagulator.label>Cài đặt thiết bị đông máu</InstallCoagulator.label>
+<InstallCoagulator.description>Cài đặt thiết bị đông máu.</InstallCoagulator.description>
+<InstallCoagulator.jobString>Đang cài đặt thiết bị đông máu.</InstallCoagulator.jobString>
+<InstallDetoxifierStomach.label>Cài đặt dạ dày giải độc</InstallDetoxifierStomach.label>
+<InstallDetoxifierStomach.description>Cài đặt dạ dày giải độc.</InstallDetoxifierStomach.description>
+<InstallDetoxifierStomach.jobString>Đang cài đặt dạ dày giải độc.</InstallDetoxifierStomach.jobString>
+<InstallGastroAnalyzer.label>Cài đặt thiết bị phân tích thực phẩm</InstallGastroAnalyzer.label>
+<InstallGastroAnalyzer.description>Cài đặt thiết bị phân tích thực phẩm.</InstallGastroAnalyzer.description>
+<InstallGastroAnalyzer.jobString>Đang cài đặt thiết bị phân tích thực phẩm.</InstallGastroAnalyzer.jobString>
+<InstallHealingEnhancer.label>Cài đặt thiết bị tăng cường chữa lành</InstallHealingEnhancer.label>
+<InstallHealingEnhancer.description>Cài đặt thiết bị tăng cường chữa lành.</InstallHealingEnhancer.description>
+<InstallHealingEnhancer.jobString>Đang cài đặt thiết bị tăng cường chữa lành.</InstallHealingEnhancer.jobString>
+<InstallImmunoenhancer.label>Cài đặt thiết bị tăng cường miễn dịch</InstallImmunoenhancer.label>
+<InstallImmunoenhancer.description>Cài đặt thiết bị tăng cường miễn dịch.</InstallImmunoenhancer.description>
+<InstallImmunoenhancer.jobString>Đang cài đặt thiết bị tăng cường miễn dịch.</InstallImmunoenhancer.jobString>
+<InstallLearningAssistant.label>Cài đặt trợ lý học tập</InstallLearningAssistant.label>
+<InstallLearningAssistant.description>Cài đặt trợ lý học tập.</InstallLearningAssistant.description>
+<InstallLearningAssistant.jobString>Đang cài đặt trợ lý học tập.</InstallLearningAssistant.jobString>
+<InstallLoveEnhancer.label>Cài đặt thiết bị tăng cường tình yêu</InstallLoveEnhancer.label>
+<InstallLoveEnhancer.description>Cài đặt thiết bị tăng cường tình yêu.</InstallLoveEnhancer.description>
+<InstallLoveEnhancer.jobString>Đang cài đặt thiết bị tăng cường tình yêu.</InstallLoveEnhancer.jobString>
+<InstallNeurocalculator.label>Cài đặt máy tính thần kinh</InstallNeurocalculator.label>
+<InstallNeurocalculator.description>Cài đặt máy tính thần kinh.</InstallNeurocalculator.description>
+<InstallNeurocalculator.jobString>Đang cài đặt máy tính thần kinh.</InstallNeurocalculator.jobString>
+<InstallNuclearStomach.label>Cài đặt dạ dày hạt nhân</InstallNuclearStomach.label>
+<InstallNuclearStomach.description>Cài đặt dạ dày hạt nhân.</InstallNuclearStomach.description>
+<InstallNuclearStomach.jobString>Đang cài đặt dạ dày hạt nhân.</InstallNuclearStomach.jobString>
+<InstallReprocessorStomach.label>Cài đặt dạ dày tiền xử lý</InstallReprocessorStomach.label>
+<InstallReprocessorStomach.description>Cài đặt dạ dày tiền xử lý.</InstallReprocessorStomach.description>
+<InstallReprocessorStomach.jobString>Đang cài đặt dạ dày tiền xử lý.</InstallReprocessorStomach.jobString>
+<InstallStoneskinGland.label>Cài đặt tuyến da đá</InstallStoneskinGland.label>
+<InstallStoneskinGland.description>Cài đặt tuyến da đá.</InstallStoneskinGland.description>
+<InstallStoneskinGland.jobString>Đang cài đặt tuyến da đá.</InstallStoneskinGland.jobString>
+<InstallToughskinGland.label>Cài đặt tuyến da bền</InstallToughskinGland.label>
+<InstallToughskinGland.description>Cài đặt tuyến da bền.</InstallToughskinGland.description>
+<InstallToughskinGland.jobString>Đang cài đặt tuyến da bền.</InstallToughskinGland.jobString>
+<RemoveAestheticNose.label>Tháo lắp mũi thẩm mỹ</RemoveAestheticNose.label>
+<RemoveAestheticNose.description>Tháo lắp mũi thẩm mỹ.</RemoveAestheticNose.description>
+<RemoveAestheticNose.jobString>Đang tháo lắp mũi thẩm mỹ.</RemoveAestheticNose.jobString>
+<RemoveAestheticShaper.label>Tháo lắp thiết bị tạo hình thẩm mỹ</RemoveAestheticShaper.label>
+<RemoveAestheticShaper.description>Tháo lắp thiết bị tạo hình thẩm mỹ.</RemoveAestheticShaper.description>
+<RemoveAestheticShaper.jobString>Đang tháo lắp thiết bị tạo hình thẩm mỹ.</RemoveAestheticShaper.jobString>
+<RemoveArmorskinGland.label>Tháo lắp tuyến da giáp</RemoveArmorskinGland.label>
+<RemoveArmorskinGland.description>Tháo lắp tuyến da giáp.</RemoveArmorskinGland.description>
+<RemoveArmorskinGland.jobString>Đang tháo lắp tuyến da giáp.</RemoveArmorskinGland.jobString>
+<RemoveCircadianAssistant.label>Tháo lắp trợ lý sinh lý</RemoveCircadianAssistant.label>
+<RemoveCircadianAssistant.description>Tháo lắp trợ lý sinh lý.</RemoveCircadianAssistant.description>
+<RemoveCircadianAssistant.jobString>Đang tháo lắp trợ lý sinh lý.</RemoveCircadianAssistant.jobString>
+<RemoveCircadianHalfCycler.label>Tháo lắp thiết bị điều tiết nhịp sinh học</RemoveCircadianHalfCycler.label>
+<RemoveCircadianHalfCycler.description>Tháo lắp thiết bị điều tiết nhịp sinh học.</RemoveCircadianHalfCycler.description>
+<RemoveCircadianHalfCycler.jobString>Đang tháo lắp thiết bị điều tiết nhịp sinh học.</RemoveCircadianHalfCycler.jobString>
+<RemoveCoagulator.label>Tháo lắp thiết bị đông máu</RemoveCoagulator.label>
+<RemoveCoagulator.description>Tháo lắp thiết bị đông máu.</RemoveCoagulator.description>
+<RemoveCoagulator.jobString>Đang tháo lắp thiết bị đông máu.</RemoveCoagulator.jobString>
+<RemoveGastroAnalyzer.label>Tháo lắp thiết bị phân tích thực phẩm</RemoveGastroAnalyzer.label>
+<RemoveGastroAnalyzer.description>Tháo lắp thiết bị phân tích thực phẩm.</RemoveGastroAnalyzer.description>
+<RemoveGastroAnalyzer.jobString>Đang tháo lắp thiết bị phân tích thực phẩm.</RemoveGastroAnalyzer.jobString>
+<RemoveHealingEnhancer.label>Tháo lắp thiết bị tăng cường chữa lành</RemoveHealingEnhancer.label>
+<RemoveHealingEnhancer.description>Tháo lắp thiết bị tăng cường chữa lành.</RemoveHealingEnhancer.description>
+<RemoveHealingEnhancer.jobString>Đang tháo lắp thiết bị tăng cường chữa lành.</RemoveHealingEnhancer.jobString>
+<RemoveImmunoenhancer.label>Tháo lắp thiết bị tăng cường miễn dịch</RemoveImmunoenhancer.label>
+<RemoveImmunoenhancer.description>Tháo lắp thiết bị tăng cường miễn dịch.</RemoveImmunoenhancer.description>
+<RemoveImmunoenhancer.jobString>Đang tháo lắp thiết bị tăng cường miễn dịch.</RemoveImmunoenhancer.jobString>
+<RemoveLearningAssistant.label>Tháo lắp trợ lý học tập</RemoveLearningAssistant.label>
+<RemoveLearningAssistant.description>Tháo lắp trợ lý học tập.</RemoveLearningAssistant.description>
+<RemoveLearningAssistant.jobString>Đang tháo lắp trợ lý học tập.</RemoveLearningAssistant.jobString>
+<RemoveLoveEnhancer.label>Tháo lắp thiết bị tăng cường tình yêu</RemoveLoveEnhancer.label>
+<RemoveLoveEnhancer.description>Tháo lắp thiết bị tăng cường tình yêu.</RemoveLoveEnhancer.description>
+<RemoveLoveEnhancer.jobString>Đang tháo lắp thiết bị tăng cường tình yêu.</RemoveLoveEnhancer.jobString>
+<RemoveNeurocalculator.label>Tháo lắp máy tính thần kinh</RemoveNeurocalculator.label>
+<RemoveNeurocalculator.description>Tháo lắp máy tính thần kinh.</RemoveNeurocalculator.description>
+<RemoveNeurocalculator.jobString>Đang tháo lắp máy tính thần kinh.</RemoveNeurocalculator.jobString>
+<RemoveStoneskinGland.label>Tháo lắp tuyến da đá</RemoveStoneskinGland.label>
+<RemoveStoneskinGland.description>Tháo lắp tuyến da đá.</RemoveStoneskinGland.description>
+<RemoveStoneskinGland.jobString>Đang tháo lắp tuyến da đá.</RemoveStoneskinGland.jobString>
+<RemoveToughskinGland.label>Tháo lắp tuyến da bền</RemoveToughskinGland.label>
+<RemoveToughskinGland.description>Tháo lắp tuyến da bền.</RemoveToughskinGland.description>
+<RemoveToughskinGland.jobString>Đang tháo lắp tuyến da bền.</RemoveToughskinGland.jobString>
+</LanguageData>

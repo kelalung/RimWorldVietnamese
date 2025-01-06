@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ChimeraAssault.label>Tấn công của quái vật lai</ChimeraAssault.label>
+	<DevourerAssault.label>Tấn công của quái thú ăn thịt</DevourerAssault.label>
+	<DevourerAssault.letterLabel>Tấn công của quái thú ăn thịt</DevourerAssault.letterLabel>
+	<DevourerAssault.letterText>Một bầy quái vật với miệng rộng đang tấn công!\n\nNhững sinh vật này có miệng đủ lớn để nuốt chửng một người. Hãy tránh xa chúng!</DevourerAssault.letterText>
+	<DevourerWaterAssault.label>Tấn công của quái thú ăn thịt</DevourerWaterAssault.label>
+	<DevourerWaterAssault.letterLabel>Tấn công của quái thú ăn thịt</DevourerWaterAssault.letterLabel>
+	<DevourerWaterAssault.letterText>Một bầy quái vật với miệng rộng đang tấn công!\n\nNhững sinh vật này có miệng đủ lớn để nuốt chửng một người. Hãy tránh xa chúng!</DevourerWaterAssault.letterText>
+	<FleshbeastAttack.label>Tấn công của quái thú thịt</FleshbeastAttack.label>
+	<FleshbeastAttack.letterLabel>Tấn công của quái thú thịt</FleshbeastAttack.letterLabel>
+	<FleshbeastAttack.letterText>Mặt đất dường như không còn đủ chỗ. Từ dưới lòng đất phát ra tiếng động của xương thịt lộn xộn.</FleshbeastAttack.letterText>
+	<FleshbeastAttack.letterTextPlural>Mặt đất bắt đầu xuất hiện một số hố. Từ dưới lòng đất phát ra tiếng động của xương thịt lộn xộn.</FleshbeastAttack.letterTextPlural>
+	<FrenziedAnimals.label>Động vật điên cuồng</FrenziedAnimals.label>
+	<GhoulAttack.label>Tấn công của thây ma</GhoulAttack.label>
+	<GhoulAttack.letterLabel>Tấn công của thây ma</GhoulAttack.letterLabel>
+	<GhoulAttack.letterText>Một thây ma hung dữ đang tấn công!\n\nNó hoàn toàn không có nhân tính, rất tàn bạo và không sợ đau đớn. Hãy chuẩn bị chiến đấu!</GhoulAttack.letterText>
+	<GorehulkAssault.label>Tấn công của quái vật máu</GorehulkAssault.label>
+	<GorehulkAssault.letterLabel>Tấn công của quái vật máu</GorehulkAssault.letterLabel>
+	<GorehulkAssault.letterText>Một nhóm quái vật xấu xí giống người đang tấn công! Chúng có nhiều mảnh vảy sắc nhọn, có thể phóng ra. Tuy nhiên, khi bạn lại gần, cơ thể nặng nề của chúng sẽ khó có thể gây ra mối đe dọa.</GorehulkAssault.letterText>
+	<HateChanters.label>Người ngâm thơ nguyền rủa</HateChanters.label>
+	<PsychicRitualSiege.label>Cuộc bao vây nghi lễ tâm linh</PsychicRitualSiege.label>
+	<Revenant.label>Hồn ma</Revenant.label>
+	<ShamblerAssault.label>Tấn công của thây ma đi lang thang</ShamblerAssault.label>
+	<ShamblerSwarm.label>Bầy thây ma đi lang thang</ShamblerSwarm.label>
+	<ShamblerSwarmAnimals.label>Bầy thây ma đi lang thang</ShamblerSwarmAnimals.label>
+	<SightstealerArrival.label>Quái vật tàng hình xuất hiện</SightstealerArrival.label>
+	<SightstealerSwarm.label>Bầy quái vật tàng hình</SightstealerSwarm.label>
+	<SightstealerSwarm.letterLabel>Tiếng rít xa xăm</SightstealerSwarm.letterLabel>
+	<SightstealerSwarm.letterText>Các thuộc địa của bạn nghe thấy tiếng rít không người từ xa.\n\nChắc chắn có thứ gì đó ở đó.</SightstealerSwarm.letterText>
+	<SmallShamblerSwarm.label>Bầy thây ma đi lang thang</SmallShamblerSwarm.label>
+	<SmallShamblerSwarm.letterLabel>Bầy thây ma đi lang thang đang đến gần</SmallShamblerSwarm.letterLabel>
+	<SmallShamblerSwarm.letterText>{0} thây ma đi lang thang đang đến gần. Sức mạnh bất thường điều khiển chúng đang suy giảm, vì vậy chúng sẽ nhanh chóng chết vì suy kiệt trao đổi chất.\n\nNếu bạn có thể bắt giữ một con, bạn có thể điều tra để thu thập kiến thức dị thường. Hoặc bạn có thể để mặc chúng, có thể chúng sẽ không chú ý đến bạn.</SmallShamblerSwarm.letterText>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EggCassowaryFertilized.label>Trứng đà điểu (đã thụ tinh)</EggCassowaryFertilized.label>
+	<EggCassowaryFertilized.description>Trứng đà điểu đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành gà con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggCassowaryFertilized.description>
+	<EggChickenFertilized.label>Trứng gà (đã thụ tinh)</EggChickenFertilized.label>
+	<EggChickenFertilized.description>Trứng gà đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành gà con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggChickenFertilized.description>
+	<EggChickenUnfertilized.label>Trứng gà (chưa thụ tinh)</EggChickenUnfertilized.label>
+	<EggChickenUnfertilized.description>Trứng gà chưa thụ tinh. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggChickenUnfertilized.description>
+	<EggCobraFertilized.label>Trứng rắn hổ mang (đã thụ tinh)</EggCobraFertilized.label>
+	<EggCobraFertilized.description>Trứng rắn hổ mang đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành rắn con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggCobraFertilized.description>
+	<EggDuckFertilized.label>Trứng vịt (đã thụ tinh)</EggDuckFertilized.label>
+	<EggDuckFertilized.description>Trứng vịt đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành vịt con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggDuckFertilized.description>
+	<EggDuckUnfertilized.label>Trứng vịt (chưa thụ tinh)</EggDuckUnfertilized.label>
+	<EggDuckUnfertilized.description>Trứng vịt chưa thụ tinh. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggDuckUnfertilized.description>
+	<EggEmuFertilized.label>Trứng đà điểu châu Úc (đã thụ tinh)</EggEmuFertilized.label>
+	<EggEmuFertilized.description>Trứng đà điểu châu Úc đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành gà con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggEmuFertilized.description>
+	<EggGooseFertilized.label>Trứng ngỗng (đã thụ tinh)</EggGooseFertilized.label>
+	<EggGooseFertilized.description>Trứng ngỗng đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành ngỗng con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggGooseFertilized.description>
+	<EggGooseUnfertilized.label>Trứng ngỗng (chưa thụ tinh)</EggGooseUnfertilized.label>
+	<EggGooseUnfertilized.description>Trứng ngỗng chưa thụ tinh. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggGooseUnfertilized.description>
+	<EggIguanaFertilized.label>Trứng kỳ nhông (đã thụ tinh)</EggIguanaFertilized.label>
+	<EggIguanaFertilized.description>Trứng kỳ nhông đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành kỳ nhông con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggIguanaFertilized.description>
+	<EggOstrichFertilized.label>Trứng đà điểu (đã thụ tinh)</EggOstrichFertilized.label>
+	<EggOstrichFertilized.description>Trứng đà điểu đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành đà điểu con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggOstrichFertilized.description>
+	<EggTortoiseFertilized.label>Trứng rùa (đã thụ tinh)</EggTortoiseFertilized.label>
+	<EggTortoiseFertilized.description>Trứng rùa đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành rùa con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggTortoiseFertilized.description>
+	<EggTurkeyFertilized.label>Trứng gà tây (đã thụ tinh)</EggTurkeyFertilized.label>
+	<EggTurkeyFertilized.description>Trứng gà tây đã thụ tinh. Nếu mọi thứ diễn ra suôn sẻ, nó sẽ nở thành gà tây con. Có thể ăn sống, nhưng tốt nhất là nên nấu chín trước khi ăn.</EggTurkeyFertilized.description>
+	<InsectJelly.label>Jelly côn trùng</InsectJelly.label>
+	<InsectJelly.description>Chất gel mà các loài côn trùng khổng lồ lưu trữ làm thức ăn. Mịn như lụa, giàu dinh dưỡng, có thể mang lại cảm giác dễ chịu cho người sử dụng. Do đặc tính sinh học độc đáo, nó có thể nuôi dưỡng hầu hết mọi sinh vật mà không bị hỏng.\n\nCũng có thể được sử dụng để nuôi trẻ em.</InsectJelly.description>
+	<Milk.label>Sữa</Milk.label>
+	<Milk.description>Thức uống từ động vật.\n\nCũng có thể được sử dụng để nuôi trẻ em.</Milk.description>
+	<Skull.label>Hộp sọ</Skull.label>
+	<Skull.description>Một chiếc hộp sọ của con người.</Skull.description>
+</LanguageData>

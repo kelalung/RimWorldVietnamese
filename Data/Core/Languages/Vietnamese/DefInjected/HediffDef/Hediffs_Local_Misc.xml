@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ChemicalDamageModerate.label>Tổn thương hóa học vừa</ChemicalDamageModerate.label>
+	<ChemicalDamageModerate.description>Tổn thương hóa học ở cấp độ tế bào.</ChemicalDamageModerate.description>
+	<ChemicalDamageSevere.label>Tổn thương hóa học nặng</ChemicalDamageSevere.label>
+	<ChemicalDamageSevere.description>Tổn thương hóa học ở cấp độ tế bào.</ChemicalDamageSevere.description>
+	<Cirrhosis.label>Xơ gan</Cirrhosis.label>
+	<Cirrhosis.description>Bệnh gan mãn tính tiến triển do uống rượu quá mức.</Cirrhosis.description>
+	<ResurrectionPsychosis.label>Tâm thần phục sinh</ResurrectionPsychosis.label>
+	<ResurrectionPsychosis.description>Trạng thái tâm thần hỗn loạn do chất lỏng phục sinh gây ra. Tâm thần phục sinh cuối cùng sẽ phát triển thành tâm thần phân liệt và tử vong.\nCác sinh vật được phục sinh cần chất lỏng cơ khí để tái tạo cơ thể ở cấp độ tế bào. Tuy nhiên, cơ chế nano thường có thể gặp lỗi ở những nơi quan trọng, gây ra tổn thương nghiêm trọng cho hệ thần kinh trung ương của sinh vật. Thời gian từ khi chết càng lâu, chất lỏng cơ khí càng cần nhiều thời gian hơn để phục sinh và làm tăng khả năng xảy ra lỗi.</ResurrectionPsychosis.description>
+	<ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} mắc bệnh tâm thần phục sinh giai đoạn cuối, đây là trạng thái tâm thần hỗn loạn do chất lỏng phục sinh gây ra. Tình trạng sẽ từ từ xấu đi và cuối cùng dẫn đến tử vong.</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+	<ResurrectionPsychosis.descriptionShort>Trạng thái tâm thần hỗn loạn do phục sinh gây ra. Tâm thần phục sinh có tính tiến triển, cuối cùng dẫn đến tâm thần phân liệt và tử vong.</ResurrectionPsychosis.descriptionShort>
+	<ResurrectionPsychosis.stages.early-0.label>Giai đoạn đầu</ResurrectionPsychosis.stages.early-0.label>
+	<ResurrectionPsychosis.stages.early-1.label>Giai đoạn đầu</ResurrectionPsychosis.stages.early-1.label>
+	<ResurrectionPsychosis.stages.moderate.label>Giai đoạn trung bình</ResurrectionPsychosis.stages.moderate.label>
+	<ResurrectionPsychosis.stages.advanced.label>Giai đoạn giữa và cuối</ResurrectionPsychosis.stages.advanced.label>
+	<ResurrectionPsychosis.stages.severe.label>Giai đoạn nặng</ResurrectionPsychosis.stages.severe.label>
+	<ResurrectionPsychosis.stages.total.label>Giai đoạn bùng phát</ResurrectionPsychosis.stages.total.label>
+	<ResurrectionPsychosis.stages.catatonic.label>Giai đoạn đờ đẫn</ResurrectionPsychosis.stages.catatonic.label>
+	<Scaria.label>Bệnh cuồng loạn</Scaria.label>
+	<Scaria.description>Bệnh này khiến sinh vật bị nhiễm vào trạng thái cuồng loạn. Động vật bị nhiễm có thể được điều trị thông qua phẫu thuật y tế đặc biệt, nhưng trước tiên phải bị đánh ngất. Nếu không được xử lý đúng cách, bệnh này sẽ giết chết sinh vật trong khoảng 5 ngày. Bệnh này sẽ sản sinh ra độc tố lan rộng khắp cơ thể và ăn mòn da. Động vật nhiễm bệnh cuồng loạn có thể bị phân hủy khi chết, do đó không thể bị giết để lấy da và thịt.</Scaria.description>
+	<Scaria.descriptionShort>Bệnh gây ra trạng thái cuồng loạn cho sinh vật bị ảnh hưởng. Nếu không được điều trị, bệnh cuồng loạn sẽ giết chết vật chủ khoảng năm ngày sau khi nhiễm bệnh.</Scaria.descriptionShort>
+	<Sterilized.label>Đã triệt sản</Sterilized.label>
+	<Sterilized.description>Sinh vật này đã mất khả năng sinh sản vĩnh viễn.</Sterilized.description>
+	<TraumaSavant.label>Chấn thương kích thích</TraumaSavant.label>
+	<TraumaSavant.description>Trạng thái bất thường do tổn thương tế bào não gây ra. Khi não bị tổn thương, bệnh nhân có thể phát triển tài năng cực kỳ trong một số lĩnh vực, nhưng không thể giao tiếp bình thường.</TraumaSavant.description>
+	<TraumaSavant.labelNoun>Chấn thương kích thích</TraumaSavant.labelNoun>
+</LanguageData>

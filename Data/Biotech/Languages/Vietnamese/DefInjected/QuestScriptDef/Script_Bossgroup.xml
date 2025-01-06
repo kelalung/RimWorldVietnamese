@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bossgroup.questContentRules.rulesStrings>
+<li>bossDefeatedLetterLabel-&gt;[escortees0_label] đã bị đánh bại: [reward_label]</li>
+<li>bossDefeatedStudyChipLetterText-&gt;[defeated][study][manufacture]</li>
+<li>bossDefeatedLetterText-&gt;[defeated][manufacture]</li>
+<li>defeated-&gt;Kẻ thù [escortees0_label] đã bị đánh bại và đã rơi một [reward_label]!</li>
+<li>manufacture-&gt;\n\nChip này cũng có thể được sử dụng để tạo ra các cơ thể máy móc tiên tiến hơn.</li>
+<li>study-&gt;\n\nBạn có thể chọn một kỹ sư nhấp chuột phải vào chip để nghiên cứu [reward_label]. Nghiên cứu một [reward_label] giúp mở khóa các công nghệ nghiên cứu máy móc cấp cao hơn.</li>
+</Bossgroup.questContentRules.rulesStrings>
+<Bossgroup.questDescriptionRules.rulesStrings>
+<li>questDescription-&gt;bossgroup</li>
+</Bossgroup.questDescriptionRules.rulesStrings>
+<Bossgroup.questNameRules.rulesStrings>
+<li>questName-&gt;bossgroup</li>
+</Bossgroup.questNameRules.rulesStrings>
+</LanguageData>

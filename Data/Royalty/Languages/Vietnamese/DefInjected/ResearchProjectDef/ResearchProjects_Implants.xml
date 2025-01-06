@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtificialMetabolism.label>Chuyển hóa nhân tạo</ArtificialMetabolism.label>
+<ArtificialMetabolism.description>Mở khóa chế tạo cơ thể sinh học có thể tiêu hóa thực phẩm một cách an toàn và hiệu quả hơn dạ dày sinh học.</ArtificialMetabolism.description>
+<ArtificialMetabolism.generalRules.rulesStrings>
+    <li>subject-&gt;Chuyển hóa nhân tạo</li>
+    <li>subject_story-&gt;Cảm thấy một cơn đói vô tận, chỉ có thể giải quyết bằng cách lắp đặt dạ dày nhân tạo</li>
+    <li>subject_story-&gt;Không nói cho nữ hoàng biết về việc lắp đặt dạ dày giải độc, và tiếp tục làm người thử món ăn của bà</li>
+    <li>subject_story-&gt;Cảm thấy ghê tởm với thức ăn. Dạ dày hạt nhân có thể giảm nhu cầu ăn uống đáng kể, mặc dù bức xạ mà nó phát ra là có hại</li>
+    <li>subject_gerund-&gt;Chế tạo dạ dày sinh học</li>
+    <li>subject_gerund-&gt;Chế tạo dạ dày nhân tạo</li>
+</ArtificialMetabolism.generalRules.rulesStrings>
+<BrainWiring.label>Kết nối não</BrainWiring.label>
+<BrainWiring.description>Mở khóa chế tạo các cấy ghép não có thể cải thiện tâm trạng hoặc giảm đau.</BrainWiring.description>
+<BrainWiring.generalRules.rulesStrings>
+    <li>subject-&gt;Cấy ghép não</li>
+    <li>subject_story-&gt;Đã viết một bài luận về việc các tín đồ bị ngược đãi sử dụng đinh não để nâng cao tinh thần</li>
+    <li>subject_story-&gt;Đã cấy chip giảm đau cho một đội tấn công. Họ đã tiêu diệt một đám quân đông đảo, nhưng thiệt hại cũng rất lớn</li>
+    <li>subject_story-&gt;Cảm thấy vui vẻ sau khi cấy chip âm nhạc, nhưng cuộc sống vẫn gặp nhiều khó khăn</li>
+    <li>subject_gerund-&gt;Chế tạo cấy ghép não</li>
+</BrainWiring.generalRules.rulesStrings>
+<CircadianInfluence.label>Ảnh hưởng nhịp sinh học</CircadianInfluence.label>
+<CircadianInfluence.description>Mở khóa chế tạo cấy ghép não có thể điều chỉnh nhịp ngày đêm thông qua phản ứng hóa học, giảm nhu cầu ngủ.</CircadianInfluence.description>
+<CircadianInfluence.generalRules.rulesStrings>
+    <li>subject-&gt;Cấy ghép ức chế giấc ngủ</li>
+    <li>subject_story-&gt;Nghiên cứu phương pháp "ngủ sóng chậm một bên" của loài cá voi và lên kế hoạch chế tạo một thiết bị nhịp sinh học mới</li>
+    <li>subject_story-&gt;Bắt buộc tất cả những người xin việc làm bảo vệ thành phố phải lắp đặt thiết bị nhịp sinh học, để họ có thể luôn ở lại vị trí khi cần</li>
+    <li>subject_story-&gt;Nghiên cứu các loại phôi thai kỳ lạ từ ếch và hươu cao cổ, để xác định loại nào là cần thiết cho tuyến nhịp sinh học</li>
+    <li>subject_gerund-&gt;Chế tạo cấy ghép ức chế giấc ngủ</li>
+</CircadianInfluence.generalRules.rulesStrings>
+<CompactWeaponry.label>Vũ khí gọn nhẹ</CompactWeaponry.label>
+<CompactWeaponry.description>Mở khóa chế tạo vũ khí sinh học gọn nhẹ và có thể giấu được, có thể tích hợp vào các bộ phận cơ thể khác nhau.</CompactWeaponry.description>
+<CompactWeaponry.generalRules.rulesStrings>
+    <li>subject-&gt;Vũ khí gọn nhẹ</li>
+    <li>subject_story-&gt;Khi làm thám tử, đã được cứu sống nhiều lần bởi các đinh gối được lắp đặt trên cơ thể</li>
+    <li>subject_story-&gt;Đã mất cả mùa hè để chữa lành vết thương do móng vuốt của nô lệ trốn thoát gây ra</li>
+    <li>subject_story-&gt;Làm công việc bảo vệ trong sảnh và quét khách ra vào, trong khi một người bán hàng nửa máy móc cố gắng xâm nhập</li>
+    <li>subject_gerund-&gt;Chế tạo vũ khí sinh học gọn nhẹ</li>
+</CompactWeaponry.generalRules.rulesStrings>
+<FleshShaping.label>Định hình cơ thể</FleshShaping.label>
+<FleshShaping.description>Mở khóa chế tạo cơ thể sinh học có thể mô phỏng hoặc định hình lại cơ thể, thường dùng để nâng cao vẻ đẹp hoặc thú vui cá nhân.</FleshShaping.description>
+<FleshShaping.generalRules.rulesStrings>
+    <li>subject-&gt;Phẫu thuật thẩm mỹ</li>
+    <li>subject_story-&gt;Đã ngăn chặn sự suy giảm dân số của thế giới đô thị bằng cách phát miễn phí thiết bị tăng cường tình yêu và hàng hóa xa xỉ</li>
+    <li>subject_story-&gt;Được thuê làm bác sĩ phẫu thuật chính tại một thẩm mỹ viện, hàng ngày chế tạo các bộ phận cơ thể đẹp mắt</li>
+    <li>subject_story-&gt;Đã kể cho những đứa trẻ ở thế giới rực rỡ những câu chuyện kinh dị về việc thay thế mũi thẩm mỹ bằng mũi bình thường bên ánh lửa trại</li>
+    <li>subject_gerund-&gt;Chế tạo cơ thể sinh học thẩm mỹ</li>
+</FleshShaping.generalRules.rulesStrings>
+<HealingFactors.label>Yếu tố chữa lành</HealingFactors.label>
+<HealingFactors.description>Mở khóa chế tạo các cơ thể sinh học có thể tăng tốc độ chữa lành tự nhiên.</HealingFactors.description>
+<HealingFactors.generalRules.rulesStrings>
+    <li>subject-&gt;Cơ thể sinh học chữa lành</li>
+    <li>subject_story-&gt;Nghiên cứu hoàng gia để xác nhận liệu họ có dòng máu xanh chảy trong cơ thể hay không. Thực tế là họ không có, nhưng tốc độ tự chữa lành của họ thực sự rất nhanh</li>
+    <li>subject_story-&gt;Đảm bảo rằng tất cả những người lính chết đều được cấy ghép thiết bị tăng cường chữa lành và phôi thai phù hợp, để họ có thể tham gia chiến đấu thường xuyên hơn</li>
+    <li>subject_story-&gt;Nghiên cứu xác chết cổ xưa được tìm thấy trong ngôi đền ngủ đông, và lấy được thiết bị chữa lành nhanh từ cơ thể họ</li>
+    <li>subject_gerund-&gt;Chế tạo cơ thể sinh học tái sinh</li>
+</HealingFactors.generalRules.rulesStrings>
+<MolecularAnalysis.label>Phân tích phân tử</MolecularAnalysis.label>
+<MolecularAnalysis.description>Với sự trợ giúp của công nghệ phân tích phân tử, mở khóa chế tạo các cơ thể sinh học có thể tăng cường hệ miễn dịch hoặc phân tích thực phẩm.</MolecularAnalysis.description>
+<MolecularAnalysis.generalRules.rulesStrings>
+    <li>subject-&gt;Cơ thể sinh học phân tích phân tử</li>
+    <li>subject_story-&gt;Giải thích cho các đầu bếp tại trường nấu ăn rằng họ không bao giờ được lắp đặt mũi thẩm mỹ, nếu không thiết bị phân tích thực phẩm sẽ không hoạt động</li>
+    <li>subject_story-&gt;Đã lắp đặt thiết bị tăng cường miễn dịch, để có thể tự do di chuyển trong thuộc địa bị cách ly</li>
+    <li>subject_story-&gt;Cảnh báo mọi người về sự xung đột phần cứng tiềm ẩn giữa các bộ phận sinh học và thiết bị phân tích phân tử</li>
+    <li>subject_gerund-&gt;Chế tạo cơ thể sinh học phân tích phân tử</li>
+</MolecularAnalysis.generalRules.rulesStrings>
+<NeuralComputation.label>Tính toán thần kinh</NeuralComputation.label>
+<NeuralComputation.description>Thông qua việc sử dụng giao diện não-máy ở mức nông, mở khóa chế tạo các cấy ghép não có thể hỗ trợ suy nghĩ và học tập.</NeuralComputation.description>
+<NeuralComputation.generalRules.rulesStrings>
+    <li>subject-&gt;Cấy ghép não</li>
+    <li>subject-&gt;Tính toán thần kinh</li>
+    <li>subject_story-&gt;Rất hiểu cách sử dụng EMP để làm tê liệt não của người gác, nhằm có thời gian giải cứu tù nhân</li>
+    <li>subject_story-&gt;Yêu cầu tất cả giáo viên lắp đặt thiết bị trợ giúp học tập hoặc máy tính thần kinh</li>
+    <li>subject_story-&gt;Đã lắp đặt thiết bị trợ giúp học tập trong não. Tuy nhiên, khi bị hải tặc bắt cóc bằng EMP, nhược điểm của thiết bị trợ giúp học tập đã lộ rõ</li>
+    <li>subject_gerund-&gt;Chế tạo cấy ghép não</li>
+</NeuralComputation.generalRules.rulesStrings>
+<SkinHardening.label>Cứng hóa da</SkinHardening.label>
+<SkinHardening.description>Chế tạo các cấy ghép có thể làm tăng độ bền của da, tạo ra hiệu ứng tương tự như giáp.</SkinHardening.description>
+<SkinHardening.generalRules.rulesStrings>
+    <li>subject-&gt;Cấy ghép dưới da</li>
+    <li>subject_story-&gt;Nghiên cứu tuyến của cây khiên da và suy luận rằng nó có thể áp dụng cho con người</li>
+    <li>subject_story-&gt;Du lịch cùng những người nuôi thú đá ở thế giới khủng long, điều tra lớp vỏ dày trên cơ thể họ</li>
+    <li>subject_story-&gt;Sử dụng tuyến máy nano để cứng hóa da con người, nhưng cái giá phải trả là sẽ trở nên xấu xí</li>
+    <li>subject_gerund-&gt;Chế tạo cấy ghép da cứng</li>
+</SkinHardening.generalRules.rulesStrings>
+<SpecializedLimbs.label>Chi nhánh chuyên dụng</SpecializedLimbs.label>
+<SpecializedLimbs.description>Mở khóa chế tạo các cơ thể sinh học được thiết kế đặc biệt cho mục đích cụ thể - chiến đấu hoặc lao động.</SpecializedLimbs.description>
+ <SpecializedLimbs.generalRules.rulesStrings>
+    <li>subject-&gt;Chân tay chuyên dụng</li>
+    <li>subject_story-&gt;Đã phỏng vấn một số nông dân hợp đồng ở thế giới phong kiến trước và sau khi lắp đặt tay làm nông</li>
+    <li>subject_story-&gt;Quan sát một chiến binh được trang bị móng vuốt năng lượng đối đầu với một thợ mỏ lắp tay đào</li>
+    <li>subject_story-&gt;Đã từng làm bác sĩ phẫu thuật ở thế giới biên giới, thay thế các chi bị mất bằng mọi thứ từ tay gỗ đến móng vuốt năng lượng</li>
+    <li>subject_gerund-&gt;Chế tạo chân tay sinh học chuyên dụng</li>
+</SpecializedLimbs.generalRules.rulesStrings>
+<VenomSynthesis.label>Tổng hợp độc tố</VenomSynthesis.label>
+<VenomSynthesis.description>Mở khóa chế tạo cơ thể sinh học có thể tạo ra độc tố qua phản ứng hóa học bên trong, dùng để áp dụng độc tố lên kẻ thù trong trận chiến.</VenomSynthesis.description>
+<VenomSynthesis.generalRules.rulesStrings>
+    <li>subject-&gt;Cơ thể sinh học tổng hợp độc tố</li>
+    <li>subject_story-&gt;Sử dụng một lò phản ứng hóa học nhỏ gọn có thể co lại và lưu trữ bên trong</li>
+    <li>subject_story-&gt;Nghiên cứu chuột thối sống trong thế giới rác và viết một bài luận về độc tố đặc biệt mà chúng mang theo khi cắn</li>
+    <li>subject_story-&gt;Học cách sử dụng lưỡi dao nhỏ có thể gây chết người chỉ bằng một vết cắt</li>
+    <li>subject_gerund-&gt;Chế tạo vũ khí độc tố sinh học</li>
+</VenomSynthesis.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_BiomutationLance.label>Giáo đâm biến dị sinh học</Apparel_BiomutationLance.label>
+	<Apparel_BiomutationLance.description>Vật phẩm tâm linh có giới hạn sử dụng. Nó có thể biến dạng và định hình lại mô cơ của mục tiêu, biến chúng thành những sinh vật đáng sợ.\n\nVật phẩm tâm linh này được chế tạo từ một mảnh siêu phàm tối tăm. Nó có tầm bắn dài hơn, nhưng vẫn cần mục tiêu trong tầm nhìn.</Apparel_BiomutationLance.description>
+	<Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>Tiếp năng lượng</Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_BiomutationLance.verbs.biomutation_lance.label>Giáo đâm biến dị sinh học</Apparel_BiomutationLance.verbs.biomutation_lance.label>
+	<Apparel_ShardPsychicInsanityLance.label>Giáo đâm điên cuồng mảnh vỡ</Apparel_ShardPsychicInsanityLance.label>
+	<Apparel_ShardPsychicInsanityLance.description>Vật phẩm tâm linh có giới hạn sử dụng. Nó có thể ngập tràn ý thức của mục tiêu bằng cảm giác giả tạo khủng khiếp, khiến chúng rơi vào trạng thái điên cuồng tạm thời.\n\nVật phẩm tâm linh này được chế tạo từ một mảnh siêu phàm tối tăm. Nó có tầm bắn ngắn hơn so với giáo đâm điên cuồng thông thường, nhưng vẫn cần mục tiêu trong tầm nhìn.\n\nLưu ý: Sử dụng giáo đâm điên cuồng có khả năng gây bỏng não cho mục tiêu.</Apparel_ShardPsychicInsanityLance.description>
+	<Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>Tiếp năng lượng</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>Giáo đâm điên cuồng mảnh vỡ</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>
+	<Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>Miễn dịch với điên cuồng tâm linh</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>
+	<Apparel_ShardPsychicShockLance.label>Giáo đâm sốc tâm linh mảnh vỡ</Apparel_ShardPsychicShockLance.label>
+	<Apparel_ShardPsychicShockLance.description>Vật phẩm tâm linh có giới hạn sử dụng. Nó có thể tác động vào ý thức của mục tiêu bằng hình ảnh hỗn loạn, gây rối loạn cảm giác, khiến chúng rơi vào trạng thái sốc tâm linh tạm thời.\n\nVật phẩm tâm linh này được chế tạo từ một mảnh siêu phàm tối tăm. Nó có tầm bắn ngắn hơn so với giáo đâm sốc tâm linh thông thường, nhưng vẫn cần mục tiêu trong tầm nhìn.\n\nLưu ý: Sử dụng giáo đâm sốc có khả năng gây bỏng não cho mục tiêu.</Apparel_ShardPsychicShockLance.description>
+	<Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>Tiếp năng lượng</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>Giáo đâm sốc tâm linh mảnh vỡ</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>
+	<Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>Miễn dịch với sốc tâm linh</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>
+</LanguageData>

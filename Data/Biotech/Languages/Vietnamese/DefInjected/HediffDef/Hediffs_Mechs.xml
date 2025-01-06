@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SelfShutdown.label>Ngủ đông (tự nạp năng lượng)</SelfShutdown.label>
+<SelfShutdown.description>Cơ thể cơ khí này không thể duy trì hoạt động do thiếu năng lượng, đã vào trạng thái ngủ tự động để sạc lại. Tốc độ bổ sung năng lượng trong trạng thái này chậm hơn nhiều so với khi ở trạm sạc.</SelfShutdown.description>
+</LanguageData>

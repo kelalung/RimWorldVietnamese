@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CookMealFine.label>Chế biến món ăn tinh tế</CookMealFine.label>
+	<CookMealFine.description>Chế biến một món ăn phức tạp bằng thịt và nguyên liệu thực vật.</CookMealFine.description>
+	<CookMealFine.ingredients.0.filter.customSummary>Protein</CookMealFine.ingredients.0.filter.customSummary>
+	<CookMealFine.jobString>Đang chế biến món ăn tinh tế.</CookMealFine.jobString>
+	<CookMealFine_Meat.label>Chế biến món ăn thịt tinh tế</CookMealFine_Meat.label>
+	<CookMealFine_Meat.description>Chế biến một món ăn phức tạp bằng nguyên liệu thịt.</CookMealFine_Meat.description>
+	<CookMealFine_Meat.jobString>Đang chế biến món ăn thịt tinh tế.</CookMealFine_Meat.jobString>
+	<CookMealFine_Veg.label>Chế biến món ăn chay tinh tế</CookMealFine_Veg.label>
+	<CookMealFine_Veg.description>Chế biến một món ăn phức tạp bằng nguyên liệu thực vật.</CookMealFine_Veg.description>
+	<CookMealFine_Veg.ingredients.0.filter.customSummary>Nguyên liệu thực vật</CookMealFine_Veg.ingredients.0.filter.customSummary>
+	<CookMealFine_Veg.jobString>Đang chế biến món ăn chay tinh tế.</CookMealFine_Veg.jobString>
+	<CookMealFineBulk.label>Chế biến món ăn tinh tế x4</CookMealFineBulk.label>
+	<CookMealFineBulk.description>Chế biến bốn món ăn phức tạp bằng thịt và nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tốt, một số nguyên liệu sẽ bị lãng phí.</CookMealFineBulk.description>
+	<CookMealFineBulk.ingredients.0.filter.customSummary>Protein</CookMealFineBulk.ingredients.0.filter.customSummary>
+	<CookMealFineBulk.jobString>Đang chế biến bốn món ăn tinh tế.</CookMealFineBulk.jobString>
+	<CookMealFineBulk_Meat.label>Chế biến món ăn thịt tinh tế x4</CookMealFineBulk_Meat.label>
+	<CookMealFineBulk_Meat.description>Chế biến bốn món ăn phức tạp bằng nguyên liệu thịt. Để tạo ra trải nghiệm ăn uống tốt, một số nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thịt để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealFineBulk_Meat.description>
+	<CookMealFineBulk_Meat.jobString>Đang chế biến bốn món ăn thịt tinh tế.</CookMealFineBulk_Meat.jobString>
+	<CookMealFineBulk_Veg.label>Chế biến món ăn chay tinh tế x4</CookMealFineBulk_Veg.label>
+	<CookMealFineBulk_Veg.description>Chế biến bốn món ăn phức tạp bằng nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tốt, một số nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thực vật để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealFineBulk_Veg.description>
+	<CookMealFineBulk_Veg.ingredients.0.filter.customSummary>Nguyên liệu thực vật</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+	<CookMealFineBulk_Veg.jobString>Đang chế biến bốn món ăn chay tinh tế.</CookMealFineBulk_Veg.jobString>
+	<CookMealLavish.label>Chế biến món ăn xa xỉ</CookMealLavish.label>
+	<CookMealLavish.description>Chế biến một món ăn rất phức tạp bằng thịt và nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí.</CookMealLavish.description>
+	<CookMealLavish.ingredients.0.filter.customSummary>Protein</CookMealLavish.ingredients.0.filter.customSummary>
+	<CookMealLavish.jobString>Đang chế biến món ăn xa xỉ.</CookMealLavish.jobString>
+	<CookMealLavish_Meat.label>Chế biến món ăn thịt xa xỉ</CookMealLavish_Meat.label>
+	<CookMealLavish_Meat.description>Chế biến một món ăn rất phức tạp bằng nguyên liệu thịt. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thịt để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealLavish_Meat.description>
+	<CookMealLavish_Meat.jobString>Đang chế biến món ăn thịt xa xỉ.</CookMealLavish_Meat.jobString>
+	<CookMealLavish_Veg.label>Chế biến món ăn chay xa xỉ</CookMealLavish_Veg.label>
+	<CookMealLavish_Veg.description>Chế biến một món ăn rất phức tạp bằng nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thực vật để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealLavish_Veg.description>
+	<CookMealLavish_Veg.ingredients.0.filter.customSummary>Nguyên liệu thực vật</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+	<CookMealLavish_Veg.jobString>Đang chế biến món ăn chay xa xỉ.</CookMealLavish_Veg.jobString>
+	<CookMealLavishBulk.label>Chế biến món ăn xa xỉ x4</CookMealLavishBulk.label>
+	<CookMealLavishBulk.description>Chế biến bốn món ăn rất phức tạp bằng thịt và nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí.</CookMealLavishBulk.description>
+	<CookMealLavishBulk.ingredients.0.filter.customSummary>Protein</CookMealLavishBulk.ingredients.0.filter.customSummary>
+	<CookMealLavishBulk.jobString>Đang chế biến bốn món ăn xa xỉ.</CookMealLavishBulk.jobString>
+	<CookMealLavishBulk_Meat.label>Chế biến món ăn thịt xa xỉ x4</CookMealLavishBulk_Meat.label>
+	<CookMealLavishBulk_Meat.description>Chế biến bốn món ăn rất phức tạp bằng nguyên liệu thịt. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thịt để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealLavishBulk_Meat.description>
+	<CookMealLavishBulk_Meat.jobString>Đang chế biến bốn món ăn thịt xa xỉ.</CookMealLavishBulk_Meat.jobString>
+	<CookMealLavishBulk_Veg.label>Chế biến món ăn chay xa xỉ x4</CookMealLavishBulk_Veg.label>
+	<CookMealLavishBulk_Veg.description>Chế biến bốn món ăn rất phức tạp bằng nguyên liệu thực vật. Để tạo ra trải nghiệm ăn uống tuyệt vời, nhiều nguyên liệu sẽ bị lãng phí. Nếu chỉ dùng thực vật để chế biến các hương vị khác nhau, sẽ làm giảm hiệu suất sử dụng nguyên liệu.</CookMealLavishBulk_Veg.description>
+	<CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>Nguyên liệu thực vật</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+	<CookMealLavishBulk_Veg.jobString>Đang chế biến bốn món ăn chay xa xỉ.</CookMealLavishBulk_Veg.jobString>
+	<CookMealSimple.label>Chế biến món ăn đơn giản</CookMealSimple.label>
+	<CookMealSimple.description>Chế biến một món ăn đơn giản bằng bất kỳ nguyên liệu nào.</CookMealSimple.description>
+	<CookMealSimple.jobString>Đang chế biến món ăn đơn giản.</CookMealSimple.jobString>
+	<CookMealSimpleBulk.label>Chế biến món ăn đơn giản x4</CookMealSimpleBulk.label>
+	<CookMealSimpleBulk.description>Chế biến bốn món ăn đơn giản bằng bất kỳ nguyên liệu nào.</CookMealSimpleBulk.description>
+	<CookMealSimpleBulk.jobString>Đang chế biến bốn món ăn đơn giản.</CookMealSimpleBulk.jobString>
+	<CookMealSurvival.label>Chế tạo thực phẩm sinh tồn đóng gói</CookMealSurvival.label>
+	<CookMealSurvival.description>Chế biến một thực phẩm sinh tồn đóng gói bằng thịt và nguyên liệu thực vật. Nhiều nguyên liệu sẽ bị lãng phí.</CookMealSurvival.description>
+	<CookMealSurvival.ingredients.0.filter.customSummary>Protein</CookMealSurvival.ingredients.0.filter.customSummary>
+	<CookMealSurvival.jobString>Đang chế biến thực phẩm sinh tồn đóng gói.</CookMealSurvival.jobString>
+	<CookMealSurvivalBulk.label>Chế tạo thực phẩm sinh tồn đóng gói x4</CookMealSurvivalBulk.label>
+	<CookMealSurvivalBulk.description>Chế biến bốn thực phẩm sinh tồn đóng gói bằng thịt và nguyên liệu thực vật. Nhiều nguyên liệu sẽ bị lãng phí.</CookMealSurvivalBulk.description>
+	<CookMealSurvivalBulk.ingredients.0.filter.customSummary>Protein</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+	<CookMealSurvivalBulk.jobString>Đang chế biến bốn thực phẩm sinh tồn đóng gói.</CookMealSurvivalBulk.jobString>
+</LanguageData>

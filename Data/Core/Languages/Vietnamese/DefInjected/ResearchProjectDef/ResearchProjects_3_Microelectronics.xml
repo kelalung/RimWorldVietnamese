@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DeepDrilling.label>Khoan sâu</DeepDrilling.label>
+	<DeepDrilling.description>Mở khóa xây dựng "khoan sâu", dùng để khai thác tài nguyên nằm sâu dưới mặt đất. Cần sử dụng máy quét địa chất để khảo sát trước.</DeepDrilling.description>
+	<DeepDrilling.generalRules.rulesStrings>
+		<li>subject->Khoan sâu</li>
+		<li>subject_story->Cùng một công ty do chuột đất lãnh đạo, nghiên cứu việc khai thác ở độ sâu lớn nhất.</li>
+		<li>subject_story->Khoan sâu vào lớp băng và phát hiện ra hệ sinh thái của loài người đã tuyệt chủng trên thế giới này.</li>
+		<li>subject_story->Khai thác tài nguyên từ lõi trái đất, nhờ đó trở nên giàu có.</li>
+		<li>subject_gerund->Khoan sâu</li>
+	</DeepDrilling.generalRules.rulesStrings>
+	<FlatscreenTelevision.label>TV màn phẳng</FlatscreenTelevision.label>
+	<FlatscreenTelevision.description>Mở khóa xây dựng "TV màn phẳng" độ phân giải cao, để tận hưởng nhiều niềm vui hơn.</FlatscreenTelevision.description>
+	<FlatscreenTelevision.generalRules.rulesStrings>
+		<li>subject->TV màn phẳng</li>
+		<li>subject_story->Cố gắng tháo rời ống hình từ TV.</li>
+		<li>subject_story->Khao khát phát sóng [tv_content] độ phân giải cao trên toàn thiên hà.</li>
+		<li>tv_content->Phim truyền hình</li>
+		<li>tv_content->Chương trình tin tức</li>
+		<li>tv_content->Tuyên truyền cách mạng</li>
+		<li>tv_content->Xu hướng thời trang toàn cầu</li>
+		<li>tv_content->Hoạt hình</li>
+		<li>subject_story->Trở thành một giám đốc truyền hình, phụ trách phát sóng [tv_content].</li>
+		<li>subject_gerund->Xây dựng TV màn phẳng</li>
+	</FlatscreenTelevision.generalRules.rulesStrings>
+	<GroundPenetratingScanner.label>Máy quét địa chất</GroundPenetratingScanner.label>
+	<GroundPenetratingScanner.description>Mở khóa xây dựng "máy quét địa chất", dùng để khảo sát các tài nguyên dưới lòng đất cần khai thác bằng khoan sâu.\n\nLưu ý: Cần các linh kiện cao cấp khi xây dựng.</GroundPenetratingScanner.description>
+	<GroundPenetratingScanner.generalRules.rulesStrings>
+		<li>subject->Địa vật lý</li>
+		<li>subject->Máy quét địa chất</li>
+		<li>subject_story->Phát hiện xương của những người khổng lồ cổ đại chôn vùi dưới bề mặt hành tinh.</li>
+		<li>subject_story->Tình cờ phát hiện ra mỏ vàng lớn trong quá trình tìm kiếm thiếc, nhờ đó trở nên rất giàu có.</li>
+		<li>subject_story->Quét các vùng đất có mìn cổ để bảo vệ cư dân.</li>
+		<li>subject_gerund->Xây dựng máy quét địa chất</li>
+	</GroundPenetratingScanner.generalRules.rulesStrings>
+	<HeavyTurrets.label>Tháp pháo tự động</HeavyTurrets.label>
+	<HeavyTurrets.description>Mở khóa xây dựng "tháp pháo tự động", một loại tháp pháo nặng và tự động tầm xa.</HeavyTurrets.description>
+	<HeavyTurrets.generalRules.rulesStrings>
+		<li>subject->Tháp pháo tự động</li>
+		<li>subject_story->Một mình chống lại cuộc tấn công của giáo phái sau khi ẩn nấp sau nhiều tháp pháo.</li>
+		<li>subject_story->Được thuê để xây dựng một hàng rào phòng thủ bằng bao cát và tháp pháo cho người dân địa phương.</li>
+		<li>subject_story->Xây dựng nhiều tháp pháo mà không quan tâm ai mua chúng.</li>
+		<li>subject_gerund->Xây dựng tháp pháo tự động</li>
+	</HeavyTurrets.generalRules.rulesStrings>
+	<HospitalBed.label>Giường bệnh</HospitalBed.label>
+	<HospitalBed.description>Mở khóa xây dựng "giường bệnh", giúp nâng cao chất lượng điều trị, tốc độ miễn dịch và tỷ lệ thành công của phẫu thuật.</HospitalBed.description>
+	<HospitalBed.generalRules.rulesStrings>
+		<li>subject->Điều trị nội trú</li>
+		<li>subject_story->Giám sát cải cách tiêu chuẩn chăm sóc sức khỏe.</li>
+		<li>subject_story->Thiết lập bệnh viện công đầu tiên trong hệ ngân hà này.</li>
+		<li>subject_story->Tập trung vào lợi nhuận, cung cấp phòng bệnh cao cấp cho người giàu.</li>
+		<li>subject_gerund->Xây dựng giường bệnh</li>
+	</HospitalBed.generalRules.rulesStrings>
+	<LongRangeMineralScanner.label>Máy quét khoáng sản tầm xa</LongRangeMineralScanner.label>
+	<LongRangeMineralScanner.description>Mở khóa xây dựng "máy quét khoáng sản tầm xa", cho phép các nhà nghiên cứu phát hiện khoáng sản quý hiếm trên hành tinh, như vàng hoặc ngọc lục bảo.\n\nViệc xây dựng nhiều máy quét trong cùng một khu vực hoặc khu vực lân cận sẽ không ảnh hưởng nhiều đến hiệu suất.\n\nLưu ý: Cần các linh kiện cao cấp khi xây dựng.</LongRangeMineralScanner.description>
+	<LongRangeMineralScanner.generalRules.rulesStrings>
+		<li>subject->Quét khoáng sản tầm xa</li>
+		<li>subject_story->Xây dựng rất nhiều máy quét, đến nỗi đã quét sạch địa chất của toàn hành tinh.</li>
+		<li>subject_story->Phát hiện các khu định cư khác đang khai thác gì và kiếm được lợi nhuận khổng lồ từ giao dịch.</li>
+		<li>subject_story->Khai thác tất cả ngọc lục bảo trên hành tinh để chế tác các bức tượng văn hóa.</li>
+		<li>subject_gerund->Xây dựng máy quét khoáng sản tầm xa</li>
+	</LongRangeMineralScanner.generalRules.rulesStrings>
+	<MedicineProduction.label>Sản xuất thuốc</MedicineProduction.label>
+	<MedicineProduction.description>Mở khóa công nghệ sản xuất "thuốc" từ thảo dược, amin trung tính và vải.</MedicineProduction.description>
+	<MedicineProduction.generalRules.rulesStrings>
+		<li>subject->Tổng hợp y học</li>
+		<li>subject->Sản xuất thuốc</li>
+		<li>subject_story->Nghiên cứu y học của thế giới đô thị, nhằm phổ biến kiến thức rộng rãi hơn.</li>
+		<li>subject_story->Bối rối về nguồn gốc của amin trung tính và quyết tâm tìm hiểu thêm.</li>
+		<li>subject_story->Chiếm đoạt tài nguyên của bọn buôn ma túy, sử dụng chúng để sản xuất thuốc hữu ích.</li>
+		<li>subject_gerund->Sản xuất thuốc</li>
+	</MedicineProduction.generalRules.rulesStrings>
+	<MicroelectronicsBasics.label>Cơ bản về vi điện tử</MicroelectronicsBasics.label>
+	<MicroelectronicsBasics.description>Nghiên cứu công nghệ vi điện tử tinh vi và phức tạp, mở khóa sản xuất vũ khí EMP, cũng như xây dựng "bàn nghiên cứu cao cấp", "trạm liên lạc" và "đèn hiệu giao dịch quỹ đạo".</MicroelectronicsBasics.description>
+	<MicroelectronicsBasics.generalRules.rulesStrings>
+		<li>subject->Cơ bản về vi điện tử</li>
+		<li>subject_story->Chuyển sang phát triển vi điện tử.</li>
+		<li>subject_story->Xây dựng phiên bản đầu tiên trong nhiều bàn nghiên cứu.</li>
+		<li>subject_story->Liên tục di chuyển từ thị trấn này sang thị trấn khác, tuyên truyền lợi ích của nghiên cứu thuần túy.</li>
+		<li>subject_gerund->Xây dựng thiết bị vi điện tử</li>
+	</MicroelectronicsBasics.generalRules.rulesStrings>
+	<MoisturePump.label>Bơm thoát nước</MoisturePump.label>
+	<MoisturePump.description>Mở khóa xây dựng "bơm thoát nước", có khả năng làm bình thường hóa độ ẩm của đất xung quanh với tốc độ rất chậm. Nó có thể làm khô đất ẩm và biến đất cát thành đất bình thường.</MoisturePump.description>
+	<MoisturePump.generalRules.rulesStrings>
+		<li>subject->Bơm thoát nước</li>
+		<li>subject_story->Nghiên cứu bơm thoát nước kiểu cối xay cổ đại trên trái đất.</li>
+		<li>subject_story->Làm khô một vùng đầm lầy sinh bệnh.</li>
+		<li>subject_story->Ngốc nghếch khi muốn bơm nước biển ra ngoài.</li>
+		<li>subject_gerund->Xây dựng bơm thoát nước</li>
+	</MoisturePump.generalRules.rulesStrings>
+	<MultibarrelWeapons.label>Vũ khí đa nòng</MultibarrelWeapons.label>
+	<MultibarrelWeapons.description>Mở khóa sản xuất "súng máy bắn nhanh".</MultibarrelWeapons.description>
+	<MultibarrelWeapons.generalRules.rulesStrings>
+		<li>subject->Vũ khí đa nòng</li>
+		<li>subject_story->Chế tạo một khẩu súng máy bắn nhanh độc đáo, là thứ duy nhất được tìm thấy sau khi đội này mất tích.</li>
+		<li>subject_story->Thiết kế một bộ cấp đạn lớn để đảm bảo súng máy bắn nhanh không bao giờ hết đạn.</li>
+		<li>subject_story->Chuyên sản xuất súng để tiêu diệt mọi người trong phòng.</li>
+		<li>subject_gerund->Sản xuất vũ khí đa nòng</li>
+	</MultibarrelWeapons.generalRules.rulesStrings>
+	<PrecisionRifling.label>Rãnh súng chính xác</PrecisionRifling.label>
+	<PrecisionRifling.description>Mở khóa sản xuất các loại vũ khí cần gia công chính xác, như súng trường tự động và súng bắn tỉa.</PrecisionRifling.description>
+	<PrecisionRifling.generalRules.rulesStrings>
+		<li>subject->Súng trường</li>
+		<li>subject_story->Cải tiến độ chính xác của quy trình đúc tại nhà máy, giúp sản xuất rãnh súng chất lượng cao.</li>
+		<li>subject_story->Bị người Nii truy đuổi nhưng vẫn chế tạo được súng bắn tỉa, an toàn tiêu diệt thủ lĩnh của họ.</li>
+		<li>subject_story->Nổi tiếng nhanh chóng khi bắn trúng một quả táo trên tay lãnh chúa.</li>
+		<li>subject_gerund->Sản xuất súng trường</li>
+	</PrecisionRifling.generalRules.rulesStrings>
+	<ShieldBelt.label>Đai bảo vệ</ShieldBelt.label>
+	<ShieldBelt.description>Mở khóa sản xuất thiết bị bảo vệ có thể đeo. Đai bảo vệ sử dụng công nghệ trường đẩy động năng để chặn các vật thể bay tới.</ShieldBelt.description>
+	<ShieldBelt.generalRules.rulesStrings>
+		<li>subject->Đai bảo vệ cá nhân</li>
+		<li>subject_story->Tránh được một vụ ám sát nhờ vào nguyên mẫu đai bảo vệ.</li>
+		<li>subject_story->Sử dụng một thiết bị đẩy động lượng bí mật khi chơi bi-a.</li>
+		<li>subject_story->Biết rằng cách giết kẻ thù là sử dụng các đòn tấn công cận chiến có tốc độ tương đối chậm để vượt qua lá chắn của họ.</li>
+		<li>subject_gerund->Sản xuất đai bảo vệ</li>
+	</ShieldBelt.generalRules.rulesStrings>
+	<TransportPod.label>Tàu vận chuyển</TransportPod.label>
+	<TransportPod.description>Mở khóa xây dựng "Tàu vận chuyển", có thể phóng người và hàng hóa qua bề mặt hành tinh từ xa. Thích hợp cho các cuộc tấn công không quân, du lịch, tặng quà, v.v.</TransportPod.description>
+	<TransportPod.generalRules.rulesStrings>
+		<li>subject->Tàu vận chuyển</li>
+		<li>subject_story->Bị phóng vào giữa một bộ lạc man rợ, suýt nữa không sống sót.</li>
+		<li>subject_story->Chi một khoản tiền lớn để gửi cho người yêu một Tàu vận chuyển, bên trong có một chiếc nhẫn cưới.</li>
+		<li>subject_story->Thông minh trong việc sử dụng Tàu vận chuyển để tránh nạn đói.</li>
+		<li>subject_gerund->Xây dựng Tàu vận chuyển</li>
+	</TransportPod.generalRules.rulesStrings>
+</LanguageData>

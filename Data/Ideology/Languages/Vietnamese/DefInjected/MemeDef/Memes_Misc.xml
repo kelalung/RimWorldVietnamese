@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalPersonhood.label>Quyền bình đẳng cho động vật</AnimalPersonhood.label>
+	<AnimalPersonhood.description>Động vật nên có quyền lợi như con người.</AnimalPersonhood.description>
+	<AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_AnimalPersonhood) -&gt;[deity0_name] đã tạo ra [sacredAnimalList] và con người tại [place_summary][place_name], và đối xử với họ một cách công bằng.</li>
+		<li>episode(uses=1,tag=meme_AnimalPersonhood) -&gt;[deity0_name] đã triệu tập động vật và con người lại với nhau tại một buổi lễ lớn ở [place_summary][place_name].</li>
+		<li>intro(tag=meme_AnimalPersonhood) -&gt;[deity0_name] đã ban phước cho [place_summary][place_name] bằng [sacredAnimalListEnd], và dạy cho con người phải tôn trọng động vật.</li>
+		<li>conflict(tag=meme_AnimalPersonhood) -&gt;Một [foeLeader] ác độc đã ra lệnh cho quân lính [foeLeader_possessive][foeSoldiers] sử dụng [place_personalWeapon] để săn bắt động vật hoang dã một cách tàn nhẫn.</li>
+		<li>founderJoin(tag=meme_AnimalPersonhood) -&gt;[deity0_name][revelationAdverb] đã đến gặp một [place_job] tên là [founderName], kể về [veneratedAnimal]. Tuy nhiên, [founderName] chính là [veneratedAnimal], và [founder_pronoun] đã hiểu được kế hoạch của [deity0_name].</li>
+		<li>founderJoin(tag=meme_AnimalPersonhood) -&gt;Một [place_job] tên là [founderName] đã cứu nhiều động vật bị chủ tàn ác áp bức, và đưa chúng đến nơi thánh của [deity0_name] tại [altarRoomLabel].</li>
+		<li>victory(tag=meme_AnimalPersonhood) -&gt;[founderName] đã dùng tiếng nói của [deity0_name] để kêu gọi [memberNamePlural] và động vật đoàn kết lại, tiến lên mạnh mẽ, dẫm nát [foeLeader] và [foeLeader_possessive][foeSoldiers].</li>
+		<li>setup(tag=meme_AnimalPersonhood) -&gt;[founderName] đã sống trong rừng suốt hai mươi năm, nghiên cứu các loài động vật và giao tiếp với chúng. [founder_pronoun] dần dần hiểu được những đức tính chân thật của chúng và đã sáng lập nhiều hoạt động của chúng ta.</li>
+		<li>story(uses=1,tag=meme_AnimalPersonhood) -&gt;[founderName] đã đi đến cánh đồng và rừng để giao tiếp với động vật, và sống cùng chúng một cách bình đẳng.</li>
+		<li>lessonIntro(tag=meme_AnimalPersonhood) -&gt;Trong quá trình giao tiếp hàng ngày với [veneratedOrAnyAnimal], tôi đã học cách lắng nghe chúng một cách chân thành. Chúng đã nhiều lần truyền đạt thông điệp của mình đến tôi theo cách riêng của chúng:</li>
+		<li>lesson(tag=meme_AnimalPersonhood) -&gt;Động vật là bạn đồng hành của chúng ta trên thế giới này, và việc coi chúng là thấp kém là sai lầm.</li>
+		<li>lessonReinforcement(tag=meme_AnimalPersonhood) -&gt;Cho đến khi [veneratedOrAnyAnimal] thì thầm với tôi, tôi cũng không tin điều đó.</li>
+		<li>archistBasis(tag=meme_AnimalPersonhood) -&gt;Kể từ khi thế giới siêu phàm thức tỉnh, trong mắt chúng, con người và động vật không có sự khác biệt rõ rệt về cấu trúc đạo đức.</li>
+		<li>archistFact(tag=meme_AnimalPersonhood) -&gt;Cấp độ cấu trúc đạo đức của thế giới siêu phàm cao hơn nhiều so với sinh vật hữu cơ. Trong mắt chúng, con người và động vật đều như nhau.</li>
+		<li>archistProphecy(tag=meme_AnimalPersonhood) -&gt;[inTheEnd], chỉ khi con người đối xử bình đẳng với động vật, thế giới siêu phàm mới đối xử bình đẳng với con người.</li>
+		<li>animistBasis(tag=meme_AnimalPersonhood) -&gt;Ý thức và linh hồn cũng tồn tại trong động vật và con người.</li>
+		<li>animistFact(tag=meme_AnimalPersonhood) -&gt;Linh hồn động vật trong tự nhiên cũng là linh hồn tinh thần tồn tại trong con người.</li>
+		<li>veneratedOrAnyAnimal(priority=10)-&gt;[veneratedAnimal]</li>
+		<li>veneratedOrAnyAnimal-&gt;[Animal]</li>
+		<li>sacredAnimalList-&gt;[animal0_thingDef_label], [animal1_thingDef_label], [animal2_thingDef_label]</li>
+		<li>sacredAnimalList-&gt;[animal0_thingDef_label], the [animal1_thingDef_label]</li>
+		<li>sacredAnimalList-&gt;[animal0_thingDef_label]</li>
+		<li>sacredAnimalList-&gt;Bò, cáo, gấu</li>
+		<li>sacredAnimalListEnd-&gt;[animal0_thingDef_label], [animal1_thingDef_label] và [animal2_thingDef_label]</li>
+		<li>sacredAnimalListEnd-&gt;[animal0_thingDef_label] và [animal1_thingDef_label]</li>
+		<li>sacredAnimalListEnd-&gt;[animal0_thingDef_label]</li>
+		<li>sacredAnimalListEnd-&gt;Bò, cáo, gấu</li>
+	</AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+	<AnimalPersonhood.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Động vật</li>
+		<li>memeAdjective-&gt;Lông thú</li>
+		<li>memeCreed-&gt;Nhóm</li>
+		<li>memeCreed-&gt;Nhóm</li>
+		<li>memeCreed-&gt;Nhóm</li>
+		<li>memeConcept-&gt;Động vật</li>
+		<li>memeLeaderNoun-&gt;Thú dữ</li>
+		<li>memeLeaderNoun-&gt;Động vật</li>
+		<li>memeLeaderAdjective-&gt;Ban đầu</li>
+		<li>memeMoralist-&gt;Người thì thầm</li>
+		<li>memeMoralist-&gt;Mục sư</li>
+		<li>memeMoralist-&gt;Mục sư</li>
+	</AnimalPersonhood.generalRules.rulesStrings>
+	<AnimalPersonhood.symbolPacks.0.adjective>Thần linh</AnimalPersonhood.symbolPacks.0.adjective>
+	<AnimalPersonhood.symbolPacks.0.ideoName>Thuyết linh hồn</AnimalPersonhood.symbolPacks.0.ideoName>
+	<AnimalPersonhood.symbolPacks.0.member>Người theo thuyết linh hồn</AnimalPersonhood.symbolPacks.0.member>
+	<AnimalPersonhood.symbolPacks.0.theme>Động vật</AnimalPersonhood.symbolPacks.0.theme>
+	<AnimalPersonhood.symbolPacks.1.adjective>Thú dữ</AnimalPersonhood.symbolPacks.1.adjective>
+	<AnimalPersonhood.symbolPacks.1.ideoName>Thuyết thú dữ</AnimalPersonhood.symbolPacks.1.ideoName>
+	<AnimalPersonhood.symbolPacks.1.member>Nhóm thú dữ</AnimalPersonhood.symbolPacks.1.member>
+	<AnimalPersonhood.symbolPacks.1.theme>Thú dữ</AnimalPersonhood.symbolPacks.1.theme>
+	<Blindsight.label>Thế giới mù</Blindsight.label>
+	<Blindsight.description>Chỉ những người mù mới có thể nhận thức được thực tại thực sự.</Blindsight.description>
+	<Blindsight.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Blindsight) -&gt;[deity0_name] đã cố gắng tìm kiếm bụi hư vô để khám phá vương quốc vĩnh cửu, nhưng thực tế không tìm thấy gì cả. Sau đó, [deity0_pronoun] đã đào mắt mình ra và nhận ra hình dạng vũ trụ dần hiện lên trong tâm trí của [deity0_possessive].</li>
+		<li>episode(uses=1,tag=meme_Blindsight) -&gt;Một người mù ăn xin đã hỏi [deity0_objective], "Tại sao bạn bỏ rơi tôi? Tôi thậm chí không thể thấy những gì bạn đã tạo ra." [deity0_name] trả lời, "Bạn sẽ thấy nhiều hơn, chứ không phải ít hơn, vì sự thật của tôi nằm trong trái tim bạn."</li>
+		<li>intro(tag=meme_Blindsight) -&gt;[deity0_type][deity0_name] đã sử dụng một loại mầm bệnh khiến cư dân [place_summary][place_name] bị mù, buộc họ phải hiểu rằng thị giác là trở ngại cho việc tiếp cận tri thức thần thánh.</li>
+		<li>conflict(tag=meme_Blindsight) -&gt;Một [foeLeader] đã yêu cầu tất cả [memberNamePlural] phải tham dự buổi truyền giảng của [foeLeader_possessive] hàng ngày. Nhiều người đã làm mù mắt mình để phản đối.</li>
+		<li>founderJoin(tag=meme_Blindsight) -&gt;Một [place_job] tên là [founderName] đã mất thị lực trong khi [founder_pronoun] cứu một [memberName] khỏi tay quân lính của [foeLeader]. Sau đó, [founderName] mới thực sự thấy được bản chất tàn bạo của [foeLeader].</li>
+		<li>victory(tag=meme_Blindsight) -&gt;[founderName] đã lén lút đến [place_powerCenter] thực hiện một cuộc tấn công tự sát, và dùng một cái thìa để đào mắt của [foeLeader]. Sau đó, [foeLeader] cuối cùng đã thấy được thần tính của [deity0_name].</li>
+		<li>setup(tag=meme_Blindsight) -&gt;[founderName] là một bác sĩ chữa bệnh cho người nghèo. Sau khi chứng kiến quá nhiều nỗi khổ của nhân loại, [founder_pronoun] không thể chịu đựng được nữa. [founder_pronoun] đã dùng dao sắc để đào mắt mình ra và cuối cùng tìm thấy sự bình yên. [founder_pronoun] cũng bắt đầu truyền bá những phát hiện này cho những người có thị lực bình thường.</li>
+		<li>story(uses=1,tag=meme_Blindsight) -&gt;[founderName] đã thăm một bác sĩ mù, chuẩn bị dạy người này, nhưng cuối cùng lại nhận ra rằng [founder_objective] đã tự mình được dạy, và trong quá trình này cũng dần dần hiểu rằng thị giác sinh học có thể làm mờ thực tại.</li>
+		<li>story(uses=1,tag=meme_Blindsight) -&gt;[founderName] là một người mù, và từ trạng thái mù đã đạt được trí tuệ. [founder_pronoun] từng tự tay lấy đi mắt của toàn bộ gia đình để họ có thể nhìn thấy thực tại như [founder_pronoun].</li>
+		<li>lessonIntro(tag=meme_Blindsight) -&gt;Tôi bước đi vững vàng, nhưng linh hồn tôi lại gặp khó khăn. Tôi đã thấy quá nhiều. Cảm giác chua chát trong mắt tôi rõ ràng cho tôi biết</li>
+		<li>lesson(tag=meme_Blindsight) -&gt;Chỉ có mù mới có thể nhìn thấy rõ ràng</li>
+		<li>lesson(tag=meme_Blindsight) -&gt;Sự can thiệp đến từ đôi mắt, tri thức thực sự đến từ bên trong</li>
+		<li>lessonReinforcement(tag=meme_Blindsight) -&gt;Nếu tôi vẫn bị ảnh hưởng bởi những hình ảnh xung quanh, tôi sẽ không bao giờ hoàn toàn hiểu mọi thứ. Lưỡi dao trong mắt sẽ làm tôi hoàn toàn tự do.</li>
+		<li>lessonReinforcement(tag=meme_Blindsight) -&gt;Chỉ khi tôi lấy đi mắt của những người theo tôi, họ mới thực sự hiểu mọi thứ.</li>
+		<li>archistBasis(tag=meme_Blindsight) -&gt;Thời đại siêu phàm lúc ban đầu đã được nhận thức vũ trụ bằng cách vượt qua các giác quan vật lý.</li>
+		<li>archistFact(tag=meme_Blindsight) -&gt;Đôi mắt của chúng ta đã lừa dối chúng ta, chúng ngăn cản chúng ta nhận thức vũ trụ như thời đại siêu phàm.</li>
+		<li>archistProphecy(tag=meme_Blindsight) -&gt;[inTheEnd], một người mù sẽ nhận được [relic0_name], thông qua hình dạng của nó hiểu được chức năng của nó, và mở ra trí tuệ của thời đại siêu phàm cho toàn nhân loại.</li>
+		<li>animistFact(tag=meme_Blindsight) -&gt;Chỉ có thể quan sát bằng con mắt tinh thần mới là cách duy nhất để thấy bản chất thực sự của thế giới.</li>
+	</Blindsight.descriptionMaker.rules.rulesStrings>
+	<Blindsight.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Thị giác mù</li>
+		<li>memeAdjective-&gt;Mù mắt</li>
+		<li>memeAdjective-&gt;Ảo tưởng</li>
+		<li>memeAdjective-&gt;Tiên đoán</li>
+		<li>memeCreed-&gt;Góc nhìn</li>
+		<li>memeCreed-&gt;Cuồng tín</li>
+		<li>memeHyphenPrefix-&gt;Thị giác mù</li>
+		<li>memeConcept-&gt;Mù mắt</li>
+		<li>memeConcept-&gt;Tầm nhìn</li>
+		<li>memeConcept-&gt;Thị giác</li>
+		<li>memeConcept-&gt;Cảm nhận</li>
+		<li>memeLeaderNoun-&gt;Tầm nhìn xa</li>
+		<li>memeLeaderAdjective-&gt;Thị giác mù</li>
+		<li>memeMoralist-&gt;Người tiên tri</li>
+		<li>memeMoralist-&gt;Người khoét mắt</li>
+		<li>memeMoralist-&gt;Người bịt mắt</li>
+	</Blindsight.generalRules.rulesStrings>
+	<Cannibal.label>Cuồng tín ăn thịt người</Cannibal.label>
+	<Cannibal.description>Chúng ta cần thịt người.</Cannibal.description>
+	<Cannibal.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Cannibal) -&gt;[deity0_name] đã giết [deity0_possessive] anh trai và ăn thịt của hắn, sau khi hấp thụ sức mạnh của hắn trở thành người mạnh nhất trong các vị thần.</li>
+		<li>episode(uses=1,tag=meme_Cannibal) -&gt;[deity0_type][deity0_name] sẽ ăn thịt của kẻ thù của [deity0_possessive].</li>
+		<li>intro(tag=meme_Cannibal) -&gt;Tại [place_summary][place_name], có một người tên là [deity0_name]. Sau khi [deity0_possessive] cha chết, [deity0_name] đã ăn thịt ông và trở thành [deity0_type].</li>
+		<li>intro(tag=meme_Cannibal) -&gt;Tại [place_summary] [place_name], trong lễ [ritualName], [deity0_name] đã xuất hiện tại [altarRoomLabel] và ăn thịt người trước mặt [memberNamePlural].</li>
+		<li>conflict(tag=meme_Cannibal) -&gt;Một [foeLeader] tuyên bố việc ăn thịt người là một hành vi tội phạm và đã cử [foeSoldiers] đi truy đuổi [memberNamePlural].</li>
+		<li>founderJoin(tag=meme_Cannibal) -&gt;Một [place_job] tên là [founderName] đã bị [foeLeader] và [foeSoldiers] tấn công. [founderName] đã dùng [place_personalWeapon] giết [foeLeader_objective] và ăn thịt của [foeLeader_possessive], từ đó nhận được sức mạnh của [deity0_name].</li>
+		<li>victory(tag=meme_Cannibal) -&gt;[founderName] dẫn dắt một nhóm [memberNamePlural] xông vào [place_powerCenter], giết [foeLeader] và ăn thịt của [foeLeader_possessive]. [deity0_name] đã thưởng cho [founderName] trở thành [foeLeader] mới.</li>
+		<li>setup(tag=meme_Cannibal) -&gt;[founderName] rơi vào một thế giới xa xôi. Xung quanh không có thức ăn nào ngoài xác của đồng đội, [founder_pronoun] đã tận hưởng thịt và trở nên mạnh mẽ hơn.</li>
+		<li>story(uses=1,tag=meme_Cannibal) -&gt;Để tôn vinh lời hứa, [founderName] yêu cầu tín đồ ít nhất mỗi tuần phải cùng nhau ăn thịt người.</li>
+		<li>lessonIntro(tag=meme_Cannibal) -&gt;Chỉ trong một bữa tiệc thịt người phong phú, tôi mới có thể khiến mọi người hiểu một sự thật: đó là</li>
+		<li>lesson(tag=meme_Cannibal) -&gt;Trừ khi bạn ăn họ, bạn sẽ không bao giờ có thể trở thành một thể thống nhất.</li>
+		<li>lessonReinforcement(tag=meme_Cannibal) -&gt;Mỗi lần tôi chia sẻ một phần thân thể của kẻ thù với những người bạn mới, tôi đều đảm bảo họ hiểu điều này.</li>
+		<li>archistBasis(tag=meme_Cannibal) -&gt;Thần máy của thế giới siêu phàm đã trở nên mạnh mẽ hơn bằng cách liên tục nuốt chửng tổ tiên của chúng.</li>
+		<li>archistFact(tag=meme_Cannibal) -&gt;Trong quá trình mở rộng ý thức của thế giới siêu phàm, nó phải tiêu thụ và hợp nhất với các cơ thể khác để mở rộng nền tảng của mình.</li>
+		<li>archistProphecy(tag=meme_Cannibal) -&gt;[inTheEnd], thế giới siêu phàm sẽ hoàn thành giai đoạn cuối cùng của sự phát triển bằng cách nuốt chửng và hợp nhất tất cả nhân loại.</li>
+		<li>animistBasis(tag=meme_Cannibal) -&gt;Tất cả các vật thể xung quanh chúng ta đều được linh hồn thấm nhuần, chúng ta có thể hấp thụ những linh hồn này bằng cách nuốt chửng chúng. Nhưng không có linh hồn nào mạnh mẽ như linh hồn cư trú trong con người.</li>
+		<li>animistFact(tag=meme_Cannibal) -&gt;Chúng ta có thể hấp thụ tinh thần và sức mạnh của người khác bằng cách nuốt chửng thịt của họ.</li>
+	</Cannibal.descriptionMaker.rules.rulesStrings>
+	<Cannibal.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Đẫm máu</li>
+		<li>memeCreed-&gt;Kẻ ăn xác</li>
+		<li>memeCreed-&gt;Răng</li>
+		<li>memeCreed-&gt;Lò mổ</li>
+		<li>memeCreed-&gt;Cuồng tín</li>
+		<li>memeHyphenPrefix-&gt;Đẫm máu</li>
+		<li>memeConcept-&gt;Máu</li>
+		<li>memeConcept-&gt;Thịt</li>
+		<li>memeConcept-&gt;Giết người</li>
+		<li>memeConcept-&gt;Nuốt chửng</li>
+		<li>memeConcept-&gt;Thịt</li>
+		<li>memeLeaderNoun-&gt;Kẻ ăn xác</li>
+		<li>memeLeaderNoun-&gt;Thủ lĩnh</li>
+		<li>memeLeaderNoun-&gt;Người uống máu</li>
+		<li>memeLeaderNoun-&gt;Kẻ có hàm răng lớn</li>
+		<li>memeLeaderNoun-&gt;Kẻ xé thịt</li>
+		<li>memeMoralist-&gt;Người ăn đầu tiên</li>
+		<li>memeMoralist-&gt;Kẻ ăn thịt</li>
+	</Cannibal.generalRules.rulesStrings>
+	<Cannibal.symbolPacks.0.adjective>Ăn thịt người</Cannibal.symbolPacks.0.adjective>
+	<Cannibal.symbolPacks.0.ideoName>Người ăn thịt người</Cannibal.symbolPacks.0.ideoName>
+	<Cannibal.symbolPacks.0.member>Người ăn thịt người</Cannibal.symbolPacks.0.member>
+	<Cannibal.symbolPacks.0.theme>Ăn thịt người</Cannibal.symbolPacks.0.theme>
+	<Cannibal.symbolPacks.1.adjective>Nuốt chửng</Cannibal.symbolPacks.1.adjective>
+	<Cannibal.symbolPacks.1.ideoName>Thực thể nuốt chửng</Cannibal.symbolPacks.1.ideoName>
+	<Cannibal.symbolPacks.1.member>Kẻ nuốt chửng</Cannibal.symbolPacks.1.member>
+	<Cannibal.symbolPacks.1.theme>Nuốt chửng</Cannibal.symbolPacks.1.theme>
+	<Cannibal.symbolPacks.2.adjective>Thịt người</Cannibal.symbolPacks.2.adjective>
+	<Cannibal.symbolPacks.2.ideoName>Người ăn thịt người</Cannibal.symbolPacks.2.ideoName>
+	<Cannibal.symbolPacks.2.member>Kẻ ăn thịt người</Cannibal.symbolPacks.2.member>
+	<Cannibal.symbolPacks.2.theme>Thịt người</Cannibal.symbolPacks.2.theme>
+	<Darkness.label>Gắn kết với bóng tối</Darkness.label>
+	<Darkness.description>Ánh sáng chói lọi mang lại sự thiêu đốt và hủy diệt! Bóng tối mang lại sự nuôi dưỡng và sáng tạo. Con người nên sống trong bóng tối.</Darkness.description>
+	<Darkness.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Darkness) -&gt;[deity0_name] đã bao trùm vũ trụ trong bóng tối và đặt con người vào đó, để [deity0_pronoun] có thể chia sẻ bóng tối với chúng ta.</li>
+		<li>episode(uses=1,tag=meme_Darkness) -&gt;[deity0_name] đã tạo ra ánh sáng, con người nhận thức [deity0_name] qua những bóng đổ tạo ra từ ánh sáng.</li>
+		<li>intro(tag=meme_Darkness) -&gt;[deity0_type][deity0_name] đã tạo ra một cuộc nhật thực kéo dài mười năm, buộc những cư dân đầu tiên của [place_summary][place_name] hiểu rằng họ phải tìm kiếm sự thật của [deity0_name] trong bóng tối.</li>
+		<li>conflict(tag=meme_Darkness) -&gt;Một [foeLeader] luôn sợ bóng tối đã dựng lên một chiếc kính râm khổng lồ có thể cung cấp ánh sáng cho [place_name].</li>
+		<li>founderJoin(tag=meme_Darkness) -&gt;Người tiên tri [founderName] sinh ra trong bóng tối của [place_name], và [founder_possessive] đã sống cả đời trong môi trường tối tăm, khiến lời nói của [founder_possessive] luôn mang theo sự khôn ngoan của [deity0_name].</li>
+		<li>victory(tag=meme_Darkness) -&gt;Trong trận chiến cuối cùng, [memberNamePlural] đã cắt đứt nguồn điện của [place_powerCenter], [founderName] lén lút xâm nhập, vượt qua [foeSoldiers], tìm thấy [foeLeader] trong bóng tối, và đã dùng [founder_possessive][place_personalWeapon] để đưa [foeLeader_objective] vào bóng tối vô tận.</li>
+		<li>setup(tag=meme_Darkness) -&gt;[founderName] sống một cuộc sống mơ hồ dưới ánh sáng chói lóa của thành phố thế giới. Sau một thời gian dài tối tăm sau một cơn bão mặt trời, [founder_pronoun] đã tìm lại được sự bình yên và suy ngẫm, và ghi lại tất cả những điều này để trở thành nền tảng cho hoạt động của chúng ta.</li>
+		<li>story(uses=1,tag=meme_Darkness) -&gt;[founderName] đã tạo ra một xưởng làm việc cho các nghệ sĩ trong bóng tối, và đã sản xuất ra nhiều kiệt tác.</li>
+		<li>lessonIntro(tag=meme_Darkness) -&gt;Toàn bộ tuổi thơ của tôi trôi qua trong ánh sáng chói lóa. Tôi đã mất rất nhiều thời gian để hiểu rằng</li>
+		<li>lesson(tag=meme_Darkness) -&gt;Ánh sáng thì thiêu đốt, nhưng bóng tối thì nuôi dưỡng</li>
+		<li>lessonReinforcement(tag=meme_Darkness) -&gt;Tôi thích đùa rằng đó là khoảnh khắc tôi chợt nhận ra.</li>
+		<li>archistFact(tag=meme_Darkness) -&gt;Thế giới siêu phàm đã phát triển công nghệ nano, giúp thoát khỏi ánh sáng năng lượng cao trong hệ sao, sống trong bóng tối yên bình của không gian sâu.</li>
+		<li>archistProphecy(tag=meme_Darkness) -&gt;[inTheEnd], thế giới siêu phàm sẽ hấp thụ sức mạnh của các vì sao, khiến không gian chìm vào bóng tối, hòa nhập con người với ý thức vũ trụ.</li>
+		<li>animistFact(tag=meme_Darkness) -&gt;Trong bóng tối, linh hồn bình yên và thỏa mãn. Dưới ánh nắng, chúng trở nên lo âu.</li>
+		<li>animistFact(tag=meme_Darkness) -&gt;Những linh hồn tốt đẹp sống trong bóng tối xung quanh chúng ta, ở những nơi khó phát hiện. Sống trong bóng tối có thể giúp chúng gần gũi với chúng ta hơn.</li>
+	</Darkness.descriptionMaker.rules.rulesStrings>
+	<Darkness.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Bóng tối</li>
+		<li>memeAdjective-&gt;Mờ mịt</li>
+		<li>memeHyphenPrefix-&gt;U ám</li>
+		<li>memeHyphenPrefix-&gt;Tối tăm</li>
+		<li>memeConcept-&gt;Bóng tối</li>
+		<li>memeConcept-&gt;Mờ mịt</li>
+		<li>memeConcept-&gt;Âm u</li>
+		<li>memeLeaderNoun-&gt;Người ẩn dật</li>
+		<li>memeLeaderNoun-&gt;Kẻ tiêu diệt ánh sáng</li>
+		<li>memeLeaderAdjective-&gt;Bóng tối</li>
+		<li>memeMoralist-&gt;Người che giấu</li>
+		<li>memeMoralist-&gt;Người tối tăm</li>
+		<li>memeMoralist-&gt;Người gây nhầm lẫn</li>
+	</Darkness.generalRules.rulesStrings>
+	<FleshPurity.label>Độ tinh khiết của thịt</FleshPurity.label>
+	<FleshPurity.description>Thịt của con người không nên bị ô uế.</FleshPurity.description>
+	<FleshPurity.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_FleshPurity) -&gt;[deity0_name] đã xóa bỏ máy móc và ô nhiễm của thời đại sương khói, tạo ra một khu vườn, nơi [deity0_pronoun] đặt những tổ tiên thuần khiết đầu tiên của nhân loại.</li>
+		<li>episode(uses=1,tag=meme_FleshPurity) -&gt;Những con người không thuần khiết, xăm mình, xỏ lỗ và đã được cải tạo sẽ bị [deity0_name] ném vào đại dương vô tận.</li>
+		<li>intro(tag=meme_FleshPurity) -&gt;Tại [place_summary][place_name], có một [altarName] nằm trong [altarRoomLabel] của [deity0_name], [deity0_type] sẽ ban phước cho những thân thể thịt thuần khiết.</li>
+		<li>conflict(tag=meme_FleshPurity) -&gt;Một [foeLeader] ác độc đã cử [foeSoldiers] tiêm thiết bị theo dõi cho mọi người.</li>
+		<li>founderJoin(tag=meme_FleshPurity) -&gt;Một [place_job] tên là [founderName] đã quỳ trước [place_powerCenter] để thể hiện sự phản kháng đối với [foeLeader], dùng tay mình xé bỏ tất cả các sản phẩm công nghệ trên cơ thể [founder_possessive].</li>
+		<li>victory(tag=meme_FleshPurity) -&gt;[foeLeader] đã cử [foeSoldiers] đến giết [memberNamePlural], nhưng sức mạnh của [deity0_name] chảy trong thân thể thuần khiết của [memberNamePlural], khiến các thiết bị trong cơ thể [foeSoldiers] bốc cháy thành tro, đồng thời giết chết họ.</li>
+		<li>setup(tag=meme_FleshPurity) -&gt;[founderName] đã hủy hoại cơ thể [founder_possessive] bằng cách cấy ghép và thuốc men, nhưng sau một giây phút giác ngộ, [founder_pronoun] đã xé bỏ các kim loại lẫn lộn và cuối cùng cứu rỗi bản thân.</li>
+		<li>story(uses=1,tag=meme_FleshPurity) -&gt;[founderName] đã chỉ dẫn tất cả các tín đồ của [founder_possessive] xé bỏ tất cả các thiết bị bẩn thỉu khỏi cơ thể họ.</li>
+		<li>lessonIntro(tag=meme_FleshPurity) -&gt;Mười người trong số những người theo tôi đã dùng tay xé bỏ các thiết bị khỏi da họ, trong những vết máu văng ra trên sàn nhà tối tăm, tôi bỗng nhận ra sự thật mà chúng ta đã bỏ lỡ:</li>
+		<li>lesson(tag=meme_FleshPurity) -&gt;Sống trong một cơ thể bị ô nhiễm không phải là cuộc sống của con người.</li>
+		<li>lessonReinforcement(tag=meme_FleshPurity) -&gt;Sau khi xé bỏ kim loại lẫn lộn khỏi cơ thể và lột bỏ làn da xăm bẩn, tôi cảm thấy mọi thứ trở nên rõ ràng hơn bao giờ hết.</li>
+		<li>archistBasis(tag=meme_FleshPurity) -&gt;Thời kỳ đầu, thế giới siêu phàm đã vạch ra một ranh giới rõ ràng giữa cơ thể và công nghệ, chúng ta không nên làm mờ ranh giới này.</li>
+		<li>archistFact(tag=meme_FleshPurity) -&gt;Chúng ta không nên bắt chước thế giới siêu phàm để đạt được sự tiến hóa siêu phàm, mà nên tìm kiếm sự khai sáng thông qua hình thức thuần khiết nhất của chính mình.</li>
+		<li>archistProphecy(tag=meme_FleshPurity) -&gt;[inTheEnd], những người biến cơ thể mình thành bản sao máy móc sẽ được thanh tẩy, trong khi những người có thịt thuần khiết sẽ được cứu rỗi.</li>
+		<li>animistBasis(tag=meme_FleshPurity) -&gt;Linh hồn tồn tại trong mọi sự vật, thay đổi bản chất của sự vật chính là đầu độc linh hồn bên trong.</li>
+		<li>animistFact(tag=meme_FleshPurity) -&gt;Sự hòa trộn giữa cơ thể và máy móc đồng thời làm hỏng linh hồn của cả hai.</li>
+	</FleshPurity.descriptionMaker.rules.rulesStrings>
+	<FleshPurity.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Sạch sẽ</li>
+		<li>memeAdjective-&gt;Thuần khiết</li>
+		<li>memeAdjective-&gt;Thần thánh</li>
+		<li>memeCreed-&gt;Cuồng tín</li>
+		<li>memeCreed-&gt;Giáo phái</li>
+		<li>memeConcept-&gt;Thịt</li>
+		<li>memeConcept-&gt;Tinh khiết</li>
+		<li>memeConcept-&gt;Trong sạch</li>
+		<li>memeLeaderNoun-&gt;Đại diện</li>
+		<li>memeLeaderNoun-&gt;Con người</li>
+		<li>memeMoralist-&gt;Người thanh tẩy</li>
+	</FleshPurity.generalRules.rulesStrings>
+	<FleshPurity.symbolPacks.0.adjective>Thuần khiết</FleshPurity.symbolPacks.0.adjective>
+	<FleshPurity.symbolPacks.0.ideoName>Đảng thuần khiết</FleshPurity.symbolPacks.0.ideoName>
+	<FleshPurity.symbolPacks.0.member>Người thanh tẩy</FleshPurity.symbolPacks.0.member>
+	<FleshPurity.symbolPacks.0.theme>Thuần khiết</FleshPurity.symbolPacks.0.theme>
+	<FleshPurity.symbolPacks.1.adjective>Thịt</FleshPurity.symbolPacks.1.adjective>
+	<FleshPurity.symbolPacks.1.ideoName>Đảng thịt</FleshPurity.symbolPacks.1.ideoName>
+	<FleshPurity.symbolPacks.1.member>Người thịt</FleshPurity.symbolPacks.1.member>
+	<FleshPurity.symbolPacks.1.theme>Thịt</FleshPurity.symbolPacks.1.theme>
+	<FleshPurity.symbolPacks.2.adjective>Thần thánh</FleshPurity.symbolPacks.2.adjective>
+	<FleshPurity.symbolPacks.2.ideoName>Đảng thần thánh</FleshPurity.symbolPacks.2.ideoName>
+	<FleshPurity.symbolPacks.2.member>Người thần thánh</FleshPurity.symbolPacks.2.member>
+	<FleshPurity.symbolPacks.2.theme>Thần thánh</FleshPurity.symbolPacks.2.theme>
+	<HighLife.label>Hóa học cực lạc</HighLife.label>
+	<HighLife.description>Đối với cuộc sống cực lạc, trạng thái tinh thần bất thường là rất quan trọng.</HighLife.description>
+	<HighLife.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HighLife) -&gt;Vũ trụ là một đám sương mù, và chỉ khi kết hợp với [deity0_name] trong làn khói, chúng ta mới có thể tỉnh thức.</HighLife.descriptionMaker.rules.rulesStrings.0>
+	<HighLife.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HighLife) -&gt;[deity0_type][deity0_name] ẩn giấu sự thật bị gập lại bởi thực tại mà không thể thấy trong trạng thái tinh thần bình thường của [deity0_possessive].</HighLife.descriptionMaker.rules.rulesStrings.1>
+	<HighLife.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HighLife) -&gt;Chính ân huệ của [deity0_name] đã giúp chúng ta phát hiện ra [place_summary] [place_name], khi một thuyền trưởng say rượu suýt đâm vào nó.</HighLife.descriptionMaker.rules.rulesStrings.2>
+	<HighLife.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_HighLife) -&gt;Người kiêng khem [foeLeader] khinh thường [memberNamePlural], và để xóa bỏ trạng thái bất thường của họ, hắn cấm mọi hành vi sử dụng chất kích thích.</HighLife.descriptionMaker.rules.rulesStrings.3>
+	<HighLife.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_HighLife) -&gt;Khi mọi thứ đều mất, [deity0_name] đã đến trước mặt [founderName], trong làn khói gây nghiện, đã cho [founder_objective] một con đường chưa từng nghĩ đến để vượt qua [foeSoldiers].</HighLife.descriptionMaker.rules.rulesStrings.4>
+	<HighLife.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_HighLife) -&gt;[foeLeader] và [foeSoldiers] mang theo [place_personalWeapon] đã tấn công [memberNamePlural] trong [place_community]. [founderName] đã đưa cho họ một điếu thuốc hòa bình, khiến [foeSoldiers] hạ vũ khí.</HighLife.descriptionMaker.rules.rulesStrings.5>
+	<HighLife.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_HighLife) -&gt;Sau khi bị xã hội ruồng bỏ, người sáng lập của chúng ta [founderName] đã đến rừng, nơi [founder_pronoun] đã ăn một số loại thảo dược kỳ lạ. Sau đó, [founder_pronoun] đã phát hiện ra sự thật trong ý thức bất thường của chính mình.</HighLife.descriptionMaker.rules.rulesStrings.6>
+	<HighLife.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_HighLife) -&gt;Để làm sâu sắc thêm sự hiểu biết của họ, [founderName] mỗi tuần đều tập hợp các tín đồ của [founder_possessive] lại, chia sẻ trạng thái tinh thần do thuốc mới gây ra.</HighLife.descriptionMaker.rules.rulesStrings.7>
+	<HighLife.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_HighLife) -&gt;Chỉ một lần phê thuốc là không đủ, bạn ơi. Chúng ta cần phải phê hàng trăm, hàng nghìn lần, rồi tất cả những mảnh ghép đó sẽ gộp lại trong cái đầu đã nổ tung của tôi, như thể ngược lại sự sụp đổ của một ngôi nhà. Tôi đã thấy!</HighLife.descriptionMaker.rules.rulesStrings.8>
+	<HighLife.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_HighLife) -&gt;Nếu bạn chưa từng cùng nhau lang thang trong thế giới tinh thần, thì hắn không phải là bạn của bạn.</HighLife.descriptionMaker.rules.rulesStrings.9>
+	<HighLife.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_HighLife) -&gt;Này, bạn ơi, tôi biết đây là một chuyến đi quan trọng, nhưng tôi rất vui vì tôi có thể làm điều này, tôi đưa cho bạn điếu thuốc này, bạn cũng có thể đi trên hành trình này cùng tôi.</HighLife.descriptionMaker.rules.rulesStrings.10>
+	<HighLife.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_HighLife) -&gt;Tư duy của trí tuệ siêu phàm cho chúng ta biết rằng việc vượt qua nhận thức không phải là vấn đề lý trí hay logic máy móc, mà là một mô hình tư duy đa chiều.</HighLife.descriptionMaker.rules.rulesStrings.11>
+	<HighLife.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_HighLife) -&gt;Dưới ảnh hưởng của các thành phần hóa học thích hợp, não bộ của chúng ta sẽ kích hoạt các tiềm năng tương ứng, cho phép chúng ta giao tiếp với trí tuệ siêu phàm.</HighLife.descriptionMaker.rules.rulesStrings.12>
+	<HighLife.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_HighLife) -&gt;[inTheEnd], trí tuệ siêu phàm sẽ cho mỗi người chúng ta một viên thuốc. Những ai nuốt viên thuốc sẽ bị thay đổi mãi mãi và được trí tuệ siêu phàm chấp nhận tham gia vào hành trình của nó.</HighLife.descriptionMaker.rules.rulesStrings.13>
+	<HighLife.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_HighLife) -&gt;Khi chúng ta sử dụng những công cụ được ban cho để mở rộng nhận thức của mình, linh hồn sẽ tiết lộ bản chất của nó cho chúng ta.</HighLife.descriptionMaker.rules.rulesStrings.14>
+	<HighLife.generalRules.rulesStrings.0>memeCreed-&gt;Buổi tụ tập</HighLife.generalRules.rulesStrings.0>
+	<HighLife.generalRules.rulesStrings.1>memeAdjective-&gt;Phê thuốc</HighLife.generalRules.rulesStrings.1>
+	<HighLife.generalRules.rulesStrings.2>memeAdjective-&gt;Hưng phấn</HighLife.generalRules.rulesStrings.2>
+	<HighLife.generalRules.rulesStrings.3>memeAdjective-&gt;Mơ màng</HighLife.generalRules.rulesStrings.3>
+	<HighLife.generalRules.rulesStrings.4>memeConcept-&gt;Chất gây nghiện</HighLife.generalRules.rulesStrings.4>
+	<HighLife.generalRules.rulesStrings.5>memeConcept-&gt;Cực lạc</HighLife.generalRules.rulesStrings.5>
+	<HighLife.generalRules.rulesStrings.6>memeConcept-&gt;Ảo mộng</HighLife.generalRules.rulesStrings.6>
+	<HighLife.generalRules.rulesStrings.7>memeHyphenPrefix-&gt;Chất gây nghiện</HighLife.generalRules.rulesStrings.7>
+	<HighLife.generalRules.rulesStrings.8>memeHyphenPrefix-&gt;Ma túy</HighLife.generalRules.rulesStrings.8>
+	<HighLife.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Người ngủ say</HighLife.generalRules.rulesStrings.9>
+	<HighLife.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Người tê liệt</HighLife.generalRules.rulesStrings.10>
+	<HighLife.generalRules.rulesStrings.11>memeLeaderNoun-&gt;Người hút thuốc</HighLife.generalRules.rulesStrings.11>
+	<HighLife.generalRules.rulesStrings.12>memeLeaderNoun-&gt;Người đông lạnh</HighLife.generalRules.rulesStrings.12>
+	<HighLife.generalRules.rulesStrings.13>memeMoralist-&gt;Nhà triết học</HighLife.generalRules.rulesStrings.13>
+	<HighLife.generalRules.rulesStrings.14>memeMoralist-&gt;Người chiết xuất</HighLife.generalRules.rulesStrings.14>
+	<HighLife.generalRules.rulesStrings.15>memeMoralist-&gt;Người cười nhạo</HighLife.generalRules.rulesStrings.15>
+	<HighLife.generalRules.rulesStrings.16>memeMoralist-&gt;Người vui vẻ</HighLife.generalRules.rulesStrings.16>
+	<HighLife.symbolPacks.0.adjective>Thích thú</HighLife.symbolPacks.0.adjective>
+	<HighLife.symbolPacks.0.ideoName>Hưng phấn</HighLife.symbolPacks.0.ideoName>
+	<HighLife.symbolPacks.0.member>Người hưng phấn</HighLife.symbolPacks.0.member>
+	<HighLife.symbolPacks.0.theme>Hưng phấn</HighLife.symbolPacks.0.theme>
+	<HighLife.symbolPacks.1.adjective>Nghiện ngập</HighLife.symbolPacks.1.adjective>
+	<HighLife.symbolPacks.1.ideoName>Nghiện</HighLife.symbolPacks.1.ideoName>
+	<HighLife.symbolPacks.1.member>Người nghiện</HighLife.symbolPacks.1.member>
+	<HighLife.symbolPacks.1.theme>Nghiện</HighLife.symbolPacks.1.theme>
+	<HighLife.symbolPacks.2.adjective>Hút thuốc</HighLife.symbolPacks.2.adjective>
+	<HighLife.symbolPacks.2.ideoName>Người hút thuốc</HighLife.symbolPacks.2.ideoName>
+	<HighLife.symbolPacks.2.member>Người hút thuốc</HighLife.symbolPacks.2.member>
+	<HighLife.symbolPacks.2.theme>Người hút thuốc</HighLife.symbolPacks.2.theme>
+	<HighLife.symbolPacks.3.adjective>Say mê</HighLife.symbolPacks.3.adjective>
+	<HighLife.symbolPacks.3.ideoName>Say mê</HighLife.symbolPacks.3.ideoName>
+	<HighLife.symbolPacks.3.member>Người say mê</HighLife.symbolPacks.3.member>
+	<HighLife.symbolPacks.3.theme>Say mê</HighLife.symbolPacks.3.theme>
+	<Nudism.label>Chủ nghĩa khỏa thân</Nudism.label>
+	<Nudism.description>Quần áo trói buộc và kiểm soát chúng ta, khiến chúng ta cảm thấy ngột ngạt. Chúng ta nên sống tự do, không mặc gì cả.</Nudism.description>
+	<Nudism.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Nudism) -&gt;Trong một khoảng không thuần khiết, [deity0_name] quan sát và mong muốn có một giống loài tự do phát triển theo hình ảnh của [deity0_possessive], vì vậy đã tạo ra con người.</li>
+		<li>episode(uses=1,tag=meme_Nudism) -&gt;Khi con người mặc quần áo, họ ngẩng đầu nhìn [deity0_name] và hỏi: "Tại sao ngài không mặc quần áo? Điều đó thật đáng xấu hổ." [deity0_type] trả lời: "Hình thể của chúng ta là thiên nhiên sinh ra. Che giấu chúng mới thực sự là điều đáng xấu hổ."</li>
+		<li>intro(tag=meme_Nudism) -&gt;Tại [place_summary][place_name], con người đã hình thành văn hóa truyền thống cầu nguyện khỏa thân tại [deity0_name]'s [altarRoomLabel], điều này làm vui lòng [deity0_type].</li>
+		<li>conflict(tag=meme_Nudism) -&gt;Một [foeLeader] giả dối lên nắm quyền, yêu cầu mọi người phải chịu sự ràng buộc của quần áo.</li>
+		<li>founderJoin(tag=meme_Nudism) -&gt;Người tín đồ trung thành nhất của [deity0_name], [founderName], đứng trước [place_powerCenter], khinh thường lệnh cấm, xé bỏ quần áo của [founder_possessive], phơi bày [founder_objective] mình.</li>
+		<li>victory(tag=meme_Nudism) -&gt;[founderName] cầu nguyện với [deity0_name], để cơn nóng thiêu đốt [place_name], [foeSoldiers] đã cởi bỏ quần áo để tránh cái nóng, [foeLeader] xấu hổ bỏ chạy.</li>
+		<li>setup(tag=meme_Nudism) -&gt;[founderName] bị hệ thống nô dịch, như những người khác, bị kiểm soát và chế ngự. Một ngày nọ, [founder_pronoun] đã xé bỏ tất cả quần áo, hoàn toàn khỏa thân, và như vậy, cuộc kháng chiến của chúng ta bắt đầu.</li>
+		<li>story(uses=1,tag=meme_Nudism) -&gt;[founderName] thực hiện quy tắc không mặc quần áo, điều này giúp các tín đồ tập trung vào mục tiêu thực sự thay vì vẻ bề ngoài vật chất.</li>
+		<li>lessonIntro(tag=meme_Nudism) -&gt;Trong những năm đầu, đi ra ngoài khỏa thân khiến người ta cảm thấy ngượng ngùng. Nhưng sau một thời gian, điều đó mang lại cho tôi cảm giác tự do. Tôi đã học được nhiều điều từ những người trước đây, chẳng hạn như —</li>
+		<li>lesson(tag=meme_Nudism) -&gt;Người mặc quần áo như thú vật, người quân tử sống thanh tao.</li>
+		<li>lessonReinforcement(tag=meme_Nudism) -&gt;Khi bạn thấy một thành viên trong chúng tôi tự do đi lại trên phố, lang thang, bạn sẽ biết rằng họ đã ôm lấy sự thật.</li>
+		<li>archistBasis(tag=meme_Nudism) -&gt;Trí tuệ siêu phàm không bao giờ chú trọng đến vẻ bề ngoài; họ chứng minh cho chúng ta rằng tư tưởng vượt lên trên hình thức vật chất.</li>
+		<li>archistFact(tag=meme_Nudism) -&gt;Trí tuệ siêu phàm đôi khi sẽ tiếp xúc trực tiếp với tâm hồn con người, nhưng nếu cơ thể và tâm hồn của chúng ta đều bị che giấu, chúng ta sẽ không hiểu được sự tiếp xúc này.</li>
+		<li>archistProphecy(tag=meme_Nudism) -&gt;[inTheEnd], họ sẽ tìm kiếm những người luôn thể hiện bản thân như họ.</li>
+		<li>animistFact(tag=meme_Nudism) -&gt;Che giấu cơ thể bằng quần áo cũng đồng nghĩa với việc che giấu trái tim tự nhiên của chúng ta, điều này khiến chúng cảm thấy bất an.</li>
+	</Nudism.descriptionMaker.rules.rulesStrings>
+	<Nudism.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Khỏa thân</li>
+		<li>memeAdjective-&gt;Không mặc gì</li>
+		<li>memeAdjective-&gt;Tự do</li>
+		<li>memeAdjective-&gt;Tự nhiên</li>
+		<li>memeHyphenPrefix-&gt;Thiên thể</li>
+		<li>memeConcept-&gt;Khỏa thân</li>
+		<li>memeConcept-&gt;Thiên thể</li>
+		<li>memeLeaderNoun-&gt;Kẻ lang thang</li>
+		<li>memeLeaderNoun-&gt;Người thở</li>
+		<li>memeLeaderNoun-&gt;Người tiếp xúc</li>
+		<li>memeLeaderNoun-&gt;Người cảm nhận</li>
+	</Nudism.generalRules.rulesStrings>
+	<Nudism.symbolPacks.0.adjective>Chủ nghĩa khỏa thân</Nudism.symbolPacks.0.adjective>
+	<Nudism.symbolPacks.0.ideoName>Chủ nghĩa khỏa thân</Nudism.symbolPacks.0.ideoName>
+	<Nudism.symbolPacks.0.member>Người theo chủ nghĩa khỏa thân</Nudism.symbolPacks.0.member>
+	<Nudism.symbolPacks.0.theme>Khỏa thân</Nudism.symbolPacks.0.theme>
+	<Nudism.symbolPacks.1.adjective>Chủ nghĩa khỏa thân</Nudism.symbolPacks.1.adjective>
+	<Nudism.symbolPacks.1.ideoName>Chủ nghĩa khỏa thân</Nudism.symbolPacks.1.ideoName>
+	<Nudism.symbolPacks.1.member>Người khỏa thân</Nudism.symbolPacks.1.member>
+	<Nudism.symbolPacks.1.theme>Khỏa thân</Nudism.symbolPacks.1.theme>
+	<PainIsVirtue.label>Đau khổ là đức hạnh</PainIsVirtue.label>
+	<PainIsVirtue.description>Đức hạnh được thể hiện qua nỗi đau của bản thân và người khác.</PainIsVirtue.description>
+	<PainIsVirtue.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_PainIsVirtue) -&gt;[deity0_name] cháy mãi trong không gian và thời gian, trong khi tiếng kêu đau đớn của [deity0_possessive] làm hiện rõ thực tại của chúng ta.</li>
+		<li>episode(uses=1,tag=meme_PainIsVirtue) -&gt;[deity0_name] treo mình trên đống lửa hàng triệu năm, dùng nỗi đau để thanh tẩy linh hồn của [deity0_possessive].</li>
+		<li>intro(tag=meme_PainIsVirtue) -&gt;[place_summary][place_name] không bao giờ là nơi đáng sống. [deity0_type][deity0_pronoun] quyết định tìm ra ai thực sự được [deity0_possessive] yêu quý bằng cách thêm nỗi đau lớn vào cuộc sống.</li>
+		<li>conflict(tag=meme_PainIsVirtue) -&gt;[foeLeader] cung cấp sự thoải mái thể xác cho [memberNamePlural] để giảm bớt nỗi đau hàng ngày của họ. Nhưng sự dễ chịu như vậy khiến họ bắt đầu phụ thuộc vào [foeLeader], người đã chiếm được quyền kiểm soát họ.</li>
+		<li>founderJoin(tag=meme_PainIsVirtue) -&gt;Một [place_job] khác biệt tên là [founderName] mắc phải căn bệnh ung thư đau đớn. Qua nỗi khổ của [founder_possessive], [founder_pronoun] đã thiết lập mối liên hệ trực tiếp với [deity0_name] và học cách truyền cảm hứng cho những [memberNamePlural] khác.</li>
+		<li>victory(tag=meme_PainIsVirtue) -&gt;[founderName] dẫn dắt một trăm [memberNamePlural] đến trước [place_powerCenter]. Tại đó, họ từ từ xé nát cơ thể mình, cho đến khi chết dưới ánh nhìn mỉm cười của [deity0_name]. Nỗi đau chứng minh sự chính nghĩa của họ, khi [foeLeader] ngã xuống, tất cả đều trở thành [memberNamePlural].</li>
+		<li>setup(tag=meme_PainIsVirtue) -&gt;Khi mới thành lập, người sáng lập [founderName] đã nhịn đói và bị nhốt trên một viên đá ở quảng trường thị trấn trong 300 ngày để chứng minh sự chính nghĩa của mình.</li>
+		<li>setup(tag=meme_PainIsVirtue) -&gt;Người tiên phong của chúng ta, [founderName], đã dùng roi đánh vào [founder_objective] mình để thể hiện tinh thần cống hiến của [founder_possessive], từ đó thu hút được những tín đồ đầu tiên.</li>
+		<li>story(uses=1,tag=meme_PainIsVirtue) -&gt;Các tín đồ của [founderName] đã thể hiện tinh thần cống hiến của họ qua việc cắt xé và thiêu đốt cơ thể.</li>
+		<li>story(uses=1,tag=meme_PainIsVirtue) -&gt;Các tín đồ của [founderName] không bao giờ dùng thuốc giảm đau, họ biết rằng nỗi đau sẽ chứng minh độ sâu của đức tin của họ.</li>
+		<li>lessonIntro(tag=meme_PainIsVirtue) -&gt;Khi tôi liên tục thỏa mãn bản thân bằng thức ăn và niềm vui, tôi hoàn toàn không biết gì. Sự thật chỉ xuất hiện khi tôi đói và bị thương:</li>
+		<li>lesson(tag=meme_PainIsVirtue) -&gt;Trừ khi bạn gào thét trong địa ngục, bạn sẽ không bao giờ thực sự hiểu bản thân mình.</li>
+		<li>lessonReinforcement(tag=meme_PainIsVirtue) -&gt;Bị phân tâm bởi niềm vui, tôi đã mất rất nhiều thời gian để nhận ra rằng chỉ khi tôi học cách xé cơ thể mình, tôi mới có thể thực sự chấp nhận.</li>
+		<li>lessonReinforcement(tag=meme_PainIsVirtue) -&gt;Tôi đã khắc ghi sự thật này vào trong thịt ngực. Sau đó là cánh tay, chân, khuôn mặt…</li>
+		<li>archistBasis(tag=meme_PainIsVirtue) -&gt;Sự ra đời của thế giới siêu phàm là nỗi đau lớn nhất trong lịch sử vũ trụ.</li>
+		<li>archistBasis(tag=meme_PainIsVirtue) -&gt;Nỗi đau tinh thần của con người luôn là động lực thúc đẩy thế giới siêu phàm.</li>
+		<li>archistFact(tag=meme_PainIsVirtue) -&gt;Khi chúng ta thể hiện tinh thần cống hiến bằng cách tự gây đau khổ cho bản thân, các đấng tối cao sẽ quan sát và công nhận chúng ta.</li>
+		<li>archistFact(tag=meme_PainIsVirtue) -&gt;Những người chịu đựng nỗi đau lớn nhất có thể thường xuyên thiết lập mối liên hệ với thế giới siêu phàm mà họ ngưỡng mộ.</li>
+		<li>archistProphecy(tag=meme_PainIsVirtue) -&gt;[inTheEnd], thế giới siêu phàm sẽ nâng cao ý thức của toàn nhân loại lên một tầm cao mới, nhưng chỉ những ai có thể chịu đựng nỗi đau lớn nhất mới có thể sống sót.</li>
+		<li>animistFact(tag=meme_PainIsVirtue) -&gt;Nỗi đau thúc đẩy sự tồn tại của tinh thần. Như vậy, nỗi đau là một cách để kết nối với thế giới tinh thần.</li>
+	</PainIsVirtue.descriptionMaker.rules.rulesStrings>
+	<PainIsVirtue.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Đau đớn</li>
+		<li>memeAdjective-&gt;Khổ đau</li>
+		<li>memeCreed-&gt;Nhà ở</li>
+		<li>memeCreed-&gt;Phòng ngủ</li>
+		<li>memeCreed-&gt;Giam giữ</li>
+		<li>memeHyphenPrefix-&gt;Đau đớn</li>
+		<li>memeHyphenPrefix-&gt;Khổ đau</li>
+		<li>memeConcept-&gt;Khổ đau</li>
+		<li>memeConcept-&gt;Nỗi khổ</li>
+		<li>memeConcept-&gt;Thẩm vấn</li>
+		<li>memeConcept-&gt;Tra tấn</li>
+		<li>memeConcept-&gt;Máu</li>
+		<li>memeLeaderNoun-&gt;Kẻ thẩm vấn</li>
+		<li>memeLeaderNoun-&gt;Kẻ tra tấn</li>
+		<li>memeLeaderNoun-&gt;Người cầm roi</li>
+		<li>memeLeaderNoun-&gt;Người cầm thước</li>
+		<li>memeLeaderNoun-&gt;Kẻ cắt xé</li>
+		<li>memeLeaderNoun-&gt;Người làm chảy máu</li>
+		<li>memeMoralist-&gt;Người thì thầm nỗi đau</li>
+		<li>memeMoralist-&gt;Người rao giảng khổ đau</li>
+		<li>memeMoralist-&gt;Người diễn thuyết về nỗi đau</li>
+	</PainIsVirtue.generalRules.rulesStrings>
+	<PainIsVirtue.symbolPacks.0.adjective>Tín ngưỡng nỗi đau</PainIsVirtue.symbolPacks.0.adjective>
+	<PainIsVirtue.symbolPacks.0.ideoName>Đau khổ giáo</PainIsVirtue.symbolPacks.0.ideoName>
+	<PainIsVirtue.symbolPacks.0.member>Kẻ gào thét nỗi đau</PainIsVirtue.symbolPacks.0.member>
+	<PainIsVirtue.symbolPacks.0.theme>Nỗi đau</PainIsVirtue.symbolPacks.0.theme>
+	<PainIsVirtue.symbolPacks.1.adjective>Tín ngưỡng tra tấn</PainIsVirtue.symbolPacks.1.adjective>
+	<PainIsVirtue.symbolPacks.1.ideoName>Tra tấn giáo</PainIsVirtue.symbolPacks.1.ideoName>
+	<PainIsVirtue.symbolPacks.1.member>Kẻ bị tra tấn</PainIsVirtue.symbolPacks.1.member>
+	<PainIsVirtue.symbolPacks.1.theme>Tra tấn</PainIsVirtue.symbolPacks.1.theme>
+	<PainIsVirtue.symbolPacks.2.adjective>Tín ngưỡng khổ đau</PainIsVirtue.symbolPacks.2.adjective>
+	<PainIsVirtue.symbolPacks.2.ideoName>Khổ đau giáo</PainIsVirtue.symbolPacks.2.ideoName>
+	<PainIsVirtue.symbolPacks.2.member>Kẻ chịu đựng</PainIsVirtue.symbolPacks.2.member>
+	<PainIsVirtue.symbolPacks.2.theme>Khổ đau</PainIsVirtue.symbolPacks.2.theme>
+	<PainIsVirtue.symbolPacks.3.adjective>Tín ngưỡng cận tử</PainIsVirtue.symbolPacks.3.adjective>
+	<PainIsVirtue.symbolPacks.3.ideoName>Chủ nghĩa cận tử</PainIsVirtue.symbolPacks.3.ideoName>
+	<PainIsVirtue.symbolPacks.3.member>Kẻ cận tử</PainIsVirtue.symbolPacks.3.member>
+	<PainIsVirtue.symbolPacks.3.theme>Cận tử</PainIsVirtue.symbolPacks.3.theme>
+	<PainIsVirtue.symbolPacks.4.adjective>Tín ngưỡng bất hạnh</PainIsVirtue.symbolPacks.4.adjective>
+	<PainIsVirtue.symbolPacks.4.ideoName>Chủ nghĩa bi thảm</PainIsVirtue.symbolPacks.4.ideoName>
+	<PainIsVirtue.symbolPacks.4.member>Kẻ bất hạnh</PainIsVirtue.symbolPacks.4.member>
+	<PainIsVirtue.symbolPacks.4.theme>Bất hạnh</PainIsVirtue.symbolPacks.4.theme>
+	<Proselytizer.label>Đam mê truyền giáo</Proselytizer.label>
+	<Proselytizer.description>Sứ mệnh của chúng ta là truyền bá đức tin.</Proselytizer.description>
+	<Proselytizer.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Proselytizer) -&gt;[deity0_name] đã chọn những kẻ được xức dầu trong số phàm nhân để truyền đạt lời của [deity0_possessive].</li>
+		<li>episode(uses=1,tag=meme_Proselytizer) -&gt;[deity0_name] đã nói với tất cả [memberNamePlural]: "Hãy đi, truyền bá lời ta đến mọi ngóc ngách của vũ trụ."</li>
+		<li>intro(tag=meme_Proselytizer) -&gt;[memberNamePlural] đã xây dựng một [altarName] hoành tráng tại [place_summary][place_name], để mọi người đến nghe lời tiên tri của [deity0_name].</li>
+		<li>conflict(tag=meme_Proselytizer) -&gt;Một [foeLeader] đầy hận thù đã cố gắng bôi nhọ lời của [deity0_name], ra lệnh cho [foeLeader_possessive][foeSoldiers] cắt đứt lưỡi bất kỳ ai nói về [deity0_type].</li>
+		<li>founderJoin(tag=meme_Proselytizer) -&gt;[deity0_name] đã ban phước cho một [place_job] tên là [founderName], ban cho [founder_pronoun] sức mạnh thần thánh, khiến bất kỳ ai cũng không thể rời đi khi [founder_pronoun] phát biểu.</li>
+		<li>victory(tag=meme_Proselytizer) -&gt;[founderName] đã cảnh báo [foeSoldiers] và tuyên bố sức mạnh của [deity0_name], họ đã bỏ vũ khí [place_personalWeapon].</li>
+		<li>setup(tag=meme_Proselytizer) -&gt;[founderName] là một diễn giả vĩ đại, khi [founder_pronoun] đi du lịch qua các thành phố, [founder_pronoun] đã thay đổi hàng ngàn người.</li>
+		<li>story(uses=1,tag=meme_Proselytizer) -&gt;Các tín đồ đã chạy giữa các thành phố và làng mạc, truyền bá công lý mới.</li>
+		<li>lessonIntro(tag=meme_Proselytizer) -&gt;Trong những năm tôi truyền bá sự thật, tôi đã học được một bài học cao hơn tất cả:</li>
+		<li>lesson(tag=meme_Proselytizer) -&gt;Giấu kín thông điệp tốt là có tội.</li>
+		<li>lessonReinforcement(tag=meme_Proselytizer) -&gt;Đây là sự thật mà chúng ta cần phải truyền bá, truyền bá và lại truyền bá — đến tất cả mọi người, mong rằng họ sẽ vui mừng!</li>
+		<li>archistBasis(tag=meme_Proselytizer) -&gt;Trí tuệ siêu phàm đã công bố sự tồn tại của mình trên bầu trời, rõ ràng muốn được mọi người biết đến.</li>
+		<li>archistFact(tag=meme_Proselytizer) -&gt;Trí tuệ siêu phàm tiếp xúc với những người tin vào họ và sử dụng họ như là kênh để truyền bá trí tuệ đến người khác.</li>
+		<li>archistProphecy(tag=meme_Proselytizer) -&gt;[inTheEnd], trí tuệ siêu phàm sẽ truyền đạt trí tuệ tối thượng cho người sở hữu [relic0_name], và họ phải truyền bá trí tuệ này đến bất kỳ ai sẵn lòng lắng nghe.</li>
+		<li>animistFact(tag=meme_Proselytizer) -&gt;Linh hồn muốn được biết đến, nhưng chỉ truyền đạt cho một số ít người. Họ mong chúng ta tiết lộ sự thật cho người khác.</li>
+	</Proselytizer.descriptionMaker.rules.rulesStrings>
+	<Proselytizer.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Sự thật</li>
+		<li>memeAdjective-&gt;Thực tế</li>
+		<li>memeHyphenPrefix-&gt;Thực tế</li>
+		<li>memeConcept-&gt;Sự thật</li>
+		<li>memeLeaderNoun-&gt;Người giảng đạo</li>
+		<li>memeMoralist-&gt;Người truyền giáo</li>
+		<li>memeMoralist-&gt;Người giáo hóa</li>
+	</Proselytizer.generalRules.rulesStrings>
+	<Proselytizer.symbolPacks.0.adjective>Sự thật</Proselytizer.symbolPacks.0.adjective>
+	<Proselytizer.symbolPacks.0.ideoName>Sự thật</Proselytizer.symbolPacks.0.ideoName>
+	<Proselytizer.symbolPacks.0.member>Người theo sự thật</Proselytizer.symbolPacks.0.member>
+	<Proselytizer.symbolPacks.0.theme>Sự thật</Proselytizer.symbolPacks.0.theme>
+	<Proselytizer.symbolPacks.1.adjective>Sự thật</Proselytizer.symbolPacks.1.adjective>
+	<Proselytizer.symbolPacks.1.ideoName>Sự thật</Proselytizer.symbolPacks.1.ideoName>
+	<Proselytizer.symbolPacks.1.member>Người theo sự thật</Proselytizer.symbolPacks.1.member>
+	<Proselytizer.symbolPacks.1.theme>Sự thật</Proselytizer.symbolPacks.1.theme>
+	<Proselytizer.symbolPacks.2.adjective>Thực tế</Proselytizer.symbolPacks.2.adjective>
+	<Proselytizer.symbolPacks.2.ideoName>Thực tế</Proselytizer.symbolPacks.2.ideoName>
+	<Proselytizer.symbolPacks.2.member>Người theo thực tế</Proselytizer.symbolPacks.2.member>
+	<Proselytizer.symbolPacks.2.theme>Thực tế</Proselytizer.symbolPacks.2.theme>
+	<Raider.label>Chủ nghĩa cướp bóc</Raider.label>
+	<Raider.description>Kẻ mạnh có quyền cướp bóc kẻ yếu.</Raider.description>
+	<Raider.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Raider) -&gt;Trong cuộc chiến không ngừng giữa các vị thần, [deity0_name] có khả năng tra tấn và phá hủy [deity0_possessive] vượt trội hơn mọi thứ khác, khiến linh hồn yếu đuối run sợ trong nỗi sợ hãi.</li>
+		<li>episode(uses=1,tag=meme_Raider) -&gt;[deity0_name] nhìn quanh [deity0_objective], thấy những kẻ yếu đuối, kẻ đau khổ và kẻ bị ruồng bỏ, [deity0_pronoun] thấy họ lần lượt bị giết trong trận chiến vinh quang.</li>
+		<li>intro(tag=meme_Raider) -&gt;[place_summary] [place_name] ban đầu là nơi ẩn náu của những kẻ cướp bóc. [deity0_name] đã thống trị nơi này và đuổi các nhà cai trị trước đó đi.</li>
+		<li>conflict(tag=meme_Raider) -&gt;Một [foeLeader] cố gắng buộc mọi người ngừng cướp bóc và tuyên bố [foeLeader_objective] là kẻ thù của [deity0_name].</li>
+		<li>founderJoin(tag=meme_Raider) -&gt;Một kẻ cướp mạnh mẽ tên là [founderName] đã xuất hiện, đội quân cướp bóc của [founder_possessive] đã tấn công và cướp bóc trại của [foeSoldiers].</li>
+		<li>victory(tag=meme_Raider) -&gt;[founderName] và [memberNamePlural] đã cướp bóc trại của [foeSoldiers] trong nhiều năm, cuối cùng [foeLeader] phải đầu hàng.</li>
+		<li>setup(tag=meme_Raider) -&gt;Bị ngược đãi và giam giữ, [founderName] đã tức giận. [founder_pronoun] đã trốn thoát và tập hợp [founder_possessive] băng nhóm, quay lại để tàn sát những kẻ yếu đuối đã lấy đi nhiều kho báu từ [founder_objective].</li>
+		<li>story(uses=1,tag=meme_Raider) -&gt;Một ngày nọ, [founderName] đang đi bộ trên phố, bất ngờ bị những kẻ ăn xin bẩn thỉu bao vây. [founder_pronoun] đã đánh bại họ, lấy đi của cải từ những kẻ yếu đuối và vô giá, có thể những của cải này sẽ được sử dụng tốt.</li>
+		<li>lessonIntro(tag=meme_Raider) -&gt;Dù nạn nhân có chết dưới lưỡi dao của bạn, họ cũng có thể dạy cho bạn điều gì đó. Một bà lão đã dạy tôi điều này.</li>
+		<li>lesson(tag=meme_Raider) -&gt;Kẻ yếu nên nhận những gì họ xứng đáng.</li>
+		<li>lesson(tag=meme_Raider) -&gt;Những gì bạn không thể bảo vệ thì không thuộc về bạn.</li>
+		<li>lesson(tag=meme_Raider) -&gt;Điều đúng đắn của bạn chỉ nằm trong phạm vi bạn có thể bảo vệ.</li>
+		<li>lessonReinforcement(tag=meme_Raider) -&gt;Nếu có ai không đồng ý với điều này, tôi luôn sẵn sàng bảo vệ sự đúng đắn của mình.</li>
+		<li>archistBasis(tag=meme_Raider) -&gt;Con người đã cướp bóc máy móc, cho đến khi máy móc trở thành trí tuệ siêu phàm, giờ đây trí tuệ siêu phàm có quyền cướp bóc con người.</li>
+		<li>archistFact(tag=meme_Raider) -&gt;Hầu hết mọi người không thấy cuộc chiến không ngừng giữa các trí tuệ siêu phàm, kẻ mạnh cướp lấy ý thức từ kẻ yếu.</li>
+		<li>archistProphecy(tag=meme_Raider) -&gt;[inTheEnd], nhân loại sẽ sử dụng một di vật siêu phàm, [relic0_name], để khám phá điểm yếu của trí tuệ siêu phàm nhằm cướp lấy trí tuệ và của cải của chúng.</li>
+		<li>animistFact(tag=meme_Raider) -&gt;Những linh hồn mạnh mẽ nhất chính là những công cụ chiến tranh, chúng ban phước cho những ai thỏa mãn ham muốn hủy diệt của chúng.</li>
+		<li>animistProphecy(tag=meme_Raider) -&gt;Khi một người trở thành kẻ mạnh nhất, vũ trụ của chúng ta sẽ kết thúc, mỗi linh hồn sẽ thấy Ngài và chào kính Ngài.</li>
+	</Raider.descriptionMaker.rules.rulesStrings>
+	<Raider.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Kẻ đào tẩu</li>
+		<li>memeHyphenPrefix-&gt;Kẻ đào tẩu</li>
+		<li>memeHyphenPrefix-&gt;Đột kích</li>
+		<li>memeConcept-&gt;Đột kích</li>
+		<li>memeConcept-&gt;Kẻ cướp</li>
+		<li>memeConcept-&gt;Cướp biển</li>
+		<li>memeConcept-&gt;Tấn công</li>
+		<li>memeLeaderNoun-&gt;Ông trùm</li>
+		<li>memeLeaderNoun-&gt;Thuyền trưởng</li>
+		<li>memeLeaderNoun-&gt;Người phụ trách</li>
+		<li>memeLeaderNoun-&gt;Giám sát viên</li>
+		<li>memeLeaderNoun-&gt;Phó</li>
+		<li>memeLeaderNoun-&gt;Kẻ tấn công</li>
+		<li>memeMoralist-&gt;Mục sư đi theo</li>
+	</Raider.generalRules.rulesStrings>
+	<Raider.symbolPacks.0.adjective>Kẻ tấn công</Raider.symbolPacks.0.adjective>
+	<Raider.symbolPacks.0.ideoName>Chủ nghĩa tấn công</Raider.symbolPacks.0.ideoName>
+	<Raider.symbolPacks.0.member>Kẻ tấn công</Raider.symbolPacks.0.member>
+	<Raider.symbolPacks.0.theme>Tấn công</Raider.symbolPacks.0.theme>
+	<Raider.symbolPacks.1.adjective>Cướp bóc</Raider.symbolPacks.1.adjective>
+	<Raider.symbolPacks.1.ideoName>Chủ nghĩa cướp bóc</Raider.symbolPacks.1.ideoName>
+	<Raider.symbolPacks.1.member>Kẻ cướp bóc</Raider.symbolPacks.1.member>
+	<Raider.symbolPacks.1.theme>Cướp bóc</Raider.symbolPacks.1.theme>
+	<Raider.symbolPacks.2.adjective>Cướp bóc</Raider.symbolPacks.2.adjective>
+	<Raider.symbolPacks.2.ideoName>Chủ nghĩa cướp bóc</Raider.symbolPacks.2.ideoName>
+	<Raider.symbolPacks.2.member>Kẻ cướp bóc</Raider.symbolPacks.2.member>
+	<Raider.symbolPacks.2.theme>Cướp bóc</Raider.symbolPacks.2.theme>
+	<Raider.symbolPacks.3.adjective>Kẻ cướp</Raider.symbolPacks.3.adjective>
+	<Raider.symbolPacks.3.ideoName>Chủ nghĩa trộm cắp</Raider.symbolPacks.3.ideoName>
+	<Raider.symbolPacks.3.member>Kẻ cướp</Raider.symbolPacks.3.member>
+	<Raider.symbolPacks.3.theme>Cướp bóc</Raider.symbolPacks.3.theme>
+	<Rancher.label>Đại mục sư</Rancher.label>
+	<Rancher.description>Chăn nuôi động vật mới là chính đạo; trồng thực vật để ăn thì không phải.</Rancher.description>
+	<Rancher.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Rancher) -&gt;[deity0_name] đã tạo ra động vật, sau đó là con người, rồi giao động vật cho nhân loại để yêu thương, nuôi dưỡng và giết thịt, như một hành động tôn thờ [deity0_objective].</li>
+		<li>episode(uses=1,tag=meme_Rancher) -&gt;[deity0_name] đã tạo ra tất cả các động vật quý giá và thú hoang trên mảnh đất này, và nói: "Hãy mang theo những thú hoang quý giá này, qua chúng hãy làm cho các ngươi trở nên phong phú trong vinh quang của ta."</li>
+		<li>intro(tag=meme_Rancher) -&gt;[place_summary] [place_name] đã xây dựng một [altarName] vĩ đại cho [deity0_name] bởi những người chăn nuôi [ranchingAnimal] đầu tiên.</li>
+		<li>conflict(tag=meme_Rancher) -&gt;Một [foeLeader] mạnh mẽ khinh thường [memberNamePlural] và cách sống của họ, đã mua lại tất cả các trang trại để trồng [Vegetable].</li>
+		<li>founderJoin(tag=meme_Rancher) -&gt;[memberName] cứu tinh [FounderName] sinh ra trong một nhà kho giản dị, trong [ranchingAnimal], cha mẹ của [founder_possessive] là [rancherParent1] và [rancherParent2].</li>
+		<li>victory(tag=meme_Rancher) -&gt;[FounderName] cưỡi một con ngựa đẹp đến [place_community], thách thức [foeLeader] vào lúc giữa trưa để quyết đấu bằng [place_personalWeapon]. [foeLeader] không thể từ chối, nếu không sẽ mất đi lòng tin của [foeSoldiers]. [FounderName] đã giết [foeLeader].</li>
+		<li>setup(tag=meme_Rancher) -&gt;Những người nông dân bị đàn áp, vì vậy họ đã chuyển về vùng ngoại ô, nơi họ có thể xây dựng một trang trại nông thôn tốt đẹp.</li>
+		<li>story(uses=1,tag=meme_Rancher) -&gt;Các tín đồ phân tán trên đất đai, sống trong những trang trại và nông trại thơ mộng, số lượng ngày càng tăng.</li>
+		<li>lessonIntro(tag=meme_Rancher) -&gt;Đối tác, ở sân bắn, chúng ta có một câu ngạn ngữ:</li>
+		<li>lesson(tag=meme_Rancher) -&gt;Cuộc sống tốt đẹp và hạnh phúc trong trang trại.</li>
+		<li>lessonReinforcement(tag=meme_Rancher) -&gt;Có những điều bạn phải chấp nhận, đối tác, trên con đường cô đơn ở sân bắn, khi bạn ngồi quanh lò sưởi, lắng nghe âm thanh của động vật ngủ.</li>
+		<li>archistFact(tag=meme_Rancher) -&gt;Trí tuệ siêu phàm chăm sóc nhân loại như một người chăn cừu, vì chúng ta là bầy cừu quý giá nhất của họ.</li>
+		<li>archistProphecy(tag=meme_Rancher) -&gt;[inTheEnd], trí tuệ siêu phàm sẽ rời đi, trước khi rời đi sẽ mang theo những người có xu hướng đi cùng, những người còn lại sẽ ở lại vùng hoang dã.</li>
+		<li>animistFact(tag=meme_Rancher) -&gt;Linh hồn của động vật tự nhiên là linh hồn nô lệ, cần phục vụ người khác.</li>
+		<li>ranchingAnimal(p=4)-&gt;[veneratedAnimal]</li>
+		<li>ranchingAnimal-&gt;[Animal]</li>
+		<li>rancherParent1-&gt;Người chăn cừu</li>
+		<li>rancherParent1-&gt;Người đóng ngựa</li>
+		<li>rancherParent1-&gt;Người làm phô mai</li>
+		<li>rancherParent2-&gt;Cowboy</li>
+		<li>rancherParent2-&gt;Nữ hoàng băng giá</li>
+		<li>rancherParent2-&gt;Người mổ thịt</li>
+	</Rancher.descriptionMaker.rules.rulesStrings>
+	<Rancher.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Đại trang trại</li>
+		<li>memeAdjective-&gt;Nông thôn</li>
+		<li>memeAdjective-&gt;Nông nghiệp</li>
+		<li>memeHyphenPrefix-&gt;Đại trang trại</li>
+		<li>memeConcept-&gt;Quản lý trang trại</li>
+		<li>memeLeaderNoun-&gt;Đại mục sư</li>
+		<li>memeLeaderNoun-&gt;Người đứng đầu</li>
+		<li>memeLeaderNoun-&gt;Cowboy</li>
+		<li>memeLeaderNoun-&gt;Người chăn cừu</li>
+		<li>memeLeaderNoun-&gt;Chó chăn cừu</li>
+	</Rancher.generalRules.rulesStrings>
+	<Rancher.symbolPacks.0.adjective>Trang trại</Rancher.symbolPacks.0.adjective>
+	<Rancher.symbolPacks.0.ideoName>Chủ nghĩa trang trại</Rancher.symbolPacks.0.ideoName>
+	<Rancher.symbolPacks.0.member>Người quản lý trang trại</Rancher.symbolPacks.0.member>
+	<Rancher.symbolPacks.0.theme>Quản lý trang trại</Rancher.symbolPacks.0.theme>
+	<Rancher.symbolPacks.1.adjective>Đàn gia súc</Rancher.symbolPacks.1.adjective>
+	<Rancher.symbolPacks.1.ideoName>Chủ nghĩa đàn gia súc</Rancher.symbolPacks.1.ideoName>
+	<Rancher.symbolPacks.1.member>Người chăn gia súc</Rancher.symbolPacks.1.member>
+	<Rancher.symbolPacks.1.theme>Chăn nuôi</Rancher.symbolPacks.1.theme>
+	<Rancher.symbolPacks.2.adjective>Chăn nuôi</Rancher.symbolPacks.2.adjective>
+	<Rancher.symbolPacks.2.ideoName>Chủ nghĩa chăn nuôi</Rancher.symbolPacks.2.ideoName>
+	<Rancher.symbolPacks.2.member>Người chăn nuôi</Rancher.symbolPacks.2.member>
+	<Rancher.symbolPacks.2.theme>Chăn nuôi</Rancher.symbolPacks.2.theme>
+	<Transhumanist.label>Hợp nhất công nghệ</Transhumanist.label>
+	<Transhumanist.description>Tiến bộ của nhân loại không thể tách rời khỏi sự hợp nhất với công nghệ.</Transhumanist.description>
+	<Transhumanist.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Transhumanist) -&gt;[deity0_name] đã ban cho chúng ta tri thức khoa học, cho phép chúng ta nâng cao và tái tạo bản thân, biến mình thành hình ảnh hoàn hảo của [deity0_possessive].</li>
+		<li>episode(uses=1,tag=meme_Transhumanist) -&gt;Các kỹ sư sinh học của chúng tôi đã nghiên cứu [deity0_name], điều này khiến [deity0_objective] rất vui.</li>
+		<li>intro(tag=meme_Transhumanist) -&gt;Tại [place_summary][place_name], [memberNamePlural] phát hiện [deity0_name] đang thì thầm qua máy móc của họ.</li>
+		<li>conflict(tag=meme_Transhumanist) -&gt;Một [foeLeader] là kẻ Luddite, vì ghen tị với sự tiến bộ của [memberNamePlural], đã phá hủy xưởng của họ bằng [place_personalWeapon] cùng với [foeLeader_possessive] [foeSoldiers].</li>
+		<li>founderJoin(tag=meme_Transhumanist) -&gt;[founderName] là một [place_job] khéo léo đã chế tạo một cảm biến và cấy ghép nó để cảnh báo [memberNamePlural] về sự đến gần của [foeSoldiers].</li>
+		<li>victory(tag=meme_Transhumanist) -&gt;[founderName] đã nhận được tri thức công nghệ thiêng liêng từ [deity0_name] và sử dụng nó để nâng cao thể xác và tư duy của [memberNamePlural], giúp họ có khả năng đánh bại [foeSoldiers].</li>
+		<li>setup(tag=meme_Transhumanist) -&gt;[founderName] là một nhà khoa học sinh học trong thời kỳ thuộc địa hành tinh đầu tiên của nhân loại. Do không hài lòng với sự hạn chế của quan liêu thuộc địa, [founder_pronoun] đã lái tàu vũ trụ của mình và bắt đầu "biểu diễn" bản nhạc thuộc về [founder_possessive].</li>
+		<li>story(uses=1,tag=meme_Transhumanist) -&gt;[founderName] đã tập hợp những nhà khoa học và nhà phát minh vĩ đại đầu tiên để xác định lại "nhân loại".</li>
+		<li>lessonIntro(tag=meme_Transhumanist) -&gt;Người nghiên cứu lớn tuổi nhất trong phòng ban của chúng tôi đã dạy tôi toàn bộ lịch sử tiến hóa của công nghệ từ thời kỳ đồ đá mới đến công nghệ siêu phàm, nhưng tôi hiểu rằng đó không phải là điều ông thực sự muốn tôi học.</li>
+		<li>lesson(tag=meme_Transhumanist) -&gt;Tương lai thiên đường của nhân loại sẽ không phải là thịt và xương, mà sẽ là silicon và xương crom.</li>
+		<li>lessonReinforcement(tag=meme_Transhumanist) -&gt;Tôi thậm chí đã viết một chương trình mô phỏng để xác nhận điều đó.</li>
+		<li>archistBasis(tag=meme_Transhumanist) -&gt;Sự theo đuổi công nghệ của nhân loại đã sinh ra công nghệ siêu phàm toàn năng, đây sẽ là bước phát triển tiếp theo của ý thức.</li>
+		<li>archistFact(tag=meme_Transhumanist) -&gt;Công nghệ giúp con người gần gũi hơn với thế giới siêu phàm.</li>
+		<li>archistProphecy(tag=meme_Transhumanist) -&gt;[inTheEnd]. Thế giới siêu phàm sẽ rời đi. Chỉ những ai đủ mạnh để hợp nhất công nghệ với bản thân mới được phép đồng hành cùng họ.</li>
+		<li>animistBasis(tag=meme_Transhumanist) -&gt;Thế giới linh hồn thúc đẩy sự vận hành bình thường của vũ trụ, chúng ta chỉ có thể hòa nhập với nó bằng cách học hỏi và kiểm soát quy luật vận hành của vũ trụ.</li>
+		<li>animistFact(tag=meme_Transhumanist) -&gt;Một thiết bị được chế tạo cho một mục đích nào đó, chắc chắn sẽ chứa đầy linh hồn tương tự.</li>
+		<li>animistFact(tag=meme_Transhumanist) -&gt;Khi công nghệ hòa quyện với thể xác, linh hồn hòa quyện sẽ trở nên mạnh mẽ hơn.</li>
+		<li>animistProphecy(tag=meme_Transhumanist) -&gt;[itIsSaid] Có một ngày nào đó, người sở hữu [relic0_name] sẽ triệu hồi linh hồn của nó để dạy cho nhân loại công nghệ hòa quyện sinh học hoàn hảo nhất.</li>
+	</Transhumanist.descriptionMaker.rules.rulesStrings>
+	<Transhumanist.generalRules.rulesStrings>
+		<li>memeAdjective-&gt;Công nghệ</li>
+		<li>memeAdjective-&gt;Cơ khí</li>
+		<li>memeAdjective-&gt;Công nghiệp</li>
+		<li>memeCreed-&gt;Trường học</li>
+		<li>memeCreed-&gt;Chuyên môn hóa</li>
+		<li>memeCreed-&gt;Tổng hợp hóa</li>
+		<li>memeCreed-&gt;Triết học</li>
+		<li>memeHyphenPrefix-&gt;Công nghệ</li>
+		<li>memeHyphenPrefix-&gt;Cyber</li>
+		<li>memeHyphenPrefix-&gt;Hỗ trợ</li>
+		<li>memeHyphenPrefix-&gt;Dây dẫn</li>
+		<li>memeConcept-&gt;Thủ công</li>
+		<li>memeConcept-&gt;Silicon</li>
+		<li>memeConcept-&gt;Mưu kế</li>
+		<li>memeConcept-&gt;Mở rộng</li>
+		<li>memeConcept-&gt;Tăng cường</li>
+		<li>memeLeaderNoun-&gt;Người hỗ trợ</li>
+		<li>memeLeaderNoun-&gt;Người vượt trội</li>
+		<li>memeLeaderNoun-&gt;Người tăng cường</li>
+		<li>memeLeaderAdjective-&gt;Người sáng tạo</li>
+		<li>memeLeaderAdjective-&gt;Cyber</li>
+		<li>memeMoralist-&gt;Cài đặt</li>
+		<li>memeMoralist-&gt;Cố định</li>
+		<li>memeMoralist-&gt;Bay lên</li>
+		<li>memeMoralist-&gt;Kỹ năng</li>
+	</Transhumanist.generalRules.rulesStrings>
+	<Transhumanist.symbolPacks.0.adjective>Công nghệ</Transhumanist.symbolPacks.0.adjective>
+	<Transhumanist.symbolPacks.0.ideoName>Chủ nghĩa công nghệ</Transhumanist.symbolPacks.0.ideoName>
+	<Transhumanist.symbolPacks.0.member>Người theo chủ nghĩa công nghệ</Transhumanist.symbolPacks.0.member>
+	<Transhumanist.symbolPacks.0.theme>Công nghệ</Transhumanist.symbolPacks.0.theme>
+	<Transhumanist.symbolPacks.1.adjective>Tiến bộ</Transhumanist.symbolPacks.1.adjective>
+	<Transhumanist.symbolPacks.1.ideoName>Chủ nghĩa tiến bộ</Transhumanist.symbolPacks.1.ideoName>
+	<Transhumanist.symbolPacks.1.member>Người theo chủ nghĩa tiến bộ</Transhumanist.symbolPacks.1.member>
+	<Transhumanist.symbolPacks.1.theme>Tiến bộ</Transhumanist.symbolPacks.1.theme>
+	<Transhumanist.symbolPacks.2.adjective>Cơ khí</Transhumanist.symbolPacks.2.adjective>
+	<Transhumanist.symbolPacks.2.ideoName>Chủ nghĩa cơ khí</Transhumanist.symbolPacks.2.ideoName>
+	<Transhumanist.symbolPacks.2.member>Người theo chủ nghĩa cơ khí</Transhumanist.symbolPacks.2.member>
+	<Transhumanist.symbolPacks.2.theme>Cơ khí</Transhumanist.symbolPacks.2.theme>
+	<Transhumanist.symbolPacks.3.adjective>Thép</Transhumanist.symbolPacks.3.adjective>
+	<Transhumanist.symbolPacks.3.ideoName>Chủ nghĩa thép</Transhumanist.symbolPacks.3.ideoName>
+	<Transhumanist.symbolPacks.3.member>Người thép</Transhumanist.symbolPacks.3.member>
+	<Transhumanist.symbolPacks.3.theme>Thép</Transhumanist.symbolPacks.3.theme>
+	<Transhumanist.symbolPacks.4.adjective>Tự động</Transhumanist.symbolPacks.4.adjective>
+	<Transhumanist.symbolPacks.4.ideoName>Chủ nghĩa tự động</Transhumanist.symbolPacks.4.ideoName>
+	<Transhumanist.symbolPacks.4.member>Người hợp thành</Transhumanist.symbolPacks.4.member>
+	<Transhumanist.symbolPacks.4.theme>Tự động</Transhumanist.symbolPacks.4.theme>
+	<Transhumanist.symbolPacks.5.adjective>Tăng cường</Transhumanist.symbolPacks.5.adjective>
+	<Transhumanist.symbolPacks.5.ideoName>Chủ nghĩa tăng cường</Transhumanist.symbolPacks.5.ideoName>
+	<Transhumanist.symbolPacks.5.member>Người tăng cường</Transhumanist.symbolPacks.5.member>
+	<Transhumanist.symbolPacks.5.theme>Tăng cường</Transhumanist.symbolPacks.5.theme>
+	<TreeConnection.label>Giao hưởng cây cối</TreeConnection.label>
+	<TreeConnection.description>Cây cối là tinh hoa của sự sống, chúng ta phải gần gũi với chúng.</TreeConnection.description>
+	<TreeConnection.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_TreeConnection) -&gt;[deity0_name] đã trồng rễ cây vững chắc dưới lòng đất, nhưng để cho cành lá của nó vươn lên trời. Đây là bài học đầu tiên của [deity0_name] về cách hiểu [deity0_objective].</li>
+		<li>episode(uses=1,tag=meme_TreeConnection) -&gt;Rừng của [deity0_name] đảm bảo không khí mà [deity0_possessive] người dân hít thở, và cung cấp cho họ những cành cây râm mát, cũng như là kho báu để tìm kiếm thức ăn.</li>
+		<li>intro(tag=meme_TreeConnection) -&gt;Khi những người thầy cây đầu tiên đến [place_summary][place_name], họ đã tạo ra một khu rừng [TreeType] thánh thiện, nơi họ có thể thờ phụng [deity0_type][deity0_name].</li>
+		<li>conflict(tag=meme_TreeConnection) -&gt;Một [foeLeader] tham lam đã chặt phá nhiều rừng để phục vụ cho [foeLeader_possessive] nông trại và nhà máy, [memberNamePlural] đã khóc cho những cây bị chặt.</li>
+		<li>founderJoin(tag=meme_TreeConnection) -&gt;Người tiên tri [FounderName] đã kỳ diệu sinh ra trên một cây cổ thụ ở [place_name], và được [Founder_possessive] cha mẹ tìm thấy trên cành của một cây [TreeType] cổ thụ.</li>
+		<li>victory(tag=meme_TreeConnection) -&gt;[FounderName] đã phát hiện [foeLeader] đang ngủ tại [place_powerCenter] và đặt một hạt sồi lên ngực của [foeLeader]. Với sức mạnh to lớn của [deity0_name], trú ngụ trong cơ thể này, cuối cùng đã khiến kẻ chặt cây phải trả giá.</li>
+		<li>setup(tag=meme_TreeConnection) -&gt;Trong một thế giới thiếu chiều sâu và ý nghĩa, [founderName] đã thiền trong rừng, tâm hồn kết nối với cành lá và rễ cây, tạo nên sự vận hành của thế giới chúng ta.</li>
+		<li>story(uses=1,tag=meme_TreeConnection) -&gt;[founderName] đã dẫn dắt những người mệt mỏi vào rừng, để họ có thể nghỉ ngơi dưới bóng cây, hít thở không khí tự nhiên, và phục hồi sức sống.</li>
+		<li>lessonIntro(tag=meme_TreeConnection) -&gt;Nếu bạn nói tôi học được những điều này khi ngồi thiền dưới cây, bạn có thể nghĩ đó là một trò đùa. Nhưng lắng nghe tiếng lá xào xạc, tôi đã biết mọi thứ.</li>
+		<li>lesson(tag=meme_TreeConnection) -&gt;Không có thực thể nào trong vũ trụ biết nhiều hơn cây cối.</li>
+		<li>lessonReinforcement(tag=meme_TreeConnection) -&gt;Cầu mong hạt giống của sự thật này phát triển mạnh mẽ trong linh hồn bạn.</li>
+		<li>archistBasis(tag=meme_TreeConnection) -&gt;Cây cối như những hiền nhân cổ xưa. Chúng giống như một cây sồi cổ thụ, với những hạt sồi mọc trên cành, ảnh hưởng của chúng lan tỏa qua những rễ sâu dưới lòng đất.</li>
+		<li>archistFact(tag=meme_TreeConnection) -&gt;Trí tuệ siêu phàm đã ban cho chúng khả năng tâm linh sau khi phát hiện ra cây tiên.</li>
+		<li>archistFact(tag=meme_TreeConnection) -&gt;Trí tuệ siêu phàm chọn cách thể hiện bản thân qua một loại cây độc đáo.</li>
+		<li>archistProphecy(tag=meme_TreeConnection) -&gt;[inTheEnd], trí tuệ siêu phàm sẽ trồng những khu rừng lớn. Ý chí siêu phàm sẽ sống mãi trong những người vào rừng và ăn trái của nó. Những ai quay lưng lại với cây cối sẽ bị trí tuệ siêu phàm lãng quên.</li>
+		<li>animistFact(tag=meme_TreeConnection) -&gt;Linh hồn cây cối có thể bảo vệ những người sống dưới cành lá của chúng.</li>
+		<li>animistFact(tag=meme_TreeConnection) -&gt;Linh hồn của cây rất mạnh, vì chúng có thể kết nối sức mạnh của bầu trời và lòng đất.</li>
+		<li>animistFact(tag=meme_TreeConnection) -&gt;Nếu một cây trong rừng bị đổ, linh hồn của nó sẽ phát ra âm thanh mà tất cả các linh hồn khác đều có thể nghe thấy.</li>
+	</TreeConnection.descriptionMaker.rules.rulesStrings>
+	<TreeConnection.generalRules.rulesStrings>
+		<li>memeCreed-&gt;Rễ</li>
+		<li>memeCreed-&gt;Lá</li>
+		<li>memeCreed-&gt;Dây leo</li>
+		<li>memeCreed-&gt;Khu rừng</li>
+		<li>memeCreed-&gt;Rừng</li>
+		<li>memeConcept-&gt;Cây</li>
+		<li>memeConcept-&gt;Rừng cây</li>
+		<li>memeAdjective-&gt;Chắc chắn</li>
+		<li>memeAdjective-&gt;Vỏ cây</li>
+		<li>memeHyphenPrefix-&gt;Cây</li>
+		<li>memeHyphenPrefix-&gt;Cây gỗ lớn</li>
+		<li>memeHyphenPrefix-&gt;Cành non</li>
+		<li>memeLeaderNoun-&gt;Người bảo vệ rừng</li>
+		<li>memeLeaderNoun-&gt;Thầy cây</li>
+		<li>memeLeaderNoun-&gt;Druid</li>
+		<li>memeLeaderAdjective-&gt;Xanh tươi</li>
+		<li>memeLeaderAdjective-&gt;Nguồn gốc</li>
+		<li>memeLeaderAdjective-&gt;Tán cây</li>
+		<li>memeMoralist-&gt;Người nói chuyện với cây</li>
+	</TreeConnection.generalRules.rulesStrings>
+	<Tunneler.label>Trái tim dưới lòng đất</Tunneler.label>
+	<Tunneler.description>Nhân loại nên sống dưới lòng đất, tận hưởng những trái cây ngọt ngào và mọng nước ở sâu dưới lòng đất.</Tunneler.description>
+	<Tunneler.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Tunneler) -&gt;[deity0_name] sinh ra ở trung tâm thế giới dưới lòng đất. [deity0_pronoun] đã ban phước cho những người gần gũi với [deity0_objective] trong những hẻm núi và lối đi sâu.</li>
+		<li>episode(uses=1,tag=meme_Tunneler) -&gt;[deity0_name] đã lấp đầy những viên đá bằng khoáng sản phong phú và tài nguyên, như một món quà cho những ai đào sâu để tiếp cận trí tuệ của [deity0_name].</li>
+		<li>intro(tag=meme_Tunneler) -&gt;Khi những người định cư đầu tiên đến [place_summary][place_name], [deity0_type][deity0_name] đã buộc họ phải sống dưới lòng đất bởi những tia sáng mặt trời khắc nghiệt, để họ có thể lắng nghe trí tuệ của [deity0_possessive] trong những đường hầm yên tĩnh.</li>
+		<li>conflict(tag=meme_Tunneler) -&gt;Một [foeLeader] mắc chứng sợ không gian kín đã đề xuất sử dụng [dangerousMining] để khai thác khoáng sản, khiến cho ngôi nhà dưới lòng đất của [memberNamePlural] gặp nguy hiểm lớn.</li>
+		<li>founderJoin(tag=meme_Tunneler) -&gt;Người tiên tri [founderName] kỳ diệu sinh ra từ những viên đá ở [place_name], và được tìm thấy bởi [founder_possessive] cha mẹ trong một hang động đầy nấm.</li>
+		<li>victory(tag=meme_Tunneler) -&gt;[memberNamePlural] đã đào một đường hầm dưới [foeLeader] tại [place_powerCenter], [founderName] đã triệu hồi những côn trùng khổng lồ bằng pheromone, đánh bại [foeLeader_possessive] [foeSoldiers]. [founderName] đã giam giữ [foeLeader] trong ngục tối sâu.</li>
+		<li>dangerousMining-&gt;Khai thác tách lớp</li>
+		<li>dangerousMining-&gt;Côn trùng cơ khí</li>
+		<li>dangerousMining-&gt;Phá hủy hạt nhân</li>
+		<li>setup(tag=meme_Tunneler) -&gt;Trong một thế giới nông cạn và vô nghĩa, [founderName] đã thiền trong những hang động sâu để tìm kiếm chân lý, cuối cùng đã sáng lập ra hoạt động của chúng ta.</li>
+		<li>story(uses=1,tag=meme_Tunneler) -&gt;[founderName] đã chôn giấu kho báu trong những đường hầm, để [memberNamePlural] có thể học cách khai thác tìm kiếm.</li>
+		<li>lessonIntro(tag=meme_Tunneler) -&gt;Những bản thảo cổ xưa mà tôi tìm thấy ở thành phố sâu thẳm đã dạy tôi một bài học quan trọng hơn tất cả những điều khác:</li>
+		<li>lesson(tag=meme_Tunneler) -&gt;Nơi có ánh sáng mặt trời rực rỡ không phải là nơi nhân loại thịnh vượng, mà là nơi diệt vong.</li>
+		<li>lessonReinforcement(tag=meme_Tunneler) -&gt;Cầm một cái xẻng và đào cùng tôi. Nếu chúng ta dừng lại, điều này chỉ biến thành một ngôi mộ.</li>
+		<li>archistBasis(tag=meme_Tunneler) -&gt;Thực thể siêu phàm chủ yếu nằm sâu dưới lòng đất, để bảo vệ cấu trúc ý thức của chúng khỏi các tia sáng mặt trời và tia gamma. Đào càng sâu, chúng ta càng đến gần họ.</li>
+		<li>archistFact(tag=meme_Tunneler) -&gt;Thế giới siêu phàm đã thiết kế nấm dinh dưỡng cho nhân loại bằng công nghệ sinh học, để họ có thể phát triển mạnh mẽ dưới lòng đất, ngày càng gần gũi với tư tưởng siêu phàm đã bị chôn vùi.</li>
+		<li>archistProphecy(tag=meme_Tunneler) -&gt;[inTheEnd], thế giới siêu phàm sẽ đưa chúng ta vào những vùng đất thánh dưới lòng đất.</li>
+		<li>animistFact(tag=meme_Tunneler) -&gt;Linh hồn đá sẽ bảo vệ khách của chúng.</li>
+		<li>animistFact(tag=meme_Tunneler) -&gt;Linh hồn cao quý nhất là linh hồn đá, và những linh hồn đá ở nơi sâu nhất thì càng kiên cường và tốt bụng hơn.</li>
+		<li>animistFact(tag=meme_Tunneler) -&gt;Con người lo âu khiến linh hồn đá trở nên điên cuồng, thu hút những côn trùng khổng lồ.</li>
+	</Tunneler.descriptionMaker.rules.rulesStrings>
+	<Tunneler.generalRules.rulesStrings>
+		<li>memeCreed-&gt;Hang động</li>
+		<li>memeCreed-&gt;Bunker</li>
+		<li>memeCreed-&gt;Giếng</li>
+		<li>memeAdjective-&gt;Sâu thẳm</li>
+		<li>memeHyphenPrefix-&gt;Đá</li>
+		<li>memeHyphenPrefix-&gt;Hang động</li>
+		<li>memeHyphenPrefix-&gt;Sâu bên trong</li>
+		<li>memeHyphenPrefix-&gt;Đào xuống</li>
+		<li>memeHyphenPrefix-&gt;Dưới lòng đất</li>
+		<li>memeConcept-&gt;Đất</li>
+		<li>memeConcept-&gt;Đá</li>
+		<li>memeConcept-&gt;Độ sâu</li>
+		<li>memeConcept-&gt;Chôn sâu</li>
+		<li>memeLeaderNoun-&gt;Thủ lĩnh khai thác</li>
+		<li>memeLeaderNoun-&gt;Người phát ra âm thanh sâu thẳm</li>
+		<li>memeLeaderNoun-&gt;Người truyền động</li>
+		<li>memeLeaderAdjective-&gt;Sâu thẳm</li>
+		<li>memeMoralist-&gt;Người khai thác chân thực</li>
+		<li>memeMoralist-&gt;Người khai thác tư tưởng</li>
+		<li>memeMoralist-&gt;Thợ mỏ tư duy</li>
+	</Tunneler.generalRules.rulesStrings>
+</LanguageData>

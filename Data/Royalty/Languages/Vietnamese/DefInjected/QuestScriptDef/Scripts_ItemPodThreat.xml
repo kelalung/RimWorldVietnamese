@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Một AI thông minh trên tàu vũ trụ muốn thực hiện một số thí nghiệm trên hành tinh. Nếu cô ấy thực hiện thí nghiệm, [gameConditionDescriptionFuture].\n\nCô ấy lo lắng về việc xung đột với ủy ban đạo đức và yêu cầu sự đồng ý của bạn.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;Một trí tuệ cơ khí đang trả thù đang tấn công [asker_faction_name] của [asker_faction_pawnsPlural]. [asker_faction_leaderTitle][asker_nameFull] muốn bạn can thiệp và chịu trách nhiệm. Nếu bạn làm như vậy, cơ thể máy sẽ nhắm đến bạn, [gameConditionDescriptionFuture].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] từ [asker_faction_name] muốn thực hiện một thử nghiệm công suất thấp với một loại vũ khí tấn công khu vực trên tàu của [asker_possessive]. Nếu [asker_pronoun] làm như vậy, [gameConditionDescriptionFuture].\n\nTheo luật của đế quốc, bạn là chủ sở hữu vùng đất này, [asker_nameDef] cần có sự đồng ý của bạn.</li>
+</ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+<ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+    <li>questName-&gt;[asker_nameDef] của [gameCondition_label]</li>
+    <li>questName-&gt;[asker_nameDef] của [gameCondition_indefinite]</li>
+    <li>questName-&gt;Có thưởng [gameCondition_label]</li>
+    <li>questName-&gt;[gameCondition_label] có trả phí</li>
+</ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+<ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Một con tàu nghiên cứu trên quỹ đạo muốn thử nghiệm một loại pheromone mới của loài côn trùng. Nếu bạn đồng ý, họ sẽ phát tán pheromone tại [map_definite], điều này sẽ đánh thức (*Threat) với quy mô [hivesCount] tổ côn trùng (/Threat). [helpersParagraph]</li>
+    <li>infestationArrivalLetterText(askerIsNull==true)-&gt;Tổ côn trùng đã được đánh thức bởi pheromone do tàu nghiên cứu trên quỹ đạo phát tán.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_name] của [asker_faction_leaderTitle][asker_nameFull] tuyên bố rằng trạm gác của họ gần [map_definite] luôn bị côn trùng tấn công. [asker_pronoun] muốn dẫn dụ côn trùng đến bạn, điều này sẽ khiến (*Threat) với quy mô [hivesCount] tổ côn trùng (/Threat) bị đánh thức. [helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_factionLeader==True)-&gt;Tổ côn trùng xuất hiện đầu tiên gần [asker_faction_name] của [asker_nameFull].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] từ [asker_faction_name] đang bị quấy rầy bởi côn trùng do hạ cánh gần [map_definite]. [asker_pronoun] muốn bạn xử lý những con côn trùng này. Điều này sẽ thu hút (*Threat) với quy mô [hivesCount] tổ côn trùng (/Threat). [helpersParagraph]</li>
+    <li>infestationArrivalLetterText(asker_royalInCurrentFaction==True)-&gt;Đợt côn trùng này được thu hút bởi [asker_faction_name] của [asker_royalTitleInCurrentFaction] [asker_nameFull].</li>
+</ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
+<ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
+    <li>questName-&gt;Container và [insects]</li>
+    <li>questName-&gt;[asker_nameDef] của [insects]</li>
+    <li>questName-&gt;Giá trị thị trường tổng cộng của [itemPodsTotalMarketValue_money][insects]</li>
+    <li>questName(asker_royalInCurrentFaction==True)-&gt;Kỳ quan [insects]</li>
+    <li>questName(p=0.3)-&gt;Vài container</li>
+    <li>insects-&gt;Côn trùng</li>
+    <li>insects-&gt;Côn trùng</li>
+    <li>insects-&gt;Tổ côn trùng</li>
+</ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
+<ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
+    <li>animalKindLabelCorrect(animalCount==1)-&gt;[animalKind_label]</li>
+    <li>animalKindLabelCorrect(animalCount&gt;=2)-&gt;[animalKind_labelPlural]</li>
+    <li>manhuntingBeastIndef(animalCount==1)-&gt;Một con (*Threat) đang săn lùng con người [animalKind_label](/Threat)</li>
+    <li>manhuntingBeastIndef(animalCount&gt;=2)-&gt;(*Threat) [animalCount] con [animalKind_labelPlural] đang săn lùng con người (/Threat)</li>
+    <li>endSection-&gt;[helpersParagraph]Nếu bạn chấp nhận, [animalKindLabelCorrect] sẽ đến [map_definite] sau [manhuntersDelayTicks_duration].</li>
+    <li>questDescription(askerIsNull==true,animalCount==1)-&gt;Một thương nhân gửi tín hiệu cầu cứu đến bạn. Một con (*Threat) hoang dã [animalKind_label](/Threat) đang tấn công anh ta và anh ta hy vọng bạn có thể dẫn dụ con thú ra khỏi anh ta. [endSection]</li>
+    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount==1)-&gt;[animalKind_label] đang tấn công một thương nhân gần đó.</li>
+    <li>questDescription(askerIsNull==true,animalCount&gt;=2)-&gt;Một thương nhân gửi tín hiệu cầu cứu đến bạn. Một bầy (*Threat) lên đến [animalCount] con [animalKind_labelPlural] đang tấn công anh ta! Anh ta hy vọng bạn có thể dẫn dụ bầy thú ra khỏi anh ta. [endSection]</li>
+    <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount&gt;=2)-&gt;[animalKind_labelPlural] đang tấn công một thương nhân gần đó.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;Một đoàn thương nhân từ [asker_faction_name] đang bị [manhuntingBeastIndef] tấn công. [asker_faction_leaderTitle] [asker_nameFull] muốn bạn dẫn dụ con thú ra khỏi đoàn thương nhân. [endSection]</li>
+    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount==1)-&gt;[animalKind_label] đang tấn công một đoàn thương nhân từ [asker_faction_name].</li>
+    <li>manhunterArrivalLetterEnd(asker_factionLeader==True,animalCount&gt;=2)-&gt;[animalKind_labelPlural] đang tấn công một đoàn thương nhân từ [asker_faction_name].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,animalCount==1)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] từ [asker_faction_name] gần đây đã mất một người trinh sát do bị [animalKind_label] (*Threat) tấn công, [asker_pronoun] muốn dẫn dụ nó đến bạn để tiêu diệt nó, nhằm bảo vệ danh dự của [asker_possessive]. [endSection]</li>
+    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount==1)-&gt;Con [animalKind_label] này đã giết chết một người trinh sát thuộc về [asker_faction_name] của [asker_royalTitleInCurrentFaction] [asker_nameFull].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,animalCount&gt;=2)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] từ [asker_faction_name] gần đây đã mất một đội trinh sát do bị [animalKind_labelPlural] (*Threat) tấn công (tổng cộng [animalCount] con), [asker_pronoun] muốn dẫn dụ chúng đến bạn để tiêu diệt chúng, nhằm bảo vệ danh dự của [asker_possessive]. [endSection]</li>
+    <li>manhunterArrivalLetterEnd(asker_royalInCurrentFaction==True,animalCount&gt;=2)-&gt;Bầy [animalKind_labelPlural] này đã giết chết một đội trinh sát thuộc về [asker_faction_name] của [asker_royalTitleInCurrentFaction] [asker_nameFull].</li>
+</ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
+<ThreatReward_Manhunters_ItemPod.questNameRules.rulesStrings>
+    <li>questName(animalCount==1)-&gt;[AdjectiveBadass][beast]</li>
+    <li>questName(animalCount==1)-&gt;Một con [AdjectiveBadass][beast]</li>
+    <li>questName(animalCount==1)-&gt;[AdjectiveBadass][beast]</li>
+    <li>questName(animalCount&gt;=2)-&gt;Một bầy [AdjectiveBadass][beasts]</li>
+    <li>questName(animalCount&gt;=2)-&gt;Một bầy [AdjectiveBadass][beasts]</li>
+    <li>beast(p=4)-&gt;[animalKind_label]</li>
+    <li>beast-&gt;Con thú</li>
+    <li>beast-&gt;Động vật</li>
+    <li>beasts(p=4)-&gt;[animalKind_labelPlural]</li>
+    <li>beasts-&gt;Bầy thú</li>
+    <li>beasts-&gt;Động vật</li>
+</ThreatReward_Manhunters_ItemPod.questNameRules.rulesStrings>
+<ThreatReward_Manhunters_ItemPod.LetterTextManhunterArrival.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_ItemPod.LetterTextManhunterArrival.slateRef>
+<ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Một thương nhân gửi tín hiệu cầu cứu đến bạn. [threat] đang truy đuổi anh ta! Anh ta hy vọng bạn có thể gửi tín hiệu để dẫn dụ kẻ tấn công đến [map_definite], để anh ta có thể trốn thoát. \n\nNếu bạn gửi tín hiệu, [askerEnemies] sẽ thiết lập một trạm gác gần bạn để quấy rối bạn. [site/allSitePartsDescriptions] Trạm gác này sẽ tồn tại cho đến khi bạn tiêu diệt nó.</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_name] của [asker_faction_leaderTitle] [asker_nameFull] gửi yêu cầu đến bạn. [askerEnemies] đang quấy rối khu định cư của [asker_possessive]. [asker_pronoun] hy vọng bạn có thể gửi tín hiệu để dẫn dụ kẻ tấn công đến [map_definite] để xa rời người của [asker_possessive].\n\nNếu bạn gửi tín hiệu, [askerEnemies] sẽ thiết lập một trạm gác gần bạn để quấy rối bạn. [site/allSitePartsDescriptions] Trạm gác này sẽ tồn tại cho đến khi bạn tiêu diệt nó.</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] từ [asker_faction_name] đang du lịch gần [map_definite]. [asker_nameFull] nhận thấy rằng [asker_pronoun] đang bị [threat] theo dõi. [asker_pronoun] hy vọng bạn có thể gửi tín hiệu để dẫn dụ kẻ theo dõi đến [map_definite].\n\nNếu bạn gửi tín hiệu, [askerEnemies] sẽ thiết lập một trạm gác gần bạn để quấy rối bạn. [site/allSitePartsDescriptions] Trạm gác này sẽ tồn tại cho đến khi bạn tiêu diệt nó.</li>
+    <li>threat(priority=1,site/Outpost_exists==True)-&gt;[site/enemyFaction_name] của [site/enemyFaction_pawnsPlural]</li>
+    <li>threat(priority=1,site/MechCluster_exists==True)-&gt;Cơ thể máy</li>
+    <li>threat(priority=1,site/SleepingMechanoids_exists==True)-&gt;Cơ thể máy</li>
+    <li>threat-&gt;Kẻ thù của [asker_possessive]</li>
+    <li>threat(priority=-1)-&gt;Kẻ thù</li>
+    <li>askerEnemies(priority=1,site/Outpost_exists==True)-&gt;[site/enemyFaction_name]</li>
+    <li>askerEnemies(priority=1,site/MechCluster_exists==True)-&gt;Cơ thể máy</li>
+    <li>askerEnemies(priority=1,site/SleepingMechanoids_exists==True)-&gt;Cơ thể máy</li>
+    <li>askerEnemies-&gt;Kẻ thù của [asker_possessive]</li>
+    <li>askerEnemies(priority=-1)-&gt;Kẻ thù</li>
+</ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
+<ThreatReward_SiteThreat_ItemPod.questNameRules.rulesStrings>
+    <li>questName-&gt;[asker_nameDef] của [site/site_label]</li>
+    <li>questName-&gt;[asker_nameDef] của [site/site_label]</li>
+    <li>questName-&gt;Trả phí cho [site/site_label]</li>
+    <li>questName-&gt;[site/site_label] như một phần thưởng</li>
+</ThreatReward_SiteThreat_ItemPod.questNameRules.rulesStrings>
+<ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>[defaultSiteAppearedLetterText]\n\nTrạm gác này được thiết lập để đáp lại tín hiệu xúc phạm của bạn.</ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>
+</LanguageData>

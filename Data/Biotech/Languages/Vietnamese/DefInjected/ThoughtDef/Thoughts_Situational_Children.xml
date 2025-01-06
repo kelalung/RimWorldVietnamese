@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabySick.stages.my_baby_is_sick.label>Con tôi {BABY_nameDef} bị bệnh</BabySick.stages.my_baby_is_sick.label>
+<BabySick.stages.my_baby_is_sick.description>Con tôi bị bệnh. Tôi rất lo sợ cho con mình.</BabySick.stages.my_baby_is_sick.description>
+<BabySick.stages.my_babies_are_sick.label>Con tôi bị bệnh</BabySick.stages.my_babies_are_sick.label>
+<BabySick.stages.my_babies_are_sick.description>Con tôi bị bệnh. Tôi rất lo sợ chúng sẽ gặp chuyện không hay.</BabySick.stages.my_babies_are_sick.description>
+<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>Con tôi đang ở trong buồng phát triển</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Tôi nhớ con tôi. Thật khó tưởng tượng nó bị ngâm trong cái máy đó, trải qua tuổi thơ của mình.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+<CribQuality.stages.good_crib.label>Giường cũi tốt</CribQuality.stages.good_crib.label>
+<CribQuality.stages.good_crib.description>Chiếc cũi này rất thoải mái.</CribQuality.stages.good_crib.description>
+<CribQuality.stages.excellent_crib.label>Giường cũi xuất sắc</CribQuality.stages.excellent_crib.label>
+<CribQuality.stages.excellent_crib.description>Chiếc cũi này rất thoải mái.</CribQuality.stages.excellent_crib.description>
+<CribQuality.stages.masterwork_crib.label>Giường cũi tuyệt vời</CribQuality.stages.masterwork_crib.label>
+<CribQuality.stages.masterwork_crib.description>Chiếc cũi này thật tuyệt. Quá thoải mái.</CribQuality.stages.masterwork_crib.description>
+<CribQuality.stages.legendary_crib.label>Giường cũi huyền thoại</CribQuality.stages.legendary_crib.label>
+<CribQuality.stages.legendary_crib.description>Chiếc cũi này hoàn hảo. Cảm giác thật thoải mái. Rất thích hợp để ngủ trưa.</CribQuality.stages.legendary_crib.description>
+<EnslavedChild.stages.enslaved_child.label>Trẻ em bị nô lệ</EnslavedChild.stages.enslaved_child.label>
+<EnslavedChild.stages.enslaved_child.description>Thấy con tôi bị buộc phải phục vụ người khác, điều đó làm tôi tan nát trái tim.</EnslavedChild.stages.enslaved_child.description>
+<MyChildHappy.stages.my_child_is_happy.label>Con tôi {CHILD_nameDef} rất vui</MyChildHappy.stages.my_child_is_happy.label>
+<MyChildHappy.stages.my_child_is_happy.description>Không có gì làm tôi vui hơn khi thấy con tôi hạnh phúc.</MyChildHappy.stages.my_child_is_happy.description>
+<MyChildrenHappy.stages.my_children_are_happy.label>Con tôi rất vui</MyChildrenHappy.stages.my_children_are_happy.label>
+<MyChildrenHappy.stages.my_children_are_happy.description>Không có gì làm tôi vui hơn khi thấy con tôi hạnh phúc.</MyChildrenHappy.stages.my_children_are_happy.description>
+<MyChildrenSad.stages.my_children_are_unhappy.label>Con tôi không vui</MyChildrenSad.stages.my_children_are_unhappy.label>
+<MyChildrenSad.stages.my_children_are_unhappy.description>Tôi lo lắng cho các con của mình. Nếu chúng không vui, tôi cũng không vui.</MyChildrenSad.stages.my_children_are_unhappy.description>
+<MyChildSad.stages.my_child_is_unhappy.label>Con tôi {CHILD_nameDef} không vui</MyChildSad.stages.my_child_is_unhappy.label>
+<MyChildSad.stages.my_child_is_unhappy.description>Tôi lo lắng cho con tôi. Nếu nó không vui, tôi cũng không vui.</MyChildSad.stages.my_child_is_unhappy.description>
+<MyParentHappy.stages.parent_is_happy.label>Bố mẹ rất vui</MyParentHappy.stages.parent_is_happy.label>
+<MyParentHappy.stages.parent_is_happy.description>Khi bố mẹ tôi vui, tôi cũng vui.</MyParentHappy.stages.parent_is_happy.description>
+<MyParentsHappy.stages.parents_are_happy.label>Bố mẹ rất vui</MyParentsHappy.stages.parents_are_happy.label>
+<MyParentsHappy.stages.parents_are_happy.description>Khi bố mẹ tôi vui, tôi cũng vui.</MyParentsHappy.stages.parents_are_happy.description>
+<YoungstersHappy.stages.happy_youngsters.label>Những người trẻ vui vẻ</YoungstersHappy.stages.happy_youngsters.label>
+<YoungstersHappy.stages.happy_youngsters.description>Thật vui khi thấy những người trẻ sống tốt.</YoungstersHappy.stages.happy_youngsters.description>
+<YoungstersSad.stages.sad_youngsters.label>Những người trẻ buồn bã</YoungstersSad.stages.sad_youngsters.label>
+<YoungstersSad.stages.sad_youngsters.description>Thật buồn khi thấy những người trẻ đang vật lộn.</YoungstersSad.stages.sad_youngsters.description>
+</LanguageData>

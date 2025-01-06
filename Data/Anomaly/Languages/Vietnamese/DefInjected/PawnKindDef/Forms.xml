@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Blindhealer.label>Thầy thuốc mù</Blindhealer.label>
+	<Blindhealer.letterLabel>Một thầy thuốc mù đang tiến gần đến thuộc địa.</Blindhealer.letterLabel>
+	<Blindhealer.letterPrompt>Một {PAWN_genderNoun} lùn, già nua đang đứng trước mặt bạn. Nơi từng có mắt giờ chỉ còn lại những vết thương đóng vảy trên khuôn mặt. Dù đã mất thị lực, {PAWN_pronoun} dường như vẫn nhìn bạn bằng thiện ý. {PAWN_pronoun} nói rằng {PAWN_pronoun} biết kỹ năng y tế của mình có thể hữu ích ở đây, và muốn dừng lại một thời gian.</Blindhealer.letterPrompt>
+	<CreepDrifter.label>Người lang thang</CreepDrifter.label>
+	<CreepDrifter.letterLabel>Một khách viếng thăm đang tiến gần đến thuộc địa.</CreepDrifter.letterLabel>
+	<CreepDrifter.letterPrompt>Người lang thang với vẻ mặt tiều tụy đang duỗi chân. {PAWN_pronoun} trông rất mệt mỏi.\n\n{PAWN_pronoun} xin ở lại thuộc địa của bạn một thời gian — ít nhất là để phục hồi sức lực.</CreepDrifter.letterPrompt>
+	<CultEscapee.label>Người trốn khỏi giáo phái</CultEscapee.label>
+	<CultEscapee.letterLabel>Một hình bóng đầy đau khổ đang tiến gần đến thuộc địa.</CultEscapee.letterLabel>
+	<CultEscapee.letterPrompt>Người lạ bị tổn thương này nhìn bạn bằng ánh mắt trống rỗng, phát ra âm thanh khàn khàn. {PAWN_pronoun} nói rằng {PAWN_pronoun} đã trốn thoát khỏi một giáo phái khủng khiếp, và cầu xin được gia nhập thuộc địa của bạn.</CultEscapee.letterPrompt>
+	<DarkScholar.label>Học giả tối tăm</DarkScholar.label>
+	<DarkScholar.letterLabel>Một học giả tối tăm đầy thương tích đang tiến gần đến thuộc địa.</DarkScholar.letterLabel>
+	<DarkScholar.letterPrompt>Học giả tối tăm đứng im lặng, không nói một lời, chỉ ánh mắt thoáng chút sinh khí như thể có thể nhìn thấu bạn.\n\n{PAWN_pronoun} nói rằng đây chính là nơi thuộc về {PAWN_pronoun}, yêu cầu ở lại tạm thời. {PAWN_possessive} không có ý định chấp nhận từ chối.</DarkScholar.letterPrompt>
+	<DealMaker.label>Người giao dịch</DealMaker.label>
+	<DealMaker.letterLabel>Một người lạ xinh đẹp đang tiến gần đến thuộc địa.</DealMaker.letterLabel>
+	<DealMaker.letterPrompt>Một người lạ xinh đẹp đứng trước bạn. {PAWN_possessive} khuôn mặt tràn đầy tự tin, đưa tay ra để thể hiện sự thân thiện.\n\n{PAWN_pronoun} nói rằng {PAWN_pronoun} đến để giao dịch, và cũng sẽ giúp bạn một chút, đổi lại nhận được một số đãi ngộ nhỏ. Đó chính là mục đích của {PAWN_possessive}, và {PAWN_possessive} luôn đạt được điều mình mong muốn.</DealMaker.letterPrompt>
+	<LeatheryStranger.label>Người lạ mặc da</LeatheryStranger.label>
+	<LeatheryStranger.letterLabel>Một người lạ mặc da rách rưới đang tiến gần đến thuộc địa.</LeatheryStranger.letterLabel>
+	<LeatheryStranger.letterPrompt>Người lạ mặc da rách rưới đang lẩm bẩm nhìn lên bầu trời, như thể không thấy gì. {PAWN_pronoun} tuyên bố rằng {PAWN_pronoun} rất yêu thích thuộc địa của bạn và không muốn rời đi. {PAWN_pronoun} nói rằng {PAWN_pronoun} có thể giúp đỡ.</LeatheryStranger.letterPrompt>
+	<LoneGenius.label>Thiên tài cô độc</LoneGenius.label>
+	<LoneGenius.letterLabel>Một hình bóng cô độc đang tiến gần đến thuộc địa.</LoneGenius.letterLabel>
+	<LoneGenius.letterPrompt>Người lạ này không ngừng lẩm bẩm về những đột phá khoa học. {PAWN_pronoun} cần một phòng thí nghiệm. Nếu bạn có thể để {PAWN_objective} ở lại, {PAWN_pronoun} sẽ chia sẻ kiến thức phong phú của mình với bạn. Ai biết được {PAWN_pronoun} thực sự là thiên tài hay chỉ là một kẻ điên — có thể cả hai đều đúng.</LoneGenius.letterPrompt>
+	<TimelessOne.label>Người vĩnh cửu</TimelessOne.label>
+	<TimelessOne.letterLabel>Một thanh niên đang tiến gần đến thuộc địa. {PAWN_pronoun} tỏa ra sự tự tin kỳ lạ.</TimelessOne.letterLabel>
+	<TimelessOne.letterPrompt>Dù {PAWN_nameDef} chỉ là một đứa trẻ, nhưng ánh mắt của {PAWN_possessive} chứa đựng trí tuệ cổ xưa. Khi {PAWN_pronoun} mở miệng, những lời nói của {PAWN_pronoun} tiết lộ tri thức siêu nhiên đã trải qua nhiều thời gian. {PAWN_pronoun} nói rằng các vì sao đã đưa {PAWN_objective} đến đây để hoàn thành sứ mệnh của mình. {PAWN_pronoun} muốn ở lại giúp đỡ bạn.</TimelessOne.letterPrompt>
+</LanguageData>

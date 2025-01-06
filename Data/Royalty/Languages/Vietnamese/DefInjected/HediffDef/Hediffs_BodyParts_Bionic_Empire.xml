@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AestheticNose.label>Chóp mũi thẩm mỹ</AestheticNose.label>
+<AestheticNose.description>Một chóp mũi thẩm mỹ được lắp đặt trong cơ thể người.</AestheticNose.description>
+<AestheticNose.labelNoun>Một chóp mũi thẩm mỹ</AestheticNose.labelNoun>
+<AestheticShaper.label>Thiết bị tạo hình thẩm mỹ</AestheticShaper.label>
+<AestheticShaper.description>Một thiết bị tạo hình thẩm mỹ được lắp đặt trong cơ thể người.</AestheticShaper.description>
+<AestheticShaper.labelNoun>Một thiết bị tạo hình thẩm mỹ</AestheticShaper.labelNoun>
+<ArmorskinGland.label> Tuyến da giáp</ArmorskinGland.label>
+<ArmorskinGland.description>Một tuyến da giáp được lắp đặt trong cơ thể người.</ArmorskinGland.description>
+<ArmorskinGland.labelNoun>Một tuyến da giáp</ArmorskinGland.labelNoun>
+<CircadianAssistant.label>Trợ lý sinh lý</CircadianAssistant.label>
+<CircadianAssistant.description>Một trợ lý sinh lý được lắp đặt trong cơ thể người.</CircadianAssistant.description>
+<CircadianAssistant.labelNoun>Một trợ lý sinh lý</CircadianAssistant.labelNoun>
+<CircadianHalfCycler.label>Thiết bị điều chỉnh nhịp sinh học</CircadianHalfCycler.label>
+<CircadianHalfCycler.description>Một thiết bị điều chỉnh nhịp sinh học được lắp đặt trong cơ thể người.</CircadianHalfCycler.description>
+<CircadianHalfCycler.labelNoun>Một thiết bị điều chỉnh nhịp sinh học</CircadianHalfCycler.labelNoun>
+<Coagulator.label>Thiết bị đông máu</Coagulator.label>
+<Coagulator.description>Một thiết bị đông máu được lắp đặt trong cơ thể người.</Coagulator.description>
+<Coagulator.labelNoun>Một thiết bị đông máu</Coagulator.labelNoun>
+<DetoxifierStomach.label>Dạ dày giải độc</DetoxifierStomach.label>
+<DetoxifierStomach.description>Một dạ dày giải độc được lắp đặt trong cơ thể người.</DetoxifierStomach.description>
+<DetoxifierStomach.labelNoun>Một dạ dày giải độc</DetoxifierStomach.labelNoun>
+<GastroAnalyzer.label>Thiết bị phân tích ẩm thực</GastroAnalyzer.label>
+<GastroAnalyzer.description>Một thiết bị phân tích ẩm thực được lắp đặt trong cơ thể người.</GastroAnalyzer.description>
+<GastroAnalyzer.labelNoun>Một thiết bị phân tích ẩm thực</GastroAnalyzer.labelNoun>
+<HealingEnhancer.label>Thiết bị tăng cường chữa lành</HealingEnhancer.label>
+<HealingEnhancer.description>Một thiết bị tăng cường chữa lành được lắp đặt trong cơ thể người.</HealingEnhancer.description>
+<HealingEnhancer.labelNoun>Một thiết bị tăng cường chữa lành</HealingEnhancer.labelNoun>
+<Immunoenhancer.label>Thiết bị tăng cường miễn dịch</Immunoenhancer.label>
+<Immunoenhancer.description>Một thiết bị tăng cường miễn dịch được lắp đặt trong cơ thể người.</Immunoenhancer.description>
+<Immunoenhancer.labelNoun>Một thiết bị tăng cường miễn dịch</Immunoenhancer.labelNoun>
+<LearningAssistant.label>Trợ lý học tập</LearningAssistant.label>
+<LearningAssistant.description>Một trợ lý học tập được lắp đặt trong cơ thể người.</LearningAssistant.description>
+<LearningAssistant.labelNoun>Một trợ lý học tập</LearningAssistant.labelNoun>
+<LoveEnhancer.label>Thiết bị tăng cường tình yêu</LoveEnhancer.label>
+<LoveEnhancer.description>Một thiết bị tăng cường tình yêu được lắp đặt trong cơ thể người.</LoveEnhancer.description>
+<LoveEnhancer.labelNoun>Một thiết bị tăng cường tình yêu</LoveEnhancer.labelNoun>
+<Neurocalculator.label>Máy tính thần kinh</Neurocalculator.label>
+<Neurocalculator.description>Một máy tính thần kinh được lắp đặt trong cơ thể người.</Neurocalculator.description>
+<Neurocalculator.labelNoun>Một máy tính thần kinh</Neurocalculator.labelNoun>
+<NuclearStomach.label>Dạ dày hạt nhân</NuclearStomach.label>
+<NuclearStomach.description>Một dạ dày hạt nhân được lắp đặt trong cơ thể người.</NuclearStomach.description>
+<NuclearStomach.labelNoun>Một dạ dày hạt nhân</NuclearStomach.labelNoun>
+<ReprocessorStomach.label>Dạ dày xử lý trước</ReprocessorStomach.label>
+<ReprocessorStomach.description>Một dạ dày xử lý trước được lắp đặt trong cơ thể người.</ReprocessorStomach.description>
+<ReprocessorStomach.labelNoun>Một dạ dày xử lý trước</ReprocessorStomach.labelNoun>
+<StoneskinGland.label>Tuyến da đá</StoneskinGland.label>
+<StoneskinGland.description>Một tuyến da đá được lắp đặt trong cơ thể người.</StoneskinGland.description>
+<StoneskinGland.labelNoun>Một tuyến da đá</StoneskinGland.labelNoun>
+<ToughskinGland.label>Tuyến da dai</ToughskinGland.label>
+<ToughskinGland.description>Một tuyến da dai được lắp đặt trong cơ thể người.</ToughskinGland.description>
+<ToughskinGland.labelNoun>Một tuyến da dai</ToughskinGland.labelNoun>
+</LanguageData>

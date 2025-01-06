@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GrowthMomentFlavor.rulePack.rulesStrings>
+    <li>r_root-&gt;[firstSentence][secondSentence]</li>
+    <li>firstSentence(tierSection==4)-&gt;[PAWN_pronoun] có[nounGrowth] rất xuất sắc, [PAWN_pronoun] tràn đầy[nounFuture] với[adjGood][nounAttitudeGood]。</li>
+<li>firstSentence(tierSection==4)-&gt;Thông qua[situationLearning], [PAWN_pronoun] đã phát triển nhiều sở thích mới.</li>
+<li>firstSentence(tierSection==4)-&gt;Thông qua[situationLearning], [PAWN_pronoun] đã đạt được nhiều sở thích mới.</li>
+<li>firstSentence(tierSection==4)-&gt;Trong năm qua, [PAWN_pronoun] có[nounGrowth] rất xuất sắc.</li>
+<li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] muốn dành nhiều thời gian hơn cho[situationLearning] và[situationFun]。</li>
+<li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] thích[situationLearning], nhưng[PAWN_pronoun] thích hơn[situationFun]。</li>
+<li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] thích[situationLearning], đồng thời mơ ước[situationAspirational]。</li>
+<li>secondSentence(tierSection==4)-&gt;[PAWN_nameDef] hy vọng thông qua[situationLearning], [PAWN_pronoun] cuối cùng có thể[situationAspirational]。</li>
+<li>firstSentence(tierSection==3)-&gt;Gần đây, [PAWN_pronoun] thể hiện sự quan tâm đến[nounFuture] với[adjGood][nounAttitudeGood]。</li>
+<li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] rất[nounAttitudeGood] về[nounFuture]。</li>
+<li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] rất quan tâm đến nhiều hoạt động mới, bao gồm[situationLearning]。</li>
+<li>firstSentence(tierSection==3)-&gt;[PAWN_pronoun] có[nounGrowth] rất xuất sắc。</li>
+<li>secondSentence(tierSection==3)-&gt;[PAWN_nameDef] cảm thấy may mắn vì[PAWN_pronoun] rất ít[feelingBad], có thể dành nhiều thời gian cho[situationFun]。</li>
+<li>secondSentence(tierSection==3)-&gt;[PAWN_nameDef] thích[situationLearning], nhưng[PAWN_pronoun] thích hơn[situationFun]。</li>
+<li>secondSentence(tierSection==3)-&gt;[PAWN_nameDef] hy vọng khi lớn lên, sẽ dùng[PAWN_possessive] thời gian cho[taskWork]。</li>
+<li>secondSentence(tierSection==3)-&gt;Điều quan trọng nhất là, [PAWN_nameDef] thích[situationFun]。</li>
+<li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] thể hiện một số[nounGrowth] và hy vọng tiếp tục[situationLearning]。</li>
+<li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] có một số[nounAttitudeGood] về việc học thêm nội dung。</li>
+<li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] cảm thấy phấn khởi về[nounFuture], muốn dành nhiều thời gian cho[situationLearning]。</li>
+<li>firstSentence(tierSection==2)-&gt;[PAWN_pronoun] đã phát triển một sở thích mới thông qua[situationLearning]。</li>
+<li>secondSentence(tierSection==2)-&gt;[PAWN_nameDef] đam mê[situationFun]。</li>
+<li>secondSentence(tierSection==2)-&gt;[PAWN_nameDef] hy vọng dành nhiều thời gian cho[situationFun]。</li>
+<li>secondSentence(tierSection==2)-&gt;[PAWN_nameDef] nghĩ rằng[taskWork] rất nhàm chán。</li>
+<li>secondSentence(tierSection==2)-&gt;Nói rõ ra, [PAWN_nameDef] muốn tập trung vào[situationLearning]。</li>
+<li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] có vẻ không có[nounGrowth], và kỳ vọng về[nounFuture] cũng rất thấp。</li>
+<li>firstSentence(tierSection==1)-&gt;Mặc dù lạc quan về[nounFuture], nhưng[PAWN_pronoun] gần như không có[nounGrowth]。</li>
+<li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] hy vọng tình hình[nounFuture] sẽ cải thiện。</li>
+<li>firstSentence(tierSection==1)-&gt;[PAWN_pronoun] phàn nàn rằng[situationLearning] rất nhàm chán, và[nounGrowth] của[PAWN_pronoun] rất hạn chế。</li>
+<li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] hy vọng có thể dành thời gian cho[situationFun], thay vì lo lắng suốt ngày về[situationBad]。</li>
+<li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] thường cảm thấy[feelingBad] khi tham gia[situationFun]。</li>
+<li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] có một nỗi sợ kỳ lạ về[situationFun], [PAWN_pronoun] sợ rằng cuối cùng sẽ[situationBad]。</li>
+<li>secondSentence(tierSection==1)-&gt;[PAWN_nameDef] thường gặp ác mộng, mơ thấy[situationBad]。</li>
+<li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] thường muốn[situationLearning], nhưng[PAWN_pronoun] hiếm khi có cơ hội như vậy。</li>
+<li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] không có[nounGrowth] nào。</li>
+<li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] không phát triển sở thích mới nào, và kỳ vọng về[nounFuture] cũng rất thấp。</li>
+<li>firstSentence(tierSection==0)-&gt;[PAWN_pronoun] không có hứng thú với việc học, đặc biệt không thích[situationLearning]。</li>
+<li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] chỉ quan tâm đến[situationFun]。</li>
+<li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] luôn sợ[situationBad], vì vậy do dự không tiến lên。</li>
+<li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] sống trong nỗi sợ bị thương nặng vì[situationBad]。</li>
+<li>secondSentence(tierSection==0)-&gt;[PAWN_nameDef] thường gặp ác mộng, mơ thấy[PAWN_pronoun] đang[situationFun], nhưng kết quả lại[situationBad]。</li>
+<li>adjGood-&gt;rất lớn</li>
+<li>adjGood-&gt;rất lớn</li>
+<li>adjGood-&gt;mạnh mẽ</li>
+<li>adjGood-&gt;vô hạn</li>
+<li>adjGood-&gt;thực sự</li>
+<li>adjGood-&gt;vô hạn</li>
+<li>adjGood-&gt;khổng lồ</li>
+<li>adjGood-&gt;đáng khen</li>
+<li>adjGood-&gt;vô tận</li>
+<li>adjGood-&gt;thuần khiết</li>
+<li>adjGood-&gt;đáng chú ý</li>
+<li>feelingBad-&gt;cảm thấy cô đơn</li>
+<li>feelingBad-&gt;cảm thấy sợ hãi</li>
+<li>feelingBad-&gt;bị thương</li>
+<li>feelingBad-&gt;bị bệnh</li>
+<li>feelingBad-&gt;bị bệnh</li>
+<li>nounAttitudeGood-&gt;đam mê</li>
+<li>nounAttitudeGood-&gt;sở thích</li>
+<li>nounAttitudeGood-&gt;sự kỳ vọng</li>
+<li>nounFuture-&gt;những tuần tới</li>
+    <li>nounFuture-&gt;những tháng tới</li>
+<li>nounFuture-&gt;năm tới</li>
+<li>nounFuture-&gt;tương lai</li>
+<li>nounGrowth-&gt;sự phát triển</li>
+<li>nounGrowth-&gt;sự phát triển</li>
+<li>situationFun-&gt;khám phá hoang dã cùng với[friendNamePlural]</li>
+<li>situationFun-&gt;chơi[Game]</li>
+<li>situationFun-&gt;chơi[Game] cùng bạn bè</li>
+<li>situationFun-&gt;chơi cùng[friendNameSingular]</li>
+<li>situationFun-&gt;trò chuyện với[friendNameSingular]</li>
+<li>situationFun-&gt;chém gió cùng[friendNamePlural]</li>
+<li>situationFun-&gt;kết bạn</li>
+<li>situationFun-&gt;ngồi ngoài nắng</li>
+<li>situationFun-&gt;xem sao băng trên bầu trời đêm</li>
+<li>situationFun-&gt;thảo luận về[topicLearning] qua radio</li>
+<li>situationFun-&gt;trò chuyện với người ngoài hành tinh qua radio</li>
+<li>situationFun-&gt;vẽ tranh về[friendNamePlural] trên sàn nhà</li>
+<li>situationFun-&gt;giả tưởng về[topicLearning]</li>
+<li>situationFun-&gt;chạy bộ giữa thiên nhiên</li>
+<li>situationFun-&gt;phiêu lưu cùng[friendNamePlural]</li>
+<li>situationFun-&gt;tìm kiếm kho báu ẩn giấu</li>
+<li>situationFun-&gt;vẽ tranh về[enemyNamePlural]</li>
+<li>situationFun-&gt;vẽ tranh về[friendNameSingular]</li>
+<li>situationFun-&gt;viết một câu chuyện về[friendNameSingular] đánh bại[enemyNamePlural]</li>
+<li>situationFun-&gt;chơi trò giả vờ đánh nhau với[enemyNamePlural]</li>
+<li>situationFun-&gt;kể chuyện về[enemyNamePlural]</li>
+<li>situationLearning-&gt;quan sát người khác[taskWork]</li>
+<li>situationLearning-&gt;học cách[taskWork]</li>
+<li>situationLearning-&gt;học về[topicLearning]</li>
+<li>situationLearning-&gt;học về[topicLearning]</li>
+<li>situationLearning-&gt;đọc tài liệu liên quan đến[topicLearning]</li>
+<li>situationLearning-&gt;làm công việc có ý nghĩa</li>
+<li>situationAspirational-&gt;thay đổi thế giới</li>
+<li>situationAspirational-&gt;trở nên giàu có</li>
+<li>situationAspirational-&gt;cứu thế giới</li>
+<li>situationAspirational-&gt;giúp đỡ người khác</li>
+<li>situationAspirational-&gt;trở thành người nổi tiếng</li>
+<li>situationAspirational-&gt;rời khỏi hành tinh này</li>
+<li>situationBad-&gt;bị[enemyNamePlural] tấn công</li>
+<li>situationBad-&gt;bị[enemyNamePlural] bắt cóc</li>
+<li>situationBad-&gt;bị[enemyNameSingular] truy đuổi</li>
+<li>situationBad-&gt;bị[enemyNameSingular] đuổi theo</li>
+<li>situationBad-&gt;hít phải khí độc</li>
+<li>situationBad-&gt;bị bệnh phổi</li>
+<li>situationBad-&gt;bị dịch bệnh</li>
+<li>situationBad-&gt;bị ngộ độc thực phẩm</li>
+<li>situationBad-&gt;chứng kiến người thân qua đời</li>
+<li>situationBad-&gt;ăn trên mặt đất</li>
+<li>topicLearning-&gt;vũ trụ học</li>
+<li>topicLearning-&gt;khoa học</li>
+<li>topicLearning-&gt;các nền văn hóa khác nhau</li>
+<li>topicLearning-&gt;công nghệ vượt trội</li>
+<li>topicLearning-&gt;khoa học kinh tế hành tinh</li>
+<li>topicLearning-&gt;psychology</li>
+<li>topicLearning-&gt;sinh học côn trùng</li>
+<li>topicLearning-&gt;sinh học cơ thể máy móc</li>
+<li>topicLearning-&gt;biến đổi gen</li>
+<li>topicLearning-&gt;khoa học tên lửa</li>
+<li>topicLearning-&gt;khai thác khoáng sản</li>
+<li>taskWork-&gt;nấu ăn</li>
+<li>taskWork-&gt;huấn luyện động vật</li>
+<li>taskWork-&gt;chăm sóc bệnh nhân</li>
+<li>taskWork-&gt;giúp đỡ[friendNamePlural]</li>
+<li>taskWork-&gt;>săn bắn bò tuyết</li>
+<li>taskWork-&gt;trồng ngũ cốc</li>
+<li>taskWork-&gt;cắt may quần áo</li>
+<li>friendNamePlural-&gt;bạn bè</li>
+<li>friendNamePlural-&gt;gia đình</li>
+<li>friendNamePlural-&gt;[friendAdj] động vật</li>
+<li>friendNamePlural-&gt;[friendAdj] máy móc</li>
+<li>friendNamePlural-&gt;[friendAdj] trẻ em</li>
+<li>friendNamePlural-&gt;bạn tưởng tượng</li>
+<li>friendNameSingular-&gt;bạn</li>
+<li>friendNameSingular-&gt;chó</li>
+<li>friendNameSingular-&gt;[friendAdj] mèo</li>
+<li>friendNameSingular-&gt;trẻ khác</li>
+<li>friendNameSingular-&gt;[friendAdj] đứa trẻ</li>
+<li>friendNameSingular-&gt;gia đình</li>
+<li>friendAdj-&gt;thân thiện</li>
+<li>friendAdj-&gt;mạnh mẽ</li>
+<li>friendAdj-&gt;thân thiết</li>
+<li>friendAdj-&gt;nghịch ngợm</li>
+<li>friendAdj-&gt;thú vị</li>
+<li>enemyNamePlural-&gt;kẻ tấn công</li>
+<li>enemyNamePlural-&gt;[AdjectiveBadass] kẻ tấn công</li>
+<li>enemyNamePlural-&gt;người lạ bí ẩn</li>
+<li>enemyNamePlural-&gt;[AdjectiveBadass] côn trùng</li>
+<li>enemyNamePlural-&gt;con cừu nổ săn người</li>
+<li>enemyNamePlural-&gt;ma cà rồng bí ẩn</li>
+<li>enemyNamePlural-&gt;thần máy</li>
+<li>enemyNamePlural-&gt;máy móc thù địch</li>
+<li>enemyNamePlural-&gt;người có sức mạnh ác độc</li>
+<li>enemyNameSingular-&gt;[AdjectiveBadass][Enemy]</li>
+<li>enemyNameSingular-&gt;[AdjectiveBadass][AnimalBadass]</li>
+<li>enemyNameSingular-&gt;[AnimalBadass]</li>
+<li>enemyNameSingular-&gt;[Mechanoid]</li>
+<li>enemyNameSingular-&gt;[AdjectiveBadass] xác chết bẩn</li>
+<li>enemyNameSingular-&gt;người lạ</li>
+<li>enemyNameSingular-&gt;huyết tộc</li>
+<li>enemyNameSingular-&gt;người phụ nữ không có mắt</li>
+<li>enemyNameSingular-&gt;người đàn ông có tay thay thế bằng móc</li>
+  </GrowthMomentFlavor.rulePack.rulesStrings>
+</LanguageData>

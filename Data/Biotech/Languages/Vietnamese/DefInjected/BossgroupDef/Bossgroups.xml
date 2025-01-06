@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Apocriton.leaderDescription>{LEADERKIND_label} là một chỉ huy máy móc thông minh cao, có khả năng đặc biệt là hồi sinh các máy móc bị tiêu diệt trong thời gian ngắn và có thể nhảy rất xa. Nó mang theo một khẩu súng kim độc tầm xa.</Apocriton.leaderDescription>
+<Diabolus.leaderDescription>{LEADERKIND_label} được trang bị một khẩu pháo hoàng gia có thể bắn đạn siêu nhiệt. Mặc dù tốc độ nạp đạn chậm, nhưng nó có thể tiêu diệt bất kỳ vật thể nào trong bán kính nổ.</Diabolus.leaderDescription>
+<Warqueen.leaderDescription>{LEADERKIND_label} được trang bị một máy tạo ra máy móc, có thể triển khai thêm các tay sai chiến tranh.</Warqueen.leaderDescription>
+</LanguageData>

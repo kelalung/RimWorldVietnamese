@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Beauty.label>Đẹp</Beauty.label>
+	<Beauty.scoreStages.hideous.label>Vô cùng xấu xí</Beauty.scoreStages.hideous.label>
+	<Beauty.scoreStages.ugly.label>Xấu xí</Beauty.scoreStages.ugly.label>
+	<Beauty.scoreStages.neutral.label>Trung bình</Beauty.scoreStages.neutral.label>
+	<Beauty.scoreStages.pretty.label>Có chút đẹp</Beauty.scoreStages.pretty.label>
+	<Beauty.scoreStages.beautiful.label>Đẹp</Beauty.scoreStages.beautiful.label>
+	<Beauty.scoreStages.very_beautiful.label>Rất đẹp</Beauty.scoreStages.very_beautiful.label>
+	<Beauty.scoreStages.extremely_beautiful.label>Cực kỳ đẹp</Beauty.scoreStages.extremely_beautiful.label>
+	<Beauty.scoreStages.unbelievably_beautiful.label>Khó tin</Beauty.scoreStages.unbelievably_beautiful.label>
+	<Cleanliness.label>Sạch sẽ</Cleanliness.label>
+	<Cleanliness.scoreStages.very_dirty.label>Rất bẩn</Cleanliness.scoreStages.very_dirty.label>
+	<Cleanliness.scoreStages.dirty.label>Bẩn</Cleanliness.scoreStages.dirty.label>
+	<Cleanliness.scoreStages.slightly_dirty.label>Có chút bẩn</Cleanliness.scoreStages.slightly_dirty.label>
+	<Cleanliness.scoreStages.clean.label>Sạch</Cleanliness.scoreStages.clean.label>
+	<Cleanliness.scoreStages.sterile.label>Không một hạt bụi</Cleanliness.scoreStages.sterile.label>
+	<FoodPoisonChance.label>Xác suất thực phẩm độc</FoodPoisonChance.label>
+	<GraveVisitingJoyGainFactor.label>Hệ số vui vẻ khi viếng mộ</GraveVisitingJoyGainFactor.label>
+	<Impressiveness.label>Ấn tượng</Impressiveness.label>
+	<Impressiveness.scoreStages.awful.label>Kinh khủng</Impressiveness.scoreStages.awful.label>
+	<Impressiveness.scoreStages.dull.label>Nhàm chán</Impressiveness.scoreStages.dull.label>
+	<Impressiveness.scoreStages.mediocre.label>Thường thường</Impressiveness.scoreStages.mediocre.label>
+	<Impressiveness.scoreStages.decent.label>Đáng tôn trọng</Impressiveness.scoreStages.decent.label>
+	<Impressiveness.scoreStages.slightly_impressive.label>Có chút ấn tượng</Impressiveness.scoreStages.slightly_impressive.label>
+	<Impressiveness.scoreStages.somewhat_impressive.label>Ấn tượng một chút</Impressiveness.scoreStages.somewhat_impressive.label>
+	<Impressiveness.scoreStages.very_impressive.label>Ấn tượng rất sâu sắc</Impressiveness.scoreStages.very_impressive.label>
+	<Impressiveness.scoreStages.extremely_impressive.label>Ấn tượng cực kỳ sâu sắc</Impressiveness.scoreStages.extremely_impressive.label>
+	<Impressiveness.scoreStages.unbelievably_impressive.label>Khó tin</Impressiveness.scoreStages.unbelievably_impressive.label>
+	<Impressiveness.scoreStages.wondrously_impressive.label>Kỳ diệu</Impressiveness.scoreStages.wondrously_impressive.label>
+	<InfectionChanceFactor.label>Hệ số xác suất nhiễm trùng</InfectionChanceFactor.label>
+	<ReadingBonus.label>Thưởng đọc sách</ReadingBonus.label>
+	<ResearchSpeedFactor.label>Hệ số tốc độ nghiên cứu</ResearchSpeedFactor.label>
+	<Space.label>Không gian</Space.label>
+	<Space.scoreStages.cramped.label>Chật chội</Space.scoreStages.cramped.label>
+	<Space.scoreStages.rather_tight.label>Có hơi chật chội</Space.scoreStages.rather_tight.label>
+	<Space.scoreStages.averagesized.label>Trung bình</Space.scoreStages.averagesized.label>
+	<Space.scoreStages.somewhat_spacious.label>Có chút rộng rãi</Space.scoreStages.somewhat_spacious.label>
+	<Space.scoreStages.quite_spacious.label>Rộng rãi</Space.scoreStages.quite_spacious.label>
+	<Space.scoreStages.very_spacious.label>Rất rộng rãi</Space.scoreStages.very_spacious.label>
+	<Space.scoreStages.extremely_spacious.label>Cực kỳ rộng rãi</Space.scoreStages.extremely_spacious.label>
+	<SurgerySuccessChanceCleanlinessFactor.label>Hệ số thành công phẫu thuật sạch sẽ</SurgerySuccessChanceCleanlinessFactor.label>
+	<Wealth.label>Giàu có</Wealth.label>
+	<Wealth.scoreStages.impoverished.label>Cực kỳ nghèo</Wealth.scoreStages.impoverished.label>
+	<Wealth.scoreStages.somewhat_poor.label>Khá nghèo</Wealth.scoreStages.somewhat_poor.label>
+	<Wealth.scoreStages.mediocre.label>Thường thường</Wealth.scoreStages.mediocre.label>
+	<Wealth.scoreStages.somewhat_rich.label>Hơi giàu</Wealth.scoreStages.somewhat_rich.label>
+	<Wealth.scoreStages.rich.label>Giàu có</Wealth.scoreStages.rich.label>
+	<Wealth.scoreStages.luxurious.label>Xa xỉ</Wealth.scoreStages.luxurious.label>
+	<Wealth.scoreStages.very_luxurious.label>Rất xa xỉ</Wealth.scoreStages.very_luxurious.label>
+	<Wealth.scoreStages.extremely_luxurious.label>Cực kỳ xa xỉ</Wealth.scoreStages.extremely_luxurious.label>
+	<Wealth.scoreStages.unbelievably_luxurious.label>Khó tin</Wealth.scoreStages.unbelievably_luxurious.label>
+</LanguageData>

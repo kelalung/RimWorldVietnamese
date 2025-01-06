@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodFiltration.label>Lọc máu</BloodFiltration.label>
+	<BloodFiltration.labelMechanoids>Lọc chất lỏng</BloodFiltration.labelMechanoids>
+	<BloodPumping.label>Tuần hoàn máu</BloodPumping.label>
+	<BloodPumping.labelMechanoids>Cung cấp năng lượng</BloodPumping.labelMechanoids>
+	<Breathing.label>Khả năng hô hấp</Breathing.label>
+	<Consciousness.label>Ý thức</Consciousness.label>
+	<Consciousness.labelAnomalyEntity>Cảm nhận</Consciousness.labelAnomalyEntity>
+	<Consciousness.labelMechanoids>Xử lý dữ liệu</Consciousness.labelMechanoids>
+	<Eating.label>Khả năng ăn uống</Eating.label>
+	<Hearing.label>Khả năng nghe</Hearing.label>
+	<Manipulation.label>Khả năng thao tác</Manipulation.label>
+	<Metabolism.label>Khả năng tiêu hóa</Metabolism.label>
+	<Moving.label>Khả năng di chuyển</Moving.label>
+	<Sight.label>Khả năng nhìn</Sight.label>
+	<Talking.label>Khả năng nói</Talking.label>
+	<Talking.labelMechanoids>Khả năng giao tiếp</Talking.labelMechanoids>
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Decree_BuildMonument.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nBạn phải xây dựng một đài tưởng niệm. Việc xây dựng đài tưởng niệm [monumentSize] này cần các tài nguyên sau (tổng giá trị: [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nBạn cần bảo vệ đài tưởng niệm này trong [keepMonumentTicks_duration] sau khi hoàn thành, nếu không [asker_nameDef] sẽ không hài lòng.</li>
+</Decree_BuildMonument.questDescriptionRules.rulesStrings>
+<Decree_BuildMonument.questNameRules.rulesStrings>
+    <li>questName-&gt;Lệnh xây dựng đài tưởng niệm</li>
+</Decree_BuildMonument.questNameRules.rulesStrings>
+<Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>Đánh dấu đài tưởng niệm mới đã được gửi đến</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
+<Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>Vì dấu hiệu đài tưởng niệm đã bị hư hại, một dấu hiệu mới đã được gửi đi.</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
+<Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>Đài tưởng niệm đã hoàn thành</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+<Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>Bạn đã hoàn thành cấu trúc đài tưởng niệm này.\n\nTrong [keepMonumentTicks_duration] tiếp theo, hãy bảo vệ đài tưởng niệm, nếu không [asker_nameDef] sẽ không hài lòng.</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
+<Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>Đài tưởng niệm đã bị phá hủy</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
+<Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>Hành động của bạn đã khiến đài tưởng niệm bị phá hủy quá nhanh sau khi xây dựng, làm [asker_nameDef] không hài lòng.\n\n[asker_pronoun] cảm thấy rất không hài lòng về điều này.</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
+<Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>Không được phá hủy đài tưởng niệm {0}</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+<Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>Không được phá hủy đài tưởng niệm {0}</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+<Decree_BuildMonument.KeepMonument.slateRef>Bảo vệ đài tưởng niệm {0}</Decree_BuildMonument.KeepMonument.slateRef>
+<Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nBạn phải thu hoạch [plantToHarvest_label] X [harvestItemCount].\n\nBạn có thể cần trồng [plantToHarvest_label] trước, sau đó mới thu hoạch.\n\n[decreeThreatInfo]</li>
+</Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+<Decree_HarvestCrop.questNameRules.rulesStrings>
+    <li>questName-&gt;Lệnh thu hoạch [plantToHarvest_label]</li>
+</Decree_HarvestCrop.questNameRules.rulesStrings>
+<Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nBạn phải săn [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
+    <li>animalToHuntWithCount(countToHunt==1)-&gt;[animalToHunt_indefinite]</li>
+    <li>animalToHuntWithCount(countToHunt!=1)-&gt;[countToHunt] con [animalToHunt_labelPlural]</li>
+</Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+<Decree_HuntAnimal.questNameRules.rulesStrings>
+    <li>questName-&gt;Lệnh săn [animalToHunt_label]</li>
+</Decree_HuntAnimal.questNameRules.rulesStrings>
+<Decree_ProduceItem.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[decreeIntro]\n\nBạn phải sản xuất:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
+</Decree_ProduceItem.questDescriptionRules.rulesStrings>
+<Decree_ProduceItem.questNameRules.rulesStrings>
+    <li>questName-&gt;Lệnh sản xuất [defToProduce_label]</li>
+</Decree_ProduceItem.questNameRules.rulesStrings>
+</LanguageData>

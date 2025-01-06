@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalProductRaw.label>Sản phẩm từ động vật</AnimalProductRaw.label>
+	<Animals.label>Động vật</Animals.label>
+	<Apparel.label>Quần áo</Apparel.label>
+	<ApparelArmor.label>Quần áo giáp</ApparelArmor.label>
+	<ApparelMisc.label>Đồ dùng khác</ApparelMisc.label>
+	<ApparelNoble.label>Quần áo cao cấp</ApparelNoble.label>
+	<ApparelUtility.label>Phụ kiện</ApparelUtility.label>
+	<ArmorHeadgear.label>Mũ giáp</ArmorHeadgear.label>
+	<Artifacts.label>Di tích</Artifacts.label>
+	<BodyParts.label>Các bộ phận cơ thể</BodyParts.label>
+	<BodyPartsArchotech.label>Công nghệ siêu việt</BodyPartsArchotech.label>
+	<BodyPartsBionic.label>Cơ thể sinh học</BodyPartsBionic.label>
+	<BodyPartsMechtech.label>Công nghệ cơ khí</BodyPartsMechtech.label>
+	<BodyPartsNatural.label>Tự nhiên</BodyPartsNatural.label>
+	<BodyPartsProsthetic.label>Chân tay giả</BodyPartsProsthetic.label>
+	<BodyPartsSimple.label>Các bộ phận đơn giản</BodyPartsSimple.label>
+	<BodyPartsUltra.label>Công nghệ cực hạn</BodyPartsUltra.label>
+	<BookEffects.label>Hiệu ứng sách</BookEffects.label>
+	<Books.label>Sách</Books.label>
+	<Buildings.label>Các công trình</Buildings.label>
+	<BuildingsArt.label>Nghệ thuật</BuildingsArt.label>
+	<BuildingsFurniture.label>Nội thất</BuildingsFurniture.label>
+	<BuildingsJoy.label>Giải trí</BuildingsJoy.label>
+	<BuildingsMisc.label>Đồ dùng khác</BuildingsMisc.label>
+	<BuildingsPower.label>Điện lực</BuildingsPower.label>
+	<BuildingsProduction.label>Sản xuất</BuildingsProduction.label>
+	<BuildingsSecurity.label>Bảo vệ</BuildingsSecurity.label>
+	<BuildingsSpecial.label>Đặc biệt</BuildingsSpecial.label>
+	<BuildingsTemperature.label>Nhiệt độ</BuildingsTemperature.label>
+	<Chunks.label>Đống khối</Chunks.label>
+	<Corpses.label>Xác chết</Corpses.label>
+	<CorpsesAnimal.label>Xác động vật</CorpsesAnimal.label>
+	<CorpsesHumanlike.label>Xác người</CorpsesHumanlike.label>
+	<CorpsesInsect.label>Xác côn trùng</CorpsesInsect.label>
+	<CorpsesMechanoid.label>Xác máy móc</CorpsesMechanoid.label>
+	<Drugs.label>Thuốc và chất gây nghiện</Drugs.label>
+	<EggsFertilized.label>Trứng (đã thụ tinh)</EggsFertilized.label>
+	<EggsUnfertilized.label>Trứng (chưa thụ tinh)</EggsUnfertilized.label>
+	<FoodMeals.label>Thực phẩm chế biến</FoodMeals.label>
+	<FoodRaw.label>Thực phẩm sống</FoodRaw.label>
+	<Foods.label>Thực phẩm</Foods.label>
+	<Grenades.label>Granade</Grenades.label>
+	<Headgear.label>Mũ</Headgear.label>
+	<HeadgearNoble.label>Đầu trang sức</HeadgearNoble.label>
+	<InertRelics.label>Di vật</InertRelics.label>
+	<Items.label>Đồ vật</Items.label>
+	<ItemsMisc.label>Đồ dùng khác</ItemsMisc.label>
+	<Leathers.label>Da</Leathers.label>
+	<Manufactured.label>Sản phẩm chế biến</Manufactured.label>
+	<MeatRaw.label>Thịt sống</MeatRaw.label>
+	<Medicine.label>Thuốc y tế</Medicine.label>
+	<MortarShells.label>Đạn cối</MortarShells.label>
+	<Neurotrainers.label>Máy huấn luyện thần kinh</Neurotrainers.label>
+	<NeurotrainersPsycast.label>Máy huấn luyện tâm linh</NeurotrainersPsycast.label>
+	<NeurotrainersSkill.label>Máy huấn luyện kỹ năng</NeurotrainersSkill.label>
+	<PlantFoodRaw.label>Thực phẩm từ thực vật</PlantFoodRaw.label>
+	<PlantMatter.label>Thực vật</PlantMatter.label>
+	<Plants.label>Thực vật</Plants.label>
+	<ResearchGain.label>Nghiên cứu</ResearchGain.label>
+	<ResourcesRaw.label>Nguyên liệu thô</ResourcesRaw.label>
+	<Root.label>Thư mục gốc</Root.label>
+	<SkillGain.label>Tăng kỹ năng</SkillGain.label>
+	<StoneBlocks.label>Khối đá</StoneBlocks.label>
+	<StoneChunks.label>Đá vụn</StoneChunks.label>
+	<Stumps.label>Cọc cây</Stumps.label>
+	<Techprints.label>Bản vẽ nghiên cứu</Techprints.label>
+	<Textiles.label>Vải</Textiles.label>
+	<Unfinished.label>Chưa hoàn thành</Unfinished.label>
+	<Weapons.label>Vũ khí</Weapons.label>
+	<WeaponsMelee.label>Vũ khí cận chiến</WeaponsMelee.label>
+	<WeaponsMeleeBladelink.label>Vũ khí cận chiến</WeaponsMeleeBladelink.label>
+	<WeaponsRanged.label>Vũ khí tầm xa</WeaponsRanged.label>
+	<Wools.label>Len</Wools.label>
+</LanguageData>

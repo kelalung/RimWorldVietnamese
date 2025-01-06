@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CutTree_Disapproved.stages.cut_tree.label>Đốn cây</CutTree_Disapproved.stages.cut_tree.label>
+<CutTree_Disapproved.stages.cut_tree.description>Tôi buộc phải chặt một cái cây. Gây tổn hại cho thiên nhiên theo cách này là không chấp nhận được.</CutTree_Disapproved.stages.cut_tree.description>
+<CutTree_Horrible.stages.cut_tree.label>Đốn cây</CutTree_Horrible.stages.cut_tree.label>
+<CutTree_Horrible.stages.cut_tree.description>Tôi buộc phải chặt một cái cây. Gây tổn thương cho thiên nhiên theo cách này thật tội lỗi.</CutTree_Horrible.stages.cut_tree.description>
+<CutTree_Know_Disapproved.stages.cut_tree.label>Đốn cây</CutTree_Know_Disapproved.stages.cut_tree.label>
+<CutTree_Know_Disapproved_Mood.stages.tree_felled.label>Cây bị chặt</CutTree_Know_Disapproved_Mood.stages.tree_felled.label>
+<CutTree_Know_Disapproved_Mood.stages.tree_felled.description>Chúng tôi đã chặt một cái cây. Gây tổn hại cho thiên nhiên theo cách này là không chấp nhận được.</CutTree_Know_Disapproved_Mood.stages.tree_felled.description>
+<CutTree_Know_Horrible.stages.cut_tree.label>Đốn cây</CutTree_Know_Horrible.stages.cut_tree.label>
+<CutTree_Know_Horrible_Mood.stages.tree_felled.label>Cây bị chặt</CutTree_Know_Horrible_Mood.stages.tree_felled.label>
+<CutTree_Know_Horrible_Mood.stages.tree_felled.description>Chúng tôi đã chặt một cái cây. Gây tổn thương cho thiên nhiên theo cách này thật tội lỗi.</CutTree_Know_Horrible_Mood.stages.tree_felled.description>
+<CutTree_Know_Prohibited.stages.cut_tree.label>Đốn cây</CutTree_Know_Prohibited.stages.cut_tree.label>
+ <CutTree_Know_Prohibited_Mood.stages.tree_felled.label>Cây bị chặt</CutTree_Know_Prohibited_Mood.stages.tree_felled.label>
+<CutTree_Know_Prohibited_Mood.stages.tree_felled.description>Chúng tôi đã chặt một cái cây. Điều này vi phạm quy luật tự nhiên là tuyệt đối cấm kỵ.</CutTree_Know_Prohibited_Mood.stages.tree_felled.description>
+<MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>Cây bị chết sau khi chuyển cây</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>
+<MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>Chúng tôi đã đào một cái cây từ đất và để nó chết. Gây tổn hại cho thiên nhiên theo cách này là không thể chấp nhận.</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>
+<MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>Cây bị chết sau khi chuyển cây</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>
+<MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>Chúng tôi đã đào một cái cây từ đất và để nó chết. Gây tổn thương cho thiên nhiên theo cách này thật tội lỗi.</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>
+<MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>Cây bị chết sau khi chuyển cây</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>
+<MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>Chúng tôi đã đào một cái cây từ đất và để nó chết. Điều này vi phạm quy luật tự nhiên là tuyệt đối cấm kỵ.</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>
+</LanguageData>

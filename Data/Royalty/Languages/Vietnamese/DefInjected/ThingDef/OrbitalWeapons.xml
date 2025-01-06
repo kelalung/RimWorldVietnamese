@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<OrbitalTargeterMechCluster.label>Thiết Bị Nhắm Mục Tiêu Cụm Máy</OrbitalTargeterMechCluster.label>
+<OrbitalTargeterMechCluster.description>Một thiết bị ngắm cổ xưa, phát tín hiệu đến nền tảng quỹ đạo để thả các cụm máy chiến đấu tại địa điểm được chỉ định, cụm này có thể chứa bất kỳ loại máy móc và cấu trúc phòng thủ nào.\n\nMặc dù chúng có thể từng trung thành với những người sáng tạo cổ xưa của chúng, nhưng hiện tại, những đơn vị máy bay này sẽ tấn công bất kỳ ai mà chúng nhìn thấy - bao gồm cả người đã triệu hồi chúng.</OrbitalTargeterMechCluster.description>
+<OrbitalTargeterMechCluster.comps.CompApparelReloadable.chargeNoun>Nạp Năng Lượng</OrbitalTargeterMechCluster.comps.CompApparelReloadable.chargeNoun>
+<OrbitalTargeterMechCluster.comps.CompApparelReloadable.cooldownGerund>Đang Làm Mát</OrbitalTargeterMechCluster.comps.CompApparelReloadable.cooldownGerund>
+<OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>Thiết Bị Nhắm Mục Tiêu Cụm Máy</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
+</LanguageData>

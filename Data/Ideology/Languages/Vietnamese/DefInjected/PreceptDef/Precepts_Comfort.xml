@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Comfort_Ignored.label>Thờ ơ</Comfort_Ignored.label>
+<Comfort_Ignored.description>Chúng ta không nên chú trọng vào sự thoải mái.</Comfort_Ignored.description>
+<SlabBed_Preferred.label>Thích thú</SlabBed_Preferred.label>
+<SlabBed_Preferred.description>Cách ngủ đúng là trên giường phẳng.</SlabBed_Preferred.description>
+<SlabBed_Preferred.comps.0.description>Ngủ trên giường phẳng</SlabBed_Preferred.comps.0.description>
+</LanguageData>

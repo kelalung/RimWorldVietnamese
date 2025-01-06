@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CommandBedSetForSlavesLabel>Dành riêng cho nô lệ</CommandBedSetForSlavesLabel>
+<CommandBedSetForColonistsLabel>Dành riêng cho người thuộc địa</CommandBedSetForColonistsLabel>
+<CommandBedSetForOwnerTypeDesc>Giường trong phòng này có nên được sử dụng bởi người thuộc địa, tù nhân hoặc nô lệ không.</CommandBedSetForOwnerTypeDesc>
+<CommandNeuralSuperchargerNoAutoUse>Cấm tự động sử dụng</CommandNeuralSuperchargerNoAutoUse>
+<CommandNeuralSuperchargerNoAutoUseDescription>Các thành viên của bạn sẽ không tự động sử dụng bộ tăng cường thần kinh này.</CommandNeuralSuperchargerNoAutoUseDescription>
+<CommandNeuralSuperchargerAutoUseWithDesire>Cho phép tự động sử dụng</CommandNeuralSuperchargerAutoUseWithDesire>
+<CommandNeuralSuperchargerAutoUseWithDesireDescription>Các nhân vật của bạn có thể tự động sử dụng bộ tăng cường thần kinh này do niềm tin của họ.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+<CommandNeuralSuperchargerAutoForEveryone>Cho phép mọi người sử dụng</CommandNeuralSuperchargerAutoForEveryone>
+<CommandNeuralSuperchargerAutoForEveryoneDescription>Nếu có cơ hội, tất cả các thành viên của bạn sẽ sử dụng bộ tăng cường thần kinh này.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+<CommandNeuralSuperchargerAllowGuests>Cho phép khách</CommandNeuralSuperchargerAllowGuests>
+<CommandNeuralSuperchargerAllowGuestsDescription>Cho phép các thành viên tạm thời của phái sử dụng bộ tăng cường thần kinh này.</CommandNeuralSuperchargerAllowGuestsDescription>
+<CommandSelectConnectedTree>Chọn cây được kết nối</CommandSelectConnectedTree>
+<CommandHealInHealingPod>Vào buồng chữa lành</CommandHealInHealingPod>
+<CommandHealInHealingPodDesc>Nếu sinh vật này bị thương, nó sẽ quay về cây mẹ và vào một buồng chữa lành bằng gỗ, sau {DAYS} ngày, cây tinh linh sẽ xuất hiện khi vết thương được chữa lành.</CommandHealInHealingPodDesc>
+</LanguageData>

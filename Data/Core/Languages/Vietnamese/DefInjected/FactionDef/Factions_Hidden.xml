@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ancients.label>Cổ nhân trung lập</Ancients.label>
+	<Ancients.fixedName>Cổ nhân</Ancients.fixedName>
+	<Ancients.leaderTitle>Lãnh đạo</Ancients.leaderTitle>
+	<Ancients.pawnSingular>Cổ nhân</Ancients.pawnSingular>
+	<Ancients.pawnsPlural>Cổ nhân</Ancients.pawnsPlural>
+	<AncientsHostile.label>Cổ nhân thù địch</AncientsHostile.label>
+	<AncientsHostile.fixedName>Cổ nhân</AncientsHostile.fixedName>
+	<AncientsHostile.leaderTitle>Lãnh đạo</AncientsHostile.leaderTitle>
+	<AncientsHostile.pawnSingular>Cổ nhân</AncientsHostile.pawnSingular>
+	<AncientsHostile.pawnsPlural>Cổ nhân</AncientsHostile.pawnsPlural>
+	<Insect.label>Tổ côn trùng</Insect.label>
+	<Insect.description>Các côn trùng khổng lồ này sống dưới lòng đất của hành tinh, và sẽ tấn công khi bị thu hút bởi tiếng ồn hoặc tín hiệu pheromone. Côn trùng có nguồn gốc từ hành tinh Sorne, các doanh nhân giữa các vì sao đã thành công trong việc bắt giữ chúng và cải tạo chúng thành vũ khí. Hiện tại vẫn chưa rõ ai đã đưa côn trùng lên hành tinh này, nhưng rõ ràng chúng vẫn nguy hiểm như trước.</Insect.description>
+	<Insect.fixedName>Tổ côn trùng Sorne</Insect.fixedName>
+	<Insect.leaderTitle>Chúa tể côn trùng</Insect.leaderTitle>
+	<Insect.pawnSingular>Côn trùng</Insect.pawnSingular>
+	<Insect.pawnsPlural>Côn trùng</Insect.pawnsPlural>
+	<Mechanoid.label>Tổ máy móc</Mechanoid.label>
+	<Mechanoid.description>Các máy móc giết chóc không rõ nguồn gốc. Những máy móc này ẩn náu trong các di tích cổ xưa, núi non hoặc dưới đáy biển, có thể tự duy trì trong hàng ngàn năm. Mục đích của những máy móc này dường như là nhất quán, nhưng thiếu sự phối hợp tốt trong hành động. Các học giả địa phương cho rằng chúng là vũ khí tự trị từ thời kỳ chiến tranh cổ đại, trong khi truyền thuyết bộ lạc mô tả chúng như những đầy tớ hủy diệt của các vị thần đang ngủ say.</Mechanoid.description>
+	<Mechanoid.fixedName>Tổ máy móc</Mechanoid.fixedName>
+	<Mechanoid.leaderTitle>Trung tâm</Mechanoid.leaderTitle>
+	<Mechanoid.pawnSingular>Máy móc</Mechanoid.pawnSingular>
+	<Mechanoid.pawnsPlural>Máy móc</Mechanoid.pawnsPlural>
+</LanguageData>

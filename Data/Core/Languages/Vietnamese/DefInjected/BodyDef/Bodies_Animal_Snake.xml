@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Snake.label>Rắn</Snake.label>
+	<Snake.corePart.parts.left_lung.customLabel>Phổi trái</Snake.corePart.parts.left_lung.customLabel>
+	<Snake.corePart.parts.right_lung.customLabel>Phổi phải</Snake.corePart.parts.right_lung.customLabel>
+	<Snake.corePart.parts.left_kidney.customLabel>Thận trái</Snake.corePart.parts.left_kidney.customLabel>
+	<Snake.corePart.parts.right_kidney.customLabel>Thận phải</Snake.corePart.parts.right_kidney.customLabel>
+	<Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>Mắt trái</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
+	<Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>Mắt phải</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
+</LanguageData>

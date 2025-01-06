@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Outpost.label>Đồn cảnh sát</Outpost.label>
+	<Outpost.description>Một đồn cảnh sát nhỏ có lính gác.</Outpost.description>
+	<Outpost.approachingReportString>Đang tấn công {0}.</Outpost.approachingReportString>
+	<Outpost.approachOrderString>Tấn công {0}</Outpost.approachOrderString>
+	<Outpost.arrivedLetter>Khu vực này có một đồn cảnh sát của kẻ thù.</Outpost.arrivedLetter>
+</LanguageData>

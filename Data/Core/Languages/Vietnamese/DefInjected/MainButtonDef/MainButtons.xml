@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Animals.label>Động vật</Animals.label>
+	<Animals.description>Cấu hình cách xử lý động vật đã thuần hóa trong thuộc địa.</Animals.description>
+	<Architect.label>Kế hoạch xây dựng</Architect.label>
+	<Architect.description>Chỉ định cho người định cư nơi xây dựng loại công trình nào, trồng loại cây gì, lưu trữ loại hàng hóa nào, v.v.</Architect.description>
+	<Assign.label>Phân công</Assign.label>
+	<Assign.description>Chỉ định cách hành xử cho người định cư, chẳng hạn như họ nên mặc gì, dùng thuốc gì, hoặc cách ứng phó với kẻ thù.</Assign.description>
+	<Factions.label>Các phe</Factions.label>
+	<Factions.description>Xem tất cả các phe đã biết và mối quan hệ giữa các phe trong thuộc địa.</Factions.description>
+	<History.label>Lịch sử</History.label>
+	<History.description>Xem các bản ghi lịch sử.</History.description>
+	<Inspect.label>Xem</Inspect.label>
+	<Menu.label>Menu</Menu.label>
+	<Menu.description>Thay đổi tùy chọn, lưu, tải hoặc thoát trò chơi.</Menu.description>
+	<Quests.label>Nhiệm vụ</Quests.label>
+	<Quests.description>Xem các nhiệm vụ có sẵn, đang hoạt động và đã hoàn thành.</Quests.description>
+	<Research.label>Nghiên cứu</Research.label>
+	<Research.description>Xem và chọn các dự án nghiên cứu.</Research.description>
+	<Schedule.label>Lịch trình</Schedule.label>
+	<Schedule.description>Chỉ định các hoạt động cho người định cư trong khoảng thời gian cụ thể, hoặc hạn chế khu vực hoạt động của họ.</Schedule.description>
+	<Wildlife.label>Động vật hoang dã</Wildlife.label>
+	<Wildlife.description>Liệt kê tất cả động vật hoang dã trong khu vực, có thể đánh dấu để săn bắn hoặc thuần hóa.</Wildlife.description>
+	<Work.label>Công việc</Work.label>
+	<Work.description>Chỉ định công việc cho người định cư và thứ tự ưu tiên cho các công việc khác nhau.</Work.description>
+	<World.label>Thế giới</World.label>
+	<World.description>Xem bản đồ thế giới, tổ chức hoặc quản lý đoàn thám hiểm.</World.description>
+</LanguageData>

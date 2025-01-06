@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chitchat.label>Trò chuyện</Chitchat.label>
+	<Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] và [RECIPIENT_nameDef][talkedabout][subject].</Chitchat.logRulesInitiator.rulesStrings.0>
+	<Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] cùng [RECIPIENT_nameDef][talkedabout][subject].</Chitchat.logRulesInitiator.rulesStrings.1>
+	<Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] đã [commentedabout] về chủ đề [subject] với [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.2>
+	<Chitchat.logRulesInitiator.rulesStrings.3>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</Chitchat.logRulesInitiator.rulesStrings.3>
+	<Chitchat.logRulesInitiator.rulesStrings.4>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</Chitchat.logRulesInitiator.rulesStrings.4>
+	<Chitchat.logRulesInitiator.rulesStrings.5>talkedabout(p=4)-> nói về</Chitchat.logRulesInitiator.rulesStrings.5>
+	<Chitchat.logRulesInitiator.rulesStrings.6>talkedabout-> thảo luận linh tinh</Chitchat.logRulesInitiator.rulesStrings.6>
+	<Chitchat.logRulesInitiator.rulesStrings.7>talkedabout-> nói về </Chitchat.logRulesInitiator.rulesStrings.7>
+	<Chitchat.logRulesInitiator.rulesStrings.8>talkedabout-> nói đùa về </Chitchat.logRulesInitiator.rulesStrings.8>
+	<Chitchat.logRulesInitiator.rulesStrings.9>talkedabout-> nói chuyện vui vẻ về </Chitchat.logRulesInitiator.rulesStrings.9>
+	<Chitchat.logRulesInitiator.rulesStrings.10>commentedabout-> nói nhiều về </Chitchat.logRulesInitiator.rulesStrings.10>
+	<Chitchat.logRulesInitiator.rulesStrings.11>commentedabout-> nói một vài câu về </Chitchat.logRulesInitiator.rulesStrings.11>
+	<Chitchat.logRulesInitiator.rulesStrings.12>commentedabout-> bình luận</Chitchat.logRulesInitiator.rulesStrings.12>
+	<Chitchat.logRulesInitiator.rulesStrings.13>commentedabout-> thảo luận một chút</Chitchat.logRulesInitiator.rulesStrings.13>
+	<Chitchat.logRulesInitiator.rulesStrings.14>commentedabout-> trao đổi ý kiến</Chitchat.logRulesInitiator.rulesStrings.14>
+	<Chitchat.logRulesInitiator.rulesStrings.15>commentedabout-> chia sẻ quan điểm</Chitchat.logRulesInitiator.rulesStrings.15>
+	<Chitchat.logRulesInitiator.rulesStrings.16>commentedabout-> nói đùa</Chitchat.logRulesInitiator.rulesStrings.16>
+	<DeepTalk.label>Giao tiếp sâu sắc</DeepTalk.label>
+	<DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->Về vấn đề [subject],[INITIATOR_nameDef] và [RECIPIENT_nameDef][talkedabout].</DeepTalk.logRulesInitiator.rulesStrings.0>
+	<DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] cùng [RECIPIENT_nameDef] đã [talkedabout] về chủ đề [subject].</DeepTalk.logRulesInitiator.rulesStrings.1>
+	<DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout-> chia sẻ suy nghĩ</DeepTalk.logRulesInitiator.rulesStrings.2>
+	<DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout-> trao đổi ý tưởng</DeepTalk.logRulesInitiator.rulesStrings.3>
+	<DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout-> trao đổi ý kiến</DeepTalk.logRulesInitiator.rulesStrings.4>
+	<DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout-> chia sẻ quan điểm</DeepTalk.logRulesInitiator.rulesStrings.5>
+	<DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout-> chia sẻ lý tưởng</DeepTalk.logRulesInitiator.rulesStrings.6>
+	<DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout-> thảo luận sâu sắc</DeepTalk.logRulesInitiator.rulesStrings.7>
+	<DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout-> chia sẻ tâm tư</DeepTalk.logRulesInitiator.rulesStrings.8>
+	<DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout-> thảo luận sâu sắc</DeepTalk.logRulesInitiator.rulesStrings.9>
+	<DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout-> giao tiếp</DeepTalk.logRulesInitiator.rulesStrings.10>
+	<DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout-> trao đổi thông tin</DeepTalk.logRulesInitiator.rulesStrings.11>
+	<DeepTalk.logRulesInitiator.rulesStrings.12>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
+	<DeepTalk.logRulesInitiator.rulesStrings.13>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</DeepTalk.logRulesInitiator.rulesStrings.13>
+	<Insult.label>Nhục mạ</Insult.label>
+	<Insult.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef][insulted][target] [characteristic].</Insult.logRulesInitiator.rulesStrings.0>
+	<Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] đã so sánh [target] với [insultcomparison].</Insult.logRulesInitiator.rulesStrings.1>
+	<Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] đã gọi [target] là [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
+	<Insult.logRulesInitiator.rulesStrings.3>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] đã gọi [target] là một tín đồ ngốc nghếch.</Insult.logRulesInitiator.rulesStrings.3>
+	<Insult.logRulesInitiator.rulesStrings.4>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] đã gợi ý rằng [target] đã bị mê hoặc bởi khối vàng.</Insult.logRulesInitiator.rulesStrings.4>
+	<Insult.logRulesInitiator.rulesStrings.5>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef][insulted] khối vàng.</Insult.logRulesInitiator.rulesStrings.5>
+	<Insult.logRulesInitiator.rulesStrings.6>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</Insult.logRulesInitiator.rulesStrings.6>
+	<Insult.logRulesInitiator.rulesStrings.7>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</Insult.logRulesInitiator.rulesStrings.7>
+	<Insult.logRulesInitiator.rulesStrings.8>target(p=4)->[RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.8>
+	<Insult.logRulesInitiator.rulesStrings.9>target->[RECIPIENT_nameDef] [PersonFamily]</Insult.logRulesInitiator.rulesStrings.9>
+	<Insult.logRulesInitiator.rulesStrings.10>insulted(p=3)-> nhục mạ</Insult.logRulesInitiator.rulesStrings.10>
+	<Insult.logRulesInitiator.rulesStrings.11>insulted-> nhục mạ công khai</Insult.logRulesInitiator.rulesStrings.11>
+	<Insult.logRulesInitiator.rulesStrings.12>insulted-> nhục mạ lớn tiếng</Insult.logRulesInitiator.rulesStrings.12>
+	<Insult.logRulesInitiator.rulesStrings.13>insulted-> nhục mạ công khai</Insult.logRulesInitiator.rulesStrings.13>
+	<Insult.logRulesInitiator.rulesStrings.14>insulted-> nhục mạ trực diện</Insult.logRulesInitiator.rulesStrings.14>
+	<Insult.logRulesInitiator.rulesStrings.15>insulted-> nhục mạ ác ý</Insult.logRulesInitiator.rulesStrings.15>
+	<Insult.logRulesInitiator.rulesStrings.16>insulted-> thiếu tôn trọng công khai</Insult.logRulesInitiator.rulesStrings.16>
+	<Insult.logRulesInitiator.rulesStrings.17>insulted-> phỉ báng</Insult.logRulesInitiator.rulesStrings.17>
+	<Insult.logRulesInitiator.rulesStrings.18>insulted-> lời lẽ mắng chửi</Insult.logRulesInitiator.rulesStrings.18>
+	<Insult.logRulesInitiator.rulesStrings.19>insulted-> chế nhạo</Insult.logRulesInitiator.rulesStrings.19>
+	<Insult.logRulesInitiator.rulesStrings.20>insultcomparison(INITIATOR_cubeInterest==false,p=2)->[Animal]</Insult.logRulesInitiator.rulesStrings.20>
+	<Insult.logRulesInitiator.rulesStrings.21>insultcomparison(INITIATOR_cubeInterest==false)->[Enemy]</Insult.logRulesInitiator.rulesStrings.21>
+	<Insult.logRulesInitiator.rulesStrings.22>insultcomparison(INITIATOR_cubeInterest==true)->Hình cầu</Insult.logRulesInitiator.rulesStrings.22>
+	<Insult.logRulesInitiator.rulesStrings.23>insultcomparison(INITIATOR_cubeInterest==true)->Vật thể không có góc cạnh</Insult.logRulesInitiator.rulesStrings.23>
+	<Insult.logRulesInitiator.rulesStrings.24>insultcomparison(INITIATOR_cubeInterest==true)->Vật thể hình khối hoàn toàn không có cạnh</Insult.logRulesInitiator.rulesStrings.24>
+	<KindWords.label>Lời khen ngợi</KindWords.label>
+	<KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][complimented][RECIPIENT_nameDef] [characteristic].</KindWords.logRulesInitiator.rulesStrings.0>
+	<KindWords.logRulesInitiator.rulesStrings.1>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</KindWords.logRulesInitiator.rulesStrings.1>
+	<KindWords.logRulesInitiator.rulesStrings.2>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</KindWords.logRulesInitiator.rulesStrings.2>
+	<KindWords.logRulesInitiator.rulesStrings.3>complimented(p=3)->Khen ngợi</KindWords.logRulesInitiator.rulesStrings.3>
+	<KindWords.logRulesInitiator.rulesStrings.4>complimented->Khen ngợi</KindWords.logRulesInitiator.rulesStrings.4>
+	<KindWords.logRulesInitiator.rulesStrings.5>complimented->Khen tặng</KindWords.logRulesInitiator.rulesStrings.5>
+	<KindWords.logRulesInitiator.rulesStrings.6>complimented->Tán dương</KindWords.logRulesInitiator.rulesStrings.6>
+	<KindWords.logRulesInitiator.rulesStrings.7>complimented->Đồng ý</KindWords.logRulesInitiator.rulesStrings.7>
+	<KindWords.logRulesInitiator.rulesStrings.8>complimented->Tôn trọng</KindWords.logRulesInitiator.rulesStrings.8>
+	<KindWords.logRulesInitiator.rulesStrings.9>complimented->Tôn vinh</KindWords.logRulesInitiator.rulesStrings.9>
+	<KindWords.logRulesInitiator.rulesStrings.10>complimented->Nói chuyện một cách thân thiện</KindWords.logRulesInitiator.rulesStrings.10>
+	<KindWords.logRulesInitiator.rulesStrings.11>complimented->Thể hiện sự đồng tình</KindWords.logRulesInitiator.rulesStrings.11>
+	<KindWords.logRulesInitiator.rulesStrings.12>complimented->Nịnh nọt</KindWords.logRulesInitiator.rulesStrings.12>
+	<KindWords.logRulesInitiator.rulesStrings.13>complimented->Khen ngợi bằng lời nói</KindWords.logRulesInitiator.rulesStrings.13>
+	<KindWords.logRulesInitiator.rulesStrings.14>complimented->Thể hiện sự trân trọng</KindWords.logRulesInitiator.rulesStrings.14>
+	<KindWords.logRulesInitiator.rulesStrings.15>complimented->Khen ngợi</KindWords.logRulesInitiator.rulesStrings.15>
+	<Slight.label>Châm chọc</Slight.label>
+	<Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][madefunof][target] [characteristic].</Slight.logRulesInitiator.rulesStrings.0>
+	<Slight.logRulesInitiator.rulesStrings.1>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</Slight.logRulesInitiator.rulesStrings.1>
+	<Slight.logRulesInitiator.rulesStrings.2>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</Slight.logRulesInitiator.rulesStrings.2>
+	<Slight.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</Slight.logRulesInitiator.rulesStrings.3>
+	<Slight.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef] [PersonFamily]</Slight.logRulesInitiator.rulesStrings.4>
+	<Slight.logRulesInitiator.rulesStrings.5>madefunof->Châm chọc</Slight.logRulesInitiator.rulesStrings.5>
+	<Slight.logRulesInitiator.rulesStrings.6>madefunof->Thiếu tôn trọng</Slight.logRulesInitiator.rulesStrings.6>
+	<Slight.logRulesInitiator.rulesStrings.7>madefunof->Khinh thường một cách tinh tế</Slight.logRulesInitiator.rulesStrings.7>
+	<Slight.logRulesInitiator.rulesStrings.8>madefunof-> nhục mạ một cách khéo léo</Slight.logRulesInitiator.rulesStrings.8>
+	<Slight.logRulesInitiator.rulesStrings.9>madefunof->Chế nhạo</Slight.logRulesInitiator.rulesStrings.9>
+	<Slight.logRulesInitiator.rulesStrings.10>madefunof->Không mấy lạc quan</Slight.logRulesInitiator.rulesStrings.10>
+	<Slight.logRulesInitiator.rulesStrings.11>madefunof->Châm biếm</Slight.logRulesInitiator.rulesStrings.11>
+	<Slight.logRulesInitiator.rulesStrings.12>madefunof->Cười thầm</Slight.logRulesInitiator.rulesStrings.12>
+	<Slight.logRulesInitiator.rulesStrings.13>madefunof->Phủ nhận một cách nhẹ nhàng</Slight.logRulesInitiator.rulesStrings.13>
+	<Slight.logRulesInitiator.rulesStrings.14>madefunof->Xem thường</Slight.logRulesInitiator.rulesStrings.14>
+	<Slight.logRulesInitiator.rulesStrings.15>madefunof->Đánh giá một cách khinh miệt</Slight.logRulesInitiator.rulesStrings.15>
+	<Slight.logRulesInitiator.rulesStrings.16>madefunof->Khen ngợi một cách mỉa mai</Slight.logRulesInitiator.rulesStrings.16>
+</LanguageData>

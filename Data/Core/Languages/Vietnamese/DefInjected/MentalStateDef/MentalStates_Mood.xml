@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BedroomTantrum.label>Cơn giận dữ</BedroomTantrum.label>
+	<BedroomTantrum.baseInspectLine>Tình trạng tâm lý: Cơn giận dữ</BedroomTantrum.baseInspectLine>
+	<BedroomTantrum.beginLetter>{0} đang nổi giận. [PAWN_pronoun] dự định phá hủy đồ đạc trong phòng của mình.</BedroomTantrum.beginLetter>
+	<BedroomTantrum.beginLetterLabel>Cơn giận dữ</BedroomTantrum.beginLetterLabel>
+	<BedroomTantrum.recoveryMessage>{0} không còn nổi giận nữa.</BedroomTantrum.recoveryMessage>
+	<Berserk.label>Cuồng loạn</Berserk.label>
+	<Berserk.baseInspectLine>Tình trạng tâm lý: Cuồng loạn</Berserk.baseInspectLine>
+	<Berserk.beginLetter>{0} đã trở nên cuồng loạn!\n\n[PAWN_pronoun] sẽ tấn công bất kỳ ai mà [PAWN_pronoun] nhìn thấy.</Berserk.beginLetter>
+	<Berserk.beginLetterLabel>Cuồng loạn</Berserk.beginLetterLabel>
+	<Berserk.recoveryMessage>{0} không còn cuồng loạn nữa.</Berserk.recoveryMessage>
+	<Binging_DrugExtreme.label>Nghiện chất kích thích</Binging_DrugExtreme.label>
+	<Binging_DrugExtreme.baseInspectLine>Tình trạng tâm lý: Nghiện {0}</Binging_DrugExtreme.baseInspectLine>
+	<Binging_DrugMajor.label>Lạm dụng chất kích thích</Binging_DrugMajor.label>
+	<Binging_DrugMajor.baseInspectLine>Tình trạng tâm lý: Lạm dụng {0}</Binging_DrugMajor.baseInspectLine>
+	<Binging_Food.label>Ăn uống thái quá</Binging_Food.label>
+	<Binging_Food.baseInspectLine>Tình trạng tâm lý: Ăn uống thái quá</Binging_Food.baseInspectLine>
+	<Binging_Food.beginLetter>{0} đang ăn uống thái quá.</Binging_Food.beginLetter>
+	<Binging_Food.beginLetterLabel>Ăn uống thái quá</Binging_Food.beginLetterLabel>
+	<Binging_Food.recoveryMessage>{0} không còn ăn uống thái quá nữa.</Binging_Food.recoveryMessage>
+	<CorpseObsession.label>Ám ảnh xác chết</CorpseObsession.label>
+	<CorpseObsession.baseInspectLine>Tình trạng tâm lý: Ám ảnh xác chết</CorpseObsession.baseInspectLine>
+	<CorpseObsession.beginLetter>{0} đã rơi vào ám ảnh xác chết. [PAWN_pronoun] dự định đào một cái xác lên và chiêm ngưỡng cùng người khác.</CorpseObsession.beginLetter>
+	<CorpseObsession.beginLetterLabel>Ám ảnh xác chết</CorpseObsession.beginLetterLabel>
+	<CorpseObsession.recoveryMessage>{0} không còn ám ảnh xác chết nữa.</CorpseObsession.recoveryMessage>
+	<FireStartingSpree.label>Đốt phá</FireStartingSpree.label>
+	<FireStartingSpree.baseInspectLine>Tình trạng tâm lý: Đốt phá</FireStartingSpree.baseInspectLine>
+	<FireStartingSpree.beginLetter>{0} đang đốt phá khắp nơi!\n\n[PAWN_pronoun] sẽ đi xung quanh và đốt cháy mọi thứ.</FireStartingSpree.beginLetter>
+	<FireStartingSpree.beginLetterLabel>Đốt phá</FireStartingSpree.beginLetterLabel>
+	<FireStartingSpree.recoveryMessage>{0} không còn đốt phá nữa.</FireStartingSpree.recoveryMessage>
+	<GiveUpExit.label>Bỏ cuộc ra đi</GiveUpExit.label>
+	<GiveUpExit.baseInspectLine>Tình trạng tâm lý: Bỏ cuộc ra đi</GiveUpExit.baseInspectLine>
+	<GiveUpExit.beginLetter>{0} đã từ bỏ và rời khỏi thuộc địa.\n\n[PAWN_pronoun] quyết định rời đi để tìm kiếm cuộc sống tốt hơn ở nơi khác.</GiveUpExit.beginLetter>
+	<GiveUpExit.beginLetterLabel>Bỏ cuộc</GiveUpExit.beginLetterLabel>
+	<GiveUpExit.recoveryMessage>{0} đã thay đổi quyết định và quay lại thuộc địa.</GiveUpExit.recoveryMessage>
+	<InsultingSpree.label>Chửi bới</InsultingSpree.label>
+	<InsultingSpree.baseInspectLine>Tình trạng tâm lý: Chửi bới</InsultingSpree.baseInspectLine>
+	<InsultingSpree.beginLetter>{0} bắt đầu chửi bới.</InsultingSpree.beginLetter>
+	<InsultingSpree.beginLetterLabel>Chửi bới</InsultingSpree.beginLetterLabel>
+	<InsultingSpree.recoveryMessage>{0} không còn chửi bới nữa.</InsultingSpree.recoveryMessage>
+	<Jailbreaker.label>Kích động tù nhân vượt ngục</Jailbreaker.label>
+	<Jailbreaker.baseInspectLine>Tình trạng tâm lý: Kẻ vượt ngục</Jailbreaker.baseInspectLine>
+	<Jailbreaker.beginLetter>{0} đã mất trí và đang có kế hoạch kích động tù nhân vượt ngục.</Jailbreaker.beginLetter>
+	<Jailbreaker.beginLetterLabel>Kẻ vượt ngục</Jailbreaker.beginLetterLabel>
+	<Jailbreaker.recoveryMessage>{0} không còn kích động tù nhân vượt ngục nữa.</Jailbreaker.recoveryMessage>
+	<MurderousRage.label>Giết người điên cuồng</MurderousRage.label>
+	<MurderousRage.baseInspectLine>Tình trạng tâm lý: Giết người điên cuồng</MurderousRage.baseInspectLine>
+	<MurderousRage.beginLetter>{0} đã rơi vào trạng thái giết người điên cuồng.\n\n[PAWN_pronoun] đang có kế hoạch giết {1}.</MurderousRage.beginLetter>
+	<MurderousRage.beginLetterLabel>Giết người điên cuồng</MurderousRage.beginLetterLabel>
+	<MurderousRage.recoveryMessage>{0} không còn giết người điên cuồng nữa.</MurderousRage.recoveryMessage>
+	<SadisticRage.label>Hành hạ điên cuồng</SadisticRage.label>
+	<SadisticRage.baseInspectLine>Tình trạng tâm lý: Hành hạ điên cuồng</SadisticRage.baseInspectLine>
+	<SadisticRage.beginLetter>{0} đã rơi vào trạng thái hành hạ điên cuồng. [PAWN_pronoun] đang có kế hoạch trút giận lên tù nhân.</SadisticRage.beginLetter>
+	<SadisticRage.beginLetterLabel>Hành hạ điên cuồng</SadisticRage.beginLetterLabel>
+	<SadisticRage.recoveryMessage>{0} không còn hành hạ điên cuồng nữa.</SadisticRage.recoveryMessage>
+	<Slaughterer.label>Thợ mổ</Slaughterer.label>
+	<Slaughterer.baseInspectLine>Tình trạng tâm lý: Thợ mổ</Slaughterer.baseInspectLine>
+	<Slaughterer.beginLetter>{0} đã mất trí và đang có kế hoạch trút giận lên những con vật của bạn.</Slaughterer.beginLetter>
+	<Slaughterer.beginLetterLabel>Thợ mổ</Slaughterer.beginLetterLabel>
+	<Slaughterer.recoveryMessage>{0} không còn tàn sát động vật một cách ngẫu nhiên nữa.</Slaughterer.recoveryMessage>
+	<Tantrum.label>Cơn giận dữ</Tantrum.label>
+	<Tantrum.baseInspectLine>Tình trạng tâm lý: Cơn giận dữ</Tantrum.baseInspectLine>
+	<Tantrum.beginLetter>{0} đang nổi giận.\n\n[PAWN_pronoun] sẽ ngẫu nhiên phá hủy đồ đạc, vật phẩm hoặc cấu trúc như tường.</Tantrum.beginLetter>
+	<Tantrum.beginLetterLabel>Cơn giận dữ</Tantrum.beginLetterLabel>
+	<Tantrum.recoveryMessage>{0} không còn nổi giận nữa.</Tantrum.recoveryMessage>
+	<TargetedInsultingSpree.label>Chửi bới</TargetedInsultingSpree.label>
+	<TargetedInsultingSpree.baseInspectLine>Tình trạng tâm lý: Chửi bới {0}</TargetedInsultingSpree.baseInspectLine>
+	<TargetedInsultingSpree.beginLetter>{0} chuẩn bị trút giận lên {1}.\n\n[PAWN_pronoun] sẽ theo sát {1} và chửi bới.</TargetedInsultingSpree.beginLetter>
+	<TargetedInsultingSpree.beginLetterLabel>Chửi bới</TargetedInsultingSpree.beginLetterLabel>
+	<TargetedInsultingSpree.recoveryMessage/>
+	<TargetedTantrum.label>Cơn giận dữ</TargetedTantrum.label>
+	<TargetedTantrum.baseInspectLine>Tình trạng tâm lý: Cơn giận dữ</TargetedTantrum.baseInspectLine>
+	<TargetedTantrum.beginLetter>{0} đang nổi giận. [PAWN_pronoun] dự định phá hủy {1}.</TargetedTantrum.beginLetter>
+	<TargetedTantrum.beginLetterLabel>Cơn giận dữ</TargetedTantrum.beginLetterLabel>
+	<TargetedTantrum.recoveryMessage>{0} không còn nổi giận nữa.</TargetedTantrum.recoveryMessage>
+	<Wander_OwnRoom.label>Khép mình</Wander_OwnRoom.label>
+	<Wander_OwnRoom.baseInspectLine>Tình trạng tâm lý: Khép mình</Wander_OwnRoom.baseInspectLine>
+	<Wander_OwnRoom.beginLetter>{0} đã trốn trong phòng của mình.</Wander_OwnRoom.beginLetter>
+	<Wander_OwnRoom.beginLetterLabel>Khép mình</Wander_OwnRoom.beginLetterLabel>
+	<Wander_OwnRoom.recoveryMessage>{0} không còn trốn trong phòng của mình nữa.</Wander_OwnRoom.recoveryMessage>
+	<Wander_Psychotic.label>Đi lang thang mất trí</Wander_Psychotic.label>
+	<Wander_Psychotic.baseInspectLine>Tình trạng tâm lý: Đi lang thang mất trí</Wander_Psychotic.baseInspectLine>
+	<Wander_Psychotic.beginLetter>{0} đang lang thang vì mất trí.</Wander_Psychotic.beginLetter>
+	<Wander_Psychotic.beginLetterLabel>Mất trí</Wander_Psychotic.beginLetterLabel>
+	<Wander_Psychotic.recoveryMessage>{0} đã tỉnh táo lại và không còn lang thang mất trí nữa.</Wander_Psychotic.recoveryMessage>
+	<Wander_Psychotic_Short.label>Đi lang thang mất trí</Wander_Psychotic_Short.label>
+	<Wander_Psychotic_Short.baseInspectLine>Tình trạng tâm lý: Đi lang thang mất trí</Wander_Psychotic_Short.baseInspectLine>
+	<Wander_Psychotic_Short.beginLetter>{0} đang lang thang vì mất trí.</Wander_Psychotic_Short.beginLetter>
+	<Wander_Psychotic_Short.beginLetterLabel>Mất trí</Wander_Psychotic_Short.beginLetterLabel>
+	<Wander_Psychotic_Short.recoveryMessage>{0} đã tỉnh táo lại và không còn lang thang mất trí nữa.</Wander_Psychotic_Short.recoveryMessage>
+	<Wander_Sad.label>Đi lang thang buồn bã</Wander_Sad.label>
+	<Wander_Sad.baseInspectLine>Tình trạng tâm lý: Đi lang thang buồn bã</Wander_Sad.baseInspectLine>
+	<Wander_Sad.beginLetter>{0} đang lang thang vì quá buồn.</Wander_Sad.beginLetter>
+	<Wander_Sad.beginLetterLabel>Đi lang thang buồn bã</Wander_Sad.beginLetterLabel>
+	<Wander_Sad.recoveryMessage>{0} đã tỉnh táo lại và không còn lang thang buồn bã nữa.</Wander_Sad.recoveryMessage>
+</LanguageData>

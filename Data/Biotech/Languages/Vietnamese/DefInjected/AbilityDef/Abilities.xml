@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcidSpray.label>Phun axit</AcidSpray.label>
+<AcidSpray.description>Phun ra chất lỏng axit nhớt từ tuyến ở cổ, phun ra ngoài qua miệng. Các mục tiêu bị chất axit bám vào sẽ bị bỏng.</AcidSpray.description>
+<AnimalWarcall.label>Tiếng gọi thú</AnimalWarcall.label>
+<AnimalWarcall.description>Gọi một con thú chiến đấu cho bạn thông qua tiếng gầm mạnh mẽ, tạo liên kết tâm linh.</AnimalWarcall.description>
+<AnimalWarcall.verbProperties.label>Tiếng gọi thú</AnimalWarcall.verbProperties.label>
+<AnimalWarcall.verbProperties.mouseTargetingText>Chọn thú để gọi</AnimalWarcall.verbProperties.mouseTargetingText>
+<Bloodfeed.label>Hút máu</Bloodfeed.label>
+<Bloodfeed.description>Cắn vào mục tiêu để lấy huyết tương từ máu. Mục tiêu sẽ mất máu và cảm thấy hoảng sợ, ngoài ra không bị tổn thương khác. Đồng thời tiết ra một loại thuốc đông máu nhanh chóng ngăn chặn chảy máu.\n\nChỉ có thể nhắm vào con người không bị khát máu. Lượng huyết tương thu được phụ thuộc vào kích thước của mục tiêu.</Bloodfeed.description>
+<Coagulate.label>Đông máu</Coagulate.label>
+<Coagulate.description>Sử dụng tuyến đặc biệt trên cổ tay để băng bó nhanh chóng vết thương của nạn nhân.</Coagulate.description>
+<FireBurst.label>Phun lửa</FireBurst.label>
+<FireBurst.description>Phun chất lỏng dễ cháy ra xung quanh, tạo thành khu vực dễ cháy trên mặt đất.</FireBurst.description>
+<FirefoampopMech.label>Bọt chống cháy</FirefoampopMech.label>
+<FirefoampopMech.description>Phát ra bọt chống cháy có khả năng dập lửa.</FirefoampopMech.description>
+<FireSpew.label>Phun lửa</FireSpew.label>
+<FireSpew.description>Phun ra chất lỏng dễ cháy nhớt từ miệng. Chất lỏng dễ cháy có thể khiến bất kỳ vật thể nào bị bám vào cháy, đồng thời tạo thành khu vực cháy trên mặt đất.\n\nChất lỏng dễ cháy được lưu trữ trong một cơ quan đặc biệt ở cổ và một túi tự bốc cháy để đốt cháy.</FireSpew.description>
+<FoamSpray.label>Phun bọt</FoamSpray.label>
+<FoamSpray.description>Phun ra bọt chống cháy dày từ cổ qua miệng. Bọt sẽ bao phủ một khu vực, dập tắt tất cả ngọn lửa trong khu vực đó.</FoamSpray.description>
+<Longjump.label>Nhảy xa</Longjump.label>
+<Longjump.description>Sử dụng huyết tương để nhảy xa bằng đùi.</Longjump.description>
+<Longjump.verbProperties.label>Nhảy</Longjump.verbProperties.label>
+<LongjumpMech.label>Nhảy máy móc</LongjumpMech.label>
+<LongjumpMech.description>Nhảy xa bằng cách sử dụng cấu trúc máy móc siêu nhanh đặc biệt.</LongjumpMech.description>
+<LongjumpMech.verbProperties.label>Nhảy</LongjumpMech.verbProperties.label>
+<LongjumpMechLauncher.label>Máy phóng nhảy</LongjumpMechLauncher.label>
+<LongjumpMechLauncher.description>Nhảy xa bằng máy phóng nhảy.</LongjumpMechLauncher.description>
+<LongjumpMechLauncher.verbProperties.label>Nhảy</LongjumpMechLauncher.verbProperties.label>
+<PiercingSpine.label>Cột sống xuyên thấu</PiercingSpine.label>
+<PiercingSpine.description>Phóng cột sống được tạo ra từ huyết tương vào mục tiêu. Cột sống phóng ra từ lỗ hình trụ ở ngực. Do cách phóng, việc nhắm mục tiêu trở nên rất đơn giản.</PiercingSpine.description>
+<ReimplantXenogerm.label>Ghim gen</ReimplantXenogerm.label>
+<ReimplantXenogerm.description>Sử dụng cơ quan tiêm đặc biệt để cấy phôi chứa bản sao gen ngoại lai vào cơ thể mục tiêu. Nếu gen ngoại lai của người cấy vẫn trong trạng thái tái cấu trúc, điều này sẽ dẫn đến cái chết của họ.\n\nSau khi cấy, gen của phôi ngoại lai sẽ che phủ gen ngoại lai của người được cấy, trong khi gen huyết thống không bị ảnh hưởng.</ReimplantXenogerm.description>
+<Resurrect.label>Hồi sinh</Resurrect.label>
+<Resurrect.description>Tiêm nano máy vào xác chết để mang lại sự sống mới, sửa chữa cấu trúc tế bào suy thoái và nhanh chóng khôi phục chức năng của các cơ quan. Thời gian chết càng lâu, xác chết càng khó bảo quản, khả năng mất trí nhớ và có vấn đề sức khỏe sau khi hồi sinh càng cao. Khả năng này dường như tiêu tốn nano máy, vì vậy số lần sử dụng rất ít.</Resurrect.description>
+<ResurrectionMech.label>Hồi sinh máy móc</ResurrectionMech.label>
+<ResurrectionMech.description>Quá tải hệ thống tự sửa chữa của máy móc vừa chết gần đó, khiến chúng hồi sinh với một số thương tích.</ResurrectionMech.description>
+<SmokepopMech.label>Khói máy móc</SmokepopMech.label>
+<SmokepopMech.description>Phát ra khói nén từ lỗ thông gió ẩn, có thể làm rối tầm ngắm của vũ khí từ xa và ngăn chặn các đơn vị trong khói bị tháp pháo khóa mục tiêu.</SmokepopMech.description>
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClimateAdjustment.label>Điều Chỉnh Khí Hậu</ClimateAdjustment.label>
+<ClimateAdjustment.description>Thiết bị điều chỉnh khí hậu gần đó đang thay đổi nhiệt độ.</ClimateAdjustment.description>
+<ClimateAdjustment.letterText>Một thiết bị điều chỉnh khí hậu đã bắt đầu thay đổi nhiệt độ xung quanh.</ClimateAdjustment.letterText>
+<EMIField.label>Trường Can Thiệp Điện Từ</EMIField.label>
+<EMIField.description>Thiết bị can thiệp điện từ đang phát ra trường điện từ, làm cho các thiết bị điện gần đó không thể sử dụng.</EMIField.description>
+<EMIField.descriptionFuture>Một thiết bị can thiệp điện từ ở xa sẽ phát ra trường điện từ đến [map_definite], làm tắt các thiết bị điện trong [gameConditionDuration_duration].</EMIField.descriptionFuture>
+<EMIField.endMessage>Trường can thiệp điện từ đã biến mất.</EMIField.endMessage>
+<EMIField.letterText>Trường can thiệp điện từ đã được tạo ra, điều này sẽ làm cho các thiết bị điện không thể sử dụng.</EMIField.letterText>
+<GiantSmokeCloud.label>Đám Khói Khổng Lồ</GiantSmokeCloud.label>
+<GiantSmokeCloud.description>Một thiết bị tạo khói gần đó đang phun ra một lượng lớn khói, làm giảm ánh sáng mặt trời trên toàn khu vực.</GiantSmokeCloud.description>
+<GiantSmokeCloud.letterText>Một thiết bị tạo khói đã bắt đầu che khuất mặt trời.</GiantSmokeCloud.letterText>
+<PsychicSuppression.label>Đè Nén Tâm Linh</PsychicSuppression.label>
+<PsychicSuppression.description>Một trường đè nén tâm linh đang ảnh hưởng đến {0} và làm giảm ý thức của họ. Hiệu ứng này sẽ khác nhau tùy theo độ nhạy tâm linh.</PsychicSuppression.description>
+<PsychicSuppression.descriptionFuture>Một làn sóng đè nén tâm linh sẽ làm giảm tất cả các thành viên [map_definite] [psychicSuppressorGender] trong [gameConditionDuration_duration].</PsychicSuppression.descriptionFuture>
+<PsychicSuppression.endMessage>Làn sóng đè nén tâm linh đã tan biến.</PsychicSuppression.endMessage>
+<PsychicSuppression.letterText>Một trường đè nén tâm linh đã bắt đầu ảnh hưởng đến toàn bộ khu vực {0} và làm giảm ý thức của họ. Hiệu ứng này sẽ khác nhau tùy theo độ nhạy tâm linh.</PsychicSuppression.letterText>
+<SunBlocker.label>Bức Màn Tối</SunBlocker.label>
+<SunBlocker.description>Một thiết bị tạo bức màn tối gần đó đang thay đổi chỉ số khúc xạ của không khí, khiến không khí chặn ánh sáng mặt trời.</SunBlocker.description>
+<SunBlocker.letterText>Một thiết bị tạo bức màn tối đã bắt đầu chặn ánh sáng mặt trời.</SunBlocker.letterText>
+<ToxicSpewer.label>Ô Nhiễm Không Khí</ToxicSpewer.label>
+<ToxicSpewer.description>Một thiết bị ô nhiễm không khí gần đó đang phát tán khói độc hại ra toàn bộ khu vực.</ToxicSpewer.description>
+<ToxicSpewer.letterText>Một thiết bị ô nhiễm không khí gần đó đã bắt đầu phát tán khói độc hại ra toàn bộ khu vực.</ToxicSpewer.letterText>
+<WeatherController.label>Điều Khiển Thời Tiết</WeatherController.label>
+<WeatherController.description>Một thiết bị thao tác khí tượng gần đó đang cưỡng chế thay đổi thời tiết thành cấu hình đã được thiết lập trước.</WeatherController.description>
+<WeatherController.descriptionFuture>Một hệ thống thao tác khí tượng sẽ cưỡng chế thay đổi thời tiết của [map_definite] thành [forcedWeather_indefinite] trong [gameConditionDuration_duration].</WeatherController.descriptionFuture>
+<WeatherController.endMessage>Thiết bị thao tác khí tượng không còn thay đổi thời tiết nữa.</WeatherController.endMessage>
+<WeatherController.letterText>Một thiết bị thao tác khí tượng đã bắt đầu ảnh hưởng đến thời tiết.</WeatherController.letterText>
+</LanguageData>

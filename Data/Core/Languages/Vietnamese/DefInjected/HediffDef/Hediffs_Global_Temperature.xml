@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Heatstroke.label>Say nắng</Heatstroke.label>
+	<Heatstroke.description>Trạng thái mất cân bằng nhiệt độ trong cơ thể do tiếp xúc lâu dài với môi trường nhiệt độ cao và ánh nắng mặt trời. Bệnh nhân sẽ cảm thấy chóng mặt, yếu đuối và bối rối. Say nắng sẽ tự nhiên hồi phục sau khi bệnh nhân vào nơi mát mẻ. Nhưng nếu bệnh nhân tiếp tục hoạt động trong môi trường nhiệt độ cao, say nắng sẽ trở nên nghiêm trọng hơn cho đến khi bệnh nhân chết.</Heatstroke.description>
+	<Heatstroke.stages.initial-0.label>Nhẹ</Heatstroke.stages.initial-0.label>
+	<Heatstroke.stages.initial-1.label>Khá nhẹ</Heatstroke.stages.initial-1.label>
+	<Heatstroke.stages.minor.label>Vừa phải</Heatstroke.stages.minor.label>
+	<Heatstroke.stages.serious.label>Nghiêm trọng</Heatstroke.stages.serious.label>
+	<Heatstroke.stages.extreme.label>Cực kỳ nghiêm trọng</Heatstroke.stages.extreme.label>
+	<Hypothermia.label>Hạ thân nhiệt</Hypothermia.label>
+	<Hypothermia.description>Trạng thái mất cân bằng nhiệt độ trong cơ thể do tiếp xúc lâu dài với môi trường lạnh. Hạ thân nhiệt sẽ tự nhiên hồi phục khi bệnh nhân vào nơi ấm áp. Nhưng nếu bệnh nhân tiếp tục hoạt động trong môi trường lạnh, hạ thân nhiệt sẽ trở nên nghiêm trọng hơn cho đến khi bệnh nhân chết.</Hypothermia.description>
+	<Hypothermia.stages.shivering-0.label>Nhẹ</Hypothermia.stages.shivering-0.label>
+	<Hypothermia.stages.shivering-1.label>Khá nhẹ</Hypothermia.stages.shivering-1.label>
+	<Hypothermia.stages.minor.label>Vừa phải</Hypothermia.stages.minor.label>
+	<Hypothermia.stages.serious.label>Nghiêm trọng</Hypothermia.stages.serious.label>
+	<Hypothermia.stages.extreme.label>Cực kỳ nghiêm trọng</Hypothermia.stages.extreme.label>
+	<HypothermicSlowdown.label>Hạ thân nhiệt mãn tính</HypothermicSlowdown.label>
+	<HypothermicSlowdown.description>Một trạng thái sống đặc biệt được một số sinh vật sử dụng để sống sót trong môi trường cực lạnh. Mặc dù nhiệt độ rất lạnh, nhưng hệ thống tuần hoàn của sinh vật này sẽ tự động thích nghi với môi trường, ngăn chặn dịch cơ thể đóng băng. Chức năng cơ thể của sinh vật trong trạng thái này sẽ suy giảm cho đến khi nhiệt độ ấm lên. Các nhà sinh học thường gọi đây là "một dạng ngủ đông tỉnh táo".</HypothermicSlowdown.description>
+	<HypothermicSlowdown.stages.minor-0.label>Nhẹ</HypothermicSlowdown.stages.minor-0.label>
+	<HypothermicSlowdown.stages.minor-1.label>Khá nhẹ</HypothermicSlowdown.stages.minor-1.label>
+	<HypothermicSlowdown.stages.moderate.label>Vừa phải</HypothermicSlowdown.stages.moderate.label>
+	<HypothermicSlowdown.stages.serious.label>Nghiêm trọng</HypothermicSlowdown.stages.serious.label>
+	<HypothermicSlowdown.stages.extreme.label>Cực kỳ nghiêm trọng</HypothermicSlowdown.stages.extreme.label>
+</LanguageData>

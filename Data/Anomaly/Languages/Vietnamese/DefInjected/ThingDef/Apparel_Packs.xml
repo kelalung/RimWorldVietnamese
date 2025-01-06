@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_DeadlifePack.label>Balo xác sống</Apparel_DeadlifePack.label>
+	<Apparel_DeadlifePack.description>Một chiếc ba lô dùng một lần có thể phóng ra các viên nang xác sống. Sau khi viên nang phát nổ, nó sẽ giải phóng bụi xác sống, có khả năng chuyển đổi các xác chết của con người và động vật xung quanh thành những xác sống đi lảo đảo. Những xác sống này chỉ tấn công kẻ thù của bạn.\n\nBụi xác sống được tạo thành từ các vi mạch siêu phàm trôi nổi trong không khí, khi bám vào xác chết, sẽ gây ra phản ứng hỗn loạn và dữ dội, giúp chúng phục hồi khả năng hoạt động.</Apparel_DeadlifePack.description>
+	<Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>Tiếp năng lượng</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+	<Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>Giải phóng bụi xác sống</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
+	<Apparel_DisruptorFlarePack.label>Balo chớp sáng</Apparel_DisruptorFlarePack.label>
+	<Apparel_DisruptorFlarePack.description>Một chiếc ba lô chức năng có thể phóng ra đạn sáng. Khi đạn rơi xuống đất, thép sống bên trong sẽ bùng cháy mạnh mẽ, tạo ra ánh sáng chói và gây ra sự nhiễu loạn tâm linh trong một khu vực nhỏ. Có khả năng làm cho các sinh vật nhạy cảm với tâm linh bị choáng trong một thời gian ngắn, và khiến các sinh vật vô hình không thể trốn thoát, đồng thời giảm ý thức và tốc độ di chuyển của chúng trong một thời gian ngắn. Sau đó, đạn sáng sẽ tiếp tục cháy, chiếu sáng một khu vực lớn trong một khoảng thời gian.</Apparel_DisruptorFlarePack.description>
+	<Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>Đạn sáng</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
+	<Apparel_DisruptorFlarePack.verbs.deploy_flare.label>Phóng đạn sáng</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
+	<Apparel_PackTurret.label>Balo tháp pháo</Apparel_PackTurret.label>
+	<Apparel_PackTurret.description>Một chiếc ba lô dùng một lần có thể triển khai tháp pháo chiến thuật được cấp điện bởi pin tích hợp. Balo có thiết bị đẩy sẵn có thể phóng tháp pháo trong khoảng cách ngắn. Tháp pháo này có thể bao vây kẻ thù một cách hiệu quả và phân tán sự chú ý của chúng. Vì tháp pháo hoạt động bằng trí tuệ nhân tạo nên không thể điều khiển trực tiếp, vì vậy hãy cẩn thận để tránh bắn nhầm đồng đội. Pin tích hợp của tháp pháo có thể hoạt động trong vài giờ.</Apparel_PackTurret.description>
+	<Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>Tiếp năng lượng</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
+	<Apparel_PackTurret.verbs.deploy_turret.label>Triển khai tháp pháo chiến thuật</Apparel_PackTurret.verbs.deploy_turret.label>
+	<DisruptorFlare.label>Đạn sáng</DisruptorFlare.label>
+	<Grenade_Deadlife.label>Viên nang xác sống</Grenade_Deadlife.label>
+	<Grenade_DisruptorFlare.label>Đạn sáng</Grenade_DisruptorFlare.label>
+	<Grenade_TurretPack.label>Viên nang tháp pháo</Grenade_TurretPack.label>
+</LanguageData>

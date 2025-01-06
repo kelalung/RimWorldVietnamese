@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CochlearImplant.label>Implant tai nhân tạo</CochlearImplant.label>
+	<CochlearImplant.description>Một implant tai nhân tạo đã được lắp đặt. Các điện cực quấn quanh tai trong kích thích dây thần kinh thính giác, truyền tín hiệu âm thanh từ bên ngoài đến người lắp đặt. Hiệu suất không bằng tai sinh học ban đầu, nhưng rõ ràng tốt hơn là bị điếc.</CochlearImplant.description>
+	<CochlearImplant.labelNoun>Implant tai nhân tạo</CochlearImplant.labelNoun>
+	<Joywire.label>Chip Joywire</Joywire.label>
+	<Joywire.description>Một chip Joywire đã được lắp đặt. Mặc dù nó cải thiện tâm trạng của người lắp đặt rất nhiều, nhưng cảm giác vui vẻ khiến người ta khó tập trung vào bất kỳ việc gì thực sự. Chip Joywire bị cấm ở nhiều nơi và nổi tiếng vì đã phá hủy toàn bộ văn hóa.</Joywire.description>
+	<Joywire.labelNoun>Chip Joywire</Joywire.labelNoun>
+	<Painstopper.label>Chip giảm đau</Painstopper.label>
+	<Painstopper.description>Một chip giảm đau đã được lắp đặt. Mặc dù nó thực sự giúp người lắp đặt hoàn thành nhiều công việc hơn, nhưng cảm giác đau đớn là một cơ chế tự bảo vệ quan trọng đối với sinh vật, nếu mất đi cảm giác đau, sẽ dễ dàng bị tổn thương nghiêm trọng hơn.</Painstopper.description>
+	<Painstopper.labelNoun>Chip giảm đau</Painstopper.labelNoun>
+	<PowerClaw.label>Claw năng lượng</PowerClaw.label>
+	<PowerClaw.description>Một claw năng lượng đã được lắp đặt. Nó bao gồm một bàn tay cơ khí, với mỗi ngón tay được trang bị móng vuốt hình móc. Lực cắt của nó rất mạnh, đủ để nghiền nát hộp sọ như bóp một quả trứng. Móng vuốt có thể thu lại, cho phép nó hoạt động như một bàn tay tự nhiên trong các nhiệm vụ không chiến đấu, nhưng điều này sẽ ảnh hưởng đến khả năng phối hợp của chi thể và làm giảm khả năng di chuyển.</PowerClaw.description>
+	<PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>Móng vuốt</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+	<PowerClaw.labelNoun>Claw năng lượng</PowerClaw.labelNoun>
+	<SimpleProstheticArm.label>Cánh tay giả đơn giản</SimpleProstheticArm.label>
+	<SimpleProstheticArm.description>Một cánh tay giả đơn giản đã được lắp đặt. Mặc dù không được trang bị giao diện thần kinh, nhưng cấu trúc khớp phức tạp cho phép nó mô phỏng các hoạt động tự nhiên ở mức độ lớn. Tuy nhiên, nó vẫn không bằng chi thể sinh học ban đầu.</SimpleProstheticArm.description>
+	<SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>Đấm</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+	<SimpleProstheticArm.labelNoun>Cánh tay giả đơn giản</SimpleProstheticArm.labelNoun>
+	<SimpleProstheticHeart.label>Tim nhân tạo</SimpleProstheticHeart.label>
+	<SimpleProstheticHeart.description>Một trái tim nhân tạo đã được lắp đặt. Động cơ điện tích hợp có thể vận chuyển máu ổn định đến toàn bộ cơ thể. Mặc dù người lắp đặt thường báo cáo cảm thấy yếu đuối, nhưng rõ ràng vẫn tốt hơn các lựa chọn khác.</SimpleProstheticHeart.description>
+	<SimpleProstheticHeart.labelNoun>Tim nhân tạo</SimpleProstheticHeart.labelNoun>
+	<SimpleProstheticLeg.label>Chân giả đơn giản</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.description>Một chân giả đơn giản đã được lắp đặt. Mặc dù không được trang bị giao diện thần kinh, nhưng cấu trúc khớp phức tạp cho phép nó mô phỏng các hoạt động tự nhiên ở mức độ lớn. Tuy nhiên, nó vẫn không bằng chi thể sinh học ban đầu.</SimpleProstheticLeg.description>
+	<SimpleProstheticLeg.labelNoun>Chân giả đơn giản</SimpleProstheticLeg.labelNoun>
+</LanguageData>

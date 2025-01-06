@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeleeDoorDamageFactor.label>Hệ số sát thương cửa gần</MeleeDoorDamageFactor.label>
+<MeleeDoorDamageFactor.description>Hệ số nhân sát thương gần cho cửa.</MeleeDoorDamageFactor.description>
+<ShootingAccuracyChildFactor.label>Hệ số độ chính xác bắn trẻ em</ShootingAccuracyChildFactor.label>
+</LanguageData>

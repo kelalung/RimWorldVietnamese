@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientAltar.label>Di tích kiến trúc cổ</AncientAltar.label>
+<AncientAltar.description>Một khu kiến trúc cổ chứa đựng di vật.</AncientAltar.description>
+<AncientAltar.approachingReportString>Điều tra {0}</AncientAltar.approachingReportString>
+<AncientAltar.approachOrderString>Điều tra {0}</AncientAltar.approachOrderString>
+<AncientAltar.arrivedLetter>Trong khu vực này có một công trình cổ đại, bên trong lưu giữ một di vật.</AncientAltar.arrivedLetter>
+</LanguageData>

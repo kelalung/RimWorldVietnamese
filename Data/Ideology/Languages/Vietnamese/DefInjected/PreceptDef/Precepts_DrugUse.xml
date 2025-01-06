@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DrugUse_MedicalOnly.label>Chỉ y tế</DrugUse_MedicalOnly.label>
+<DrugUse_MedicalOnly.description>Độc hại cơ thể vì mục đích giải trí là một hành động rất phi đạo đức.</DrugUse_MedicalOnly.description>
+<DrugUse_MedicalOnly.comps.2.description>Sử dụng chất gây nghiện</DrugUse_MedicalOnly.comps.2.description>
+<DrugUse_MedicalOnly.comps.5.description>Áp dụng chất gây nghiện</DrugUse_MedicalOnly.comps.5.description>
+<DrugUse_MedicalOrSocial.label>Y tế hoặc xã hội</DrugUse_MedicalOrSocial.label>
+<DrugUse_MedicalOrSocial.description>Uống một ly hoặc hút một điếu là được, đặc biệt là khi ở cùng bạn bè, nhưng độc hại cơ thể bằng hóa chất mạnh là sai.</DrugUse_MedicalOrSocial.description>
+<DrugUse_MedicalOrSocial.comps.2.description>Sử dụng chất gây nghiện mạnh</DrugUse_MedicalOrSocial.comps.2.description>
+<DrugUse_MedicalOrSocial.comps.5.description>Áp dụng chất gây nghiện mạnh</DrugUse_MedicalOrSocial.comps.5.description>
+<DrugUse_Prohibited.label>Cấm kỵ</DrugUse_Prohibited.label>
+<DrugUse_Prohibited.description>Cơ thể tuyệt đối không nên bị độc hại bởi hóa chất. Ngoại trừ trong việc sử dụng thuốc trong chăm sóc y tế trực tiếp.</DrugUse_Prohibited.description>
+<DrugUse_Prohibited.comps.0.description>Sử dụng chất gây nghiện</DrugUse_Prohibited.comps.0.description>
+<DrugUse_Prohibited.comps.5.description>Áp dụng chất gây nghiện</DrugUse_Prohibited.comps.5.description>
+</LanguageData>

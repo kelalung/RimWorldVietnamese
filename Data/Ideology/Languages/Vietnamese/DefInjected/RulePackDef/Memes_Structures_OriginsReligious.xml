@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+    <li>r_deityType-&gt;Chúa của [all]</li>
+    <li>r_deityType-&gt;Thần [adj]</li>
+	<li>all-&gt; vạn vật</li>
+	<li>all-&gt; vạn vật</li>
+	<li>all-&gt;vũ trụ</li>
+	<li>adj-&gt;vô thượng</li>
+	<li>adj-&gt;toàn năng</li>
+	<li>adj-&gt;thế giới</li>
+  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+  <NamerDeityChristian.rulePack.rulesStrings>
+	<li>r_deityName(p=3)-&gt;Chúa</li>
+    <li>r_deityName-&gt;Đức Kitô</li> 
+	<li>r_deityName-&gt;Đức Kitô</li>
+    <li>r_deityName-&gt;[color] Chúa Giê-su</li>
+    <li>r_deityName-&gt;[color] Đức Kitô</li>
+  </NamerDeityChristian.rulePack.rulesStrings>
+  <NamerDeityIslamic.rulePack.rulesStrings>
+    <li>r_deityName(p=8)-&gt;Thượng Đế</li>
+    <li>r_deityName-&gt;Thần duy nhất</li>
+    <li>r_deityName-&gt;Chúa nhân từ</li>
+    <li>r_deityName-&gt;Chúa thánh thiện</li>
+    <li>r_deityName-&gt;Chúa hòa bình</li>
+    <li>r_deityName-&gt;Thượng Đế</li>
+	<li>r_deityName-&gt;Đấng tạo hóa</li>
+    <li>r_deityName-&gt;Chúa toàn năng</li>
+    <li>r_deityName-&gt;Chúa mạnh mẽ</li>
+    <li>r_deityName-&gt;Đấng tạo hóa</li>
+    <li>r_deityName-&gt;Chúa từ bi</li>
+    <li>r_deityName-&gt;Chúa khôn ngoan</li>
+    <li>r_deityName-&gt;Chúa toàn tri</li>
+    <li>r_deityName-&gt;Chúa phán xét</li>
+  </NamerDeityIslamic.rulePack.rulesStrings>
+</LanguageData>

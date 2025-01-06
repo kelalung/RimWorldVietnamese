@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Beauty.label>Độ đẹp</Beauty.label>
+	<Beauty.description>Độ hài lòng về mặt thị giác mà một vật thể mang lại khi đặt xung quanh.\n\nNhững vật thể đẹp giúp thỏa mãn nhu cầu về môi trường đẹp của thuộc địa.</Beauty.description>
+	<BeautyOutdoors.label>Độ đẹp (Ngoài trời)</BeautyOutdoors.label>
+	<BeautyOutdoors.description>Độ hài lòng về mặt thị giác mà một vật thể mang lại khi đặt ngoài trời.\n\nNhững vật thể đẹp giúp thỏa mãn nhu cầu về môi trường đẹp của thuộc địa.</BeautyOutdoors.description>
+	<Cleanliness.label>Độ sạch sẽ</Cleanliness.label>
+	<Cleanliness.description>Đóng góp của một vật thể vào đánh giá độ sạch sẽ của khu vực.</Cleanliness.description>
+	<Comfort.label>Độ thoải mái</Comfort.label>
+	<Comfort.description>Độ thoải mái mà một vật thể mang lại khi ngồi hoặc nằm lên.\n\nNhững đồ vật thoải mái hơn giúp thỏa mãn nhu cầu về sự thoải mái của thuộc địa.</Comfort.description>
+	<DeteriorationRate.label>Tốc độ lão hóa</DeteriorationRate.label>
+	<DeteriorationRate.description>Tốc độ lão hóa của vật phẩm này khi đặt ngoài trời, giá trị độ bền mất đi trung bình mỗi ngày.\n\nTốc độ lão hóa cũng bị ảnh hưởng bởi thời tiết, mái che, bụi độc, vùng nước và ô nhiễm.</DeteriorationRate.description>
+	<DeteriorationRate.formatString>{0}/ngày</DeteriorationRate.formatString>
+	<Flammability.label>Độ dễ cháy</Flammability.label>
+	<Flammability.description>Khả năng bị cháy của một vật thể và quy mô cháy.</Flammability.description>
+	<FoodPoisonChanceFixedHuman.label>Tỷ lệ ngộ độc thực phẩm</FoodPoisonChanceFixedHuman.label>
+	<FoodPoisonChanceFixedHuman.description>Khả năng gây ngộ độc thực phẩm của loại thực phẩm này.</FoodPoisonChanceFixedHuman.description>
+	<FoodPoisonChanceFixedHuman.labelForFullStatList>Tỷ lệ ngộ độc thực phẩm (thuộc tính thực phẩm)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+	<MarketValue.label>Giá trị thị trường</MarketValue.label>
+	<MarketValue.description>Giá trị thị trường của một vật thể.\n\nGiá trị này có thể thay đổi tùy thuộc vào tình hình cung cầu và các yếu tố khác.</MarketValue.description>
+	<MarketValueIgnoreHp.label>Giá trị thị trường bỏ qua độ bền</MarketValueIgnoreHp.label>
+	<Mass.label>Khối lượng vật lý</Mass.label>
+	<Mass.description>Khối lượng vật lý của một vật thể.</Mass.description>
+	<Mass.formatString>{0} kg</Mass.formatString>
+	<MaxHitPoints.label>Giới hạn độ bền tối đa</MaxHitPoints.label>
+	<MaxHitPoints.description>Giá trị sức khỏe tối đa của một vật thể.\n\nĐiều này có nghĩa là nó có thể chịu đựng bao nhiêu tổn thương trước khi bị phá hủy.</MaxHitPoints.description>
+	<Nutrition.label>Giá trị dinh dưỡng</Nutrition.label>
+	<Nutrition.description>Tổng lượng dinh dưỡng có trong thực phẩm này.</Nutrition.description>
+	<RoyalFavorValue.label>Điểm danh dự</RoyalFavorValue.label>
+	<RoyalFavorValue.description>Tổng giá trị điểm danh dự mà thương nhân của bạn có thể nhận được khi giao vật thể này cho viên chức tuyển mộ.</RoyalFavorValue.description>
+	<SellPriceFactor.label>Hệ số giá bán</SellPriceFactor.label>
+	<SellPriceFactor.description>Hệ số giá khi bạn bán vật thể này.</SellPriceFactor.description>
+	<ShootingAccuracyTurret.label>Độ chính xác bắn</ShootingAccuracyTurret.label>
+	<ShootingAccuracyTurret.description>Xác suất bắn trúng không bị lệch cho mỗi ô khoảng cách.\n\nXác suất trúng cũng bị ảnh hưởng bởi mục tiêu, chỗ ẩn nấp và điều kiện môi trường. Chọn một người bắn và di chuyển chuột đến mục tiêu để xem thông tin chi tiết về tỷ lệ trúng.</ShootingAccuracyTurret.description>
+	<ShootingAccuracyTurret.labelForFullStatList>Độ chính xác bắn (tháp)</ShootingAccuracyTurret.labelForFullStatList>
+	<WorkToMake.label>Công sức (chế tạo)</WorkToMake.label>
+	<WorkToMake.description>Công sức cần thiết để chế tạo vật thể này khi tất cả nguyên liệu và công cụ đã sẵn sàng.</WorkToMake.description>
+</LanguageData>

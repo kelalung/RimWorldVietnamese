@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->[refugee_nameDef] đã liên lạc với chúng ta và yêu cầu giúp đỡ. [refugee_pronoun] không thể di chuyển do bị thương nặng.\n\n[refugee_nameDef] là một [refugee_age] tuổi [refugee_title]. Nếu chúng ta có thể cứu được [refugee_objective], [refugee_pronoun] hứa sẽ gia nhập thuộc địa của chúng ta.\n\n[refugee_nameDef] nhắc nhở chúng ta rằng, vị trí của [refugee_objective] không an toàn:\n\nCó [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+		<li>questDescription(asker_factionLeader==True)->[asker_faction_name] của [asker_faction_leaderTitle],[asker_nameDef] cho chúng ta biết rằng, bạn của [asker_possessive] đã bị thương nặng và không thể di chuyển trong khi đang du lịch. Người bạn này tên là [refugee_nameIndef], là một [refugee_age] tuổi [refugee_title].\n\n[asker_nameDef] hiện không thể cử thêm người hỗ trợ [refugee_nameDef], nhưng nếu chúng ta có thể đến vị trí của [refugee_nameDef] và cứu được [refugee_objective], [refugee_pronoun] sẽ gia nhập thuộc địa của chúng ta.\n\n[asker_nameDef] tiết lộ với chúng ta rằng, khu vực gần [refugee_nameIndef] không an toàn:\n\nCó [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+		<li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+		<li>pawnInvolvedInQuestInfo-></li>
+	</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+	<OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+		<li>questName->Cứu [refugee_nameDef]</li>
+		<li>questName->Chiến dịch cứu [refugee_nameDef]</li>
+		<li>questName->Giải cứu [refugee_nameDef]</li>
+		<li>questName->Cứu giúp [refugee_nameDef]</li>
+	</OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+	<OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn：[resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+	<OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Chúng ta đã mất tín hiệu liên lạc với [refugee_nameDef] và không thể cứu được [refugee_pronoun]. Nhiệm vụ “[resolvedQuestName]” đã hết hạn.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+</LanguageData>

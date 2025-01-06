@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DesignatorCancel>Hủy bỏ</DesignatorCancel>
+	<DesignatorCancelDesc>Hủy bỏ các chỉ lệnh xây dựng, khai thác, vận chuyển, thu hoạch và tất cả các chỉ lệnh khác đã chỉ định.</DesignatorCancelDesc>
+	<DesignatorCutPlants>Cắt bỏ</DesignatorCutPlants>
+	<DesignatorCutPlantsDesc>Đánh dấu các cây cần cắt bỏ. Các cây được chọn sẽ bị loại bỏ hoàn toàn, đồng thời có thể thu hoạch thực phẩm hoặc sản phẩm khác từ cây.</DesignatorCutPlantsDesc>
+	<DesignatorDeconstruct>Phá dỡ</DesignatorDeconstruct>
+	<DesignatorDeconstructDesc>Phá dỡ công trình và thu hồi một phần tài nguyên.</DesignatorDeconstructDesc>
+	<DesignatorUninstall>Gỡ bỏ</DesignatorUninstall>
+	<DesignatorUninstallDesc>Gỡ bỏ và đóng gói vật phẩm này để di chuyển, bán hoặc lắp đặt ở nơi khác.</DesignatorUninstallDesc>
+	<DesignatorExtractTree>Đào gốc</DesignatorExtractTree>
+	<DesignatorExtractTreeDesc>Đào gốc cây trong khi vẫn giữ cây sống, để có thể trồng lại ở nơi khác.</DesignatorExtractTreeDesc>
+	<DesignatorHarvest>Thu hoạch</DesignatorHarvest>
+	<DesignatorHarvestDesc>Đánh dấu các cây có thể thu hoạch để lấy thực phẩm hoặc sản phẩm khác.</DesignatorHarvestDesc>
+	<DesignatorHarvestWood>Chặt cây</DesignatorHarvestWood>
+	<DesignatorHarvestWoodDesc>Đánh dấu các cây cần chặt để lấy gỗ.</DesignatorHarvestWoodDesc>
+	<DesignatorHaulThings>Vận chuyển</DesignatorHaulThings>
+	<DesignatorHaulThingsDesc>Đánh dấu các vật phẩm như đá cần được chuyển đến khu vực lưu trữ. Không cần sử dụng cho thực phẩm và xác chết, những vật phẩm này mặc định là có thể vận chuyển.</DesignatorHaulThingsDesc>
+	<MustHaulHaulables>Chỉ có thể đánh dấu các vật phẩm có thể vận chuyển nhưng sẽ không được tự động vận chuyển. (Ví dụ: đống đá và xỉ thép)</MustHaulHaulables>
+	<DesignatorHunt>Săn bắn</DesignatorHunt>
+	<DesignatorHuntDesc>Đánh dấu các động vật cần bị săn.</DesignatorHuntDesc>
+	<DesignatorMine>Khai thác</DesignatorMine>
+	<DesignatorMineDesc>Đánh dấu các đá cần khai thác.</DesignatorMineDesc>
+	<DesignatorMineVein>Đánh dấu khu vực khai thác</DesignatorMineVein>
+	<DesignatorMineVeinDesc>Xác định một khu vực đá cần khai thác. Các thuộc địa sẽ tiếp tục khai thác, khai thác tất cả các đá cùng loại liên kết.</DesignatorMineVeinDesc>
+	<DesignatorSmoothSurface>Đánh bóng bề mặt</DesignatorSmoothSurface>
+	<DesignatorSmoothSurfaceDesc>Đánh dấu các bề mặt đá thô và tường cần được đánh bóng.</DesignatorSmoothSurfaceDesc>
+	<DesignatorSmoothWalls>Đánh bóng tường đá</DesignatorSmoothWalls>
+	<DesignatorSmoothWallsDesc>Đánh dấu các tường đá thô cần được làm phẳng.</DesignatorSmoothWallsDesc>
+	<DesignatorSmoothFloors>Đánh bóng sàn nhà</DesignatorSmoothFloors>
+	<DesignatorSmoothFloorsDesc>Đánh dấu các sàn nhà thô cần được làm phẳng.</DesignatorSmoothFloorsDesc>
+	<DesignatorPlan>Kế hoạch</DesignatorPlan>
+	<DesignatorPlanDesc>Đặt dấu hiệu kế hoạch. Chúng chỉ giúp bạn lập kế hoạch cho sự mở rộng trong tương lai mà không có tác dụng nào khác.</DesignatorPlanDesc>
+	<DesignatorPlanRemove>Xóa kế hoạch</DesignatorPlanRemove>
+	<DesignatorPlanRemoveDesc>Xóa dấu hiệu kế hoạch.</DesignatorPlanRemoveDesc>
+	<DesignatorForbid>Cấm</DesignatorForbid>
+	<DesignatorForbidDesc>Đánh dấu vật phẩm là cấm. Các thuộc địa không thể tương tác với vật phẩm đó.</DesignatorForbidDesc>
+	<DesignatorUnforbid>Giải cấm</DesignatorUnforbid>
+	<DesignatorUnforbidDesc>Đánh dấu vật phẩm là giải cấm. Các thuộc địa sẽ có thể tương tác với vật phẩm đó.</DesignatorUnforbidDesc>
+	<DesignatorAreaHomeExpand>Thêm khu vực sinh sống</DesignatorAreaHomeExpand>
+	<DesignatorAreaHomeExpandDesc>Thêm một khu vực sinh sống. Các thuộc địa chỉ sửa chữa công trình, dọn dẹp mặt đất và dập lửa trong khu vực sinh sống.</DesignatorAreaHomeExpandDesc>
+	<DesignatorAreaHomeClear>Xóa khu vực sinh sống</DesignatorAreaHomeClear>
+	<DesignatorAreaHomeClearDesc>Xóa một khu vực sinh sống. Các thuộc địa sẽ không còn sửa chữa công trình, dọn dẹp mặt đất và dập lửa ở đây.</DesignatorAreaHomeClearDesc>
+	<DesignatorAreaBuildRoofExpand>Xây dựng khu vực mái</DesignatorAreaBuildRoofExpand>
+	<DesignatorAreaBuildRoofExpandDesc>Các thuộc địa sẽ xây dựng mái trong khu vực này. Lưu ý: mái cần có điểm tựa, nếu quá xa điểm tựa sẽ không thể xây dựng mái.</DesignatorAreaBuildRoofExpandDesc>
+	<DesignatorAreaNoRoofExpand>Xóa khu vực không mái</DesignatorAreaNoRoofExpand>
+	<DesignatorAreaNoRoofExpandDesc>Các thuộc địa sẽ xóa tất cả mái trong khu vực này (mái đá dày không thể xóa).</DesignatorAreaNoRoofExpandDesc>
+	<DesignatorAreaIgnoreRoofExpand>Bỏ qua khu vực mái</DesignatorAreaIgnoreRoofExpand>
+	<DesignatorAreaIgnoreRoofExpandDesc>Các thuộc địa sẽ bỏ qua việc có mái trong khu vực này.</DesignatorAreaIgnoreRoofExpandDesc>
+	<DesignatorAreaSnowClearExpand>Thêm khu vực dọn tuyết</DesignatorAreaSnowClearExpand>
+	<DesignatorAreaSnowClearExpandDesc>Thêm một khu vực dọn tuyết. Các thuộc địa sẽ dọn tuyết trong khu vực này.</DesignatorAreaSnowClearExpandDesc>
+	<DesignatorAreaSnowClearClear>Xóa khu vực dọn tuyết</DesignatorAreaSnowClearClear>
+	<DesignatorAreaSnowClearClearDesc>Xóa một khu vực dọn tuyết. Các thuộc địa sẽ không còn dọn tuyết trong khu vực này.</DesignatorAreaSnowClearClearDesc>
+	<DesignatorExpandAreaAllowed>Thêm khu vực hoạt động</DesignatorExpandAreaAllowed>
+	<DesignatorExpandAreaAllowedDesc>Thêm một khu vực hoạt động.\n\nCác thuộc địa đã được phân công khu vực hoạt động sẽ không thực hiện các lệnh công việc nằm ngoài khu vực hoạt động và cũng sẽ không tự động tìm kiếm vật phẩm cần thiết bên ngoài khu vực hoạt động.</DesignatorExpandAreaAllowedDesc>
+	<DesignatorClearAreaAllowed>Xóa khu vực hoạt động</DesignatorClearAreaAllowed>
+	<DesignatorClearAreaAllowedDesc>Xóa một khu vực hoạt động.\n\nCác thuộc địa đã được phân công khu vực hoạt động sẽ không thực hiện các lệnh công việc nằm ngoài khu vực hoạt động và cũng sẽ không tự động tìm kiếm vật phẩm cần thiết bên ngoài khu vực hoạt động.</DesignatorClearAreaAllowedDesc>
+	<ManageAreas>Quản lý khu vực hoạt động</ManageAreas>
+	<ManageAutoSlaughter>Quản lý giết mổ tự động...</ManageAutoSlaughter>
+	<DesignatorGrowingZoneDesc>Tạo một khu vực để các thuộc địa có thể trồng một loại cây nào đó.</DesignatorGrowingZoneDesc>
+	<DesignatorZoneCreateStorageResourcesDesc>Tạo một khu vực lưu trữ để các thuộc địa có thể lưu trữ tài nguyên.\nCông cụ này cũng có thể được sử dụng để mở rộng phạm vi khu vực lưu trữ hiện có.</DesignatorZoneCreateStorageResourcesDesc>
+	<DesignatorZoneCreateStorageDumpingDesc>Tạo một khu vực lưu trữ để các thuộc địa có thể lưu trữ rác.\nCông cụ này cũng có thể được sử dụng để mở rộng phạm vi khu vực lưu trữ hiện có.</DesignatorZoneCreateStorageDumpingDesc>
+	<DesignatorZoneDelete>Xóa khu vực</DesignatorZoneDelete>
+	<DesignatorZoneDeleteSingular>Thu hẹp khu vực</DesignatorZoneDeleteSingular>
+	<DesignatorZoneDeleteDesc>Xóa khu vực lưu trữ hoặc khu vực trồng trọt.</DesignatorZoneDeleteDesc>
+	<DesignatorZoneExpand>Mở rộng khu vực</DesignatorZoneExpand>
+	<DesignatorClaim>Chiếm hữu</DesignatorClaim>
+	<DesignatorClaimDesc>Đánh dấu các công trình trung lập là thuộc sở hữu của phe bạn, bao gồm các di tích và căn cứ bị bỏ hoang. Các thuộc địa sẽ sửa chữa và bảo trì các công trình đã chiếm hữu.</DesignatorClaimDesc>
+	<DesignatorRemoveFloor>Xóa sàn nhà</DesignatorRemoveFloor>
+	<DesignatorRemoveFloorDesc>Xóa sàn nhà, lộ ra địa hình bên dưới.</DesignatorRemoveFloorDesc>
+	<DesignatorRemoveBridge>Xóa cầu</DesignatorRemoveBridge>
+	<DesignatorRemoveBridgeDesc>Xóa cầu, lộ ra địa hình bên dưới.</DesignatorRemoveBridgeDesc>
+	<DesignatorStrip>Bóc bỏ</DesignatorStrip>
+	<DesignatorStripDesc>Tháo bỏ toàn bộ trang bị của xác chết và người bị thương.</DesignatorStripDesc>
+	<DesignatorOpen>Mở</DesignatorOpen>
+	<DesignatorOpenDesc>Mở container.</DesignatorOpenDesc>
+	<DesignatorSlaughter>Giết thịt</DesignatorSlaughter>
+	<DesignatorSlaughterDesc>Giết thịt động vật đã thuần hóa.</DesignatorSlaughterDesc>
+	<DesignatorTame>Thuần hóa</DesignatorTame>
+	<DesignatorTameDesc>Thuần hóa động vật hoang dã.</DesignatorTameDesc>
+	<DesignatorReleaseAnimalToWild>Thả về tự nhiên</DesignatorReleaseAnimalToWild>
+	<DesignatorReleaseAnimalToWildDesc>Thả một con vật để nó trở về với thiên nhiên.</DesignatorReleaseAnimalToWildDesc>
+	<DesignatorStudy>Nghiên cứu</DesignatorStudy>
+	<DesignatorStudyDesc>Nghiên cứu mục này để có thêm thông tin.</DesignatorStudyDesc>
+	<DesignatorPaintBuilding>Tô màu công trình...</DesignatorPaintBuilding>
+	<DesignatorPaintBuildingDesc>Sử dụng thuốc nhuộm từ hoa để chỉ định tường và công trình cần tô màu. Chỉ một số công trình có thể được tô màu.</DesignatorPaintBuildingDesc>
+	<DesignatorPaintFloor>Tô màu sàn nhà...</DesignatorPaintFloor>
+	<DesignatorPaintFloorDesc>Sử dụng thuốc nhuộm từ hoa để chỉ định sàn nhà cần tô màu. Chỉ một số sàn nhà có thể được tô màu.</DesignatorPaintFloorDesc>
+	<DesignatorRemovePaint>Xóa sơn</DesignatorRemovePaint>
+	<DesignatorRemovePaintDesc>Xóa sơn trên tường, công trình hoặc sàn nhà, trả lại màu sắc ban đầu.</DesignatorRemovePaintDesc>
+	<DesignatorRemoveFloorPaint>Xóa sơn sàn nhà</DesignatorRemoveFloorPaint>
+	<DesignatorRemoveFloorPaintDesc>Xóa sơn trên sàn nhà, trả lại màu sắc ban đầu.</DesignatorRemoveFloorPaintDesc>
+	<Paint>Tô màu</Paint>
+	<Color>Màu sắc</Color>
+	<DesignatorEyedropper>Bảng màu</DesignatorEyedropper>
+	<GrabExistingColor>Chọn màu có sẵn</GrabExistingColor>
+	<DesignatorEyeDropperDesc_Paint>Lấy màu từ công trình.</DesignatorEyeDropperDesc_Paint>
+	<DesignatorEyeDropperDesc_Carpet>Lấy màu từ thảm.</DesignatorEyeDropperDesc_Carpet>
+	<SelectAPaintedBuilding>Chọn công trình đã tô màu.</SelectAPaintedBuilding>
+	<SelectColoredFloor>Chọn sàn nhà đã nhuộm màu.</SelectColoredFloor>
+	<Grab>Lấy</Grab>
+	<GrabbedColor>Màu đã lấy</GrabbedColor>
+	<UnchosenStuff>Vật liệu chưa chọn</UnchosenStuff>
+	<TooCloseToMapEdge>Quá gần cạnh bản đồ.</TooCloseToMapEdge>
+	<OutOfBounds>Vượt ra ngoài giới hạn.</OutOfBounds>
+	<CannotPlaceInUndiscovered>Không thể đặt trong khu vực chưa khám phá.</CannotPlaceInUndiscovered>
+	<InteractionSpotBlocked>Điểm tương tác bị {1_labelShort} chặn.</InteractionSpotBlocked>
+	<InteractionSpotOutOfBounds>Điểm tương tác vượt ra ngoài giới hạn.</InteractionSpotOutOfBounds>
+	<InteractionSpotWillBeBlocked>Điểm tương tác sẽ bị {1_labelShort} chặn.</InteractionSpotWillBeBlocked>
+	<WouldBlockInteractionSpot>{0} sẽ chặn điểm tương tác của {1}.</WouldBlockInteractionSpot>
+	<TerrainIsAlready>Địa hình này đã là {0}.</TerrainIsAlready>
+	<SurfaceBeingSmoothed>Đã được đánh dấu để đánh bóng.</SurfaceBeingSmoothed>
+	<IdenticalThingExists>Có vật giống hệt đã tồn tại ở đây.</IdenticalThingExists>
+	<IdenticalBlueprintExists>Có bản thiết kế giống hệt đã tồn tại ở đây.</IdenticalBlueprintExists>
+	<TerrainCannotSupport>Không thể xây dựng {0_label} trên địa hình này.</TerrainCannotSupport>
+	<TerrainCannotSupport_TerrainAffordance>{0_label} cần địa hình hỗ trợ: {1_label}</TerrainCannotSupport_TerrainAffordance>
+	<TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label}(khi làm bằng {2_label}) cần địa hình hỗ trợ: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+	<SpaceAlreadyOccupied>Không gian đã bị chiếm dụng.</SpaceAlreadyOccupied>
+	<SpaceBeingSmoothed>Địa điểm này đang được đánh bóng.</SpaceBeingSmoothed>
+	<TerrainMustBeRemovable>Mục tiêu phải là sàn nhà có thể xóa.</TerrainMustBeRemovable>
+	<MustBeOnMovingWater>Thuyền chỉ có thể đặt trên vùng nước chảy.</MustBeOnMovingWater>
+	<InteractionSpotWillOverlap>Khu vực tương tác sẽ chồng chéo với khu vực tương tác của {1_labelShort}.</InteractionSpotWillOverlap>
+	<InteractionSpotOverlaps>Khu vực tương tác sẽ chồng chéo với khu vực tương tác của {1_labelShort}.</InteractionSpotOverlaps>
+	<CannotPlaceMonumentOver>Không thể đặt tượng đài lên: {0}.</CannotPlaceMonumentOver>
+	<CannotPlaceMonumentOnTerrain>Không thể xây dựng trên: {0}.</CannotPlaceMonumentOnTerrain>
+	<MonumentOverlapsBuilding>Không thể đặt tượng đài lên: {0}.</MonumentOverlapsBuilding>
+	<MonumentAdjacentToBuilding>Đánh dấu tượng đài không thể đặt gần: {0}.</MonumentAdjacentToBuilding>
+	<CannotBePlantedHere>Không thể trồng ở đây</CannotBePlantedHere>
+	<ExpandOrCreateZone>Mở rộng {0} hoặc\nTạo {1}</ExpandOrCreateZone>
+	<CreateNewZone>Tạo {0}</CreateNewZone>
+	<TransmitsPower>Truyền tải điện</TransmitsPower>
+	<ConstructionNeeded>Cần cấp độ xây dựng</ConstructionNeeded>
+	<NoColonistWithSkillTip>Không ai trong {0} của bạn có kỹ năng này.</NoColonistWithSkillTip>
+	<SkillNeededForConstructing>Cần {0}</SkillNeededForConstructing>
+	<NoColonistWithAllSkillsForConstructing>Không ai trong {0} của bạn có đủ kỹ năng cần thiết.</NoColonistWithAllSkillsForConstructing>
+	<AllColonistsWithSkillHaveDisabledConstructingTip>Không ai trong {0}của bạn có kỹ năng này được giao {1} công việc.</AllColonistsWithSkillHaveDisabledConstructingTip>
+	<DesignatorExtractSkull>Chiết xuất sọ</DesignatorExtractSkull>
+	<DesignatorExtractSkullDesc>Chiết xuất sọ từ xác chết mục tiêu.</DesignatorExtractSkullDesc>
+</LanguageData>

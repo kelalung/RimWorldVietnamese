@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BuildRapport.label>Thử giao tiếp</BuildRapport.label>
+	<BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->Về vấn đề [subject],[INITIATOR_nameDef] đã kể cho [RECIPIENT_nameDef][toldastoryabout].</BuildRapport.logRulesInitiator.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] về vấn đề [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
+	<BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] đã kể lại vấn đề [subject] với [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
+	<BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] khuyến khích [RECIPIENT_nameDef][talkabout][subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
+	<BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] đã cho [RECIPIENT_nameDef] một cơ hội [talkabout][subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
+	<BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] bày tỏ sự quan tâm đến [PersonalCharacteristic] của [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.5>
+	<BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] hỏi [RECIPIENT_nameDef] về [RECIPIENT_possessive][PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.6>
+	<BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(p=2)->Kể một câu chuyện</BuildRapport.logRulesInitiator.rulesStrings.7>
+	<BuildRapport.logRulesInitiator.rulesStrings.8>toldastoryabout->Kể một câu chuyện thú vị</BuildRapport.logRulesInitiator.rulesStrings.8>
+	<BuildRapport.logRulesInitiator.rulesStrings.9>toldastoryabout->Kể một câu chuyện chân thành</BuildRapport.logRulesInitiator.rulesStrings.9>
+	<BuildRapport.logRulesInitiator.rulesStrings.10>toldastoryabout->Kể một câu chuyện cổ xưa</BuildRapport.logRulesInitiator.rulesStrings.10>
+	<BuildRapport.logRulesInitiator.rulesStrings.11>toldastoryabout->Kể một câu chuyện gia đình</BuildRapport.logRulesInitiator.rulesStrings.11>
+	<BuildRapport.logRulesInitiator.rulesStrings.12>toldastoryabout->Kể một câu chuyện thời thơ ấu</BuildRapport.logRulesInitiator.rulesStrings.12>
+	<BuildRapport.logRulesInitiator.rulesStrings.13>toldastoryabout->Đề cập đến một giai thoại</BuildRapport.logRulesInitiator.rulesStrings.13>
+	<BuildRapport.logRulesInitiator.rulesStrings.14>talkabout->Nói về</BuildRapport.logRulesInitiator.rulesStrings.14>
+	<BuildRapport.logRulesInitiator.rulesStrings.15>talkabout->Thảo luận về</BuildRapport.logRulesInitiator.rulesStrings.15>
+	<BuildRapport.logRulesInitiator.rulesStrings.16>talkabout->Thảo luận một chút về</BuildRapport.logRulesInitiator.rulesStrings.16>
+	<BuildRapport.logRulesInitiator.rulesStrings.17>talkabout->Hỏi về</BuildRapport.logRulesInitiator.rulesStrings.17>
+	<BuildRapport.logRulesInitiator.rulesStrings.18>talkabout->Suy nghĩ về</BuildRapport.logRulesInitiator.rulesStrings.18>
+	<BuildRapport.logRulesInitiator.rulesStrings.19>talkabout->Đồng ý với</BuildRapport.logRulesInitiator.rulesStrings.19>
+	<BuildRapport.logRulesInitiator.rulesStrings.20>subject->Thuộc địa này</BuildRapport.logRulesInitiator.rulesStrings.20>
+	<BuildRapport.logRulesInitiator.rulesStrings.21>subject->Nhóm này</BuildRapport.logRulesInitiator.rulesStrings.21>
+	<BuildRapport.logRulesInitiator.rulesStrings.22>subject->Tham gia thuộc địa</BuildRapport.logRulesInitiator.rulesStrings.22>
+	<BuildRapport.logRulesInitiator.rulesStrings.23>subject->Thay đổi môi trường</BuildRapport.logRulesInitiator.rulesStrings.23>
+	<BuildRapport.logRulesInitiator.rulesStrings.24>subject->Tìm kiếm bạn bè</BuildRapport.logRulesInitiator.rulesStrings.24>
+	<BuildRapport.logRulesInitiator.rulesStrings.25>subject->Kết bạn với người mới</BuildRapport.logRulesInitiator.rulesStrings.25>
+	<BuildRapport.logRulesInitiator.rulesStrings.26>subject->Xem xét lại quan điểm của [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.26>
+	<BuildRapport.logRulesInitiator.rulesStrings.27>subject->Xem xét lại lòng trung thành của [RECIPIENT_possessive]</BuildRapport.logRulesInitiator.rulesStrings.27>
+	<BuildRapport.logRulesInitiator.rulesStrings.28>subject->Sức khỏe</BuildRapport.logRulesInitiator.rulesStrings.28>
+	<BuildRapport.logRulesInitiator.rulesStrings.29>subject->Tương lai</BuildRapport.logRulesInitiator.rulesStrings.29>
+	<BuildRapport.logRulesInitiator.rulesStrings.30>subject->Giải phóng</BuildRapport.logRulesInitiator.rulesStrings.30>
+	<BuildRapport.logRulesInitiator.rulesStrings.31>subject(p=4)->[ConceptPositive]</BuildRapport.logRulesInitiator.rulesStrings.31>
+	<BuildRapport.logRulesInitiator.rulesStrings.32>subject(p=2)->[RECIPIENT_possessive][PersonalCharacteristic]</BuildRapport.logRulesInitiator.rulesStrings.32>
+	<BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
+	<RecruitAttempt.label>Thử chiêu mộ</RecruitAttempt.label>
+	<RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] yêu cầu [RECIPIENT_nameDef] tham gia.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] hứa với [RECIPIENT_nameDef] về [goodthing] và yêu cầu [RECIPIENT_objective] tham gia.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
+	<RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->Khát vọng về [ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
+	<RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->Rau tươi miễn phí</RecruitAttempt.logRulesInitiator.rulesStrings.3>
+	<SparkJailbreak.label>Kích thích vượt ngục</SparkJailbreak.label>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] đã nói về vẻ đẹp của [freedom] và cung cấp một cách để trốn thoát.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] đã kể rằng [TerrainFeature] đẹp biết bao và đã thả tù nhân.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] đã chỉ cho [RECIPIENT_nameDef] một cách để trốn thoát và đảm bảo [freedom] của họ.</SparkJailbreak.logRulesInitiator.rulesStrings.2>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] rằng hiện tại phòng thủ rất lỏng lẻo và khuyến khích họ chạy trốn.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->Được tự do trở lại</SparkJailbreak.logRulesInitiator.rulesStrings.4>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->Trốn thoát khỏi nơi này</SparkJailbreak.logRulesInitiator.rulesStrings.5>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->Về nhà</SparkJailbreak.logRulesInitiator.rulesStrings.6>
+	<SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->Được phục hồi nhân quyền</SparkJailbreak.logRulesInitiator.rulesStrings.7>
+</LanguageData>

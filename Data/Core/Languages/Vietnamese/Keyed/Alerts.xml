@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClickToJumpToProblem>Chuyển đến vị trí xảy ra sự kiện</ClickToJumpToProblem>
+  <BreakRiskMinor>Nguy cơ sụp đổ (Thấp)</BreakRiskMinor>
+  <BreakRiskMajor>Nguy cơ sụp đổ (Trung bình)</BreakRiskMajor>
+  <BreakRiskExtreme>Nguy cơ sụp đổ (Cao)</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Tâm trạng của những người định cư sau đây không tốt lắm, có khả năng bị sụp đổ tinh thần nhẹ:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Tâm trạng của những người định cư sau đây khá tệ, có khả năng bị sụp đổ tinh thần trung bình:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Tâm trạng của những người định cư sau đây rất tồi tệ, có khả năng bị sụp đổ tinh thần nghiêm trọng (rất có thể có hành vi bạo lực):\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Hãy kiểm tra thẻ"Nhu cầu" của những người định cư này để hiểu lý do tâm trạng kém. \n\nBạn có thể cải thiện tâm trạng của người định cư bằng cách cung cấp thức ăn ngon hơn, nhiều thời gian giải trí hơn và môi trường đẹp hơn. Hút thuốc và uống rượu cũng có thể giúp cải thiện tình hình.</BreakRiskDescEnding>
+  <ColonistNeedsRescue>Người định cư cần được cứu trợ</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Nhiều người định cư cần được cứu trợ</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Những người định cư sau đây đã ngã xuống và không thể hành động:\n\n{0}\nHãy cử một người định cư khác để cứu trợ và đưa họ trở lại giường.\n\n(Chọn một người định cư, sau đó nhấp chuột phải vào người cần cứu trợ và chọn"Cứu trợ".)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>Những người định cư sau đây đã ngã xuống và không thể hành động:\n\n{0}\nHãy cử một người định cư khác để cứu trợ và đưa họ trở lại giường.\n\n(Chọn một người định cư, sau đó sử dụng nút cò trái nhấp vào người cần cứu trợ và chọn"Cứu trợ".)</ColonistsNeedRescueDescController>
+  <NeedDefenses>Thiếu công sự phòng thủ</NeedDefenses>
+  <NeedDefensesDesc>Bạn đã ở đây một thời gian và có thể đã bị người khác phát hiện. Cướp biển có thể tấn công thuộc địa của bạn bất cứ lúc nào.\n\nBạn nên triển khai một số công sự phòng thủ như bẫy, bao cát hoặc tháp pháo.</NeedDefensesDesc>
+  <NeedDoctor>Thiếu bác sĩ</NeedDoctor>
+  <NeedDoctorDesc>Những người định cư sau đây cần được điều trị. Nhưng bạn không có người định cư khỏe mạnh nào tham gia công việc"Bác sĩ".\n\n{0}\nTrong bảng"Công việc", hãy phân công một người định cư khỏe mạnh vào công việc"Bác sĩ". Vết thương không được xử lý kịp thời sẽ không tự lành và có thể gây tổn thương vĩnh viễn.</NeedDoctorDesc>
+  <NeedMiner>Thiếu thợ mỏ</NeedMiner>
+  <NeedMinerDesc>Bạn đã lên kế hoạch khai thác một số đá, nhưng không có người định cư nào tham gia công việc"Khai thác".\n\nHãy phân công một người định cư vào công việc"Khai thác".</NeedMinerDesc>
+  <NeedWarden>Thiếu quản giáo</NeedWarden>
+  <NeedWardenDesc>Bạn có một tù nhân, nhưng không có người định cư nào tham gia công việc"Quản lý".\n\nHãy phân công một người định cư vào công việc"Quản lý".</NeedWardenDesc>
+  <LowFood>Thiếu thức ăn</LowFood>
+  <LowFoodDesc>Bạn đang đối mặt với tình trạng thiếu thức ăn.\n\n Số lượng thức ăn dự trữ: {0}\n Số lượng người định cư và tù nhân tiêu thụ thức ăn: {1}\n Số ngày có thể duy trì bằng thức ăn dự trữ: {2}\n\nBạn có thể trồng, mua, tìm kiếm hoặc săn bắn để kiếm thức ăn.</LowFoodDesc>
+  <LowMedicine>Thiếu thuốc</LowMedicine>
+  <LowMedicineDesc>Khu vực lưu trữ chỉ còn {0} thuốc.\n\nHãy mua thêm thuốc thông qua giao dịch hoặc trồng"Thảo dược".</LowMedicineDesc>
+  <NoMedicineDesc>Khu vực lưu trữ không còn bất kỳ thuốc nào.\n\nHãy mua thêm thuốc thông qua giao dịch hoặc trồng"Thảo dược".</NoMedicineDesc>
+  <NeedColonistBeds>Thiếu giường cho người định cư</NeedColonistBeds>
+  <NeedColonistBedsDesc>Số lượng người định cư của bạn vượt quá số giường có sẵn, sẽ có người không có chỗ ngủ.\n\nHãy xây thêm giường hoặc chuyển giường tù thành giường cho người định cư.\n\nNếu bạn không đủ tài nguyên, điểm ngủ là miễn phí và có thể được xây dựng ngay lập tức.</NeedColonistBedsDesc>
+  <AlertColonistLeftUnburied>Người định cư chưa được chôn cất</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>Một thi thể của người định cư chưa được chôn cất.\n\nĐiều này có thể ảnh hưởng tiêu cực đến tâm trạng của người định cư của bạn.</AlertColonistLeftUnburiedDesc>
+  <HunterLacksWeapon>Thợ săn cần vũ khí tầm xa</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Một người định cư được phân công công việc"Săn bắn" không có vũ khí tầm xa.\n\nHọ sẽ không đi săn cho đến khi có được một vũ khí tầm xa.\n\nNgười định cư sau đây được chỉ định công việc săn bắn nhưng không có vũ khí tầm xa</HunterLacksWeaponDesc>
+  <AlertTatteredApparel>Quần áo rách</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Người định cư sau đây vẫn đang mặc quần áo có độ bền quá thấp, điều này sẽ khiến họ rất không hài lòng:\n\n{0}\nHãy cho họ một số quần áo có độ bền đủ tốt.\n\nBạn có thể chế tạo quần áo mới tại bàn may hoặc mua từ thương nhân.</AlertTatteredApparelDesc>
+  <AlertUnhappyNudity>Trần truồng</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Người định cư sau đây hoàn toàn trần truồng, điều này sẽ khiến họ rất không hài lòng:\n\n{0}\nHãy cho họ một số quần áo.\n\nBạn có thể chế tạo quần áo mới tại bàn may hoặc mua từ thương nhân.</AlertUnhappyNudityDesc>
+  <Starvation>Đói khát</Starvation>
+  <StarvationDesc>Người định cư sau đây sắp chết đói:\n\n{0}\nHãy tìm cho họ một số thức ăn. Bạn cần thiết lập một nguồn cung cấp thức ăn trong khu vực hoạt động của họ, lưu ý rằng người định cư sẽ không ăn thức ăn trong các khu vực giam giữ. Ngoài ra, hãy đảm bảo họ không ở trong trạng thái bị triệu tập.</StarvationDesc>
+  <StarvationAnimals>Động vật đói khát</StarvationAnimals>
+  <StarvationAnimalsDesc>Động vật đã được thuần hóa sau đây sắp chết đói:\n\n{0}\nHãy tìm cho chúng một số thức ăn. Bạn cần thiết lập một nguồn cung cấp thức ăn trong khu vực hoạt động của chúng.</StarvationAnimalsDesc>
+  <Exhaustion>Kiệt sức</Exhaustion>
+  <ExhaustionDesc>Người định cư sau đây sắp kiệt sức:\n\n{0}\nHãy cho họ nghỉ ngơi một thời gian. Họ cần có giường dành cho người định cư có sẵn. Ngoài ra, hãy đảm bảo họ không ở trong trạng thái bị triệu tập.</ExhaustionDesc>
+  <NeedFoodHopper>Thiếu phễu thức ăn</NeedFoodHopper>
+  <NeedFoodHopperDesc>Bạn có một máy trộn chất dinh dưỡng nhưng không có phễu thức ăn bên cạnh.\n\nMáy trộn chất dinh dưỡng cần một phễu thức ăn gần kề và chứa thực phẩm để hoạt động bình thường.\n\nHãy xây dựng một phễu thức ăn gần máy trộn.</NeedFoodHopperDesc>
+  <NeedMealSource>Thiếu nguồn thức ăn</NeedMealSource>
+  <NeedMealSourceDesc>Bạn thiếu cách chế biến thực phẩm thô thành thức ăn nấu chín.\n\nHãy xây dựng một bếp, lửa trại hoặc máy trộn chất dinh dưỡng.\n\n(Không đặt trong phòng giam, nếu không người định cư sẽ không thể sử dụng nó)</NeedMealSourceDesc>
+  <NeedJoySource>Thiếu cơ sở giải trí</NeedJoySource>
+  <NeedJoySourceDesc>Trong {1} chỉ có {0} loại hình giải trí khác nhau, nhưng ở mức độ kỳ vọng hiện tại ({2}), người định cư cần {3} loại hình giải trí khác nhau để giữ cho họ hài lòng. Cần xây dựng một số loại hình giải trí mới để đáp ứng nhu cầu giải trí.\n\n{4}\n\n{5}\n\nLưu ý: Bạn có thể kiểm tra các loại hình giải trí liên quan bằng cách nhấp vào nút “i” trong trang thông tin chi tiết.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Các loại hình giải trí có sẵn</AvailableRecreationTypes>
+  <MissingRecreationTypes>Thiếu loại hình giải trí</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>Theo kỳ vọng hiện tại ({0}), mức độ nhàm chán của mỗi loại giảm {1} mỗi ngày. Khuyến nghị sử dụng {2} loại hình giải trí.</CurrentExpectationsAndRecreation>
+  <bored>Chán nản</bored>
+  <Boredom>Nhàm chán</Boredom>
+  <BoredomDesc>Những người này cần giải trí, nhưng họ cảm thấy nhàm chán với tất cả các loại hình giải trí có sẵn:\n\n{0}\n\nHãy tìm thêm các hoạt động giải trí khác.\n\nHiện tại có các loại hình giải trí cho {PAWN_labelShort}:\n\n{2} </BoredomDesc>
+  <NeedBatteries>Thiếu pin lưu trữ</NeedBatteries>
+  <NeedBatteriesDesc>Bạn đã xây dựng các tấm pin mặt trời hoặc máy phát điện gió, nhưng không có pin lưu trữ. Điều này có nghĩa là khi đêm xuống hoặc là khi không có gió, căn cứ của bạn sẽ mất nguồn điện cung cấp.</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>Hãy xây dựng một hoặc hai pin lưu trữ để đảm bảo cung cấp điện liên tục.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Nghiên cứu pin lưu trữ và xây dựng một số để đảm bảo cung cấp điện liên tục.</NeedBatteriesNotResearchedDesc>
+  <BrawlerHasRangedWeapon>Đấu sĩ mang vũ khí tầm xa</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Một trong những người định cư của bạn có đặc điểm đấu sĩ nhưng lại mang theo một vũ khí tầm xa. Điều này khiến họ không hài lòng.</BrawlerHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Người sử dụng khiên mang vũ khí tầm xa</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Trong số những người định cư của bạn, có người đang mặc khiên và mang vũ khí tầm xa. Họ không thể bắn qua khiên (trừ khi hoàn toàn dán sát mục tiêu).</ShieldUserHasRangedWeaponDesc>
+  <NeedResearchProject>Thiếu dự án nghiên cứu</NeedResearchProject>
+  <NeedResearchProjectDesc>Bạn có cơ sở nghiên cứu, nhưng không có dự án nghiên cứu nào được chọn.\n\nHãy mở menu"Nghiên cứu" và chọn một dự án nghiên cứu.</NeedResearchProjectDesc>
+  <ColonistsIdle>{0} người định cư không có việc làm</ColonistsIdle>
+  <ColonistsIdleDesc>Người định cư sau đây đang nhàn rỗi không làm gì:\n\n{0}\nBạn nên tìm cho họ một số công việc có ý nghĩa để làm.</ColonistsIdleDesc>
+  <CaravanIdle>Đoàn hành trình nhàn rỗi</CaravanIdle>
+  <CaravanIdleDesc>Đoàn hành trình đang chờ đợi điểm đến tiếp theo mà bạn đã đặt ra\n\n{0}</CaravanIdleDesc>
+  <ColonistNeedsTreatment>Cần điều trị</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Những người sau đây cần được điều trị. Vết thương không được xử lý kịp thời có thể dẫn đến tử vong hoặc trở thành sẹo vĩnh viễn.\n\n{0}\nCần đưa họ đến một giường y tế để được điều trị.\n\n(Đầu tiên, hãy đặt giường là giường y tế, sau đó chọn người bị thương và nhấp chuột phải vào giường y tế để đặt họ là bệnh nhân.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>Những người sau đây cần được điều trị. Vết thương không được xử lý kịp thời có thể dẫn đến tử vong hoặc trở thành sẹo vĩnh viễn.\n\n{0}\nCần đưa họ đến một giường y tế để được điều trị.\n\n(Đầu tiên, hãy đặt giường là giường y tế, sau đó chọn người bị thương và dùng nút cò trái nhấp vào giường y tế để đặt họ là bệnh nhân.)</ColonistNeedsTreatmentDescController>
+  <AlertHypothermia>Hạ thân nhiệt</AlertHypothermia>
+  <AlertHypothermiaDesc>Người định cư sau đây đang bị hạ thân nhiệt:\n\n{0}\nHãy đảm bảo họ mặc quần áo phù hợp với mùa này và đảm bảo hệ thống sưởi ấm trong khu vực trong nhà hoạt động bình thường.</AlertHypothermiaDesc>
+  <PatientsAwaitingMedicalOperation>{0} người cần phẫu thuật</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Những người sau đây cần được phẫu thuật:\n\n{0}\nHãy đảm bảo bạn có đủ thuốc, dụng cụ y tế cần thiết và một bác sĩ rảnh rỗi.</PatientsAwaitingMedicalOperationDesc>
+  <FireInHomeArea>Hỏa hoạn!!</FireInHomeArea>
+  <FireInHomeAreaDesc>Khu vực sinh sống đang bị cháy.</FireInHomeAreaDesc>
+  <PawnsWithLifeThreateningDisease>Cấp cứu</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Những người sau đây có nguy cơ tử vong do bệnh tật:\n\n{0}\nHãy đảm bảo họ được chăm sóc y tế tốt nhất.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Những người sau đây có nguy cơ tử vong do bệnh tật:\n\n{0}\nNếu có thể, hãy xem xét việc cắt cụt hoặc thay thế các chi bị nhiễm bệnh để cứu sống họ.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <BilliardsNeedsSpace>Bàn bi-a bị chắn</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Khu vực xung quanh bàn bi-a bị chắn, người định cư sẽ không thể sử dụng bàn bi-a.\n\nBàn bi-a cần có không gian mở xung quanh.</BilliardsNeedsSpaceDesc>
+  <ChessTablesNeedChairs>Bàn cờ vua cần ghế</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>Một trong những bàn cờ vua của bạn không có ghế để sử dụng.\n\nHãy đặt ghế hoặc đôn cạnh bàn để người định cư có thể sử dụng bàn cờ vua. Một bàn cờ vua có thể có tối đa hai người sử dụng cùng lúc.</ChessTablesNeedChairsDesc>
+  <PokerTablesNeedChairs>Bàn poker cần ghế</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>Một trong những bàn poker của bạn không có ghế để sử dụng.\n\nHãy đặt ghế hoặc đôn cạnh bàn để người định cư có thể sử dụng bàn poker. Một bàn poker có thể có tối đa 8 người sử dụng cùng lúc.</PokerTablesNeedChairsDesc>
+  <HunterHasShieldAndRangedWeapon>Thợ săn mang khiên và vũ khí tầm xa</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Thợ săn của bạn đang mặc khiên và mang vũ khí tầm xa, điều này khiến họ không thể bắn.\n\nHọ sẽ không đi săn cho đến khi tháo khiên ra.</HunterHasShieldAndRangedWeaponDesc>
+  <NeedWarmClothes>Thiếu quần áo giữ ấm</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Có ít nhất {0} người định cư của bạn không có quần áo giữ ấm.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Tất cả người định cư của bạn đều không có quần áo giữ ấm.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Nhiệt độ ngoài trời đã giảm xuống {0} độ.\n\nBạn có thể làm quần áo giữ ấm tại bàn may, hoặc mua từ thương nhân.</NeedWarmClothesDesc2>
+  <ImmobileCaravan>Đoàn di cư không thể di chuyển</ImmobileCaravan>
+  <ImmobileCaravanDesc>Một trong những đoàn di cư của bạn đã mang theo quá nhiều đồ vật để có thể di chuyển.\n\nBạn có thể chọn bỏ đi một số hàng hóa trong tab"Vật phẩm" để cho họ tiếp tục di chuyển.</ImmobileCaravanDesc>
+  <BuildingCantBeUsedRoofed>Công trình không thể sử dụng</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>Một hoặc nhiều công trình của bạn chỉ có thể sử dụng trong khu vực ngoài trời. Các công trình này sẽ không hoạt động trừ khi mái che được gỡ bỏ.</BuildingCantBeUsedRoofedDesc>
+  <AlertHeatstroke>Cú sốc nhiệt</AlertHeatstroke>
+  <AlertHeatstrokeDesc>Các thuộc địa sau đây đã bị sốc nhiệt:\n\n{0}\nHãy nhanh chóng đưa họ đến một nơi mát mẻ. Bạn có thể sử dụng"máy làm mát bay hơi" hoặc"máy làm lạnh điện" để giảm nhiệt độ trong phòng. Nếu sử dụng cửa để ngăn cách với bên ngoài, các hang động sâu cũng có thể giữ mát.</AlertHeatstrokeDesc>
+  <QuestPartMoodBelowThreshold>Khách không hài lòng</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>Nhiệm vụ"{0}" yêu cầu giữ cho những khách này có tâm trạng tốt. Nhưng bây giờ, tâm trạng của họ rất kém. Thực hiện một số hành động để giúp họ cảm thấy tốt hơn:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartShuttleLeaveDelay>Máy bay đưa đón sẽ rời khỏi {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>Máy bay đưa đón sẽ rời khỏi {1}. Yêu cầu của {0} là phải đưa những người hoặc hàng hóa sau đây lên máy bay trước khi nó cất cánh:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>Máy bay đưa đón sẽ rời khỏi sau {0}.</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleArriveDelay>Máy bay đưa đón đến nơi ({0})</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>Một chiếc máy bay đưa đón sẽ đến sau {1}. Nhiệm vụ {0} yêu cầu bạn phải đưa những người và hàng hóa sau đây lên máy bay trước khi nó rời đi:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>Một chiếc máy bay đưa đón sẽ đến sau {0}.</QuestPartShuttleArriveDelayDescHidden>
+  <DisallowedBuildingInsideMonument>Công trình sẽ bị phá hủy</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>Bạn đã xây dựng một công trình không được phép bên trong một đài tưởng niệm. Đài tưởng niệm này sẽ được coi là đã bị phá hủy sau {0}.</DisallowedBuildingInsideMonumentDesc>
+  <ActivatorCountdown>Bật hẹn giờ {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>Có một thiết bị hẹn giờ đang tích tắc, chuẩn bị đánh thức các cơ thể máy móc gần đó.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} thiết bị hẹn giờ</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>Có {0} thiết bị hẹn giờ đang tích tắc, chuẩn bị đánh thức các cơ thể máy móc gần đó.</ActivatorCountdownDescMultiple>
+  <QuestExpiresSoon>Nhiệm vụ sẽ hết hạn sau {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>Nhiệm vụ '{0}' sẽ hết hạn sau {1}.</QuestExpiresSoonDesc>
+  <AlertAnimalFilth>Bẩn từ động vật</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>Một con vật có thể tạo ra phân đang ở trên sàn nhà sạch sẽ trong nhà.\n\nĐộng vật tạo ra rất nhiều phân khi di chuyển trên sàn bình thường. Đặt động vật gây phân ra ngoài, hoặc trên thảm cỏ, sẽ giảm thiểu lượng phân chúng tạo ra.\n\nBạn có thể kiểm tra tỷ lệ tạo phân của động vật bằng cách nhấn nút"i" trong thông tin thống kê của chúng.\n\nCác động vật sau đây đang gây vấn đề:\n{0}</AlertAnimalFilthDesc>
+  <AlertAnimalPenNeeded>Cần có chuồng cho động vật</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>Một số động vật đã được thuần hóa của bạn đang lang thang. Nếu không nhốt chúng lại trong chuồng hoặc buộc ở điểm kéo, chúng sẽ chạy lung tung.</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>Bạn không có người chăm sóc nào để đưa động vật vào chuồng.\n\nHãy chỉ định một thuộc địa để làm các công việc có thể xử lý.</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>Tạo một chuồng bằng cách xây dựng một bảng chuồng trong khu vực có hàng rào, chướng ngại vật hoặc tường. Chọn bảng và xem nó chấp nhận những động vật nào và nó có thể chứa bao nhiêu động vật.\n\nNgười chăm sóc động vật của bạn sẽ tự động đưa động vật vào chuồng đã chỉ định.\n\nChuồng cần có một cửa hoặc cổng để tiếp nhận động vật.</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNotEnclosed>Chuồng chưa được bao kín</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>Một bảng chuồng chưa được bao kín.\n\nHãy bao kín chuồng bằng hàng rào, rào chắn, cổng, tường hoặc cửa để ngăn động vật đi lạc.\n\nNếu bạn chỉ có bảng chuồng chưa bao kín, người chăm sóc vẫn có thể dẫn động vật đi lạc về nhà - bạn sẽ phải thường xuyên đưa chúng trở lại khi chúng đi lạc.</AlertAnimalPenNotEnclosedDesc>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} trong chuồng</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>Một con {ANIMAL_labelShort} đã vào chuồng.\n\nNó có thể săn các động vật mà bạn đã nuôi nhốt.\n\nBạn có thể giết nó, hoặc hy vọng nó sẽ tự rời đi.</AlertPredatorInAnimalPenDesc>
+  <AlertAnimalIsRoaming>Động vật đã đi lạc</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>Một số động vật đã được thuần hóa của bạn đã bắt đầu di cư. Nếu chúng đến biên giới của bản đồ, chúng sẽ rời đi.\n\nNếu bạn có một chuồng kín, người chăm sóc động vật của bạn có thể đưa chúng trở lại. Động vật trong chuồng sẽ không di cư.\n\nCác động vật sau đây đang di cư:\n\n{0}</AlertAnimalIsRoamingDesc>
+  <AlertPennedAnimalHungry>Động vật nhốt đang đói</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>Một số động vật trong chuồng đang bị đói.\n\nChọn một bảng chuồng, sử dụng thẻ"Thức ăn" để xem thêm chi tiết.\n\nĐộng vật ăn cỏ có thể cần một chuồng lớn hơn để cung cấp đủ cỏ. Các động vật khác có thể cần được cung cấp thức ăn như cỏ khô hoặc thực phẩm tương tự từ kho dự trữ.\n\nCác động vật này đang bị đói:\n\n{0}</AlertPennedAnimalHungryDesc>
+  <AlertHitchedAnimalHungryNoFood>Động vật bị trói đang đói</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>Một số động vật bị trói ở điểm kéo đang bị đói. Có thể bên cạnh chúng không có thức ăn phù hợp nào.\n\nBạn có thể cho chúng ăn, để thức ăn bên cạnh chúng hoặc bỏ trói để chúng tự đi tìm thức ăn.\n\nCác động vật này đang bị đói:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertTimedRaidsArrivingIn>Cuộc tấn công sẽ đến trong {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>Kẻ thù đã bị thu hút đến địa điểm sau và sẽ sớm bắt đầu tấn công.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>Đến {0} vào {1}</AlertTimedRaidsArrivingAt>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Các phe sẽ trở nên thù địch</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Nếu bạn ở lại trong khu vực định cư hoặc tiền đồn của họ quá lâu, các phe này sẽ trở nên thù địch:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <AlertMinifiedTreeAboutToDie>Cây {0} sắp chết</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>Các cây {0} đã bị đào lên sẽ chết trong vòng một ngày, một số thuộc địa có thể cảm thấy không hài lòng vì cây chết.\n\nBạn có thể tránh điều này bằng cách trồng lại các cây này.</AlertMinifiedTreeAboutToDieDesc>
+  <NeedResearchBench>Cần có bàn nghiên cứu</NeedResearchBench>
+  <NeedResearchBenchDesc>Bạn đã kích hoạt dự án nghiên cứu"{0}", dự án này cần bạn xây dựng {1}.</NeedResearchBenchDesc>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Blight.label>Thối rữa</Blight.label>
+	<Explosion.label>Vụ nổ</Explosion.label>
+	<PawnFlyer.label>Bay</PawnFlyer.label>
+	<PawnGroundSpawner.label>Đất bị hủy hoại</PawnGroundSpawner.label>
+	<RadialTrigger.label>Kích hoạt gần</RadialTrigger.label>
+	<RectTrigger.label>Kích hoạt hình chữ nhật</RectTrigger.label>
+	<Tornado.label>Bão tố</Tornado.label>
+	<TriggerContainerEmptied.label>Kích hoạt làm trống</TriggerContainerEmptied.label>
+	<TriggerUnfogged.label>Kích hoạt xóa sương mù</TriggerUnfogged.label>
+	<TunnelHiveSpawner.label>Đường hầm</TunnelHiveSpawner.label>
+</LanguageData>

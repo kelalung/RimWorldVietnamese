@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->Một [Character] cô đơn [desc_pawn]</li>
+    <li>image->Một [Character] cô đơn gần [TerrainFeature][desc_pawn]</li>
+    <li>image->Một [Character] cô đơn gần [Community][desc_pawn]</li>
+    <li>image->Một [Character] bị bao quanh bởi một nhóm [Character][desc_pawn]</li>
+    <li>image->Các [Character] đang chơi [Game]</li>
+    <li>image->Một [Character][desc_pawn] đang chơi với [Quantity_adjphrase][Character] trong [Game]</li>
+    <li>image->Một [Character][desc_pawn] cầm [Weapon]</li>
+    <li>image->Một [Character][desc_pawn] đang ăn [Vegetable]</li>
+    <li>image->[Quantity_adjphrase][PersonJob] và [PersonJob] đang ăn [Vegetable]</li>
+    <li>image->Một [NamePerson][desc_pawn] nổi tiếng nhỏ</li>
+    <li>image->Một [Character][desc_pawn] mặc [Apparel]</li>
+    <li>image->Một [Community]</li>
+    <li>image->Một [TerrainFeature]</li>
+    <li>image->Một [Weapon]</li>
+    <li>image->Một cây [TreeType]</li>
+    <li>image->Một [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase][Weapon]</li>
+    <li>image->[Quantity_adjphrase][Vegetable]</li>
+    <li>image->Một món [Apparel] trống rỗng</li>
+    <li>image->[Shape]</li>
+    <li>image->Một [Shape] được bao quanh bởi nhiều [Shape]</li>
+    <li>image->Một dạng trừu tượng của [ConceptAny]</li>
+    <li>image->Hình dạng trừu tượng [AdjectiveAny]</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->Bay qua bầu trời</li>
+    <li>desc_pawn->Lơ lửng trong không trung</li>
+    <li>desc_pawn->Di chuyển sang trái</li>
+    <li>desc_pawn->Di chuyển sang phải</li>
+    <li>desc_pawn->Ngồi trên bàn</li>
+    <li>desc_pawn->Trong gương</li>
+    <li>desc_pawn->Hình dáng</li>
+    <li>desc_pawn->Mặc [Apparel] cưỡi trên [Animal]</li>
+    <li>desc_pawn->Trông rất [AdjectiveAny]</li>
+    <li>desc_pawn->Toàn thân đầy [Gore]</li>
+</TalelessImages.rulePack.rulesStrings>
+</LanguageData>

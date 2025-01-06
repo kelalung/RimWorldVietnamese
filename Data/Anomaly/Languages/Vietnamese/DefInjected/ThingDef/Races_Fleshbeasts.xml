@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bulbfreak.label>Quái vật u nhọt hôi thối</Bulbfreak.label>
+	<Bulbfreak.description>Một sinh vật khủng khiếp được tạo thành từ nhiều quái vật thịt nhỏ, tất cả đều được kiểm soát bởi cùng một hệ thần kinh. Nó có hai móng vuốt lớn, có thể xé nát nạn nhân. Quái vật u nhọt tỏa ra mùi hôi thối kinh khủng, thường thì trước khi nhìn thấy nó, người ta đã ngửi thấy mùi ghê tởm này. Hành động của nó tương đối chậm chạp và dễ bị tiêu diệt, sau khi chết sẽ phân chia thành một nhóm các quái vật thịt nhỏ.</Bulbfreak.description>
+	<Bulbfreak.comps.CompInspectStringEmergence.inspectString>Được biến đổi từ {SOURCEPAWN_labelShort}.</Bulbfreak.comps.CompInspectStringEmergence.inspectString>
+	<Bulbfreak.tools.tentacle-0.label>Râu</Bulbfreak.tools.tentacle-0.label>
+	<Bulbfreak.tools.tentacle-1.label>Râu</Bulbfreak.tools.tentacle-1.label>
+	<Bulbfreak.tools.tentacle-2.label>Râu</Bulbfreak.tools.tentacle-2.label>
+	<Bulbfreak.tools.tentacle-3.label>Râu</Bulbfreak.tools.tentacle-3.label>
+	<Bulbfreak.tools.tentacle-4.label>Râu</Bulbfreak.tools.tentacle-4.label>
+	<Bulbfreak.tools.head.label>Đầu</Bulbfreak.tools.head.label>
+	<Dreadmeld.label>Quái vật mẹ sợ hãi</Dreadmeld.label>
+	<Dreadmeld.description>Một sinh vật khổng lồ được tạo thành từ hàng chục quái vật thịt nhỏ, được phối hợp bởi một hệ thần kinh trung ương lỏng lẻo. Nó có thể đào hầm trong đá cứng bằng những móng vuốt khổng lồ. Quái vật mẹ sợ hãi rất ít khi xuất hiện trên bề mặt, nó thích ẩn nấp trong những hang động được xây dựng từ thịt. Nó có một sự kết nối tâm linh với các khối thịt chịu trách nhiệm xây dựng hang động.</Dreadmeld.description>
+	<Dreadmeld.comps.CompInspectStringEmergence.inspectString>Được biến đổi từ {SOURCEPAWN_labelShort}.</Dreadmeld.comps.CompInspectStringEmergence.inspectString>
+	<Dreadmeld.comps.CompLetterOnRevealed.label>Quái vật mẹ xuất hiện</Dreadmeld.comps.CompLetterOnRevealed.label>
+	<Dreadmeld.comps.CompLetterOnRevealed.text>Bạn đã phát hiện ra một quái vật mẹ sợ hãi! Sinh vật khổng lồ này được tạo thành từ nhiều quái vật thịt nhỏ.\n\nNó dường như có một kết nối tâm linh với các khối thịt hỗ trợ hang động này. Giết nó có thể gây ra sự mất ổn định cho toàn bộ hệ thống hang động.</Dreadmeld.comps.CompLetterOnRevealed.text>
+	<Dreadmeld.tools.left_spike.label>Gai xương trái</Dreadmeld.tools.left_spike.label>
+	<Dreadmeld.tools.left_spike.labelNoLocation>Gai xương</Dreadmeld.tools.left_spike.labelNoLocation>
+	<Dreadmeld.tools.right_spike.label>Gai xương phải</Dreadmeld.tools.right_spike.label>
+	<Dreadmeld.tools.right_spike.labelNoLocation>Gai xương</Dreadmeld.tools.right_spike.labelNoLocation>
+	<Dreadmeld.tools.head.label>Đầu</Dreadmeld.tools.head.label>
+	<Fingerspike.label>Quái vật một móng</Fingerspike.label>
+	<Fingerspike.description>Sinh vật thịt với một xúc tu có gai, kích thước tương đương với động vật có vú. Mặc dù chân của quái vật một móng rất ngắn, nhưng tốc độ di chuyển của nó rất nhanh.</Fingerspike.description>
+	<Fingerspike.comps.CompInspectStringEmergence.inspectString>Được biến đổi từ {SOURCEPAWN_labelShort}.</Fingerspike.comps.CompInspectStringEmergence.inspectString>
+	<Fingerspike.tools.spike.label>Gai xương</Fingerspike.tools.spike.label>
+	<Fingerspike.tools.spike.labelNoLocation>Gai xương</Fingerspike.tools.spike.labelNoLocation>
+	<Fingerspike.tools.head.label>Đầu</Fingerspike.tools.head.label>
+	<Toughspike.label>Quái vật hai móng</Toughspike.label>
+	<Toughspike.description>Sinh vật thịt với hai xúc tu có gai, cơ thể được bao phủ bởi lớp giáp, kích thước tương đương với người lớn. Quái vật hai móng có thể ném những mảnh xương sắc nhọn từ xa để hạ gục nạn nhân.\n\nNếu không nhanh chóng tiêu diệt, xác của quái vật hai móng sẽ hóa thành một vũng thịt lỏng.</Toughspike.description>
+	<Toughspike.comps.CompInspectStringEmergence.inspectString>Được biến đổi từ {SOURCEPAWN_labelShort}.</Toughspike.comps.CompInspectStringEmergence.inspectString>
+	<Toughspike.tools.left_spike.label>Gai xương trái</Toughspike.tools.left_spike.label>
+	<Toughspike.tools.left_spike.labelNoLocation>Gai xương</Toughspike.tools.left_spike.labelNoLocation>
+	<Toughspike.tools.right_spike.label>Gai xương phải</Toughspike.tools.right_spike.label>
+	<Toughspike.tools.right_spike.labelNoLocation>Gai xương</Toughspike.tools.right_spike.labelNoLocation>
+	<Toughspike.tools.head.label>Đầu</Toughspike.tools.head.label>
+	<Trispike.label>Quái vật ba móng</Trispike.label>
+	<Trispike.description>Sinh vật thịt khủng khiếp, được tạo thành từ nhiều quái vật thịt nhỏ, kích thước tương đương với người lớn. Mỗi chi của sinh vật này đều có thể tồn tại độc lập. Khi chết, quái vật ba móng có thể phân chia thành nhiều quái vật một móng, mỗi quái vật một móng đều có thể hành động và tấn công độc lập.</Trispike.description>
+	<Trispike.comps.CompInspectStringEmergence.inspectString>Được biến đổi từ {SOURCEPAWN_labelShort}.</Trispike.comps.CompInspectStringEmergence.inspectString>
+	<Trispike.tools.left_spike.label>Gai xương trái</Trispike.tools.left_spike.label>
+	<Trispike.tools.left_spike.labelNoLocation>Gai xương</Trispike.tools.left_spike.labelNoLocation>
+	<Trispike.tools.right_spike.label>Gai xương phải</Trispike.tools.right_spike.label>
+	<Trispike.tools.right_spike.labelNoLocation>Gai xương</Trispike.tools.right_spike.labelNoLocation>
+	<Trispike.tools.top_spike.label>Gai xương trên</Trispike.tools.top_spike.label>
+	<Trispike.tools.top_spike.labelNoLocation>Gai xương</Trispike.tools.top_spike.labelNoLocation>
+	<Trispike.tools.head.label>Đầu</Trispike.tools.head.label>
+</LanguageData>

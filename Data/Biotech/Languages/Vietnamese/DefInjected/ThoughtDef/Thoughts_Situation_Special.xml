@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodTorch.stages.blood_torch.label>Đuốc máu</BloodTorch.stages.blood_torch.label>
+	<BloodTorch.stages.blood_torch.description>Không gì có thể thoải mái hơn đuốc máu.</BloodTorch.stages.blood_torch.description>
+	<ChildlikePositivity.stages.childlike_joy.label>Niềm vui ngây thơ</ChildlikePositivity.stages.childlike_joy.label>
+	<ChildlikePositivity.stages.childlike_joy.description>Wow! Đẹp quá! Mới lạ! Thú vị! Thật tuyệt!</ChildlikePositivity.stages.childlike_joy.description>
+	<ChildlikePositivity.stages.childlike_wonder.label>Ngạc nhiên ngây thơ</ChildlikePositivity.stages.childlike_wonder.label>
+	<ChildlikePositivity.stages.childlike_wonder.description>Thế giới thật kỳ diệu, tôi muốn lớn nhanh!</ChildlikePositivity.stages.childlike_wonder.description>
+	<ChildlikePositivity.stages.childlike_enthusiasm.label>Hào hứng ngây thơ</ChildlikePositivity.stages.childlike_enthusiasm.label>
+	<ChildlikePositivity.stages.childlike_enthusiasm.description>Thế giới thật kỳ diệu!</ChildlikePositivity.stages.childlike_enthusiasm.description>
+	<ChildlikePositivity.stages.childlike_confidence.label>Tự tin ngây thơ</ChildlikePositivity.stages.childlike_confidence.label>
+	<ChildlikePositivity.stages.childlike_confidence.description>Có nhiều điều thú vị, tôi muốn học!</ChildlikePositivity.stages.childlike_confidence.description>
+	<DeathrestChamber.stages.deathrested_outside.label>Ngủ chết bên ngoài</DeathrestChamber.stages.deathrested_outside.label>
+	<DeathrestChamber.stages.deathrested_outside.description>Tôi phải ngủ chết bên ngoài, thật tệ.</DeathrestChamber.stages.deathrested_outside.description>
+	<DeathrestChamber.stages.awful_deathrest_chamber.label>Buồng ngủ chết tồi tệ</DeathrestChamber.stages.awful_deathrest_chamber.label>
+	<DeathrestChamber.stages.awful_deathrest_chamber.description>Tôi phải sử dụng một buồng ngủ chết tồi tệ.</DeathrestChamber.stages.awful_deathrest_chamber.description>
+	<DeathrestChamber.stages.decent_deathrest_chamber.label>Buồng ngủ chết tươm tất</DeathrestChamber.stages.decent_deathrest_chamber.label>
+	<DeathrestChamber.stages.decent_deathrest_chamber.description>Buồng ngủ chết của tôi rất tươm tất.</DeathrestChamber.stages.decent_deathrest_chamber.description>
+	<DeathrestChamber.stages.good_deathrest_chamber.label>Buồng ngủ chết ấn tượng nhỏ</DeathrestChamber.stages.good_deathrest_chamber.label>
+	<DeathrestChamber.stages.good_deathrest_chamber.description>Buồng ngủ chết của tôi nhìn có vẻ ấn tượng nhỏ, điều này thật tốt.</DeathrestChamber.stages.good_deathrest_chamber.description>
+	<DeathrestChamber.stages.great_deathrest_chamber.label>Buồng ngủ chết ấn tượng</DeathrestChamber.stages.great_deathrest_chamber.label>
+	<DeathrestChamber.stages.great_deathrest_chamber.description>Buồng ngủ chết của tôi nhìn có vẻ ấn tượng. Tôi cảm thấy tràn đầy năng lượng.</DeathrestChamber.stages.great_deathrest_chamber.description>
+	<DeathrestChamber.stages.excellent_deathrest_chamber.label>Buồng ngủ chết cực kỳ ấn tượng</DeathrestChamber.stages.excellent_deathrest_chamber.label>
+	<DeathrestChamber.stages.excellent_deathrest_chamber.description>Buồng ngủ chết của tôi cực kỳ ấn tượng. Tôi cảm thấy không thể tin được.</DeathrestChamber.stages.excellent_deathrest_chamber.description>
+	<DeathrestChamber.stages.exceptional_deathrest_chamber.label>Buồng ngủ chết cực kỳ ấn tượng</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
+	<DeathrestChamber.stages.exceptional_deathrest_chamber.description>Buồng ngủ chết của tôi cực kỳ ấn tượng. Tôi rất vinh dự.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
+	<DeathrestChamber.stages.unbelievable_deathrest_chamber.label>Buồng ngủ chết khó tin</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
+	<DeathrestChamber.stages.unbelievable_deathrest_chamber.description>Buồng ngủ chết của tôi thật tuyệt vời, thật khó tin.</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
+	<DeathrestChamber.stages.wondrous_deathrest_chamber.label>Buồng ngủ chết kỳ diệu</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
+	<DeathrestChamber.stages.wondrous_deathrest_chamber.description>Buồng ngủ chết của tôi như thiên đường! Cực kỳ xa hoa, thật không thể so sánh.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
+	<DeathrestExhaustion.stages.deathrest_exhaustion.label>Kiệt sức vì ngủ chết</DeathrestExhaustion.stages.deathrest_exhaustion.label>
+	<DeathrestExhaustion.stages.deathrest_exhaustion.description>Tôi cảm thấy rất mệt, chiếc quan tài ngủ chết đang gọi tôi. Bóng tối của thế giới khiến mọi thứ trở nên nặng nề. Tôi cần ngủ chết.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
+	<HateAura.stages.apocriton_hatred_intense.label>Thù hận mãnh liệt (Apocriton)</HateAura.stages.apocriton_hatred_intense.label>
+	<HateAura.stages.apocriton_hatred_intense.description>Tôi cảm nhận được sự thù hận trong lòng, như thể tôi chính là nó. Cảm xúc này thật gần gũi, nhưng cũng thật lạnh lùng. Chúng ta thực sự đều nên chết.</HateAura.stages.apocriton_hatred_intense.description>
+	<HateAura.stages.apocriton_hatred_strong.label>Thù hận mạnh mẽ (Apocriton)</HateAura.stages.apocriton_hatred_strong.label>
+	<HateAura.stages.apocriton_hatred_strong.description>Sự thù hận của nó vang vọng trong tâm trí tôi. Lý do, trong đầu tôi đầy rẫy những lý do cho việc bạn bè tôi nên chết.</HateAura.stages.apocriton_hatred_strong.description>
+	<HateAura.stages.apocriton_hatred_distant.label>Thù hận xa xôi (Apocriton)</HateAura.stages.apocriton_hatred_distant.label>
+	<HateAura.stages.apocriton_hatred_distant.description>Tôi cảm nhận được nó ở đâu đó. Suy nghĩ về việc chúng ta nên chết đến mức nào, và lý do đằng sau điều đó, lặp đi lặp lại, thật không thể bỏ qua.</HateAura.stages.apocriton_hatred_distant.description>
+	<HemogenCraving.stages.hemogen_craving-0.label>Khao khát huyết nguyên</HemogenCraving.stages.hemogen_craving-0.label>
+	<HemogenCraving.stages.hemogen_craving-0.description>Xương tôi đau nhức. Tôi cần huyết nguyên.</HemogenCraving.stages.hemogen_craving-0.description>
+	<HemogenCraving.stages.hemogen_craving-1.label>Khao khát huyết nguyên mãnh liệt</HemogenCraving.stages.hemogen_craving-1.label>
+	<HemogenCraving.stages.hemogen_craving-1.description>Cơn đau khiến tầm nhìn của tôi trở nên mờ mịt. Tôi sẵn sàng giết người vì máu. Có lẽ tôi nên làm như vậy...</HemogenCraving.stages.hemogen_craving-1.description>
+	<HemogenCraving.stages.hemogen_craving-2.label>Khao khát huyết nguyên cực kỳ mãnh liệt</HemogenCraving.stages.hemogen_craving-2.label>
+	<HemogenCraving.stages.hemogen_craving-2.description>Tôi không thể... suy nghĩ... khát... quá khát... phải... máu... máu...</HemogenCraving.stages.hemogen_craving-2.description>
+	<KillThirst.stages.kill_thirst.label>Khao khát giết chóc</KillThirst.stages.kill_thirst.label>
+	<KillThirst.stages.kill_thirst.description>Giết... tôi muốn giết... đã lâu tôi không giết ai gần gũi.</KillThirst.stages.kill_thirst.description>
+	<NoxiousHaze.stages.acidic_smog.label>Khói axit</NoxiousHaze.stages.acidic_smog.label>
+	<NoxiousHaze.stages.acidic_smog.description>Khói axit kỳ lạ này khiến tôi chảy nước mắt không ngừng, và thật khó chịu. Tôi cần hít thở không khí trong lành.</NoxiousHaze.stages.acidic_smog.description>
+	<PregnancyAttitude.stages.new_pregnancy-0.label>Thai nghén cuộc sống mới</PregnancyAttitude.stages.new_pregnancy-0.label>
+	<PregnancyAttitude.stages.new_pregnancy-0.description>Tôi đã mang thai! Điều này khiến tôi rất vui.</PregnancyAttitude.stages.new_pregnancy-0.description>
+	<PregnancyAttitude.stages.new_pregnancy-1.label>Thai nghén cuộc sống mới</PregnancyAttitude.stages.new_pregnancy-1.label>
+	<PregnancyAttitude.stages.new_pregnancy-1.description>Tôi đã mang thai. Tôi không vui lắm về điều này.</PregnancyAttitude.stages.new_pregnancy-1.description>
+	<PregnancyMood_Collapse.labelInBracketsExtraForHediff>Tan vỡ</PregnancyMood_Collapse.labelInBracketsExtraForHediff>
+	<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>Tâm trạng mang thai tan vỡ</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>
+	<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>Thai kỳ thật khó khăn! Tình trạng cơ thể tôi thật tệ, điều này khiến tôi kiệt sức cả về thể chất lẫn tinh thần.</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
+	<PregnancyMood_Down.labelInBracketsExtraForHediff>Thấp</PregnancyMood_Down.labelInBracketsExtraForHediff>
+	<PregnancyMood_Down.stages.pregnancy_mood_down.label>Tâm trạng mang thai thấp</PregnancyMood_Down.stages.pregnancy_mood_down.label>
+	<PregnancyMood_Down.stages.pregnancy_mood_down.description>Hôm nay không có điều gì suôn sẻ. Mang thai thật mệt mỏi.</PregnancyMood_Down.stages.pregnancy_mood_down.description>
+	<PregnancyMood_High.labelInBracketsExtraForHediff>Cao</PregnancyMood_High.labelInBracketsExtraForHediff>
+	<PregnancyMood_High.stages.pregnancy_mood_high.label>Tâm trạng mang thai cao</PregnancyMood_High.stages.pregnancy_mood_high.label>
+	<PregnancyMood_High.stages.pregnancy_mood_high.description>Thật không thể tin được! Mang thai là một món quà tuyệt vời!</PregnancyMood_High.stages.pregnancy_mood_high.description>
+	<PregnancyMood_Up.labelInBracketsExtraForHediff>Tăng</PregnancyMood_Up.labelInBracketsExtraForHediff>
+	<PregnancyMood_Up.stages.pregnancy_mood_up.label>Tâm trạng mang thai tăng cao</PregnancyMood_Up.stages.pregnancy_mood_up.label>
+	<PregnancyMood_Up.stages.pregnancy_mood_up.description>Hôm nay mọi thứ đã tốt hơn một chút. Cảm giác mang thai khá ổn.</PregnancyMood_Up.stages.pregnancy_mood_up.description>
+<PsychicBondProximity.stages.psychic_bond.label>Liên kết tâm linh</PsychicBondProximity.stages.psychic_bond.label>
+<PsychicBondProximity.stages.psychic_bond.description>Liên kết tâm linh giúp chúng ta hòa làm một, chia sẻ cảm xúc và suy nghĩ của nhau. Như những người bạn thân thiết không thể tách rời.</PsychicBondProximity.stages.psychic_bond.description>
+<PsychicBondProximity.stages.psychic_bond_distance.label>Liên kết tâm linh bị đứt (xa)</PsychicBondProximity.stages.psychic_bond_distance.label>
+<PsychicBondProximity.stages.psychic_bond_distance.description>Khoảng cách quá xa, không nghe rõ. Điều này khiến tôi cảm thấy cô đơn, như ở trong một cái hang tối tăm và yên tĩnh.</PsychicBondProximity.stages.psychic_bond_distance.description>
+<Recluse.stages.recluse_alone.label>Độc thân (người ẩn dật)</Recluse.stages.recluse_alone.label>
+<Recluse.stages.recluse_alone.description>Không phải lo lắng về người khác thật thoải mái.</Recluse.stages.recluse_alone.description>
+<Recluse.stages.recluse_in_small_group.label>Nhóm nhỏ (người ẩn dật)</Recluse.stages.recluse_in_small_group.label>
+<Recluse.stages.recluse_in_small_group.description>Thật vui khi không phải lo lắng về quá nhiều người. Độc thân thì tốt hơn, nhưng điều này cũng ổn.</Recluse.stages.recluse_in_small_group.description>
+<Recluse.stages.recluse_crowded.label>Đám đông (người ẩn dật)</Recluse.stages.recluse_crowded.label>
+<Recluse.stages.recluse_crowded.description>Ở đây đông người quá. Phải lo cho người khác khiến tôi cảm thấy áp lực lớn.</Recluse.stages.recluse_crowded.description>
+<Recluse.stages.recluse_very_crowded.label>Đám đông rất đông (người ẩn dật)</Recluse.stages.recluse_very_crowded.label>
+<Recluse.stages.recluse_very_crowded.description>Tôi không ngờ có nhiều người cùng làm việc với tôi như vậy. Tôi sẽ bị họ đè bẹp!</Recluse.stages.recluse_very_crowded.description>
+<ScanningSickness.stages.scanning_sickness.label>Hậu quả quét</ScanningSickness.stages.scanning_sickness.label>
+<ScanningSickness.stages.scanning_sickness.description>Kể từ lần quét đó, tôi luôn cảm thấy chóng mặt, không thể suy nghĩ.</ScanningSickness.stages.scanning_sickness.description>
+<SunlightSensitivity_Major.stages.sunlight_sensitivity.label>Nhạy cảm với ánh sáng mặt trời (nặng)</SunlightSensitivity_Major.stages.sunlight_sensitivity.label>
+<SunlightSensitivity_Major.stages.sunlight_sensitivity.description>Ánh sáng mặt trời đang thiêu đốt mắt tôi, da tôi cũng gần như bị cháy.</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
+<SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>Nhạy cảm với ánh sáng mặt trời</SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>
+<SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>Ánh sáng mặt trời quá chói, da tôi bắt đầu đau nhức.</SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>
+</LanguageData>

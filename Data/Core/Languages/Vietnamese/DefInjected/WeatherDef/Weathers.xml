@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Clear.label>Trời quang</Clear.label>
+<Clear.description>Thời tiết đẹp, không có hình phạt hay tăng cường nào.</Clear.description>
+<DryThunderstorm.label>Bão sấm sét khô</DryThunderstorm.label>
+<DryThunderstorm.description>Bão sấm sét khô rất nguy hiểm, vì sét có thể gây cháy, nhưng lại không có mưa để dập lửa.</DryThunderstorm.description>
+<Fog.label>Sương mù</Fog.label>
+<Fog.description>Sương mù sẽ làm giảm độ chính xác của vũ khí tầm xa.</Fog.description>
+<FoggyRain.label>Mưa sương mù</FoggyRain.label>
+<FoggyRain.description>Mưa sương mù sẽ giảm độ chính xác của vũ khí tầm xa, dập tắt lửa và cũng làm giảm tốc độ di chuyển.</FoggyRain.description>
+<Rain.label>Mưa</Rain.label>
+<Rain.description>Mưa sẽ giảm độ chính xác của vũ khí tầm xa, dập tắt lửa và cũng làm giảm tốc độ di chuyển.</Rain.description>
+<RainyThunderstorm.label>Bão tố mưa</RainyThunderstorm.label>
+<RainyThunderstorm.description>Sét có thể gây cháy, nhưng mưa lớn sẽ làm giảm độ chính xác của vũ khí tầm xa, dập tắt lửa và cũng làm giảm tốc độ di chuyển.</RainyThunderstorm.description>
+<SnowGentle.label>Tuyết rơi ít</SnowGentle.label>
+<SnowGentle.description>Tuyết sẽ giảm độ chính xác của vũ khí tầm xa, dập tắt lửa và cũng làm giảm tốc độ di chuyển.</SnowGentle.description>
+<SnowHard.label>Tuyết rơi dày</SnowHard.label>
+<SnowHard.description>Tuyết rơi dày sẽ giảm độ chính xác của vũ khí tầm xa, dập tắt lửa và cũng làm giảm tốc độ di chuyển.</SnowHard.description>
+</LanguageData>

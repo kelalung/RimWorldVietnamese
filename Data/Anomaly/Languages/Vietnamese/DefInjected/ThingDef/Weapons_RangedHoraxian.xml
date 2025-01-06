@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NerveSpiker.label>Đạn độc tê liệt</NerveSpiker.label>
+	<NerveSpiker.description>Một loại vũ khí có cấu trúc giống như một cây nỏ, có thể bắn ra những mũi nhọn thô ráp chứa độc tố tê liệt sinh vật. Mặc dù gây sát thương thấp, nhưng có thể làm cho mục tiêu không phải máy móc bị choáng. Mục tiêu càng lớn, khả năng kháng độc tố sinh vật càng mạnh, thời gian choáng càng ngắn.</NerveSpiker.description>
+	<NerveSpiker.tools.limb.label>Cán nỏ</NerveSpiker.tools.limb.label>
+	<NerveSpiker.verbs.Verb_Shoot.label>Đạn độc tê liệt</NerveSpiker.verbs.Verb_Shoot.label>
+	<NerveSpiker_Spike.label>Mũi nhọn độc tê liệt</NerveSpiker_Spike.label>
+</LanguageData>

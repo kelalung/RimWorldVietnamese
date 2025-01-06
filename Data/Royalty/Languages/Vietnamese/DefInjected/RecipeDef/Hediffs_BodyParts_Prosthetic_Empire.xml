@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <InstallDrillArm.label>Cài đặt cánh tay khoan</InstallDrillArm.label>
+<InstallDrillArm.description>Cài đặt cánh tay khoan.</InstallDrillArm.description>
+<InstallDrillArm.jobString>Đang cài đặt cánh tay khoan.</InstallDrillArm.jobString>
+<InstallElbowBlade.label>Cài đặt lưỡi khuỷu tay</InstallElbowBlade.label>
+<InstallElbowBlade.description>Cài đặt lưỡi khuỷu tay.</InstallElbowBlade.description>
+<InstallElbowBlade.jobString>Đang cài đặt lưỡi khuỷu tay.</InstallElbowBlade.jobString>
+<InstallFieldHand.label>Cài đặt tay làm nông</InstallFieldHand.label>
+<InstallFieldHand.description>Cài đặt tay làm nông.</InstallFieldHand.description>
+<InstallFieldHand.jobString>Đang cài đặt tay làm nông.</InstallFieldHand.jobString>
+<InstallHandTalon.label>Cài đặt móng tay</InstallHandTalon.label>
+<InstallHandTalon.description>Cài đặt móng tay.</InstallHandTalon.description>
+<InstallHandTalon.jobString>Đang cài đặt móng tay.</InstallHandTalon.jobString>
+<InstallKneeSpike.label>Cài đặt đinh gối</InstallKneeSpike.label>
+<InstallKneeSpike.description>Cài đặt đinh gối.</InstallKneeSpike.description>
+<InstallKneeSpike.jobString>Đang cài đặt đinh gối.</InstallKneeSpike.jobString>
+<InstallMindscrew.label>Cài đặt đinh não</InstallMindscrew.label>
+<InstallMindscrew.description>Cài đặt đinh não.</InstallMindscrew.description>
+<InstallMindscrew.jobString>Đang cài đặt đinh não.</InstallMindscrew.jobString>
+<InstallVenomFangs.label>Cài đặt răng độc</InstallVenomFangs.label>
+<InstallVenomFangs.description>Cài đặt răng độc.</InstallVenomFangs.description>
+<InstallVenomFangs.jobString>Đang cài đặt răng độc.</InstallVenomFangs.jobString>
+<InstallVenomTalon.label>Cài đặt móng độc</InstallVenomTalon.label>
+<InstallVenomTalon.description>Cài đặt móng độc.</InstallVenomTalon.description>
+<InstallVenomTalon.jobString>Đang cài đặt móng độc.</InstallVenomTalon.jobString>
+<RemoveElbowBlade.label>Tháo lắp lưỡi khuỷu tay</RemoveElbowBlade.label>
+<RemoveElbowBlade.description>Tháo lắp lưỡi khuỷu tay.</RemoveElbowBlade.description>
+<RemoveElbowBlade.jobString>Đang tháo lắp lưỡi khuỷu tay.</RemoveElbowBlade.jobString>
+<RemoveHandTalon.label>Tháo lắp móng tay</RemoveHandTalon.label>
+<RemoveHandTalon.description>Tháo lắp móng tay.</RemoveHandTalon.description>
+<RemoveHandTalon.jobString>Đang tháo lắp móng tay.</RemoveHandTalon.jobString>
+<RemoveKneeSpike.label>Tháo lắp đinh gối</RemoveKneeSpike.label>
+<RemoveKneeSpike.description>Tháo lắp đinh gối.</RemoveKneeSpike.description>
+<RemoveKneeSpike.jobString>Đang tháo lắp đinh gối.</RemoveKneeSpike.jobString>
+<RemoveVenomFangs.label>Tháo lắp răng độc</RemoveVenomFangs.label>
+<RemoveVenomFangs.description>Tháo lắp răng độc.</RemoveVenomFangs.description>
+<RemoveVenomFangs.jobString>Đang tháo lắp răng độc.</RemoveVenomFangs.jobString>
+<RemoveVenomTalon.label>Tháo lắp móng độc</RemoveVenomTalon.label>
+<RemoveVenomTalon.description>Tháo lắp móng độc.</RemoveVenomTalon.description>
+<RemoveVenomTalon.jobString>Đang tháo lắp móng độc.</RemoveVenomTalon.jobString>
+</LanguageData>

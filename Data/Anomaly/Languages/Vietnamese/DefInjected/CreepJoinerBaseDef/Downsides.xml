@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Aggressive.label>Hiếu chiến</Aggressive.label>
+  <Aggressive.letterDesc>{PAWN_nameDef} đột nhiên thay đổi tính cách. Nụ cười hung dữ hiện lên trên mặt {PAWN_possessive}.\n\n{PAWN_nameDef} đã vào trạng thái đối kháng.</Aggressive.letterDesc>
+  <Aggressive.letterLabel>{PAWN_nameDef} thù địch</Aggressive.letterLabel>
+  <CrumblingMind.label>Tâm trí sụp đổ</CrumblingMind.label>
+  <Disturbing.label>Quấy rối</Disturbing.label>
+  <EntityJailbreaker.label>Đào tẩu thực thể</EntityJailbreaker.label>
+  <Leaves.label>Rời đi</Leaves.label>
+  <Leaves.letterDesc>{PAWN_nameDef} cảm ơn bạn vì sự tiếp đón nồng hậu, nhưng cũng cho biết đã đến lúc {PAWN_pronoun} phải lên đường.</Leaves.letterDesc>
+  <Leaves.letterLabel>{PAWN_nameDef} rời đi</Leaves.letterLabel>
+  <Metalhorror.label>Quái vật kim loại</Metalhorror.label>
+  <Nothing.label>Không có gì</Nothing.label>
+  <OrganDecay.label>Suy giảm cơ quan</OrganDecay.label>
+  <PsychicAgony.label>Đau khổ tâm linh</PsychicAgony.label>
+  <PsychicAgony.letterDesc>{PAWN_nameDef} không thể kiểm soát mà phát ra một làn sóng đau khổ tâm linh! {PAWN_pronoun} đã cố gắng ngăn chặn, nhưng không thành công.\n\nCác sinh vật xung quanh sẽ bị đau đớn hành hạ trong vài ngày.</PsychicAgony.letterDesc>
+  <PsychicAgony.letterLabel>Đau khổ tâm linh</PsychicAgony.letterLabel>
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef} nhận thấy {PAWN_nameDef} đang phát ra một nguồn lực tâm linh yếu ớt và đau đớn, nhưng vẫn chưa hiểu rõ nguyên nhân của hiện tượng này.</PsychicAgony.surgicalInspectionLetterExtra>
+</LanguageData>

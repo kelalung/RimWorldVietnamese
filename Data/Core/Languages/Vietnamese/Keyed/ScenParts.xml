@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ScenPart_PlayerFaction>Phe phái của người chơi: {0}</ScenPart_PlayerFaction>
+	<ScenPart_StartWithPawn>Bắt đầu với một nhân vật.</ScenPart_StartWithPawn>
+	<ScenPart_StartWithPawns>Số lượng nhân vật bắt đầu: {0}.</ScenPart_StartWithPawns>
+	<ScenPart_StartWithPawns_OutOf>Số lượng ứng cử viên</ScenPart_StartWithPawns_OutOf>
+	<RandomPet>Thú cưng ngẫu nhiên</RandomPet>
+	<ScenPart_StartingResearchFinished>Công nghệ bắt đầu: {0}</ScenPart_StartingResearchFinished>
+	<ScenPart_ArriveInDropPods>Đến bằng tàu vận tải.</ScenPart_ArriveInDropPods>
+	<ScenPart_StatFactor>Thuộc tính "{0}" được nhân với {1} toàn cầu.</ScenPart_StatFactor>
+	<ScenPart_PawnsHaveHediff>{0} có {1} xác suất mang {2}.</ScenPart_PawnsHaveHediff>
+	<ConfigurableSeverity>Mức độ nghiêm trọng: {0}</ConfigurableSeverity>
+	<ScenPart_SetNeed>{2} trong số {0} có {1} xác suất giá trị khởi đầu nằm trong khoảng từ {3} đến {4}.</ScenPart_SetNeed>
+	<ConfigurableLevel>Cấp độ: {0}</ConfigurableLevel>
+	<ScenPart_PawnsHaveTrait>{0} có {1} xác suất nhận được đặc điểm: {2}.</ScenPart_PawnsHaveTrait>
+	<ScenPart_OnPawnDeathExplode>Nhân vật và sinh vật tự phát nổ khi chết ({0}, bán kính {1}).</ScenPart_OnPawnDeathExplode>
+	<ScenPart_PawnsAreNaked>{0} có {1} xác suất bắt đầu trong tình trạng khỏa thân.</ScenPart_PawnsAreNaked>
+	<ScenPart_StartingPawnAgeMin>Tuổi tối thiểu của nhân vật: {0}.</ScenPart_StartingPawnAgeMin>
+	<ScenPart_StartingPawnAgeMax>Tuổi tối đa của nhân vật: {0}.</ScenPart_StartingPawnAgeMax>
+	<ScenPart_StartingPawnAgeRange>Khoảng tuổi của nhân vật: từ {0} đến {1}.</ScenPart_StartingPawnAgeRange>
+	<ScenPart_StartWithSpecificColonists>Bắt đầu với {0}.</ScenPart_StartWithSpecificColonists>
+	<PawnCount>{COUNT} x {KINDLABEL}</PawnCount>
+	<ScenPart_StartWith>Tài nguyên bắt đầu</ScenPart_StartWith>
+	<ScenPart_MapScatteredWith>Tài nguyên phân tán trên bản đồ</ScenPart_MapScatteredWith>
+	<ScenPart_PermaGameCondition>Tình trạng trò chơi vĩnh viễn</ScenPart_PermaGameCondition>
+	<ScenPart_DisableIncident>Đã vô hiệu hóa các sự kiện ngẫu nhiên sau đây</ScenPart_DisableIncident>
+	<ScenPart_CreateIncident>Đã tạo các sự kiện ngẫu nhiên sau đây</ScenPart_CreateIncident>
+	<ScenPart_DisallowBuilding>Cấm xây dựng công trình</ScenPart_DisallowBuilding>
+</LanguageData>

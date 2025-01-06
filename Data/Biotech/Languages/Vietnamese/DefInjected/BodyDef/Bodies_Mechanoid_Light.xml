@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Agrihand.label>Máy làm vườn</Mech_Agrihand.label>
+<Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>Cảm biến thị giác</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+<Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>Cảm biến thính giác</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+<Mech_Agrihand.corePart.parts.right_shoulder.customLabel>Vai phải</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>
+<Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>Cánh tay phải</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+<Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>Dao cắt phải</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+<Mech_Agrihand.corePart.parts.left_leg.customLabel>Chân trái</Mech_Agrihand.corePart.parts.left_leg.customLabel>
+<Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>Chân trái</Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
+<Mech_Agrihand.corePart.parts.right_leg.customLabel>Chân phải</Mech_Agrihand.corePart.parts.right_leg.customLabel>
+<Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>Chân phải</Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
+<Mech_Light.label>Máy móc nhẹ</Mech_Light.label>
+<Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>Cảm biến thị giác</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+<Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>Cảm biến thính giác</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+<Mech_Light.corePart.parts.left_leg.customLabel>Chân trái</Mech_Light.corePart.parts.left_leg.customLabel>
+<Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>Chân trái</Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>
+<Mech_Light.corePart.parts.right_leg.customLabel>Chân phải</Mech_Light.corePart.parts.right_leg.customLabel>
+<Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>Chân phải</Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

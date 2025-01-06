@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Structure_Auburn.label>Đỏ nâu</Structure_Auburn.label>
+	<Structure_Black.label>Đen</Structure_Black.label>
+	<Structure_Blue.label>Xanh dương</Structure_Blue.label>
+	<Structure_BlueIce.label>Xanh băng</Structure_BlueIce.label>
+	<Structure_BluePastel.label>Xanh nhạt</Structure_BluePastel.label>
+	<Structure_BlueSky.label>Xanh trời</Structure_BlueSky.label>
+	<Structure_BlueSubtle.label>Xanh nhạt</Structure_BlueSubtle.label>
+	<Structure_BrownDark.label>Nâu sẫm</Structure_BrownDark.label>
+	<Structure_BrownDirt.label>Nâu đất</Structure_BrownDirt.label>
+	<Structure_BrownFaded.label>Nâu phai</Structure_BrownFaded.label>
+	<Structure_BrownLight.label>Nâu sáng</Structure_BrownLight.label>
+	<Structure_BrownSubtle.label>Nâu nhạt</Structure_BrownSubtle.label>
+	<Structure_BrownWood.label>Nâu gỗ</Structure_BrownWood.label>
+	<Structure_Burgundy.label>Đỏ rượu</Structure_Burgundy.label>
+	<Structure_Cream.label>Kem</Structure_Cream.label>
+	<Structure_DarkMauve.label>Tím đỏ sẫm</Structure_DarkMauve.label>
+	<Structure_Dusk.label>Chạng vạng</Structure_Dusk.label>
+	<Structure_Granite.label>Đá hoa cương</Structure_Granite.label>
+	<Structure_Grape.label>Tím nho</Structure_Grape.label>
+	<Structure_GrayLight.label>Xám sáng</Structure_GrayLight.label>
+	<Structure_Green.label>Xanh lá</Structure_Green.label>
+	<Structure_GreenFaded.label>Xanh lá phai</Structure_GreenFaded.label>
+	<Structure_GreenForest.label>Xanh rừng</Structure_GreenForest.label>
+	<Structure_GreenMarsh.label>Xanh ẩm</Structure_GreenMarsh.label>
+	<Structure_GreenMuddy.label>Xanh bùn</Structure_GreenMuddy.label>
+	<Structure_GreenPastel.label>Xanh nhạt</Structure_GreenPastel.label>
+	<Structure_GreenPine.label>Xanh thông</Structure_GreenPine.label>
+	<Structure_GreenSwamp.label>Xanh đầm lầy</Structure_GreenSwamp.label>
+	<Structure_GreyDark.label>Xám sẫm</Structure_GreyDark.label>
+	<Structure_Indigo.label>Xanh lam</Structure_Indigo.label>
+	<Structure_IndigoLight.label>Xanh lam sáng</Structure_IndigoLight.label>
+	<Structure_LimePale.label>Xanh chanh nhạt</Structure_LimePale.label>
+	<Structure_Limestone.label>Đá vôi</Structure_Limestone.label>
+	<Structure_Magenta.label>Tím hồng</Structure_Magenta.label>
+	<Structure_MagentaSubtle.label>Tím hồng nhạt</Structure_MagentaSubtle.label>
+	<Structure_Marble.label>Đá cẩm thạch</Structure_Marble.label>
+	<Structure_Marine.label>Xanh biển</Structure_Marine.label>
+	<Structure_Moss.label>Xanh rêu</Structure_Moss.label>
+	<Structure_MossBright.label>Xanh rêu sáng</Structure_MossBright.label>
+	<Structure_Mustard.label>Xanh mù tạt</Structure_Mustard.label>
+	<Structure_Olive.label>Xanh ô liu</Structure_Olive.label>
+	<Structure_OliveDark.label>Xanh ô liu sẫm</Structure_OliveDark.label>
+	<Structure_Orange.label>Cam</Structure_Orange.label>
+	<Structure_OrangePastel.label>Cam nhạt</Structure_OrangePastel.label>
+	<Structure_Pink.label>Hồng nhạt</Structure_Pink.label>
+	<Structure_Plum.label>Tím mận</Structure_Plum.label>
+	<Structure_Purple.label>Tím</Structure_Purple.label>
+	<Structure_PurpleDeep.label>Tím sẫm</Structure_PurpleDeep.label>
+	<Structure_PurpleMuted.label>Tím mờ</Structure_PurpleMuted.label>
+	<Structure_PurpleSubtle.label>Tím nhạt</Structure_PurpleSubtle.label>
+	<Structure_Red.label>Đỏ</Structure_Red.label>
+	<Structure_RedPastel.label>Đỏ nhạt</Structure_RedPastel.label>
+	<Structure_RedSubtle.label>Đỏ nhạt</Structure_RedSubtle.label>
+	<Structure_Sage.label>Rau xô thơm</Structure_Sage.label>
+	<Structure_Sandstone.label>Cát kết</Structure_Sandstone.label>
+	<Structure_Scarlet.label>Đỏ tươi</Structure_Scarlet.label>
+	<Structure_Slate.label>Đá phiến</Structure_Slate.label>
+	<Structure_Teal.label>Xanh nước</Structure_Teal.label>
+	<Structure_UmberBurnt.label>Nâu cháy</Structure_UmberBurnt.label>
+	<Structure_Viridian.label>Xanh ngọc</Structure_Viridian.label>
+	<Structure_ViridianSubtle.label>Xanh ngọc nhạt</Structure_ViridianSubtle.label>
+	<Structure_White.label>Trắng</Structure_White.label>
+	<Structure_YellowPastel.label>Vàng nhạt</Structure_YellowPastel.label>
+</LanguageData>

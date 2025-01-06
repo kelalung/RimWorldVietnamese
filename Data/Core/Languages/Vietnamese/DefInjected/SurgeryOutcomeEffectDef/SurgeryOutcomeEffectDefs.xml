@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SurgeryOutcomeBase.outcomes.1.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại</SurgeryOutcomeBase.outcomes.1.letterLabel>
+	<SurgeryOutcomeBase.outcomes.1.letterText>{SURGEON_labelShort} đã gặp tai nạn chết người khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.1.letterText>
+	<SurgeryOutcomeBase.outcomes.2.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại</SurgeryOutcomeBase.outcomes.2.letterLabel>
+	<SurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort} đã gặp tai nạn thảm khốc khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.2.letterText>
+	<SurgeryOutcomeBase.outcomes.3.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại</SurgeryOutcomeBase.outcomes.3.letterLabel>
+	<SurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort} đã gặp tai nạn kỳ quái khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.3.letterText>
+	<SurgeryOutcomeBase.outcomes.4.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại: đã triệt sản</SurgeryOutcomeBase.outcomes.4.letterLabel>
+	<SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} đã gặp tai nạn khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}), dẫn đến {PATIENT_objective} bị triệt sản.</SurgeryOutcomeBase.outcomes.4.letterText>
+	<SurgeryOutcomeBase.outcomes.5.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại: đã triệt sản</SurgeryOutcomeBase.outcomes.5.letterLabel>
+	<SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort} đã gặp tai nạn khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}), dẫn đến {PATIENT_objective} bị triệt sản.</SurgeryOutcomeBase.outcomes.5.letterText>
+	<SurgeryOutcomeBase.outcomes.6.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại</SurgeryOutcomeBase.outcomes.6.letterLabel>
+	<SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} đã gặp tai nạn nhẹ khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.6.letterText>
+	<SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>{PATIENT_labelShort} phẫu thuật thất bại</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+	<SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} đã gặp tai nạn nhẹ khi phẫu thuật cho {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+</LanguageData>

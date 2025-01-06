@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)-&gt;\n\nNhững khoang hạ cánh này chứa các mối đe dọa sau:\n\n[allThreats]</li>
+    <li>dangersDescription-&gt;</li>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_faction_name] của [asker_faction_leaderTitle], [asker_nameDef] đã phát động một nhiệm vụ. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)-&gt;Một [asker_royalTitleInCurrentFaction] của [asker_faction_name], [asker_nameDef] đã phát động một nhiệm vụ. [commonMainPart]</li>
+    <li>commonMainPart-&gt;Một bầy máy móc đã bắt đầu tấn công căn cứ của [asker_possessive]. [asker_pronoun] hy vọng bạn có thể phát tín hiệu cảnh báo để thu hút một phần bầy máy móc, để [asker_pronoun] có thể dễ dàng tiêu diệt tổ máy móc. Nếu bạn chấp nhận đề nghị này, (*Threat) một cụm máy móc (/Threat) sẽ hạ cánh tại [map_definite]. [dangersDescription]\n\nCụm máy móc này ban đầu sẽ ở trạng thái ngủ, chúng có thể được kích hoạt bởi một chương trình kết thúc đếm ngược nào đó, hoặc có thể sẽ tiếp tục ngủ trong tình trạng không bị quấy rối.[helpersParagraph]</li>
+</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+<ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>questName-&gt;Cụm [menace]</li>
+    <li>questName-&gt;Khoang hạ cánh [menace]</li>
+    <li>questName-&gt;[nameBased]</li>
+    <li>nameBased-&gt;Lực lượng máy móc của [asker_nameDef]</li>
+    <li>nameBased-&gt;Máy móc của [asker_nameDef]</li>
+    <li>nameBased-&gt;Cụm máy móc của [asker_nameDef]</li>
+    <li>nameBased-&gt;[menace] của [asker_nameDef]</li>
+<li>menace-&gt;Tấn công</li>
+<li>menace-&gt;Khủng hoảng</li>
+<li>menace-&gt;Thảm họa thiên nhiên</li>
+<li>menace-&gt;Mối nguy hiểm</li>
+<li>menace-&gt;Nỗi sợ hãi</li>
+<li>menace-&gt;Nỗi sợ</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

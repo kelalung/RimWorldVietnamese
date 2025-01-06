@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Mech_Agrihand.label>Máy làm vườn</Mech_Agrihand.label>
+<Mech_Cleansweeper.label>Máy quét dọn</Mech_Cleansweeper.label>
+<Mech_Constructoid.label>Máy xây dựng</Mech_Constructoid.label>
+<Mech_Fabricor.label>Máy chế tạo</Mech_Fabricor.label>
+<Mech_Lifter.label>Máy nâng</Mech_Lifter.label>
+<Mech_Militor.label>Máy hỗ trợ chiến đấu</Mech_Militor.label>
+<Mech_Paramedic.label>Máy cứu thương</Mech_Paramedic.label>
+<Mech_WarUrchin.label>Gai chiến tranh</Mech_WarUrchin.label>
+<Mech_WarUrchin.labelPlural>Các gai chiến tranh</Mech_WarUrchin.labelPlural>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ChoppedStump_Gauranlen.label>Gốc cây mẹ bị chặt</ChoppedStump_Gauranlen.label>
+<ChoppedStump_Gauranlen.description>Gốc cây còn lại sau khi chặt một cây mẹ. Gốc cây có thể được khai thác, nhưng lượng gỗ có thể sử dụng rất ít. Để ngoài trời, gốc cây sẽ theo thời gian mà lão hóa.</ChoppedStump_Gauranlen.description>
+<GauranlenSeed.label>Hạt giống cây mẹ</GauranlenSeed.label>
+<GauranlenSeed.description>Hạt giống của cây mẹ. Có thể dùng để trồng một cây mẹ hoàn toàn mới.</GauranlenSeed.description>
+<Plant_Fibercorn.label>Thân cây sợi</Plant_Fibercorn.label>
+<Plant_Fibercorn.description>Một loại cây sợi không ăn được, có thể sản xuất một lượng nhỏ chất gỗ.</Plant_Fibercorn.description>
+<Plant_MossGauranlen.label>Moss cây mẹ</Plant_MossGauranlen.label>
+<Plant_MossGauranlen.description>Moss cộng sinh mọc gần cây mẹ.</Plant_MossGauranlen.description>
+<Plant_Nutrifungus.label>Nấm dinh dưỡng</Plant_Nutrifungus.label>
+<Plant_Nutrifungus.description>Một loại nấm sinh học có giá trị dinh dưỡng cao. Nó có thể mọc trên đá vụn nấm, nhưng chỉ có thể phát triển trong bóng tối — một khi bị ánh sáng chiếu vào, bao gồm cả ánh sáng mờ, sẽ giết chết nó.</Plant_Nutrifungus.description>
+<Plant_PodGauranlen.label>Quả đậu cây mẹ</Plant_PodGauranlen.label>
+<Plant_PodGauranlen.description>Quả đậu bảo vệ hạt giống cây mẹ. Quả đậu này có thể thu hoạch để trồng hạt giống cây mẹ.</Plant_PodGauranlen.description>
+<Plant_Timbershroom.label>Nấm gỗ</Plant_Timbershroom.label>
+<Plant_Timbershroom.description>Một loại nấm lớn màu nâu, có thân dài. Khi thu hoạch, sẽ sản xuất một chất giống như gỗ.</Plant_Timbershroom.description>
+<Plant_TreeBonsai.label>Cây bonsai</Plant_TreeBonsai.label>
+<Plant_TreeBonsai.description>Một cây nhỏ được cắt tỉa cẩn thận, trông rất đẹp mắt.</Plant_TreeBonsai.description>
+<Plant_TreeGauranlen.label>Cây mẹ</Plant_TreeGauranlen.label>
+<Plant_TreeGauranlen.description>Một cây mẹ lớn, có thể sống hàng trăm năm, là nguồn gốc của nhiều cây con.</Plant_TreeGauranlen.description>
+<SmashedStump_Gauranlen.label>Gốc cây mẹ bị nghiền nát</SmashedStump_Gauranlen.label>
+<SmashedStump_Gauranlen.description>Một phần còn lại của cây mẹ bị hủy hoại. Nó trông rất xấu. Gốc cây có thể được khai thác, nhưng lượng gỗ có thể sử dụng rất ít. Để ngoài trời, gốc cây sẽ theo thời gian mà lão hóa.</SmashedStump_Gauranlen.description>
+</LanguageData>

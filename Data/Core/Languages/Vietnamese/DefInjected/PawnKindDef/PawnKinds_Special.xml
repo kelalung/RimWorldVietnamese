@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Slave.label>Nô lệ</Slave.label>
+	<Slave.labelPlural>Nô lệ</Slave.labelPlural>
+	<StrangerInBlack.label>Người lạ trong bộ đồ đen</StrangerInBlack.label>
+	<StrangerInBlack.labelFemale>Người lạ trong bộ đồ đen (Nữ)</StrangerInBlack.labelFemale>
+	<StrangerInBlack.labelMale>Người lạ trong bộ đồ đen (Nam)</StrangerInBlack.labelMale>
+	<StrangerInBlack.labelPlural>Người lạ trong bộ đồ đen</StrangerInBlack.labelPlural>
+	<WildMan.label>Người hoang dã</WildMan.label>
+	<WildMan.labelFemale>Người hoang dã (Nữ)</WildMan.labelFemale>
+	<WildMan.labelFemalePlural>Người hoang dã (Nữ)</WildMan.labelFemalePlural>
+	<WildMan.labelMale>Người hoang dã (Nam)</WildMan.labelMale>
+	<WildMan.labelMalePlural>Người hoang dã (Nam)</WildMan.labelMalePlural>
+	<WildMan.labelPlural>Người hoang dã</WildMan.labelPlural>
+</LanguageData>

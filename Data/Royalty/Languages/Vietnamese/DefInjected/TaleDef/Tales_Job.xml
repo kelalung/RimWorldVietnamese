@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AttendedConcert.label>Tham dự buổi hòa nhạc</AttendedConcert.label>
+<AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[ATTENDER_nameDef] đang tham dự buổi hòa nhạc do [ORGANIZER_nameDef] tổ chức</li>
+    <li>tale_noun-&gt;[ATTENDER_nameDef] đang nghe biểu diễn âm nhạc của [ORGANIZER_nameDef]</li>
+    <li>image-&gt;[ATTENDER_nameFull] lắng nghe một cách yên lặng, [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] đang thưởng thức buổi biểu diễn âm nhạc của [ORGANIZER_nameFull], [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] đang nhảy theo điệu nhạc, [circumstance_group]</li>
+    <li>image-&gt;[ATTENDER_nameFull] đắm chìm trong âm nhạc, [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;Kèm theo tiếng vỗ tay</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase][PersonJob] đang nhảy múa bên cạnh.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase][Animal] đang lắng nghe một cách chăm chú.</li>
+</AttendedConcert.rulePack.rulesStrings>
+<HeldConcert.label>Tổ chức buổi hòa nhạc</HeldConcert.label>
+<HeldConcert.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[ORGANIZER_nameDef] đang tổ chức một buổi hòa nhạc</li>
+    <li>image-&gt;[ORGANIZER_nameFull] đang biểu diễn bản nhạc nổi tiếng của [ORGANIZER__pronoun], [circumstance_group]</li>
+    <li>image-&gt;[ORGANIZER_nameFull] đang mời khán giả tham gia hát cùng</li>
+    <li>image-&gt;[ORGANIZER_nameFull] đang hát một bài hát nổi tiếng</li>
+    <li>image-&gt;[ORGANIZER_nameFull] đang thực hiện một màn biểu diễn khó khăn, [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;Mang theo cảm xúc mãnh liệt</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase][PersonJob] đang thưởng thức bên cạnh.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase][Animal] đang lắng nghe bên cạnh.</li>
+</HeldConcert.rulePack.rulesStrings>
+</LanguageData>

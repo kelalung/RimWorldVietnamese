@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArchotechArm.label>Cánh tay sinh học siêu phàm</ArchotechArm.label>
+	<ArchotechArm.description>Một cánh tay sinh học được sản xuất bởi trí tuệ siêu phàm. Mạnh mẽ đến mức có thể dễ dàng phá hủy gỗ cứng, nhưng cũng tinh tế đến mức có thể viết một bài thơ mười bốn dòng trong không gian của một hạt gạo. Nó trông giống như chi thể ban đầu của sinh vật, nhưng cứng hơn sợi thủy tinh. Ngay cả khi bị hư hại, nó cũng sẽ tự sửa chữa theo thời gian. Cấu trúc bên trong của nó là một bí ẩn với mọi người.</ArchotechArm.description>
+	<ArchotechEye.label>Mắt sinh học siêu phàm</ArchotechEye.label>
+	<ArchotechEye.description>Một con mắt sinh học được sản xuất bởi trí tuệ siêu phàm. Có khả năng nhận diện sóng vô tuyến, hồng ngoại, ánh sáng nhìn thấy, tia X, tia gamma và nhiều loại sóng điện từ khác, độ nhạy của nó thậm chí có thể phân biệt chữ viết từ khoảng cách 20 mét. Nó có thể phát ra nhiều bước sóng bức xạ để hỗ trợ xác định, trong khi AI nhân cách thứ cấp bên trong có thể hỗ trợ hình ảnh. Cấu trúc bên trong của nó là một bí ẩn với mọi người.</ArchotechEye.description>
+	<ArchotechLeg.label>Chân sinh học siêu phàm</ArchotechLeg.label>
+	<ArchotechLeg.description>Một chân sinh học được sản xuất bởi trí tuệ siêu phàm. Trông giống như chi thể ban đầu của sinh vật, nhưng cứng hơn sợi thủy tinh, chạy nhanh hơn cả ô tô. Ngay cả khi bị hư hại, nó cũng sẽ tự sửa chữa theo thời gian. Cấu trúc bên trong của nó là một bí ẩn với mọi người.</ArchotechLeg.description>
+</LanguageData>

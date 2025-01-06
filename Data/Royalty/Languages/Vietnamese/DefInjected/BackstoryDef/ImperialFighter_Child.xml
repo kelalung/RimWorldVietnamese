@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Delinquent13.description>[PAWN_nameDef] đã trải qua hầu hết thời thơ ấu trong tù, và sau một lần trốn thoát không thành công, [PAWN_pronoun] đã được đưa vào quân đội.</Delinquent13.description>
+<Delinquent13.baseDesc>[PAWN_nameDef] đã trải qua hầu hết thời thơ ấu trong tù, và sau một lần trốn thoát không thành công, [PAWN_pronoun] đã được đưa vào quân đội.</Delinquent13.baseDesc>
+<Delinquent13.title>Thanh Niên Phạm Tội</Delinquent13.title>
+<Delinquent13.titleShort>Thanh Niên Phạm Tội</Delinquent13.titleShort>
+<Machinist56.description>[PAWN_nameDef] có kiến thức sâu rộng về cơ khí. [PAWN_pronoun] kiếm thêm thu nhập cho gia đình bằng cách sửa chữa và cải tiến các vũ khí từ chợ đen.</Machinist56.description>
+<Machinist56.baseDesc>[PAWN_nameDef] có kiến thức sâu rộng về cơ khí. [PAWN_pronoun] kiếm thêm thu nhập cho gia đình bằng cách sửa chữa và cải tiến các vũ khí từ chợ đen.</Machinist56.baseDesc>
+<Machinist56.title>Kỹ Sư Cơ Khí</Machinist56.title>
+<Machinist56.titleShort>Kỹ Sư</Machinist56.titleShort>
+<MilitaryCadet46.description>[PAWN_nameDef] đã được gọi nhập ngũ từ nhỏ và sống cùng với những đứa trẻ khác có cha mẹ là quân nhân để học về nhiệm vụ, vũ khí, nỗi đau và chiến thắng.\n\nĐôi khi giáo viên cho phép trẻ em ra ngoài căn cứ để thử thách bản thân, vì họ cần những người lính có khả năng tư duy độc lập.</MilitaryCadet46.description>
+<MilitaryCadet46.baseDesc>[PAWN_nameDef] đã được gọi nhập ngũ từ nhỏ và sống cùng với những đứa trẻ khác có cha mẹ là quân nhân để học về nhiệm vụ, vũ khí, nỗi đau và chiến thắng.\n\nĐôi khi giáo viên cho phép trẻ em ra ngoài căn cứ để thử thách bản thân, vì họ cần những người lính có khả năng tư duy độc lập.</MilitaryCadet46.baseDesc>
+<MilitaryCadet46.title>Sinh Viên Quân Sự</MilitaryCadet46.title>
+<MilitaryCadet46.titleShort>Học Viên</MilitaryCadet46.titleShort>
+<PoliticalCaptive7.description>[PAWN_nameDef] bị một gia đình thù địch bắt cóc và tống tiền. Để giết thời gian trong lúc bị giam cầm, [PAWN_pronoun] đã đọc sách và rèn luyện võ thuật, nhưng rất ít có cơ hội phát triển kỹ năng xã hội.</PoliticalCaptive7.description>
+<PoliticalCaptive7.baseDesc>[PAWN_nameDef] bị một gia đình thù địch bắt cóc và tống tiền. Để giết thời gian trong lúc bị giam cầm, [PAWN_pronoun] đã đọc sách và rèn luyện võ thuật, nhưng rất ít có cơ hội phát triển kỹ năng xã hội.</PoliticalCaptive7.baseDesc>
+<PoliticalCaptive7.title>Con Tin</PoliticalCaptive7.title>
+<PoliticalCaptive7.titleShort>Con Tin</PoliticalCaptive7.titleShort>
+ <RichKid61.description>[PAWN_nameDef] đến từ một dòng dõi giàu có và có ảnh hưởng. Điều này đã khiến [PAWN_nameDef] từ nhỏ đã nhận được giáo dục quý tộc bao gồm cả đấu kiếm, lãnh đạo và chiến lược quân sự.</RichKid61.description>
+<RichKid61.baseDesc>[PAWN_nameDef] đến từ một dòng dõi giàu có và có ảnh hưởng. Điều này đã khiến [PAWN_nameDef] từ nhỏ đã nhận được giáo dục quý tộc bao gồm cả đấu kiếm, lãnh đạo và chiến lược quân sự.</RichKid61.baseDesc>
+<RichKid61.title>Con Nhà Giàu</RichKid61.title>
+<RichKid61.titleShort>Con Nhà Giàu</RichKid61.titleShort>
+<ShipBoy89.description>[PAWN_nameDef] là một người hầu cấp thấp sinh ra trên một chiếc tàu không gian cổ đại. AI thông minh trên tàu giống như một người cha thứ ba của [PAWN_pronoun], [PAWN_pronoun] luôn coi chiếc tàu như nhà của mình.\n\n[PAWN_nameDef] hiếm khi thấy thực vật hoặc động vật và rất cảnh giác với sinh vật sống.</ShipBoy89.description>
+<ShipBoy89.baseDesc>[PAWN_nameDef] là một người hầu cấp thấp sinh ra trên một chiếc tàu không gian cổ đại. AI thông minh trên tàu giống như một người cha thứ ba của [PAWN_pronoun], [PAWN_pronoun] luôn coi chiếc tàu như nhà của mình.\n\n[PAWN_nameDef] hiếm khi thấy thực vật hoặc động vật và rất cảnh giác với sinh vật sống.</ShipBoy89.baseDesc>
+<ShipBoy89.title>Người Hầu Tàu</ShipBoy89.title>
+<ShipBoy89.titleFemale>Người Hầu Nữ</ShipBoy89.titleFemale>
+<ShipBoy89.titleShort>Người Hầu Tàu</ShipBoy89.titleShort>
+<ShipBoy89.titleShortFemale>Người Hầu Nữ</ShipBoy89.titleShortFemale>
+<SoldiersKid55.description>[PAWN_nameDef] lớn lên trên một chiếc tàu không gian cổ đại, nơi mà cha mẹ của [PAWN_possessive] đóng quân. [PAWN_nameDef] đã học được những kiến thức cơ bản về vận hành và sửa chữa vũ khí từ các quân nhân trên tàu. [PAWN_nameDef] đã quen với các quy định nghiêm ngặt và kỷ luật khắt khe.</SoldiersKid55.description>
+<SoldiersKid55.baseDesc>[PAWN_nameDef] lớn lên trên một chiếc tàu không gian cổ đại, nơi mà cha mẹ của [PAWN_possessive] đóng quân. [PAWN_nameDef] đã học được những kiến thức cơ bản về vận hành và sửa chữa vũ khí từ các quân nhân trên tàu. [PAWN_nameDef] đã quen với các quy định nghiêm ngặt và kỷ luật khắt khe.</SoldiersKid55.baseDesc>
+<SoldiersKid55.title>Con Của Lính</SoldiersKid55.title>
+<SoldiersKid55.titleShort>Con Lính</SoldiersKid55.titleShort>
+<StreetRat81.description>[PAWN_nameDef] là một thành viên của băng nhóm trộm cắp đường phố. Tất cả thời gian của [PAWN_possessive] chủ yếu dành cho việc ăn cắp, tranh giành lãnh thổ, hoặc sử dụng bất kỳ loại ma túy nào mà [PAWN_pronoun] có thể có được.</StreetRat81.description>
+<StreetRat81.baseDesc>[PAWN_nameDef] là một thành viên của băng nhóm trộm cắp đường phố. Tất cả thời gian của [PAWN_possessive] chủ yếu dành cho việc ăn cắp, tranh giành lãnh thổ, hoặc sử dụng bất kỳ loại ma túy nào mà [PAWN_pronoun] có thể có được.</StreetRat81.baseDesc>
+<StreetRat81.title>Đứa Trộm Đường Phố</StreetRat81.title>
+<StreetRat81.titleShort>Đứa Trộm</StreetRat81.titleShort>
+</LanguageData>

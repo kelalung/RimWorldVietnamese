@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Audio.label>Âm thanh</Audio.label>
+	<Controls.label>Điều khiển</Controls.label>
+	<Dev.label>Nhà phát triển</Dev.label>
+	<Gameplay.label>Chơi game</Gameplay.label>
+	<General.label>Chung</General.label>
+	<Graphics.label>Đồ họa</Graphics.label>
+	<Interface.label>Giao diện</Interface.label>
+	<Mods.label>Tùy chọn mod</Mods.label>
+</LanguageData>

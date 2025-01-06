@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ConventChild16.description>[PAWN_nameDef] là kết quả của một mối tình cấm, [PAWN_pronoun] được nuôi dưỡng bởi các nữ tu trong tu viện trung cổ. [PAWN_pronoun] hiểu giá trị của sự làm việc chăm chỉ và sự phục tùng, nhưng đồng thời cũng được dạy rằng công nghệ là dị giáo.</ConventChild16.description>
+	<ConventChild16.baseDesc>[PAWN_nameDef] là kết quả của một mối tình cấm, [PAWN_pronoun] được nuôi dưỡng bởi các nữ tu trong tu viện trung cổ. [PAWN_pronoun] hiểu giá trị của sự làm việc chăm chỉ và sự phục tùng, nhưng đồng thời cũng được dạy rằng công nghệ là dị giáo.</ConventChild16.baseDesc>
+	<ConventChild16.title>Đứa trẻ trong tu viện</ConventChild16.title>
+	<ConventChild16.titleShort>Quả táo cấm</ConventChild16.titleShort>
+	<MedievalLordling19.description>[PAWN_nameDef] từng là một tiểu quý tộc trong một vương quốc cổ xưa của thế giới trung cổ. [PAWN_pronoun] sống trong một điền trang được xây dựng bằng đá cắt, được phục vụ bởi những người hầu tận tụy. \n\nCuộc sống như vậy khiến [PAWN_objective] không có kỹ năng gì và ghét lao động chân tay - nhưng [PAWN_nameDef] đã sớm học được cách điều khiển người khác.</MedievalLordling19.description>
+	<MedievalLordling19.baseDesc>[PAWN_nameDef] từng là một tiểu quý tộc trong một vương quốc cổ xưa của thế giới trung cổ. [PAWN_pronoun] sống trong một điền trang được xây dựng bằng đá cắt, được phục vụ bởi những người hầu tận tụy. \n\nCuộc sống như vậy khiến [PAWN_objective] không có kỹ năng gì và ghét lao động chân tay - nhưng [PAWN_nameDef] đã sớm học được cách điều khiển người khác.</MedievalLordling19.baseDesc>
+	<MedievalLordling19.title>Tiểu quý tộc trung cổ</MedievalLordling19.title>
+	<MedievalLordling19.titleFemale>Tiểu quý tộc trung cổ</MedievalLordling19.titleFemale>
+	<MedievalLordling19.titleShort>Tiểu quý tộc</MedievalLordling19.titleShort>
+	<MedievalLordling19.titleShortFemale>Tiểu quý tộc</MedievalLordling19.titleShortFemale>
+	<MedievalSlave49.description>[PAWN_nameDef] sinh ra trong thế giới trung cổ, bên cạnh [PAWN_pronoun] lớn lên chỉ có những công việc nặng nhọc như kéo xe và khoan lỗ, còn có sự đánh đập tàn nhẫn từ chủ. \n\n[PAWN_pronoun] không biết chữ cho đến khi chín tuổi.</MedievalSlave49.description>
+	<MedievalSlave49.baseDesc>[PAWN_nameDef] sinh ra trong thế giới trung cổ, bên cạnh [PAWN_pronoun] lớn lên chỉ có những công việc nặng nhọc như kéo xe và khoan lỗ, còn có sự đánh đập tàn nhẫn từ chủ. \n\n[PAWN_pronoun] không biết chữ cho đến khi chín tuổi.</MedievalSlave49.baseDesc>
+	<MedievalSlave49.title>Nô lệ trung cổ</MedievalSlave49.title>
+	<MedievalSlave49.titleShort>Nô lệ</MedievalSlave49.titleShort>
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cloth.label>Vải</Cloth.label>
+	<Cloth.description>Vải được dệt từ sợi hữu cơ.</Cloth.description>
+	<Cloth.stuffProps.stuffAdjective>Vải</Cloth.stuffProps.stuffAdjective>
+	<DevilstrandCloth.label>Vải nấm quỷ</DevilstrandCloth.label>
+	<DevilstrandCloth.description>Vải được dệt từ sợi chiết xuất từ nấm quỷ. Rất bền, khả năng cách nhiệt xuất sắc và có tính chống cháy tốt.</DevilstrandCloth.description>
+	<DevilstrandCloth.stuffProps.stuffAdjective>Vải nấm quỷ</DevilstrandCloth.stuffProps.stuffAdjective>
+	<Gold.label>Vàng</Gold.label>
+	<Gold.description>Kim loại quyến rũ nhất trên thế giới. Nhiều người đã mất mạng vì khao khát vàng. Kim loại mềm màu vàng này không có nhiều công dụng, nhưng rất đẹp và cực kỳ hiếm.</Gold.description>
+	<Gold.stuffProps.stuffAdjective>Vàng</Gold.stuffProps.stuffAdjective>
+	<Hyperweave.label>Vải siêu</Hyperweave.label>
+	<Hyperweave.description>Vải sợi nano công nghệ cao, được dệt từ máy nano sản xuất đặc biệt. Hơi nặng một chút, nhưng gần như không thể bị hỏng. Công nghệ sản xuất này chỉ được những thế giới tiên tiến nhất nắm giữ.</Hyperweave.description>
+	<Hyperweave.stuffProps.stuffAdjective>Vải siêu</Hyperweave.stuffProps.stuffAdjective>
+	<Jade.label>Ngọc bích</Jade.label>
+	<Jade.description>Loại đá cứng màu xanh lá cây. Do vẻ đẹp và sự hiếm có, ngọc bích thường được dùng để trang trí và làm đẹp. Độ cứng và mật độ cũng làm cho nó trở thành vật liệu tốt cho vũ khí đâm.</Jade.description>
+	<Jade.stuffProps.stuffAdjective>Ngọc bích</Jade.stuffProps.stuffAdjective>
+	<Plasteel.label>Thép composite</Plasteel.label>
+	<Plasteel.description>Vật liệu cấu trúc tiên tiến của thời kỳ không gian. Nhờ cấu trúc phân tử độc đáo, thép composite có độ bền rất cao.</Plasteel.description>
+	<Plasteel.stuffProps.stuffAdjective>Thép composite</Plasteel.stuffProps.stuffAdjective>
+	<Silver.label>Bạc</Silver.label>
+	<Silver.description>Kim loại này chủ yếu được sử dụng làm tiền tệ chung. Cũng có thể được dùng để tạo ra các đồ trang sức bắt mắt.</Silver.description>
+	<Silver.stuffProps.stuffAdjective>Bạc</Silver.stuffProps.stuffAdjective>
+	<Steel.label>Thép</Steel.label>
+	<Steel.description>Hợp kim sắt-carbon đa năng, có thể được sử dụng để xây dựng công trình, chế tạo công cụ hoặc vũ khí.</Steel.description>
+	<Steel.stuffProps.stuffAdjective>Thép</Steel.stuffProps.stuffAdjective>
+	<Synthread.label>Vải tổng hợp</Synthread.label>
+	<Synthread.description>Vải tổng hợp của thời kỳ không gian, thường được sử dụng để làm quần áo. Mềm mại, nhẹ nhàng, bền và có khả năng cách nhiệt tốt.</Synthread.description>
+	<Synthread.stuffProps.stuffAdjective>Vải tổng hợp</Synthread.stuffProps.stuffAdjective>
+	<Uranium.label>Uranium</Uranium.label>
+	<Uranium.description>Một loại kim loại có độ cứng và mật độ rất cao. Mặc dù nó nổi tiếng vì cung cấp năng lượng cho lò phản ứng hạt nhân, nhưng các đặc tính vật lý của nó cũng khiến nó thể hiện tốt trong việc làm công cụ, vũ khí hoặc áo giáp.</Uranium.description>
+	<Uranium.stuffProps.stuffAdjective>Uranium</Uranium.stuffProps.stuffAdjective>
+	<WoodLog.label>Gỗ nguyên liệu</WoodLog.label>
+	<WoodLog.description>Gỗ từ cây hoặc các loại thực vật có sợi khác. Có thể được sử dụng để xây dựng công trình, vũ khí hoặc thậm chí là chân giả đơn giản, hoặc làm nhiên liệu cho lửa trại và máy phát điện. Cũng có thể được tinh chế thành nhiên liệu hóa học. Một thanh gỗ làm từ gỗ nguyên liệu có thể được sử dụng như một vũ khí trong những lúc khẩn cấp.</WoodLog.description>
+	<WoodLog.stuffProps.stuffAdjective>Gỗ</WoodLog.stuffProps.stuffAdjective>
+	<WoodLog.tools.log.label>Đầu trước</WoodLog.tools.log.label>
+	<WoolAlpaca.label>Lông Alpaca</WoolAlpaca.label>
+	<WoolAlpaca.description>Lông rất mềm mại của Alpaca. Nó giữ ấm rất tốt, có khả năng chống nóng và giá thành cao.</WoolAlpaca.description>
+	<WoolAlpaca.stuffProps.stuffAdjective>Lông Alpaca</WoolAlpaca.stuffProps.stuffAdjective>
+	<WoolBison.label>Lông Bison</WoolBison.label>
+	<WoolBison.description>Lông Bison dày và thô. Rất ấm áp.</WoolBison.description>
+	<WoolMegasloth.label>Lông Megasloth</WoolMegasloth.label>
+	<WoolMegasloth.description>Mặc dù có hơi thô, nhưng sợi dài của lông Megasloth khiến nó rất bền và đặc biệt ấm áp.</WoolMegasloth.description>
+	<WoolMegasloth.stuffProps.stuffAdjective>Lông Megasloth</WoolMegasloth.stuffProps.stuffAdjective>
+	<WoolMuffalo.label>Lông Muffalo</WoolMuffalo.label>
+	<WoolMuffalo.description>Mềm mại, nhẹ nhàng và có khả năng cách nhiệt tốt. Ngay cả trong điều kiện khắc nghiệt, quần áo làm từ lông Muffalo cũng có thể giữ ấm cho cơ thể.</WoolMuffalo.description>
+	<WoolMuffalo.stuffProps.stuffAdjective>Lông Muffalo</WoolMuffalo.stuffProps.stuffAdjective>
+	<WoolSheep.label>Lông Cừu</WoolSheep.label>
+	<WoolSheep.description>Lông của cừu, có khả năng cách nhiệt tốt.</WoolSheep.description>
+	<WoolSheep.stuffProps.stuffAdjective>Lông Cừu</WoolSheep.stuffProps.stuffAdjective>
+</LanguageData>

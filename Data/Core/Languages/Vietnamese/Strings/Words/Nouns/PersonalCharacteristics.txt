@@ -1,0 +1,145 @@
+﻿Trang phục
+Trang phục lựa chọn
+Thời thượng tri thức
+
+Dung mạo
+Bề ngoài
+Thân cao
+Thể trọng
+Tóc
+Kiểu tóc
+Thể mao
+Lông nách
+Mặt
+Cái mũi
+Lỗ tai
+Cái cằm
+Cái trán
+Tay
+Thân thể
+Dáng người
+Cơ bắp
+
+Thanh âm
+Phương thức nói chuyện
+Khẩu âm
+
+Xạ kích kỹ năng
+Cận chiến kỹ năng
+Xã giao kỹ năng
+Trồng kỹ năng
+Chữa bệnh kỹ năng
+Thuần thú kỹ năng
+Nấu nướng kỹ năng
+Kiến trúc kỹ năng
+Lấy quặng kỹ năng
+Nghệ thuật kỹ năng
+Thủ công kỹ năng
+Trí biết kỹ năng
+
+Kỹ năng
+Năng khiếu
+Trí tuệ
+Sức phán đoán
+Trí nhớ
+Cảm xúc khống chế
+Tự điều khiển
+Năng lực làm việc
+Thái độ
+Đi đường phương thức
+Cách tự hỏi
+Phương thức chiến đấu
+Năng lực học tập
+Ẩm thực
+Ẩm thực quen thuộc
+Đồ ăn đặc biệt thích
+Quan hệ trạng thái
+Tuổi tác
+Giá trị quan
+Trách nhiệm tâm
+Sứ mệnh cảm giác
+Vinh dự
+Thành thật
+Dũng cảm
+Ý kiến
+Tín ngưỡng
+Mạch suy nghĩ
+Mộng tưởng
+Dã tâm
+Người quen thuộc
+Cá nhân vệ sinh
+Kháng hàn năng lực
+Cá tính
+Chủng tộc
+Văn hóa
+Giải trí đặc biệt thích
+Đúng giờ trình độ
+Khẳng khái
+Đảm lượng
+Trung thành
+Thành tín
+Thiện lương
+Khẩu tài
+Khí độ
+Mị lực
+Thành ý
+Khai sáng
+
+Xuất thân
+Phụ mẫu
+Trưởng bối
+Bằng hữu
+Gia đình
+Gia đình bối cảnh
+Tình lữ
+Người nhà
+Gia phả
+
+Tính cách
+Năng khiếu
+Yêu thích
+Làm người
+Chiến đấu trình độ
+Trù nghệ
+Động thủ năng lực
+Sự nhẫn nại
+Tính tình
+Đầu óc buôn bán
+Trả giá năng lực
+Năng lực chỉ huy
+Lãnh đạo lực
+Nước mắt điểm
+Tâm địa
+Phản ứng
+Tốc độ
+Lực lượng
+Thể lực
+EQ
+Ý chí lực
+Phương hướng cảm giác
+Trí nhớ
+Thuỷ tính
+Kinh nghiệm chiến đấu
+Kinh nghiệm làm việc
+Sinh hoạt kinh nghiệm
+Lịch duyệt
+Hài hước cảm giác
+Ca hát trình độ
+Vũ đạo trình độ
+Sáng tác trình độ
+Dừng chân yêu cầu
+Giải trí yêu cầu
+Ẩm thực yêu cầu
+Chơi biên giới thế giới trình độ
+Biến trang trình độ
+
+Tư thế ngủ
+Tán tỉnh kỹ xảo
+Cách ăn mặc
+Lịch pháp tuổi tác
+Quan hệ nhân mạch
+Nghề nghiệp
+
+Tính kỹ thuật
+Hướng giới tính
+Kinh nghiệm tình dục

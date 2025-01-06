@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AccuracyLong.label>Độ chính xác (xa)</AccuracyLong.label>
+	<AccuracyLong.description>Hệ số độ chính xác của vũ khí khi ở khoảng cách 40 ô trở lên.\n\nTỷ lệ trúng thực tế cũng bị ảnh hưởng bởi các yếu tố khác.</AccuracyLong.description>
+	<AccuracyMedium.label>Độ chính xác (trung)</AccuracyMedium.label>
+	<AccuracyMedium.description>Hệ số độ chính xác của vũ khí khi ở khoảng cách 25 ô và gần hơn.\n\nTỷ lệ trúng thực tế cũng bị ảnh hưởng bởi các yếu tố khác.</AccuracyMedium.description>
+	<AccuracyShort.label>Độ chính xác (gần)</AccuracyShort.label>
+	<AccuracyShort.description>Hệ số độ chính xác của vũ khí khi ở khoảng cách 12 ô và gần hơn.\n\nTỷ lệ trúng thực tế cũng bị ảnh hưởng bởi các yếu tố khác.</AccuracyShort.description>
+	<AccuracyTouch.label>Độ chính xác (sát)</AccuracyTouch.label>
+	<AccuracyTouch.description>Hệ số độ chính xác của vũ khí khi ở khoảng cách 3 ô hoặc gần hơn.\n\nTỷ lệ trúng thực tế cũng bị ảnh hưởng bởi các yếu tố khác.</AccuracyTouch.description>
+	<RangedWeapon_Cooldown.label>Thời gian hồi chiêu tầm xa</RangedWeapon_Cooldown.label>
+	<RangedWeapon_Cooldown.description>Thời gian cần thiết để hồi phục sau mỗi lần bắn.</RangedWeapon_Cooldown.description>
+	<RangedWeapon_Cooldown.formatString>{0} giây</RangedWeapon_Cooldown.formatString>
+	<RangedWeapon_DamageMultiplier.label>Hệ số sát thương</RangedWeapon_DamageMultiplier.label>
+	<RangedWeapon_DamageMultiplier.description>Hệ số sát thương của đạn được bắn ra từ vũ khí này.</RangedWeapon_DamageMultiplier.description>
+</LanguageData>

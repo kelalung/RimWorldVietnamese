@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} phát điên</LetterLabelAnimalInsanitySingle>
+	<AnimalInsanitySingle>Một con {ANIMAL_label} trong khu vực này đã phát điên. Nó sẽ tấn công bất kỳ con người nào trong tầm nhìn.</AnimalInsanitySingle>
+	<LetterLabelAnimalInsanityMultiple>Một đám {0} phát điên</LetterLabelAnimalInsanityMultiple>
+	<AnimalInsanityMultiple>Một làn sóng tâm linh đã quét qua toàn bộ khu vực. Các thuộc địa của bạn không gặp vấn đề gì, nhưng...\n\nCó vẻ như nhiều {0} trong khu vực này đã phát điên.</AnimalInsanityMultiple>
+	<LetterLabelCropBlight>Bệnh héo: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+	<LetterCropBlight>Một thuộc địa đã nhận thấy rằng {PLANTDEF_labelPlural} của bạn bị bệnh héo!\nBạn nên cắt bỏ hoặc thiêu hủy những cây bị héo trước khi bệnh lây lan.</LetterCropBlight>
+	<LetterLabelMiracleHeal>Phép màu chữa bệnh</LetterLabelMiracleHeal>
+	<MiracleHeal>{0} đã hồi phục một cách kỳ diệu!</MiracleHeal>
+	<EnemyRaidLeaderPresent>Một thành viên của {LEADER_factionPawnsPlural}——{LEADER_labelShort}, là lãnh đạo của phe này.</EnemyRaidLeaderPresent>
+	<FriendlyRaidLeaderPresent>Một thành viên của {LEADER_factionPawnsPlural}——{LEADER_labelShort}, là lãnh đạo của phe này.</FriendlyRaidLeaderPresent>
+	<LetterLabelRefugeePodCrash>Tàu tị nạn rơi</LetterLabelRefugeePodCrash>
+	<RefugeePodCrash>Tàu tị nạn đã rơi gần đây, bên trong có một người tên là {PAWN_nameDef} {PAWN_titleIndef}.\n\nDù đã sống sót sau vụ va chạm, {PAWN_pronoun} vẫn bị thương nặng.</RefugeePodCrash>
+	<RefugeePodCrash_Child>{PAWN_nameDef} là một đứa trẻ {AGE}.</RefugeePodCrash_Child>
+	<RefugeePodCrash_Factionless>{PAWN_pronoun} không thuộc về bất kỳ phe nào. Bạn có thể cứu {PAWN_objective} và hy vọng {PAWN_pronoun} sẽ tự do tham gia, hoặc bắt giữ {PAWN_objective} để tuyển mộ hoặc nô lệ hóa.</RefugeePodCrash_Factionless>
+	<RefugeePodCrash_Hostile>{PAWN_nameDef} đến từ phe thù địch {PAWN_factionName}, bạn có thể bắt giữ {PAWN_objective} để tuyển mộ hoặc nô lệ hóa.</RefugeePodCrash_Hostile>
+	<RefugeePodCrash_NonHostile>{PAWN_nameDef} đến từ {PAWN_factionName}. Nếu bạn cứu {PAWN_objective}, {PAWN_pronoun} sẽ cải thiện mối quan hệ giữa hai bên khi trở về phe của {PAWN_possessive}.\n\nBạn cũng có thể bắt giữ {PAWN_objective} để tuyển mộ hoặc nô lệ hóa, nhưng điều này sẽ làm phẫn nộ {PAWN_possessive} phe.</RefugeePodCrash_NonHostile>
+	<LetterLabelWandererJoins>Người lang thang gia nhập: {PAWN_nameDef}</LetterLabelWandererJoins>
+	<LetterWandererJoins>Một người tên là {PAWN_nameDef} {PAWN_title} đã đến đây, muốn gia nhập thuộc địa.\n\n{PAWN_pronoun} nói rằng không có nơi nào để đi và sẵn sàng đóng góp. {PAWN_objective} sẽ không tự ý rời đi, bạn có thể từ chối {PAWN_objective} và đuổi {PAWN_objective} đi. Tuy nhiên, thuộc địa của bạn sẽ cảm thấy không thoải mái khi đuổi một người cần giúp đỡ.</LetterWandererJoins>
+	<LetterLabelCargoPodCrash>Tàu hàng hóa rơi</LetterLabelCargoPodCrash>
+	<CargoPodCrash>Bạn phát hiện một nhóm Tàu hàng hóa đã rơi gần đây.\n\nBạn có thể tìm thấy nhiều đồ hữu ích trong đống đổ nát.</CargoPodCrash>
+	<AnElectricalConduit>Dây điện bị chập</AnElectricalConduit>
+	<ShortCircuit>Sự cố ở {0} đã gây ra một sự chập điện.</ShortCircuit>
+	<ShortCircuitStartedFire>Sự cố ở {0} đã gây ra một sự chập điện và gây ra hỏa hoạn.</ShortCircuitStartedFire>
+	<ShortCircuitDischargedEnergy>Tất cả năng lượng {0}Wd được lưu trữ trong các pin kết nối đã được giải phóng trong vụ nổ điện.</ShortCircuitDischargedEnergy>
+	<ShortCircuitWasLarge>Sự tích trữ năng lượng lớn đã gây ra một vụ nổ đáng kể.</ShortCircuitWasLarge>
+	<ShortCircuitWasHuge>Vụ nổ này thật sự rất lớn, wow!</ShortCircuitWasHuge>
+	<TraderArrival>Một con tàu thương mại đang đi qua.\n\nHọ được gọi là {0}, là {1}.\n\n{2}</TraderArrival>
+	<TraderArrivalFromFaction>Họ thuộc về {FACTION_name}.</TraderArrivalFromFaction>
+	<TraderArrivalNoFaction>Họ không thuộc về bất kỳ phe nào.</TraderArrivalNoFaction>
+	<SingleTravelerPassing>Một {0} từ {1} đang đi qua. Tên của {PAWN_pronoun} là {PAWN_nameFull}.</SingleTravelerPassing>
+	<GroupTravelersPassing>Một nhóm du khách từ {0} đang đi qua.</GroupTravelersPassing>
+	<LetterLabelSingleVisitorArrives>Khách</LetterLabelSingleVisitorArrives>
+	<SingleVisitorArrives>Một {PAWN_titleIndef} từ {1} đã đến thăm thuộc địa.\n\nTên của {PAWN_pronoun} là {PAWN_nameFull}. {3}{4}</SingleVisitorArrives>
+	<SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun} dường như có một số hàng hóa để giao dịch.</SingleVisitorArrivesTraderInfo>
+	<SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun} là lãnh đạo của phe này.</SingleVisitorArrivesLeaderInfo>
+	<LetterLabelGroupVisitorsArrive>Khách</LetterLabelGroupVisitorsArrive>
+	<GroupVisitorsArrive>Một nhóm người từ {0} đã đến thăm thuộc địa. {1}{2}</GroupVisitorsArrive>
+	<GroupVisitorsArriveTraderInfo>\n\nHọ dường như có một số hàng hóa để giao dịch.</GroupVisitorsArriveTraderInfo>
+	<GroupVisitorsArriveLeaderInfo>\n\n{1_labelShort} trong nhóm khách là lãnh đạo của phe này.</GroupVisitorsArriveLeaderInfo>
+	<VisitorsLeaving>Các khách từ {0} chuẩn bị rời đi.</VisitorsLeaving>
+	<LetterLabelManhunterPackArrived>Bầy săn người</LetterLabelManhunterPackArrived>
+	<ManhunterPackArrived>Một bầy {0} săn người đã vào khu vực này. Chúng đã phát điên vì cơn cuồng loạn và sẽ lang thang để săn lùng con người.\n\nChúng sẽ không vào qua cửa, vì vậy nếu bạn ở trong nhà và đóng cửa thì sẽ an toàn. Chúng cũng sẽ không tấn công các tháp pháo đóng, vì vậy nếu bạn muốn tránh bị phá hủy, bạn có thể ngừng cung cấp năng lượng cho tháp pháo.\n\nBầy {0} này sẽ rời đi sau vài ngày. Bạn có thể ẩn nấp đợi chúng rời đi hoặc chiến đấu với chúng.</ManhunterPackArrived>
+	<MessageAnimalInsanityPulse>{SOURCE_label} phát ra một xung tâm linh khiến các động vật xung quanh phát điên.</MessageAnimalInsanityPulse>
+	<LetterShipPartDroveColonistInsane>Phần tàu rơi đã phát ra một xung tâm linh khiến thuộc địa {0} phát điên.</LetterShipPartDroveColonistInsane>
+	<AwokeDaysAgo>Đã được đánh thức {0} ngày trước.</AwokeDaysAgo>
+	<ActivatedDaysAgo>Đã được kích hoạt {0} ngày trước.</ActivatedDaysAgo>
+	<OpenedDaysAgo>Đã được mở {0} ngày trước.</OpenedDaysAgo>
+	<PsychicDroneLevel>Cường độ tâm linh: {0}</PsychicDroneLevel>
+	<LetterLabelPsychicDroneLevelIncreased>Tâm linh gia tăng</LetterLabelPsychicDroneLevelIncreased>
+	<LetterPsychicDroneLevelIncreased>Cường độ tâm linh phát ra từ phần tàu rơi đã tăng lên. Tất cả {0} con người trong khu vực này bị ảnh hưởng nặng nề hơn, bắt đầu trở nên hoảng loạn và nghi ngờ hơn.</LetterPsychicDroneLevelIncreased>
+	<LetterLabelAgentRevealed>Gián điệp</LetterLabelAgentRevealed>
+	<LetterAgentRevealed>{0} đã bị phát hiện là một gián điệp được cử đến bởi kẻ thù của bạn {1}.\n\nHọ hiện đang cố gắng trốn thoát.</LetterAgentRevealed>
+	<LetterLabelBeaversArrived>Những con hải ly Alpha!</LetterLabelBeaversArrived>
+	<BeaversArrived>Một bầy hải ly Alpha đói khát đã xuất hiện.\n\nTiêu diệt chúng trước khi những động vật biến đổi gen này đốn hạ cây cuối cùng trong khu vực này.</BeaversArrived>
+	<LetterLabelAnimalSelfTame>{1_kind} tự thuần hóa</LetterLabelAnimalSelfTame>
+	<LetterAnimalSelfTame>{0} đã tự thuần hóa.</LetterAnimalSelfTame>
+	<LetterAnimalSelfTameAndNameNumerical>{0} đã tự thuần hóa. Hiện đã được đặt tên là {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+	<LetterAnimalSelfTameAndName>{0} đã tự thuần hóa. Các thuộc địa quyết định đặt tên cho nó là {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+	<LetterLabelFarmAnimalsWanderIn>{0} gia nhập</LetterLabelFarmAnimalsWanderIn>
+	<LetterFarmAnimalsWanderIn>Một bầy {0} bị bỏ rơi hoặc lạc đã lang thang đến khu vực này.\n\nChúng dường như quen với việc sống cùng con người và đã gia nhập thuộc địa.</LetterFarmAnimalsWanderIn>
+	<LetterLabelThrumboPasses>Thú quý hiếm</LetterLabelThrumboPasses>
+	<LetterThrumboPasses>Một nhóm nhỏ thú quý hiếm đã đến khu vực này.\n\nLoài thú hiếm này có bản tính hiền lành, nhưng khi bị kích thích sẽ trở nên rất nguy hiểm. Một số thương nhân sẵn sàng trả giá cao để mua da và sừng quý giá của chúng.\n\nThú quý sẽ rời đi sau vài ngày.</LetterThrumboPasses>
+	<LetterLabelTraderCaravanArrival>Đoàn thương nhân từ {0} {1}</LetterLabelTraderCaravanArrival>
+	<LetterTraderCaravanArrival>Một đoàn thương nhân từ {0} đang tiến gần, họ là {1}.</LetterTraderCaravanArrival>
+	<LetterCaravanArrivalCommonWarning>Họ sẽ ở lại thuộc địa vài ngày rồi rời đi. Bạn có thể tấn công họ, nhưng điều này sẽ làm phẫn nộ phe của họ!</LetterCaravanArrivalCommonWarning>
+	<RansomDemandTitle>Yêu cầu {0} tiền chuộc</RansomDemandTitle>
+	<RansomDemand>{1} đã gửi tín hiệu liên lạc. Họ đã bắt cóc thuộc địa {PAWN_labelShort} và yêu cầu tiền chuộc.\n\nĐể chuộc lại {PAWN_objective} từ tay họ cần {2} bạc.</RansomDemand>
+	<RansomDemand_Accept>Đồng ý</RansomDemand_Accept>
+	<RansomDemand_Reject>Từ chối</RansomDemand_Reject>
+	<EscapeShipFoundLabel>Phát hiện tàu vũ trụ</EscapeShipFoundLabel>
+	<EscapeShipFound>Bạn đã đến tọa độ mà (*Name) Shalon White đã gửi và phát hiện một tàu vũ trụ ẩn.\n\nPhản ứng của tàu vẫn ở chế độ ngủ sâu, vì vậy chưa thể bay. Bạn có thể khởi động nó bằng cách vận hành lõi máy tính.\n\n(*Name) Shalon White cảnh báo rằng quá trình khởi động sẽ mất khoảng 15 ngày và có thể phát hiện năng lượng từ khoảng cách xa. Năng lượng này cho thấy khả năng bay giữa các vì sao và sẽ thu hút một nhóm kẻ tấn công và thợ săn kho báu tuyệt vọng. Hãy đảm bảo chuẩn bị phòng thủ ngay lập tức.</EscapeShipFound>
+	<EscapeShipFoundPeaceful>Bạn đã đến tọa độ mà (*Name) Shalon White đã gửi và phát hiện một tàu vũ trụ ẩn.\n\nPhản ứng của tàu vẫn ở chế độ ngủ sâu, vì vậy chưa thể bay. Bạn có thể khởi động nó bằng cách vận hành lõi máy tính.\n\n(*Name) Shalon White cảnh báo rằng quá trình khởi động sẽ mất khoảng 15 ngày.</EscapeShipFoundPeaceful>
+	<CaravanMeetingTitle>Gặp gỡ đoàn thương nhân ({0})</CaravanMeetingTitle>
+	<CaravanMeeting>{0} và đoàn thương nhân từ {1} đã gặp nhau một cách hòa bình. Cấu trúc của đoàn thương nhân khác:\n\n{2}</CaravanMeeting>
+	<CaravanMeeting_Trade>Giao dịch</CaravanMeeting_Trade>
+	<CaravanMeeting_Attack>Tấn công</CaravanMeeting_Attack>
+	<CaravanMeeting_MoveOn>Tiếp tục tiến</CaravanMeeting_MoveOn>
+	<CaravanMeeting_TradeIncapable>Không có thành viên nào trong đoàn có khả năng giao dịch</CaravanMeeting_TradeIncapable>
+	<CaravanMeeting_NoPermit>Cần một {0} của {1_name} để thực hiện giao dịch.</CaravanMeeting_NoPermit>
+	<LetterLabelCaravanRequest>Yêu cầu đoàn thương nhân</LetterLabelCaravanRequest>
+	<LetterCaravanRequest>Một khu định cư gần đó, {0}, đã liên lạc với bạn và đưa ra yêu cầu giao dịch đặc biệt. Họ muốn mua:\n\n  {1} (giá trị {2})\n\nĐổi lại, họ sẽ cung cấp:\n\n  {3} (giá trị {4})\n\nThời hạn yêu cầu: {5}\n\nNếu bạn muốn hoàn thành giao dịch này, hãy cử một đoàn thương nhân mang theo những vật phẩm này. Thời gian ước tính cho chuyến đi là {6}. Bạn có thể chọn {0} trên bản đồ thế giới để xem yêu cầu này.</LetterCaravanRequest>
+	<CaravanRequestInfo>Nhu cầu: {0} ({2}) (còn lại {1})</CaravanRequestInfo>
+	<NormalQualityOrBetter>Chất lượng yêu cầu phải từ trung bình trở lên.</NormalQualityOrBetter>
+	<NotTainted>Chưa bị ô nhiễm</NotTainted>
+	<CaravanDemandTitle>Đoàn thương nhân bị {0} cướp</CaravanDemandTitle>
+	<CaravanDemand>{0} đã bị {2} từ {1} cướp {4}. Họ sẽ tấn công bạn, trừ khi bạn đưa cho họ:\n\n{3}</CaravanDemand>
+	<CaravanDemand_Give>Đưa ra và cho phép đi qua</CaravanDemand_Give>
+	<CaravanDemand_Fight>Từ chối và chiến đấu</CaravanDemand_Fight>
+	<LetterLabelSiteNoLongerHostile>Nhiệm vụ không còn khả dụng</LetterLabelSiteNoLongerHostile>
+	<LetterLabelSiteNoLongerHostileMulti>Nhiệm vụ không còn khả dụng</LetterLabelSiteNoLongerHostileMulti>
+	<LetterSiteNoLongerHostile>Bởi vì bạn và {0} không còn thù địch, địa điểm {1} sẽ không còn khả dụng</LetterSiteNoLongerHostile>
+	<LetterSiteNoLongerHostileMulti>Bởi vì bạn và {0} không còn thù địch, các địa điểm sau sẽ không còn khả dụng</LetterSiteNoLongerHostileMulti>
+	<LetterLabelQuestAskerFactionHostile>Nhiệm vụ thất bại</LetterLabelQuestAskerFactionHostile>
+	<LetterQuestAskerFactionHostile>Do đã ở trong tình trạng thù địch với {FACTION_name}, nhiệm vụ này không thể hoàn thành.</LetterQuestAskerFactionHostile>
+	<LetterLabelQuestAskerCaptured>Nhiệm vụ thất bại</LetterLabelQuestAskerCaptured>
+	<LetterQuestAskerCaptured>Bởi vì {SUBJECT_definite} đã bị bắt, nhiệm vụ này không thể tiếp tục.</LetterQuestAskerCaptured>
+	<LetterLabelQuestAskerDied>Nhiệm vụ thất bại</LetterLabelQuestAskerDied>
+	<LetterQuestAskerDied>Đối tượng nhiệm vụ {SUBJECT_definite} đã chết, dẫn đến nhiệm vụ này không thể hoàn thành.</LetterQuestAskerDied>
+</LanguageData>

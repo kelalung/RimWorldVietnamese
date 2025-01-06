@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings>
+    <li>failLetterEndingCommon-&gt;Bạn đã không hoàn thành nhiệm vụ '[resolvedQuestName]'.</li>
+<li>successLetterEndingCommon-&gt;Bạn đã hoàn thành nhiệm vụ '[resolvedQuestName]' thành công.</li>
+<li>goodwillSomeCiviliansLost-&gt;Không phải tất cả [asker_faction_pawnSingular] [pawnLabel] đều sống sót.[goodwillNegativelyAffected]</li>
+<li>goodwillAllCiviliansLost-&gt;Tất cả [asker_faction_pawnSingular] [pawnLabelPlural] đều không sống sót.[goodwillNegativelyAffected]</li>
+<li>goodwillNegativelyAffected-&gt;Mối quan hệ tốt đẹp của bạn với mỗi [pawnLabel] không trở về sẽ làm giảm thiện cảm của [asker_faction_name] đối với bạn.</li>
+<li>commanderLandingDesc-&gt;Hy vọng [asker_possessive] tàu vũ trụ hạ cánh ở [map_definite] của chỉ huy [asker_nameDef]</li>
+<li>raidArrivedLetterLabel-&gt;Cuộc tấn công: [enemyFaction_name]</li>
+<li>raidArrivedLetterText-&gt;Đội quân [enemyFaction_name] đã đến [map_definite]. Họ sẽ tấn công [asker_faction_pawnsPlural].\n\nBảo vệ [asker_faction_pawnsPlural] cho đến khi quân tiếp viện của họ đến [rescueShuttleAfterRaidDelay_duration].</li>
+<li>rescueShuttleArrivedLetterLabel-&gt;Tàu cứu hộ đã đến</li>
+<li>rescueShuttleArrivedLetterText-&gt;Tàu cứu hộ đến để cứu [pawnLabelSingleOrPlural] đã đến. Đảm bảo rằng những người này lên tàu trong [leaveDelay_duration]:\n\n[civilians]</li>
+<li>questCompletedSuccessLetterLabel-&gt;Nhiệm vụ hoàn thành: [resolvedQuestName]</li>
+<li>questCompletedSuccessLetterText-&gt;[commanderLandingDesc] đã thoát thành công. [asker_pronoun] rất cảm kích vì đã nhận được sự trợ giúp từ [map_definite].\n\n[successLetterEndingCommon]</li>
+<li>questCompletedCiviliansLostSuccessLetterLabel-&gt;Nhiệm vụ hoàn thành: [resolvedQuestName]</li>
+<li>questCompletedCiviliansLostSuccessLetterText-&gt;[commanderLandingDesc] đã thoát thành công.\n\nNhưng [goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</li>
+<li>askerLostLetterLabel-&gt;Nhiệm vụ thất bại: [resolvedQuestName]</li>
+<li>askerLostLetterText-&gt;[commanderLandingDesc] không có mặt trên tàu cứu hộ khi tàu cất cánh.\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</li>
+<li>allLostLetterLabel-&gt;Nhiệm vụ thất bại: [resolvedQuestName]</li>
+<li>allLostLetterText-&gt;Đội quân [asker_faction_pawnsPlural] bị rơi không có bất kỳ người sống sót nào hoặc lên tàu.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
+<li>askerDiedLetterLabel-&gt;Nhiệm vụ thất bại: [resolvedQuestName]</li>
+<li>askerDiedLetterText-&gt;[commanderLandingDesc] đã chết.\n\n[failLetterEndingCommon]</li>
+<li>shuttleDestroyedLetterLabel-&gt;Nhiệm vụ thất bại: [resolvedQuestName]</li>
+<li>shuttleDestroyedLetterText-&gt;Tàu vũ trụ chịu trách nhiệm cứu đội quân [asker_faction_pawnsPlural] đã bị phá hủy. [asker_faction_pawnsPlural] giờ sẽ cố gắng đi bộ ra ngoài.\n\n[failLetterEndingCommon]</li>
+  </ShuttleCrash_Rescue.questContentRules.rulesStrings>
+  <ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+ <li>pawnLabel-&gt;Dân thường</li>
+    <li>pawnLabelPlural-&gt;Dân thường</li>
+  </ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+   <li>pawnLabelSingleOrPlural(civilians_count==1)-&gt;[pawnLabel]</li>
+    <li>pawnLabelSingleOrPlural(civilians_count&gt;=2)-&gt;[pawnLabelPlural]</li>
+    <li>questDescription-&gt;Một con tàu bị hư hại thuộc về [asker_faction_name] đang tìm kiếm vị trí hạ cánh. Chỉ huy của tàu [asker_nameDef] muốn hạ cánh tại [map_definite].\n\nCác [enemyFaction_name] của [enemyFaction_pawnsPlural] sẽ tấn công con tàu gặp nạn để cố gắng giết chết các dân thường bên trong, bạn cần bảo vệ họ.\n\nNhân viên trên tàu bao gồm [asker_nameDef][andOtherCivilians] và [soldierCountKinds]. Bạn cần bảo vệ chỉ huy [andCivilians], nhưng có thể hy sinh [soldiers0_kindPlural].\n\nSau [rescueDelay_duration], sẽ có một tàu cứu hộ đến đón những người sống sót, bạn cần đảm bảo họ lên tàu trong [leaveDelay_duration].</li>
+    <li>andOtherCivilians(civilians_count==1)-&gt;</li>
+    <li>andOtherCivilians(civilians_count==2)-&gt;，[pawnLabel]</li>
+    <li>andOtherCivilians(civilians_count&gt;=3)-&gt;，[civilianCountMinusOne] người dân thường khác</li>
+    <li>andCivilians(civilians_count==1)-&gt;</li>
+    <li>andCivilians(civilians_count==2)-&gt; và [pawnLabel]</li>
+    <li>andCivilians(civilians_count&gt;=3)-&gt; và [pawnLabelPlural]</li>
+    <li>soldierCountKinds(soldiers_count==1)-&gt;[soldiers_count][soldiers0_kind]</li>
+    <li>soldierCountKinds(soldiers_count&gt;1)-&gt;[soldiers_count][soldiers0_kindPlural]</li>
+  </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings>
+   <li>questName-&gt;[shuttle][crash]</li>
+    <li>questName-&gt;[asker_faction_pawnSingular][shuttle][crash]</li>
+    <li>questName-&gt;[damaged][shuttle]</li>
+    <li>questName-&gt;[asker_nameDef] của [damaged][shuttle]</li>
+    <li>questName-&gt;[emergency][landing]</li>
+    <li>questName-&gt;[asker_nameDef] của [emergency][landing]</li>
+    <li>shuttle-&gt;Tàu vũ trụ</li>
+    <li>shuttle-&gt;Vận tải</li>
+    <li>shuttle-&gt;Tàu bay</li>
+    <li>crash-&gt;Rơi</li>
+    <li>crash-&gt;Hạ cánh khẩn cấp</li>
+     <li>damaged-&gt;Hư hại</li>
+    <li>damaged-&gt;Phá hủy</li>
+    <li>damaged-&gt;Thiệt hại</li>
+    <li>emergency-&gt;Khẩn cấp</li>
+    <li>emergency-&gt;Bị ép</li>
+    <li>landing-&gt;Chạm đất</li>
+    <li>landing-&gt;Hạ cánh</li>
+    <li>landing-&gt;Đỗ</li>
+  </ShuttleCrash_Rescue.questNameRules.rulesStrings>
+</LanguageData>

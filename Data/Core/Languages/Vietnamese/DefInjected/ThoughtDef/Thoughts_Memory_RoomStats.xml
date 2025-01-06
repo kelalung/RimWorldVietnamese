@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>Nhà hàng đàng hoàng</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+<AteInImpressiveDiningRoom.stages.decent_dining_room.description>Tôi đã ăn tại một nhà hàng đàng hoàng.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+<AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>Nhà hàng hơi ấn tượng</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng hơi ấn tượng.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+<AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>Nhà hàng có ấn tượng khá sâu sắc</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng có ấn tượng khá sâu sắc.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+<AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>Nhà hàng rất ấn tượng</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng rất ấn tượng.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+<AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>Nhà hàng cực kỳ ấn tượng</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng cực kỳ ấn tượng, tôi không muốn quay lại nữa.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+<AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>Nhà hàng khó tin</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng khó tin, tôi không muốn quay lại nữa.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+<AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>Nhà hàng kỳ diệu</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+<AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Tôi đã ăn tại một nhà hàng như cõi thiên đường, khung cảnh tuyệt đẹp khiến người ta lưu luyến.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+<JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>Phòng giải trí đàng hoàng</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>Tôi đã có một khoảng thời gian vui vẻ trong một phòng giải trí đàng hoàng.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>Phòng giải trí hơi ấn tượng</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>Tôi đã có một khoảng thời gian vui vẻ trong một phòng giải trí hơi ấn tượng.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>Phòng giải trí có ấn tượng khá sâu sắc</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>Tôi đã có một khoảng thời gian tuyệt vời trong một phòng giải trí có ấn tượng khá sâu sắc.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>Phòng giải trí rất ấn tượng</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>Tôi đã có một khoảng thời gian tuyệt vời trong một phòng giải trí rất ấn tượng.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>Phòng giải trí cực kỳ ấn tượng</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>Tôi đã có một khoảng thời gian tuyệt vời trong một phòng giải trí cực kỳ ấn tượng, tôi không muốn quay lại nữa.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>Phòng giải trí khó tin</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>Tôi đã có một khoảng thời gian tuyệt vời trong một phòng giải trí khó tin, tôi không muốn quay lại nữa.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+<JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>Phòng giải trí kỳ diệu</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+<JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Tôi đã có một khoảng thời gian tuyệt vời trong một phòng giải trí như cõi thiên đường, khung cảnh tuyệt đẹp khiến người ta lưu luyến.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+<SleptInBarracks.stages.awful_barracks.label>Nhà ở tồi tệ</SleptInBarracks.stages.awful_barracks.label>
+<SleptInBarracks.stages.awful_barracks.description>Nơi tôi nghỉ ngơi không chỉ tồi tệ mà còn phải ngủ chung với người khác!</SleptInBarracks.stages.awful_barracks.description>
+<SleptInBarracks.stages.dull_barracks.label>Nhà ở nhàm chán</SleptInBarracks.stages.dull_barracks.label>
+<SleptInBarracks.stages.dull_barracks.description>Tôi sống trong một nhà ở nhàm chán với người khác.</SleptInBarracks.stages.dull_barracks.description>
+<SleptInBarracks.stages.mediocre_barracks.label>Nhà ở bình thường</SleptInBarracks.stages.mediocre_barracks.label>
+<SleptInBarracks.stages.mediocre_barracks.description>Tôi sống trong một nhà ở bình thường với người khác, tôi thật sự không thích điều này.</SleptInBarracks.stages.mediocre_barracks.description>
+<SleptInBarracks.stages.decent_barracks.label>Nhà ở đàng hoàng</SleptInBarracks.stages.decent_barracks.label>
+<SleptInBarracks.stages.decent_barracks.description>Nhà ở của tôi khá đàng hoàng, nhưng tôi thật sự không thích chia sẻ phòng ngủ với người khác.</SleptInBarracks.stages.decent_barracks.description>
+<SleptInBarracks.stages.slightly_impressive_barracks.label>Nhà ở hơi ấn tượng</SleptInBarracks.stages.slightly_impressive_barracks.label>
+<SleptInBarracks.stages.slightly_impressive_barracks.description>Nhà ở của tôi là một nơi tốt, nhưng tôi thật sự không thích ngủ chung với người khác.</SleptInBarracks.stages.slightly_impressive_barracks.description>
+<SleptInBarracks.stages.impressive_barracks.label>Nhà ở ấn tượng</SleptInBarracks.stages.impressive_barracks.label>
+<SleptInBarracks.stages.impressive_barracks.description>Nhà ở của tôi rất ấn tượng. Dù vậy, việc ngủ chung với người khác vẫn rất khó chịu.</SleptInBarracks.stages.impressive_barracks.description>
+<SleptInBarracks.stages.very_impressive_barracks.label>Nhà ở rất ấn tượng</SleptInBarracks.stages.very_impressive_barracks.label>
+<SleptInBarracks.stages.very_impressive_barracks.description>Nhà ở của tôi rất ấn tượng. Dù vậy, việc ngủ chung với người khác vẫn khiến tôi bực bội.</SleptInBarracks.stages.very_impressive_barracks.description>
+<SleptInBarracks.stages.extremely_impressive_barracks.label>Nhà ở cực kỳ ấn tượng</SleptInBarracks.stages.extremely_impressive_barracks.label>
+<SleptInBarracks.stages.extremely_impressive_barracks.description>Nhà ở của tôi cực kỳ ấn tượng. Gần như đã xóa tan sự khó chịu khi ngủ chung với người khác.</SleptInBarracks.stages.extremely_impressive_barracks.description>
+<SleptInBarracks.stages.unbelievably_impressive_barracks.label>Nhà ở khó tin</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+<SleptInBarracks.stages.unbelievably_impressive_barracks.description>Nhà ở của tôi thật sự khó tin. Tôi thậm chí không ngại ngủ chung với người khác.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+<SleptInBarracks.stages.wondrously_impressive_barracks.label>Nhà ở kỳ diệu</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+<SleptInBarracks.stages.wondrously_impressive_barracks.description>Nhà ở của tôi như một nơi thiên đường. Ngay cả khi chia sẻ niềm vui này với người khác cũng thật tuyệt.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+<SleptInBedroom.stages.awful_bedroom.label>Phòng ngủ tồi tệ</SleptInBedroom.stages.awful_bedroom.label>
+<SleptInBedroom.stages.awful_bedroom.description>Phòng ngủ của tôi thật tồi tệ.</SleptInBedroom.stages.awful_bedroom.description>
+<SleptInBedroom.stages.decent_bedroom.label>Phòng ngủ đàng hoàng</SleptInBedroom.stages.decent_bedroom.label>
+<SleptInBedroom.stages.decent_bedroom.description>Phòng ngủ của tôi rất thú vị, tôi thích nó.</SleptInBedroom.stages.decent_bedroom.description>
+<SleptInBedroom.stages.slightly_impressive_bedroom.label>Phòng ngủ hơi ấn tượng</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+<SleptInBedroom.stages.slightly_impressive_bedroom.description>Phòng ngủ của tôi là một nơi tốt, tôi thích nó.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+<SleptInBedroom.stages.impressive_bedroom.label>Phòng ngủ ấn tượng</SleptInBedroom.stages.impressive_bedroom.label>
+<SleptInBedroom.stages.impressive_bedroom.description>Phòng ngủ của tôi rất ấn tượng, tôi rất thích!</SleptInBedroom.stages.impressive_bedroom.description>
+<SleptInBedroom.stages.very_impressive_bedroom.label>Phòng ngủ rất ấn tượng</SleptInBedroom.stages.very_impressive_bedroom.label>
+<SleptInBedroom.stages.very_impressive_bedroom.description>Phòng ngủ của tôi rất ấn tượng, tôi yêu nơi này!</SleptInBedroom.stages.very_impressive_bedroom.description>
+<SleptInBedroom.stages.extremely_impressive_bedroom.label>Phòng ngủ cực kỳ ấn tượng</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+<SleptInBedroom.stages.extremely_impressive_bedroom.description>Phòng ngủ của tôi cực kỳ ấn tượng, thật tuyệt vời!</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+<SleptInBedroom.stages.unbelievably_impressive_bedroom.label>Phòng ngủ khó tin</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+<SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Phòng ngủ của tôi thật sự khó tin, không nơi nào tốt hơn nơi này!</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+<SleptInBedroom.stages.wondrously_impressive_bedroom.label>Phòng ngủ kỳ diệu</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+<SleptInBedroom.stages.wondrously_impressive_bedroom.description>Phòng ngủ của tôi như một nơi thiên đường, khiến người ta lưu luyến!</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+</LanguageData>

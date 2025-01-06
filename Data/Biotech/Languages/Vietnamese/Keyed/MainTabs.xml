@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MissingRequiredMechanitor>Cần có kỹ sư máy móc</MissingRequiredMechanitor>
+<NotStudied>{0} chưa được phân tích</NotStudied>
+<StudyRequirements>Cần phân tích</StudyRequirements>
+<PreferredXenotypes>Xenotype được yêu thích</PreferredXenotypes>
+<WorkDisabledAge>{0_nameDef} chỉ mới {1} tuổi. Công việc “{2}” chỉ có thể thực hiện khi đạt {3} tuổi.</WorkDisabledAge>
+<ClickToChangeWorkMode>Nhấp để chuyển đổi chế độ hành động.</ClickToChangeWorkMode>
+</LanguageData>

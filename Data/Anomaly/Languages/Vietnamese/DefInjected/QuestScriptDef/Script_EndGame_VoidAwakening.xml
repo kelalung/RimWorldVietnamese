@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EndGame_VoidAwakening.questContentRules.rulesStrings>
+		<li>darknessStartedLetterLabel-&gt;Bóng tối bất thường</li>
+		<li>darknessStartedLetterText-&gt;Một làn sóng bóng tối bất thường đã tràn đến thế giới. Những sinh vật không phải người đang hoạt động ở nơi ánh sáng không thể chạm tới. Hãy giữ cho những người định cư ở nơi có đủ ánh sáng.</li>
+		<li>structuresArrivingAlertLabel-&gt;Cấu trúc hư không đang đến</li>
+		<li>structuresArrivingAlertExplanation-&gt;Ranh giới giữa thế giới của chúng ta và hư không đang bị phá vỡ. Sớm thôi, những cấu trúc đến từ hư không sẽ xuất hiện gần đây. Để hoàn toàn đánh thức các khối hư không, bạn phải kích hoạt chúng.\n\nHãy chuẩn bị đón nhận sự xuất hiện của chúng.</li>
+		<li>voidStructuresLetterLabel-&gt;Cấu trúc hư không</li>
+		<li>voidStructuresLetterText-&gt;Một số cấu trúc biến dạng đang xuất hiện, dường như không biết từ đâu đến. Chúng phát ra năng lượng tâm linh tăm tối, khiến thực vật xung quanh héo úa.\n\nHãy kích hoạt những cấu trúc này để tiến xa hơn.</li>
+		<li>gleamingMonolithWarningLetterLabel-&gt;Biến dạng gia tăng</li>
+		<li>gleamingMonolithWarningLetterText-&gt;Hình dạng của khối đá bắt đầu biến dạng, và điều này ngày càng mạnh mẽ hơn. Có điều gì sắp xảy ra...</li>
+		<li>gleamingMonolithLetterLabel-&gt;Khối hư không</li>
+		<li>gleamingMonolithLetterText-&gt;Khối đá đã hoàn toàn được đánh thức. Một cơn lốc tối tăm xoay tròn nằm ở đỉnh của khối đá, tạo thành một lối vào hư không.\n\nHãy đến gần khối đá, và dùng nó để đi qua khối đá đến phía bên kia. Điều này sẽ kết thúc cuộc tấn công của bóng tối bất thường và chấm dứt cuộc tấn công của những sinh vật hư không này.</li>
+		<li>monolithTwistingAlertLabel-&gt;Khối đá biến dạng</li>
+		<li>monolithTwistingAlertExplanation-&gt;Khối đá này đang âm thầm biến dạng, đồng thời làm biến dạng tâm trí của những người nhìn vào nó. Có điều gì sắp xảy ra - hãy chuẩn bị sẵn sàng.</li>
+	</EndGame_VoidAwakening.questContentRules.rulesStrings>
+	<EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;</li>
+	</EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+	<EndGame_VoidAwakening.questNameRules.rulesStrings>
+		<li>questName-&gt;Đánh thức hư không</li>
+	</EndGame_VoidAwakening.questNameRules.rulesStrings>
+	<EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;</li>
+	</EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+	<EndGame_VoidMonolith.questNameRules.rulesStrings>
+		<li>questName-&gt;Khối đá bất thường</li>
+	</EndGame_VoidMonolith.questNameRules.rulesStrings>
+</LanguageData>

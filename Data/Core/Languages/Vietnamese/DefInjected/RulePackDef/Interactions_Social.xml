@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Sentence_SocialFightStarted.rulePack.rulesStrings>
+		<li>sent->Điều này khiến [RECIPIENT_nameDef] vô cùng tức giận và bắt đầu đánh nhau!</li>
+	</Sentence_SocialFightStarted.rulePack.rulesStrings>
+</LanguageData>

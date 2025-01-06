@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoDiversity_Abhorrent.label>Định kiến mạnh mẽ</IdeoDiversity_Abhorrent.label>
+<IdeoDiversity_Abhorrent.description>Các tín ngưỡng khác đều là âm mưu ác độc phá hoại thế giới. Để họ tồn tại trong cộng đồng là hoàn toàn không thể chấp nhận.</IdeoDiversity_Abhorrent.description>
+<IdeoDiversity_Abhorrent.comps.2.description>Tất cả các thực dân đều có hình thức văn hóa giống nhau</IdeoDiversity_Abhorrent.comps.2.description>
+<IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
+<IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
+<IdeoDiversity_Approved.label>Công nhận</IdeoDiversity_Approved.label>
+<IdeoDiversity_Approved.description>Các tín ngưỡng khác đáng được hiểu. Sống cùng những người có ý tưởng khác là điều tốt.</IdeoDiversity_Approved.description>
+<IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
+<IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
+<IdeoDiversity_Disapproved.label>Định kiến nhẹ nhàng</IdeoDiversity_Disapproved.label>
+<IdeoDiversity_Disapproved.description>Các tín ngưỡng khác rõ ràng là ngu ngốc. Để họ tồn tại trong cộng đồng là không tốt.</IdeoDiversity_Disapproved.description>
+<IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
+<IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
+<IdeoDiversity_Exalted.label>Cao quý</IdeoDiversity_Exalted.label>
+<IdeoDiversity_Exalted.description>Giải quyết sự khác biệt là đỉnh cao của đạo đức, sống cùng những người có ý tưởng khác là rất đạo đức.</IdeoDiversity_Exalted.description>
+<IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
+<IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
+<IdeoDiversity_Horrible.label>Định kiến thích hợp</IdeoDiversity_Horrible.label>
+<IdeoDiversity_Horrible.description>Các tín ngưỡng khác đều là ảo tưởng thực sự gây hại, để họ tồn tại trong cộng đồng là không tốt.</IdeoDiversity_Horrible.description>
+<IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
+<IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
+<IdeoDiversity_Respected.label>Được tôn trọng cao độ</IdeoDiversity_Respected.label>
+<IdeoDiversity_Respected.description>Các tín ngưỡng khác có tri thức độc đáo. Sống cùng những người có ý tưởng khác thật tuyệt vời.</IdeoDiversity_Respected.description>
+<IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
+<IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
+<IdeoDiversity_Standard.label>Trung lập</IdeoDiversity_Standard.label>
+<IdeoDiversity_Standard.description>Các tín ngưỡng khác không được công nhận cũng không bị phản đối.</IdeoDiversity_Standard.description>
+<IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>Ý tưởng đồng nhất</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
+<IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>Ý tưởng khác nhau</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
+</LanguageData>

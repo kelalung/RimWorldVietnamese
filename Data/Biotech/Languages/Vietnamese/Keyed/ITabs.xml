@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RecipeRequiresMechanitor>Danh sách {0} này yêu cầu kỹ sư máy móc để thực hiện. Các thuộc địa của bạn không phải là kỹ sư máy móc, vì vậy không ai sẽ thực hiện danh sách này.</RecipeRequiresMechanitor>
+<GenepackPlural>Bộ gen</GenepackPlural>
+<TraitsDevelopLaterBaby>Các đặc điểm sẽ hình thành trong thời thơ ấu</TraitsDevelopLaterBaby>
+<SkillsDevelopLaterBaby>Các kỹ năng sẽ phát triển trong thời thơ ấu</SkillsDevelopLaterBaby>
+<TabGenes>Gen</TabGenes>
+<ViewGenes>Biểu đồ gen</ViewGenes>
+<ViewGenesDesc>Nhấp để xem gen của {PAWN_nameDef}.</ViewGenesDesc>
+<TabFeeding>Cho ăn</TabFeeding>
+<AutofeedSectionHeader>Cài đặt cho ăn tự động</AutofeedSectionHeader>
+<AutofeedModeNever>Không bao giờ</AutofeedModeNever>
+<AutofeedModeChildcare>Chăm sóc trẻ em</AutofeedModeChildcare>
+<AutofeedModeUrgent>Khẩn cấp</AutofeedModeUrgent>
+<AutofeedNone>Không ai có thể cho trẻ sơ sinh này ăn.</AutofeedNone>
+<AutofeedModeTooltipNever>{FEEDER_nameDef} sẽ không tự động cho {BABY_nameDef} ăn.</AutofeedModeTooltipNever>
+<AutofeedModeTooltipChildcare>{FEEDER_nameDef} được phân công công việc “chăm sóc trẻ em” sẽ cho {BABY_nameDef} ăn.</AutofeedModeTooltipChildcare>
+<AutofeedModeTooltipUrgent>{FEEDER_nameDef} sẽ cho {BABY_nameDef} ăn ngày đêm, ngay cả khi {FEEDER_nameDef} không được phân công công việc “chăm sóc trẻ em” hoặc không có khả năng chăm sóc trẻ.</AutofeedModeTooltipUrgent>
+<BabyFoodConsumables>Các loại thực phẩm có sẵn</BabyFoodConsumables>
+<IdeoExposureSectionHeader>Tiếp xúc văn hóa</IdeoExposureSectionHeader>
+<IdeoExposureNoExposure>{BABY_labelShort} chưa tiếp xúc với bất kỳ hình thức văn hóa nào.</IdeoExposureNoExposure>
+<IdeoExposureNoExposureDetail>{BABY_pronoun} có thể tiếp xúc với văn hóa đó bằng cách tương tác với những người theo hình thức văn hóa đó. Những tương tác này bao gồm cho bú, bế, chơi, v.v. Khi {BABY_labelShort} đến tuổi {CHILDAGE}, {BABY_pronoun} sẽ gia nhập một hình thức văn hóa mà {BABY_pronoun} đã tiếp xúc.</IdeoExposureNoExposureDetail>
+<IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} có {PERCENT} khả năng gia nhập {IDEO_name}.</IdeoExposurePointsTooltipJoinLikelihood>
+<IdeoExposurePointsTooltipJoinDescription>{BABY_labelShort} tương tác với một người theo hình thức văn hóa sẽ làm tăng khả năng gia nhập hình thức văn hóa đó. {BABY_labelShort} sẽ gia nhập hình thức văn hóa mà {BABY_pronoun} đã tiếp xúc ở tuổi {CHILDAGE}.</IdeoExposurePointsTooltipJoinDescription>
+<IdeoExposurePointsTooltipExposureDescription>Tiếp xúc văn hóa được đo bằng điểm tiếp xúc. Ví dụ, tương tác như cho bú, bế hoặc chơi với trẻ sẽ cho {BABY_labelShort} điểm tiếp xúc văn hóa từ những tương tác với {BABY_pronoun}.</IdeoExposurePointsTooltipExposureDescription>
+<IdeoExposurePointsTooltipIdeoExposure>Điểm tiếp xúc với {IDEO_name}</IdeoExposurePointsTooltipIdeoExposure>
+<IdeoExposurePointsTooltipTotalExposure>Tổng điểm tiếp xúc</IdeoExposurePointsTooltipTotalExposure>
+<TryRomanceButtonLabel>Cố gắng hẹn hò</TryRomanceButtonLabel>
+<TryRomanceNoOptsMessage>Không ai muốn hẹn hò với {0_labelShort}.</TryRomanceNoOptsMessage>
+<CantRomanceTargetUnreachable>Không thể tiếp cận</CantRomanceTargetUnreachable>
+<CantRomanceTargetSleeping>Đang ngủ</CantRomanceTargetSleeping>
+<CantRomanceTargetDowned>Không thể hành động</CantRomanceTargetDowned>
+<CantRomanceTargetDrafted>Đang bị triệu tập</CantRomanceTargetDrafted>
+<CantRomanceTargetMentalState>Trạng thái tâm lý không ổn định</CantRomanceTargetMentalState>
+<CantRomanceTargetIncest>Cận huyết</CantRomanceTargetIncest>
+<CantRomanceTargetOpinion>Đánh giá thấp</CantRomanceTargetOpinion>
+<CantRomanceTargetSexuality>Không tương thích</CantRomanceTargetSexuality>
+<CantRomanceTargetPrisoner>Tù nhân</CantRomanceTargetPrisoner>
+<CantRomanceTargetYoung>Quá trẻ</CantRomanceTargetYoung>
+<CantRomanceTargetZeroChance>Không có cơ hội</CantRomanceTargetZeroChance>
+<CantRomanceInitiateMessagePrisoner>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} là tù nhân.</CantRomanceInitiateMessagePrisoner>
+<CantRomanceInitiateMessageSlave>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} là nô lệ.</CantRomanceInitiateMessageSlave>
+<CantRomanceInitiateMessageAsexual>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} có đặc điểm vô tính.</CantRomanceInitiateMessageAsexual>
+<CantRomanceInitiateMessageDowned>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} không thể hành động.</CantRomanceInitiateMessageDowned>
+<CantRomanceInitiateMessageDrafted>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} đang bị triệu tập.</CantRomanceInitiateMessageDrafted>
+<CantRomanceInitiateMessageMentalState>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} đang trong trạng thái tâm lý không ổn định.</CantRomanceInitiateMessageMentalState>
+<CantRomanceInitiateMessageTalk>{0_labelShort} không thể cố gắng theo đuổi vì {0_pronoun} không nói được.</CantRomanceInitiateMessageTalk>
+<CantRomanceInitiateMessageCooldown>{0_labelShort} đã cố gắng theo đuổi gần đây, phải đợi đến {1} để thử lại.</CantRomanceInitiateMessageCooldown>
+<TryRomanceFailedMessage>{0_labelShort} đã cố gắng theo đuổi {1_labelShort} nhưng thất bại.</TryRomanceFailedMessage>
+<RomanceExistingRelationshipWarning>Có {INITIATOR_nameDef} trong khi theo đuổi {TARGET_nameDef} có thể gây ra sự thù hằn giữa các đối tác hiện tại, dẫn đến chia tay và xung đột.</RomanceExistingRelationshipWarning>
+<RomanceChance>Cơ hội theo đuổi</RomanceChance>
+<RomanceChanceExistingRelation>Đã là {PAWN_nameDef} của {RELATION}</RomanceChanceExistingRelation>
+<RomanceChanceCant>Không thể theo đuổi</RomanceChanceCant>
+<RomanceChanceAgeFactor>Tuổi tương đối</RomanceChanceAgeFactor>
+<RomanceChanceBeautyFactor>Vẻ đẹp</RomanceChanceBeautyFactor>
+<RomanceChanceOpinionFactor>Ý kiến</RomanceChanceOpinionFactor>
+<RomanceChancePartnerFactor>Ý kiến của đối tác</RomanceChancePartnerFactor>
+<RomanceFailedUnexpected>{0_labelShort} không thể theo đuổi {1_labelShort}</RomanceFailedUnexpected>
+<RomanceWarningMonogamous>{0_nameDef} đã có mối quan hệ.</RomanceWarningMonogamous>
+<RomanceWarningPolygamous>{0_nameDef} đã có {1} đối tác.</RomanceWarningPolygamous>
+<FactorForGenes>Hệ số cho gen</FactorForGenes>
+<PrisonBreakingDisabledDueToGene>Việc vượt ngục bị vô hiệu hóa bởi gen {GENE_label}.</PrisonBreakingDisabledDueToGene>
+</LanguageData>

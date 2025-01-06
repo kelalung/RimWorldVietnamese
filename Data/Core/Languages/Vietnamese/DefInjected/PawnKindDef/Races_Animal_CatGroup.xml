@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cat.label>Mèo</Cat.label>
+	<Cat.labelFemale>Mèo cái</Cat.labelFemale>
+	<Cat.labelFemalePlural>Mèo cái</Cat.labelFemalePlural>
+	<Cat.labelMale>Mèo đực</Cat.labelMale>
+	<Cat.labelMalePlural>Mèo đực</Cat.labelMalePlural>
+	<Cat.labelPlural>Mèo</Cat.labelPlural>
+	<Cat.lifeStages.kitten.label>Mèo con</Cat.lifeStages.kitten.label>
+	<Cat.lifeStages.kitten.labelFemale>Mèo con cái</Cat.lifeStages.kitten.labelFemale>
+	<Cat.lifeStages.kitten.labelFemalePlural>Mèo con cái</Cat.lifeStages.kitten.labelFemalePlural>
+	<Cat.lifeStages.kitten.labelMale>Mèo con đực</Cat.lifeStages.kitten.labelMale>
+	<Cat.lifeStages.kitten.labelMalePlural>Mèo con đực</Cat.lifeStages.kitten.labelMalePlural>
+	<Cat.lifeStages.kitten.labelPlural>Mèo con</Cat.lifeStages.kitten.labelPlural>
+	<Cat.lifeStages.1.label>Mèo tuổi thơ</Cat.lifeStages.1.label>
+	<Cat.lifeStages.1.labelFemale>Mèo cái tuổi thơ</Cat.lifeStages.1.labelFemale>
+	<Cat.lifeStages.1.labelFemalePlural>Mèo cái tuổi thơ</Cat.lifeStages.1.labelFemalePlural>
+	<Cat.lifeStages.1.labelMale>Mèo đực tuổi thơ</Cat.lifeStages.1.labelMale>
+	<Cat.lifeStages.1.labelMalePlural>Mèo đực tuổi thơ</Cat.lifeStages.1.labelMalePlural>
+	<Cat.lifeStages.1.labelPlural>Mèo tuổi thơ</Cat.lifeStages.1.labelPlural>
+	<Cat.lifeStages.2.label>Mèo trưởng thành</Cat.lifeStages.2.label>
+	<Cat.lifeStages.2.labelFemale>Mèo cái trưởng thành</Cat.lifeStages.2.labelFemale>
+	<Cat.lifeStages.2.labelFemalePlural>Mèo cái trưởng thành</Cat.lifeStages.2.labelFemalePlural>
+	<Cat.lifeStages.2.labelMale>Mèo đực trưởng thành</Cat.lifeStages.2.labelMale>
+	<Cat.lifeStages.2.labelMalePlural>Mèo đực trưởng thành</Cat.lifeStages.2.labelMalePlural>
+	<Cat.lifeStages.2.labelPlural>Mèo trưởng thành</Cat.lifeStages.2.labelPlural>
+	<GuineaPig.label>Chuột lang</GuineaPig.label>
+	<Husky.label>Chó Husky</Husky.label>
+	<Husky.labelFemale>Chó Husky cái</Husky.labelFemale>
+	<Husky.labelFemalePlural>Chó Husky cái</Husky.labelFemalePlural>
+	<Husky.labelMale>Chó Husky đực</Husky.labelMale>
+	<Husky.labelMalePlural>Chó Husky đực</Husky.labelMalePlural>
+	<Husky.labelPlural>Chó Husky</Husky.labelPlural>
+	<Husky.lifeStages.husky_puppy.label>Chó Husky con</Husky.lifeStages.husky_puppy.label>
+	<Husky.lifeStages.husky_puppy.labelFemale>Chó Husky con cái</Husky.lifeStages.husky_puppy.labelFemale>
+	<Husky.lifeStages.husky_puppy.labelFemalePlural>Chó Husky con cái</Husky.lifeStages.husky_puppy.labelFemalePlural>
+	<Husky.lifeStages.husky_puppy.labelMale>Chó Husky con đực</Husky.lifeStages.husky_puppy.labelMale>
+	<Husky.lifeStages.husky_puppy.labelMalePlural>Chó Husky con đực</Husky.lifeStages.husky_puppy.labelMalePlural>
+	<Husky.lifeStages.husky_puppy.labelPlural>Chó Husky con</Husky.lifeStages.husky_puppy.labelPlural>
+	<Husky.lifeStages.1.label>Chó Husky tuổi thơ</Husky.lifeStages.1.label>
+	<Husky.lifeStages.1.labelFemale>Chó Husky cái tuổi thơ</Husky.lifeStages.1.labelFemale>
+	<Husky.lifeStages.1.labelFemalePlural>Chó Husky cái tuổi thơ</Husky.lifeStages.1.labelFemalePlural>
+	<Husky.lifeStages.1.labelMale>Chó Husky đực tuổi thơ</Husky.lifeStages.1.labelMale>
+	<Husky.lifeStages.1.labelMalePlural>Chó Husky đực tuổi thơ</Husky.lifeStages.1.labelMalePlural>
+	<Husky.lifeStages.1.labelPlural>Chó Husky tuổi thơ</Husky.lifeStages.1.labelPlural>
+	<Husky.lifeStages.2.label>Chó Husky trưởng thành</Husky.lifeStages.2.label>
+	<Husky.lifeStages.2.labelFemale>Chó Husky cái trưởng thành</Husky.lifeStages.2.labelFemale>
+	<Husky.lifeStages.2.labelFemalePlural>Chó Husky cái trưởng thành</Husky.lifeStages.2.labelFemalePlural>
+	<Husky.lifeStages.2.labelMale>Chó Husky đực trưởng thành</Husky.lifeStages.2.labelMale>
+	<Husky.lifeStages.2.labelMalePlural>Chó Husky đực trưởng thành</Husky.lifeStages.2.labelMalePlural>
+	<Husky.lifeStages.2.labelPlural>Chó Husky trưởng thành</Husky.lifeStages.2.labelPlural>
+	<LabradorRetriever.label>Chó Labrador</LabradorRetriever.label>
+	<LabradorRetriever.labelFemale>Chó Labrador cái</LabradorRetriever.labelFemale>
+	<LabradorRetriever.labelFemalePlural>Chó Labrador cái</LabradorRetriever.labelFemalePlural>
+	<LabradorRetriever.labelMale>Chó Labrador đực</LabradorRetriever.labelMale>
+	<LabradorRetriever.labelMalePlural>Chó Labrador đực</LabradorRetriever.labelMalePlural>
+	<LabradorRetriever.labelPlural>Chó Labrador</LabradorRetriever.labelPlural>
+	<LabradorRetriever.lifeStages.labrador_puppy.label>Chó Labrador con</LabradorRetriever.lifeStages.labrador_puppy.label>
+	<LabradorRetriever.lifeStages.labrador_puppy.labelFemale>Chó Labrador con cái</LabradorRetriever.lifeStages.labrador_puppy.labelFemale>
+	<LabradorRetriever.lifeStages.labrador_puppy.labelFemalePlural>Chó Labrador con cái</LabradorRetriever.lifeStages.labrador_puppy.labelFemalePlural>
+	<LabradorRetriever.lifeStages.labrador_puppy.labelMale>Chó Labrador con đực</LabradorRetriever.lifeStages.labrador_puppy.labelMale>
+	<LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>Chó Labrador con đực</LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>
+	<LabradorRetriever.lifeStages.labrador_puppy.labelPlural>Chó Labrador con</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+	<LabradorRetriever.lifeStages.1.label>Chó Labrador tuổi thơ</LabradorRetriever.lifeStages.1.label>
+	<LabradorRetriever.lifeStages.1.labelFemale>Chó Labrador cái tuổi thơ</LabradorRetriever.lifeStages.1.labelFemale>
+	<LabradorRetriever.lifeStages.1.labelFemalePlural>Chó Labrador cái tuổi thơ</LabradorRetriever.lifeStages.1.labelFemalePlural>
+	<LabradorRetriever.lifeStages.1.labelMale>Chó Labrador đực tuổi thơ</LabradorRetriever.lifeStages.1.labelMale>
+	<LabradorRetriever.lifeStages.1.labelMalePlural>Chó Labrador đực tuổi thơ</LabradorRetriever.lifeStages.1.labelMalePlural>
+	<LabradorRetriever.lifeStages.1.labelPlural>Chó Labrador tuổi thơ</LabradorRetriever.lifeStages.1.labelPlural>
+	<LabradorRetriever.lifeStages.2.label>Chó Labrador trưởng thành</LabradorRetriever.lifeStages.2.label>
+	<LabradorRetriever.lifeStages.2.labelFemale>Chó Labrador cái trưởng thành</LabradorRetriever.lifeStages.2.labelFemale>
+	<LabradorRetriever.lifeStages.2.labelFemalePlural>Chó Labrador cái trưởng thành</LabradorRetriever.lifeStages.2.labelFemalePlural>
+	<LabradorRetriever.lifeStages.2.labelMale>Chó Labrador đực trưởng thành</LabradorRetriever.lifeStages.2.labelMale>
+	<LabradorRetriever.lifeStages.2.labelMalePlural>Chó Labrador đực trưởng thành</LabradorRetriever.lifeStages.2.labelMalePlural>
+	<LabradorRetriever.lifeStages.2.labelPlural>Chó Labrador trưởng thành</LabradorRetriever.lifeStages.2.labelPlural>
+	<Monkey.label>Khỉ</Monkey.label>
+	<Monkey.labelFemale>Khỉ cái</Monkey.labelFemale>
+	<Monkey.labelFemalePlural>Khỉ cái</Monkey.labelFemalePlural>
+	<Monkey.labelMale>Khỉ đực</Monkey.labelMale>
+	<Monkey.labelMalePlural>Khỉ đực</Monkey.labelMalePlural>
+	<Monkey.labelPlural>Khỉ</Monkey.labelPlural>
+	<Monkey.lifeStages.0.label>Khỉ con</Monkey.lifeStages.0.label>
+	<Monkey.lifeStages.0.labelFemale>Khỉ con cái</Monkey.lifeStages.0.labelFemale>
+	<Monkey.lifeStages.0.labelFemalePlural>Khỉ con cái</Monkey.lifeStages.0.labelFemalePlural>
+	<Monkey.lifeStages.0.labelMale>Khỉ con đực</Monkey.lifeStages.0.labelMale>
+	<Monkey.lifeStages.0.labelMalePlural>Khỉ con đực</Monkey.lifeStages.0.labelMalePlural>
+	<Monkey.lifeStages.0.labelPlural>Khỉ con</Monkey.lifeStages.0.labelPlural>
+	<Monkey.lifeStages.1.label>Khỉ tuổi thơ</Monkey.lifeStages.1.label>
+	<Monkey.lifeStages.1.labelFemale>Khỉ cái tuổi thơ</Monkey.lifeStages.1.labelFemale>
+	<Monkey.lifeStages.1.labelFemalePlural>Khỉ cái tuổi thơ</Monkey.lifeStages.1.labelFemalePlural>
+	<Monkey.lifeStages.1.labelMale>Khỉ đực tuổi thơ</Monkey.lifeStages.1.labelMale>
+	<Monkey.lifeStages.1.labelMalePlural>Khỉ đực tuổi thơ</Monkey.lifeStages.1.labelMalePlural>
+	<Monkey.lifeStages.1.labelPlural>Khỉ tuổi thơ</Monkey.lifeStages.1.labelPlural>
+	<Monkey.lifeStages.2.label>Khỉ trưởng thành</Monkey.lifeStages.2.label>
+	<Monkey.lifeStages.2.labelFemale>Khỉ cái trưởng thành</Monkey.lifeStages.2.labelFemale>
+	<Monkey.lifeStages.2.labelFemalePlural>Khỉ cái trưởng thành</Monkey.lifeStages.2.labelFemalePlural>
+	<Monkey.lifeStages.2.labelMale>Khỉ đực trưởng thành</Monkey.lifeStages.2.labelMale>
+	<Monkey.lifeStages.2.labelMalePlural>Khỉ đực trưởng thành</Monkey.lifeStages.2.labelMalePlural>
+	<Monkey.lifeStages.2.labelPlural>Khỉ trưởng thành</Monkey.lifeStages.2.labelPlural>
+	<YorkshireTerrier.label>Chó Yorkshire</YorkshireTerrier.label>
+	<YorkshireTerrier.labelFemale>Chó Yorkshire cái</YorkshireTerrier.labelFemale>
+	<YorkshireTerrier.labelFemalePlural>Chó Yorkshire cái</YorkshireTerrier.labelFemalePlural>
+	<YorkshireTerrier.labelMale>Chó Yorkshire đực</YorkshireTerrier.labelMale>
+	<YorkshireTerrier.labelMalePlural>Chó Yorkshire đực</YorkshireTerrier.labelMalePlural>
+	<YorkshireTerrier.labelPlural>Chó Yorkshire</YorkshireTerrier.labelPlural>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>Chó Yorkshire con</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>Chó Yorkshire con cái</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>Chó Yorkshire con cái</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>Chó Yorkshire con đực</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>Chó Yorkshire con đực</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>
+	<YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>Chó Yorkshire con</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+	<YorkshireTerrier.lifeStages.1.label>Chó Yorkshire tuổi thơ</YorkshireTerrier.lifeStages.1.label>
+	<YorkshireTerrier.lifeStages.1.labelFemale>Chó Yorkshire cái tuổi thơ</YorkshireTerrier.lifeStages.1.labelFemale>
+	<YorkshireTerrier.lifeStages.1.labelFemalePlural>Chó Yorkshire cái tuổi thơ</YorkshireTerrier.lifeStages.1.labelFemalePlural>
+	<YorkshireTerrier.lifeStages.1.labelMale>Chó Yorkshire đực tuổi thơ</YorkshireTerrier.lifeStages.1.labelMale>
+	<YorkshireTerrier.lifeStages.1.labelMalePlural>Chó Yorkshire đực tuổi thơ</YorkshireTerrier.lifeStages.1.labelMalePlural>
+	<YorkshireTerrier.lifeStages.1.labelPlural>Chó Yorkshire tuổi thơ</YorkshireTerrier.lifeStages.1.labelPlural>
+	<YorkshireTerrier.lifeStages.2.label>Chó Yorkshire trưởng thành</YorkshireTerrier.lifeStages.2.label>
+	<YorkshireTerrier.lifeStages.2.labelFemale>Chó Yorkshire cái trưởng thành</YorkshireTerrier.lifeStages.2.labelFemale>
+	<YorkshireTerrier.lifeStages.2.labelFemalePlural>Chó Yorkshire cái trưởng thành</YorkshireTerrier.lifeStages.2.labelFemalePlural>
+	<YorkshireTerrier.lifeStages.2.labelMale>Chó Yorkshire đực trưởng thành</YorkshireTerrier.lifeStages.2.labelMale>
+	<YorkshireTerrier.lifeStages.2.labelMalePlural>Chó Yorkshire đực trưởng thành</YorkshireTerrier.lifeStages.2.labelMalePlural>
+	<YorkshireTerrier.lifeStages.2.labelPlural>Chó Yorkshire trưởng thành</YorkshireTerrier.lifeStages.2.labelPlural>
+</LanguageData>

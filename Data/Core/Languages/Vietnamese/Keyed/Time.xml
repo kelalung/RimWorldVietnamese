@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<LetterDay>Ngày</LetterDay>
+	<LetterHour>Giờ</LetterHour>
+	<LetterMinute>Phút</LetterMinute>
+	<LetterSecond>Giây</LetterSecond>
+	<LetterYear>Năm</LetterYear>
+	<AM>AM</AM>
+	<PM>PM</PM>
+	<DaysLower>Ngày</DaysLower>
+	<HoursLower>Giờ</HoursLower>
+	<SecondsLower>Giây</SecondsLower>
+	<SeasonSpring>Mùa xuân</SeasonSpring>
+	<SeasonSummer>Mùa hè</SeasonSummer>
+	<SeasonFall>Mùa thu</SeasonFall>
+	<SeasonWinter>Mùa đông</SeasonWinter>
+	<SeasonPermanentSummer>Mùa hè vĩnh cửu</SeasonPermanentSummer>
+	<SeasonPermanentWinter>Mùa đông vĩnh cửu</SeasonPermanentWinter>
+	<QuadrumAprimay>Quý Xuân</QuadrumAprimay>
+	<QuadrumJugust>Quý Hạ</QuadrumJugust>
+	<QuadrumSeptober>Quý Thu</QuadrumSeptober>
+	<QuadrumDecembary>Quý Đông</QuadrumDecembary>
+	<QuadrumAprimay_Short>XU</QuadrumAprimay_Short>
+	<QuadrumJugust_Short>HA</QuadrumJugust_Short>
+	<QuadrumSeptober_Short>THU</QuadrumSeptober_Short>
+	<QuadrumDecembary_Short>ĐÔNG</QuadrumDecembary_Short>
+	<Born>Ngày sinh: {0}</Born>
+	<AgeChronological>Tuổi theo lịch: {0} năm, {1} quý, {2} ngày</AgeChronological>
+	<AgeBiological>Tuổi sinh học: {0} năm, {1} quý, {2} ngày</AgeBiological>
+	<Period1Year>1 năm</Period1Year>
+	<PeriodYears>{0} năm</PeriodYears>
+	<Period1Quadrum>1 quý</Period1Quadrum>
+	<PeriodQuadrums>{0} quý</PeriodQuadrums>
+	<Period1Day>1 ngày</Period1Day>
+	<PeriodDays>{0} ngày</PeriodDays>
+	<Period1Hour>1 giờ</Period1Hour>
+	<PeriodHours>{0} giờ</PeriodHours>
+	<Period1Second>1 giây</Period1Second>
+	<PeriodSeconds>{0} giây</PeriodSeconds>
+	<Started>Bắt đầu vào</Started>
+	<Lasted>Đã kéo dài</Lasted>
+	<OccurredTimeAgo>Đã xảy ra {0} trước</OccurredTimeAgo>
+	<TimeAgo>{0} trước</TimeAgo>
+</LanguageData>

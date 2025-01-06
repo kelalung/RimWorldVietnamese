@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnimalVenerated.label>Thần thú</AnimalVenerated.label>
+<AnimalVenerated.description>Những tín đồ tin rằng động vật này có vị trí tinh thần hoặc đạo đức đặc biệt, điều này có nghĩa là nó phải được tôn trọng và không được làm hại.</AnimalVenerated.description>
+<AnimalVenerated.comps.2.description>Cái chết của thần thú đã thuần hóa</AnimalVenerated.comps.2.description>
+<AnimalVenerated.comps.4.thoughtStageDescriptions.0>Thần thú hiếm {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+<AnimalVenerated.comps.4.thoughtStageDescriptions.1>Thần thú hơi nhiều {STAGE2}</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+<AnimalVenerated.comps.4.thoughtStageDescriptions.2>Có một số thần thú {STAGE3}</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+<AnimalVenerated.comps.4.thoughtStageDescriptions.3>Đám đông thần thú {STAGE4}</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+<AnimalVenerated.comps.4.thoughtStageDescriptions.4>Thần thú xuất hiện khắp nơi</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
+</LanguageData>

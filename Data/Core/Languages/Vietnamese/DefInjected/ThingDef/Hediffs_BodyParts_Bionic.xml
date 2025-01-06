@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BionicArm.label>Cánh tay giả sinh học</BionicArm.label>
+	<BionicArm.description>Một cánh tay giả sinh học tiên tiến, hệ thống servo nén mini bên trong cung cấp sức mạnh lớn, trong khi gel sinh học thần kinh cung cấp khả năng điều khiển chính xác, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi khi bị hư hại. Nó hoạt động tốt hơn chi thể ban đầu của sinh vật trong mọi khía cạnh.</BionicArm.description>
+	<BionicEar.label>Đôi tai giả sinh học</BionicEar.label>
+	<BionicEar.description>Một đôi tai giả sinh học tiên tiến, thiết bị ẩn dưới da có khả năng thu âm thanh và truyền trực tiếp đến thần kinh thính giác qua gel sinh học thần kinh. Độ nhạy của nó đủ để cho phép người nghe cảm nhận âm thanh trước khi nhìn thấy, đồng thời có khả năng chống lại tiếng ồn lớn và tự động lọc ra âm thanh mục tiêu từ môi trường ồn ào.</BionicEar.description>
+	<BionicEye.label>Mắt giả sinh học</BionicEye.label>
+	<BionicEye.description>Một con mắt giả sinh học tiên tiến, kết nối cảm biến ánh sáng và bộ xử lý tín hiệu bên trong qua gel sinh học thần kinh, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi khi bị hư hại. Nó hoạt động tốt hơn mắt ban đầu của sinh vật trong mọi khía cạnh.</BionicEye.description>
+	<BionicHeart.label>Trái tim giả sinh học</BionicHeart.label>
+	<BionicHeart.description>Một trái tim giả sinh học tiên tiến, cấu tạo từ sợi cơ tổng hợp có thể mô phỏng nhịp tim thực, bơm máu nhanh chóng trong điều kiện áp lực cao nhờ vào máy bơm hiệu suất cao bên trong, nhằm đạt được khả năng tuần hoàn máu tốt hơn. Nó hoạt động tốt hơn trái tim ban đầu của sinh vật trong mọi khía cạnh.</BionicHeart.description>
+	<BionicJaw.label>Hàm giả sinh học</BionicJaw.label>
+	<BionicJaw.description>Một hàm dưới giả sinh học tiên tiến, được lắp ráp từ xương tổng hợp, trang bị răng giả bằng sợi thủy tinh và một bộ động cơ servo mini, cho phép chuyển động toàn diện.</BionicJaw.description>
+	<BionicLeg.label>Chân giả sinh học</BionicLeg.label>
+	<BionicLeg.description>Một chân giả sinh học tiên tiến, được trang bị hệ thống thần kinh gel sinh học, hệ thống servo nén mini và hệ thống sửa chữa ma trận hạt. Nó hoạt động tốt hơn chi thể ban đầu của sinh vật trong mọi khía cạnh.</BionicLeg.description>
+	<BionicSpine.label>Cột sống giả sinh học</BionicSpine.label>
+	<BionicSpine.description>Một cột sống giả sinh học tiên tiến, được cấu tạo từ lõi thủy tinh gia cố với dây thần kinh gel sinh học, hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi khi bị hư hại. Nó gần như có thể thay thế hoàn hảo cột sống ban đầu của sinh vật.</BionicSpine.description>
+	<BionicStomach.label>Dạ dày giả sinh học</BionicStomach.label>
+	<BionicStomach.description>Một dạ dày giả sinh học tiên tiến, với cảm biến và bộ tổng hợp hóa học có khả năng tiêu hóa hiệu quả bất kỳ loại thực phẩm nào có chất dinh dưỡng. Nó có thể giảm thiểu nguy cơ ngộ độc thực phẩm cho người sử dụng và miễn dịch với một số bệnh về dạ dày. Hệ thống sửa chữa ma trận hạt cho phép nó tự phục hồi khi bị hư hại. Nó hoạt động tốt hơn các cơ quan tiêu hóa ban đầu của sinh vật trong mọi khía cạnh, tất nhiên cũng bao gồm cả giá thành.</BionicStomach.description>
+	<BionicTongue.label>Đầu lưỡi giả sinh học</BionicTongue.label>
+	<BionicTongue.description>Một đầu lưỡi giả sinh học tiên tiến, được làm từ sợi tổng hợp mịn và kết nối qua giao diện gel thần kinh. Nó hoạt động trong việc nói, ăn uống và nếm thử đủ để so sánh với lưỡi ban đầu của sinh vật.</BionicTongue.description>
+	<DeathAcidifier.label>Chất phân hủy</DeathAcidifier.label>
+	<DeathAcidifier.description>Một thiết bị cấy ghép ngực để ngăn kẻ thù thu giữ trang bị. Khi người sử dụng chết, nó sẽ giải phóng một chất hóa học mạnh mẽ, hòa tan trang bị tiếp xúc với cơ thể. Chất phân hủy sẽ không gây hại cho người khác.</DeathAcidifier.description>
+</LanguageData>

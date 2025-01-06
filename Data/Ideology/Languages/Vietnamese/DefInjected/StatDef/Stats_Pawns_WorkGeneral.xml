@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<HackingSpeed.label>Tốc độ hack</HackingSpeed.label>
+<HackingSpeed.description>Tốc độ mà người này hack và xâm nhập vào các đầu cuối máy tính.</HackingSpeed.description>
+<PruningSpeed.label>Tốc độ tỉa cành</PruningSpeed.label>
+<PruningSpeed.description>Tốc độ mà người này có thể tỉa cành mẹ để duy trì cường độ cộng hưởng.\n\nTỉa cành giống như một nhiệm vụ thiền định hơn là một công việc thể chất. Vì vậy, các yếu tố sức khỏe như thị lực không quan trọng.</PruningSpeed.description>
+<SuppressionPower.label>Năng lực đàn áp</SuppressionPower.label>
+<SuppressionPower.description>Hệ số năng lực đàn áp của người gác đối với nô lệ.</SuppressionPower.description>
+</LanguageData>

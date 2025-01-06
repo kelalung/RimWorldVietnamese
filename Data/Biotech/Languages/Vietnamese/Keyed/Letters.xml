@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelMechsFeral>Máy móc ngoại tuyến</LetterLabelMechsFeral>
+<LetterMechsFeral>Một số máy móc không có người giám sát đã thoát khỏi sự kiểm soát và tự động kết nối với tín hiệu điều khiển cổ xưa trên toàn hành tinh. Chúng đã gia nhập {0} và trở nên thù địch. Chúng đang cố gắng rời khỏi bản đồ hiện tại.\n\nNgay cả khi tiêu diệt máy móc ngoại tuyến, chúng cũng không thể được hồi sinh trong máy nuôi máy móc.\n\nCác máy móc sau đã ngoại tuyến:\n\n{1}</LetterMechsFeral>
+<LetterLabelMechlinkInstalled>Đã cấy ghép trung tâm điều khiển máy móc</LetterLabelMechlinkInstalled>
+<LetterMechlinkInstalled>{PAWN_labelShort} đã được cấy ghép trung tâm điều khiển máy móc! {PAWN_pronoun} hiện là một kỹ sư máy móc và có thể nuôi dưỡng và điều khiển máy móc.\n\nNghiên cứu công nghệ máy móc cơ bản để mở khóa con đường kỹ sư máy móc.\n\n(*SectionTitle) Nuôi dưỡng máy móc: (/SectionTitle) Kỹ sư của bạn có thể nuôi dưỡng máy móc trong thiết bị sản xuất gọi là máy nuôi máy móc.\n\n(*SectionTitle) Về băng thông: (/SectionTitle) Kỹ sư có thể điều khiển càng nhiều máy móc càng tốt trong giới hạn băng thông tổng cho phép. Chọn {PAWN_labelShort} và xem chỉ báo “băng thông” của {PAWN_possessive} để biết thông tin về băng thông đã sử dụng và băng thông còn lại. Băng thông có thể được tăng cường thông qua một số trang bị và nút tần số.\n\n(*SectionTitle) Về nhóm điều khiển: (/SectionTitle) Kỹ sư điều khiển máy móc theo nhóm, mỗi nhóm điều khiển có thể được đặt ở một trong những chế độ hành động sau:\n\n- Làm việc\n- Bảo vệ\n- Sạc\n- Ngủ (tự sạc)\n\nĐể tìm hiểu về chức năng của mỗi chế độ, hãy chọn biểu tượng chế độ hành động trên một nhóm điều khiển của {PAWN_labelShort} và di chuột qua các lệnh hành động khác nhau. Số lượng nhóm điều khiển tối đa có thể được tăng cường thông qua trang bị và cấy ghép.\n\n(*SectionTitle) Về việc triệu hồi mối đe dọa: (/SectionTitle) Kỹ sư có thể phát tín hiệu tấn công đến máy móc chỉ huy cổ xưa để nhận được vật phẩm quý hiếm từ chúng. Để giúp kỹ sư của bạn vượt qua một số giới hạn, bạn phải làm như vậy, nhưng hãy cẩn thận với nguy hiểm.</LetterMechlinkInstalled>
+<MentalStateReason_Gene>Điều này là do gen</MentalStateReason_Gene>
+<LetterLabelBossgroupSummoned>Đã triệu hồi {0}</LetterLabelBossgroupSummoned>
+<LetterBossgroupSummoned>Tín hiệu xung mà kỹ sư của bạn phát ra đã thu hút một máy móc chỉ huy từ {0}. Nó sẽ sớm đến đây cùng với đội bảo vệ, hãy chuẩn bị để chiến đấu.</LetterBossgroupSummoned>
+<LetterLabelBossgroupArrived>{0} đã đến</LetterLabelBossgroupArrived>
+<LetterBossgroupArrived>Máy móc chỉ huy và đội bảo vệ từ {0} đã đến đây, chúng sẽ tiêu diệt thuộc địa của bạn.\n\n{1}\n\nCấu trúc của đội máy móc này như sau {3}:\n\n{4}\n\nChúng sẽ chuẩn bị một thời gian trước khi tấn công.</LetterBossgroupArrived>
+<LetterLabelCommsConsoleSpawned>Có thể triệu hồi {LEADER_label}</LetterLabelCommsConsoleSpawned>
+<LetterCommsConsoleSpawned>Kỹ sư có thể sử dụng {PARENT_label} để triệu hồi máy móc chỉ huy nguy hiểm và thù địch: {LEADER_label}. Hãy chuẩn bị, {LEADER_label} là một đối thủ rất mạnh.\n\nNếu bạn đánh bại {LEADER_label}, nó sẽ rơi ra những vật phẩm sau:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+<LetterLabelBossgroupCallerUnlocked>Có thể triệu hồi {LEADER_label}</LetterLabelBossgroupCallerUnlocked>
+<LetterBossgroupCallerUnlocked>Bạn hiện có thể xây dựng một {PARENT_label} và để kỹ sư sử dụng nó để triệu hồi máy móc chỉ huy nguy hiểm và thù địch: {LEADER_label}. Nếu bạn đánh bại {LEADER_label}, nó sẽ rơi ra những vật phẩm sau:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+<LetterLabelMechanitorCasketOpened>Trung tâm điều khiển máy móc của {PAWN_nameDef} có sẵn</LetterLabelMechanitorCasketOpened>
+<LetterMechanitorCasketOpened>Bạn đã phát hiện ra một xác của một kỹ sư máy móc cổ xưa!\n\nChọn một thuộc địa, nhấp chuột phải vào xác để lấy trung tâm điều khiển máy móc của {PAWN_possessive}.</LetterMechanitorCasketOpened>
+<LetterLabelMechanitorCasketFound>Đã phát hiện buồng ngủ đông của kỹ sư máy móc</LetterLabelMechanitorCasketFound>
+<LetterMechanitorCasketFound>Bạn đã phát hiện ra một buồng ngủ đông của kỹ sư máy móc!\n\nMở nó ra.</LetterMechanitorCasketFound>
+<LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Đoàn thương mại của bạn đã mất tích. Các nhân viên, động vật và máy móc sau đây đã mất tích cùng với đoàn </LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+<LetterPawnsLostIncMechsBecauseMapClosed_Home>Các nhân viên, động vật và máy móc sau đây đã bị bỏ lại</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+<LetterLabelBecameChild>{0_nameDef} đã trở thành trẻ em</LetterLabelBecameChild>
+<LetterLabelBecameAdult>{0_nameDef} đã trở thành người lớn</LetterLabelBecameAdult>
+<LetterBecameChild>Em bé {0_nameDef} đã lớn lên, trở thành một đứa trẻ! Tuổi của {0_pronoun} hiện đủ để thực hiện các công việc sau:</LetterBecameChild>
+<LetterBecameChildChanges>Trẻ em có thể làm nhiều loại công việc khác nhau. Khi lớn lên, chúng có thể làm nhiều loại công việc hơn.\n\nChúng cũng có thể tham gia vào nhiều hoạt động giải trí dành cho trẻ em.\n\nTrẻ em cần mặc trang phục kích thước dành cho trẻ em đặc biệt.</LetterBecameChildChanges>
+<LetterChildLegalStatus>Theo truyền thống, {0_parentage} của {0_nameDef} nên là {0_legalStatus}, nhưng cũng có thể có ngoại lệ.... {0_nameDef} có nên được giữ lại là {0_legalStatus} không?</LetterChildLegalStatus>
+<LetterChildFollowIdeo>{0_labelShort} đã quyết định trở thành người theo văn hóa {1_name}.</LetterChildFollowIdeo>
+<CannotChangeChildStatusReason>Trạng thái nô lệ của {0_nameDef} đã thay đổi kể từ ngày sinh nhật của {0_possessive}.</CannotChangeChildStatusReason>
+<Enslave>Nô lệ</Enslave>
+<Emancipate>Giải phóng</Emancipate>
+<RemainX>Giữ lại {0}</RemainX>
+<LetterLabelAdopted>Đã nhận nuôi {BABY_nameDef}</LetterLabelAdopted>
+<LetterTextAdopted>{BABY_nameDef}, một em bé, đã được thuộc địa của bạn nhận nuôi. Bạn có thể phân công thuộc địa để làm công việc “chăm sóc” cho {BABY_objective}.</LetterTextAdopted>
+<LetterLabelThirdTrimester>Chuẩn bị cho đứa trẻ của {0_nameDef}</LetterLabelThirdTrimester>
+<LetterTextThirdTrimester>{0_nameDef} sẽ sinh trong 6 ngày. Bạn có thể chuẩn bị cho đứa trẻ:\n\n- Xây dựng một phòng sinh có sàn sạch và giường chất lượng.\n- Tìm một bác sĩ có kỹ năng.\n- Trong tab “Công việc”, phân công ít nhất một người chịu trách nhiệm chăm sóc đứa trẻ.\n- Chuẩn bị nguồn thực phẩm cho em bé. {0_nameDef} có thể cho em bé bú hoặc cho chúng ăn thức ăn dành cho trẻ em, sữa hoặc nhộng.\n- Xây dựng một chiếc cũi cho em bé. Cũi chất lượng cao sẽ làm em bé vui vẻ.\n\nBạn có thể chế biến thức ăn cho em bé trên bếp hoặc lửa trại.</LetterTextThirdTrimester>
+<LetterVatBirth>Đã sinh trong buồng nuôi {0}</LetterVatBirth>
+<LetterVatHealthyBaby>Em bé khỏe mạnh đã được sinh ra từ phôi của {0_nameDef} và {1_nameDef}!</LetterVatHealthyBaby>
+<LetterVatHealthyBabyNoParents>Một phôi đã hoàn thành quá trình mang thai trong buồng nuôi và trở thành một em bé khỏe mạnh!</LetterVatHealthyBabyNoParents>
+<LetterVatInfantIllness>Em bé của {0_nameDef} và {1_nameDef} đã được sinh ra, nhưng không may, em bé đã bị bệnh.</LetterVatInfantIllness>
+<LetterVatInfantIllnessNoParents>Em bé đã được sinh ra từ phôi trong buồng nuôi, nhưng không may, em bé đã bị bệnh.</LetterVatInfantIllnessNoParents>
+<LetterVatStillborn>Em bé được sinh ra từ phôi của {0_nameDef} và {1_nameDef} là một thai chết lưu.</LetterVatStillborn>
+<LetterVatSillbornNoParents>Em bé được sinh ra từ phôi trong buồng nuôi là một thai chết lưu.</LetterVatSillbornNoParents>
+<LetterColonistPregnancyLaborLabel>{0_labelShort} đang sinh!</LetterColonistPregnancyLaborLabel>
+<LetterColonistPregnancyLabor>{0_labelShort} sắp sinh! Trước khi sinh, cô ấy sẽ trải qua nhiều giờ co bóp. Việc sinh có thể gặp nhiều khó khăn và nhiều giai đoạn nguy hiểm khác nhau.\n\nĐể tăng tỷ lệ sống sót của đứa trẻ, cần có một bác sĩ và những người khác để giúp đỡ trong quá trình sinh. Chọn {0_labelShort} và nhấn vào quy trình “Hỗ trợ sinh” để bắt đầu.</LetterColonistPregnancyLabor>
+<LetterPartColonistDiedAfterChildbirth>{0_labelShort} đã chết vì biến chứng sau khi sinh.</LetterPartColonistDiedAfterChildbirth>
+<LetterPartSurrogacy>Em bé này được sinh ra thông qua thụ tinh trong ống nghiệm, có sự kết hợp gen của {0_labelShort} và {1_labelShort}.</LetterPartSurrogacy>
+<InbredBabyBorn>Do cận huyết, em bé này có dấu hiệu của khiếm khuyết gen.</InbredBabyBorn>
+<BabyAlreadyNamed>{0_nameDef} đã được đặt tên.</BabyAlreadyNamed>
+<NameBaby>Tên em bé</NameBaby>
+<Immediately>Ngay lập tức</Immediately>
+<Within>Trong</Within>
+<LetterPartTempBabyName>Em bé đã được đặt tên tạm thời là {0_nameFull}.</LetterPartTempBabyName>
+<LetterPartLiveBirthNameDeadline>Bạn có thể thay đổi nó trước khi {0} tuổi.</LetterPartLiveBirthNameDeadline>
+<LetterPartStillbirthNameDeadline>Bạn có muốn đặt tên khác cho em bé không?</LetterPartStillbirthNameDeadline>
+<LetterPartNameBabyAdopt>Em bé đã được đặt tên tạm thời là {0_nameFull}. Bạn có thể thay đổi tên cho đến khi trẻ được {1} tuổi.</LetterPartNameBabyAdopt>
+<BirthdayGrowthMoment>Giai đoạn phát triển của {PAWNNAME}</BirthdayGrowthMoment>
+<BirthdayBiologicalGrowthMoment>{0_nameFull} đã {1} tuổi, bước vào giai đoạn phát triển mới!</BirthdayBiologicalGrowthMoment>
+<BirthdayBiologicalAgeWorkTypes>{0_nameDef} hiện đã đủ tuổi để thực hiện các công việc sau</BirthdayBiologicalAgeWorkTypes>
+<BirthdayPickPassion>Chọn một kỹ năng cho {0_nameDef} để tăng cường sở thích của {0_possessive}</BirthdayPickPassion>
+<BirthdayPickPassions>Chọn {1} kỹ năng cho {0_nameDef} để tăng cường sở thích của {0_possessive}</BirthdayPickPassions>
+<BirthdayPickTrait>Chọn đặc điểm mà {0_nameDef} sẽ nhận được</BirthdayPickTrait>
+<BirthdayGrowthTier>Khi giai đoạn phát triển này xảy ra, {0_nameDef} ở giai đoạn phát triển {1}. Trẻ em ở giai đoạn phát triển cao hơn có nhiều lựa chọn đặc điểm và sở thích hơn, nói chung cũng có nhiều sở thích hơn. Đáp ứng nhu cầu học tập có thể giúp trẻ phát triển nhanh hơn. Giai đoạn phát triển sẽ được đặt lại sau mỗi giai đoạn phát triển.</BirthdayGrowthTier>
+<BirthdayChooseHowPawnWillGrow>Mở thông báo này và chọn cách {0_nameDef} sẽ phát triển.</BirthdayChooseHowPawnWillGrow>
+<BirthdayPassionArchive>Sở thích của {0} đã tăng lên.</BirthdayPassionArchive>
+<BirthdayTraitArchive>Đã nhận được đặc điểm {0}.</BirthdayTraitArchive>
+<BirthdayNoTraitChoice>Không có đặc điểm</BirthdayNoTraitChoice>
+<BirthdayNoTraitChoiceTooltip>{0} không nhận được đặc điểm.</BirthdayNoTraitChoiceTooltip>
+<BirthdayMakeChoices>Chọn để đóng lại</BirthdayMakeChoices>
+<BirthdayNickname>{0} đã nhận được biệt danh {1}.</BirthdayNickname>
+<SelectATrait>Chọn một đặc điểm.</SelectATrait>
+<SelectPassionSingular>Chọn một sở thích.</SelectPassionSingular>
+<SelectPassionsPlural>Chọn {0} sở thích.</SelectPassionsPlural>
+<Later>Để sau</Later>
+<LetterLabelMechlinkAvailable>Trung tâm điều khiển máy móc có sẵn</LetterLabelMechlinkAvailable>
+<LetterMechlinkAvailable>Thông qua nhiệm vụ "{0}", chúng ta có cơ hội nhận được cấy ghép trung tâm điều khiển máy móc độc đáo.\n\nCấy ghép trung tâm điều khiển máy móc sẽ biến thuộc địa thành kỹ sư máy móc. Kỹ sư máy móc có thể sản xuất, điều khiển và thao tác máy móc để làm việc và chiến đấu.</LetterMechlinkAvailable>
+<LetterLabelXenogermOrderedImplanted>Đã chỉ định cấy ghép phôi ngoại lai</LetterLabelXenogermOrderedImplanted>
+<LetterXenogermOrderedImplanted>Bạn đã ra lệnh cấy ghép một phôi ngoại lai cho {PAWN_nameDef}. Ca phẫu thuật này cần một giường y tế và {MEDICINENEEDED}x thuốc. {BEDINFO}{MEDICINEINFO}\n\nBạn có thể hủy ca phẫu thuật này bằng cách vào thẻ sức khỏe - phẫu thuật của {PAWN_nameDef}.</LetterXenogermOrderedImplanted>
+<XenogermOrderedImplantedBedNeeded>\n\nBạn không có giường y tế nào có sẵn cho {PAWN_nameDef}. Hãy xem xét việc đánh dấu một chiếc giường là giường y tế.</XenogermOrderedImplantedBedNeeded>
+<XenogermOrderedImplantedMedicineNeeded>\n\nBạn không có đủ thuốc để cấy ghép phôi ngoại lai. Bạn không thể bắt đầu cấy ghép cho đến khi có được {MEDICINENEEDED}.</XenogermOrderedImplantedMedicineNeeded>
+<LetterLabelInvoluntaryDeathrest>Ngủ chết không tự nguyện</LetterLabelInvoluntaryDeathrest>
+<LetterLabelRegenerationComa>Hôn mê tái sinh</LetterLabelRegenerationComa>
+<LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef} có gen bất tử ngăn cản {PAWN_objective} chết. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+<LetterTextDeathrest>{PAWN_pronoun} đã rơi vào trạng thái ngủ chết.</LetterTextDeathrest>
+<LetterTextRegenerationComa>{PAWN_pronoun} đã rơi vào trạng thái hôn mê tái sinh.</LetterTextRegenerationComa>
+<DeathrestLostSkill>Do ngủ chết do chấn thương gây ra, {PAWN_nameDef} đã mất {XPLOSS} kinh nghiệm trong kỹ năng {SKILL}.</DeathrestLostSkill>
+<DeathrestLethalDamage>Bị tổn thương chết người.</DeathrestLethalDamage>
+<LetterLabelSanguophageWaitingToReimplant>Cấy ghép phôi ngoại lai</LetterLabelSanguophageWaitingToReimplant>
+<LetterTextSanguophageWaitingToReimplant>Để cảm ơn bạn đã để {PAWN_objective} gặp gỡ đồng loại máu của {PAWN_possessive}, {PAWN_nameDef} sẵn sàng chia sẻ một phôi ngoại lai với một thuộc địa của bạn. Điều này sẽ biến thuộc địa của bạn thành một đồng loại máu.\n\nĐể chấp nhận, hãy chọn một thuộc địa và nhấp chuột phải vào {PAWN_nameDef}.\n\nNếu không có thuộc địa nào nhận thưởng trong {DURATION}, đồng loại máu sẽ rời đi.</LetterTextSanguophageWaitingToReimplant>
+<LetterLabelGenesImplanted>Gen đã được cấy ghép</LetterLabelGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef} đã cấy ghép phôi chứa bản sao gen ngoại lai của {CASTER_possessive} vào cơ thể của {TARGET_nameDef}, truyền tất cả các gen ngoại lai cho {TARGET_objective}.\n\n{TARGET_nameDef} sẽ ở trong trạng thái hôn mê phôi ngoại lai trong {COMADURATION} tới, trong khi cơ thể của {TARGET_possessive} sẽ thích nghi với những thay đổi này.\n\n{CASTER_nameDef} sẽ rơi vào trạng thái sốc do thiếu gen trong {SHOCKDURATION}. Các gen của {CASTER_possessive} cũng cần được tái cấu trúc. Quá trình này cần thời gian, nếu {CASTER_nameDef} cấy ghép thêm gen ngoại lai trước khi tái cấu trúc, {CASTER_pronoun} sẽ chết.</LetterTextGenesImplanted>
+<RefugeePodCrashBaby>Một em bé tên là {PAWN_nameDef} từ {PAWN_factionName} đang rơi xuống gần buồng vận chuyển.\n\nBạn có thể chọn lệnh “Nhận nuôi” để nhận nuôi {PAWN_objective}, hoặc bỏ qua {PAWN_objective}.</RefugeePodCrashBaby>
+<RefugeePodCrashBabyHasParent>Xác của người thân đã khuất của {PAWN_nameDef} cũng nằm trong buồng vận chuyển.</RefugeePodCrashBabyHasParent>
+<LetterPsychicBondCreated>Vì bản năng tìm kiếm bạn đời, {BONDPAWN_nameDef} đã thiết lập một mối liên kết lãng mạn mang tên “Liên kết tâm linh” với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ nhận được lợi ích tâm lý từ mối liên kết với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các khu vực khác nhau, cả hai sẽ phải chịu áp lực tâm lý. Nếu một người chết, người còn lại sẽ bị điên cuồng.</LetterPsychicBondCreated>
+<LetterPsychicBondCreatedLovinLabel>Liên kết tâm linh</LetterPsychicBondCreatedLovinLabel>
+<LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} đã thiết lập một mối liên kết lãng mạn mang tên “Liên kết tâm linh” với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ nhận được lợi ích tâm lý từ mối liên kết với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các khu vực khác nhau, cả hai sẽ phải chịu áp lực tâm lý. Nếu một người chết, người còn lại sẽ bị điên cuồng.</LetterPsychicBondCreatedLovinText>
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TradeRequest.questDescriptionRules.rulesStrings>
+		<li>questDescription->Khu định cư gần đây [settlement_label] đã gửi cho chúng ta một đơn đặt hàng giao dịch đặc biệt.\nHọ muốn mua các vật phẩm sau:\n\n[qualityInfo] [requestedThing_label] x[requestedThingCount] (Tổng giá trị: [requestedThingMarketValue_money])\n\nNếu chúng ta chấp nhận đơn đặt hàng này, cần phải cử một đoàn người mang theo vật phẩm tương ứng đến địa điểm mục tiêu.\nThời gian ước tính cho chuyến đi: [estimatedTravelTime_duration].</li>
+		<li>qualityInfo(requestedThingHasQuality==True,priority=1)->Trên mức chất lượng trung bình</li>
+		<li>qualityInfo-></li>
+	</TradeRequest.questDescriptionRules.rulesStrings>
+	<TradeRequest.questNameRules.rulesStrings>
+		<li>questName->Đơn đặt hàng của [settlement_label]</li>
+		<li>questName->Giao dịch với [settlement_label]</li>
+		<li>questName->Bán cho [settlement_label]</li>
+		<li>questName->Cung cấp cho [settlement_label]</li>
+		<li>questName->Một giao dịch [special][trade]</li>
+		<li>special->Đặc biệt</li>
+		<li>special->Độc nhất</li>
+		<li>special->Không truyền thống</li>
+		<li>trade->Thương mại</li>
+		<li>trade->Trao đổi</li>
+		<li>trade->Giao dịch</li>
+		<li>trade->Cung cấp</li>
+	</TradeRequest.questNameRules.rulesStrings>
+	<TradeRequest.LetterLabelQuestFailed.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+	<TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] đã bắt đầu trở thành kẻ thù của bạn.</TradeRequest.LetterTextQuestFailed.slateRef>
+	<TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+	<TradeRequest.LetterTextFavorReceiver.slateRef>Ai sẽ nhận được [asker_faction_royalFavorLabel] sau khi hoàn thành đơn đặt hàng giao dịch?</TradeRequest.LetterTextFavorReceiver.slateRef>
+</LanguageData>

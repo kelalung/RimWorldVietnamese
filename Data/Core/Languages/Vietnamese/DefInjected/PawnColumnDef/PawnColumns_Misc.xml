@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Age.label>Tuổi</Age.label>
+	<AllowedArea.label>Khu vực hoạt động cho phép</AllowedArea.label>
+	<AllowedAreaWide.label>Khu vực hoạt động cho phép mở rộng</AllowedAreaWide.label>
+	<Carry.label>Vận chuyển</Carry.label>
+	<DrugPolicy.label>Chính sách sử dụng thuốc hiện tại</DrugPolicy.label>
+	<FoodRestriction.label>Chế độ ăn uống hiện tại</FoodRestriction.label>
+	<HostilityResponse.headerTip>Phản ứng khi gặp kẻ thù</HostilityResponse.headerTip>
+	<Label.label>Tên</Label.label>
+	<Label.headerTip>Tên</Label.headerTip>
+	<LabelShortWithIcon.label>Tên ngắn với biểu tượng</LabelShortWithIcon.label>
+	<LabelShortWithIcon.headerTip>Tên ngắn với biểu tượng</LabelShortWithIcon.headerTip>
+	<LabelWithIcon.label>Tên với biểu tượng</LabelWithIcon.label>
+	<LabelWithIcon.headerTip>Tên với biểu tượng</LabelWithIcon.headerTip>
+	<Master.label>Chủ nhân</Master.label>
+	<MedicalCare.headerTip>Giới hạn y tế</MedicalCare.headerTip>
+	<Outfit.label>Chế độ trang phục hiện tại</Outfit.label>
+	<Reading.label>Chế độ đọc hiện tại</Reading.label>
+</LanguageData>

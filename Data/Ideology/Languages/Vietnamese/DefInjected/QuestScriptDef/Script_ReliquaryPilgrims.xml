@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ReliquaryPilgrims.questContentRules.rulesStrings>
+    <li>pilgrimsArrivedLetterLabel-&gt;[factionAdj][pilgrimSingularOrPlural] đã đến</li>
+    <li>pilgrimsArrivedLetterText-&gt;[questDescription]</li>
+    <li>delayedRewardLetterText-&gt;[pawns0_nameDef] cảm ơn bạn đã giúp [pawns0_objective][andFollowers] đến thăm [relic_name] trước [venerateDate]. Để đáp lại, [pawns0_nameDef] đã gửi cho bạn những vật phẩm sau qua thùng hàng không (tổng giá trị [rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>pilgrimsLeavingMessage-&gt;[pilgrimsLabelSingularOrPlural] đã kết thúc việc thăm viếng [relic_name] và rời đi.</li>
+    <li>pilgrimsLeftMessage-&gt;[pilgrimsLabelSingularOrPlural] đã rời khỏi bản đồ.</li>
+    <li>areIs(pilgrimCount==1)-&gt;</li>
+    <li>areIs(pilgrimCount&gt;=2)-&gt;</li>
+    <li>andFollowers(pilgrimCount==1)-&gt;</li>
+    <li>andFollowers(pilgrimCount==2)-&gt; và một [faction_pawnSingular] khác</li>
+    <li>andFollowers(pilgrimCount&gt;=3)-&gt; và các [faction_pawnsPlural] khác</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount==1)-&gt; Một người hành hương</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount&gt;=2)-&gt; Những người hành hương</li>
+    <li>factionAdj(pilgrimFaction==true)-&gt;</li>
+    <li>factionAdj(pilgrimFaction==false)-&gt;[faction_pawnSingular]</li>
+</ReliquaryPilgrims.questContentRules.rulesStrings>
+<ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+    <li>pilgrimsLabel-&gt;[pawns0_nameDef]</li>
+    <li>pilgrimsLabelPlural-&gt;[faction_pawnsPlural]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)-&gt;[pilgrimsLabel]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount&gt;=2)-&gt;[pilgrimsLabelPlural]</li>
+    <li>hasHave(pilgrimCount==1)-&gt;</li>
+    <li>hasHave(pilgrimCount&gt;=2)-&gt;</li>
+</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+<ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[pilgrimsLabelSingularOrPlural] đã đến thăm [relic_name].\n\nNếu bạn có thể đảm bảo [pronounSingularOrPlural][visitSingularOrPlural] an toàn và sự chăm sóc trong thời gian thăm viếng cổ vật, [pronounSingularOrPlural] có thể sẽ trả lại cho bạn.</li>
+    <li>questDescription(pilgrimCount==1,childCount==1,priority=1)-&gt;[pilgrimsLabelSingularOrPlural], một đứa trẻ [hasHave] đến thăm [relic_name].\n\nNếu bạn có thể đảm bảo an toàn cho [pronounSingularOrPlural] trong thời gian [pronounSingularOrPlural] [visitSingularOrPlural] cổ vật này, [pronounSingularOrPlural] có thể sẽ thưởng cho bạn.</li>
+    <li>questDescription(pilgrimCount&gt;=2,childCount==1,priority=1)-&gt; Một nhóm [pilgrimsLabelSingularOrPlural] dẫn theo một đứa trẻ đến thăm [relic_name].\n\nNếu bạn có thể đảm bảo an toàn cho [pronounSingularOrPlural] trong thời gian [pronounSingularOrPlural] [visitSingularOrPlural] cổ vật này, [pronounSingularOrPlural] có thể sẽ thưởng cho bạn.</li>
+    <li>questDescription(pilgrimCount&gt;=2,childCount&gt;=2,allChildren==false,priority=1)-&gt; Một nhóm [pilgrimsLabelSingularOrPlural] dẫn theo trẻ em đến thăm [relic_name].\n\nNếu bạn có thể đảm bảo an toàn cho [pronounSingularOrPlural] trong thời gian [pronounSingularOrPlural] [visitSingularOrPlural] cổ vật này, [pronounSingularOrPlural] có thể sẽ thưởng cho bạn.</li>
+    <li>questDescription(pilgrimCount&gt;=2,allChildren==true,priority=1)-&gt; Một nhóm trẻ em [pilgrimsLabelSingularOrPlural] đến thăm [relic_name].\n\nNếu bạn có thể đảm bảo an toàn cho [pronounSingularOrPlural] trong thời gian [pronounSingularOrPlural] [visitSingularOrPlural] cổ vật này, [pronounSingularOrPlural] có thể sẽ thưởng cho bạn.</li>
+    <li>isAre(pilgrimCount==1)-&gt;</li>
+    <li>isAre(pilgrimCount&gt;=2)-&gt;</li>
+    <li>pronounSingularOrPlural(pilgrimCount==1)-&gt;[pawns0_pronoun]</li>
+    <li>pronounSingularOrPlural(pilgrimCount&gt;=2)-&gt; Họ</li>
+    <li>visitSingularOrPlural(pilgrimCount==1)-&gt; thăm viếng</li>
+    <li>visitSingularOrPlural(pilgrimCount&gt;=2)-&gt; thăm viếng</li>
+</ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+<ReliquaryPilgrims.questNameRules.rulesStrings>
+    <li>questName(pilgrimCount==1)-&gt;[pilgrimsLabelSingularOrPlural] [visitAdj][visit]</li>
+    <li>questName(pilgrimCount&gt;=2)-&gt;[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
+    <li>visitAdj(p=6)-&gt;</li>
+    <li>visitAdj-&gt; Thánh thiện</li>
+    <li>visitAdj-&gt; Tôn kính</li>
+    <li>visitAdj-&gt; Tâm linh</li>
+    <li>visitAdj-&gt; Phi thường</li>
+    <li>visitAdj-&gt; Thần thánh</li>
+    <li>visitAdj-&gt; Trang trọng</li>
+    <li>visitAdj-&gt; Thánh lễ</li>
+    <li>visitAdj-&gt; Nhập thánh</li>
+    <li>visit-&gt; Thăm</li>
+    <li>visit-&gt; Hành hương</li>
+    <li>visit-&gt; Truyền giáo</li>
+    <li>visit-&gt; Cuộc thám hiểm</li>
+    <li>visit-&gt; Chuyến đi</li>
+    <li>visit-&gt; Hành trình</li>
+    <li>visit-&gt; Thăm viếng</li>
+</ReliquaryPilgrims.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AbandonedChild23.description>[PAWN_nameDef] sinh ra đã rất yếu ớt. Xem xét rằng [PAWN_pronoun] chỉ sẽ là gánh nặng cho bộ lạc, cha mẹ của [PAWN_nameDef] đã bỏ rơi [PAWN_nameDef] giữa trời tuyết lạnh. Tuy nhiên, [PAWN_pronoun] đã sống sót.</AbandonedChild23.description>
+	<AbandonedChild23.baseDesc>[PAWN_nameDef] sinh ra đã rất yếu ớt. Xem xét rằng [PAWN_pronoun] chỉ sẽ là gánh nặng cho bộ lạc, cha mẹ của [PAWN_nameDef] đã bỏ rơi [PAWN_nameDef] giữa trời tuyết lạnh. Tuy nhiên, [PAWN_pronoun] đã sống sót.</AbandonedChild23.baseDesc>
+	<AbandonedChild23.title>Đứa trẻ bị bỏ rơi</AbandonedChild23.title>
+	<AbandonedChild23.titleShort>Trẻ bị bỏ rơi</AbandonedChild23.titleShort>
+	<Bookworm19.description>So với việc chơi đùa với bạn bè cùng trang lứa, [PAWN_nameDef] thích đắm chìm trong thế giới văn học. Kể từ khi còn nhỏ, [PAWN_pronoun] đã bắt đầu đọc những cuốn sách mua từ những thương nhân đi qua.</Bookworm19.description>
+	<Bookworm19.baseDesc>So với việc chơi đùa với bạn bè cùng trang lứa, [PAWN_nameDef] thích đắm chìm trong thế giới văn học. Kể từ khi còn nhỏ, [PAWN_pronoun] đã bắt đầu đọc những cuốn sách mua từ những thương nhân đi qua.</Bookworm19.baseDesc>
+	<Bookworm19.title>Người mê sách</Bookworm19.title>
+	<Bookworm19.titleShort>Người mê sách</Bookworm19.titleShort>
+	<BuddingArtist44.description>[PAWN_nameDef] có tài năng nghệ thuật. Các thương nhân và nhà sưu tập từ khắp nơi đều khao khát mua tác phẩm của [PAWN_possessive].</BuddingArtist44.description>
+	<BuddingArtist44.baseDesc>[PAWN_nameDef] có tài năng nghệ thuật. Các thương nhân và nhà sưu tập từ khắp nơi đều khao khát mua tác phẩm của [PAWN_possessive].</BuddingArtist44.baseDesc>
+	<BuddingArtist44.title>Nghệ sĩ triển vọng</BuddingArtist44.title>
+	<BuddingArtist44.titleShort>Nghệ sĩ</BuddingArtist44.titleShort>
+	<Bully70.description>[PAWN_nameDef] thích làm khổ những đứa trẻ khác. Để đưa [PAWN_pronoun] trở lại đúng hướng, một trưởng lão đã chỉ định [PAWN_objective] tham gia nhóm săn bắn từ rất sớm.</Bully70.description>
+	<Bully70.baseDesc>[PAWN_nameDef] thích làm khổ những đứa trẻ khác. Để đưa [PAWN_pronoun] trở lại đúng hướng, một trưởng lão đã chỉ định [PAWN_objective] tham gia nhóm săn bắn từ rất sớm.</Bully70.baseDesc>
+	<Bully70.title>Đứa trẻ hung hăng</Bully70.title>
+	<Bully70.titleShort>Kẻ bắt nạt</Bully70.titleShort>
+	<CaveChild30.description>[PAWN_nameDef] lớn lên trong một mạng lưới hang động rộng lớn và phức tạp sâu trong núi. [PAWN_pronoun] giúp người lớn duy trì và cải thiện những hang động sâu thẳm này.</CaveChild30.description>
+	<CaveChild30.baseDesc>[PAWN_nameDef] lớn lên trong một mạng lưới hang động rộng lớn và phức tạp sâu trong núi. [PAWN_pronoun] giúp người lớn duy trì và cải thiện những hang động sâu thẳm này.</CaveChild30.baseDesc>
+	<CaveChild30.title>Đứa trẻ sống trong hang</CaveChild30.title>
+	<CaveChild30.titleShort>Trẻ sống trong hang</CaveChild30.titleShort>
+	<CrashBaby32.description>[PAWN_nameDef] là người sống sót duy nhất sau một vụ va chạm tàu vũ trụ khi còn nhỏ. Một bộ lạc đi qua đã phát hiện và nhận nuôi [PAWN_objective] từ đống đổ nát của tàu vũ trụ.</CrashBaby32.description>
+	<CrashBaby32.baseDesc>[PAWN_nameDef] là người sống sót duy nhất sau một vụ va chạm tàu vũ trụ khi còn nhỏ. Một bộ lạc đi qua đã phát hiện và nhận nuôi [PAWN_objective] từ đống đổ nát của tàu vũ trụ.</CrashBaby32.baseDesc>
+	<CrashBaby32.title>Đứa trẻ sống sót</CrashBaby32.title>
+	<CrashBaby32.titleShort>Đứa trẻ sống sót</CrashBaby32.titleShort>
+	<FireKeeper44.description>[PAWN_nameDef] chịu trách nhiệm bảo quản ngọn lửa của bộ lạc, giữ cho nó không bao giờ tắt. [PAWN_pronoun] rất tận tâm với công việc này.</FireKeeper44.description>
+	<FireKeeper44.baseDesc>[PAWN_nameDef] chịu trách nhiệm bảo quản ngọn lửa của bộ lạc, giữ cho nó không bao giờ tắt. [PAWN_pronoun] rất tận tâm với công việc này.</FireKeeper44.baseDesc>
+	<FireKeeper44.title>Người giữ lửa</FireKeeper44.title>
+	<FireKeeper44.titleShort>Người bảo vệ lửa</FireKeeper44.titleShort>
+	<Herder19.description>[PAWN_nameDef] đã chăm sóc đàn bò tuyết của bộ lạc từ khi còn nhỏ, bảo vệ chúng khỏi những mối đe dọa và chữa trị cho những con bò bệnh. Đây là một công việc yên tĩnh, nhưng [PAWN_pronoun] rất thích cuộc sống xa rời đám đông này.</Herder19.description>
+	<Herder19.baseDesc>[PAWN_nameDef] đã chăm sóc đàn bò tuyết của bộ lạc từ khi còn nhỏ, bảo vệ chúng khỏi những mối đe dọa và chữa trị cho những con bò bệnh. Đây là một công việc yên tĩnh, nhưng [PAWN_pronoun] rất thích cuộc sống xa rời đám đông này.</Herder19.baseDesc>
+	<Herder19.title>Người chăn bò bộ lạc</Herder19.title>
+	<Herder19.titleShort>Người chăn</Herder19.titleShort>
+	<Hideaway7.description>Sự bảo vệ quá mức của cha mẹ khiến [PAWN_objective] phải ở gần nhà mỗi ngày. Mặc dù [PAWN_pronoun] có nhiều thời gian để đọc sách và rèn luyện kỹ năng thủ công, [PAWN_pronoun] lại không có bất kỳ kỹ năng xã hội nào.</Hideaway7.description>
+	<Hideaway7.baseDesc>Sự bảo vệ quá mức của cha mẹ khiến [PAWN_objective] phải ở gần nhà mỗi ngày. Mặc dù [PAWN_pronoun] có nhiều thời gian để đọc sách và rèn luyện kỹ năng thủ công, [PAWN_pronoun] lại không có bất kỳ kỹ năng xã hội nào.</Hideaway7.baseDesc>
+	<Hideaway7.title>Thiếu niên cô lập</Hideaway7.title>
+	<Hideaway7.titleShort>Thiếu niên cô độc</Hideaway7.titleShort>
+	<ReclusiveChild81.description>[PAWN_nameDef] chỉ học nói khi gần năm tuổi, nhưng [PAWN_pronoun] vẫn thích tự nói chuyện với mình. Khi [PAWN_nameDef] ở độ tuổi teen, [PAWN_pronoun] đã quen với việc thỉnh thoảng rời khỏi làng và sống một mình trong hoang dã hàng tuần.</ReclusiveChild81.description>
+	<ReclusiveChild81.baseDesc>[PAWN_nameDef] chỉ học nói khi gần năm tuổi, nhưng [PAWN_pronoun] vẫn thích tự nói chuyện với mình. Khi [PAWN_nameDef] ở độ tuổi teen, [PAWN_pronoun] đã quen với việc thỉnh thoảng rời khỏi làng và sống một mình trong hoang dã hàng tuần.</ReclusiveChild81.baseDesc>
+	<ReclusiveChild81.title>Đứa trẻ tự kỷ</ReclusiveChild81.title>
+	<ReclusiveChild81.titleShort>Người sống khép kín</ReclusiveChild81.titleShort>
+	<Scavenger22.description>[PAWN_nameDef] đã đi tìm kho báu trong các đống đổ nát và xác tàu để tránh công việc nặng nhọc khi còn nhỏ. Tính tò mò của [PAWN_possessive] đã mang lại cho [PAWN_objective] nhiều rắc rối, nhưng cũng mang lại nhiều phát hiện thú vị.</Scavenger22.description>
+	<Scavenger22.baseDesc>[PAWN_nameDef] đã đi tìm kho báu trong các đống đổ nát và xác tàu để tránh công việc nặng nhọc khi còn nhỏ. Tính tò mò của [PAWN_possessive] đã mang lại cho [PAWN_objective] nhiều rắc rối, nhưng cũng mang lại nhiều phát hiện thú vị.</Scavenger22.baseDesc>
+	<Scavenger22.title>Người tìm kiếm đồ bỏ</Scavenger22.title>
+	<Scavenger22.titleShort>Người nhặt rác</Scavenger22.titleShort>
+	<SoleSurvivor21.description>Bộ lạc của [PAWN_nameDef] đã bị tiêu diệt trong một cuộc tấn công, chỉ còn [PAWN_pronoun] sống sót. Mặc dù được một bộ lạc khác nhận nuôi, [PAWN_nameDef] không thể thoát khỏi bóng ma quá khứ, thích ở nhà, nấu ăn và chăm sóc mùa màng.</SoleSurvivor21.description>
+	<SoleSurvivor21.baseDesc>Bộ lạc của [PAWN_nameDef] đã bị tiêu diệt trong một cuộc tấn công, chỉ còn [PAWN_pronoun] sống sót. Mặc dù được một bộ lạc khác nhận nuôi, [PAWN_nameDef] không thể thoát khỏi bóng ma quá khứ, thích ở nhà, nấu ăn và chăm sóc mùa màng.</SoleSurvivor21.baseDesc>
+	<SoleSurvivor21.title>Người sống sót duy nhất</SoleSurvivor21.title>
+	<SoleSurvivor21.titleShort>Người sống sót</SoleSurvivor21.titleShort>
+	<TribeChild40.description>[PAWN_nameDef] lớn lên trong bộ lạc, chạy nhảy trong làng và di cư cùng đàn bò tuyết, học được những kỹ năng sinh tồn cơ bản từ cha mẹ.\n\n[PAWN_pronoun] chưa bao giờ học cách đọc chữ, cũng chưa từng thấy bất kỳ máy móc nào không trở thành phế liệu.</TribeChild40.description>
+	<TribeChild40.baseDesc>[PAWN_nameDef] lớn lên trong bộ lạc, chạy nhảy trong làng và di cư cùng đàn bò tuyết, học được những kỹ năng sinh tồn cơ bản từ cha mẹ.\n\n[PAWN_pronoun] chưa bao giờ học cách đọc chữ, cũng chưa từng thấy bất kỳ máy móc nào không trở thành phế liệu.</TribeChild40.baseDesc>
+	<TribeChild40.title>Đứa trẻ bộ lạc</TribeChild40.title>
+	<TribeChild40.titleShort>Trẻ bộ lạc</TribeChild40.titleShort>
+	<VengefulChild43.description>Khi còn nhỏ, [PAWN_nameDef] trở về làng và phát hiện nơi đó đã bị cướp sạch. [PAWN_pronoun] thề sẽ trả thù những kẻ tấn công, từ đó bắt đầu cuộc tàn sát khủng khiếp trong hoang dã.</VengefulChild43.description>
+	<VengefulChild43.baseDesc>Khi còn nhỏ, [PAWN_nameDef] trở về làng và phát hiện nơi đó đã bị cướp sạch. [PAWN_pronoun] thề sẽ trả thù những kẻ tấn công, từ đó bắt đầu cuộc tàn sát khủng khiếp trong hoang dã.</VengefulChild43.baseDesc>
+	<VengefulChild43.title>Đứa trẻ báo thù</VengefulChild43.title>
+	<VengefulChild43.titleShort>Kẻ báo thù</VengefulChild43.titleShort>
+</LanguageData>

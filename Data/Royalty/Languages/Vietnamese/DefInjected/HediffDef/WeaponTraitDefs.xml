@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<HungerMaker.label>Thể chất - Đói khát</HungerMaker.label>
+<HungerMaker.description>Cảm giác đói bị ảnh hưởng bởi vũ khí liên kết tâm linh.</HungerMaker.description>
+<NeuralHeatRecoveryGain.label>Thể chất - Làm mát</NeuralHeatRecoveryGain.label>
+<NeuralHeatRecoveryGain.description>Tốc độ giảm entropy tâm linh bị ảnh hưởng bởi vũ khí liên kết tâm linh.</NeuralHeatRecoveryGain.description>
+<NoPain.label>Thể chất - Giảm đau</NoPain.label>
+<NoPain.description>Cảm giác đau đớn bị loại bỏ do ảnh hưởng của vũ khí liên kết tâm linh.</NoPain.description>
+<SpeedBoost.label>Thể chất - Tăng tốc</SpeedBoost.label>
+<SpeedBoost.description>Tốc độ di chuyển được tăng lên nhờ vũ khí liên kết tâm linh.</SpeedBoost.description>
+</LanguageData>

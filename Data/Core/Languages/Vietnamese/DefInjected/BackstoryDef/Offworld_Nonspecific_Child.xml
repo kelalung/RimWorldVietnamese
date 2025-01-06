@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ChildSpy47.description>Trẻ em thường được coi là ngây thơ và vô tội, do đó là lựa chọn lý tưởng để làm gián điệp. [PAWN_nameDef] đã được đào tạo về khả năng thâm nhập và thu thập thông tin khi chỉ mới chín tuổi. \n\nNhiều năm sống sâu trong kẻ thù đã khiến [PAWN_nameDef] không được giáo dục tốt, nhưng [PAWN_pronoun] rất giỏi trong việc nói dối và giao tiếp.</ChildSpy47.description>
+	<ChildSpy47.baseDesc>Trẻ em thường được coi là ngây thơ và vô tội, do đó là lựa chọn lý tưởng để làm gián điệp. [PAWN_nameDef] đã được đào tạo về khả năng thâm nhập và thu thập thông tin khi chỉ mới chín tuổi. \n\nNhiều năm sống sâu trong kẻ thù đã khiến [PAWN_nameDef] không được giáo dục tốt, nhưng [PAWN_pronoun] rất giỏi trong việc nói dối và giao tiếp.</ChildSpy47.baseDesc>
+	<ChildSpy47.title>Gián điệp trẻ em</ChildSpy47.title>
+	<ChildSpy47.titleShort>Gián điệp</ChildSpy47.titleShort>
+	<ChildStar74.description>[PAWN_nameDef] là một ngôi sao nhí nổi tiếng trên quê hương của [PAWN_possessive]. Sự nổi tiếng cao giúp [PAWN_pronoun] có cơ hội tiếp xúc với nhiều người khác nhau, nhưng cũng ảnh hưởng đến việc học hành của [PAWN_possessive].</ChildStar74.description>
+	<ChildStar74.baseDesc>[PAWN_nameDef] là một ngôi sao nhí nổi tiếng trên quê hương của [PAWN_possessive]. Sự nổi tiếng cao giúp [PAWN_pronoun] có cơ hội tiếp xúc với nhiều người khác nhau, nhưng cũng ảnh hưởng đến việc học hành của [PAWN_possessive].</ChildStar74.baseDesc>
+	<ChildStar74.title>Ngôi sao nhí</ChildStar74.title>
+	<ChildStar74.titleShort>Ngôi sao</ChildStar74.titleShort>
+	<ComaChild93.description>Một tai nạn thời thơ ấu đã khiến [PAWN_nameDef] rơi vào trạng thái hôn mê kéo dài, mãi đến khi [PAWN_pronoun] mười mấy tuổi mới tỉnh lại. [PAWN_possessive] cơ thể không thể phục hồi từ tình trạng yếu ớt do thiếu vận động trong nhiều năm, nhưng sau khi nghe câu chuyện bi thảm của [PAWN_possessive], mọi người thường cảm thấy đồng cảm với [PAWN_objective].</ComaChild93.description>
+	<ComaChild93.baseDesc>Một tai nạn thời thơ ấu đã khiến [PAWN_nameDef] rơi vào trạng thái hôn mê kéo dài, mãi đến khi [PAWN_pronoun] mười mấy tuổi mới tỉnh lại. [PAWN_possessive] cơ thể không thể phục hồi từ tình trạng yếu ớt do thiếu vận động trong nhiều năm, nhưng sau khi nghe câu chuyện bi thảm của [PAWN_possessive], mọi người thường cảm thấy đồng cảm với [PAWN_objective].</ComaChild93.baseDesc>
+	<ComaChild93.title>Trẻ em hôn mê</ComaChild93.title>
+	<ComaChild93.titleShort>Trẻ hôn mê</ComaChild93.titleShort>
+	<CultChild3.description>[PAWN_nameDef] sinh ra trong một giáo phái mạnh mẽ, họ hoàn toàn phủ nhận công nghệ tiên tiến và tin rằng mọi bệnh tật có thể được chữa trị bằng cách thanh tẩy linh hồn qua nghệ thuật thần thánh. \n\nSau khi lần đầu tiên chứng kiến thế giới bên ngoài, [PAWN_pronoun] quyết định trốn thoát.</CultChild3.description>
+	<CultChild3.baseDesc>[PAWN_nameDef] sinh ra trong một giáo phái mạnh mẽ, họ hoàn toàn phủ nhận công nghệ tiên tiến và tin rằng mọi bệnh tật có thể được chữa trị bằng cách thanh tẩy linh hồn qua nghệ thuật thần thánh. \n\nSau khi lần đầu tiên chứng kiến thế giới bên ngoài, [PAWN_pronoun] quyết định trốn thoát.</CultChild3.baseDesc>
+	<CultChild3.title>Trẻ em trong giáo phái</CultChild3.title>
+	<CultChild3.titleShort>Trẻ giáo phái</CultChild3.titleShort>
+	<FrightenedChild43.description>[PAWN_nameDef] từ nhỏ đã mắc chứng sợ hãi và rối loạn tâm lý nghiêm trọng. [PAWN_pronoun] sợ nhiều thứ, bao gồm bác sĩ và vi khuẩn gây bệnh. \n\nCuối cùng, [PAWN_pronoun] đã học cách nấu ăn và tự chăm sóc bản thân, nhưng nỗi sợ hãi của [PAWN_possessive] vẫn theo sát [PAWN_objective] khi trưởng thành.</FrightenedChild43.description>
+	<FrightenedChild43.baseDesc>[PAWN_nameDef] từ nhỏ đã mắc chứng sợ hãi và rối loạn tâm lý nghiêm trọng. [PAWN_pronoun] sợ nhiều thứ, bao gồm bác sĩ và vi khuẩn gây bệnh. \n\nCuối cùng, [PAWN_pronoun] đã học cách nấu ăn và tự chăm sóc bản thân, nhưng nỗi sợ hãi của [PAWN_possessive] vẫn theo sát [PAWN_objective] khi trưởng thành.</FrightenedChild43.baseDesc>
+	<FrightenedChild43.title>Trẻ em nhút nhát</FrightenedChild43.title>
+	<FrightenedChild43.titleShort>Kẻ nhút nhát</FrightenedChild43.titleShort>
+	<MedicalAssistant12.description>[PAWN_nameDef] sinh ra trong một cuộc chiến tranh thảm khốc mà cả hai bên đều lạm dụng bom xăng. [PAWN_pronoun] lớn lên trong bệnh viện, giúp cha mẹ điều trị cho hàng loạt bệnh nhân bị bỏng nặng từ chiến trường. [PAWN_pronoun] vì vậy mà sợ lửa suốt đời.</MedicalAssistant12.description>
+	<MedicalAssistant12.baseDesc>[PAWN_nameDef] sinh ra trong một cuộc chiến tranh thảm khốc mà cả hai bên đều lạm dụng bom xăng. [PAWN_pronoun] lớn lên trong bệnh viện, giúp cha mẹ điều trị cho hàng loạt bệnh nhân bị bỏng nặng từ chiến trường. [PAWN_pronoun] vì vậy mà sợ lửa suốt đời.</MedicalAssistant12.baseDesc>
+	<MedicalAssistant12.title>Trợ lý y tế</MedicalAssistant12.title>
+	<MedicalAssistant12.titleShort>Trợ lý y tế</MedicalAssistant12.titleShort>
+	<MusicalKid86.description>Ngay từ nhỏ, [PAWN_nameDef] đã bộc lộ tài năng trong việc chơi nhạc cụ và ca hát. [PAWN_pronoun] đã được đào tạo chuyên nghiệp và rất thích tham gia các buổi biểu diễn độc tấu và hòa nhạc, tuy nhiên, những lời khen ngợi đã khiến [PAWN_objective] trở nên hơi kiêu ngạo.</MusicalKid86.description>
+	<MusicalKid86.baseDesc>Ngay từ nhỏ, [PAWN_nameDef] đã bộc lộ tài năng trong việc chơi nhạc cụ và ca hát. [PAWN_pronoun] đã được đào tạo chuyên nghiệp và rất thích tham gia các buổi biểu diễn độc tấu và hòa nhạc, tuy nhiên, những lời khen ngợi đã khiến [PAWN_objective] trở nên hơi kiêu ngạo.</MusicalKid86.baseDesc>
+	<MusicalKid86.title>Nhà nhạc trẻ</MusicalKid86.title>
+	<MusicalKid86.titleShort>Nhà nhạc</MusicalKid86.titleShort>
+	<Mute34.description>[PAWN_nameDef] bị ảnh hưởng nặng nề bởi chấn thương trong thời thơ ấu. Trong nhiều năm, [PAWN_pronoun] từ chối nói chuyện và thích sống cùng với vô số thú cưng trong nhà.</Mute34.description>
+	<Mute34.baseDesc>[PAWN_nameDef] bị ảnh hưởng nặng nề bởi chấn thương trong thời thơ ấu. Trong nhiều năm, [PAWN_pronoun] từ chối nói chuyện và thích sống cùng với vô số thú cưng trong nhà.</Mute34.baseDesc>
+	<Mute34.title>Người câm</Mute34.title>
+	<Mute34.titleShort>Người câm</Mute34.titleShort>
+	<OrganFarm67.description>[PAWN_nameDef] sinh ra tại một trang trại nội tạng bất hợp pháp. Cơ thể của [PAWN_possessive] được sử dụng để nuôi dưỡng nhiều cơ quan của con người, nhằm cấy ghép cho các lính đánh thuê bị thương. Mặc dù trải nghiệm lớn lên như một cơn ác mộng không thể xóa nhòa, nhưng điều đó đã giúp [PAWN_objective] có được sự hiểu biết độc đáo về sinh học con người.</OrganFarm67.description>
+	<OrganFarm67.baseDesc>[PAWN_nameDef] sinh ra tại một trang trại nội tạng bất hợp pháp. Cơ thể của [PAWN_possessive] được sử dụng để nuôi dưỡng nhiều cơ quan của con người, nhằm cấy ghép cho các lính đánh thuê bị thương. Mặc dù trải nghiệm lớn lên như một cơn ác mộng không thể xóa nhòa, nhưng điều đó đã giúp [PAWN_objective] có được sự hiểu biết độc đáo về sinh học con người.</OrganFarm67.baseDesc>
+	<OrganFarm67.title>Gia súc nội tạng</OrganFarm67.title>
+	<OrganFarm67.titleShort>Gia súc nội tạng</OrganFarm67.titleShort>
+	<Pyromaniac18.description>Kể từ khi còn nhỏ, [PAWN_nameDef] đã có một sự cuồng nhiệt bệnh hoạn đối với lửa. [PAWN_pronoun] thường đốt rác và say sưa nhìn ngọn lửa cho đến khi bị bỏng. \n\nMột ngày nọ, khi chơi diêm, [PAWN_pronoun] đã vô tình đốt cháy nhà của mình.</Pyromaniac18.description>
+	<Pyromaniac18.baseDesc>Kể từ khi còn nhỏ, [PAWN_nameDef] đã có một sự cuồng nhiệt bệnh hoạn đối với lửa. [PAWN_pronoun] thường đốt rác và say sưa nhìn ngọn lửa cho đến khi bị bỏng. \n\nMột ngày nọ, khi chơi diêm, [PAWN_pronoun] đã vô tình đốt cháy nhà của mình.</Pyromaniac18.baseDesc>
+	<Pyromaniac18.title>Người cuồng lửa</Pyromaniac18.title>
+	<Pyromaniac18.titleShort>Người cuồng lửa</Pyromaniac18.titleShort>
+	<ShopKid36.description>Người mẹ của [PAWN_nameDef] thường xuyên ốm yếu, vì vậy trách nhiệm quản lý cửa hàng đã rơi vào vai [PAWN_pronoun]. Đây là nguồn thu nhập duy nhất của gia đình. [PAWN_pronoun] có một chút hiểu biết về những món đồ kỳ lạ mà mình bán và đã học được nhiều kỹ năng giao dịch trong quá trình kinh doanh.</ShopKid36.description>
+	<ShopKid36.baseDesc>Người mẹ của [PAWN_nameDef] thường xuyên ốm yếu, vì vậy trách nhiệm quản lý cửa hàng đã rơi vào vai [PAWN_pronoun]. Đây là nguồn thu nhập duy nhất của gia đình. [PAWN_pronoun] có một chút hiểu biết về những món đồ kỳ lạ mà mình bán và đã học được nhiều kỹ năng giao dịch trong quá trình kinh doanh.</ShopKid36.baseDesc>
+	<ShopKid36.title>Chủ cửa hàng nhỏ</ShopKid36.title>
+	<ShopKid36.titleShort>Chủ cửa hàng</ShopKid36.titleShort>
+	<SicklyChild55.description>[PAWN_nameDef] mắc một căn bệnh hiếm gặp từ nhỏ. [PAWN_pronoun] được điều trị cách ly trong một viện nghiên cứu, vì vậy rất ít tiếp xúc với mọi người và ít vận động. Mặc dù sống trong một môi trường tẻ nhạt như vậy, [PAWN_pronoun] đã học được nhiều kiến thức về khoa học và y tế.</SicklyChild55.description>
+	<SicklyChild55.baseDesc>[PAWN_nameDef] mắc một căn bệnh hiếm gặp từ nhỏ. [PAWN_pronoun] được điều trị cách ly trong một viện nghiên cứu, vì vậy rất ít tiếp xúc với mọi người và ít vận động. Mặc dù sống trong một môi trường tẻ nhạt như vậy, [PAWN_pronoun] đã học được nhiều kiến thức về khoa học và y tế.</SicklyChild55.baseDesc>
+	<SicklyChild55.title>Trẻ em ốm yếu</SicklyChild55.title>
+	<SicklyChild55.titleShort>Bệnh nhân</SicklyChild55.titleShort>
+	<StoryWriter67.description>Ngay từ nhỏ, [PAWN_nameDef] đã đam mê đọc sách. [PAWN_pronoun] dành cả ngày ở thư viện địa phương để đọc. Khi thư viện đóng cửa do khủng hoảng tài chính, [PAWN_nameDef] cảm thấy bối rối và quyết định tự viết truyện để lấp đầy khoảng trống trong tâm hồn.</StoryWriter67.description>
+	<StoryWriter67.baseDesc>Ngay từ nhỏ, [PAWN_nameDef] đã đam mê đọc sách. [PAWN_pronoun] dành cả ngày ở thư viện địa phương để đọc. Khi thư viện đóng cửa do khủng hoảng tài chính, [PAWN_nameDef] cảm thấy bối rối và quyết định tự viết truyện để lấp đầy khoảng trống trong tâm hồn.</StoryWriter67.baseDesc>
+	<StoryWriter67.title>Nhà văn</StoryWriter67.title>
+	<StoryWriter67.titleShort>Nhà văn</StoryWriter67.titleShort>
+	<VatgrownSoldier8.description>[PAWN_nameDef] không được coi như một con người, mà là một cỗ máy chiến tranh được tạo ra. Trong quá trình phát triển nhanh chóng tại nhà máy vũ khí sinh học, [PAWN_pronoun] đã được dạy nhiều kỹ năng chiến đấu. [PAWN_nameDef] vẫn khao khát chiến đấu và ghét phải tiếp xúc với con người.</VatgrownSoldier8.description>
+	<VatgrownSoldier8.baseDesc>[PAWN_nameDef] không được coi như một con người, mà là một cỗ máy chiến tranh được tạo ra. Trong quá trình phát triển nhanh chóng tại nhà máy vũ khí sinh học, [PAWN_pronoun] đã được dạy nhiều kỹ năng chiến đấu. [PAWN_nameDef] vẫn khao khát chiến đấu và ghét phải tiếp xúc với con người.</VatgrownSoldier8.baseDesc>
+	<VatgrownSoldier8.title>Người lính clone</VatgrownSoldier8.title>
+	<VatgrownSoldier8.titleShort>Người clone</VatgrownSoldier8.titleShort>
+	<WarRefugee51.description>Khi [PAWN_nameDef] còn trong nôi, chiến tranh đã phá hủy quê hương của [PAWN_possessive]. Cha mẹ [PAWN_possessive] đã chạy trốn, cố gắng tìm nơi an toàn. Ký ức đầu tiên của [PAWN_nameDef] là học cách tự bảo vệ bản thân. \n\nNhững gì [PAWN_pronoun] chứng kiến về bạo lực và sự tàn phá đã để lại những vết thương sâu sắc trong cuộc đời [PAWN_possessive].</WarRefugee51.description>
+	<WarRefugee51.baseDesc>Khi [PAWN_nameDef] còn trong nôi, chiến tranh đã phá hủy quê hương của [PAWN_possessive]. Cha mẹ [PAWN_possessive] đã chạy trốn, cố gắng tìm nơi an toàn. Ký ức đầu tiên của [PAWN_nameDef] là học cách tự bảo vệ bản thân. \n\nNhững gì [PAWN_pronoun] chứng kiến về bạo lực và sự tàn phá đã để lại những vết thương sâu sắc trong cuộc đời [PAWN_possessive].</WarRefugee51.baseDesc>
+	<WarRefugee51.title>Người tị nạn chiến tranh</WarRefugee51.title>
+	<WarRefugee51.titleShort>Tị nạn</WarRefugee51.titleShort>
+</LanguageData>

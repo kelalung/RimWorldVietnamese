@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <InfantIllness.label>Bệnh ở trẻ sơ sinh</InfantIllness.label>
+<InfantIllness.description>Ảnh hưởng của các biến chứng trong quá trình sinh. Nếu trẻ sơ sinh sống sót sau 10 ngày, họ sẽ tự hồi phục.\n\nMức độ nghiêm trọng của bệnh sẽ giảm dần theo thời gian, cần sự chăm sóc và thuốc men ở các mức độ khác nhau để hồi phục.</InfantIllness.description>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>Bệnh ở trẻ sơ sinh của {PAWN_labelShort} đã chuyển từ {1} thành {2}.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>Nếu không có sự chăm sóc y tế xuất sắc và thuốc men nổi bật, sẽ nguy hiểm đến tính mạng.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>Nguy kịch</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>Nếu không có sự chăm sóc y tế tốt và thuốc men thông thường, sẽ nguy hiểm đến tính mạng.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>Trầm trọng</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>Nếu không có thuốc men và chăm sóc cơ bản, sẽ nguy hiểm đến tính mạng.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>Thông thường</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>Điều này sẽ khiến trẻ sơ sinh cảm thấy hơi khó chịu, nhưng với tốc độ này, họ sẽ nhanh chóng hồi phục.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>Nhẹ</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+<InfantIllness.descriptionShort>Ảnh hưởng của các biến chứng trong quá trình sinh</InfantIllness.descriptionShort>
+<InfantIllness.stages.minor.label>Nhẹ</InfantIllness.stages.minor.label>
+<InfantIllness.stages.major.label>Vừa</InfantIllness.stages.major.label>
+<InfantIllness.stages.extreme-0.label>Nghiêm trọng</InfantIllness.stages.extreme-0.label>
+<InfantIllness.stages.extreme-1.label>Cực kỳ nghiêm trọng</InfantIllness.stages.extreme-1.label>
+<Lactating.label>Thời kỳ cho con bú</Lactating.label>
+<Lactating.description>Trạng thái có thể cho con bú bằng sữa mẹ. Ngực chủ động sản xuất và lưu trữ sữa mẹ. Thời kỳ cho con bú bắt đầu từ khi mẹ sinh, miễn là mẹ đã cho con bú ít nhất một lần trong vòng 10 ngày, thời kỳ này sẽ kéo dài vô thời hạn.\n\nNgười đang cho con bú sẽ khó mang thai hơn.</Lactating.description>
+<Lactating.comps.HediffComp_MessageOnRemoval.message>Do {0} đã không cho con bú trong 10 ngày, thời kỳ cho con bú đã kết thúc.</Lactating.comps.HediffComp_MessageOnRemoval.message>
+<Lactating.comps.HediffComp_Lactating.labelInBrackets>Tồn kho sữa mẹ: {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+<Lactating.comps.HediffComp_RemoveIfOtherHediff.message>Do {0} suy dinh dưỡng, thời kỳ cho con bú đã kết thúc.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+<MorningSickness.label>Buồn nôn khi mang thai</MorningSickness.label>
+<MorningSickness.description>Hiện tượng phổ biến khi mang thai. Trong quá trình này, bà mẹ sẽ cảm thấy buồn nôn, chóng mặt và mơ hồ trong suy nghĩ.</MorningSickness.description>
+<OvumExtracted.label>Trích xuất trứng</OvumExtracted.label>
+<OvumExtracted.description>Người phụ nữ này vừa trải qua một ca lấy trứng. Cần một thời gian trước khi có thể trích xuất trứng.</OvumExtracted.description>
+<PollutionStimulus.label>Kích thích ô nhiễm</PollutionStimulus.label>
+<PollutionStimulus.description>Sinh vật này tràn đầy sức sống do tiếp xúc với ô nhiễm.\n\nKích thích ô nhiễm ban đầu được sử dụng như một vũ khí sinh học của côn trùng để chống lại cơ thể cơ khí, nhưng sau đó gen này được sử dụng để giúp những người sống trong khu vực ô nhiễm có thể sống bình thường.</PollutionStimulus.description>
+<PollutionStimulus.descriptionShort>Sinh vật này tràn đầy sức sống do tiếp xúc với ô nhiễm.</PollutionStimulus.descriptionShort>
+<PollutionStimulus.stages.minor.label>Nhẹ</PollutionStimulus.stages.minor.label>
+<PollutionStimulus.stages.moderate.label>Vừa</PollutionStimulus.stages.moderate.label>
+<PollutionStimulus.stages.maximum.label>Tối đa</PollutionStimulus.stages.maximum.label>
+<PostpartumExhaustion.label>Mệt mỏi sau sinh</PostpartumExhaustion.label>
+<PostpartumExhaustion.description>Di chứng phổ biến sau sinh. Người mẹ cần nghỉ ngơi một thời gian để phục hồi sức khỏe.</PostpartumExhaustion.description>
+<PregnancyLabor.label>Chuyển dạ (mở cổ tử cung)</PregnancyLabor.label>
+<PregnancyLabor.description>Trạng thái sắp sinh. Chuyển dạ trải qua nhiều giai đoạn, kèm theo các mức độ đau đớn và co bóp khác nhau. Mỗi giai đoạn chuyển dạ đều khác nhau, cơn đau sẽ tăng và giảm một cách không thể đoán trước theo thời gian. Chuyển dạ kết thúc khi đứa trẻ ra đời.</PregnancyLabor.description>
+<PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>Cơn đau chuyển dạ của {PAWN_labelShort} đã chuyển từ {1} thành {2}.</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+<PregnancyLabor.stages.mild.label>Nhẹ</PregnancyLabor.stages.mild.label>
+<PregnancyLabor.stages.intense.label>Mạnh mẽ</PregnancyLabor.stages.intense.label>
+<PregnancyLabor.stages.debilitating.label>Yếu đuối</PregnancyLabor.stages.debilitating.label>
+<PregnancyLaborPushing.label>Chuyển dạ (co bóp)</PregnancyLaborPushing.label>
+<PregnancyLaborPushing.description>Đứa trẻ đang đi xuống đường sinh, người mẹ cảm thấy cơn co bóp mạnh mẽ. Đứa trẻ sắp ra đời.</PregnancyLaborPushing.description>
+<PregnancyMood.label>Tâm trạng khi mang thai</PregnancyMood.label>
+  <PregnancyMood.description>Hệ quả phổ biến của việc mang thai này là do sự mất cân bằng hormone gây ra sự dao động tâm trạng.</PregnancyMood.description>
+<PregnantHuman.label>Mang thai</PregnantHuman.label>
+<PregnantHuman.description>Người phụ nữ này có một em bé đang phát triển trong cơ thể, sắp đến thế giới này. Thời gian mang thai của con người sẽ kéo dài 18 ngày, chia thành ba giai đoạn thai kỳ. Khi thời gian thai kỳ tăng lên, khả năng hoạt động của mẹ cũng sẽ giảm. Mang thai có thể gây ra cảm giác buồn nôn hoặc dao động tâm trạng cho mẹ, điều này có thể rất khó xử lý.</PregnantHuman.description>
+<PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort} mang thai</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
+<PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelShort} đã mang thai!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
+<PregnantHuman.labelNoun>Mang thai</PregnantHuman.labelNoun>
+<PregnantHuman.stages.first_trimester.label>Giai đoạn đầu thai kỳ</PregnantHuman.stages.first_trimester.label>
+<PregnantHuman.stages.second_trimester.label>Giai đoạn giữa thai kỳ</PregnantHuman.stages.second_trimester.label>
+<PregnantHuman.stages.third_trimester.label>Giai đoạn cuối thai kỳ</PregnantHuman.stages.third_trimester.label>
+<Stillborn.label>Thai chết</Stillborn.label>
+<Stillborn.description>Em bé này đã chết do các biến chứng không xác định trong quá trình mang thai.</Stillborn.description>
+</LanguageData>

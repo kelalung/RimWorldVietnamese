@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <ApparelDamaged.stages.ratty_apparel.label>Mặc đồ rách nát</ApparelDamaged.stages.ratty_apparel.label>
+<ApparelDamaged.stages.ratty_apparel.description>Quần áo của tôi bị rách vài chỗ xấu xí, sao không cho tôi vài bộ mới để mặc nhỉ?</ApparelDamaged.stages.ratty_apparel.description>
+<ApparelDamaged.stages.tattered_apparel.label>Mặc đồ tả tơi</ApparelDamaged.stages.tattered_apparel.label>
+<ApparelDamaged.stages.tattered_apparel.description>Quần áo của tôi chỉ là vài mảnh vải rách, sao không cho tôi vài bộ mới để mặc nhỉ?</ApparelDamaged.stages.tattered_apparel.description>
+<DeadMansApparel.stages.tainted.label>Áo quần của người chết {0}</DeadMansApparel.stages.tainted.label>
+<DeadMansApparel.stages.tainted.description>Tôi đang mặc áo quần của người chết. Điều này khiến tôi cảm thấy rùng mình, luôn có cảm giác có gì đó bẩn thỉu.</DeadMansApparel.stages.tainted.description>
+<DeadMansApparel.stages.tainted_1.label>Áo quần của người chết {0} (2 bộ)</DeadMansApparel.stages.tainted_1.label>
+<DeadMansApparel.stages.tainted_1.description>Tôi đang mặc hai bộ áo quần của người chết. Điều này khiến tôi cảm thấy rùng mình, luôn có cảm giác có gì đó bẩn thỉu.</DeadMansApparel.stages.tainted_1.description>
+<DeadMansApparel.stages.tainted_2.label>Áo quần của người chết {0} (3 bộ)</DeadMansApparel.stages.tainted_2.label>
+<DeadMansApparel.stages.tainted_2.description>Tôi đang mặc ba bộ áo quần của người chết. Điều này khiến tôi cảm thấy rùng mình, luôn có cảm giác có gì đó bẩn thỉu.</DeadMansApparel.stages.tainted_2.description>
+<DeadMansApparel.stages.tainted_etc.label>Áo quần của người chết {0} (nhiều bộ)</DeadMansApparel.stages.tainted_etc.label>
+<DeadMansApparel.stages.tainted_etc.description>Tôi đang mặc nhiều bộ áo quần của người chết. Điều này khiến tôi cảm thấy rùng mình, luôn có cảm giác có gì đó bẩn thỉu.</DeadMansApparel.stages.tainted_etc.description>
+<EnvironmentCold.stages.chilly.label>Cảm thấy hơi lạnh</EnvironmentCold.stages.chilly.label>
+<EnvironmentCold.stages.chilly.description>Tôi cảm thấy hơi lạnh, không thoải mái.</EnvironmentCold.stages.chilly.description>
+<EnvironmentCold.stages.cold.label>Cảm thấy rất lạnh</EnvironmentCold.stages.cold.label>
+<EnvironmentCold.stages.cold.description>Tôi cảm thấy lạnh quá, đang run rẩy.</EnvironmentCold.stages.cold.description>
+<EnvironmentCold.stages.numbing_cold.label>Cảm thấy đặc biệt lạnh</EnvironmentCold.stages.numbing_cold.label>
+<EnvironmentCold.stages.numbing_cold.description>Tôi không thể ngừng run, răng thì đánh vào nhau, điều duy nhất tôi nghĩ đến là giữ ấm.</EnvironmentCold.stages.numbing_cold.description>
+<EnvironmentCold.stages.absolutely_freezing.label>Sắp đóng băng</EnvironmentCold.stages.absolutely_freezing.label>
+<EnvironmentCold.stages.absolutely_freezing.description>Tôi không thể kiểm soát được việc đánh răng, gần như không thể nói, ngón chân của tôi đã hoàn toàn tê cứng, tôi cần giữ ấm.</EnvironmentCold.stages.absolutely_freezing.description>
+<EnvironmentDark.stages.darkness.label>Môi trường tối tăm</EnvironmentDark.stages.darkness.label>
+<EnvironmentDark.stages.darkness.description>Tôi đã ở trong bóng tối một thời gian. Tôi không thích điều này.</EnvironmentDark.stages.darkness.description>
+<EnvironmentHot.stages.sweaty.label>Cảm thấy hơi nóng</EnvironmentHot.stages.sweaty.label>
+<EnvironmentHot.stages.sweaty.description>Nhiệt độ này khiến tôi không thoải mái, tôi đang đổ mồ hôi.</EnvironmentHot.stages.sweaty.description>
+<EnvironmentHot.stages.hot.label>Cảm thấy rất nóng</EnvironmentHot.stages.hot.label>
+<EnvironmentHot.stages.hot.description>Tôi cảm thấy nóng bức khắp người.</EnvironmentHot.stages.hot.description>
+<EnvironmentHot.stages.sweltering_hot.label>Cảm thấy đặc biệt nóng</EnvironmentHot.stages.sweltering_hot.label>
+<EnvironmentHot.stages.sweltering_hot.description>Cảm giác như tôi đang ở trong một cái lò nướng, tôi không biết mình có thể chịu đựng được bao lâu.</EnvironmentHot.stages.sweltering_hot.description>
+<EnvironmentHot.stages.blistering_hot.label>Sắp bị nướng chín</EnvironmentHot.stages.blistering_hot.label>
+<EnvironmentHot.stages.blistering_hot.description>Tôi sắp bị nướng chín, ở nhiệt độ này tôi chắc chắn sẽ chết.</EnvironmentHot.stages.blistering_hot.description>
+<HumanLeatherApparelHappy.stages.human_leather.label>Da người {0}</HumanLeatherApparelHappy.stages.human_leather.label>
+<HumanLeatherApparelHappy.stages.human_leather.description>Mặc đồ làm từ người khác thật là thích thú.</HumanLeatherApparelHappy.stages.human_leather.description>
+<HumanLeatherApparelHappy.stages.human_leather_1.label>Da người {0} (2 bộ)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+<HumanLeatherApparelHappy.stages.human_leather_1.description>Điều này có thể khiến họ sợ hãi. Tất cả mọi người sẽ biết tôi mạnh mẽ như thế nào.</HumanLeatherApparelHappy.stages.human_leather_1.description>
+<HumanLeatherApparelHappy.stages.human_leather_2.label>Da người {0} (3 bộ)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+<HumanLeatherApparelHappy.stages.human_leather_2.description>Những khuôn mặt trên áo quần của tôi không hề cười, nhưng chúng mang lại cho tôi niềm vui.</HumanLeatherApparelHappy.stages.human_leather_2.description>
+<HumanLeatherApparelHappy.stages.human_leather_etc.label>Da người {0} (nhiều bộ)</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+<HumanLeatherApparelHappy.stages.human_leather_etc.description>Da! Thịt! Đây là huy chương của tôi!</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+<HumanLeatherApparelSad.stages.human_leather.label>Da người {0}</HumanLeatherApparelSad.stages.human_leather.label>
+<HumanLeatherApparelSad.stages.human_leather.description>Mặc một phần cơ thể của ai đó thật là ghê rợn. Ai có thể làm được điều đó?</HumanLeatherApparelSad.stages.human_leather.description>
+<HumanLeatherApparelSad.stages.human_leather_1.label>Da người {0} (2 bộ)</HumanLeatherApparelSad.stages.human_leather_1.label>
+<HumanLeatherApparelSad.stages.human_leather_1.description>Tôi mặc như một kẻ điên.</HumanLeatherApparelSad.stages.human_leather_1.description>
+<HumanLeatherApparelSad.stages.human_leather_2.label>Da người {0} (3 bộ)</HumanLeatherApparelSad.stages.human_leather_2.label>
+<HumanLeatherApparelSad.stages.human_leather_2.description>Tôi nghĩ có thể có một khuôn mặt trên áo quần của tôi. Ôi không, áo quần của tôi chính là một *khuôn mặt*.</HumanLeatherApparelSad.stages.human_leather_2.description>
+<HumanLeatherApparelSad.stages.human_leather_etc.label>Da người {0} (nhiều bộ)</HumanLeatherApparelSad.stages.human_leather_etc.label>
+<HumanLeatherApparelSad.stages.human_leather_etc.description>Tôi trông giống như một quái vật trong phim kinh dị, và tôi cảm thấy như mình đang ở trong một bộ phim kinh dị.</HumanLeatherApparelSad.stages.human_leather_etc.description>
+<LoveReading.stages.I_love_reading.label>Yêu thích đọc sách</LoveReading.stages.I_love_reading.label>
+<LoveReading.stages.I_love_reading.description>Đọc sách kích thích sự tò mò của tôi.</LoveReading.stages.I_love_reading.description>
+<LoveReading.stages.I_really_love_reading.label>Rất yêu thích đọc sách</LoveReading.stages.I_really_love_reading.label>
+<LoveReading.stages.I_really_love_reading.description>Đọc sách kích thích niềm khao khát tri thức mãnh liệt trong tôi! Tôi thực sự thích cách học này.</LoveReading.stages.I_really_love_reading.description>
+<Sick.stages.sick.label>Bị bệnh</Sick.stages.sick.label>
+<Sick.stages.sick.description>Tôi bị bệnh, cảm thấy không thoải mái.</Sick.stages.sick.description>
+<SkillBookPassion.stages.interesting_textbook.label>Sách giáo khoa thú vị</SkillBookPassion.stages.interesting_textbook.label>
+<SkillBookPassion.stages.interesting_textbook.description>Cuốn sách này đề cập đến một chủ đề mà tôi rất đam mê. Nó thật thú vị.</SkillBookPassion.stages.interesting_textbook.description>
+<SkillBookPassion.stages.amazing_textbook.label>Sách giáo khoa tuyệt vời</SkillBookPassion.stages.amazing_textbook.label>
+<SkillBookPassion.stages.amazing_textbook.description>Cuốn sách này đề cập đến một chủ đề mà tôi yêu thích. Nó rất hấp dẫn.</SkillBookPassion.stages.amazing_textbook.description>
+<WrongApparelGender.stages.wearing_apparel.label>Mặc đồ của {0}</WrongApparelGender.stages.wearing_apparel.label>
+<WrongApparelGender.stages.wearing_apparel.description>Tôi đang mặc những bộ đồ rõ ràng dành cho {0}! Thật xấu hổ.</WrongApparelGender.stages.wearing_apparel.description>
+</LanguageData>

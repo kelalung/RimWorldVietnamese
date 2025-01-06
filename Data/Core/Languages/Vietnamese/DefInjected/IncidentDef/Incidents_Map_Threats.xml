@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalInsanityMass.label>Động Vật Điên Cuồng Quy Mô Lớn</AnimalInsanityMass.label>
+	<AnimalInsanitySingle.label>Động Vật Điên Cuồng</AnimalInsanitySingle.label>
+	<DeepDrillInfestation.label>Thảm Họa Sâu Khoan</DeepDrillInfestation.label>
+	<DeepDrillInfestation.letterLabel>Sâu Khoan: Thảm Họa</DeepDrillInfestation.letterLabel>
+	<DeepDrillInfestation.letterText>Khoan sâu của bạn vô tình thông qua một hang động đầy côn trùng, giờ chúng sẽ trả thù những người thực hiện khoan sâu!\n\nCẩn thận—những côn trùng này đã bị kích thích, chúng sẽ cố gắng phá hủy căn cứ của bạn.</DeepDrillInfestation.letterText>
+	<DefoliatorShipPartCrash.label>Mảnh Tàu Rơi Xuống (Héo)</DefoliatorShipPartCrash.label>
+	<DefoliatorShipPartCrash.letterLabel>Tàu Héo</DefoliatorShipPartCrash.letterLabel>
+	<DefoliatorShipPartCrash.letterText>Một con tàu cổ đã rơi xuống gần đây.\n\nẢnh hưởng bí ẩn từ xác tàu đang giết chết thực vật xung quanh.\n\nHãy phá hủy nó càng nhanh càng tốt.\n\nNhưng hãy cẩn thận—nó có thể cố gắng tự bảo vệ mình.</DefoliatorShipPartCrash.letterText>
+	<Infestation.label>Thảm Họa Côn Trùng</Infestation.label>
+	<Infestation.letterLabel>Thảm Họa Côn Trùng</Infestation.letterLabel>
+	<Infestation.letterText>Một đàn côn trùng lớn đang đào bới về phía bạn! Chúng sẽ đột phá mặt đất trong chốc lát và thiết lập tổ côn trùng.\n\nNhững tổ côn trùng này sẽ sinh sản thêm nhiều côn trùng và tổ côn trùng.\n\nNếu bạn không muốn côn trùng lan tràn khắp khu vực, hãy phá hủy những tổ này. Nhưng hãy cẩn thận—những côn trùng này sẽ bảo vệ quê hương của chúng.</Infestation.letterText>
+	<ManhunterPack.label>Bầy Săn Người</ManhunterPack.label>
+	<PsychicEmanatorShipPartCrash.label>Mảnh Tàu Rơi Xuống (Tâm Linh)</PsychicEmanatorShipPartCrash.label>
+	<PsychicEmanatorShipPartCrash.letterLabel>Tàu Tâm Linh</PsychicEmanatorShipPartCrash.letterLabel>
+	<PsychicEmanatorShipPartCrash.letterText>Một con tàu cổ đã rơi xuống gần đây.\n\nCác thuộc địa cảm nhận được một nguy hiểm không thể biết. Chắc chắn có một AI nhân cách máy móc có khả năng phát xạ tâm linh trong xác tàu, và có vẻ không thân thiện.\n\nHãy phá hủy nó càng nhanh càng tốt.\n\nNhưng hãy cẩn thận—nó có thể cố gắng tự bảo vệ mình.</PsychicEmanatorShipPartCrash.letterText>
+	<RaidEnemy.label>Cuộc Tấn Công</RaidEnemy.label>
+</LanguageData>

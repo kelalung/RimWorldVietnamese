@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Frenzy_Go.label>Hành Động Cuồng Nhiệt</Frenzy_Go.label>
+	<Frenzy_Go.baseInspectLine>Kích Thích (Hành Động Cuồng Nhiệt)</Frenzy_Go.baseInspectLine>
+	<Frenzy_Go.beginLetter>[PAWN_pronoun] sẽ di chuyển nhanh hơn trong 8 ngày tới.</Frenzy_Go.beginLetter>
+	<Frenzy_Go.beginLetterLabel>Kích Thích (Hành Động Cuồng Nhiệt)</Frenzy_Go.beginLetterLabel>
+	<Frenzy_Go.endMessage>{0} đã mất đi kích thích (Hành Động Cuồng Nhiệt).</Frenzy_Go.endMessage>
+	<Frenzy_Shoot.label>Cuồng Nhiệt Bắn Cung</Frenzy_Shoot.label>
+	<Frenzy_Shoot.baseInspectLine>Kích Thích (Cuồng Nhiệt Bắn Cung)</Frenzy_Shoot.baseInspectLine>
+	<Frenzy_Shoot.beginLetter>[PAWN_pronoun] sẽ bắn chính xác hơn trong 8 ngày tới.</Frenzy_Shoot.beginLetter>
+	<Frenzy_Shoot.beginLetterLabel>Kích Thích (Cuồng Nhiệt Bắn Cung)</Frenzy_Shoot.beginLetterLabel>
+	<Frenzy_Shoot.endMessage>{0} đã mất đi kích thích (Cuồng Nhiệt Bắn Cung)</Frenzy_Shoot.endMessage>
+	<Frenzy_Work.label>Cuồng Nhiệt Làm Việc</Frenzy_Work.label>
+	<Frenzy_Work.baseInspectLine>Kích Thích (Cuồng Nhiệt Làm Việc)</Frenzy_Work.baseInspectLine>
+	<Frenzy_Work.beginLetter>[PAWN_pronoun] sẽ làm việc hiệu quả hơn trong 8 ngày tới.</Frenzy_Work.beginLetter>
+	<Frenzy_Work.beginLetterLabel>Kích Thích (Cuồng Nhiệt Làm Việc)</Frenzy_Work.beginLetterLabel>
+	<Frenzy_Work.endMessage>{0} đã mất đi kích thích (Cuồng Nhiệt Làm Việc).</Frenzy_Work.endMessage>
+	<Inspired_Creativity.label>Cảm Hứng Sáng Tạo</Inspired_Creativity.label>
+	<Inspired_Creativity.baseInspectLine>Kích Thích (Cảm Hứng Sáng Tạo)</Inspired_Creativity.baseInspectLine>
+	<Inspired_Creativity.beginLetter>[PAWN_pronoun] sẽ tạo ra bất kỳ vật phẩm, lắp ráp đồ nội thất hoặc nghệ thuật hoàn thành với chất lượng cao hơn 2 cấp.\n\nKích thích này sẽ kéo dài 8 ngày, hoặc biến mất sau khi hoàn thành sản xuất vật phẩm, xây dựng đồ nội thất hoặc chế tác nghệ thuật.</Inspired_Creativity.beginLetter>
+	<Inspired_Creativity.beginLetterLabel>Kích Thích (Cảm Hứng Sáng Tạo)</Inspired_Creativity.beginLetterLabel>
+	<Inspired_Creativity.endMessage>{0} đã mất đi kích thích (Cảm Hứng Sáng Tạo)</Inspired_Creativity.endMessage>
+	<Inspired_Recruitment.label>Cảm Hứng Tuyển Dụng</Inspired_Recruitment.label>
+	<Inspired_Recruitment.baseInspectLine>Kích Thích (Cảm Hứng Tuyển Dụng)</Inspired_Recruitment.baseInspectLine>
+	<Inspired_Recruitment.beginLetter>[PAWN_pronoun] sẽ chắc chắn thành công trong lần tuyển dụng tù nhân tiếp theo, bất kể độ khó như thế nào.\n\nKích thích này sẽ kéo dài 8 ngày, hoặc biến mất sau khi tuyển dụng thành công.</Inspired_Recruitment.beginLetter>
+	<Inspired_Recruitment.beginLetterLabel>Kích Thích (Cảm Hứng Tuyển Dụng)</Inspired_Recruitment.beginLetterLabel>
+	<Inspired_Recruitment.endMessage>{0} đã mất đi kích thích (Cảm Hứng Tuyển Dụng)</Inspired_Recruitment.endMessage>
+	<Inspired_Surgery.label>Cảm Hứng Phẫu Thuật</Inspired_Surgery.label>
+	<Inspired_Surgery.baseInspectLine>Kích Thích (Cảm Hứng Phẫu Thuật)</Inspired_Surgery.baseInspectLine>
+	<Inspired_Surgery.beginLetter>[PAWN_pronoun] sẽ có tỷ lệ thành công gấp đôi trong lần phẫu thuật tiếp theo.\n\nKích thích này sẽ kéo dài 8 ngày, hoặc biến mất sau khi thực hiện phẫu thuật.</Inspired_Surgery.beginLetter>
+	<Inspired_Surgery.beginLetterLabel>Kích Thích (Cảm Hứng Phẫu Thuật)</Inspired_Surgery.beginLetterLabel>
+	<Inspired_Surgery.endMessage>{0} đã mất đi kích thích (Cảm Hứng Phẫu Thuật)</Inspired_Surgery.endMessage>
+	<Inspired_Taming.label>Cảm Hứng Thuần Hóa</Inspired_Taming.label>
+	<Inspired_Taming.baseInspectLine>Kích Thích (Cảm Hứng Thuần Hóa)</Inspired_Taming.baseInspectLine>
+	<Inspired_Taming.beginLetter>[PAWN_pronoun] sẽ chắc chắn thành công trong lần thuần hóa động vật tiếp theo.\n\nKích thích này sẽ kéo dài 8 ngày, hoặc biến mất sau khi thuần hóa một con vật.</Inspired_Taming.beginLetter>
+	<Inspired_Taming.endMessage>{0} đã mất đi kích thích (Cảm Hứng Thuần Hóa)</Inspired_Taming.endMessage>
+	<Inspired_Trade.label>Cảm Hứng Giao Dịch</Inspired_Trade.label>
+	<Inspired_Trade.baseInspectLine>Kích Thích (Cảm Hứng Giao Dịch)</Inspired_Trade.baseInspectLine>
+	<Inspired_Trade.beginLetter>[PAWN_pronoun] sẽ có khả năng thương lượng giá tốt hơn trong lần giao dịch tiếp theo.\n\nKích thích này sẽ kéo dài 8 ngày, hoặc biến mất sau khi giao dịch hoàn thành.</Inspired_Trade.beginLetter>
+	<Inspired_Trade.beginLetterLabel>Kích Thích (Cảm Hứng Giao Dịch)</Inspired_Trade.beginLetterLabel>
+	<Inspired_Trade.endMessage>{0} đã mất đi kích thích (Cảm Hứng Giao Dịch)</Inspired_Trade.endMessage>
+</LanguageData>

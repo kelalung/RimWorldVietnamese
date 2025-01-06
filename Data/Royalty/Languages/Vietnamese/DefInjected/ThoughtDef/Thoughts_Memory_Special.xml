@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DecreeFailed.stages.decree_failed.label>Quyết Định Không Có Hiệu Lực</DecreeFailed.stages.decree_failed.label>
+<DecreeFailed.stages.decree_failed.description>Uy quyền của tôi không được tôn trọng đúng mức.</DecreeFailed.stages.decree_failed.description>
+<DecreeMet.stages.decree_satisfied.label>Đối Với Quyết Định Hài Lòng</DecreeMet.stages.decree_satisfied.label>
+<DecreeMet.stages.decree_satisfied.description>Có vẻ như uy quyền của tôi đã được tôn trọng đúng mức.</DecreeMet.stages.decree_satisfied.description>
+<Disinherited.stages.disinherited.label>Mất Quyền Thừa Kế</Disinherited.stages.disinherited.label>
+<Disinherited.stages.disinherited.description>Quyền thừa kế của tôi đã bị tước bỏ. Có lẽ tôi nên dạy cho họ cách cư xử?</Disinherited.stages.disinherited.description>
+<NeuroquakeEcho.stages.neuroquake_echo.label>Tiếng Vang Tâm Linh</NeuroquakeEcho.stages.neuroquake_echo.label>
+<NeuroquakeEcho.stages.neuroquake_echo.description>Những tiếng vang đáng sợ và buồn bã dường như ở một nơi xa xăm mờ mịt, khiến tôi cảm thấy căng thẳng và lo lắng.</NeuroquakeEcho.stages.neuroquake_echo.description>
+</LanguageData>

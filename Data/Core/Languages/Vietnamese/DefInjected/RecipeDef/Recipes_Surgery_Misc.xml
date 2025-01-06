@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Anesthetize.label>Gây mê</Anesthetize.label>
+	<Anesthetize.description>Sử dụng thuốc gây mê để làm cho sinh vật mất ý thức.</Anesthetize.description>
+	<Anesthetize.jobString>Đang gây mê.</Anesthetize.jobString>
+	<Euthanize.label>Tiêm thuốc an tử</Euthanize.label>
+	<Euthanize.description>Thực hiện tiêm thuốc an tử.</Euthanize.description>
+	<Euthanize.jobString>Đang thực hiện tiêm thuốc an tử.</Euthanize.jobString>
+	<RemoveBodyPart.label>Loại bỏ bộ phận cơ thể</RemoveBodyPart.label>
+	<RemoveBodyPart.description>Loại bỏ bộ phận cơ thể.</RemoveBodyPart.description>
+	<RemoveBodyPart.jobString>Đang loại bỏ bộ phận cơ thể.</RemoveBodyPart.jobString>
+</LanguageData>

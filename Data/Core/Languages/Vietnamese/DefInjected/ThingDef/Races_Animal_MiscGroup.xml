@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Alphabeaver.label>Hải Ly</Alphabeaver.label>
+<Alphabeaver.description>Loài Hải Ly lớn được phát triển bằng công nghệ gen, dùng cho công việc chặt cây, có hiệu suất như máy móc. Khi thiếu thức ăn chuyên biệt, những con vật này sẽ rơi vào trạng thái điên cuồng và ăn tất cả cây cối không kiểm soát được.</Alphabeaver.description>
+<Alphabeaver.tools.left_claw.label>Móng trái</Alphabeaver.tools.left_claw.label>
+<Alphabeaver.tools.left_claw.labelNoLocation>Móng</Alphabeaver.tools.left_claw.labelNoLocation>
+<Alphabeaver.tools.right_claw.label>Móng phải</Alphabeaver.tools.right_claw.label>
+<Alphabeaver.tools.right_claw.labelNoLocation>Móng</Alphabeaver.tools.right_claw.labelNoLocation>
+<Alphabeaver.tools.head.label>Đầu</Alphabeaver.tools.head.label>
+<Cobra.label>Rắn hổ mang</Cobra.label>
+<Cobra.description>Loài rắn lớn. Khi bị kích thích, nó trở nên rất hung dữ - tốt nhất là nên giữ khoảng cách với loài sinh vật này.</Cobra.description>
+<Cobra.race.meatLabel>Thịt rắn</Cobra.race.meatLabel>
+<Cobra.tools.venomfangs.label>Răng độc</Cobra.tools.venomfangs.label>
+<Cobra.tools.head.label>Đầu</Cobra.tools.head.label>
+<Thrumbo.label>Thú gõ</Thrumbo.label>
+<Thrumbo.description>Loài sinh vật khổng lồ nguồn gốc không rõ. Thú gõ có tính cách hiền lành, nhưng khi bị kích thích sẽ trở nên cực kỳ nguy hiểm. Bộ lông dài của nó rất đẹp và quý giá, và sừng sắc nhọn của nó rất đắt giá trên hầu hết các thị trường. Theo truyền thuyết, thú gõ cổ đại là sinh vật thông minh nhất trong vũ trụ, nhưng đã chọn không nói chuyện.</Thrumbo.description>
+<Thrumbo.tools.horn.label>Sừng</Thrumbo.tools.horn.label>
+<Thrumbo.tools.left_foot.label>Chân trái</Thrumbo.tools.left_foot.label>
+<Thrumbo.tools.left_foot.labelNoLocation>Chân</Thrumbo.tools.left_foot.labelNoLocation>
+<Thrumbo.tools.right_foot.label>Chân phải</Thrumbo.tools.right_foot.label>
+<Thrumbo.tools.right_foot.labelNoLocation>Chân</Thrumbo.tools.right_foot.labelNoLocation>
+<Thrumbo.tools.head.label>Đầu</Thrumbo.tools.head.label>
+<Tortoise.label>Rùa</Tortoise.label>
+<Tortoise.description>Loài bò sát có vỏ cứng này nổi tiếng với sự chậm chạp và cú cắn chết người của nó.</Tortoise.description>
+<Tortoise.tools.beak.label>Mỏ</Tortoise.tools.beak.label>
+<Tortoise.tools.head.label>Đầu</Tortoise.tools.head.label>
+</LanguageData>

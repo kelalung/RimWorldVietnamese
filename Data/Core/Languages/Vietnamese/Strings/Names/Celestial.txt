@@ -1,0 +1,357 @@
+﻿Cốc Thần Tinh 
+Trí Thần Tinh 
+Hôn Thần Tinh 
+Táo Thần Tinh 
+Nghĩa Thần Tinh 
+Thiều Thần Tinh 
+Hồng Thần Tinh 
+Hoa Thần Tinh 
+Dĩnh Thần Tinh 
+Kiện Thần Tinh 
+Hải Yêu Tinh 
+Khải Thần Tinh 
+Phù Nữ Tinh 
+Ti Trữ Tinh 
+Ti Pháp Tinh 
+Linh Thần Tinh 
+Hải Nữ Tinh 
+Ti Khúc Tinh 
+Mệnh Thần Tinh 
+Vương Hậu Tinh 
+Ti Cầm Tinh 
+Ti Phú Tinh 
+Ti Kịch Tinh 
+Ti Lý Tinh 
+Phúc Hậu Tinh 
+Minh Hậu Tinh 
+Ti Tiêu Tinh 
+Chiến Thần Tinh 
+Hải Hậu Tinh 
+Ti Thiên Tinh 
+Lệ Thần Tinh 
+Quả Thần Tinh 
+Ti Sắt Tinh 
+Vu Thần Tinh 
+Trầm Thần Tinh 
+Trì Thần Tinh 
+Trung Thần Tinh 
+Noãn Thần Tinh 
+Hỉ Thần Tinh 
+Hài Thần Tinh 
+Quế Thần Tinh 
+Dục Thần Tinh 
+Ái Nữ Tinh 
+Thị Thần Tinh 
+Hương Nữ Tinh 
+Ti Tế Tinh 
+Nhân Thần Tinh 
+Hôn Thần Tinh 
+Mục Thần Tinh 
+Trinh Nữ Tinh 
+Cầm Thần Tinh 
+Âu Nữ Tinh 
+Đảo Thần Tinh 
+Triết Nữ Tinh 
+Họa Thần Tinh 
+Trung Thần Tinh 
+Long Nữ Tinh 
+Hiệp Thần Tinh 
+Kiền Thần Tinh 
+Ti Âm Tinh 
+Tù Thần Tinh 
+Hiệu Thần Tinh 
+Úc Nữ Tinh 
+Thần Nữ Tinh 
+Nguyên Thần Tinh 
+Quang Thần Tinh 
+Á Nữ Tinh 
+Minh Thần Tinh 
+Tịch Thần Tinh 
+Giải Thần Tinh 
+Ti Thạch Tinh 
+Kỳ Nữ Tinh 
+Giới Thần Tinh 
+Vu Nữ Tinh 
+Ngục Thần Tinh 
+Thư Nữ Tinh 
+Hàn Thần Tinh 
+Nguyệt Thần Tinh 
+Phối Nữ Tinh 
+Phú Thần Tinh 
+Ti Vũ Tinh 
+Oán Nữ Tinh 
+Hân Nữ Tinh 
+Sử Thần Tinh 
+Độc Thần Tinh 
+Hóa Nữ Tinh 
+Lâm Thần Tinh 
+Tẫn Nữ Tinh 
+Dâm Thần Tinh 
+Hưu Thần Tinh 
+Hà Thần Tinh 
+Ba Nữ Tinh 
+Tuệ Thần Tinh 
+Thải Thần Tinh 
+Nguyên Thần Tinh 
+Huy Thần Tinh 
+Phưởng Thần Tinh 
+Giai Nữ Tinh 
+Thái Thần Tinh 
+Quyền Thần Tinh 
+Quải Thần Tinh 
+Thánh Nữ Tinh 
+Hậu Thần Tinh 
+Bạn Nữ Tinh 
+Liệp Thần Tinh 
+Khôn Thần Tinh 
+Sử Thần Tinh 
+Khuyển Hậu Tinh 
+Tường Thần Tinh 
+Lữ Nữ Tinh 
+Cẩu Thần Tinh 
+Tế Thần Tinh 
+Dương Thần Tinh 
+Kiến Thần Tinh 
+Tái Lạp Tinh 
+Tế Nữ Tinh 
+La Nữ Tinh 
+Tín Thần Tinh 
+Nộ Hậu Tinh 
+Lượng Thần Tinh 
+Hách Nữ Tinh 
+Thải Nữ Tinh 
+Ngỗ Nữ Tinh 
+Tiên Nữ Tọa 
+Tức Đồng Tọa 
+Thiên Yến Tọa 
+Bảo Bình Tọa 
+Thiên Ưng Tọa 
+Thiên Đàn Tọa 
+Bạch Dương Tọa 
+Ngự Phu Tọa 
+Mục Phu Tọa 
+Điêu Cụ Tọa 
+Lộc Báo Tọa 
+Cự Giải Tọa 
+Liệp Khuyển Tọa 
+Đại Khuyển Tọa 
+Tiểu Khuyển Tọa 
+Ma Yết Tọa 
+Thuyền Để Tọa 
+Tiên Hậu Tọa 
+Bán Nhân Mã Tọa 
+Tiên Vương Tọa 
+Kình Ngư Tọa 
+Yển Đình Tọa 
+Viên Quy Tọa 
+Thiên Cáp Tọa 
+Hậu Phát Tọa 
+Nam Miện Tọa 
+Bắc Miện Tọa 
+Ô Nha Tọa 
+Cự Tước Tọa 
+Nam Thập Tự Tọa 
+Thiên Nga Tọa 
+Hải Đồn Tọa 
+Kiếm Ngư Tọa 
+Thiên Long Tọa 
+Tiểu Mã Tọa 
+Ba Giang Tọa 
+Thiên Lô Tọa 
+Song Tử Tọa 
+Thiên Hạc Tọa 
+Vũ Tiên Tọa 
+Thì Chung Tọa 
+Trường Xà Tọa 
+Thủy Xà Tọa 
+Ấn Đệ An Tọa 
+Hạt Hổ Tọa 
+Sư Tử Tọa 
+Tiểu Sư Tọa 
+Thiên Thỏ Tọa 
+Thiên Xứng Tọa 
+Sài Lang Tọa 
+Thiên Miêu Tọa 
+Thiên Cầm Tọa 
+Sơn Án Tọa 
+Hiển Vi Kính Tọa 
+Kỳ Lân Tọa 
+Thương Dăng Tọa 
+Củ Xích Tọa 
+Nam Cực Tọa 
+Xà Phu Tọa 
+Liệp Hộ Tọa 
+Khổng Tước Tọa 
+Phi Mã Tọa 
+Anh Tiên Tọa 
+Phượng Hoàng Tọa 
+Hội Giá Tọa 
+Song Ngư Tọa 
+Nam Ngư Tọa 
+Thuyền Vĩ Tọa 
+La Bàn Tọa 
+Võng Cổ Tọa 
+Thiên Tiến Tọa 
+Nhân Mã Tọa 
+Thiên Hạt Tọa 
+Ngọc Phu Tọa 
+Thuẫn Bài Tọa 
+Cự Xà Tọa 
+Lục Phân Nghi Tọa 
+Kim Ngưu Tọa 
+Vọng Viễn Kính Tọa 
+Tam Giác Tọa 
+Nam Tam Giác Tọa 
+Đỗ Quyên Tọa 
+Đại Hùng Tọa 
+Tiểu Hùng Tọa 
+Thuyền Phàm Tọa 
+Thất Nữ Tọa 
+Phi Ngư Tọa 
+Hồ Ly Tọa 
+Thiên Xu 
+Thiên Tuyền 
+Thiên Ki 
+Thiên Quyền 
+Ngọc Hành 
+Khai Dương 
+Diêu Quang 
+Thiên Lang Tinh 
+Lão Nhân Tinh  
+Đại Giác Tinh  
+Nam Môn  
+Chức Nữ  
+Ngũ Xa  
+Tham Túc 
+Nam Hà  
+Thủy Ủy 
+Tham Túc 
+Mã Phúc 
+Hà Cổ 
+Tất Túc  
+Tâm Túc  
+Giác Túc 
+Bắc Hà  
+Bắc Lạc Sư Môn 
+Thập Tự Giá 
+Thiên Tân 
+Nam Môn 
+Hiên Viên 
+Hồ Thỉ 
+Vĩ Túc 
+Ngũ Xa 
+Tỉnh Túc 
+Khổng Tước 
+Thiên Xã 
+Quân Thị 
+Tinh Túc 
+Bắc Hà 
+Sô Cảo Tăng 
+Lâu Túc 
+Bắc Miện Tọa 
+Bắc Cực Tinh 
+Đấu Túc 
+Thổ Ti Không 
+Tham Túc 
+Bích Túc 
+Khuê Túc 
+Tham Túc 
+Thiên Xã 
+Ki Túc 
+Hồ Thỉ 
+Hạc 
+Đại Lăng 
+Ngũ Đế Tọa 
+Khố Lâu 
+Thiên Tân 
+Vương Lương 
+Tham Túc 
+Quán Tác 
+Thiên Bang 
+Hồ Thỉ Tăng 
+Hải Thạch 
+Hỏa Điểu 
+Ngạnh Hà 
+Vĩ Túc 
+Thất Túc 
+Thiên Câu 
+Hồ Thỉ 
+Thiên Ki 
+Thiên Tân 
+Thất Túc 
+Thiên Xã 
+Thiên Khuân 
+Khố Lâu 
+Tây Thượng 
+Tham Túc 
+Ngũ Xa 
+Nam Thuyền 
+Tham Túc 
+Tắc Phổ 
+Tát Nhĩ Mỗ 
+Tát Gia Tư 
+Sa Lâm 
+Tát Lý Nhĩ 
+Quyền Trượng 
+Tịch Đặc 
+Tạ Địch 
+Tạ Địch Nhĩ 
+Tạ Đạt 
+Tắc Kim 
+Tái Kim Tư 
+Sa Mục 
+Thiệu Lạp 
+Tạ Lợi Á Khắc 
+Hỉ Lai Đăng 
+Tây Ni Tư Đặc Lạp 
+A Tạp Mã Nhĩ 
+Tây Đồ Lạp 
+Ba Cáp Mỗ 
+Tắc Lai Nặc 
+A Tề Mễ Kỳ 
+Đạt Bỉ 
+Ai Đạt Hi Kỳ 
+Tô Bố Lạp 
+Tô Hải Nhĩ 
+Tô Lạp Pháp Đặc 
+Tây Nhĩ Mã 
+Tháp Bỉ 
+Tháp Lợi Toa 
+Tháp Ni Á 
+Tháp Lạp Trạch Đặc 
+Tháp Lạp Tư 
+Thái Da Tháp 
+Đặc Cách Môn 
+Thế Cách Minh 
+Cổ Lỗ 
+Đặc Cổ Đặc 
+Gia Khắc Lỗ Tư 
+Đặc Mẫn 
+Bỉ Mẫn 
+Thổ Ban 
+Cáp Đạt Nhĩ 
+Cổ Ba 
+Thất Diệp Thụ 
+Tạp Pháp Nhĩ Cát Mã 
+Thái Nhĩ 
+Ô Nỗ Khắc 
+Duy Gia 
+Lý Tát Đặc 
+Ngõa Tát Đặc 
+Hoa Tư 
+Duy Sầm 
+Mã Cáp Tây Mỗ 
+Nại Nhĩ 
+Y Nhĩ Đốn 
+Trát Ni Á 
+Phỉ Đạt 
+Trát Lạp Khắc 
+Lạp Na 
+Tá Tư Mã 
+Tổ Bản -Ai Nhĩ -A Tạp Bỉ 
+Tổ Bản -Ai Nhĩ -A Thụy Bỉ 
+Thụy Cát Nhĩ 
+Tổ Bản -Ai Nhĩ -Qua Nỗ Bỉ 
+Tát Đạt Lạc 
+Tổ Bản -Ai Nhĩ -Tư Kháp Mã Lý 
+Lai Nhân Khắc Tư

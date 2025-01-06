@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CountryLordling92.description>[PAWN_nameDef] lớn lên trong một trang viên của một gia đình quý tộc hẻo lánh. [PAWN_nameDef] đã học cưỡi ngựa, chính trị và tôn giáo từ khi còn nhỏ.\n\nNhưng [PAWN_nameDef] và những người bạn của [PAWN_possessive] luôn tìm cách vui chơi, khám phá những vùng đất hoang dã.</CountryLordling92.description>
+<CountryLordling92.baseDesc>[PAWN_nameDef] lớn lên trong một trang viên của một gia đình quý tộc hẻo lánh. [PAWN_nameDef] đã học cưỡi ngựa, chính trị và tôn giáo từ khi còn nhỏ.\n\nNhưng [PAWN_nameDef] và những người bạn của [PAWN_possessive] luôn tìm cách vui chơi, khám phá những vùng đất hoang dã.</CountryLordling92.baseDesc>
+<CountryLordling92.title>Quý Tộc Nông Thôn</CountryLordling92.title>
+<CountryLordling92.titleFemale>Quý Bà Nông Thôn</CountryLordling92.titleFemale>
+<CountryLordling92.titleShort>Quý Tộc</CountryLordling92.titleShort>
+<CountryLordling92.titleShortFemale>Quý Bà</CountryLordling92.titleShortFemale>
+<PamperedLordling37.description>Cha mẹ của [PAWN_nameDef] không muốn [PAWN_pronoun] trở thành trở ngại cho người thừa kế của họ.\n\nVì vậy, từ khi [PAWN_nameDef] sinh ra, họ đã bắt đầu nuông chiều và dung túng [PAWN_pronoun], không cho [PAWN_pronoun] học những phẩm chất cần thiết và kiến thức để cạnh tranh với con trai yêu quý của họ. [PAWN_nameDef] chỉ biết hưởng thụ cuộc sống.</PamperedLordling37.description>
+<PamperedLordling37.baseDesc>Cha mẹ của [PAWN_nameDef] không muốn [PAWN_pronoun] trở thành trở ngại cho người thừa kế của họ.\n\nVì vậy, từ khi [PAWN_nameDef] sinh ra, họ đã bắt đầu nuông chiều và dung túng [PAWN_pronoun], không cho [PAWN_pronoun] học những phẩm chất cần thiết và kiến thức để cạnh tranh với con trai yêu quý của họ. [PAWN_nameDef] chỉ biết hưởng thụ cuộc sống.</PamperedLordling37.baseDesc>
+<PamperedLordling37.title>Hoàng Tử Được Nuông Chiều</PamperedLordling37.title>
+<PamperedLordling37.titleFemale>Hoàng Hậu Được Nuông Chiều</PamperedLordling37.titleFemale>
+<PamperedLordling37.titleShort>Quý Tộc Nhỏ</PamperedLordling37.titleShort>
+<ShipboundLordling12.description>[PAWN_nameDef] đến từ một gia đình đã quản lý một chiếc tàu không gian khổng lồ trong nhiều thế hệ. Sinh ra và lớn lên trên tàu, [PAWN_nameDef] đã học được các kỹ năng chiến đấu không gian và xâm nhập quỹ đạo.\n\n[PAWN_nameDef] có thể cảm thấy thoải mái ngay cả khi ở giữa những bức tường kiên cố và tiếng rì rào nhẹ nhàng của hệ thống điều hòa không khí.</ShipboundLordling12.description>
+<ShipboundLordling12.baseDesc>[PAWN_nameDef] đến từ một gia đình đã quản lý một chiếc tàu không gian khổng lồ trong nhiều thế hệ. Sinh ra và lớn lên trên tàu, [PAWN_nameDef] đã học được các kỹ năng chiến đấu không gian và xâm nhập quỹ đạo.\n\n[PAWN_nameDef] có thể cảm thấy thoải mái ngay cả khi ở giữa những bức tường kiên cố và tiếng rì rào nhẹ nhàng của hệ thống điều hòa không khí.</ShipboundLordling12.baseDesc>
+<ShipboundLordling12.title>Chúa Tể Tàu Không Gian</ShipboundLordling12.title>
+<ShipboundLordling12.titleFemale>Nữ Chúa Tể Tàu Không Gian</ShipboundLordling12.titleFemale>
+<ShipboundLordling12.titleShort>Chúa Tể Tàu</ShipboundLordling12.titleShort>
+<ShipboundLordling12.titleShortFemale>Nữ Chúa Tể Tàu</ShipboundLordling12.titleShortFemale>
+<UnwantedSurvivor67.description>Gia đình quý tộc của [PAWN_nameDef] không muốn [PAWN_objective] sống sót, nhưng cũng không đủ tiền để ám sát [PAWN_objective]. Họ đã cố gắng giết chết [PAWN_objective] bằng cách cho [PAWN_objective] tham gia vào những cuộc huấn luyện chiến đấu nguy hiểm mà không có áo giáp.\n\nTuy nhiên, đối mặt với tất cả những khó khăn, [PAWN_nameDef] vẫn sống sót qua các buổi huấn luyện ngựa và diễn tập chiến trường, và những thử thách này đã khiến [PAWN_objective] trở nên mạnh mẽ hơn.</UnwantedSurvivor67.description>
+<UnwantedSurvivor67.baseDesc>Gia đình quý tộc của [PAWN_nameDef] không muốn [PAWN_objective] sống sót, nhưng cũng không đủ tiền để ám sát [PAWN_objective]. Họ đã cố gắng giết chết [PAWN_objective] bằng cách cho [PAWN_objective] tham gia vào những cuộc huấn luyện chiến đấu nguy hiểm mà không có áo giáp.\n\nTuy nhiên, đối mặt với tất cả những khó khăn, [PAWN_nameDef] vẫn sống sót qua các buổi huấn luyện ngựa và diễn tập chiến trường, và những thử thách này đã khiến [PAWN_objective] trở nên mạnh mẽ hơn.</UnwantedSurvivor67.baseDesc>
+<UnwantedSurvivor67.title>Người Sống Sót Trong Khó Khăn</UnwantedSurvivor67.title>
+<UnwantedSurvivor67.titleShort>Người Sống Sót</UnwantedSurvivor67.titleShort>
+<UrbanLordling82.description>[PAWN_nameDef] sinh ra trong một gia đình quý tộc có nhiều lãnh thổ. [PAWN_pronoun] đã dành tuổi thơ của mình cho việc học chính trị.\n\nNhưng mỗi khi có cơ hội, [PAWN_pronoun] sẽ cùng với bạn bè khám phá những tòa nhà bỏ hoang trong thành phố lớn.</UrbanLordling82.description>
+<UrbanLordling82.baseDesc>[PAWN_nameDef] sinh ra trong một gia đình quý tộc có nhiều lãnh thổ. [PAWN_pronoun] đã dành tuổi thơ của mình cho việc học chính trị.\n\nNhưng mỗi khi có cơ hội, [PAWN_pronoun] sẽ cùng với bạn bè khám phá những tòa nhà bỏ hoang trong thành phố lớn.</UrbanLordling82.baseDesc>
+<UrbanLordling82.title>Quý Tộc Thế Giới Đô Thị</UrbanLordling82.title>
+<UrbanLordling82.titleFemale>Nữ Quý Tộc Thế Giới Đô Thị</UrbanLordling82.titleFemale>
+<UrbanLordling82.titleShort>Quý Tộc</UrbanLordling82.titleShort>
+<UrbanLordling82.titleShortFemale>Nữ Quý Tộc</UrbanLordling82.titleShortFemale>
+</LanguageData>

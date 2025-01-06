@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Aurora.stages.beautiful_aurora.label>Ánh sáng cực đẹp</Aurora.stages.beautiful_aurora.label>
+	<Aurora.stages.beautiful_aurora.description>Cảnh quan thật tuyệt vời.</Aurora.stages.beautiful_aurora.description>
+	<ColonistLeftUnburied.stages.colonist_left_unburied.label>Người định cư chưa được chôn cất</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+	<ColonistLeftUnburied.stages.colonist_left_unburied.description>Một thành viên của chúng ta đã qua đời, nhưng xác vẫn nằm ngoài trời. Không ai nên bị đối xử như vậy. Người chết cần có một tang lễ trang trọng.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+	<DoingPassionateWork.stages.minor_passion_for_my_work.label>Đam mê công việc</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+	<DoingPassionateWork.stages.minor_passion_for_my_work.description>Tôi thích công việc của mình.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+	<DoingPassionateWork.stages.burning_passion_for_my_work.label>Đam mê mãnh liệt với công việc</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+	<DoingPassionateWork.stages.burning_passion_for_my_work.description>Tôi yêu công việc của mình, tôi có thể làm điều đó mỗi ngày.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+	<Joywire.stages.joywire.label>Chip vui vẻ</Joywire.stages.joywire.label>
+	<Joywire.stages.joywire.description>Cảm giác không thể so sánh.</Joywire.stages.joywire.description>
+	<MissingTongue.stages.missing_tongue.label>Thiếu lưỡi</MissingTongue.stages.missing_tongue.label>
+	<MissingTongue.stages.missing_tongue.description>Tôi rất nhớ lưỡi của mình. Không thể nói chuyện thật khó chịu!</MissingTongue.stages.missing_tongue.description>
+	<Naked.stages.naked.label>Khoả thân</Naked.stages.naked.label>
+	<Naked.stages.naked.description>Tôi không mặc gì cả, hoàn toàn trần truồng. Thật xấu hổ.</Naked.stages.naked.description>
+	<Pain.stages.minor_pain.label>Đau nhẹ</Pain.stages.minor_pain.label>
+	<Pain.stages.minor_pain.description>Ai... đau quá.</Pain.stages.minor_pain.description>
+	<Pain.stages.serious_pain.label>Đau nhiều</Pain.stages.serious_pain.label>
+	<Pain.stages.serious_pain.description>Ai da... đau quá, khi nào mới khỏi?</Pain.stages.serious_pain.description>
+	<Pain.stages.intense_pain.label>Đau rất nhiều</Pain.stages.intense_pain.label>
+	<Pain.stages.intense_pain.description>Ai... sắp chết rồi! Sắp chết rồi! Sắp chết rồi!</Pain.stages.intense_pain.description>
+	<Pain.stages.mindshattering_pain.label>Đau đến ngất xỉu</Pain.stages.mindshattering_pain.label>
+	<Pain.stages.mindshattering_pain.description>Ai ai ai!! Giết tôi đi!!!</Pain.stages.mindshattering_pain.description>
+	<PsychicDrone.stages.psychic_soothe.label>An ủi tâm linh (trung bình)</PsychicDrone.stages.psychic_soothe.label>
+	<PsychicDrone.stages.psychic_soothe.description>Một âm thanh làm dịu lòng vang vọng trong đầu tôi, an ủi tôi và khiến tôi cảm thấy rất thư giãn.</PsychicDrone.stages.psychic_soothe.description>
+	<PsychicDrone.stages.low_psychic_drone.label>Rì rầm tâm linh (thấp)</PsychicDrone.stages.low_psychic_drone.label>
+	<PsychicDrone.stages.low_psychic_drone.description>Có vẻ như có điều gì đó đang quấy rối tâm trí tôi, một giọng nói bên tai, tôi chỉ nghe rõ vài từ, thật phiền phức.</PsychicDrone.stages.low_psychic_drone.description>
+	<PsychicDrone.stages.moderate_psychic_drone.label>Rì rầm tâm linh (trung bình)</PsychicDrone.stages.moderate_psychic_drone.label>
+	<PsychicDrone.stages.moderate_psychic_drone.description>Tôi cảm thấy luôn có người vô hình đang nói chuyện với tôi, âm thanh luôn thay đổi nhưng nội dung không thay đổi, nói rằng tôi nên làm hại người khác, hãy để nó biến mất đi!</PsychicDrone.stages.moderate_psychic_drone.description>
+	<PsychicDrone.stages.high_psychic_drone.label>Rì rầm tâm linh (cao)</PsychicDrone.stages.high_psychic_drone.label>
+	<PsychicDrone.stages.high_psychic_drone.description>Âm thanh nói quá to, khó mà chịu đựng được, tâm trí không thể tập trung, tôi cố gắng nói chuyện với nó, hét lên với nó, nhưng đều không có tác dụng!</PsychicDrone.stages.high_psychic_drone.description>
+	<PsychicDrone.stages.extreme_psychic_drone.label>Rì rầm tâm linh (rất cao)</PsychicDrone.stages.extreme_psychic_drone.label>
+	<PsychicDrone.stages.extreme_psychic_drone.description>Trái tim tôi đập mạnh, toàn thân tôi đẫm mồ hôi, bây giờ tôi chỉ muốn giết những kẻ thù xung quanh tôi, họ là cơn ác mộng của tôi... cơn ác mộng... cơn ác mộng...</PsychicDrone.stages.extreme_psychic_drone.description>
+	<PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>An ủi từ phát tâm linh</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+	<PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Máy phát tâm linh khiến tôi cảm thấy kỳ lạ, nhưng đồng thời cảm giác này cũng làm tôi rất thư giãn.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+	<RotStink.stages.rot_stink.label>Mùi thối rữa</RotStink.stages.rot_stink.label>
+	<RotStink.stages.rot_stink.description>Một thứ mùi thối rữa xâm nhập vào mũi tôi, còn bám trên người tôi. Thật kinh tởm.</RotStink.stages.rot_stink.description>
+	<RotStink.stages.awful_rot_stink.label>Mùi thối rữa kinh khủng</RotStink.stages.awful_rot_stink.label>
+	<RotStink.stages.awful_rot_stink.description>Mùi thối rữa này thật nồng nặc, như thể tôi đang bơi trong đó. Trong môi trường bẩn thỉu này, tôi gần như không thể thở được!</RotStink.stages.awful_rot_stink.description>
+	<RotStinkLingering.stages.rot_stink_lingering.label>Mùi thối rữa dai dẳng</RotStinkLingering.stages.rot_stink_lingering.label>
+	<RotStinkLingering.stages.rot_stink_lingering.description>Mùi thối rữa này dai dẳng, thật đáng sợ! Tôi vẫn cảm thấy nó bám trên người!</RotStinkLingering.stages.rot_stink_lingering.description>
+	<SharedBed.stages.sharing_bed.label>Chia sẻ giường</SharedBed.stages.sharing_bed.label>
+	<SharedBed.stages.sharing_bed.description>Tôi phải chia sẻ một chiếc giường với người mà tôi không muốn ngủ cùng. Tôi muốn có chút riêng tư.</SharedBed.stages.sharing_bed.description>
+	<ToxicFallout.stages.toxic_fallout.label>Bụi độc hại</ToxicFallout.stages.toxic_fallout.label>
+	<ToxicFallout.stages.toxic_fallout.description>Bụi độc hại màu vàng như tuyết đang bay quanh tôi, da, họng và phổi của tôi sắp bị bỏng!</ToxicFallout.stages.toxic_fallout.description>
+</LanguageData>

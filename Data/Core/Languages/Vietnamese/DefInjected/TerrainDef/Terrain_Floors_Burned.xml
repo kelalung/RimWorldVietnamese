@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BurnedCarpet.label>Thảm bị cháy</BurnedCarpet.label>
+	<BurnedCarpet.description>Thảm bị cháy.</BurnedCarpet.description>
+	<BurnedStrawMatting.label>Thảm rơm bị cháy</BurnedStrawMatting.label>
+	<BurnedStrawMatting.description>Thảm rơm bị cháy.</BurnedStrawMatting.description>
+	<BurnedWoodPlankFloor.label>Sàn gỗ bị cháy</BurnedWoodPlankFloor.label>
+	<BurnedWoodPlankFloor.description>Sàn gỗ bị cháy.</BurnedWoodPlankFloor.description>
+</LanguageData>

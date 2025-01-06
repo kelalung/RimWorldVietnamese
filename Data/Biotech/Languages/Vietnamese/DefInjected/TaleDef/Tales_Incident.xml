@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<NoxiousHaze.label>Khói độc</NoxiousHaze.label>
+<NoxiousHaze.rulePack.rulesStrings>
+    <li>tale_noun-&gt;Khói độc bao trùm [PAWN_nameDef] của [Community]</li>
+    <li>tale_noun-&gt;Khí hậu gần [Community] của [PAWN_nameDef] bắt đầu trở nên độc hại</li>
+    <li>image-&gt;Bầu trời khác thường, [circumstance_group]</li>
+    <li>image-&gt;Không khí trở nên đặc quánh, và [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;Không thấy bất kỳ sinh vật nào</li>
+    <li>circumstance_phrase-&gt;Đang chờ khói độc tan biến</li>
+    <li>circumstance_phrase-&gt;Nhìn những con vật chạy trốn</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] ẩn nấp gần [TerrainFeature], với vẻ mặt [AdjectiveAngsty] nhìn ra ngoài.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] bọc mặt bằng vải.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] con [Animal] chết nằm trên mặt đất.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] con [Animal] đang tiến tới cái chết nằm trên mặt đất.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] con [Animal] bị ngạt thở nằm trên mặt đất.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase][Animal] chạy trốn.</li>
+</NoxiousHaze.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MonolithMigration.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;Những người định cư của bạn đều cảm nhận được tiếng vọng của tín hiệu tâm linh. Đây là một tín hiệu từ một tâm trí không phải người, bị biến dạng, được để lại ở một vùng đất xa xôi. Bạn có thể tập trung vào tín hiệu này và đáp lại nó. Nhưng bạn không thể biết điều gì sẽ xảy ra sau khi đáp lại.</li>
+	</MonolithMigration.questDescriptionRules.rulesStrings>
+	<MonolithMigration.questNameRules.rulesStrings>
+		<li>questName-&gt;Tín hiệu kỳ quái</li>
+	</MonolithMigration.questNameRules.rulesStrings>
+</LanguageData>

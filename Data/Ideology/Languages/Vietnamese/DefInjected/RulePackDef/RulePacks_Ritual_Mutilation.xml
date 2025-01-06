@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[keyDeity][ritNoun]</li>
+    <li>r_ritualName-&gt;[chosenTheme][ritNoun]</li>
+    <li>r_ritualName-&gt;[memeConcept] [ritNoun]</li>
+    <li>r_ritualName-&gt;[memeAdjective][ritNoun]</li>
+<li>ritNoun-&gt;Mảnh rời</li>
+<li>ritNoun-&gt;Cắt đứt</li>
+<li>ritNoun-&gt;Miếng cắt</li>
+<li>ritNoun-&gt;Lột da</li>
+<li>ritNoun-&gt;Phân chia</li>
+<li>ritNoun-&gt;Chặt chẽ</li>
+<li>ritNoun-&gt;Băm nhỏ</li>
+<li>ritNoun-&gt;Cắt thịt</li>
+<li>ritNoun-&gt;Cắt đứt</li>
+<li>ritNoun-&gt;Xé rách</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
+</LanguageData>

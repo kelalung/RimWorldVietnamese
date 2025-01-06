@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Megascarab.label>Nhện cánh khổng lồ</Megascarab.label>
+<Megascarab.description>Loài bọ lớn đã được biến đổi gen. Trước đây là công nhân trong hệ thống tổ sinh thái nhân tạo nhằm chống lại sự xâm lấn của máy móc, giờ đây rất khó để thấy được họ hàng gần gũi chết người của nó. Tuy nhiên, kích thước và vỏ cứng của nó vẫn khiến nó trở nên nguy hiểm khi tấn công. Là một loài sinh vật xã hội thật sự, nó không thể tự sinh sản.\n\nĐể phát triển trong môi trường bị ô nhiễm bởi máy móc, những con bọ chiến đấu như thế này di chuyển nhanh hơn khi tiếp xúc với địa hình ô nhiễm.</Megascarab.description>
+<Megascarab.tools.mandibles.label>Hàm dưới</Megascarab.tools.mandibles.label>
+<Megascarab.tools.head.label>Đầu</Megascarab.tools.head.label>
+<Megaspider.label>Nhện khổng lồ</Megaspider.label>
+<Megaspider.description>Nhện khổng lồ thực ra không phải là nhện, mà là một loài côn trùng khổng lồ đã được biến đổi gen, có kích thước như một con gấu. Được thiết kế cho công việc nặng nhọc và chiến đấu, lớp vỏ cứng dày khiến nó khó bị tiêu diệt, trong khi những lưỡi hái dài và sắc bén khiến nó trở nên rất chết người.\n\nĐể phát triển trong môi trường bị ô nhiễm bởi máy móc, những con bọ chiến đấu như thế này di chuyển nhanh hơn khi tiếp xúc với địa hình ô nhiễm.</Megaspider.description>
+<Megaspider.race.meatLabel>Thịt côn trùng</Megaspider.race.meatLabel>
+<Megaspider.tools.head_claw.label>Móng vuốt</Megaspider.tools.head_claw.label>
+<Megaspider.tools.head.label>Đầu</Megaspider.tools.head.label>
+<Spelopede.label>Giun đất</Spelopede.label>
+<Spelopede.description>Loài côn trùng trung bình đã được biến đổi gen, có kích thước như một con cừu, thuộc tầng lớp trung cấp trong hệ thống tổ. Các càng của nó không chỉ dùng để chiến đấu mà còn đảm nhận phần lớn các nhiệm vụ công việc.\n\nĐể phát triển trong môi trường bị ô nhiễm bởi máy móc, những con bọ chiến đấu như thế này di chuyển nhanh hơn khi tiếp xúc với địa hình ô nhiễm.</Spelopede.description>
+<Spelopede.tools.head_claw.label>Móng vuốt</Spelopede.tools.head_claw.label>
+<Spelopede.tools.head.label>Đầu</Spelopede.tools.head.label>
+</LanguageData>

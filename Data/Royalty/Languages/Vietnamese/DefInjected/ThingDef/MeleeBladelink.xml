@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MeleeWeapon_MonoSwordBladelink.label>Δ'Kiếm Đơn Phân Tử</MeleeWeapon_MonoSwordBladelink.label>
+<MeleeWeapon_MonoSwordBladelink.description>Một thanh kiếm dài làm từ tinh thể đơn phân tử, lưỡi đơn phân tử của nó được duy trì nhờ vào máy nano đi kèm. Có thể dễ dàng xuyên thủng bất kỳ giáp nặng nào, đồng thời nhẹ và linh hoạt, tốc độ tấn công rất nhanh.\n\nVũ khí này có một nhân cách thông minh chỉ có thể liên kết với một người sử dụng. Người sở hữu và vũ khí thông minh có thể đồng bộ phản ứng bản năng và nhịp độ tấn công, độ chính xác, sự sáng tạo giữa hai bên. Khi đã liên kết với người sở hữu, nhân cách thông minh của vũ khí này sẽ từ chối việc sử dụng của người khác.</MeleeWeapon_MonoSwordBladelink.description>
+<MeleeWeapon_MonoSwordBladelink.tools.handle.label>Cán Kiếm</MeleeWeapon_MonoSwordBladelink.tools.handle.label>
+<MeleeWeapon_MonoSwordBladelink.tools.point.label>Đầu Kiếm</MeleeWeapon_MonoSwordBladelink.tools.point.label>
+<MeleeWeapon_MonoSwordBladelink.tools.edge.label>Lưỡi Kiếm</MeleeWeapon_MonoSwordBladelink.tools.edge.label>
+<MeleeWeapon_PlasmaSwordBladelink.label>Δ'Kiếm Plasma</MeleeWeapon_PlasmaSwordBladelink.label>
+<MeleeWeapon_PlasmaSwordBladelink.description>Đây là một thanh kiếm kim loại sắc bén, lưỡi kiếm được bọc bởi plasma bị ràng buộc bởi trường năng lượng. Khi tấn công mục tiêu, đối phương không chỉ chịu tổn thương từ lưỡi kiếm mà còn bị plasma thiêu đốt hoặc đốt cháy.\n\nVũ khí này có một nhân cách thông minh chỉ có thể liên kết với một người sử dụng. Người sở hữu và vũ khí thông minh có thể đồng bộ phản ứng bản năng và nhịp độ tấn công, độ chính xác, sự sáng tạo giữa hai bên. Khi đã liên kết với người sở hữu, nhân cách thông minh của vũ khí này sẽ từ chối việc sử dụng của người khác.</MeleeWeapon_PlasmaSwordBladelink.description>
+<MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>Cán Kiếm</MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>
+<MeleeWeapon_PlasmaSwordBladelink.tools.point.label>Đầu Kiếm</MeleeWeapon_PlasmaSwordBladelink.tools.point.label>
+<MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>Lưỡi Kiếm</MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>
+<MeleeWeapon_ZeusHammerBladelink.label>Δ'Búa Zeus</MeleeWeapon_ZeusHammerBladelink.label>
+<MeleeWeapon_ZeusHammerBladelink.description>Một chiếc búa chiến có thiết bị EMP tích hợp, khi bị đánh trúng, không chỉ chịu tổn thương vật lý mà còn kèm theo cú sốc EMP.\n\nVũ khí này có một nhân cách thông minh chỉ có thể liên kết với một người sử dụng. Người sở hữu và vũ khí thông minh có thể đồng bộ phản ứng bản năng và nhịp độ tấn công, độ chính xác, sự sáng tạo giữa hai bên. Khi đã liên kết với người sở hữu, nhân cách thông minh của vũ khí này sẽ từ chối việc sử dụng của người khác.</MeleeWeapon_ZeusHammerBladelink.description>
+<MeleeWeapon_ZeusHammerBladelink.tools.handle.label>Cán Búa</MeleeWeapon_ZeusHammerBladelink.tools.handle.label>
+<MeleeWeapon_ZeusHammerBladelink.tools.head.label>Đầu Búa</MeleeWeapon_ZeusHammerBladelink.tools.head.label>
+</LanguageData>

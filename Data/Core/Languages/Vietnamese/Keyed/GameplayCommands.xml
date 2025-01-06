@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CommandForbid>Cấm</CommandForbid>
+	<CommandAllow>Cho phép</CommandAllow>
+	<CommandForbiddenDesc>Đã bị cấm\nCác thuộc địa sẽ không tương tác với đồ vật này.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Chưa bị cấm\nCác thuộc địa sẽ tương tác với đồ vật này.</CommandNotForbiddenDesc>
+	<CommandTogglePowerLabel>Bật/Tắt nguồn</CommandTogglePowerLabel>
+	<CommandTogglePowerDesc>Bật hoặc tắt nguồn.</CommandTogglePowerDesc>
+	<CommandDesignateTogglePowerLabel>Chỉ định bật/tắt nguồn</CommandDesignateTogglePowerLabel>
+	<CommandDesignateTogglePowerDesc>Chỉ định một thiết bị cần chuyển đổi nguồn. Một thuộc địa sẽ đến để bật/tắt công tắc.</CommandDesignateTogglePowerDesc>
+	<CommandTryReconnectLabel>Kết nối lại</CommandTryReconnectLabel>
+	<CommandTryReconnectDesc>Thử kết nối lại với một mạng điện khác trong phạm vi kết nối. Hữu ích khi mạng điện hiện tại không có điện nhưng có một mạng khác gần đó có điện.</CommandTryReconnectDesc>
+	<CommandGatherSpotToggleLabel>Điểm tập trung</CommandGatherSpotToggleLabel>
+	<CommandGatherSpotToggleDescActive>Đã bật\nCác thuộc địa sẽ tập trung gần đồ vật này khi đi lang thang.</CommandGatherSpotToggleDescActive>
+	<CommandGatherSpotToggleDescInactive>Đã tắt\nCác thuộc địa sẽ không tập trung gần đồ vật này khi đi lang thang.</CommandGatherSpotToggleDescInactive>
+	<CommandDraftLabel>Chiêu mộ</CommandDraftLabel>
+	<CommandUndraftLabel>Giải tán</CommandUndraftLabel>
+	<CommandToggleDraftDesc>Chuyển đổi trạng thái chiêu mộ.\n\nNhững người được chiêu mộ sẽ tuân thủ lệnh và chiến đấu. Họ sẽ không làm việc, ăn uống hoặc nghỉ ngơi cho đến khi được giải tán.</CommandToggleDraftDesc>
+	<IsIncapped>{1_labelShort} không thể hành động.</IsIncapped>
+	<ParticipatingInRitual>{0_labelShort} đang tham gia {1}.</ParticipatingInRitual>
+	<CommandFireAtWillLabel>Cho phép bắn tự do</CommandFireAtWillLabel>
+	<CommandFireAtWillDesc>Chuyển đổi chế độ bắn tự do.\n\nKhi tùy chọn này bị tắt, nhân vật sẽ không tự động sử dụng vũ khí tầm xa, nhưng không ảnh hưởng đến chiến đấu cận chiến.</CommandFireAtWillDesc>
+	<CommandClearPrioritizedWork>Xóa nhiệm vụ ưu tiên</CommandClearPrioritizedWork>
+	<CommandClearPrioritizedWorkDesc>Xóa bất kỳ nhiệm vụ ưu tiên nào bạn đã chỉ định. Nhân vật sẽ tự chọn công việc dựa trên ưu tiên công việc của chính họ.</CommandClearPrioritizedWorkDesc>
+	<CommandCancelConstructionLabel>Hủy bỏ</CommandCancelConstructionLabel>
+	<CommandCancelConstructionDesc>Hủy bỏ lệnh xây dựng.</CommandCancelConstructionDesc>
+	<CommandGetOutOfBedLabel>Ra khỏi giường</CommandGetOutOfBedLabel>
+	<CommandGetOutOfBedDesc>Rời khỏi giường hiện tại.</CommandGetOutOfBedDesc>
+	<CommandThingSetOwnerLabel>Đặt chủ sở hữu</CommandThingSetOwnerLabel>
+	<CommandBedSetOwnerDesc>Phân bổ giường này cho {0} đã chỉ định.</CommandBedSetOwnerDesc>
+	<CommandThroneSetOwnerDesc>Phân bổ ngai vàng này cho một thuộc địa cụ thể.</CommandThroneSetOwnerDesc>
+	<CommandMeditationSpotSetOwnerDesc>Phân bổ điểm thiền này cho một thuộc địa cụ thể.</CommandMeditationSpotSetOwnerDesc>
+	<CommandGraveAssignColonistLabel>Chỉ định thuộc địa</CommandGraveAssignColonistLabel>
+	<CommandGraveAssignColonistDesc>Phân bổ mộ này cho một thuộc địa đã chỉ định.</CommandGraveAssignColonistDesc>
+	<BuildingAssign>Chỉ định</BuildingAssign>
+	<BuildingReassign>Phân bổ lại</BuildingReassign>
+	<BuildingUnassign>Hủy bỏ chỉ định</BuildingUnassign>
+	<CommandBedSetForPrisonersLabel>Chỉ dành cho tù nhân</CommandBedSetForPrisonersLabel>
+	<CommandBedSetForPrisonersDesc>Đặt tất cả giường trong phòng này dành cho tù nhân.</CommandBedSetForPrisonersDesc>
+	<CommandBedSetForPrisonersFailOutdoors>Chỉ có giường trong nhà mới có thể được đặt dành cho tù nhân.</CommandBedSetForPrisonersFailOutdoors>
+	<CommandBedSetAsMedicalLabel>Chỉ dành cho y tế</CommandBedSetAsMedicalLabel>
+	<CommandBedSetAsMedicalDesc>Đặt giường này dành cho mục đích y tế.</CommandBedSetAsMedicalDesc>
+	<TurningOnPrisonerBedWarning>Bật chế độ dành cho tù nhân sẽ ảnh hưởng đến toàn bộ phòng (tù nhân và thuộc địa không thể ngủ trong cùng một phòng).\n\nCác nhân vật sau sẽ mất quyền sở hữu giường của họ:</TurningOnPrisonerBedWarning>
+	<TurningOffPrisonerBedWarning>Tắt chế độ dành cho tù nhân sẽ ảnh hưởng đến toàn bộ phòng (tù nhân và thuộc địa không thể ngủ trong cùng một phòng).\n\nCác nhân vật sau sẽ mất quyền sở hữu giường của họ:</TurningOffPrisonerBedWarning>
+	<AreYouSure>Bạn có chắc chắn muốn làm điều này không?</AreYouSure>
+	<ChangingOwnerTypeBedWarning>Thay đổi mục đích của giường sẽ ảnh hưởng đến toàn bộ phòng (vì tù nhân, nô lệ và thuộc địa không thể ngủ trong cùng một phòng).\n\nNhững người này sẽ mất quyền sở hữu giường của họ:</ChangingOwnerTypeBedWarning>
+	<CommandDetonateLabel>Gây nổ</CommandDetonateLabel>
+	<CommandDetonateDesc>Bắt đầu đếm ngược để gây nổ.</CommandDetonateDesc>
+	<CommandHideZoneLabel>Ẩn</CommandHideZoneLabel>
+	<CommandUnhideZoneLabel>Hiện</CommandUnhideZoneLabel>
+	<CommandHideZoneDesc>Hiện/Ẩn khu vực này.</CommandHideZoneDesc>
+	<CommandDeleteZoneLabel>Xóa khu vực</CommandDeleteZoneLabel>
+	<CommandDeleteZoneDesc>Xóa khu vực này.</CommandDeleteZoneDesc>
+	<CommandCopyZoneSettingsLabel>Sao chép cài đặt khu vực</CommandCopyZoneSettingsLabel>
+	<CommandCopyZoneSettingsDesc>Sao chép cài đặt của khu vực này vào clipboard, có thể dán cài đặt vào một khu vực khác.</CommandCopyZoneSettingsDesc>
+	<CommandPasteZoneSettingsLabel>Dán cài đặt khu vực</CommandPasteZoneSettingsLabel>
+	<CommandPasteZoneSettingsDesc>Sử dụng cài đặt từ clipboard để ghi đè cài đặt của khu vực này.</CommandPasteZoneSettingsDesc>
+	<CommandAllowSow>Cho phép gieo hạt</CommandAllowSow>
+	<CommandAllowSowDesc>Khi bị tắt, các thuộc địa sẽ không bao giờ gieo hạt cây mới trong khu vực này. Nhưng họ vẫn sẽ thu hoạch cây đã trưởng thành.</CommandAllowSowDesc>
+	<CommandAllowCut>Cho phép cắt</CommandAllowCut>
+	<CommandAllowCutDesc>Khi bị tắt, các thuộc địa sẽ không bao giờ cắt cây trong khu vực này. Họ vẫn sẽ gieo hạt cây mới trong không gian đã trống và thu hoạch.</CommandAllowCutDesc>
+	<CommandSelectStoredThing>Chọn {0_label}</CommandSelectStoredThing>
+	<CommandSelectStoredThingDesc>Chọn đồ vật được lưu trữ tại đây.</CommandSelectStoredThingDesc>
+	<CommandSetForceAttackTarget>Đặt mục tiêu tấn công cưỡng chế</CommandSetForceAttackTarget>
+	<CommandSetForceAttackTargetDesc>Chọn mục tiêu mà tháp này sẽ cố gắng tấn công liên tục.</CommandSetForceAttackTargetDesc>
+	<CommandStopForceAttack>Ngừng tấn công cưỡng chế</CommandStopForceAttack>
+	<CommandStopForceAttackDesc>Ngừng tấn công mục tiêu cưỡng chế và cho phép tháp này tự do chọn mục tiêu để bắn.</CommandStopForceAttackDesc>
+	<CommandStopAttackFailNotForceAttacking>Hiện tại không có mục tiêu tấn công cưỡng chế.</CommandStopAttackFailNotForceAttacking>
+	<CommandExtractShell>Rút đạn</CommandExtractShell>
+	<CommandExtractShellDesc>Tháo đạn hiện tại để thay thế bằng loại đạn khác.</CommandExtractShellDesc>
+	<MessageTargetBeyondMaximumRange>Mục tiêu vượt quá tầm bắn tối đa.</MessageTargetBeyondMaximumRange>
+	<MessageTargetBelowMinimumRange>Mục tiêu dưới tầm bắn tối thiểu.</MessageTargetBelowMinimumRange>
+	<MessageTurretWontFireBecauseHoldFire>Cảnh báo: Pháo không bắn vì đã được đặt ở chế độ "Dừng bắn".</MessageTurretWontFireBecauseHoldFire>
+	<CommandShipLaunch>Phóng tàu vũ trụ</CommandShipLaunch>
+	<CommandShipLaunchDesc>Bắt đầu chương trình phóng tàu vũ trụ với cài đặt hiện tại.</CommandShipLaunchDesc>
+	<CommandShipLaunchReport>Hiển thị báo cáo phóng</CommandShipLaunchReport>
+	<CommandShipLaunchReportDesc>Hiển thị một báo cáo về khả năng phóng tàu vũ trụ.</CommandShipLaunchReportDesc>
+	<CommandShipStartup>Khởi động tàu vũ trụ</CommandShipStartup>
+	<CommandShipStartupDesc>Đánh thức các thành phần của tàu vũ trụ từ chế độ ngủ.</CommandShipStartupDesc>
+	<CommandPodEject>Đẩy người ngủ ra</CommandPodEject>
+	<CommandPodEjectDesc>Đánh thức các thuộc địa trong buồng ngủ đông và đẩy họ ra ngoài.</CommandPodEjectDesc>
+	<CommandPodEjectFailEmpty>Buồng ngủ đông không có ai.</CommandPodEjectFailEmpty>
+	<CommandToggleDoorForbid>Cho phép đi qua</CommandToggleDoorForbid>
+	<CommandToggleDoorForbidDesc>Trạng thái đi qua của cửa này. Các thuộc địa sẽ không đi qua cửa bị cấm, nhưng không ảnh hưởng đến người của các phe khác.</CommandToggleDoorForbidDesc>
+	<CommandToggleDoorHoldOpen>Giữ cửa mở</CommandToggleDoorHoldOpen>
+	<CommandToggleDoorHoldOpenDesc>Khi được bật, các thuộc địa sẽ không đóng cửa này và giữ cửa luôn mở.\n\nCửa mở cho phép bất kỳ ai hoặc động vật đi qua, bao gồm cả kẻ thù.</CommandToggleDoorHoldOpenDesc>
+	<CommandResetTemp>Đặt lại</CommandResetTemp>
+	<CommandResetTempDesc>Đặt nhiệt độ mục tiêu về giá trị mặc định.</CommandResetTempDesc>
+	<CommandRaiseTempDesc>Tăng nhiệt độ mục tiêu.</CommandRaiseTempDesc>
+	<CommandLowerTempDesc>Giảm nhiệt độ mục tiêu.</CommandLowerTempDesc>
+	<CommandInstall>Cài đặt</CommandInstall>
+	<CommandInstallDesc>Đồ vật này đã được đóng gói để dễ vận chuyển và lưu trữ, sử dụng lệnh này để cài đặt đồ vật tại vị trí chỉ định.</CommandInstallDesc>
+	<CommandReinstall>Cài đặt lại</CommandReinstall>
+	<CommandReinstallDesc>Chỉ định tháo đồ vật này và cài đặt lại ở nơi khác.</CommandReinstallDesc>
+	<CommandReplant>Trồng lại</CommandReplant>
+	<CommandReplantDesc>Cây này đã được đào lên và đóng gói cẩn thận để vận chuyển và lưu trữ, sử dụng lệnh này để trồng nó ở vị trí mới.</CommandReplantDesc>
+	<CommandMakeBeaconStockpileDesc>Tạo một khu vực lưu trữ trong phạm vi hiệu lực của đèn hiệu giao dịch trên quỹ đạo.</CommandMakeBeaconStockpileDesc>
+	<CommandMakeBeaconStockpileLabel>Tạo khu vực lưu trữ</CommandMakeBeaconStockpileLabel>
+	<CommandSunLampMakeGrowingZoneDesc>Tạo một khu vực trồng trọt trong phạm vi hiệu lực của đèn mặt trời.</CommandSunLampMakeGrowingZoneDesc>
+	<CommandSunLampMakeGrowingZoneLabel>Tạo khu vực trồng trọt</CommandSunLampMakeGrowingZoneLabel>
+	<CommandAutoRearm>Tự động đặt lại</CommandAutoRearm>
+	<CommandAutoRearmDesc>Khi được bật, cái bẫy này sẽ tự động được chỉ định để đặt lại công việc sau khi kích hoạt.</CommandAutoRearmDesc>
+	<CommandAutoRebuild_Building>Tự động xây dựng lại</CommandAutoRebuild_Building>
+	<CommandAutoRebuild_BuildingDesc>Nếu được bật, {BUILDING_definite} sẽ được xây dựng lại sau khi bị phá hủy.</CommandAutoRebuild_BuildingDesc>
+	<CommandReleaseAnimalsLabel>Thả động vật</CommandReleaseAnimalsLabel>
+	<CommandReleaseAnimalsDesc>Khi được bật, các động vật đã được huấn luyện có thể chủ động tấn công mục tiêu ở xa. Khi bị tắt, chúng sẽ bảo vệ chủ nhân của mình.</CommandReleaseAnimalsDesc>
+	<CommandReleaseAnimalsFail_NoAnimals>Không có động vật nào có sẵn.</CommandReleaseAnimalsFail_NoAnimals>
+	<CommandSquadAttack>Tấn công</CommandSquadAttack>
+	<CommandSquadAttackDesc>Ra lệnh cho các thuộc địa đã chọn tấn công mục tiêu đã chỉ định.</CommandSquadAttackDesc>
+	<CommandMeleeAttack>Tấn công cận chiến</CommandMeleeAttack>
+	<CommandMeleeAttackDesc>Ra lệnh cho các thuộc địa đã chọn chỉ sử dụng tay không hoặc vũ khí cận chiến để tấn công mục tiêu đã chỉ định.</CommandMeleeAttackDesc>
+	<CommandHoldFire>Dừng bắn</CommandHoldFire>
+	<CommandHoldFireDesc>Dừng tất cả các cuộc tấn công đang diễn ra.</CommandHoldFireDesc>
+	<CommandReload_NoCharges>Không có {CHARGENOUN_plural}.</CommandReload_NoCharges>
+	<CommandReload_Cooldown>{TIME}{COOLDOWNGERUND}.</CommandReload_Cooldown>
+	<CommandReload_NoAmmo>Reload cần {COUNT}x{AMMO_label}.</CommandReload_NoAmmo>
+	<CommandSelectPlantToGrowMulti>Chọn loại cây cần trồng.</CommandSelectPlantToGrowMulti>
+	<CommandSelectPlantToGrow>Trồng: {0}</CommandSelectPlantToGrow>
+	<CommandSelectPlantToGrowDesc>Chỉ định loại cây nào sẽ được trồng ở đây.</CommandSelectPlantToGrowDesc>
+	<CommandSelectMineralToScanFor>Mục tiêu</CommandSelectMineralToScanFor>
+	<CommandSelectMineralToScanForDesc>Chọn loại khoáng sản để quét.</CommandSelectMineralToScanForDesc>
+	<CommandBuildCopy>Sao chép công trình</CommandBuildCopy>
+	<CommandBuildCopyDesc>Sao chép cơ sở hạ tầng hiện tại.</CommandBuildCopyDesc>
+	<CommandFormCaravan>Tổ chức đoàn xe</CommandFormCaravan>
+	<CommandFormCaravanDesc>Tổ chức một đội ngũ thuộc địa có thể đến khu vực mới. Các thuộc địa sẽ mang theo hàng hóa và động vật mà bạn đã chỉ định, rời khỏi khu vực hiện tại và chờ chỉ dẫn tiếp theo của bạn.</CommandFormCaravanDesc>
+	<CommandFormCaravanDescAtSpot>Nơi này sẽ được sử dụng làm điểm tập trung cho đoàn xe. Trước khi rời đi, tất cả hàng hóa và động vật sẽ được đưa đến đây.</CommandFormCaravanDescAtSpot>
+	<CommandReformCaravan>Tổ chức lại đoàn xe</CommandReformCaravan>
+	<CommandReformCaravanDesc>Tổ chức lại một đội ngũ thuộc địa. Các thuộc địa sẽ mang theo hàng hóa và động vật mà bạn đã chỉ định, rời khỏi khu vực hiện tại và chờ chỉ dẫn tiếp theo của bạn.</CommandReformCaravanDesc>
+	<CommandReformCaravanFailHostilePawns>Còn kẻ thù trong khu vực này.</CommandReformCaravanFailHostilePawns>
+	<CommandSendCaravan>Gửi đoàn xe</CommandSendCaravan>
+	<CommandSendCaravanMultiple>Gửi đoàn xe...</CommandSendCaravanMultiple>
+	<CommandSendCaravanDesc>Gửi một đoàn xe từ một thuộc địa đã chọn đến điểm đến này.</CommandSendCaravanDesc>
+	<CommandSendCaravanCantReach>Khu định cư của bạn không có đường đến đây.</CommandSendCaravanCantReach>
+	<CommandSplitCaravan>Chia tách</CommandSplitCaravan>
+	<CommandSplitCaravanDesc>Chia tách đoàn xe này thành hai đoàn xe, hai đoàn xe gần nhau có thể được hợp nhất lại thành một đội.</CommandSplitCaravanDesc>
+	<CommandMergeCaravans>Hợp nhất</CommandMergeCaravans>
+	<CommandMergeCaravansDesc>Hợp nhất đoàn xe đã chọn.</CommandMergeCaravansDesc>
+	<CommandMergeCaravansFailCaravansNotSelected>Chọn tất cả các đoàn xe cần hợp nhất. Các đoàn xe phải ở gần nhau.</CommandMergeCaravansFailCaravansNotSelected>
+	<CommandJoinCaravan>Tham gia</CommandJoinCaravan>
+	<CommandSettle>Định cư</CommandSettle>
+	<CommandSettleDesc>Định cư tại khu vực này, các thuộc địa của bạn sẽ vào khu vực và thiết lập một thuộc địa mới.</CommandSettleDesc>
+	<CommandSettleFailAlreadyHaveBase>Phe của bạn chỉ có thể có một thuộc địa.</CommandSettleFailAlreadyHaveBase>
+	<CommandSettleFailReachedMaximumNumberOfBases>Số lượng thuộc địa đã đạt giới hạn tối đa.</CommandSettleFailReachedMaximumNumberOfBases>
+	<CommandSettleFailNoColonists>Cần có người ở đó để chiếm lĩnh khu vực.</CommandSettleFailNoColonists>
+	<CommandSettleFailEnemies>Có kẻ thù trong khu vực này.</CommandSettleFailEnemies>
+	<CommandAbandonHome>Bỏ rơi</CommandAbandonHome>
+	<CommandAbandonHomeDesc>Bỏ rơi khu vực này. Sau khi bỏ rơi, khu vực sẽ không còn khả dụng và bạn sẽ không thể quay lại đây. Sau khi bỏ rơi thuộc địa hiện tại, bạn có thể chỉ định một khu vực mới cho đoàn xe.</CommandAbandonHomeDesc>
+	<CommandAbandonHomeFailAllColonistsThere>Tất cả các thuộc địa của bạn vẫn còn ở khu vực này.</CommandAbandonHomeFailAllColonistsThere>
+	<CommandCancelFormingCaravan>Hủy bỏ tổ chức đoàn xe</CommandCancelFormingCaravan>
+	<CommandCancelFormingCaravanDesc>Chấm dứt việc tổ chức đoàn xe.</CommandCancelFormingCaravanDesc>
+	<CommandRemoveFromCaravan>Gỡ bỏ khỏi đoàn xe</CommandRemoveFromCaravan>
+	<CommandRemoveFromCaravanDesc>Gỡ bỏ người hoặc động vật này khỏi đoàn xe.</CommandRemoveFromCaravanDesc>
+	<CommandAddToCaravan>Thêm vào đoàn xe</CommandAddToCaravan>
+	<CommandAddToCaravanDesc>Thêm người hoặc động vật này vào đoàn xe đang tổ chức.</CommandAddToCaravanDesc>
+	<CommandShowMap>Phóng to</CommandShowMap>
+	<CommandShowMapDesc>Phóng to khu vực này.</CommandShowMapDesc>
+	<CommandTrade>Thương mại</CommandTrade>
+	<CommandTradeDesc>Thực hiện giao dịch với phe này.</CommandTradeDesc>
+	<CommandTradeFailNoNegotiator>Thiếu người đàm phán có ý thức và có khả năng.</CommandTradeFailNoNegotiator>
+	<CommandTradeFailNeedPermit>Người của bạn không có giấy phép cần thiết từ phe:{0}</CommandTradeFailNeedPermit>
+	<CommandOfferGifts>Tặng quà</CommandOfferGifts>
+	<CommandOfferGiftsDesc>Tặng quà cho phe này.</CommandOfferGiftsDesc>
+	<CommandFulfillTradeOffer>Hoàn thành đề nghị giao dịch</CommandFulfillTradeOffer>
+	<CommandFulfillTradeOfferDesc>Đáp ứng nhu cầu hàng hóa của khu định cư và nhận phần thưởng.</CommandFulfillTradeOfferDesc>
+	<CommandFulfillTradeOfferFailInsufficient>Đoàn xe của bạn phải có {0} để hoàn thành đề nghị giao dịch.</CommandFulfillTradeOfferFailInsufficient>
+	<CommandFulfillTradeOfferConfirm>Giao hàng {0}?</CommandFulfillTradeOfferConfirm>
+	<CommandTakeOff>Phóng tàu vũ trụ</CommandTakeOff>
+	<CommandTakeOffDesc>Lên tàu và rời khỏi hành tinh này.</CommandTakeOffDesc>
+	<CommandTakeOffConfirmation>Bạn có chắc chắn muốn phóng tàu vũ trụ không?\n\nTất cả các thuộc địa trong khu vực này sẽ rời khỏi hành tinh, những người khác sẽ bị bỏ lại.</CommandTakeOffConfirmation>
+	<CommandSetTargetFuelLevel>Đặt mức nhiên liệu mục tiêu</CommandSetTargetFuelLevel>
+	<CommandSetTargetFuelLevelDesc>Chỉ định mức nhiên liệu mục tiêu. Các thuộc địa sẽ cố gắng tiếp nhiên liệu cho đến mức mục tiêu.</CommandSetTargetFuelLevelDesc>
+	<CommandToggleAllowAutoRefuel>Chuyển đổi tự động tiếp nhiên liệu</CommandToggleAllowAutoRefuel>
+	<CommandToggleAllowAutoRefuelDesc>Đặt xem có cho phép tự động tiếp nhiên liệu hay không.</CommandToggleAllowAutoRefuelDesc>
+	<CommandCancelLoad>Hủy bỏ tải hàng</CommandCancelLoad>
+	<CommandCancelLoadDesc>Hủy bỏ nhiệm vụ tải hàng của người hoặc đồ vật hiện tại và dỡ bỏ tất cả hàng hóa đã tải.</CommandCancelLoadDesc>
+	<CommandLaunchGroup>Phóng</CommandLaunchGroup>
+	<CommandLaunchGroupDesc>Bắt đầu chương trình định vị cho nhóm vận chuyển. Bước tiếp theo sẽ chọn điểm đến. Các vận chuyển trong cùng một nhóm sẽ tự động bay đến điểm đến và hạ cánh cùng nhau.</CommandLaunchGroupDesc>
+	<CommandLaunchGroupFailNotConnectedToFuelingPort>Một số vận chuyển trong nhóm này không được kết nối với cổng tiếp nhiên liệu.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+	<CommandLaunchGroupFailNoFuel>Một số vận chuyển trong nhóm này thiếu nhiên liệu.</CommandLaunchGroupFailNoFuel>
+	<CommandLaunchGroupFailUnderRoof>Một số vận chuyển trong nhóm này đang ở dưới mái che.</CommandLaunchGroupFailUnderRoof>
+	<CommandLoadTransporter> Tải vận chuyển nhóm: {0}</CommandLoadTransporter>
+	<CommandLoadTransporterDesc>Đặt vận chuyển đã chọn thành một nhóm phóng. Mở hộp thoại tải để thiết lập hàng hóa và người đã tải.</CommandLoadTransporterDesc>
+	<CommandLoadTransporterFailNotConnectedToFuelingPort>Vận chuyển không được kết nối với cổng tiếp nhiên liệu.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+	<CommandLoadTransporterFailNoFuel>Vận chuyển thiếu nhiên liệu.</CommandLoadTransporterFailNoFuel>
+	<CommandLoadTransporterSingle>Tải hàng</CommandLoadTransporterSingle>
+	<CommandLoadTransporterSingleDesc>Mở hộp thoại tải để bạn có thể xác định nội dung tải bao gồm những ai và vật gì.</CommandLoadTransporterSingleDesc>
+	<CommandSetToLoadTransporter>Tải hàng</CommandSetToLoadTransporter>
+	<CommandSetToLoadTransporterDesc>Mở hộp thoại tải để bạn có thể xác định nội dung tải bao gồm những ai và vật gì.</CommandSetToLoadTransporterDesc>
+	<CommandAutoloadTransporters>Tự động tải hàng</CommandAutoloadTransporters>
+	<CommandAutoloadTransportersDesc>Khi tất cả hàng hóa cần thiết có sẵn, tự động chuyển sang tải hàng.</CommandAutoloadTransportersDesc>
+	<CommandSelectPreviousTransporter>Chọn vận chuyển trước đó</CommandSelectPreviousTransporter>
+	<CommandSelectPreviousTransporterDesc>Chọn vận chuyển trước đó trong nhóm phóng này.</CommandSelectPreviousTransporterDesc>
+	<CommandSelectAllTransporters>Chọn toàn bộ nhóm vận chuyển</CommandSelectAllTransporters>
+	<CommandSelectAllTransportersDesc>Chọn tất cả các vận chuyển trong nhóm phóng này.</CommandSelectAllTransportersDesc>
+	<CommandSelectNextTransporter>Chọn vận chuyển tiếp theo</CommandSelectNextTransporter>
+	<CommandSelectNextTransporterDesc>Chọn vận chuyển tiếp theo trong nhóm phóng này.</CommandSelectNextTransporterDesc>
+	<CommandDesignateOpenCloseVentLabel>Chỉ định mở/đóng thông gió</CommandDesignateOpenCloseVentLabel>
+	<CommandDesignateOpenCloseVentDesc>Chỉ định lỗ thông gió này mở hoặc đóng. Một thuộc địa sẽ thực hiện nhiệm vụ này càng sớm càng tốt.</CommandDesignateOpenCloseVentDesc>
+	<CommandRemoveWaypointLabel>Gỡ bỏ</CommandRemoveWaypointLabel>
+	<CommandRemoveWaypointDesc>Gỡ bỏ điểm đường đi này.</CommandRemoveWaypointDesc>
+	<CommandPauseCaravan>Tạm dừng</CommandPauseCaravan>
+	<CommandToggleCaravanPauseDesc>Tạm dừng di chuyển của đoàn xe. Điều này sẽ mang lại các lợi ích sau:\n\n  - Mọi người có thể tương tác xã hội\n  - Tốc độ thu thập thực phẩm tăng {0} lần\n  - Tầm nhìn nhân đôi {1}</CommandToggleCaravanPauseDesc>
+	<CommandShowSellableItems>Hiển thị hàng hóa có thể bán</CommandShowSellableItems>
+	<CommandShowSellableItemsDesc>Hiển thị tất cả các vật phẩm mà thương nhân muốn thu mua.</CommandShowSellableItemsDesc>
+	<CommandAttackSettlement>Tấn công</CommandAttackSettlement>
+	<CommandAttackSettlementDesc>Tấn công khu định cư này.</CommandAttackSettlementDesc>
+	<CommandSendShuttle>Phóng</CommandSendShuttle>
+	<CommandSendShuttleDesc>Bắt đầu cất cánh, cho phép tàu vũ trụ bay đến điểm đến.</CommandSendShuttleDesc>
+	<CommandSendShuttleFailUnderRoof>Tàu vũ trụ đang ở dưới mái che.</CommandSendShuttleFailUnderRoof>
+	<CommandSendShuttleFailMissingRequiredThing>Một số vật phẩm hoặc nhân sự cần thiết đang thiếu.</CommandSendShuttleFailMissingRequiredThing>
+	<CommandShuttleDismiss>Giải tán</CommandShuttleDismiss>
+	<CommandShuttleDismissDesc>Giải phóng tất cả hàng hóa và gửi tàu vũ trụ đi.</CommandShuttleDismissDesc>
+	<CommandPlaceBlueprints>Đặt bản thiết kế</CommandPlaceBlueprints>
+	<CommandPlaceBlueprintsDesc>Đặt tất cả các bản thiết kế cần thiết nếu có thể.</CommandPlaceBlueprintsDesc>
+	<CommandPlaceBlueprintsSpecific>Đặt {0}x bản thiết kế</CommandPlaceBlueprintsSpecific>
+	<CommandPlaceBlueprintsSpecificDesc>Đặt {0}x bản thiết kế nếu có thể.</CommandPlaceBlueprintsSpecificDesc>
+	<CommandCancelMonumentMarker>Hủy bỏ</CommandCancelMonumentMarker>
+	<CommandCancelMonumentMarkerDesc>Xóa vĩnh viễn đánh dấu kỷ niệm này.</CommandCancelMonumentMarkerDesc>
+	<CommandViewQuest>Xem nhiệm vụ: {0}</CommandViewQuest>
+	<CommandViewQuestDesc>Xem nhiệm vụ này trong tab "Nhiệm vụ".</CommandViewQuestDesc>
+	<CommandOpenLinkedQuest>Mở nhiệm vụ</CommandOpenLinkedQuest>
+	<CommandOpenLinkedQuestDesc>Mở nhiệm vụ trong tab nhiệm vụ.</CommandOpenLinkedQuestDesc>
+	<CommandDropPawn>Đặt {0_nameDef} xuống</CommandDropPawn>
+	<CommandDropPawnDesc>Đặt người đang được bế xuống.</CommandDropPawnDesc>
+	<CommandSelectCarriedPawn>Chọn {0_nameDef}</CommandSelectCarriedPawn>
+	<CommandSelectCarriedPawnDesc>Chọn sinh vật đang được bế.</CommandSelectCarriedPawnDesc>
+	<CommandSelectCarriedThing>Chọn {0_label}</CommandSelectCarriedThing>
+	<CommandSelectCarriedThingDesc>Chọn vật phẩm đang được mang theo.</CommandSelectCarriedThingDesc>
+	<CommandSelectContainerThing>Chọn {0_label}</CommandSelectContainerThing>
+	<CommandSelectContainerThingDesc>Chọn vật phẩm bên trong.</CommandSelectContainerThingDesc>
+	<CommandSelectCarryingPawn>Chọn {0_nameDef}</CommandSelectCarryingPawn>
+	<CommandSelectCarryingPawnDesc>Chọn sinh vật đang mang theo.</CommandSelectCarryingPawnDesc>
+	<CommandSelectContainedPawn>Chọn {0_nameDef}</CommandSelectContainedPawn>
+	<CommandSelectContainedPawnDesc>Chọn sinh vật bên trong.</CommandSelectContainedPawnDesc>
+	<CommandSelectContainedThing>Chọn {0_label}</CommandSelectContainedThing>
+	<CommandSelectContainedThingDesc>Chọn vật phẩm bên trong.</CommandSelectContainedThingDesc>
+	<TakeDrug>Uống...</TakeDrug>
+	<TakeDrugDesc>Uống thuốc hoặc chất gây nghiện đã chọn trực tiếp từ kho.</TakeDrugDesc>
+	<BuildThing>Xây dựng {0}</BuildThing>
+	<CommandLeaveRitual>Rời khỏi {RITUAL_label}</CommandLeaveRitual>
+	<CommandLeaveRitualDesc>Dừng tham gia {RITUAL_labelDef}. Chỉ cần có ít nhất một người tham gia, nghi lễ sẽ tiếp tục.</CommandLeaveRitualDesc>
+	<CommandLeaveLastParticipant>Đây là người tham gia cuối cùng của {RITUAL_labelDef}.</CommandLeaveLastParticipant>
+	<CommandCancelRitual>Hủy bỏ {RITUAL_label}</CommandCancelRitual>
+	<CommandCancelRitualDesc>Kết thúc ngay lập tức {RITUAL_labelDef}. Hợp đồng nghi lễ sẽ được giữ lại. Bạn có thể khởi động lại nghi lễ sau này.</CommandCancelRitualDesc>
+	<CommandCancelRitualConfirm>Bạn có chắc chắn muốn hủy bỏ {RITUAL_labelDef} không?</CommandCancelRitualConfirm>
+	<LinkStorageSettings>Liên kết</LinkStorageSettings>
+	<LinkStorageSettingsDesc>Liên kết cài đặt lưu trữ của nhiều tòa nhà đã chọn để chúng chia sẻ cài đặt lưu trữ.\n\nNhóm này sẽ bắt đầu từ cài đặt của tòa nhà mà bạn chọn đầu tiên.</LinkStorageSettingsDesc>
+	<LinkStorageDisabledSelectTwo>Bạn phải chọn hai hoặc nhiều tòa nhà để liên kết cài đặt lưu trữ của chúng.</LinkStorageDisabledSelectTwo>
+	<AlreadyLinked>Đã liên kết.</AlreadyLinked>
+	<UnlinkStorageSettings>Giải liên kết</UnlinkStorageSettings>
+	<UnlinkStorageSettingsDesc>Giải liên kết cài đặt lưu trữ với các tòa nhà khác để có thể cài đặt độc lập.</UnlinkStorageSettingsDesc>
+	<LinkedStorageSettings>Đã liên kết</LinkedStorageSettings>
+	<OneBuilding>1 tòa nhà</OneBuilding>
+	<NumBuildings>{0} tòa nhà</NumBuildings>
+	<StoresThings>Lưu trữ</StoresThings>
+	<SelectAllLinked>Chọn tất cả</SelectAllLinked>
+	<SelectAllLinkedDesc>Chọn tất cả các tòa nhà lưu trữ đã liên kết.</SelectAllLinkedDesc>
+	<CommandDisabledUnconscious>{0_labelShort} đã mất ý thức.</CommandDisabledUnconscious>
+	<CommandToggleStudy>Bật/Tắt tự động nghiên cứu</CommandToggleStudy>
+	<CommandToggleStudyDesc>Quyết định xem người gác có tự động nghiên cứu vật này hay không. Khi tắt, vật này sẽ không bao giờ được nghiên cứu.</CommandToggleStudyDesc>
+	<CommandNoUsesLeft>Không còn công dụng.</CommandNoUsesLeft>
+<!--	<CommandRenameZoneLabel>Đổi tên</CommandRenameZoneLabel>
+	<CommandRenameZoneDesc>Đổi tên khu vực này.</CommandRenameZoneDesc>-->
+</LanguageData>

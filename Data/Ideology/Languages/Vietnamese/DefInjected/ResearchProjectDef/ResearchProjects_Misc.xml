@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bioregeneration.label>Sinh thể tái sinh</Bioregeneration.label>
+	<Bioregeneration.description>Mở khóa chu kỳ tái sinh của buồng tạo hình sinh thể. Chu kỳ này có thể chữa lành sẹo, khôi phục các bộ phận nhỏ bị thiếu như ngón tay, và nhiều bệnh tật phát sinh theo tuổi tác.</Bioregeneration.description>
+	<Bioregeneration.generalRules.rulesStrings>
+		<li>subject-&gt;Sinh thể tái sinh</li>
+		<li>subject_story-&gt;Nghiên cứu sự tái sinh của sừng nổ và sự tương đồng với tái sinh của con người</li>
+		<li>subject_story-&gt;Tiêm dữ liệu gen của kỳ nhông vào [ANYPAWN_possessive]</li>
+		<li>subject_story-&gt;Được đào tạo tại một bệnh viện thế giới sáng chói</li>
+		<li>subject_story-&gt;Hoàn thành khóa học thư tín về thẩm mỹ của thế giới sáng chói</li>
+		<li>subject_gerund-&gt;Định hình lại hình dáng cơ thể</li>
+		<li>subject_gerund-&gt;Kích hoạt chức năng tái sinh của buồng tạo hình sinh thể</li>
+	</Bioregeneration.generalRules.rulesStrings>
+	<Biosculpting.label>Điêu khắc sinh thể</Biosculpting.label>
+	<Biosculpting.description>Xây dựng buồng điêu khắc sinh thể, có thể thực hiện nhiều biến đổi sinh học cho các người thuộc địa. Điều này đặc biệt quan trọng đối với những tín đồ của chủ nghĩa siêu nhân.</Biosculpting.description>
+	<Biosculpting.generalRules.rulesStrings>
+		<li>subject-&gt;Điêu khắc sinh thể</li>
+		<li>subject_story-&gt;Xây dựng buồng điêu khắc sinh thể cho nhiều hợp đồng thuộc địa</li>
+		<li>subject_story-&gt;Nghiên cứu quy tắc tổng hợp công nghệ, bao gồm sự cần thiết của điêu khắc sinh thể</li>
+		<li>subject_story-&gt;Nghiên cứu những biến đổi sinh học nào có thể được sử dụng an toàn.</li>
+		<li>subject_story-&gt;Trốn khỏi một trang trại được hỗ trợ bởi thế giới sáng chói với những bản thiết kế này</li>
+		<li>subject_story-&gt;Được mời tham gia một thuộc địa của những người theo chủ nghĩa siêu nhân</li>
+		<li>subject_gerund-&gt;Xây dựng buồng điêu khắc sinh thể</li>
+		<li>subject_gerund-&gt;Định hình cơ thể</li>
+	</Biosculpting.generalRules.rulesStrings>
+	<NeuralSupercharger.label>Tăng cường thần kinh</NeuralSupercharger.label>
+	<NeuralSupercharger.description>Xây dựng thiết bị tăng cường thần kinh. Tăng cường thần kinh có thể nâng cao ý thức và hiệu suất học tập, nhưng cũng sẽ làm tăng tốc độ đói, và phải được làm mới mỗi ngày. Những người theo chủ nghĩa siêu nhân thường coi tăng cường thần kinh là một thực hành quan trọng.</NeuralSupercharger.description>
+	<NeuralSupercharger.generalRules.rulesStrings>
+		<li>subject-&gt;Thiết bị tăng cường thần kinh</li>
+		<li>subject_story-&gt;Thực hiện tăng cường thần kinh trong trường nội trú của [ANYPAWN_possessive]</li>
+		<li>subject_story-&gt;Tăng cường thần kinh của những người nhân bản hàng loạt trong trang trại để tăng tốc độ phát triển của họ</li>
+		<li>subject_story-&gt;Cố gắng cấm tăng cường thần kinh trong khóa học đại học của [ANYPAWN_pronoun]</li>
+		<li>subject_story-&gt;Tham gia một giáo phái theo chủ nghĩa siêu nhân, giáo phái này coi tăng cường thần kinh là hoạt động bắt buộc.</li>
+		<li>subject_gerund-&gt;Tăng cường trí thông minh của một con người</li>
+		<li>subject_gerund-&gt;Xây dựng thiết bị tăng cường thần kinh</li>
+	</NeuralSupercharger.generalRules.rulesStrings>
+</LanguageData>

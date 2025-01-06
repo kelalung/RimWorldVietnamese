@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CryingBaby.stages.baby_crying.label>Em bé khóc</CryingBaby.stages.baby_crying.label>
+	<CryingBaby.stages.baby_crying.description>Âm thanh khó chịu đó thật làm phiền!</CryingBaby.stages.baby_crying.description>
+	<GigglingBaby.stages.baby_giggling.label>Em bé cười khúc khích</GigglingBaby.stages.baby_giggling.label>
+	<GigglingBaby.stages.baby_giggling.description>Một em bé cười khúc khích mang lại nụ cười cho tôi.</GigglingBaby.stages.baby_giggling.description>
+	<MyCryingBaby.stages.my_baby_is_crying.label>Con tôi đang khóc</MyCryingBaby.stages.my_baby_is_crying.label>
+	<MyCryingBaby.stages.my_baby_is_crying.description>Con tôi đang khóc. Tôi hy vọng nó sẽ ngừng lại sớm.</MyCryingBaby.stages.my_baby_is_crying.description>
+	<MyGigglingBaby.stages.my_baby_giggling.label>Con tôi đang cười</MyGigglingBaby.stages.my_baby_giggling.label>
+	<MyGigglingBaby.stages.my_baby_giggling.description>Con tôi là dễ thương nhất thế giới!</MyGigglingBaby.stages.my_baby_giggling.description>
+</LanguageData>

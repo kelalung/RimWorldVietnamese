@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Disease_Abasia.label>Liệt</Disease_Abasia.label>
+<Disease_Abasia.letterLabel>Liệt</Disease_Abasia.letterLabel>
+<Disease_Abasia.letterText>{0}{1} đã mắc phải {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để họ nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nDưới đây là {1} bị bệnh.</Disease_Abasia.letterText>
+<Disease_BloodRot.label>Độc huyết</Disease_BloodRot.label>
+<Disease_BloodRot.letterLabel>Độc huyết</Disease_BloodRot.letterLabel>
+<Disease_BloodRot.letterText>{0}{1} đã mắc phải {2}.\n\nĐảm bảo có giường bệnh và bác sĩ, để họ nhận được điều trị thích hợp và nghỉ ngơi càng nhiều càng tốt.\n\nDưới đây là {1} bị bệnh.</Disease_BloodRot.letterText>
+</LanguageData>

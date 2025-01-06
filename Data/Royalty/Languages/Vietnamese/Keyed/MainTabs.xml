@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RoyalFavorTip>Bạn có thể chọn nhận {1}x{2} từ {3_name} cho {0}.\n\nBằng cách nhận {2}, bạn sẽ nhận được một danh hiệu danh dự. Danh hiệu càng cao, quyền lợi bạn có thể nhận được càng nhiều, chẳng hạn như giao dịch với các điểm định cư của đế chế, gọi hỗ trợ danh dự, hoặc sử dụng vũ khí hiếm mạnh mẽ hơn. Nhưng hãy lưu ý, {0} sẽ không hài lòng nếu không mặc trang phục phù hợp cho danh hiệu danh dự hoặc không có phòng ngủ đáp ứng yêu cầu.</RoyalFavorTip>
+<WorkDisabledByRoyalTitle>Bị vô hiệu hóa do danh hiệu danh dự {0}</WorkDisabledByRoyalTitle>
+<SpacedroneSelfDestructsIn>Drone không gian sẽ tự hủy sau {0}</SpacedroneSelfDestructsIn>
+</LanguageData>

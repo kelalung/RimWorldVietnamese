@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chinchilla.label>Chuột Sóc</Chinchilla.label>
+	<Chinchilla.labelFemale>Chuột Sóc cái</Chinchilla.labelFemale>
+	<Chinchilla.labelFemalePlural>Chuột Sóc cái</Chinchilla.labelFemalePlural>
+	<Chinchilla.labelMale>Chuột Sóc đực</Chinchilla.labelMale>
+	<Chinchilla.labelMalePlural>Chuột Sóc đực</Chinchilla.labelMalePlural>
+	<Chinchilla.labelPlural>Chuột Sóc</Chinchilla.labelPlural>
+	<Chinchilla.lifeStages.0.label>Chuột Sóc con non</Chinchilla.lifeStages.0.label>
+	<Chinchilla.lifeStages.0.labelFemale>Chuột Sóc con non</Chinchilla.lifeStages.0.labelFemale>
+	<Chinchilla.lifeStages.0.labelFemalePlural>Chuột Sóc con non</Chinchilla.lifeStages.0.labelFemalePlural>
+	<Chinchilla.lifeStages.0.labelMale>Chuột Sóc con non</Chinchilla.lifeStages.0.labelMale>
+	<Chinchilla.lifeStages.0.labelMalePlural>Chuột Sóc con non</Chinchilla.lifeStages.0.labelMalePlural>
+	<Chinchilla.lifeStages.0.labelPlural>Chuột Sóc con non</Chinchilla.lifeStages.0.labelPlural>
+	<Chinchilla.lifeStages.1.label>Chuột Sóc mới lớn</Chinchilla.lifeStages.1.label>
+	<Chinchilla.lifeStages.1.labelFemale>Chuột Sóc cái con non</Chinchilla.lifeStages.1.labelFemale>
+	<Chinchilla.lifeStages.1.labelFemalePlural>Chuột Sóc cái con non</Chinchilla.lifeStages.1.labelFemalePlural>
+	<Chinchilla.lifeStages.1.labelMale>Chuột Sóc đực con non</Chinchilla.lifeStages.1.labelMale>
+	<Chinchilla.lifeStages.1.labelMalePlural>Chuột Sóc đực con non</Chinchilla.lifeStages.1.labelMalePlural>
+	<Chinchilla.lifeStages.1.labelPlural>Chuột Sóc mới lớn</Chinchilla.lifeStages.1.labelPlural>
+	<Chinchilla.lifeStages.2.label>Chuột Sóc</Chinchilla.lifeStages.2.label>
+	<Chinchilla.lifeStages.2.labelFemale>Chuột Sóc cái</Chinchilla.lifeStages.2.labelFemale>
+	<Chinchilla.lifeStages.2.labelFemalePlural>Chuột Sóc cái</Chinchilla.lifeStages.2.labelFemalePlural>
+	<Chinchilla.lifeStages.2.labelMale>Chuột Sóc đực</Chinchilla.lifeStages.2.labelMale>
+	<Chinchilla.lifeStages.2.labelMalePlural>Chuột Sóc đực</Chinchilla.lifeStages.2.labelMalePlural>
+	<Chinchilla.lifeStages.2.labelPlural>Chuột Sóc</Chinchilla.lifeStages.2.labelPlural>
+	<Deer.label>Nai</Deer.label>
+	<Deer.labelFemale>Nai cái</Deer.labelFemale>
+	<Deer.labelFemalePlural>Nai cái</Deer.labelFemalePlural>
+	<Deer.labelMale>Nai đực</Deer.labelMale>
+	<Deer.labelMalePlural>Nai đực</Deer.labelMalePlural>
+	<Deer.labelPlural>Nai</Deer.labelPlural>
+	<Deer.lifeStages.0.label>Nai con non</Deer.lifeStages.0.label>
+	<Deer.lifeStages.0.labelFemale>Nai con non</Deer.lifeStages.0.labelFemale>
+	<Deer.lifeStages.0.labelFemalePlural>Nai con non</Deer.lifeStages.0.labelFemalePlural>
+	<Deer.lifeStages.0.labelMale>Nai con non</Deer.lifeStages.0.labelMale>
+	<Deer.lifeStages.0.labelMalePlural>Nai con non</Deer.lifeStages.0.labelMalePlural>
+	<Deer.lifeStages.0.labelPlural>Nai con non</Deer.lifeStages.0.labelPlural>
+	<Deer.lifeStages.1.label>Nai mới lớn</Deer.lifeStages.1.label>
+	<Deer.lifeStages.1.labelFemale>Nai cái con non</Deer.lifeStages.1.labelFemale>
+	<Deer.lifeStages.1.labelFemalePlural>Nai cái con non</Deer.lifeStages.1.labelFemalePlural>
+	<Deer.lifeStages.1.labelMale>Nai đực con non</Deer.lifeStages.1.labelMale>
+	<Deer.lifeStages.1.labelMalePlural>Nai đực con non</Deer.lifeStages.1.labelMalePlural>
+	<Deer.lifeStages.1.labelPlural>Nai mới lớn</Deer.lifeStages.1.labelPlural>
+	<Deer.lifeStages.2.label>Nai</Deer.lifeStages.2.label>
+	<Deer.lifeStages.2.labelFemale>Nai cái</Deer.lifeStages.2.labelFemale>
+	<Deer.lifeStages.2.labelFemalePlural>Nai cái</Deer.lifeStages.2.labelFemalePlural>
+	<Deer.lifeStages.2.labelMale>Nai đực</Deer.lifeStages.2.labelMale>
+	<Deer.lifeStages.2.labelMalePlural>Nai đực</Deer.lifeStages.2.labelMalePlural>
+	<Deer.lifeStages.2.labelPlural>Nai</Deer.lifeStages.2.labelPlural>
+	<Gazelle.label>Linh Dương</Gazelle.label>
+	<Gazelle.labelFemale>Linh Dương cái</Gazelle.labelFemale>
+	<Gazelle.labelFemalePlural>Linh Dương cái</Gazelle.labelFemalePlural>
+	<Gazelle.labelMale>Linh Dương đực</Gazelle.labelMale>
+	<Gazelle.labelMalePlural>Linh Dương đực</Gazelle.labelMalePlural>
+	<Gazelle.labelPlural>Linh Dương</Gazelle.labelPlural>
+	<Gazelle.lifeStages.0.label>Linh Dương con non</Gazelle.lifeStages.0.label>
+	<Gazelle.lifeStages.0.labelFemale>Linh Dương con non</Gazelle.lifeStages.0.labelFemale>
+	<Gazelle.lifeStages.0.labelFemalePlural>Linh Dương con non</Gazelle.lifeStages.0.labelFemalePlural>
+	<Gazelle.lifeStages.0.labelMale>Linh Dương con non</Gazelle.lifeStages.0.labelMale>
+	<Gazelle.lifeStages.0.labelMalePlural>Linh Dương con non</Gazelle.lifeStages.0.labelMalePlural>
+	<Gazelle.lifeStages.0.labelPlural>Linh Dương con non</Gazelle.lifeStages.0.labelPlural>
+	<Gazelle.lifeStages.1.label>Linh Dương mới lớn</Gazelle.lifeStages.1.label>
+	<Gazelle.lifeStages.1.labelFemale>Linh Dương mới lớn cái</Gazelle.lifeStages.1.labelFemale>
+	<Gazelle.lifeStages.1.labelFemalePlural>Linh Dương mới lớn cái</Gazelle.lifeStages.1.labelFemalePlural>
+	<Gazelle.lifeStages.1.labelMale>Linh Dương mới lớn đực</Gazelle.lifeStages.1.labelMale>
+	<Gazelle.lifeStages.1.labelMalePlural>Linh Dương mới lớn đực</Gazelle.lifeStages.1.labelMalePlural>
+	<Gazelle.lifeStages.1.labelPlural>Linh Dương mới lớn</Gazelle.lifeStages.1.labelPlural>
+	<Gazelle.lifeStages.2.label>Linh Dương</Gazelle.lifeStages.2.label>
+	<Gazelle.lifeStages.2.labelFemale>Linh Dương cái</Gazelle.lifeStages.2.labelFemale>
+	<Gazelle.lifeStages.2.labelFemalePlural>Linh Dương cái</Gazelle.lifeStages.2.labelFemalePlural>
+	<Gazelle.lifeStages.2.labelMale>Linh Dương đực</Gazelle.lifeStages.2.labelMale>
+	<Gazelle.lifeStages.2.labelMalePlural>Linh Dương đực</Gazelle.lifeStages.2.labelMalePlural>
+	<Gazelle.lifeStages.2.labelPlural>Linh Dương</Gazelle.lifeStages.2.labelPlural>
+	<Ibex.label>Dê Núi</Ibex.label>
+	<Ibex.labelFemale>Dê Núi cái</Ibex.labelFemale>
+	<Ibex.labelFemalePlural>Dê Núi cái</Ibex.labelFemalePlural>
+	<Ibex.labelMale>Dê Núi đực</Ibex.labelMale>
+	<Ibex.labelMalePlural>Dê Núi đực</Ibex.labelMalePlural>
+	<Ibex.labelPlural>Dê Núi</Ibex.labelPlural>
+	<Ibex.lifeStages.0.label>Dê Núi con non</Ibex.lifeStages.0.label>
+	<Ibex.lifeStages.0.labelFemale>Dê Núi con non</Ibex.lifeStages.0.labelFemale>
+	<Ibex.lifeStages.0.labelFemalePlural>Dê Núi con non</Ibex.lifeStages.0.labelFemalePlural>
+	<Ibex.lifeStages.0.labelMale>Dê Núi con non</Ibex.lifeStages.0.labelMale>
+	<Ibex.lifeStages.0.labelMalePlural>Dê Núi con non</Ibex.lifeStages.0.labelMalePlural>
+	<Ibex.lifeStages.0.labelPlural>Dê Núi con non</Ibex.lifeStages.0.labelPlural>
+	<Ibex.lifeStages.1.label>Dê Núi mới lớn</Ibex.lifeStages.1.label>
+	<Ibex.lifeStages.1.labelFemale>Dê Núi mới lớn cái</Ibex.lifeStages.1.labelFemale>
+	<Ibex.lifeStages.1.labelFemalePlural>Dê Núi mới lớn cái</Ibex.lifeStages.1.labelFemalePlural>
+	<Ibex.lifeStages.1.labelMale>Dê Núi mới lớn đực</Ibex.lifeStages.1.labelMale>
+	<Ibex.lifeStages.1.labelMalePlural>Dê Núi mới lớn đực</Ibex.lifeStages.1.labelMalePlural>
+	<Ibex.lifeStages.1.labelPlural>Dê Núi mới lớn</Ibex.lifeStages.1.labelPlural>
+	<Ibex.lifeStages.2.label>Dê Núi</Ibex.lifeStages.2.label>
+	<Ibex.lifeStages.2.labelFemale>Dê Núi cái</Ibex.lifeStages.2.labelFemale>
+	<Ibex.lifeStages.2.labelFemalePlural>Dê Núi cái</Ibex.lifeStages.2.labelFemalePlural>
+	<Ibex.lifeStages.2.labelMale>Dê Núi đực</Ibex.lifeStages.2.labelMale>
+	<Ibex.lifeStages.2.labelMalePlural>Dê Núi đực</Ibex.lifeStages.2.labelMalePlural>
+	<Ibex.lifeStages.2.labelPlural>Dê Núi</Ibex.lifeStages.2.labelPlural>
+	<Pig.label>Lợn</Pig.label>
+	<Pig.labelFemale>Lợn cái</Pig.labelFemale>
+	<Pig.labelFemalePlural>Lợn cái</Pig.labelFemalePlural>
+	<Pig.labelMale>Lợn đực</Pig.labelMale>
+	<Pig.labelMalePlural>Lợn đực</Pig.labelMalePlural>
+	<Pig.labelPlural>Lợn</Pig.labelPlural>
+	<Pig.lifeStages.piglet.label>Lợn con</Pig.lifeStages.piglet.label>
+	<Pig.lifeStages.piglet.labelFemale>Lợn con</Pig.lifeStages.piglet.labelFemale>
+	<Pig.lifeStages.piglet.labelFemalePlural>Lợn con</Pig.lifeStages.piglet.labelFemalePlural>
+	<Pig.lifeStages.piglet.labelMale>Lợn con</Pig.lifeStages.piglet.labelMale>
+	<Pig.lifeStages.piglet.labelMalePlural>Lợn con</Pig.lifeStages.piglet.labelMalePlural>
+	<Pig.lifeStages.piglet.labelPlural>Lợn con</Pig.lifeStages.piglet.labelPlural>
+	<Pig.lifeStages.1.label>Lợn mới lớn</Pig.lifeStages.1.label>
+	<Pig.lifeStages.1.labelFemale>Lợn mới lớn cái</Pig.lifeStages.1.labelFemale>
+	<Pig.lifeStages.1.labelFemalePlural>Lợn mới lớn cái</Pig.lifeStages.1.labelFemalePlural>
+	<Pig.lifeStages.1.labelMale>Lợn mới lớn đực</Pig.lifeStages.1.labelMale>
+	<Pig.lifeStages.1.labelMalePlural>Lợn mới lớn đực</Pig.lifeStages.1.labelMalePlural>
+	<Pig.lifeStages.1.labelPlural>Lợn mới lớn</Pig.lifeStages.1.labelPlural>
+	<Pig.lifeStages.2.label>Lợn</Pig.lifeStages.2.label>
+	<Pig.lifeStages.2.labelFemale>Lợn cái</Pig.lifeStages.2.labelFemale>
+	<Pig.lifeStages.2.labelFemalePlural>Lợn cái</Pig.lifeStages.2.labelFemalePlural>
+	<Pig.lifeStages.2.labelMale>Lợn đực</Pig.lifeStages.2.labelMale>
+	<Pig.lifeStages.2.labelMalePlural>Lợn đực</Pig.lifeStages.2.labelMalePlural>
+	<Pig.lifeStages.2.labelPlural>Lợn</Pig.lifeStages.2.labelPlural>
+	<WildBoar.label>Lợn Rừng</WildBoar.label>
+	<WildBoar.labelFemale>Lợn Rừng cái</WildBoar.labelFemale>
+	<WildBoar.labelFemalePlural>Lợn Rừng cái</WildBoar.labelFemalePlural>
+	<WildBoar.labelMale>Lợn Rừng đực</WildBoar.labelMale>
+	<WildBoar.labelMalePlural>Lợn Rừng đực</WildBoar.labelMalePlural>
+	<WildBoar.labelPlural>Lợn Rừng</WildBoar.labelPlural>
+	<WildBoar.lifeStages.0.label>Lợn Rừng con non</WildBoar.lifeStages.0.label>
+	<WildBoar.lifeStages.0.labelFemale>Lợn Rừng con non</WildBoar.lifeStages.0.labelFemale>
+	<WildBoar.lifeStages.0.labelFemalePlural>Lợn Rừng con non</WildBoar.lifeStages.0.labelFemalePlural>
+	<WildBoar.lifeStages.0.labelMale>Lợn Rừng con non</WildBoar.lifeStages.0.labelMale>
+	<WildBoar.lifeStages.0.labelMalePlural>Lợn Rừng con non</WildBoar.lifeStages.0.labelMalePlural>
+	<WildBoar.lifeStages.0.labelPlural>Lợn Rừng con non</WildBoar.lifeStages.0.labelPlural>
+	<WildBoar.lifeStages.1.label>Lợn Rừng mới lớn</WildBoar.lifeStages.1.label>
+	<WildBoar.lifeStages.1.labelFemale>Lợn Rừng mới lớn cái</WildBoar.lifeStages.1.labelFemale>
+	<WildBoar.lifeStages.1.labelFemalePlural>Lợn Rừng mới lớn cái</WildBoar.lifeStages.1.labelFemalePlural>
+	<WildBoar.lifeStages.1.labelMale>Lợn Rừng mới lớn đực</WildBoar.lifeStages.1.labelMale>
+	<WildBoar.lifeStages.1.labelMalePlural>Lợn Rừng mới lớn đực</WildBoar.lifeStages.1.labelMalePlural>
+	<WildBoar.lifeStages.1.labelPlural>Lợn Rừng mới lớn</WildBoar.lifeStages.1.labelPlural>
+	<WildBoar.lifeStages.2.label>Lợn Rừng</WildBoar.lifeStages.2.label>
+	<WildBoar.lifeStages.2.labelFemale>Lợn Rừng cái</WildBoar.lifeStages.2.labelFemale>
+	<WildBoar.lifeStages.2.labelFemalePlural>Lợn Rừng cái</WildBoar.lifeStages.2.labelFemalePlural>
+	<WildBoar.lifeStages.2.labelMale>Lợn Rừng đực</WildBoar.lifeStages.2.labelMale>
+	<WildBoar.lifeStages.2.labelMalePlural>Lợn Rừng đực</WildBoar.lifeStages.2.labelMalePlural>
+	<WildBoar.lifeStages.2.labelPlural>Lợn Rừng</WildBoar.lifeStages.2.labelPlural>
+</LanguageData>

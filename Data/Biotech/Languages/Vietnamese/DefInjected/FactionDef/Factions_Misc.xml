@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OutlanderRoughPig.label>Liên minh lợn hoang thô lỗ</OutlanderRoughPig.label>
+<OutlanderRoughPig.description>Một liên minh lỏng lẻo gồm các loài lợn hoang thích nghi mạnh mẽ. Họ rất sẵn lòng kết bạn, ngay cả với những người mũi thon. Nhưng họ cũng sẵn sàng thể hiện nanh vuốt khi có cơ hội, cắn mạnh vào sườn của kẻ thù. Nếu được tôn trọng, họ sẽ giúp đỡ đồng minh. Nếu trở thành kẻ thù, âm thanh cuối cùng bạn nghe thấy trên thế giới sẽ là tiếng hò reo sắc nhọn của họ sau khi chiến thắng.</OutlanderRoughPig.description>
+<OutlanderRoughPig.leaderTitle>Lãnh đạo lợn</OutlanderRoughPig.leaderTitle>
+<OutlanderRoughPig.pawnSingular>Giống lợn</OutlanderRoughPig.pawnSingular>
+<OutlanderRoughPig.pawnsPlural>Giống lợn</OutlanderRoughPig.pawnsPlural>
+<PirateWaster.label>Đội hải tặc xác thối</PirateWaster.label>
+<PirateWaster.description>Một đội hải tặc bạo lực lỏng lẻo gồm các loài xác thối, được biến đổi gen để sinh sống trong môi trường độc hại và ô nhiễm. Họ không quan tâm đến việc xây dựng hay trồng trọt, mà thích sử dụng bạo lực để lấy thức ăn từ người khác.\n\nCông nghệ của họ chủ yếu phụ thuộc vào những gì họ vừa đánh cắp gần đây. Hầu hết họ mang theo vũ khí thuốc súng, nhưng một số thích giết chóc ở khoảng cách gần hơn.</PirateWaster.description>
+<PirateWaster.leaderTitle>Thủ lĩnh</PirateWaster.leaderTitle>
+<PirateWaster.pawnSingular>Giống xác thối</PirateWaster.pawnSingular>
+<PirateWaster.pawnsPlural>Giống xác thối</PirateWaster.pawnsPlural>
+<PirateYttakin.label>Đội hải tặc lông xù</PirateYttakin.label>
+<PirateYttakin.description>Một đội hải tặc gồm những giống lông xù to lớn và dày lông. Họ từ chối giao tiếp với người ngoài, sẽ nhanh chóng triệu tập các chiến binh động vật của họ để đối phó với những ai coi thường họ hoặc những người họ dự định cướp bóc.\n\nGiống lông xù ban đầu được biến đổi gen để sống trên hành tinh lạnh giá Itak, giờ đây họ theo đuổi lối sống truyền thống trên nhiều hành tinh.</PirateYttakin.description>
+<PirateYttakin.leaderTitle>Thủ lĩnh</PirateYttakin.leaderTitle>
+<PirateYttakin.pawnSingular>Giống lông xù</PirateYttakin.pawnSingular>
+<PirateYttakin.pawnsPlural>Giống lông xù</PirateYttakin.pawnsPlural>
+<Sanguophages.label>Bí ẩn huyết tộc</Sanguophages.label>
+<Sanguophages.description>Một nhóm gồm các huyết tộc cổ xưa.</Sanguophages.description>
+<Sanguophages.leaderTitle>Lãnh đạo</Sanguophages.leaderTitle>
+<Sanguophages.pawnSingular>Huyết tộc</Sanguophages.pawnSingular>
+<Sanguophages.pawnsPlural>Huyết tộc</Sanguophages.pawnsPlural>
+<TribeRoughNeanderthal.label>Bộ lạc Neanderthal thô lỗ</TribeRoughNeanderthal.label>
+<TribeRoughNeanderthal.description>Một bộ lạc Neanderthal không thân thiện và có ý thức lãnh thổ. Họ mở cửa cho thương mại hòa bình nhưng không thân thiện trong các khía cạnh khác, và rất có ý thức lãnh thổ. Các chiến binh trong bộ lạc sẽ không ngần ngại đập nát hộp sọ của bất kỳ ai mà họ coi là nguy hiểm. Mặc dù họ thiếu công nghệ và khả năng phân tích, nhưng số lượng và khả năng chịu đựng sát thương của họ trước khi ngã khiến họ trở thành kẻ thù không thể xem thường.\n\nHọ đã sống trên hành tinh này hàng trăm thế hệ, nhưng không biết nguồn gốc của mình. Có thể họ là hậu duệ của một tầng lớp nô lệ Neanderthal từ một nền văn minh đã thất bại, hoặc thậm chí là sản phẩm của các thí nghiệm khoa học cổ đại.</TribeRoughNeanderthal.description>
+<TribeRoughNeanderthal.leaderTitle>Trưởng làng</TribeRoughNeanderthal.leaderTitle>
+<TribeRoughNeanderthal.pawnSingular>Giống Neanderthal</TribeRoughNeanderthal.pawnSingular>
+<TribeRoughNeanderthal.pawnsPlural>Giống Neanderthal</TribeRoughNeanderthal.pawnsPlural>
+<TribeSavageImpid.label>Bộ lạc lửa hoang dã</TribeSavageImpid.label>
+<TribeSavageImpid.description>Một bộ lạc hoang dã gồm các loài lửa có da vàng và có khả năng phun lửa. Bộ lạc đặc biệt này không có ý định hòa bình với bất kỳ ai khác. Các chiến binh của họ giỏi trong việc sử dụng tài năng tốc độ và tấn công bằng lửa để thiêu rụi các công trình và trẻ em của các giống khác.\n\nBộ lạc này đã tồn tại ở đây hàng nghìn năm, nguồn gốc của họ đã biến mất trong huyền thoại. Họ có thể là hậu duệ của những người định cư đã mất công nghệ, hoặc có thể là hậu duệ của những loài lửa trong một nền văn minh lâu đời nào đó.</TribeSavageImpid.description>
+<TribeSavageImpid.leaderTitle>Trưởng làng</TribeSavageImpid.leaderTitle>
+<TribeSavageImpid.pawnSingular>Giống lửa</TribeSavageImpid.pawnSingular>
+<TribeSavageImpid.pawnsPlural>Giống lửa</TribeSavageImpid.pawnsPlural>
+</LanguageData>

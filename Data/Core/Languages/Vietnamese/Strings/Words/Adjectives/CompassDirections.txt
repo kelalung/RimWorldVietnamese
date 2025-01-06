@@ -1,0 +1,26 @@
+﻿Bắc
+Đông Bắc
+Đông
+Đông Nam
+Nam
+Tây Nam
+Tây
+Tây Bắc
+
+Bắc bộ
+Đông Bắc bộ
+Đông bộ
+Đông Nam bộ
+Nam bộ
+Tây Nam bộ
+Tây bộ
+Tây Bắc bộ
+
+Bắc
+Bắc
+Đông
+Đông
+Nam
+Nam
+Tây
+Tây

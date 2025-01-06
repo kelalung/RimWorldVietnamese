@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ElectricalBurn.label>Cháy do điện</ElectricalBurn.label>
+  <ElectricalBurn.deathMessage>{0} đã chết vì bị cháy do điện.</ElectricalBurn.deathMessage>
+</LanguageData>

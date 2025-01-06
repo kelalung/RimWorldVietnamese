@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PsychicRitualQuality.label>Chất lượng nghi thức tâm linh</PsychicRitualQuality.label>
+<PsychicRitualQuality.description>Mức độ mà các cấu trúc xung quanh có thể nâng cao hiệu quả của các nghi thức tâm linh diễn ra ở đây.</PsychicRitualQuality.description>
+<PsychicRitualQualityOffset.label>Độ lệch chất lượng nghi thức tâm linh</PsychicRitualQualityOffset.label>
+<PsychicRitualQualityOffset.description>Khi người này tham gia vào nghi thức tâm linh, hiệu quả của nghi thức sẽ bị giảm bớt. Tổng giá trị lệch hiệu quả sẽ được chia cho tổng số người tham gia.</PsychicRitualQualityOffset.description>
+</LanguageData>

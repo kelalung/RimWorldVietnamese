@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Stat_Thing_MinimumRoyalTitle_Name>Danh Hiệu Thấp Nhất ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
+<Stat_Thing_MinimumRoyalTitle_Desc>Luật của {FACTION_name} hạn chế việc sử dụng cấy ghép này cho những người có danh hiệu cụ thể. Việc sở hữu cấy ghép này không thể phát hiện được, nhưng nếu bạn sử dụng khả năng của nó, có khả năng bị người khác phát hiện tín hiệu tâm linh. Điều này sẽ dẫn đến xung đột ngoại giao.</Stat_Thing_MinimumRoyalTitle_Desc>
+<Stat_Thing_Weapon_MinimumRoyalTitle_Desc>Luật của {FACTION_name} hạn chế việc sử dụng vũ khí này cho những người có danh hiệu cụ thể. Việc sở hữu vũ khí này không thể phát hiện được, mỗi lần bạn sử dụng nó có khả năng bị người khác phát hiện tín hiệu tâm linh. Điều này sẽ dẫn đến xung đột ngoại giao.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+<Stat_Thing_MinimumRoyalTitle_Level_Desc>Cấy ghép này yêu cầu phải có một danh hiệu hợp pháp trong {FACTION_name} mỗi khi nâng cấp.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+<Stat_Thing_Apparel_MaxSatisfiedTitle>Danh Hiệu Cao Nhất</Stat_Thing_Apparel_MaxSatisfiedTitle>
+<Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>Danh hiệu cao nhất có thể đáp ứng yêu cầu trang phục của trang phục này.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+<Stat_Thing_Ingestible_MaxSatisfiedTitle>Danh Hiệu Cao Nhất</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+<Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Danh hiệu cao nhất có thể đáp ứng yêu cầu ăn uống của thực phẩm này.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+<Stat_Thing_PersonaWeaponTrait_Label>Đặc Điểm</Stat_Thing_PersonaWeaponTrait_Label>
+<Stat_Thing_PersonaWeaponTrait_Desc>Đặc điểm nhân cách của vũ khí này.</Stat_Thing_PersonaWeaponTrait_Desc>
+<StatsReport_Pain>Hệ Số Đau Đớn</StatsReport_Pain>
+</LanguageData>

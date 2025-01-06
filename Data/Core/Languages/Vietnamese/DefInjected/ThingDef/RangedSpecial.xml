@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<OrbitalTargeterBombardment.label>Thiết bị nhắm bắn bom quỹ đạo</OrbitalTargeterBombardment.label>
+<OrbitalTargeterBombardment.description>Một thiết bị nhắm bắn cổ xưa cho hệ thống bom quỹ đạo. Thiết bị này sẽ chỉ định một mục tiêu và gửi tọa độ đến một mạng lưới vệ tinh, sau đó sử dụng va chạm động năng để tấn công mục tiêu. Thiết bị này có thể được lập trình lại để chấp nhận yêu cầu từ người dùng không được phép, nhưng một khi được sử dụng, mạng sẽ phát hiện sự xâm nhập và cắt đứt kết nối vĩnh viễn.</OrbitalTargeterBombardment.description>
+<OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
+<OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>Đang hồi phục</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
+<OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>Thiết bị nhắm bắn bom quỹ đạo</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+<OrbitalTargeterPowerBeam.label>Thiết bị nhắm bắn tia năng lượng quỹ đạo</OrbitalTargeterPowerBeam.label>
+<OrbitalTargeterPowerBeam.description>Một thiết bị nhắm bắn cổ xưa cho vệ tinh thu thập năng lượng. Khi đã nhắm bắn mục tiêu, nó sẽ chỉ thị cho vệ tinh cổ đại bắt đầu phát ra một cột năng lượng điện từ khổng lồ xuống dưới. Năng lượng này có thể được hấp thụ an toàn bằng một đĩa hấp thụ lớn, nhưng vì bạn không có đĩa hấp thụ, khi nhắm bắn vào kẻ thù, cột năng lượng khổng lồ sẽ biến khu vực mục tiêu thành một địa ngục hàng nghìn độ. Điều này sẽ kéo dài cho đến khi vệ tinh phát hiện mục tiêu không an toàn, ngay lập tức tự động tắt và ngừng sử dụng thiết bị nhắm bắn.</OrbitalTargeterPowerBeam.description>
+<OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
+<OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>Đang hồi phục</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
+<OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>Thiết bị nhắm bắn tia năng lượng quỹ đạo</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+<TornadoGenerator.label>Thiết bị nhắm bắn lốc xoáy</TornadoGenerator.label>
+<TornadoGenerator.description>Một thiết bị điều khiển mạng cổ xưa cho vệ tinh khí tượng. Thiết bị này đã vượt qua các bộ giới hạn an toàn và có khả năng tạo ra những rối loạn không khí lớn, dẫn đến việc tạo ra lốc xoáy tại vị trí chỉ định. Vệ tinh khí tượng sẽ phát hiện ra việc truy cập không được phép này và khóa thiết bị sau khi sử dụng, nhưng lốc xoáy sẽ vẫn được để lại để tiêu tốn năng lượng.</TornadoGenerator.description>
+<TornadoGenerator.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</TornadoGenerator.comps.CompApparelReloadable.chargeNoun>
+<TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>Đang hồi phục</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
+<TornadoGenerator.verbs.Verb_Spawn.label>Thiết bị nhắm bắn lốc xoáy</TornadoGenerator.verbs.Verb_Spawn.label>
+</LanguageData>

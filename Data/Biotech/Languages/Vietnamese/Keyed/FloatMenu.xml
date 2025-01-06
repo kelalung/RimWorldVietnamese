@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <NotAMechanitor>Không phải là kỹ sư máy móc</NotAMechanitor>
+<NotEnoughBandwidth>Thiếu băng thông</NotEnoughBandwidth>
+<ControlMech>Điều khiển {0}</ControlMech>
+<CannotControlMech>Không thể điều khiển {0}</CannotControlMech>
+<CannotControlMechAlreadyControlled>Đã được {0} điều khiển</CannotControlMechAlreadyControlled>
+<CannotControlMechNotEnoughBandwidth>Thiếu băng thông</CannotControlMechNotEnoughBandwidth>
+<CannotControlMechNeverControllable>Không thể điều khiển</CannotControlMechNeverControllable>
+<CannotDisconnectMech>Không thể ngắt kết nối với {0}</CannotDisconnectMech>
+<DisconnectMech>Ngắt kết nối với {0}</DisconnectMech>
+<DisassembleMech>Tháo rời {0} vĩnh viễn</DisassembleMech>
+<CannotDisassembleMech>Không thể tháo rời {0} vĩnh viễn</CannotDisassembleMech>
+<MustBeOverseer>Phải là người giám sát</MustBeOverseer>
+<Extract>Chiết xuất</Extract>
+<OutOfCommandRange>Ra ngoài phạm vi điều khiển</OutOfCommandRange>
+<CannotGoOutOfRange>Không thể đạt được</CannotGoOutOfRange>
+<WasteContainerFull>Cần được làm sạch</WasteContainerFull>
+<CannotRepairMech>Không thể sửa chữa {0}</CannotRepairMech>
+<ExtractXenogermFrom>Chiết xuất phôi gen từ {PAWN_nameDef}</ExtractXenogermFrom>
+<EnterBuilding>Vào {0_labelShort}</EnterBuilding>
+<PawnHasNoGenes>{PAWN_nameDef} không có gen</PawnHasNoGenes>
+<PawnHasNoNonArchiteGenes>{PAWN_nameDef} không có gen có thể chiết xuất.</PawnHasNoNonArchiteGenes>
+<InXenogerminationComa>Trong trạng thái hôn mê cấy ghép gen</InXenogerminationComa>
+<Occupied>Đã bị chiếm dụng</Occupied>
+<OccupantEjectedFromGrowthVat>{PAWN_nameDef} đã bị đẩy ra khỏi bể phát triển</OccupantEjectedFromGrowthVat>
+<TooOld>{PAWN_nameDef} phải dưới {AGEYEARS} tuổi.</TooOld>
+<PawnIsTooOld>{PAWN_nameDef} quá tuổi.</PawnIsTooOld>
+<PawnBiostarving>{PAWN_nameDef} đang bị đói.</PawnBiostarving>
+<NoViablePawns>Không có nhân viên khả thi</NoViablePawns>
+<NoExtractablePawns>Không có nhân viên có thể chiết xuất</NoExtractablePawns>
+<NoImplantablePawns>Không có nhân viên có thể cấy ghép</NoImplantablePawns>
+<CannotEnterBuilding>Không thể vào {0_labelShort}</CannotEnterBuilding>
+<AssignedToOtherPawn>{0_labelShort} đã được chỉ định cho người khác.</AssignedToOtherPawn>
+<AbsorbXenogerm>Hấp thụ phôi gen từ {PAWN_nameDef}</AbsorbXenogerm>
+<CannotAbsorbXenogerm>Không thể hấp thụ phôi gen từ {PAWN_nameDef}</CannotAbsorbXenogerm>
+<SameXenotype>{PAWN_nameDef} đã là {PAWN_xenotype}</SameXenotype>
+<XenogermLossShockPresent>{PAWN_nameDef} đã rơi vào trạng thái sốc do mất gen</XenogermLossShockPresent>
+<CarryToSpecificThing>Mang đến {0_labelShort}</CarryToSpecificThing>
+<NoCasketOrBed>Không có giường hoặc quan tài chưa được giữ ở nhiệt độ an toàn có thể đến được.</NoCasketOrBed>
+<TemporaryFactionMember>{PAWN_nameDef} là thành viên tạm thời của phe.</TemporaryFactionMember>
+<SubcoreScannerNotInit>Máy quét chưa được khởi tạo</SubcoreScannerNotInit>
+<SubcoreScannerRequiresIngredients>Đang chờ nguyên liệu</SubcoreScannerRequiresIngredients>
+<SubcoreScannerOccupied>Đã bị chiếm dụng</SubcoreScannerOccupied>
+<EnterSubcoreScanner>Vào {0}</EnterSubcoreScanner>
+<BabyCareBreastfeed>Cho {BABY_labelShort} bú mẹ</BabyCareBreastfeed>
+<BabyCareBreastfeedUnable>Không thể cho {BABY_labelShort} bú mẹ</BabyCareBreastfeedUnable>
+<NoBabyFood>Không có thức ăn cho trẻ sơ sinh</NoBabyFood>
+<CannotInteractBabyPlayFull>Cần đủ thời gian vui chơi</CannotInteractBabyPlayFull>
+<BloodfeedOn>Hút máu {PAWN_nameDef}</BloodfeedOn>
+<CannotBloodfeedOn>Không thể hút máu {PAWN_nameDef}</CannotBloodfeedOn>
+<CannotFeedOnWouldKill>Thiếu máu.</CannotFeedOnWouldKill>
+<BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} không có đủ sữa</BreastfeedFailReason_MomNotEnoughMilk>
+<BreastfeedFailReason_MomInMentalState>{MOM_labelShort} hiện không thể cho bú</BreastfeedFailReason_MomInMentalState>
+<BreastfeedFailReason_BabyTooFull>{BABY_labelShort} đã ăn no, không thể bú</BreastfeedFailReason_BabyTooFull>
+<BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} bị cấm đối với {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
+<BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} bị cấm đối với {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
+<BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} bị cấm đối với {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
+<BreastfeedFailReason_MomIsMobile>{MOM_labelShort} không thể cho bú {BABY_labelShort} khi thiếu sự trợ giúp</BreastfeedFailReason_MomIsMobile>
+<BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} không thể di chuyển từ {BABY_labelShort} đến {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+<BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} không thể tiếp cận {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+<BreastfeedFailReason_NoMomsAssignedToBaby>Không có {BABY_factionPawnsPlural} nào được chỉ định cho {BABY_labelShort} đang cho bú</BreastfeedFailReason_NoMomsAssignedToBaby>
+<BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} chưa được phân công công việc “chăm sóc trẻ”</BreastfeedFailReason_MomNotAssignedToChildcare>
+<BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} đang trong quan tài ngủ đông</BreastfeedFailReason_MomInsideContainer>
+<BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} đang mang theo trẻ sơ sinh</BreastfeedFailReason_MomBeingCarried>
+<OrderImplantationIntoPawn>Cấy ghép cho {PAWN_nameDef}</OrderImplantationIntoPawn>
+<AcceptXenogerm>Chấp nhận phôi gen {0_xenotype}</AcceptXenogerm>
+<CarryToRechargerOrdered>Chuyển {PAWN_labelShort} đến trạm sạc</CarryToRechargerOrdered>
+<CannotCarryToRecharger>Không thể chuyển {PAWN_labelShort} đến trạm sạc</CannotCarryToRecharger>
+<CannotCarryToRechargerNoneAvailable>Không có trạm sạc nào khả dụng</CannotCarryToRechargerNoneAvailable>
+<NotAllowedHemogen>Gói huyết nguyên bị cấm do hạn chế thực phẩm.</NotAllowedHemogen>
+<EjectGenepackFromGeneBank>Đẩy phôi gen ra khỏi ngân hàng gen</EjectGenepackFromGeneBank>
+<ResultingMetTooLow>Hiệu suất trao đổi chất cuối cùng quá thấp</ResultingMetTooLow>
+<RomanceOnCooldown>Thử hẹn hò quá thường xuyên</RomanceOnCooldown>
+<CarryToSafePlace>Chuyển đến nơi an toàn</CarryToSafePlace>
+<CannotCarryToSafePlace>Không thể chuyển đến nơi an toàn</CannotCarryToSafePlace>
+</LanguageData>

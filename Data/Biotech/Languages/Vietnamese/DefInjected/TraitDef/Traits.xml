@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Delicate.degreeDatas.delicate.label>Giòn</Delicate.degreeDatas.delicate.label>
+<Delicate.degreeDatas.delicate.description>Cơ thể của {PAWN_nameDef} rất giòn. Điều này khiến {PAWN_pronoun} chịu nhiều tổn thương hơn trong cùng một cú đánh.</Delicate.degreeDatas.delicate.description>
+<Recluse.degreeDatas.recluse.label>Người ẩn dật</Recluse.degreeDatas.recluse.label>
+<Recluse.degreeDatas.recluse.description>{PAWN_nameDef} thích ở một mình. Số lượng người trong phe càng ít, {PAWN_pronoun} càng vui.</Recluse.degreeDatas.recluse.description>
+</LanguageData>

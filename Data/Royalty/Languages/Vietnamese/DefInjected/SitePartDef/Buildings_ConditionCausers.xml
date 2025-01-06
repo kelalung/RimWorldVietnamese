@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ClimateAdjuster.label>Thiết bị điều chỉnh khí hậu</ClimateAdjuster.label>
+<ClimateAdjuster.description>Một thiết bị điều chỉnh khí hậu.</ClimateAdjuster.description>
+<EMIDynamo.label>Thiết bị nhiễu điện từ</EMIDynamo.label>
+<EMIDynamo.description>Một thiết bị nhiễu điện từ.</EMIDynamo.description>
+<PsychicDroner.label>Thiết bị nhiễu tâm linh</PsychicDroner.label>
+<PsychicDroner.description>Một thiết bị nhiễu tâm linh.</PsychicDroner.description>
+<PsychicSuppressor.label>Thiết bị ức chế tâm linh</PsychicSuppressor.label>
+<PsychicSuppressor.description>Một thiết bị ức chế tâm linh.</PsychicSuppressor.description>
+<SmokeSpewer.label>Thiết bị tạo khói</SmokeSpewer.label>
+<SmokeSpewer.description>Một thiết bị tạo khói.</SmokeSpewer.description>
+<SunBlocker.label>Thiết bị tạo bóng tối</SunBlocker.label>
+<SunBlocker.description>Một thiết bị tạo bóng tối, ngăn ánh sáng mặt trời xuyên qua bầu trời.</SunBlocker.description>
+<ToxicSpewer.label>Thiết bị ô nhiễm không khí</ToxicSpewer.label>
+<ToxicSpewer.description>Một thiết bị ô nhiễm không khí.</ToxicSpewer.description>
+<WeatherController.label>Thiết bị điều khiển thời tiết</WeatherController.label>
+<WeatherController.description>Một thiết bị điều khiển thời tiết.</WeatherController.description>
+</LanguageData>

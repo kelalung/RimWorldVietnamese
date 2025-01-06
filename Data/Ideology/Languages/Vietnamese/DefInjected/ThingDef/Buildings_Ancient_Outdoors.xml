@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <AncientAirConditioner.label>Máy điều hòa không khí cổ xưa</AncientAirConditioner.label>
+<AncientAirConditioner.description>Một máy điều hòa không khí cổ xưa. Các bộ phận bên trong đã bị cướp sạch từ lâu, và vỏ máy đã dần rỉ sét theo thời gian.</AncientAirConditioner.description>
+<AncientAPC.label>Di tích xe vận chuyển bọc thép cổ xưa</AncientAPC.label>
+<AncientAPC.description>Di tích của một chiếc xe vận chuyển bọc thép cổ xưa, bị phá hủy bởi một loại vũ khí hạng nặng. Tất cả các bộ phận hữu ích đã bị cướp hoặc bị phong hóa từ lâu.</AncientAPC.description>
+<AncientATM.label>Máy ATM cổ xưa</AncientATM.label>
+<AncientATM.description>Một máy rút tiền tự động cổ xưa, đã rỉ sét và biến dạng, hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientATM.description>
+<AncientContainer.label>Container cổ xưa</AncientContainer.label>
+<AncientContainer.description>Một container lớn từ một phương tiện vận chuyển cổ xưa. Nó đã bị cướp sạch từ lâu, trở thành một thứ vô dụng.</AncientContainer.description>
+<AncientDropshipEngine.label>Động cơ tàu đổ bộ cổ xưa</AncientDropshipEngine.label>
+<AncientDropshipEngine.description>Một động cơ tàu đổ bộ cổ xưa. Nó có thể đã được tháo ra từ một tàu đổ bộ quân sự. Cấu trúc bên trong tinh xảo của nó đã bị rỉ sét đến mức không còn giá trị, các bộ phận quý giá đã bị lấy đi từ lâu.</AncientDropshipEngine.description>
+<AncientFence.label>Hàng rào cổ xưa</AncientFence.label>
+<AncientFence.description>Một hàng rào cũ kỹ được kết nối bằng cột bê tông cốt thép và tấm bê tông.</AncientFence.description>
+<AncientGiantWheel.label>Bánh xe khổng lồ cổ xưa</AncientGiantWheel.label>
+<AncientGiantWheel.description>Một bánh xe khổng lồ đã rỉ sét, có thể đã rơi ra từ một phương tiện lớn nhiều năm trước. Cao su đã bị phân hủy theo thời gian dài, chỉ còn lại bánh xe méo mó và rỉ sét này.</AncientGiantWheel.description>
+<AncientHydrant.label>Trụ nước cổ xưa</AncientHydrant.label>
+<AncientHydrant.description>Một trụ nước cổ xưa. Nó đã rỉ sét nghiêm trọng và hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientHydrant.description>
+<AncientJetEngine.label>Động cơ phản lực cổ xưa</AncientJetEngine.label>
+<AncientJetEngine.description>Một động cơ phản lực cổ xưa, có thể đến từ một chiếc máy bay lớn. Các bộ phận bên trong tinh xảo của nó đã bị rỉ sét đến mức không còn giá trị, các bộ phận quý giá cũng đã bị cướp sạch.</AncientJetEngine.description>
+<AncientKitchenSink.label>Chậu rửa bát cổ xưa</AncientKitchenSink.label>
+<AncientKitchenSink.description>Một chậu rửa bát cổ xưa làm từ vật liệu sợi phi kim loại đã rỉ sét. Do lão hóa nghiêm trọng, chúng tôi không thể thu hồi bất kỳ thứ gì từ nó.\n\nChắc chắn rằng hành trình trước đó của nó là một câu chuyện dài.</AncientKitchenSink.description>
+<AncientLargeCrate.label>Hòm chứa lớn cổ xưa</AncientLargeCrate.label>
+<AncientLargeCrate.description>Một hòm chứa lớn cũ kỹ. Nó đã rỉ sét nghiêm trọng, không còn khả năng lưu trữ bất kỳ thứ gì.</AncientLargeCrate.description>
+<AncientLargeRustedEngineBlock.label>Bộ động cơ lớn rỉ sét cổ xưa</AncientLargeRustedEngineBlock.label>
+<AncientLargeRustedEngineBlock.description>Một bộ động cơ lớn cổ xưa, có thể đến từ một phương tiện lớn nào đó. Nó đã rỉ sét nghiêm trọng, tất cả các bộ phận chức năng đã biến mất và không thể sửa chữa.</AncientLargeRustedEngineBlock.description>
+<AncientLongCrate.label>Hòm chứa dài cổ xưa</AncientLongCrate.label>
+<AncientLongCrate.description>Một hòm chứa dài cũ kỹ. Nó đã rỉ sét nghiêm trọng, không còn khả năng lưu trữ bất kỳ thứ gì.</AncientLongCrate.description>
+<AncientMechDropBeacon.label>Đèn hiệu thả hàng cơ giới cổ xưa</AncientMechDropBeacon.label>
+<AncientMechDropBeacon.description>Vỏ bọc bị vỡ của đèn hiệu thả hàng cơ giới cổ xưa. Nó đã rỉ sét nghiêm trọng, các phần có thể thu hồi đã bị phân hủy từ lâu.</AncientMechDropBeacon.description>
+<AncientMegaCannonBarrel.label>Thân pháo khổng lồ cổ xưa</AncientMegaCannonBarrel.label>
+<AncientMegaCannonBarrel.description>Thân pháo từ một khẩu pháo tầm xa. Vũ khí mạnh mẽ này có thể đã được sử dụng để hỗ trợ pháo binh hoặc chống tàu, nhưng giờ đây nó đã rỉ sét nghiêm trọng, tất cả các bộ phận chức năng đã biến mất và không thể sửa chữa.</AncientMegaCannonBarrel.description>
+<AncientMegaCannonTripod.label>Chân đế pháo khổng lồ cổ xưa</AncientMegaCannonTripod.label>
+<AncientMegaCannonTripod.description>Chân đế dùng để lắp đặt và vận hành khẩu pháo tầm xa. Vũ khí mạnh mẽ này có thể đã được sử dụng để hỗ trợ pháo binh hoặc chống tàu, nhưng giờ đây nó đã rỉ sét nghiêm trọng, tất cả các bộ phận chức năng đã biến mất và không thể sửa chữa.</AncientMegaCannonTripod.description>
+<AncientMicrowave.label>Máy vi sóng cổ xưa</AncientMicrowave.label>
+<AncientMicrowave.description>Một thiết bị cổ xưa dùng để hâm nóng thực phẩm. Nó đã rỉ sét và biến dạng, hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientMicrowave.description>
+<AncientMiniWarwalkerRemains.label>Di tích chiến xa mini cổ xưa</AncientMiniWarwalkerRemains.label>
+<AncientMiniWarwalkerRemains.description>Di tích của một chiến xa mini cổ xưa. Di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientMiniWarwalkerRemains.description>
+<AncientOven.label> Lò nướng cổ xưa</AncientOven.label>
+<AncientOven.description>Một lò nướng cổ xưa. Nó đã rỉ sét và biến dạng, hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientOven.description>
+<AncientPipelineSection.label>Đoạn ống cổ xưa</AncientPipelineSection.label>
+<AncientPipelineSection.description>Một đống ống cổ xưa. Nó từng được sử dụng để vận chuyển một số chất lỏng quý giá đến những nơi xa xôi, nhưng giờ đây đã bị rỉ sét và lão hóa đến mức không còn giá trị.</AncientPipelineSection.description>
+<AncientPipes.label>Ống cổ xưa</AncientPipes.label>
+<AncientPipes.description>Một đống ống cũ rỉ sét. Rất khó để nói rõ những thứ này làm sao lại ở đây.</AncientPipes.description>
+<AncientPodCar.label>Phương tiện tự lái cổ xưa</AncientPodCar.label>
+<AncientPodCar.description>Một phương tiện bay cổ xưa có khả năng tự lái. Các bộ phận bên trong tinh xảo của nó đã bị rỉ sét đến mức không còn giá trị, các bộ phận quý giá cũng đã bị cướp sạch từ lâu.</AncientPodCar.description>
+<AncientPostbox.label>Hòm thư cổ xưa</AncientPostbox.label>
+<AncientPostbox.description>Một hòm thư cũ kỹ. Có vẻ như nó đã được mang đến đây vì một lý do không rõ từ rất lâu trước đây.</AncientPostbox.description>
+<AncientRazorWire.label>Hàng rào dây thép cổ xưa</AncientRazorWire.label>
+<AncientRazorWire.description>Một mảnh hàng rào dây thép cũ kỹ. Nó đã rỉ sét nghiêm trọng và không còn gây ra bất kỳ mối đe dọa nào.</AncientRazorWire.description>
+<AncientRefrigerator.label>Tủ lạnh cổ xưa</AncientRefrigerator.label>
+<AncientRefrigerator.description>Một chiếc tủ lạnh cũ kỹ. Nó đã mất đi những bộ phận thực sự hấp dẫn từ lâu.</AncientRefrigerator.description>
+<AncientRustedCar.label>Xe cổ xưa</AncientRustedCar.label>
+<AncientRustedCar.description>Một chiếc xe nhỏ cũ kỹ. Nó đã rỉ sét nghiêm trọng, các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientRustedCar.description>
+<AncientRustedCarFrame.label>Khung xe cổ xưa</AncientRustedCarFrame.label>
+<AncientRustedCarFrame.description>Một khung xe cũ kỹ. Thân xe đã rỉ sét đến mức không còn giá trị.</AncientRustedCarFrame.description>
+<AncientRustedDropship.label>Tàu đổ bộ cổ xưa</AncientRustedDropship.label>
+<AncientRustedDropship.description>Di tích của một tàu đổ bộ cổ xưa. Các bộ phận quý giá đã bị cướp sạch từ lâu, phần còn lại đã lão hóa đến mức không còn giá trị.</AncientRustedDropship.description>
+<AncientRustedEngineBlock.label>Bộ động cơ rỉ sét cổ xưa</AncientRustedEngineBlock.label>
+<AncientRustedEngineBlock.description>Một khối động cơ cổ xưa đã rỉ sét. Nó đã rỉ sét nghiêm trọng, tất cả các bộ phận chức năng đã biến mất và không thể sửa chữa.</AncientRustedEngineBlock.description>
+<AncientRustedJeep.label>Xe jeep cổ xưa</AncientRustedJeep.label>
+<AncientRustedJeep.description>Một chiếc xe jeep cổ xưa. Nó đã rỉ sét nghiêm trọng, các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientRustedJeep.description>
+<AncientRustedTruck.label>Xe tải cổ xưa</AncientRustedTruck.label>
+<AncientRustedTruck.description>Một chiếc xe tải cổ xưa và cũ kỹ. Tất cả những thứ hữu ích đã hoặc là rỉ sét, hoặc đã bị cướp sạch từ lâu.</AncientRustedTruck.description>
+<AncientSecurityTurret.label>Tháp súng bảo vệ cổ xưa</AncientSecurityTurret.label>
+<AncientSecurityTurret.description>Một tháp súng tự vệ cổ xưa. Nó đã rỉ sét nghiêm trọng, các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientSecurityTurret.description>
+<AncientShipBeacon.label>Đèn hiệu hàng hải cổ xưa</AncientShipBeacon.label>
+<AncientShipBeacon.description>Một đèn hiệu hàng hải cổ xưa. Nó đã rỉ sét nghiêm trọng, các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientShipBeacon.description>
+<AncientShoppingCart.label>Xe đẩy cổ xưa</AncientShoppingCart.label>
+<AncientShoppingCart.description>Một chiếc xe đẩy cũ kỹ. Không ai biết nó đã đến đây như thế nào, nhưng hành trình trước đó chắc chắn là một câu chuyện dài, có thể còn rất buồn.</AncientShoppingCart.description>
+<AncientSmallCrate.label>Hòm chứa nhỏ cổ xưa</AncientSmallCrate.label>
+<AncientSmallCrate.description>Một hòm chứa nhỏ cũ kỹ. Nó đã rỉ sét nghiêm trọng, không còn khả năng lưu trữ bất kỳ thứ gì.</AncientSmallCrate.description>
+<AncientStove.label>Bếp cổ xưa</AncientStove.label>
+<AncientStove.description>Một bếp cũ kỹ. Nó đã rỉ sét nghiêm trọng và đã không còn hoạt động.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientStove.description>
+<AncientTank.label>Di tích xe tăng cổ xưa</AncientTank.label>
+<AncientTank.description>Di tích của một chiếc xe tăng cổ xưa bị phá hủy bởi một loại vũ khí hạng nặng. Di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientTank.description>
+<AncientTankTrap.label>Bẫy xe tăng cổ xưa</AncientTankTrap.label>
+<AncientTankTrap.description>Công sự phòng thủ này được sử dụng để chặn phương tiện đã bị xâm thực qua nhiều năm.</AncientTankTrap.description>
+<AncientToilet.label>Nhà vệ sinh cổ xưa</AncientToilet.label>
+<AncientToilet.description>Một nhà vệ sinh cổ xưa. Nó đã bị phá hủy từ lâu và hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientToilet.description>
+<AncientVendingMachine.label>Máy bán hàng tự động cổ xưa</AncientVendingMachine.label>
+<AncientVendingMachine.description>Một máy bán hàng tự động cũ kỹ. Nó đã rỉ sét nghiêm trọng, tất cả các bộ phận chức năng đã biến mất. Tại sao nó lại ở đây vẫn là một bí ẩn.</AncientVendingMachine.description>
+<AncientWarspiderRemains.label>Di tích nhện chiến tranh cổ xưa</AncientWarspiderRemains.label>
+<AncientWarspiderRemains.description>Di tích của một nhện chiến tranh cổ xưa. Di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientWarspiderRemains.description>
+<AncientWarwalkerClaw.label>Móng vuốt chiến xa cổ xưa</AncientWarwalkerClaw.label>
+<AncientWarwalkerClaw.description>Móng vuốt của chiến xa cổ xưa. Vũ khí này chuyên dùng để xé toạc giáp dày từ cự ly gần. Các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientWarwalkerClaw.description>
+<AncientWarwalkerFoot.label>Chân của chiến xa cổ xưa</AncientWarwalkerFoot.label>
+<AncientWarwalkerFoot.description>Chân của chiến xa cổ xưa. Nó có vẻ đã bị một loại vũ khí hạng nặng xé ra khỏi vị trí ban đầu. Các bộ phận quý giá đã bị cướp sạch từ lâu.</AncientWarwalkerFoot.description>
+<AncientWarwalkerLeg.label>Chân của chiến xa cổ xưa</AncientWarwalkerLeg.label>
+<AncientWarwalkerLeg.description>Chân của chiến xa cổ xưa. Nó đã rỉ sét từ lâu, và di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientWarwalkerLeg.description>
+<AncientWarwalkerShell.label>Vỏ giáp của chiến xa cổ xưa</AncientWarwalkerShell.label>
+<AncientWarwalkerShell.description>Vỏ giáp của chiến xa cổ xưa. Nó có vẻ đã bị một loại vũ khí hạng nặng xé ra khỏi vị trí ban đầu. Nó đã rỉ sét nghiêm trọng, và di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientWarwalkerShell.description>
+<AncientWarwalkerTorso.label>Thân của chiến xa cổ xưa</AncientWarwalkerTorso.label>
+<AncientWarwalkerTorso.description>Thân của chiến xa cổ xưa. Nó đã rỉ sét từ lâu, và di tích còn lại sau khi bị phá hủy đã bị cướp sạch từ lâu.</AncientWarwalkerTorso.description>
+<AncientWashingMachine.label>Máy giặt cổ xưa</AncientWashingMachine.label>
+<AncientWashingMachine.description>Một thiết bị cổ xưa dùng để giặt vải. Nó đã rỉ sét và biến dạng, hiện hoàn toàn không còn giá trị.\n\nRất khó để nói rõ tại sao nó lại ở đây.</AncientWashingMachine.description>
+<AncientWheel.label>Bánh xe cổ xưa</AncientWheel.label>
+<AncientWheel.description>Một bánh xe cổ xưa đã rỉ sét, có thể đã rơi ra từ một phương tiện lớn nhiều năm trước. Cao su đã bị phân hủy theo thời gian dài, chỉ còn lại bánh xe méo mó và rỉ sét này.</AncientWheel.description>
+</LanguageData>

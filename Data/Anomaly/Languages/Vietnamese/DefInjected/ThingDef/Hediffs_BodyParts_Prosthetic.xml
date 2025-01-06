@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AdrenalHeart.label>Trái tim hormone</AdrenalHeart.label>
+	<AdrenalHeart.description>Chiếc giả kim loại đặc biệt này có thể làm cho xác sống gia tăng hormone, tăng cường tuần hoàn, trao đổi chất mạnh mẽ và khao khát thức ăn, bùng nổ khả năng di chuyển và tấn công đáng kinh ngạc trong thời gian ngắn.\n\nDo giả kim loại này mang lại cơn đau lớn cho người cấy ghép, chỉ có xác sống mới có thể chịu được sự tăng cường này.</AdrenalHeart.description>
+	<CorrosiveHeart.label>Trái tim axit</CorrosiveHeart.label>
+	<CorrosiveHeart.description>Chiếc giả kim loại đặc biệt này biến đổi một buồng tim của xác sống thành một cơ quan tiết ra axit mạnh, cho phép người được cải tạo phun ra axit ăn mòn từ miệng.\n\nDo giả kim loại này mang lại cơn đau lớn cho người cấy ghép, chỉ có xác sống mới có thể chịu được sự tăng cường này.</CorrosiveHeart.description>
+	<GhoulBarbs.label>Cọc móc xác sống</GhoulBarbs.label>
+	<GhoulBarbs.description>Các cọc móc hình dạng giống như gai được làm từ kim loại, có thể được cấy ghép vào xác sống và tăng cường đáng kể sát thương cận chiến, nhưng cũng hạn chế phạm vi di chuyển của người được cải tạo, làm chậm tốc độ.\n\nDo giả kim loại này mang lại cơn đau lớn cho người cấy ghép, chỉ có xác sống mới có thể chịu được sự tăng cường này.</GhoulBarbs.description>
+	<GhoulPlating.label>Bảng bảo vệ xác sống</GhoulPlating.label>
+	<GhoulPlating.description>Bảng bảo vệ này được làm từ kim loại, có thể được cấy ghép vào xác sống, bảo vệ các bộ phận yếu ớt, giảm đáng kể sát thương nhận được, nhưng cũng làm chậm tốc độ của người được cải tạo.\n\nDo giả kim loại này mang lại cơn đau lớn cho người cấy ghép, chỉ có xác sống mới có thể chịu được sự tăng cường này.</GhoulPlating.description>
+	<MetalbloodHeart.label>Trái tim máu thép</MetalbloodHeart.label>
+	<MetalbloodHeart.description>Chiếc giả kim loại đặc biệt này có thể bơm một lượng nhỏ máu thép vào máu của xác sống, giúp nó có thể chống chịu nhiều sát thương hơn trong thời gian ngắn, nhưng gây ra hiện tượng phù nề lớn và làm chậm tốc độ di chuyển, đồng thời khiến nó trở nên yếu hơn khi đối mặt với lửa.\n\nDo giả kim loại này mang lại cơn đau lớn cho người cấy ghép, chỉ có xác sống mới có thể chịu được sự tăng cường này.</MetalbloodHeart.description>
+	<RevenantVertebrae.label>Cột sống hồn ma</RevenantVertebrae.label>
+	<RevenantVertebrae.description>Giả kim loại này cho phép người cấy ghép tạm thời trở nên vô hình. Nó được chế tạo từ cột sống của hồn ma và sử dụng mảnh vụn siêu phàm tối tăm để kiềm chế hồn ma bên trong. Người cấy ghép có thể điều khiển trung tâm thị giác của các đơn vị xung quanh, tạm thời khiến bản thân trở nên vô hình hiệu quả.</RevenantVertebrae.description>
+	<UnfinishedHealthItemGhoul.label>Giả kim loại xác sống chưa hoàn thiện</UnfinishedHealthItemGhoul.label>
+	<UnfinishedHealthItemGhoul.description>Một giả kim loại xác sống chưa hoàn thiện.</UnfinishedHealthItemGhoul.description>
+</LanguageData>

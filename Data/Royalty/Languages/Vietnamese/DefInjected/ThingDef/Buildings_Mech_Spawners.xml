@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MechAssembler.label>Máy lắp ráp cơ khí</MechAssembler.label>
+<MechAssembler.description>Nhà máy cơ khí tự động hóa. Nó sẽ định kỳ lắp ráp và triển khai các cơ khí mới.</MechAssembler.description>
+<MechCapsule.label>Buồng cơ khí</MechCapsule.label>
+<MechCapsule.description>Một buồng không vận có khả năng triển khai các cơ khí đã lưu trữ. Nó có thể chứa nhiều cơ khí, đã sẵn sàng để được đánh thức trong trận chiến.</MechCapsule.description>
+<MechDropBeacon.label>Đèn hiệu thả cơ khí</MechDropBeacon.label>
+<MechDropBeacon.description>Một đèn hiệu thả cơ khí đã được gia cố. Khi được kích hoạt, nó sẽ gọi một nhóm cơ khí hạ cánh bằng phương pháp thả.</MechDropBeacon.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GaveGift.label>Tặng quà</GaveGift.label>
+	<PeaceTalksBackfire.label>Đàm phán hòa bình thất bại</PeaceTalksBackfire.label>
+	<PeaceTalksDisaster.label>Đàm phán hòa bình thảm họa</PeaceTalksDisaster.label>
+	<PeaceTalksSuccess.label>Đàm phán hòa bình thành công</PeaceTalksSuccess.label>
+	<PeaceTalksTriumph.label>Đàm phán hòa bình hoàn hảo</PeaceTalksTriumph.label>
+	<RequestedMilitaryAid.label>Đã yêu cầu hỗ trợ quân sự</RequestedMilitaryAid.label>
+	<RequestedTrader.label>Đã yêu cầu thương nhân</RequestedTrader.label>
+	<Traded.label>Giao dịch</Traded.label>
+</LanguageData>

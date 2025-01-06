@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Boomrat.label>Chuột Nổ</Boomrat.label>
+  <Boomrat.labelFemale>Chuột Nổ cái</Boomrat.labelFemale>
+  <Boomrat.labelFemalePlural>Chuột Nổ cái</Boomrat.labelFemalePlural>
+  <Boomrat.labelMale>Chuột Nổ đực</Boomrat.labelMale>
+  <Boomrat.labelMalePlural>Chuột Nổ đực</Boomrat.labelMalePlural>
+  <Boomrat.labelPlural>Chuột Nổ</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>Chuột Nổ con non</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.0.labelFemale>Chuột Nổ con non</Boomrat.lifeStages.0.labelFemale>
+  <Boomrat.lifeStages.0.labelFemalePlural>Chuột Nổ con non</Boomrat.lifeStages.0.labelFemalePlural>
+  <Boomrat.lifeStages.0.labelMale>Chuột Nổ con non</Boomrat.lifeStages.0.labelMale>
+  <Boomrat.lifeStages.0.labelMalePlural>Chuột Nổ con non</Boomrat.lifeStages.0.labelMalePlural>
+  <Boomrat.lifeStages.0.labelPlural>Chuột Nổ con non</Boomrat.lifeStages.0.labelPlural>
+  <Boomrat.lifeStages.1.label>Chuột Nổ mới lớn</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.1.labelFemale>Chuột Nổ mới lớn cái</Boomrat.lifeStages.1.labelFemale>
+  <Boomrat.lifeStages.1.labelFemalePlural>Chuột Nổ mới lớn cái</Boomrat.lifeStages.1.labelFemalePlural>
+  <Boomrat.lifeStages.1.labelMale>Chuột Nổ mới lớn đực</Boomrat.lifeStages.1.labelMale>
+  <Boomrat.lifeStages.1.labelMalePlural>Chuột Nổ mới lớn đực</Boomrat.lifeStages.1.labelMalePlural>
+  <Boomrat.lifeStages.1.labelPlural>Chuột Nổ mới lớn</Boomrat.lifeStages.1.labelPlural>
+  <Boomrat.lifeStages.2.label>Chuột Nổ</Boomrat.lifeStages.2.label>
+  <Boomrat.lifeStages.2.labelFemale>Chuột Nổ cái</Boomrat.lifeStages.2.labelFemale>
+  <Boomrat.lifeStages.2.labelFemalePlural>Chuột Nổ cái</Boomrat.lifeStages.2.labelFemalePlural>
+  <Boomrat.lifeStages.2.labelMale>Chuột Nổ đực</Boomrat.lifeStages.2.labelMale>
+  <Boomrat.lifeStages.2.labelMalePlural>Chuột Nổ đực</Boomrat.lifeStages.2.labelMalePlural>
+  <Boomrat.lifeStages.2.labelPlural>Chuột Nổ</Boomrat.lifeStages.2.labelPlural>
+  <Iguana.label>Thằn Lằn</Iguana.label>
+  <Iguana.labelFemale>Thằn Lằn cái</Iguana.labelFemale>
+  <Iguana.labelFemalePlural>Thằn Lằn cái</Iguana.labelFemalePlural>
+  <Iguana.labelMale>Thằn Lằn đực</Iguana.labelMale>
+  <Iguana.labelMalePlural>Thằn Lằn đực</Iguana.labelMalePlural>
+  <Iguana.labelPlural>Thằn Lằn</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>Thằn Lằn con non</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelFemale>Thằn Lằn con non</Iguana.lifeStages.0.labelFemale>
+  <Iguana.lifeStages.0.labelFemalePlural>Thằn Lằn con non</Iguana.lifeStages.0.labelFemalePlural>
+  <Iguana.lifeStages.0.labelMale>Thằn Lằn con non</Iguana.lifeStages.0.labelMale>
+  <Iguana.lifeStages.0.labelMalePlural>Thằn Lằn con non</Iguana.lifeStages.0.labelMalePlural>
+  <Iguana.lifeStages.0.labelPlural>Thằn Lằn con non</Iguana.lifeStages.0.labelPlural>
+  <Iguana.lifeStages.1.label>Thằn Lằn mới lớn</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.1.labelFemale>Thằn Lằn mới lớn cái</Iguana.lifeStages.1.labelFemale>
+  <Iguana.lifeStages.1.labelFemalePlural>Thằn Lằn mới lớn cái</Iguana.lifeStages.1.labelFemalePlural>
+  <Iguana.lifeStages.1.labelMale>Thằn Lằn mới lớn đực</Iguana.lifeStages.1.labelMale>
+  <Iguana.lifeStages.1.labelMalePlural>Thằn Lằn mới lớn đực</Iguana.lifeStages.1.labelMalePlural>
+  <Iguana.lifeStages.1.labelPlural>Thằn Lằn mới lớn</Iguana.lifeStages.1.labelPlural>
+  <Iguana.lifeStages.2.label>Thằn Lằn</Iguana.lifeStages.2.label>
+  <Iguana.lifeStages.2.labelFemale>Thằn Lằn cái</Iguana.lifeStages.2.labelFemale>
+  <Iguana.lifeStages.2.labelFemalePlural>Thằn Lằn cái</Iguana.lifeStages.2.labelFemalePlural>
+  <Iguana.lifeStages.2.labelMale>Thằn Lằn đực</Iguana.lifeStages.2.labelMale>
+  <Iguana.lifeStages.2.labelMalePlural>Thằn Lằn đực</Iguana.lifeStages.2.labelMalePlural>
+  <Iguana.lifeStages.2.labelPlural>Thằn Lằn</Iguana.lifeStages.2.labelPlural>
+  <Raccoon.label>Gấu Mèo</Raccoon.label>
+  <Raccoon.labelFemale>Gấu Mèo cái</Raccoon.labelFemale>
+  <Raccoon.labelFemalePlural>Gấu Mèo cái</Raccoon.labelFemalePlural>
+  <Raccoon.labelMale>Gấu Mèo đực</Raccoon.labelMale>
+  <Raccoon.labelMalePlural>Gấu Mèo đực</Raccoon.labelMalePlural>
+  <Raccoon.labelPlural>Gấu Mèo</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>Gấu Mèo con non</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.0.labelFemale>Gấu Mèo con non</Raccoon.lifeStages.0.labelFemale>
+  <Raccoon.lifeStages.0.labelFemalePlural>Gấu Mèo con non</Raccoon.lifeStages.0.labelFemalePlural>
+  <Raccoon.lifeStages.0.labelMale>Gấu Mèo con non</Raccoon.lifeStages.0.labelMale>
+  <Raccoon.lifeStages.0.labelMalePlural>Gấu Mèo con non</Raccoon.lifeStages.0.labelMalePlural>
+  <Raccoon.lifeStages.0.labelPlural>Gấu Mèo con non</Raccoon.lifeStages.0.labelPlural>
+  <Raccoon.lifeStages.1.label>Gấu Mèo mới lớn</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.1.labelFemale>Gấu Mèo mới lớn cái</Raccoon.lifeStages.1.labelFemale>
+  <Raccoon.lifeStages.1.labelFemalePlural>Gấu Mèo mới lớn cái</Raccoon.lifeStages.1.labelFemalePlural>
+  <Raccoon.lifeStages.1.labelMale>Gấu Mèo mới lớn đực</Raccoon.lifeStages.1.labelMale>
+  <Raccoon.lifeStages.1.labelMalePlural>Gấu Mèo mới lớn đực</Raccoon.lifeStages.1.labelMalePlural>
+  <Raccoon.lifeStages.1.labelPlural>Gấu Mèo mới lớn</Raccoon.lifeStages.1.labelPlural>
+  <Raccoon.lifeStages.2.label>Gấu Mèo</Raccoon.lifeStages.2.label>
+  <Raccoon.lifeStages.2.labelFemale>Gấu Mèo cái</Raccoon.lifeStages.2.labelFemale>
+  <Raccoon.lifeStages.2.labelFemalePlural>Gấu Mèo cái</Raccoon.lifeStages.2.labelFemalePlural>
+  <Raccoon.lifeStages.2.labelMale>Gấu Mèo đực</Raccoon.lifeStages.2.labelMale>
+  <Raccoon.lifeStages.2.labelMalePlural>Gấu Mèo đực</Raccoon.lifeStages.2.labelMalePlural>
+  <Raccoon.lifeStages.2.labelPlural>Gấu Mèo</Raccoon.lifeStages.2.labelPlural>
+  <Rat.label>Chuột</Rat.label>
+  <Rat.labelFemale>Chuột cái</Rat.labelFemale>
+  <Rat.labelFemalePlural>Chuột cái</Rat.labelFemalePlural>
+  <Rat.labelMale>Chuột đực</Rat.labelMale>
+  <Rat.labelMalePlural>Chuột đực</Rat.labelMalePlural>
+  <Rat.labelPlural>Chuột</Rat.labelPlural>
+  <Rat.lifeStages.0.label>Chuột con non</Rat.lifeStages.0.label>
+  <Rat.lifeStages.0.labelFemale>Chuột con non</Rat.lifeStages.0.labelFemale>
+  <Rat.lifeStages.0.labelFemalePlural>Chuột con non</Rat.lifeStages.0.labelFemalePlural>
+  <Rat.lifeStages.0.labelMale>Chuột con non</Rat.lifeStages.0.labelMale>
+  <Rat.lifeStages.0.labelMalePlural>Chuột con non</Rat.lifeStages.0.labelMalePlural>
+  <Rat.lifeStages.0.labelPlural>Chuột con non</Rat.lifeStages.0.labelPlural>
+  <Rat.lifeStages.1.label>Chuột mới lớn</Rat.lifeStages.1.label>
+  <Rat.lifeStages.1.labelFemale>Chuột mới lớn cái</Rat.lifeStages.1.labelFemale>
+  <Rat.lifeStages.1.labelFemalePlural>Chuột mới lớn cái</Rat.lifeStages.1.labelFemalePlural>
+  <Rat.lifeStages.1.labelMale>Chuột mới lớn đực</Rat.lifeStages.1.labelMale>
+  <Rat.lifeStages.1.labelMalePlural>Chuột mới lớn đực</Rat.lifeStages.1.labelMalePlural>
+  <Rat.lifeStages.1.labelPlural>Chuột mới lớn</Rat.lifeStages.1.labelPlural>
+  <Rat.lifeStages.2.label>Chuột</Rat.lifeStages.2.label>
+  <Rat.lifeStages.2.labelFemale>Chuột cái</Rat.lifeStages.2.labelFemale>
+  <Rat.lifeStages.2.labelFemalePlural>Chuột cái</Rat.lifeStages.2.labelFemalePlural>
+  <Rat.lifeStages.2.labelMale>Chuột đực</Rat.lifeStages.2.labelMale>
+  <Rat.lifeStages.2.labelMalePlural>Chuột đực</Rat.lifeStages.2.labelMalePlural>
+  <Rat.lifeStages.2.labelPlural>Chuột</Rat.lifeStages.2.labelPlural>
+  <Squirrel.label>Sóc</Squirrel.label>
+  <Squirrel.labelFemale>Sóc cái</Squirrel.labelFemale>
+  <Squirrel.labelFemalePlural>Sóc cái</Squirrel.labelFemalePlural>
+  <Squirrel.labelMale>Sóc đực</Squirrel.labelMale>
+  <Squirrel.labelMalePlural>Sóc đực</Squirrel.labelMalePlural>
+  <Squirrel.labelPlural>Sóc</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>Sóc con non</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.0.labelFemale>Sóc con non</Squirrel.lifeStages.0.labelFemale>
+  <Squirrel.lifeStages.0.labelFemalePlural>Sóc con non</Squirrel.lifeStages.0.labelFemalePlural>
+  <Squirrel.lifeStages.0.labelMale>Sóc con non</Squirrel.lifeStages.0.labelMale>
+  <Squirrel.lifeStages.0.labelMalePlural>Sóc con non</Squirrel.lifeStages.0.labelMalePlural>
+  <Squirrel.lifeStages.0.labelPlural>Sóc con non</Squirrel.lifeStages.0.labelPlural>
+  <Squirrel.lifeStages.1.label>Sóc mới lớn</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.1.labelFemale>Sóc mới lớn cái</Squirrel.lifeStages.1.labelFemale>
+  <Squirrel.lifeStages.1.labelFemalePlural>Sóc mới lớn cái</Squirrel.lifeStages.1.labelFemalePlural>
+  <Squirrel.lifeStages.1.labelMale>Sóc mới lớn đực</Squirrel.lifeStages.1.labelMale>
+  <Squirrel.lifeStages.1.labelMalePlural>Sóc mới lớn đực</Squirrel.lifeStages.1.labelMalePlural>
+  <Squirrel.lifeStages.1.labelPlural>Sóc mới lớn</Squirrel.lifeStages.1.labelPlural>
+  <Squirrel.lifeStages.2.label>Sóc</Squirrel.lifeStages.2.label>
+  <Squirrel.lifeStages.2.labelFemale>Sóc cái</Squirrel.lifeStages.2.labelFemale>
+  <Squirrel.lifeStages.2.labelFemalePlural>Sóc cái</Squirrel.lifeStages.2.labelFemalePlural>
+  <Squirrel.lifeStages.2.labelMale>Sóc đực</Squirrel.lifeStages.2.labelMale>
+  <Squirrel.lifeStages.2.labelMalePlural>Sóc đực</Squirrel.lifeStages.2.labelMalePlural>
+  <Squirrel.lifeStages.2.labelPlural>Sóc</Squirrel.lifeStages.2.labelPlural>
+</LanguageData>

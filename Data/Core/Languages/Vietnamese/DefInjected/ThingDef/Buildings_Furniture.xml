@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnimalBed.label>Giường cho động vật</AnimalBed.label>
+	<AnimalBed.description>Một chiếc giường mềm mại dành cho động vật ngủ. Phù hợp với mọi loại động vật.</AnimalBed.description>
+	<AnimalSleepingBox.label>Hộp ngủ cho động vật</AnimalSleepingBox.label>
+	<AnimalSleepingBox.description>Một chiếc hộp nhỏ dành cho động vật ngủ. Phù hợp với động vật nhỏ, như gà, mèo hoặc chó con.</AnimalSleepingBox.description>
+	<AnimalSleepingSpot.label>Nơi ngủ cho động vật</AnimalSleepingSpot.label>
+	<AnimalSleepingSpot.description>Chỉ định một vị trí trên mặt đất để động vật ngủ.</AnimalSleepingSpot.description>
+	<Armchair.label>Ghế bành</Armchair.label>
+	<Armchair.description>Một chiếc ghế rất lớn, mềm mại và thoải mái, rất thích hợp để thư giãn. Có thể sử dụng gần bàn ăn và bàn làm việc hoặc những nơi khác.</Armchair.description>
+	<Bed.label>Giường đơn</Bed.label>
+	<Bed.description>Một chiếc giường đơn, được trải đệm và ga trải giường thoải mái để nghỉ ngơi.</Bed.description>
+	<Bedroll.label>Túi ngủ</Bedroll.label>
+	<Bedroll.description>Túi ngủ trải trên mặt đất, thường được may bằng vải hoặc da, hoặc dệt từ lông động vật. Nhẹ nhàng, có thể cuộn lại để dễ dàng vận chuyển, nhưng thực sự không thoải mái bằng giường truyền thống. Đoàn du lịch có thể sử dụng túi ngủ để nâng cao hiệu quả nghỉ ngơi.</Bedroll.description>
+	<BedrollDouble.label>Túi ngủ đôi</BedrollDouble.label>
+	<BedrollDouble.description>Túi ngủ trải trên mặt đất, thường được may bằng vải hoặc da, hoặc dệt từ lông động vật. Nhẹ nhàng, có thể cuộn lại để dễ dàng vận chuyển, nhưng thực sự không thoải mái bằng giường truyền thống. Đoàn du lịch có thể sử dụng túi ngủ để nâng cao hiệu quả nghỉ ngơi.</BedrollDouble.description>
+	<Bookcase.label>Tủ sách</Bookcase.label>
+	<Bookcase.description>Một tủ sách rộng rãi, có thể chứa tối đa mười cuốn sách. Các cuốn sách được lưu trữ bên trong có thể cung cấp thêm cho công việc trí thức xung quanh và tăng tính thẩm mỹ của tủ sách, và sẽ không bao giờ bị lão hóa.</Bookcase.description>
+	<BookcaseSmall.label>Tủ sách nhỏ</BookcaseSmall.label>
+	<BookcaseSmall.description>Một tủ sách hẹp, có thể chứa tối đa năm cuốn sách. Các cuốn sách được lưu trữ bên trong có thể cung cấp thêm cho công việc trí thức xung quanh và tăng tính thẩm mỹ của tủ sách, và sẽ không bao giờ bị lão hóa.</BookcaseSmall.description>
+	<Couch.label>Sofa</Couch.label>
+	<Couch.description>Một chiếc ghế đôi rộng rãi, có đệm mềm, rất thoải mái. Là sự kết hợp lý tưởng cho phòng giải trí sang trọng hoặc phòng đọc ấm cúng.</Couch.description>
+	<DiningChair.label>Ghế ăn</DiningChair.label>
+	<DiningChair.description>Một chiếc ghế trông rất thoải mái và dễ thương. Có thể sử dụng gần bàn ăn và bàn làm việc hoặc những nơi khác.</DiningChair.description>
+	<DoubleBed.label>Giường đôi thông thường</DoubleBed.label>
+	<DoubleBed.description>Một chiếc giường đôi thông thường phù hợp cho hai người sử dụng.</DoubleBed.description>
+	<DoubleSleepingSpot.label>Nơi ngủ đôi</DoubleSleepingSpot.label>
+	<DoubleSleepingSpot.description>Chỉ định một vị trí trên mặt đất dành cho hai người ngủ cùng nhau. Rất không thoải mái.</DoubleSleepingSpot.description>
+	<Dresser.label>Giá thấp</Dresser.label>
+	<Dresser.description>Giá thấp bên cạnh giường. Cung cấp một chút thoải mái cho tất cả các giường bên cạnh. Đặt nhiều giá thấp bên cạnh cùng một giường sẽ không tạo ra hiệu ứng chồng chất.</Dresser.description>
+	<EndTable.label>Bàn đầu giường</EndTable.label>
+	<EndTable.description>Một chiếc bàn nhỏ bên cạnh giường. Có thể tăng thêm một chút thoải mái cho giường bên cạnh. Phải được đặt ở vị trí liền kề với đầu giường. Đặt nhiều bàn đầu giường bên cạnh cùng một giường sẽ không tạo ra hiệu ứng chồng chất.</EndTable.description>
+	<FloodLight.label>Đèn chiếu sáng</FloodLight.label>
+	<FloodLight.description>Thiết bị chiếu sáng độ sáng cao phù hợp cho không gian ngoài trời lớn.</FloodLight.description>
+	<HospitalBed.label>Giường bệnh</HospitalBed.label>
+	<HospitalBed.description>Một chiếc giường được thiết kế đặc biệt cho bệnh nhân. Có thiết bị tích hợp có thể nâng cao chất lượng điều trị, tỷ lệ thành công của phẫu thuật và các thuộc tính khác.</HospitalBed.description>
+	<PlantPot.label>Chậu cây</PlantPot.label>
+	<PlantPot.description>Trồng những bông hoa trang trí để nâng cao tâm trạng của những người xung quanh.</PlantPot.description>
+	<RoyalBed.label>Giường đôi sang trọng</RoyalBed.label>
+	<RoyalBed.description>Một chiếc giường sang trọng được trang trí bằng vàng dành cho giới quý tộc. Rất thoải mái và đẹp đẽ. Nó tự bản thân là một tác phẩm nghệ thuật. Phù hợp cho hai người.</RoyalBed.description>
+	<Shelf.label>Kệ đồ</Shelf.label>
+	<Shelf.description>Một kệ ba tầng, có thể chứa gấp ba lần không gian trống. Các vật phẩm được lưu trữ bên trong sẽ không bao giờ lão hóa và cũng không ảnh hưởng đến tính thẩm mỹ của môi trường xung quanh.\n\nDo không gian hạn chế, kệ đồ không thể chứa các khối, công trình, thực vật và xác chết lớn.</Shelf.description>
+	<ShelfSmall.label>Kệ đồ nhỏ</ShelfSmall.label>
+	<ShelfSmall.description>Một kệ ba tầng, có thể chứa gấp ba lần không gian trống. Các vật phẩm được lưu trữ bên trong sẽ không bao giờ lão hóa và cũng không ảnh hưởng đến tính thẩm mỹ của môi trường xung quanh.\n\nDo không gian hạn chế, kệ đồ không thể chứa các khối, công trình, thực vật và xác chết lớn.</ShelfSmall.description>
+	<SleepingSpot.label>Nơi ngủ</SleepingSpot.label>
+	<SleepingSpot.description>Chỉ định một vị trí trên mặt đất để người ngủ. Rất không thoải mái.</SleepingSpot.description>
+	<StandingLamp.label>Đèn đứng</StandingLamp.label>
+	<StandingLamp.description>Đèn đứng chiếu sáng một khu vực. Mọi người cần có ánh sáng để làm việc và di chuyển với tốc độ tối đa.</StandingLamp.description>
+	<Stool.label>Ghế đẩu</Stool.label>
+	<Stool.description>Ghế đẩu đơn giản cho người ngồi. Không thoải mái lắm, nhưng tốt hơn là không có gì. Có thể sử dụng gần bàn ăn và bàn làm việc hoặc những nơi khác.</Stool.description>
+	<SunLamp.label>Đèn mặt trời</SunLamp.label>
+	<SunLamp.description>Đèn chiếu sáng một khu vực đủ để trồng cây, nhưng cần tiêu tốn nhiều điện năng. Tự động tắt vào ban đêm.</SunLamp.description>
+	<SunLamp.comps.CompSchedule.offMessage>Tắt trong thời gian thực vật ngủ.</SunLamp.comps.CompSchedule.offMessage>
+	<Table1x2c.label>Bàn (1x2)</Table1x2c.label>
+	<Table1x2c.description>Khi có ghế hướng về phía bàn, mọi người sẽ ăn trên đó.</Table1x2c.description>
+	<Table2x2c.label>Bàn (2x2)</Table2x2c.label>
+	<Table2x2c.description>Khi có ghế hướng về phía bàn, mọi người sẽ ăn trên đó.</Table2x2c.description>
+	<Table2x4c.label>Bàn (2x4)</Table2x4c.label>
+	<Table2x4c.description>Khi có ghế hướng về phía bàn, mọi người sẽ ăn trên đó.</Table2x4c.description>
+	<Table3x3c.label>Bàn (3x3)</Table3x3c.label>
+	<Table3x3c.description>Khi có ghế hướng về phía bàn, mọi người sẽ ăn trên đó.</Table3x3c.description>
+	<TorchLamp.label>Đuốc</TorchLamp.label>
+	<TorchLamp.description>Đuốc gỗ chiếu sáng một khu vực. Mọi người cần có ánh sáng để làm việc và di chuyển với tốc độ tối đa. Cần thêm gỗ làm nhiên liệu. Tạo ra một lượng nhiệt nhỏ.</TorchLamp.description>
+	<TorchWallLamp.label>Đuốc treo tường</TorchWallLamp.label>
+	<TorchWallLamp.description>Đuốc treo tường bằng gỗ chiếu sáng một khu vực. Ánh sáng không bằng đuốc thông thường, nhưng có thể được lắp đặt trên tường. Cần thêm gỗ làm nhiên liệu. Tạo ra một lượng nhiệt nhỏ.</TorchWallLamp.description>
+	<WallLamp.label>Đèn tường</WallLamp.label>
+	<WallLamp.description>Đèn gắn tường sử dụng điện để chiếu sáng. Ánh sáng không bằng đèn đứng, nhưng có thể được lắp đặt trên tường.</WallLamp.description>
+</LanguageData>

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Monkey.label>Khỉ</Monkey.label>
+	<Monkey.corePart.parts.left_clavicle.customLabel>Xương đòn trái</Monkey.corePart.parts.left_clavicle.customLabel>
+	<Monkey.corePart.parts.right_clavicle.customLabel>Xương đòn phải</Monkey.corePart.parts.right_clavicle.customLabel>
+	<Monkey.corePart.parts.left_lung.customLabel>Phổi trái</Monkey.corePart.parts.left_lung.customLabel>
+	<Monkey.corePart.parts.right_lung.customLabel>Phổi phải</Monkey.corePart.parts.right_lung.customLabel>
+	<Monkey.corePart.parts.left_kidney.customLabel>Thận trái</Monkey.corePart.parts.left_kidney.customLabel>
+	<Monkey.corePart.parts.right_kidney.customLabel>Thận phải</Monkey.corePart.parts.right_kidney.customLabel>
+	<Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<Monkey.corePart.parts.left_shoulder.customLabel>Vai trái</Monkey.corePart.parts.left_shoulder.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>Cánh tay trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>Xương cánh tay trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>Xương quay trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>Bàn tay trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>Ngón út trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>Ngón đeo nhẫn trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>Ngón giữa trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>Ngón trỏ trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+	<Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>Ngón cái trái</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+	<Monkey.corePart.parts.right_shoulder.customLabel>Vai phải</Monkey.corePart.parts.right_shoulder.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>Cánh tay phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>Xương cánh tay phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Xương quay phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>Bàn tay phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>Ngón út phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>Ngón đeo nhẫn phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>Ngón giữa phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>Ngón trỏ phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+	<Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>Ngón cái phải</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+	<Monkey.corePart.parts.left_leg.customLabel>Chân trái</Monkey.corePart.parts.left_leg.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>Xương đùi trái</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>Xương ống chân trái</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>Chân trái</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>Ngón út trái</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Ngón thứ tư trái</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>Ngón giữa trái</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Ngón thứ hai trái</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+	<Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>Ngón cái trái</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+	<Monkey.corePart.parts.right_leg.customLabel>Chân phải</Monkey.corePart.parts.right_leg.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>Xương đùi phải</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>Xương ống chân phải</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>Chân phải</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>Ngón út phải</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Ngón thứ tư phải</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>Ngón giữa phải</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Ngón thứ hai phải</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+	<Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>Ngón cái phải</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.label>Động vật bốn chân</QuadrupedAnimalWithClawsTailAndJowl.label>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>Móng vuốt đầu tiên chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>Móng vuốt thứ hai chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>Móng vuốt thứ ba chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>Móng vuốt thứ tư chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>Móng vuốt cuối chân trước trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>Móng vuốt đầu tiên chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>Móng vuốt thứ hai chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>Móng vuốt thứ ba chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>Móng vuốt thứ tư chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>Móng vuốt cuối chân trước phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>Móng vuốt đầu tiên chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>Móng vuốt thứ hai chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>Móng vuốt thứ ba chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>Móng vuốt thứ tư chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>Móng vuốt cuối chân sau trái</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>Móng vuốt đầu tiên chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>Móng vuốt thứ hai chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>Móng vuốt thứ ba chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>Móng vuốt thứ tư chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+	<QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>Móng vuốt cuối chân sau phải</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+	<QuadrupedAnimalWithHooves.label>Động vật bốn chân có móng</QuadrupedAnimalWithHooves.label>
+	<QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Móng trước trái</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Móng trước phải</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Móng sau trái</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Móng sau phải</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.label>Động vật bốn chân có móng và sừng</QuadrupedAnimalWithHoovesAndHorn.label>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Móng trước trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Móng trước phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Móng sau trái</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Móng sau phải</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.label>Động vật bốn chân có móng và bướu</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Móng trước trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Móng trước phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Móng sau trái</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Móng sau phải</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.label>Động vật bốn chân có móng và ngà</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>Ngà trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>Ngà phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Móng trước trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Móng trước phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Móng sau trái</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Móng sau phải</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.label>Động vật bốn chân có móng và ngà, vòi</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>Ngà trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>Ngà phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>Móng trước trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>Móng trước phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>Móng sau trái</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>Móng sau phải</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+	<QuadrupedAnimalWithPaws.label>Động vật bốn chân có bàn chân</QuadrupedAnimalWithPaws.label>
+	<QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>Bàn chân trước trái</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>Bàn chân trước phải</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>Bàn chân sau trái</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>Bàn chân sau phải</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.label>Động vật bốn chân có bàn chân và đuôi</QuadrupedAnimalWithPawsAndTail.label>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>Phổi trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>Phổi phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>Thận trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>Thận phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Mắt trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Mắt phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Tai trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Tai phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>Chân trước trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>Bàn chân trước trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>Chân trước phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>Bàn chân trước phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>Chân sau trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>Bàn chân sau trái</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>Chân sau phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+	<QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>Bàn chân sau phải</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+	<TurtleLike.label>Động vật giống rùa</TurtleLike.label>
+	<TurtleLike.corePart.parts.left_lung.customLabel>Phổi trái</TurtleLike.corePart.parts.left_lung.customLabel>
+	<TurtleLike.corePart.parts.right_lung.customLabel>Phổi phải</TurtleLike.corePart.parts.right_lung.customLabel>
+	<TurtleLike.corePart.parts.left_kidney.customLabel>Thận trái</TurtleLike.corePart.parts.left_kidney.customLabel>
+	<TurtleLike.corePart.parts.right_kidney.customLabel>Thận phải</TurtleLike.corePart.parts.right_kidney.customLabel>
+	<TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>Mắt trái</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+	<TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>Mắt phải</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+	<TurtleLike.corePart.parts.front_left_leg.customLabel>Chân trước trái</TurtleLike.corePart.parts.front_left_leg.customLabel>
+	<TurtleLike.corePart.parts.front_right_leg.customLabel>Chân trước phải</TurtleLike.corePart.parts.front_right_leg.customLabel>
+	<TurtleLike.corePart.parts.rear_left_leg.customLabel>Chân sau trái</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+	<TurtleLike.corePart.parts.rear_right_leg.customLabel>Chân sau phải</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>

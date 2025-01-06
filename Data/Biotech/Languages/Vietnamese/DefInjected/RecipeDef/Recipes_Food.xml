@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Make_BabyFood.label>Chế biến thức ăn cho trẻ em</Make_BabyFood.label>
+<Make_BabyFood.description>Chế biến bột ăn chay dinh dưỡng cho trẻ em. Mặc dù chế biến số lượng lớn rất dễ, nhưng chỉ có trẻ em mới thích hương vị nhẹ nhàng và kết cấu nhão của nó.</Make_BabyFood.description>
+<Make_BabyFood.ingredients.0.filter.customSummary>Nguyên liệu chay</Make_BabyFood.ingredients.0.filter.customSummary>
+<Make_BabyFood.jobString>Đang chế biến thức ăn cho trẻ em.</Make_BabyFood.jobString>
+<Make_BabyFoodBulk.label>Chế biến thức ăn cho trẻ em x4</Make_BabyFoodBulk.label>
+<Make_BabyFoodBulk.description>Chế biến bột ăn chay dinh dưỡng cho trẻ em. Mặc dù chế biến số lượng lớn rất dễ, nhưng chỉ có trẻ em mới thích hương vị nhẹ nhàng và kết cấu nhão của nó.</Make_BabyFoodBulk.description>
+<Make_BabyFoodBulk.ingredients.0.filter.customSummary>Nguyên liệu chay</Make_BabyFoodBulk.ingredients.0.filter.customSummary>
+<Make_BabyFoodBulk.jobString>Đang chế biến thức ăn cho trẻ em.</Make_BabyFoodBulk.jobString>
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cassowary.label>Đà điểu Cassowary</Cassowary.label>
+	<Cassowary.labelFemale>Đà điểu Cassowary cái</Cassowary.labelFemale>
+	<Cassowary.labelFemalePlural>Đà điểu Cassowary cái</Cassowary.labelFemalePlural>
+	<Cassowary.labelMale>Đà điểu Cassowary đực</Cassowary.labelMale>
+	<Cassowary.labelMalePlural>Đà điểu Cassowary đực</Cassowary.labelMalePlural>
+	<Cassowary.labelPlural>Đà điểu Cassowary</Cassowary.labelPlural>
+	<Cassowary.lifeStages.0.label>Đà điểu Cassowary con</Cassowary.lifeStages.0.label>
+	<Cassowary.lifeStages.0.labelFemale>Đà điểu Cassowary con cái</Cassowary.lifeStages.0.labelFemale>
+	<Cassowary.lifeStages.0.labelFemalePlural>Đà điểu Cassowary con cái</Cassowary.lifeStages.0.labelFemalePlural>
+	<Cassowary.lifeStages.0.labelMale>Đà điểu Cassowary con đực</Cassowary.lifeStages.0.labelMale>
+	<Cassowary.lifeStages.0.labelMalePlural>Đà điểu Cassowary con đực</Cassowary.lifeStages.0.labelMalePlural>
+	<Cassowary.lifeStages.0.labelPlural>Đà điểu Cassowary con</Cassowary.lifeStages.0.labelPlural>
+	<Cassowary.lifeStages.1.label>Đà điểu Cassowary tuổi thơ</Cassowary.lifeStages.1.label>
+	<Cassowary.lifeStages.1.labelFemale>Đà điểu Cassowary cái tuổi thơ</Cassowary.lifeStages.1.labelFemale>
+	<Cassowary.lifeStages.1.labelFemalePlural>Đà điểu Cassowary cái tuổi thơ</Cassowary.lifeStages.1.labelFemalePlural>
+	<Cassowary.lifeStages.1.labelMale>Đà điểu Cassowary đực tuổi thơ</Cassowary.lifeStages.1.labelMale>
+	<Cassowary.lifeStages.1.labelMalePlural>Đà điểu Cassowary đực tuổi thơ</Cassowary.lifeStages.1.labelMalePlural>
+	<Cassowary.lifeStages.1.labelPlural>Đà điểu Cassowary tuổi thơ</Cassowary.lifeStages.1.labelPlural>
+	<Cassowary.lifeStages.2.label>Đà điểu Cassowary trưởng thành</Cassowary.lifeStages.2.label>
+	<Cassowary.lifeStages.2.labelFemale>Đà điểu Cassowary cái trưởng thành</Cassowary.lifeStages.2.labelFemale>
+	<Cassowary.lifeStages.2.labelFemalePlural>Đà điểu Cassowary cái trưởng thành</Cassowary.lifeStages.2.labelFemalePlural>
+	<Cassowary.lifeStages.2.labelMale>Đà điểu Cassowary đực trưởng thành</Cassowary.lifeStages.2.labelMale>
+	<Cassowary.lifeStages.2.labelMalePlural>Đà điểu Cassowary đực trưởng thành</Cassowary.lifeStages.2.labelMalePlural>
+	<Cassowary.lifeStages.2.labelPlural>Đà điểu Cassowary trưởng thành</Cassowary.lifeStages.2.labelPlural>
+	<Emu.label>Đà điểu Emu</Emu.label>
+	<Emu.labelFemale>Đà điểu Emu cái</Emu.labelFemale>
+	<Emu.labelFemalePlural>Đà điểu Emu cái</Emu.labelFemalePlural>
+	<Emu.labelMale>Đà điểu Emu đực</Emu.labelMale>
+	<Emu.labelMalePlural>Đà điểu Emu đực</Emu.labelMalePlural>
+	<Emu.labelPlural>Đà điểu Emu</Emu.labelPlural>
+	<Emu.lifeStages.0.label>Đà điểu Emu con</Emu.lifeStages.0.label>
+	<Emu.lifeStages.0.labelFemale>Đà điểu Emu con cái</Emu.lifeStages.0.labelFemale>
+	<Emu.lifeStages.0.labelFemalePlural>Đà điểu Emu con cái</Emu.lifeStages.0.labelFemalePlural>
+	<Emu.lifeStages.0.labelMale>Đà điểu Emu con đực</Emu.lifeStages.0.labelMale>
+	<Emu.lifeStages.0.labelMalePlural>Đà điểu Emu con đực</Emu.lifeStages.0.labelMalePlural>
+	<Emu.lifeStages.0.labelPlural>Đà điểu Emu con</Emu.lifeStages.0.labelPlural>
+	<Emu.lifeStages.1.label>Đà điểu Emu tuổi thơ</Emu.lifeStages.1.label>
+	<Emu.lifeStages.1.labelFemale>Đà điểu Emu cái tuổi thơ</Emu.lifeStages.1.labelFemale>
+	<Emu.lifeStages.1.labelFemalePlural>Đà điểu Emu cái tuổi thơ</Emu.lifeStages.1.labelFemalePlural>
+	<Emu.lifeStages.1.labelMale>Đà điểu Emu đực tuổi thơ</Emu.lifeStages.1.labelMale>
+	<Emu.lifeStages.1.labelMalePlural>Đà điểu Emu đực tuổi thơ</Emu.lifeStages.1.labelMalePlural>
+	<Emu.lifeStages.1.labelPlural>Đà điểu Emu tuổi thơ</Emu.lifeStages.1.labelPlural>
+	<Emu.lifeStages.2.label>Đà điểu Emu trưởng thành</Emu.lifeStages.2.label>
+	<Emu.lifeStages.2.labelFemale>Đà điểu Emu cái trưởng thành</Emu.lifeStages.2.labelFemale>
+	<Emu.lifeStages.2.labelFemalePlural>Đà điểu Emu cái trưởng thành</Emu.lifeStages.2.labelFemalePlural>
+	<Emu.lifeStages.2.labelMale>Đà điểu Emu đực trưởng thành</Emu.lifeStages.2.labelMale>
+	<Emu.lifeStages.2.labelMalePlural>Đà điểu Emu đực trưởng thành</Emu.lifeStages.2.labelMalePlural>
+	<Emu.lifeStages.2.labelPlural>Đà điểu Emu trưởng thành</Emu.lifeStages.2.labelPlural>
+	<Ostrich.label>Đà điểu</Ostrich.label>
+	<Ostrich.labelFemale>Đà điểu cái</Ostrich.labelFemale>
+	<Ostrich.labelFemalePlural>Đà điểu cái</Ostrich.labelFemalePlural>
+	<Ostrich.labelMale>Đà điểu đực</Ostrich.labelMale>
+	<Ostrich.labelMalePlural>Đà điểu đực</Ostrich.labelMalePlural>
+	<Ostrich.labelPlural>Đà điểu</Ostrich.labelPlural>
+	<Ostrich.lifeStages.0.label>Đà điểu con</Ostrich.lifeStages.0.label>
+	<Ostrich.lifeStages.0.labelFemale>Đà điểu con cái</Ostrich.lifeStages.0.labelFemale>
+	<Ostrich.lifeStages.0.labelFemalePlural>Đà điểu con cái</Ostrich.lifeStages.0.labelFemalePlural>
+	<Ostrich.lifeStages.0.labelMale>Đà điểu con đực</Ostrich.lifeStages.0.labelMale>
+	<Ostrich.lifeStages.0.labelMalePlural>Đà điểu con đực</Ostrich.lifeStages.0.labelMalePlural>
+	<Ostrich.lifeStages.0.labelPlural>Đà điểu con</Ostrich.lifeStages.0.labelPlural>
+	<Ostrich.lifeStages.1.label>Đà điểu tuổi thơ</Ostrich.lifeStages.1.label>
+	<Ostrich.lifeStages.1.labelFemale>Đà điểu cái tuổi thơ</Ostrich.lifeStages.1.labelFemale>
+	<Ostrich.lifeStages.1.labelFemalePlural>Đà điểu cái tuổi thơ</Ostrich.lifeStages.1.labelFemalePlural>
+	<Ostrich.lifeStages.1.labelMale>Đà điểu đực tuổi thơ</Ostrich.lifeStages.1.labelMale>
+	<Ostrich.lifeStages.1.labelMalePlural>Đà điểu đực tuổi thơ</Ostrich.lifeStages.1.labelMalePlural>
+	<Ostrich.lifeStages.1.labelPlural>Đà điểu tuổi thơ</Ostrich.lifeStages.1.labelPlural>
+	<Ostrich.lifeStages.2.label>Đà điểu trưởng thành</Ostrich.lifeStages.2.label>
+	<Ostrich.lifeStages.2.labelFemale>Đà điểu cái trưởng thành</Ostrich.lifeStages.2.labelFemale>
+	<Ostrich.lifeStages.2.labelFemalePlural>Đà điểu cái trưởng thành</Ostrich.lifeStages.2.labelFemalePlural>
+	<Ostrich.lifeStages.2.labelMale>Đà điểu đực trưởng thành</Ostrich.lifeStages.2.labelMale>
+	<Ostrich.lifeStages.2.labelMalePlural>Đà điểu đực trưởng thành</Ostrich.lifeStages.2.labelMalePlural>
+	<Ostrich.lifeStages.2.labelPlural>Đà điểu trưởng thành</Ostrich.lifeStages.2.labelPlural>
+</LanguageData>

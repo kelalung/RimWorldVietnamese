@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MoodOffsetDepressive.stages.depressive.label>Trầm cảm</MoodOffsetDepressive.stages.depressive.label>
+	<MoodOffsetDepressive.stages.depressive.description>Hình phạt tâm trạng do đặc tính "trầm cảm".</MoodOffsetDepressive.stages.depressive.description>
+	<MoodOffsetOptimist.stages.optimist.label>Lạc quan</MoodOffsetOptimist.stages.optimist.label>
+	<MoodOffsetOptimist.stages.optimist.description>Hệ số tâm trạng do đặc tính "lạc quan".</MoodOffsetOptimist.stages.optimist.description>
+	<MoodOffsetPessimist.stages.pessimist.label>Bi quan</MoodOffsetPessimist.stages.pessimist.label>
+	<MoodOffsetPessimist.stages.pessimist.description>Hình phạt tâm trạng do đặc tính "bi quan".</MoodOffsetPessimist.stages.pessimist.description>
+	<MoodOffsetSanguine.stages.sanguine.label>Người vui vẻ</MoodOffsetSanguine.stages.sanguine.label>
+	<MoodOffsetSanguine.stages.sanguine.description>Hệ số tâm trạng do đặc tính "vui vẻ".</MoodOffsetSanguine.stages.sanguine.description>
+	<MoodOffsetTorturedArtist.stages.Tortured_artist.label>Người nghệ sĩ khổ sở</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+	<MoodOffsetTorturedArtist.stages.Tortured_artist.description>Hình phạt tâm trạng do đặc tính "nghệ sĩ khổ sở".</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+</LanguageData>

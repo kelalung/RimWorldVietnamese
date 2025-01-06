@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BondedAnimalDied.stages.bonded_animal_died.label>Động vật gắn bó {0} đã chết</BondedAnimalDied.stages.bonded_animal_died.label>
+	<BondedAnimalDied.stages.bonded_animal_died.description>Nó thật dịu dàng và độc nhất, số phận thật tàn nhẫn.</BondedAnimalDied.stages.bonded_animal_died.description>
+	<KnowColonistDied.stages.colonist_died.label>Người thuộc địa đã chết</KnowColonistDied.stages.colonist_died.label>
+	<KnowColonistDied.stages.colonist_died.description>Một thành viên trong chúng ta đã chết, chúng ta đáng ra phải chăm sóc lẫn nhau.</KnowColonistDied.stages.colonist_died.description>
+	<KnowColonistExecuted.stages.justified_execution_of_colonist.label>Xử án hợp lý (người thuộc địa)</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+	<KnowColonistExecuted.stages.justified_execution_of_colonist.description>Một người thuộc địa có tội đã bị xử án. Dù hợp lý, nhưng vẫn thật buồn.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+	<KnowColonistExecuted.stages.colonist_euthanized.label>Người thuộc địa đã được an tử</KnowColonistExecuted.stages.colonist_euthanized.label>
+	<KnowColonistExecuted.stages.colonist_euthanized.description>Một người thuộc địa đã được an tử. Dù còn nhân tính, nhưng vẫn thật buồn.</KnowColonistExecuted.stages.colonist_euthanized.description>
+	<KnowColonistExecuted.stages.colonist_executed.label>Người thuộc địa đã bị xử án</KnowColonistExecuted.stages.colonist_executed.label>
+	<KnowColonistExecuted.stages.colonist_executed.description>Một người thuộc địa đã bị giết một cách lạnh lùng. Thuộc địa này dường như ngày càng tồi tệ hơn.</KnowColonistExecuted.stages.colonist_executed.description>
+	<KnowColonistExecuted.stages.colonist_organharvested.label>Người thuộc địa chết vì bị lấy nội tạng</KnowColonistExecuted.stages.colonist_organharvested.label>
+	<KnowColonistExecuted.stages.colonist_organharvested.description>Một người thuộc địa đã chết vì bị lấy nội tạng. Thật kinh khủng.</KnowColonistExecuted.stages.colonist_organharvested.description>
+	<!-- <KnowColonistExecuted.stages.colonist_ripscanned.label>Người thuộc địa chết vì bị quét phân giải</KnowColonistExecuted.stages.colonist_ripscanned.label> -->
+	<!-- <KnowColonistExecuted.stages.colonist_ripscanned.description>Một người thuộc địa đã chết trong máy quét phân giải của chúng ta. Hành động thiêu cháy não bộ để chế tạo cơ thể máy thật tàn nhẫn, thật kinh khủng.</KnowColonistExecuted.stages.colonist_ripscanned.description> -->
+	<KnowGuestExecuted.stages.justified_execution.label>Xử án hợp lý</KnowGuestExecuted.stages.justified_execution.label>
+	<KnowGuestExecuted.stages.justified_execution.description>Một tù nhân hoặc khách mời có tội đã bị xử án. Dù hợp lý, nhưng vẫn thật buồn.</KnowGuestExecuted.stages.justified_execution.description>
+	<KnowGuestExecuted.stages.someone_was_euthanized.label>Có người đã được an tử</KnowGuestExecuted.stages.someone_was_euthanized.label>
+	<KnowGuestExecuted.stages.someone_was_euthanized.description>Một tù nhân hoặc khách mời đã được an tử. Dù còn nhân tính, nhưng vẫn thật buồn.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+	<KnowGuestExecuted.stages.someone_was_executed.label>Có người đã bị xử án</KnowGuestExecuted.stages.someone_was_executed.label>
+	<KnowGuestExecuted.stages.someone_was_executed.description>Một tù nhân hoặc khách mời đã bị giết một cách lạnh lùng. Thuộc địa này dường như ngày càng tồi tệ hơn.</KnowGuestExecuted.stages.someone_was_executed.description>
+	<KnowGuestExecuted.stages.someone_was_organmurdered.label>Có người chết vì bị lấy nội tạng</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+	<KnowGuestExecuted.stages.someone_was_organmurdered.description>Một tù nhân hoặc khách mời đã chết vì bị lấy nội tạng. Thật kinh khủng.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+	<!-- <KnowGuestExecuted.stages.someone_was_ripscanned.label>Có người chết vì bị quét phân giải</KnowGuestExecuted.stages.someone_was_ripscanned.label> -->
+	<!-- <KnowGuestExecuted.stages.someone_was_ripscanned.description>Một tù nhân đã chết trong máy quét phân giải của chúng ta. Hành động thiêu cháy não bộ để chế tạo cơ thể máy thật tàn nhẫn, thật kinh khủng.</KnowGuestExecuted.stages.someone_was_ripscanned.description> -->
+	<KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>Tù nhân vô tội đã chết</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+	<KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Một tù nhân vô tội đã chết. Chúng ta nên đối xử tốt với tù nhân, ngay cả khi chúng ta muốn họ chết, ít nhất cũng phải có một cuộc xử án chính thức, chứ không phải dùng những phương pháp tàn bạo này.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+	<MyAuntDied.stages.my_aunt_died.label>Thím tôi (cô/dì) {0} đã chết</MyAuntDied.stages.my_aunt_died.label>
+	<MyAuntDied.stages.my_aunt_died.description>Thím tôi (cô/dì) đã chết.</MyAuntDied.stages.my_aunt_died.description>
+	<MyBrotherDied.stages.my_brother_died.label>Anh trai tôi {0} đã chết</MyBrotherDied.stages.my_brother_died.label>
+	<MyBrotherDied.stages.my_brother_died.description>Anh trai tôi đã chết. Anh trai ruột của tôi...</MyBrotherDied.stages.my_brother_died.description>
+	<MyCousinDied.stages.my_cousin_died.label>Người anh em họ {0} đã chết</MyCousinDied.stages.my_cousin_died.label>
+	<MyCousinDied.stages.my_cousin_died.description>Người anh em họ đã chết. Người thân của tôi...</MyCousinDied.stages.my_cousin_died.description>
+	<MyDaughterDied.stages.my_daughter_died.label>Cô con gái {0} đã chết</MyDaughterDied.stages.my_daughter_died.label>
+	<MyDaughterDied.stages.my_daughter_died.description>Cô con gái đã chết. Đứa trẻ của tôi...</MyDaughterDied.stages.my_daughter_died.description>
+	<MyFatherDied.stages.my_father_died.label>Cha tôi {0} đã chết</MyFatherDied.stages.my_father_died.label>
+	<MyFatherDied.stages.my_father_died.description>Cha tôi đã chết. Không bao giờ gặp lại ông ấy nữa...</MyFatherDied.stages.my_father_died.description>
+	<MyFianceDied.stages.my_fiance_died.label>Vị hôn phu {0} đã chết</MyFianceDied.stages.my_fiance_died.label>
+	<MyFianceDied.stages.my_fiance_died.description>Vị hôn phu của tôi đã chết. Một người đàn ông tuyệt vời như vậy... Tôi không bao giờ gặp lại được nữa.</MyFianceDied.stages.my_fiance_died.description>
+	<MyFianceeDied.stages.my_fiance_died.label>Vị hôn thê {0} đã chết</MyFianceeDied.stages.my_fiance_died.label>
+	<MyFianceeDied.stages.my_fiance_died.description>Vị hôn thê của tôi đã chết. Một người phụ nữ tuyệt vời như vậy... Tôi không bao giờ gặp lại được nữa.</MyFianceeDied.stages.my_fiance_died.description>
+	<MyGrandchildDied.stages.my_grandchild_died.label>Đứa cháu {0} đã chết</MyGrandchildDied.stages.my_grandchild_died.label>
+	<MyGrandchildDied.stages.my_grandchild_died.description>Đứa cháu đã chết. Đứa trẻ của tôi...</MyGrandchildDied.stages.my_grandchild_died.description>
+	<MyGrandparentDied.stages.my_grandparent_died.label>Ông bà {0} đã chết</MyGrandparentDied.stages.my_grandparent_died.label>
+	<MyGrandparentDied.stages.my_grandparent_died.description>Ông bà đã chết.</MyGrandparentDied.stages.my_grandparent_died.description>
+	<MyHalfSiblingDied.stages.my_halfsibling_died.label>Người anh em khác mẹ {0} đã chết</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+	<MyHalfSiblingDied.stages.my_halfsibling_died.description>Người anh em khác mẹ đã chết. Người thân của tôi...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+	<MyHusbandDied.stages.my_husband_died.label>Chồng tôi {0} đã chết</MyHusbandDied.stages.my_husband_died.label>
+	<MyHusbandDied.stages.my_husband_died.description>Chồng tôi đã chết, để lại tôi một mình.</MyHusbandDied.stages.my_husband_died.description>
+	<MyKinDied.stages.my_kin_died.label>Người thân {0} đã chết</MyKinDied.stages.my_kin_died.label>
+	<MyKinDied.stages.my_kin_died.description>Người thân đã chết.</MyKinDied.stages.my_kin_died.description>
+	<MyLoverDied.stages.my_lover_died.label>Người tình {0} đã chết</MyLoverDied.stages.my_lover_died.label>
+	<MyLoverDied.stages.my_lover_died.description>Người tình đã chết. Tôi thật cô đơn.</MyLoverDied.stages.my_lover_died.description>
+	<MyMotherDied.stages.my_mother_died.label>Mẹ tôi {0} đã chết</MyMotherDied.stages.my_mother_died.label>
+	<MyMotherDied.stages.my_mother_died.description>Mẹ tôi đã chết. Không bao giờ gặp lại bà ấy nữa...</MyMotherDied.stages.my_mother_died.description>
+	<MyNephewDied.stages.my_nephew_died.label>Cháu trai {0} đã chết</MyNephewDied.stages.my_nephew_died.label>
+	<MyNephewDied.stages.my_nephew_died.description>Cháu trai đã chết. Một đứa trẻ tuyệt vời như vậy...</MyNephewDied.stages.my_nephew_died.description>
+	<MyNieceDied.stages.my_niece_died.label>Cháu gái {0} đã chết</MyNieceDied.stages.my_niece_died.label>
+	<MyNieceDied.stages.my_niece_died.description>Cháu gái đã chết. Một đứa trẻ tuyệt vời như vậy...</MyNieceDied.stages.my_niece_died.description>
+	<MySisterDied.stages.my_sister_died.label>Chị gái {0} đã chết</MySisterDied.stages.my_sister_died.label>
+	<MySisterDied.stages.my_sister_died.description>Chị gái đã chết. Chị gái ruột của tôi...</MySisterDied.stages.my_sister_died.description>
+	<MySonDied.stages.my_son_died.label>Con trai {0} đã chết</MySonDied.stages.my_son_died.label>
+	<MySonDied.stages.my_son_died.description>Con trai đã chết. Đứa trẻ của tôi...</MySonDied.stages.my_son_died.description>
+	<MyUncleDied.stages.my_uncle_died.label>Chú {0} đã chết</MyUncleDied.stages.my_uncle_died.label>
+	<MyUncleDied.stages.my_uncle_died.description>Chú đã chết.</MyUncleDied.stages.my_uncle_died.description>
+	<MyWifeDied.stages.my_wife_died.label>Vợ tôi {0} đã chết</MyWifeDied.stages.my_wife_died.label>
+	<MyWifeDied.stages.my_wife_died.description>Vợ tôi đã chết, để lại tôi một mình.</MyWifeDied.stages.my_wife_died.description>
+	<PawnWithBadOpinionDied.stages.my_rival_died.label>Kẻ thù {0} đã chết</PawnWithBadOpinionDied.stages.my_rival_died.label>
+	<PawnWithBadOpinionDied.stages.my_rival_died.description>Trời có mắt, chết là đáng đời.</PawnWithBadOpinionDied.stages.my_rival_died.description>
+	<PawnWithGoodOpinionDied.stages.my_friend_died.label>Bạn {0} đã chết</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+	<PawnWithGoodOpinionDied.stages.my_friend_died.description>Thật là một người tốt, giờ đây đã biến mất mãi mãi, khiến thế giới trở nên u ám.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+</LanguageData>

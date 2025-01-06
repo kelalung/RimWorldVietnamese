@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- <ActivateThing.reportString>Kích hoạt TargetA.</ActivateThing.reportString> -->
+	<ApplyTechprint.reportString>Sử dụng TargetB.</ApplyTechprint.reportString>
+	<AttackMelee.reportString>Tấn công cận chiến TargetA.</AttackMelee.reportString>
+	<AttackStatic.reportString>Tấn công TargetA.</AttackStatic.reportString>
+	<BeatFire.reportString>Đánh lửa.</BeatFire.reportString>
+	<Carried.reportString>Đang làm gì đó.</Carried.reportString>
+	<CastAbilityOnThing.reportString>Thực hiện khả năng lên TargetA.</CastAbilityOnThing.reportString>
+	<CastAbilityOnThingMelee.reportString>Thực hiện khả năng cận chiến lên TargetA.</CastAbilityOnThingMelee.reportString>
+	<CastAbilityOnThingUninterruptible.reportString>Thực hiện khả năng không thể bị ngắt lên TargetA.</CastAbilityOnThingUninterruptible.reportString>
+	<CastAbilityOnWorldTile.reportString>Thực hiện khả năng lên ô thế giới.</CastAbilityOnWorldTile.reportString>
+	<CastAbilityTouch.reportString>Thực hiện khả năng chạm vào TargetA.</CastAbilityTouch.reportString>
+	<CastJump.reportString>Thực hiện khả năng nhảy.</CastJump.reportString>
+	<ClearSnow.reportString>Đang dọn tuyết.</ClearSnow.reportString>
+	<DeliverToBed.reportString>Giao TargetA đến giường.</DeliverToBed.reportString>
+	<DeliverToCell.reportString>Giao TargetA đến phòng giam.</DeliverToCell.reportString>
+	<DismissTrader.reportString>Đuổi thương nhân đi.</DismissTrader.reportString>
+	<DropEquipment.reportString>Thả TargetA xuống.</DropEquipment.reportString>
+	<EmptyThingContainer.reportString>Đổ rỗng TargetA.</EmptyThingContainer.reportString>
+	<EnterCryptosleepCasket.reportString>Vào quan tài ngủ đông.</EnterCryptosleepCasket.reportString>
+	<EnterPortal.reportString>Vào TargetA.</EnterPortal.reportString>
+	<EnterTransporter.reportString>Vào TargetA.</EnterTransporter.reportString>
+	<Equip.reportString>Trang bị TargetA.</Equip.reportString>
+	<ExtinguishFiresNearby.reportString>Đánh lửa gần đó.</ExtinguishFiresNearby.reportString>
+	<ExtinguishSelf.reportString>Đánh lửa trên người.</ExtinguishSelf.reportString>
+	<FillFermentingBarrel.reportString>Đổ đầy TargetA.</FillFermentingBarrel.reportString>
+	<Flee.reportString>Đang chạy trốn.</Flee.reportString>
+	<FleeAndCower.reportString>Đang chạy trốn và co rúm lại.</FleeAndCower.reportString>
+	<Flick.reportString>Bấm công tắc.</Flick.reportString>
+	<Follow.reportString>Theo TargetA.</Follow.reportString>
+	<FollowClose.reportString>Đang theo sát TargetA.</FollowClose.reportString>
+	<FollowRoper.reportString>Đi theo TargetA.</FollowRoper.reportString>
+	<GiveToPackAnimal.reportString>Chuyển TargetA cho động vật gói.</GiveToPackAnimal.reportString>
+	<Goto.reportString>Đang di chuyển.</Goto.reportString>
+	<GotoMindControlled.reportString>Đang di chuyển theo kiểm soát tâm trí.</GotoMindControlled.reportString>
+	<GotoSafeTemperature.reportString>Đang tìm nơi có nhiệt độ an toàn.</GotoSafeTemperature.reportString>
+	<GotoWander.reportString>Đang đi lang thang.</GotoWander.reportString>
+	<HaulCorpseToPublicPlace.reportString>Đang vận chuyển TargetA.</HaulCorpseToPublicPlace.reportString>
+	<HaulToPortal.reportString>Đang vận chuyển TargetA đến cổng.</HaulToPortal.reportString>
+	<HaulToTransporter.reportString>Đang vận chuyển TargetA đến thiết bị vận chuyển.</HaulToTransporter.reportString>
+	<IdleWhileDespawned.reportString>Không có việc gì làm.</IdleWhileDespawned.reportString>
+	<Ignite.reportString>Đang đốt TargetA.</Ignite.reportString>
+	<InducePrisonerToEscape.reportString>Đang khuyến khích TargetA trốn thoát.</InducePrisonerToEscape.reportString>
+	<Ingest.reportString>Đang thưởng thức TargetA.</Ingest.reportString>
+	<Insult.reportString>Đang xúc phạm TargetA.</Insult.reportString>
+	<InteractThing.reportString>Đang kích hoạt TargetA.</InteractThing.reportString>
+	<LayDown.reportString>Đang nằm xuống.</LayDown.reportString>
+	<LayDownAwake.reportString>Đang nằm tỉnh táo.</LayDownAwake.reportString>
+	<LayDownResting.reportString>Đang nằm nghỉ ngơi.</LayDownResting.reportString>
+	<Lovin.reportString>Đang âu yếm.</Lovin.reportString>
+	<ManTurret.reportString>Vận hành tháp pháo.</ManTurret.reportString>
+	<OfferHelp.reportString>Giúp đỡ TargetA.</OfferHelp.reportString>
+	<Open.reportString>Mở TargetA.</Open.reportString>
+	<PickupToHold.reportString>Nhặt TargetA lên.</PickupToHold.reportString>
+	<Reading.reportString>Đang đọc TargetA.</Reading.reportString>
+	<RearmTurret.reportString>Chuẩn bị lại TargetA.</RearmTurret.reportString>
+	<RearmTurretAtomic.reportString>Đang chuẩn bị lại TargetA.</RearmTurretAtomic.reportString>
+	<Refuel.reportString>Đang tiếp nhiên liệu cho TargetA.</Refuel.reportString>
+	<RefuelAtomic.reportString>Đang tiếp nhiên liệu cho TargetA.</RefuelAtomic.reportString>
+	<Reload.reportString>Đang nạp lại TargetA.</Reload.reportString>
+	<RemoveApparel.reportString>Tháo bỏ TargetA.</RemoveApparel.reportString>
+	<Resurrect.reportString>Đang hồi sinh TargetA.</Resurrect.reportString>
+	<SocialFight.reportString>Đang đánh nhau với TargetA.</SocialFight.reportString>
+	<StandAndStare.reportString>Đứng và nhìn chằm chằm.</StandAndStare.reportString>
+	<Strip.reportString>Tháo bỏ TargetA.</Strip.reportString>
+	<TakeBeerOutOfFermentingBarrel.reportString>Lấy bia từ TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+	<TakeCountToInventory.reportString>Vận chuyển TargetA đến kho.</TakeCountToInventory.reportString>
+	<TakeFromOtherInventory.reportString>Lấy TargetA từ TargetB.</TakeFromOtherInventory.reportString>
+	<TakeInventory.reportString>Vận chuyển TargetA đến kho.</TakeInventory.reportString>
+	<TradeWithPawn.reportString>Giao dịch với TargetA.</TradeWithPawn.reportString>
+	<TriggerObject.reportString>Bật TargetA.</TriggerObject.reportString>
+	<UnloadInventory.reportString>Đang dỡ hàng TargetA.</UnloadInventory.reportString>
+	<UnloadYourInventory.reportString>Đang dỡ hàng hóa.</UnloadYourInventory.reportString>
+	<UseArtifact.reportString>Đang kích hoạt di vật.</UseArtifact.reportString>
+	<UseItem.reportString>Đang sử dụng TargetA.</UseItem.reportString>
+	<UseNeurotrainer.reportString>Sử dụng bộ huấn luyện thần kinh.</UseNeurotrainer.reportString>
+	<UseVerbOnThing.reportString>Đang làm một số việc.</UseVerbOnThing.reportString>
+	<UseVerbOnThingStatic.reportString>Đang làm một số việc.</UseVerbOnThingStatic.reportString>
+	<UseVerbOnThingStaticReserve.reportString>Đang làm một số việc.</UseVerbOnThingStaticReserve.reportString>
+	<Vomit.reportString>Đang nôn.</Vomit.reportString>
+	<Wait.reportString>Đang chờ.</Wait.reportString>
+	<Wait_Asleep.reportString>Đang ngủ.</Wait_Asleep.reportString>
+	<Wait_AsleepDormancy.reportString>Đang ngủ đông.</Wait_AsleepDormancy.reportString>
+	<Wait_Combat.reportString>Đang quan sát mục tiêu.</Wait_Combat.reportString>
+	<Wait_Downed.reportString>Đang nằm bất động.</Wait_Downed.reportString>
+	<Wait_MaintainPosture.reportString>Đang đứng.</Wait_MaintainPosture.reportString>
+	<Wait_SafeTemperature.reportString>Đang ở nơi có nhiệt độ an toàn.</Wait_SafeTemperature.reportString>
+	<Wait_Wander.reportString>Đang đi lang thang.</Wait_Wander.reportString>
+	<Wear.reportString>Đang mặc TargetA.</Wear.reportString>
+</LanguageData>

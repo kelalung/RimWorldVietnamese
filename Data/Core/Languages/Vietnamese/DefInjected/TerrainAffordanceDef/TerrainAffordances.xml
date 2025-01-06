@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bridgeable.label>Có thể xây cầu</Bridgeable.label>
+	<Diggable.label>Có thể đào</Diggable.label>
+	<GrowSoil.label>Có thể trồng</GrowSoil.label>
+	<Heavy.label>Hạng nặng</Heavy.label>
+	<Light.label>Hạng nhẹ</Light.label>
+	<Medium.label>Hạng trung</Medium.label>
+	<MovingFluid.label>Chất lỏng chảy</MovingFluid.label>
+	<ShallowWater.label>Nước cạn</ShallowWater.label>
+	<SmoothableStone.label>Có thể mài nhẵn</SmoothableStone.label>
+</LanguageData>

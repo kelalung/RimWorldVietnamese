@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientBandNode.label>Nút tần số cổ xưa</AncientBandNode.label>
+<AncientBandNode.description>Một nút tần số cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientBandNode.description>
+<AncientBasicRecharger.label>Trạm sạc cơ giới cổ xưa</AncientBasicRecharger.label>
+<AncientBasicRecharger.description>Một trạm sạc cơ giới cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientBasicRecharger.description>
+<AncientLargeMechGestator.label>Máy tạo cơ giới lớn cổ xưa</AncientLargeMechGestator.label>
+<AncientLargeMechGestator.description>Một máy tạo cơ giới lớn cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientLargeMechGestator.description>
+<AncientMechGestator.label>Máy tạo cơ giới cổ xưa</AncientMechGestator.label>
+<AncientMechGestator.description>Một máy tạo cơ giới cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientMechGestator.description>
+<AncientStandardRecharger.label>Trạm sạc cơ giới lớn cổ xưa</AncientStandardRecharger.label>
+<AncientStandardRecharger.description>Một trạm sạc cơ giới lớn cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientStandardRecharger.description>
+<AncientToxifierGenerator.label>Máy phát thải cổ xưa</AncientToxifierGenerator.label>
+<AncientToxifierGenerator.description>Một máy phát thải cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, mọi thứ còn lại cũng đã lão hóa và vô dụng.</AncientToxifierGenerator.description>
+</LanguageData>

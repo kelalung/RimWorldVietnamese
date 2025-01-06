@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Beauty.degreeDatas.beautiful.label>Đẹp như hoa</Beauty.degreeDatas.beautiful.label>
+	<Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] sở hữu một gương mặt cực kỳ tinh tế. [PAWN_pronoun] thậm chí không cần mở miệng, người khác cũng tự nhiên bị thu hút bởi [PAWN_objective].</Beauty.degreeDatas.beautiful.description>
+	<Beauty.degreeDatas.pretty.label>Đẹp</Beauty.degreeDatas.pretty.label>
+	<Beauty.degreeDatas.pretty.description>[PAWN_nameDef] rất xinh đẹp, mọi người đều thích [PAWN_objective].</Beauty.degreeDatas.pretty.description>
+	<Beauty.degreeDatas.ugly.label>Xấu xí</Beauty.degreeDatas.ugly.label>
+	<Beauty.degreeDatas.ugly.description>[PAWN_nameDef] khá xấu xí, người khác đều tránh xa [PAWN_objective].</Beauty.degreeDatas.ugly.description>
+	<Beauty.degreeDatas.staggeringly_ugly.label>Xấu không thể tưởng tượng nổi</Beauty.degreeDatas.staggeringly_ugly.label>
+	<Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] cực kỳ xấu xí, [PAWN_pronoun] có gương mặt như một đứa trẻ chậm phát triển, khiến người ta không thể nhìn thẳng, chỉ mong tránh xa.</Beauty.degreeDatas.staggeringly_ugly.description>
+	<DrugDesire.degreeDatas.chemical_fascination.label>Thích thuốc kích thích</DrugDesire.degreeDatas.chemical_fascination.label>
+	<DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] rất mê thuốc kích thích và những thú vui mà chúng mang lại, không có giới hạn. Việc ngừng cung cấp sẽ khiến [PAWN_pronoun] dễ dàng tham gia vào những cơn say thuốc mãnh liệt. So với người khác, [PAWN_pronoun] tiêu thụ nhiều thuốc kích thích hơn và sẽ phớt lờ kế hoạch dùng thuốc.</DrugDesire.degreeDatas.chemical_fascination.description>
+	<DrugDesire.degreeDatas.chemical_interest.label>Thích thuốc</DrugDesire.degreeDatas.chemical_interest.label>
+	<DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] rất thích thú với những niềm vui mà thuốc kích thích mang lại. Việc ngừng cung cấp sẽ khiến [PAWN_pronoun] dễ dàng tham gia vào những cơn say thuốc. So với người khác, [PAWN_pronoun] tiêu thụ nhiều thuốc kích thích hơn và sẽ phớt lờ kế hoạch dùng thuốc.</DrugDesire.degreeDatas.chemical_interest.description>
+	<DrugDesire.degreeDatas.teetotaler.label>Ghét thuốc</DrugDesire.degreeDatas.teetotaler.label>
+	<DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] ghét bất kỳ ý nghĩ nào về việc tìm kiếm niềm vui từ thuốc kích thích, từ chối mọi loại thuốc xã hội.</DrugDesire.degreeDatas.teetotaler.description>
+	<Immunity.degreeDatas.superimmune.label>Siêu miễn dịch</Immunity.degreeDatas.superimmune.label>
+	<Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] có hệ miễn dịch tự nhiên mạnh mẽ. {PAWN_pronoun} hồi phục nhanh chóng hơn nhiều so với người bình thường, có thể sống sót qua những căn bệnh mà người khác có thể chết.</Immunity.degreeDatas.superimmune.description>
+	<Immunity.degreeDatas.sickly.label>Yếu ớt</Immunity.degreeDatas.sickly.label>
+	<Immunity.degreeDatas.sickly.description>[PAWN_nameDef] có hệ miễn dịch kém, khiến [PAWN_pronoun] dễ bị bệnh hơn, thậm chí với những căn bệnh rất hiếm gặp trong cộng đồng địa phương.</Immunity.degreeDatas.sickly.description>
+	<Industriousness.degreeDatas.industrious.label>Người chăm chỉ</Industriousness.degreeDatas.industrious.label>
+	<Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] rất dễ dàng tập trung vào công việc, [PAWN_pronoun] hoàn thành công việc nhanh hơn nhiều so với người bình thường.</Industriousness.degreeDatas.industrious.description>
+	<Industriousness.degreeDatas.hard_worker.label>Người làm việc chăm chỉ</Industriousness.degreeDatas.hard_worker.label>
+	<Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] bẩm sinh đã chăm chỉ, [PAWN_pronoun] hoàn thành công việc nhanh hơn người bình thường.</Industriousness.degreeDatas.hard_worker.description>
+	<Industriousness.degreeDatas.lazy.label>Người lười biếng</Industriousness.degreeDatas.lazy.label>
+	<Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] có chút lười biếng khi làm việc.</Industriousness.degreeDatas.lazy.description>
+	<Industriousness.degreeDatas.slothful.label>Người lười biếng</Industriousness.degreeDatas.slothful.label>
+	<Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] thích không làm gì và ghét bất kỳ công việc thực chất nào. [PAWN_pronoun] hoàn thành công việc rất chậm và không tập trung.</Industriousness.degreeDatas.slothful.description>
+	<NaturalMood.degreeDatas.sanguine.label>Người lạc quan</NaturalMood.degreeDatas.sanguine.label>
+	<NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] tự nhiên có thể nhìn nhận tình huống của [PAWN_pronoun] một cách tích cực, bất kể lúc nào và trong hoàn cảnh nào.</NaturalMood.degreeDatas.sanguine.description>
+	<NaturalMood.degreeDatas.optimist.label>Người lạc quan</NaturalMood.degreeDatas.optimist.label>
+	<NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] có cái nhìn lạc quan về cuộc sống. Rất khó để làm [PAWN_objective] cảm thấy thất vọng.</NaturalMood.degreeDatas.optimist.description>
+	<NaturalMood.degreeDatas.pessimist.label>Người bi quan</NaturalMood.degreeDatas.pessimist.label>
+	<NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] thích nhìn vào những khía cạnh tồi tệ của cuộc sống.</NaturalMood.degreeDatas.pessimist.description>
+	<NaturalMood.degreeDatas.depressive.label>Trầm cảm</NaturalMood.degreeDatas.depressive.label>
+	<NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] luôn không vui. Ngay cả khi mọi thứ đều ổn, việc có một tâm trạng tốt vẫn là điều khó khăn đối với [PAWN_objective].</NaturalMood.degreeDatas.depressive.description>
+	<Nerves.degreeDatas.ironwilled.label>Ý chí sắt đá</Nerves.degreeDatas.ironwilled.label>
+	<Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef] có ý chí như một chiếc khiên thép. Khi những người khác đã sụp đổ tinh thần, {PAWN_pronoun} vẫn có thể vững vàng vượt qua khó khăn.</Nerves.degreeDatas.ironwilled.description>
+	<Nerves.degreeDatas.steadfast.label>Ý chí kiên định</Nerves.degreeDatas.steadfast.label>
+	<Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] có ý chí khá kiên định. Khi những người khác đã sụp đổ tinh thần, {PAWN_pronoun} vẫn có thể giữ vững tinh thần.</Nerves.degreeDatas.steadfast.description>
+	<Nerves.degreeDatas.nervous.label>Ý chí căng thẳng</Nerves.degreeDatas.nervous.label>
+	<Nerves.degreeDatas.nervous.description>[PAWN_nameDef] dễ dàng sụp đổ tinh thần dưới áp lực cao.</Nerves.degreeDatas.nervous.description>
+	<Nerves.degreeDatas.volatile.label>Ý chí không ổn định</Nerves.degreeDatas.volatile.label>
+	<Nerves.degreeDatas.volatile.description>[PAWN_nameDef] rất dễ bị rối loạn. Khi có điều gì xảy ra, người đầu tiên sụp đổ sẽ là [PAWN_pronoun].</Nerves.degreeDatas.volatile.description>
+	<Neurotic.degreeDatas.neurotic.label>Người thần kinh</Neurotic.degreeDatas.neurotic.label>
+	<Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] thích sắp xếp mọi thứ. {PAWN_pronoun} sẽ làm việc chăm chỉ hơn người bình thường vì điều đó, nhưng sự thần kinh của [PAWN_possessive] có thể vượt quá [PAWN_objective].</Neurotic.degreeDatas.neurotic.description>
+	<Neurotic.degreeDatas.very_neurotic.label>Người thần kinh nặng</Neurotic.degreeDatas.very_neurotic.label>
+	<Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] luôn lo lắng về những việc chưa hoàn thành. {PAWN_pronoun} sẽ làm việc rất chăm chỉ vì điều đó, nhưng sự thần kinh của [PAWN_possessive] có thể vượt quá [PAWN_objective].</Neurotic.degreeDatas.very_neurotic.description>
+	<PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>Nhạy cảm tâm linh</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+	<PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef] có tâm linh như một chiếc đũa, dao động không ngừng. {PAWN_pronoun} rất nhạy cảm với năng lượng tâm linh.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+	<PsychicSensitivity.degreeDatas.psychically_sensitive.label>Nhạy cảm tâm linh</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+	<PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] có tâm linh nhạy cảm hơn so với người bình thường.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+	<PsychicSensitivity.degreeDatas.psychically_dull.label>Chậm nhạy cảm tâm linh</PsychicSensitivity.degreeDatas.psychically_dull.label>
+	<PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] có tần số tâm linh khác với người bình thường, {PAWN_pronoun} không nhạy cảm với năng lượng tâm linh.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+	<PsychicSensitivity.degreeDatas.psychically_deaf.label>Điếc tâm linh</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+	<PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef] có tần số tâm linh hoàn toàn khác với người bình thường. {PAWN_pronoun} hoàn toàn không bị ảnh hưởng bởi năng lượng tâm linh.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+	<ShootingAccuracy.degreeDatas.careful_shooter.label>Người bắn cẩn thận</ShootingAccuracy.degreeDatas.careful_shooter.label>
+	<ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] sẽ dành nhiều thời gian hơn để ngắm bắn khi bắn. {PAWN_pronoun} bắn chậm hơn người khác, nhưng chính xác hơn.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+	<ShootingAccuracy.degreeDatas.triggerhappy.label>Người bắn lung tung</ShootingAccuracy.degreeDatas.triggerhappy.label>
+	<ShootingAccuracy.degreeDatas.triggerhappy.description>Bùm! Bùm! Bùm! {PAWN_nameDef} chỉ thích nhấn cò. {PAWN_pronoun} bắn nhanh hơn người khác, nhưng không chính xác.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+	<SpeedOffset.degreeDatas.slowpoke.label>Người chậm chạp</SpeedOffset.degreeDatas.slowpoke.label>
+	<SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] luôn đi chậm đến mức bị tụt lại bất cứ nơi nào [PAWN_pronoun] đến.</SpeedOffset.degreeDatas.slowpoke.description>
+	<SpeedOffset.degreeDatas.fast_walker.label>Người đi nhanh</SpeedOffset.degreeDatas.fast_walker.label>
+	<SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] thích đến nhanh chóng nơi [PAWN_pronoun] muốn đến. [PAWN_pronoun] đi nhanh hơn người bình thường một chút.</SpeedOffset.degreeDatas.fast_walker.description>
+	<SpeedOffset.degreeDatas.jogger.label>Người chạy bộ</SpeedOffset.degreeDatas.jogger.label>
+	<SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] luôn có cảm giác cấp bách khi di chuyển. [PAWN_pronoun] đi nhanh đến mức người bình thường không theo kịp.</SpeedOffset.degreeDatas.jogger.description>
+</LanguageData>

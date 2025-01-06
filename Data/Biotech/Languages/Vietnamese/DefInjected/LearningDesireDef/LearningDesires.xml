@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Floordrawing.label>Vẽ trên mặt đất</Floordrawing.label>
+<Floordrawing.description>Sử dụng phấn để vẽ trên mặt đất. Tuy nhiên, công nhân dọn dẹp cuối cùng sẽ xóa những bức tranh này đi.</Floordrawing.description>
+<Lessontaking.label>Nghe giảng</Lessontaking.label>
+<Lessontaking.description>Các người lớn được phân công công việc "chăm sóc" sẽ dạy trẻ em các khóa học khác nhau. Điều này sẽ cung cấp kinh nghiệm kỹ năng. Cần một cái bàn học.</Lessontaking.description>
+<NatureRunning.label>Chơi ngoài trời</NatureRunning.label>
+<NatureRunning.description>Chơi và khám phá ngoài trời trong khu vực hiện tại. Cần ra ngoài trời.</NatureRunning.description>
+<Radiotalking.label>Giao tiếp qua radio</Radiotalking.label>
+<Radiotalking.description>Sử dụng radio để giao tiếp với mọi người. Cần một trạm liên lạc có điện.</Radiotalking.description>
+<Reading.label>Đọc sách</Reading.label>
+<Reading.description>Nhặt một cuốn sách và đọc.</Reading.description>
+<Skydreaming.label>Mơ mộng</Skydreaming.label>
+<Skydreaming.description>Tìm một nơi bên ngoài để ngắm nhìn bầu trời. Cần ra ngoài trời.</Skydreaming.description>
+<Workwatching.label>Quan sát công việc</Workwatching.label>
+<Workwatching.description>Theo dõi một người lớn, quan sát quy trình làm việc của họ. Điều này sẽ cung cấp kinh nghiệm kỹ năng.</Workwatching.description>
+</LanguageData>

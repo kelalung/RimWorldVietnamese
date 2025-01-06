@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BuildSnowman.reportString>Xây người tuyết.</BuildSnowman.reportString>
+	<GoForWalk.reportString>Đi dạo.</GoForWalk.reportString>
+	<Meditate.reportString>Thiền.</Meditate.reportString>
+	<Play_Billiards.reportString>Chơi bi-a.</Play_Billiards.reportString>
+	<Play_Chess.reportString>Chơi cờ.</Play_Chess.reportString>
+	<Play_GameOfUr.reportString>Chơi cờ Hoàng gia.</Play_GameOfUr.reportString>
+	<Play_Hoopstone.reportString>Chơi trò ném vòng.</Play_Hoopstone.reportString>
+	<Play_Horseshoes.reportString>Chơi trò ném móng ngựa.</Play_Horseshoes.reportString>
+	<Play_MusicalInstrument.reportString>Biểu diễn TargetA.</Play_MusicalInstrument.reportString>
+	<Play_Poker.reportString>Chơi bài Poker.</Play_Poker.reportString>
+	<Pray.reportString>Cầu nguyện.</Pray.reportString>
+	<Skygaze.reportString>Ngắm trời.</Skygaze.reportString>
+	<SocialRelax.reportString>Thư giãn xã hội.</SocialRelax.reportString>
+	<UseTelescope.reportString>Sử dụng kính thiên văn.</UseTelescope.reportString>
+	<ViewArt.reportString>Xem nghệ thuật.</ViewArt.reportString>
+	<VisitGrave.reportString>Thăm mộ.</VisitGrave.reportString>
+	<VisitSickPawn.reportString>Thăm người bệnh TargetA.</VisitSickPawn.reportString>
+	<WatchTelevision.reportString>Xem truyền hình.</WatchTelevision.reportString>
+</LanguageData>

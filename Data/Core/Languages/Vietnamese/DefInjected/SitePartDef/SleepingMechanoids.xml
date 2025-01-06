@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SleepingMechanoids.label>Cơ giới đang ngủ</SleepingMechanoids.label>
+	<SleepingMechanoids.description>Một nhóm cơ giới đang ngủ.</SleepingMechanoids.description>
+	<SleepingMechanoids.arrivedLetter>Khu vực này có một nhóm cơ giới thù địch đang ngủ.\n\nKhi bạn tiếp cận, chúng có thể bị đánh thức và tấn công, vì vậy hãy cẩn thận.</SleepingMechanoids.arrivedLetter>
+</LanguageData>

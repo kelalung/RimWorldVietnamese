@@ -1,0 +1,1193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Description_Novel.rulePack.rulesStrings>
+		<li>desc->Cuốn [writingQualityAdjective][bookType] này [follows] một [protagHe] với vai trò là [PersonJob][storyStruggles].[writingQualitySentence].[maybe_date]</li>
+		<li>desc->Trong cuốn [writingQualityAdjective][bookType] này, [author] [tellsAStoryOf] [ANYPAWN_possessive][storySource].[writingQualitySentence].[maybe_date]</li>
+		<li>follows->Kể về</li>
+		<li>follows->Bìa</li>
+		<li>follows->Kể về</li>
+		<li>follows->Viết từ góc nhìn</li>
+		<li>protagHe->Anh ấy</li>
+		<li>protagHis->Của anh ấy</li>
+		<li>protagHim->Anh ấy</li>
+		<li>storyStruggles->[struggles] chống lại [opponent]</li>
+		<li>storyStruggles->[seeks][seekObjective]</li>
+		<li>struggles->Nỗ lực</li>
+		<li>struggles->Đấu tranh</li>
+		<li>struggles->Cố gắng</li>
+		<li>opponent->Bất công</li>
+		<li>opponent->Nỗi sợ hãi</li>
+		<li>opponent->[Enemy] cực kỳ nguy hiểm</li>
+		<li>opponent->[PersonJob] đầy cạnh tranh</li>
+		<li>opponent->[ConceptPositive] vô nghĩa</li>
+		<li>opponent->[protagHis] kẻ ác [PersonFamily]</li>
+		<li>opponent->Hệ thống xã hội của [protagHis]</li>
+		<li>seeks->Tìm kiếm</li>
+		<li>seeks->Khám phá</li>
+		<li>seeks->Nỗ lực tìm kiếm</li>
+		<li>seeks->Khám phá tâm hồn của [protagHim] và toàn bộ thế giới để tìm kiếm</li>
+		<li>seeks->Tìm kiếm một cách điên cuồng</li>
+		<li>seeks->Tìm kiếm một cách vất vả</li>
+		<li>seeks->Tìm kiếm trên mảnh đất này</li>
+		<li>seeks->Theo đuổi</li>
+		<li>seeks->Kiên quyết theo đuổi</li>
+		<li>seeks->Tìm kiếm với tất cả sức lực</li>
+		<li>seeks->Theo đuổi một cách kiên trì</li>
+		<li>seeks->Tìm kiếm một cách tỉ mỉ</li>
+		<li>seeks->Bắt đầu tìm kiếm</li>
+		<li>seeks->Trong khi tìm kiếm, [protagHis] đã bị tiêu diệt</li>
+		<li>seeks->Cố gắng tìm ra</li>
+		<li>seeks->Tìm kiếm một cách miệt mài</li>
+		<li>seeks->Lang thang tìm kiếm</li>
+		<li>seeks->Ra trận tìm kiếm</li>
+		<li>seekObjective->Một khối vàng bí ẩn</li>
+		<li>seekObjective->Con quỷ trong lòng [protagHis]</li>
+		<li>seekObjective->[Vegetable] ngon nhất vũ trụ</li>
+		<li>seekObjective->[Weapon] hoàn toàn mới</li>
+		<li>seekObjective->[protagHis] đã mất [Animal]</li>
+		<li>seekObjective->Xây dựng lại [Mechanoid] đã bị hư hại</li>
+		<li>seekObjective->[protagHe] thấy một [TerrainFeature] trong giấc mơ</li>
+		<li>seekObjective->Tình yêu cũ</li>
+		<li>seekObjective->Hạnh phúc</li>
+		<li>seekObjective->Thay thế [protagHis] thận bệnh bằng một quả thận mới</li>
+		<li>seekObjective->Đói meo</li>
+		<li>seekObjective->Sự ấm áp và an toàn của gia đình</li>
+		<li>seekObjective->Tình yêu trong thế giới đầy thù hận</li>
+		<li>seekObjective->Công thức bị thất truyền</li>
+		<li>seekObjective->Di vật thời thơ ấu</li>
+		<li>seekObjective->Báu vật gia truyền bị đánh cắp</li>
+		<li>seekObjective->Nhật ký của người thầy đã mất</li>
+		<li>seekObjective->Bộ sưu tập hiếm trong series yêu thích của [protagHis]</li>
+		<li>seekObjective->Nơi lý tưởng cho buổi picnic</li>
+		<li>seekObjective->Mảnh ghép còn lại</li>
+		<li>seekObjective->Một cơ hội để phục thù</li>
+		<li>seekObjective->Chấm dứt mối tình</li>
+		<li>seekObjective->Bản đồ kho báu thời thơ ấu bị mất tích</li>
+		<li>seekObjective->Kỷ vật từ người đã khuất</li>
+		<li>seekObjective->Công thức thuốc</li>
+		<li>seekObjective->Cây quý trong vườn riêng</li>
+		<li>seekObjective->Thư chưa từng gửi</li>
+		<li>seekObjective->Câu trả lời khó nắm bắt cho các vấn đề triết học</li>
+		<li>seekObjective->Dạo chơi trong vườn</li>
+		<li>seekObjective->Khách lạ gặp gỡ ở nơi xa</li>
+		<li>seekObjective->Cảm giác trong sở thích đã bị lãng quên</li>
+		<li>seekObjective->Khoảnh khắc thuần khiết</li>
+		<li>tellsAStoryOf->Kể về</li>
+		<li>tellsAStoryOf->Giải thích chi tiết về</li>
+		<li>tellsAStoryOf->Khám phá về</li>
+		<li>tellsAStoryOf->Kể về</li>
+		<li>tellsAStoryOf->Kể về</li>
+		<li>tellsAStoryOf->Miêu tả về</li>
+		<li>tellsAStoryOf->Nghiên cứu sâu về</li>
+		<li>tellsAStoryOf->Khám phá</li>
+		<li>tellsAStoryOf->Tiết lộ về</li>
+		<li>tellsAStoryOf->Nắm bắt</li>
+		<li>tellsAStoryOf->Tiết lộ</li>
+		<li>tellsAStoryOf->Dệt nên</li>
+		<li>tellsAStoryOf->Miêu tả</li>
+		<li>tellsAStoryOf->Kể về</li>
+		<li>tellsAStoryOf->Mô tả</li>
+		<li>tellsAStoryOf->Chạm đến</li>
+		<li>tellsAStoryOf->Giới thiệu về</li>
+		<li>tellsAStoryOf->Truyền đạt</li>
+		<li>tellsAStoryOf->Khám phá sâu sắc về</li>
+		<li>tellsAStoryOf->Giải thích</li>
+		<li>tellsAStoryOf->Nắm bắt</li>
+		<li>tellsAStoryOf->Miêu tả một cách sống động</li>
+		<li>tellsAStoryOf->Dệt nên</li>
+		<li>tellsAStoryOf->Khám phá</li>
+		<li>author->Tác giả</li>
+		<li>author->[authorTitle][ANYPAWN_nameIndef]</li>
+		<li>author(p=2)->Vô danh [authorTitle]</li>
+		<li>authorTitle->Tác giả</li>
+		<li>authorTitle->Người sao chép</li>
+		<li>authorTitle->Nhà văn</li>
+		<li>authorTitle->Nhà thơ</li>
+		<li>authorTitle->Người kể chuyện</li>
+		<li>storySource->Kinh nghiệm cá nhân</li>
+		<li>storySource->Thời trẻ</li>
+		<li>storySource->Thời thơ ấu</li>
+		<li>storySource->Dân tộc</li>
+		<li>storySource->Hành tinh mẹ</li>
+		<li>storySource->Ông nội</li>
+		<li>storySource->Bà nội</li>
+		<li>storySource->Kinh nghiệm trong chiến tranh</li>
+		<li>storySource->Nỗi sợ hãi sâu thẳm nhất</li>
+		<li>storySource->Giấc mơ du hành giữa các vì sao</li>
+		<li>storySource->Thích ăn [Vegetable] tươi</li>
+		<li>storySource->Với vai trò là [PersonJob]</li>
+		<li>storySource->Vũ khí yêu thích của [protagHis]</li>
+		<li>storySource->Chống lại [Mechanoid]</li>
+		<li>storySource->Lớn lên trong [Community] khi còn trẻ</li>
+		<li>storySource->Bộ phận cơ thể khổng lồ</li>
+		<li>storySource->Ký ức về người bạn đã mất</li>
+		<li>storySource->Tình yêu với âm nhạc</li>
+		<li>storySource->Sự tò mò về di tích cổ đại</li>
+		<li>storySource->Gắn bó với di sản gia đình</li>
+		<li>storySource->Sự ngưỡng mộ đối với nhân vật bí ẩn</li>
+		<li>storySource->Nỗ lực bảo vệ ngôn ngữ đang gặp nguy hiểm</li>
+		<li>storySource->Giấc mơ phát minh ra điều gì đó vĩ đại</li>
+		<li>storySource->Ký kết với thần linh</li>
+		<li>storySource->Cảm xúc mãnh liệt đối với phong cảnh cụ thể</li>
+		<li>storySource->Khát vọng trở thành [PersonJob] nổi tiếng</li>
+		<li>storySource->Đấu tranh với lo âu xã hội</li>
+		<li>storySource->Mong mỏi những cuộc phiêu lưu bên ngoài chân trời</li>
+		<li>storySource->Liên kết với robot</li>
+		<li>storySource->Cuộc phiêu lưu của một tên cướp biển trong quá khứ</li>
+		<li>storySource->Liên hệ với một xã hội bí mật</li>
+		<li>storySource->Cuộc sống du mục</li>
+		<li>storySource->Khát vọng du hành thời gian</li>
+		<li>storySource->Liên kết với những sinh vật huyền thoại</li>
+		<li>writingQualityAdjective(quality==6)->Như mây trôi</li>
+		<li>writingQualityAdjective(quality==5)->Sâu sắc và độc đáo</li>
+		<li>writingQualityAdjective(quality==4)->Ngòi bút tài tình</li>
+		<li>writingQualityAdjective(quality==3)->Lời văn mạch lạc</li>
+		<li>writingQualityAdjective(quality==2)->Lề mề</li>
+		<li>writingQualityAdjective(quality==1)->Chưa đủ ý nghĩa</li>
+		<li>writingQualityAdjective(quality==0)->Vô vị như nhai sáp</li>
+		<li>writingQualitySentence(quality[greater_than]4)->Cuốn sách này kể về [excellentDesc][excellentExtra]</li>
+		<li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Cuốn sách này [decentDesc][decentExtra]</li>
+		<li>writingQualitySentence(quality[less_than]2)->Cuốn sách này [awfulDesc][awfulExtra]</li>
+		<li>excellentDesc->Câu chuyện hấp dẫn, đầy kịch tính</li>
+		<li>excellentDesc->Khám phá sâu sắc thế giới tinh thần của con người</li>
+		<li>excellentDesc->Nhận thức sâu sắc về sự phức tạp của thế giới</li>
+		<li>excellentDesc->Ngòi bút chặt chẽ, cảm xúc phong phú</li>
+		<li>excellentDesc->Ý tưởng mới mẻ</li>
+		<li>excellentDesc->Sáng tạo và độc đáo</li>
+		<li>excellentDesc->Dễ tiếp cận và thú vị</li>
+		<li>excellentExtra->.Câu chuyện kết nối một cách tự nhiên.</li>
+		<li>excellentExtra->.Nó kể chuyện một cách lôi cuốn, khiến người đọc không thể rời mắt.</li>
+		<li>excellentExtra->.Nhiều lần khiến độc giả mở mang tầm mắt.</li>
+		<li>excellentExtra->.Cốt truyện kịch tính, vừa bất ngờ vừa hợp lý.</li>
+		<li>excellentExtra->.Hình tượng nhân vật sống động</li>
+		<li>decentDesc->Một câu chuyện tươm tất</li>
+		<li>decentDesc->Thú vị và sâu sắc</li>
+		<li>decentDesc->Tập trung vào một ý tưởng thú vị</li>
+		<li>decentDesc->Có khiếu hài hước</li>
+		<li>decentDesc->Đôi khi rời xa cốt truyện chính</li>
+		<li>decentDesc->Mới mẻ và độc đáo</li>
+		<li>decentDesc->Phù hợp với sở thích của một số độc giả</li>
+		<li>decentExtra->Nhưng có một số lỗ hổng rõ ràng trong cốt truyện</li>
+		<li>decentExtra->Nhưng thường khó hiểu</li>
+		<li>decentExtra->Nhưng lại đầy lỗ hổng</li>
+		<li>decentExtra->Nhưng thiếu cảm xúc sâu sắc</li>
+		<li>decentExtra->Nhưng nhân vật quá điển hình và trẻ con</li>
+		<li>decentExtra->Nhưng tác giả thường tự phụ trong việc sử dụng từ ngữ</li>
+		<li>decentExtra->Nhưng thế giới này hoàn toàn nhàm chán, không có gì mới mẻ</li>
+		<li>decentExtra->Nhưng văn phong quá màu mè</li>
+		<li>decentExtra->Nhưng có nhiều câu chuyện không liên quan đến cốt truyện, khiến cốt truyện phát triển chậm chạp</li>
+		<li>awfulDesc->Viết rất tệ</li>
+		<li>awfulDesc->Viết thảm hại</li>
+		<li>awfulDesc->Khó đọc</li>
+		<li>awfulDesc->Khó hiểu</li>
+		<li>awfulDesc->Thiếu sức hấp dẫn nghệ thuật</li>
+		<li>awfulDesc->Cốt truyện đầy lỗ hổng, nhân vật nhàm chán</li>
+		<li>awfulDesc->Chủ yếu là nhân vật do tác giả tự đặt vào</li>
+		<li>awfulDesc->Vô lý</li>
+		<li>awfulDesc->Quá nhiều tình tiết thừa</li>
+		<li>awfulExtra->Và văn phong cũng rất không liên tục</li>
+		<li>awfulExtra->Và rất khó hiểu</li>
+		<li>awfulExtra->Và không có sự liên kết giữa các phần</li>
+		<li>awfulExtra->Thiếu chủ đề và ý nghĩa</li>
+		<li>awfulExtra->Và không có bất kỳ ý tưởng thú vị nào</li>
+		<li>awfulExtra->Và mỗi nhân vật đều rất nhàm chán</li>
+		<li>awfulExtra->Và không bao giờ có một nhân vật chính rõ ràng</li>
+		<li>maybe_date-></li>
+		<li>maybe_date->Được xuất bản chính thức vào [date_form].</li>
+		<li>maybe_date->Được in lần đầu vào [date_form].</li>
+		<li>maybe_date->Hiện tại vẫn chưa rõ cuốn sách này được viết vào thời điểm nào.</li>
+		<li>date_form->Gần đây</li>
+		<li>date_form->Vài thế kỷ trước</li>
+		<li>date_form->[date]</li>
+		<li>date_form->[date_season]</li>
+		<li>bookType(p=4)->Tiểu thuyết dài</li>
+		<li>bookType(p=2)->Tiểu thuyết vừa</li>
+		<li>bookType->Tiểu thuyết ngắn</li>
+		<li>bookType->Tường thuật</li>
+		<li>bookType->Tiểu sử</li>
+		<li>bookType->Trường ca</li>
+	</Description_Novel.rulePack.rulesStrings>
+	<Description_Schematic.rulePack.rulesStrings>
+		<li>subject->[subject_primary]</li>
+		<li>desc(p=3)->[maybe_intro][schematic_desc].</li>
+		<li>desc->[maybe_intro][schematic_desc].\n\n[maybe_medium][author_story].[linkage][subject_consequence].</li>
+		<li>desc(p=2)->[maybe_medium][author_story].[linkage][subject_primary_story].[maybe_outro]</li>
+		<li>maybe_intro(p=6)-></li>
+		<li>maybe_intro->[appearance].</li>
+		<li>maybe_intro->[subject_intro].</li>
+		<li>maybe_subject_intro(p=6)-></li>
+		<li>maybe_subject_intro->[subject_intro].</li>
+		<li>maybe_medium(p=6)-></li>
+		<li>maybe_medium->[medium].</li>
+		<li>maybe_outro(p=5)-></li>
+		<li>maybe_outro->[aftermath].</li>
+		<li>maybe_outro->[dates].</li>
+		<li>maybe_outro->[appearance].</li>
+		<li>maybe_physical_adjective-></li>
+		<li>maybe_physical_adjective->[physical_adjective]</li>
+		<li>maybe_date(p=3)-></li>
+		<li>maybe_date->[dates]</li>
+		<li>subject_intro->[schematic_synonym][shows_synonym_verb] liên quan đến [subject] của [state_adjective][diagram_type]</li>
+		<li>subject_intro->Trong [schematic_synonym] này, [author][shows_synonym_verb] về [subject] của [ANYPAWN_possessive][theory_synonym_adj]</li>
+		<li>subject_intro->[physical_adjective][schematic_synonym][contain_verb] tập trung vào [subject] của [schematic_synonym]</li>
+		<li>subject_intro->[author] đã sử dụng [notable_adjective][image_types] để truyền đạt [ANYPAWN_possessive] thông tin về [subject] của [theory_synonym_adj]</li>
+		<li>subject_intro->[device_synonym] liên kết [subject_primary] được [shows_synonym_verb1] trong [maybe_physical_adjective][schematic_synonym]</li>
+		<li>subject_intro->[schematic_synonym][shows_synonym_verb] một [state_adjective][diagram_type] liên quan đến [subject_primary] và [subject_secondary]</li>
+		<li>subject_intro->[device_synonym] liên quan đến [subject_primary] và [subject_secondary] được [shows_synonym_verb1] trong [maybe_physical_adjective][schematic_synonym]</li>
+		<li>schematic_desc->[schematic_desc_first][schematic_desc_second]</li>
+		<li>schematic_desc_first->So với hệ thống hiện tại, [subject_primary_gerund] được mô tả ở đây là [negative_adjective]</li>
+		<li>schematic_desc_first->Đây chỉ là một phần nhỏ của [subject_primary_gerund] hoàn chỉnh [schematic_synonym]</li>
+		<li>schematic_desc_first->[schematic_synonym] này mô tả không rõ ràng ở nhiều nơi</li>
+		<li>schematic_desc_first->Mô tả về [subject_primary_gerund] trong [schematic_synonym] này không hoàn chỉnh</li>
+		<li>schematic_desc_first->Do sự mâu thuẫn trong chú thích, việc sử dụng các [schematic_synonyms] trở nên phức tạp</li>
+		<li>schematic_desc_first->Khả năng hiểu biết của tác giả về [subject_primary_gerund] rất kém, điều này xuyên suốt toàn bộ văn bản</li>
+		<li>schematic_desc_first->Một phần của [schematic_synonym] đã bị rách</li>
+		<li>schematic_desc_first->Lửa và khói đã làm hỏng giấy</li>
+		<li>schematic_desc_first->Mô tả về [subject_primary_gerund] trong [schematic_synonym] này rất kém</li>
+		<li>schematic_desc_first->Sự hiểu biết hạn chế về [subject_primary_gerund] đã làm hỏng [schematic_synonym]</li>
+		<li>schematic_desc_first->Chi tiết không chính xác về [subject_primary_gerund] khiến việc thực hiện [schematic_synonym] này trở nên khó khăn</li>
+		<li>schematic_desc_first->[schematic_synonym] kém này đôi khi dẫn đến sai lầm khi [subject_primary_gerund]</li>
+		<li>schematic_desc_first->Về mặt thẩm mỹ, [subject_primary_gerund] của [schematic_synonym] đã thất bại</li>
+		<li>schematic_desc_first->Thiếu trí tưởng tượng trong [subject_primary_gerund] đã hạn chế [schematic_synonym]</li>
+		<li>schematic_desc_first->[schematic_container] này cung cấp nhiều quy định mâu thuẫn cho [subject_primary_gerund]</li>
+		<li>schematic_desc_first->Do tranh luận về [other_subject], [schematic_synonym] này để lại sự mơ hồ cho [subject_primary_gerund]</li>
+		<li>schematic_desc_first->Bản thảo rất cẩu thả đã phá hỏng ý tưởng chặt chẽ của [author] cho [subject_primary_gerund]</li>
+		<li>schematic_desc_first->Lo lắng về [subject_primary_gerund] của [other_subject] đã hạn chế [schematic_synonym]</li>
+		<li>schematic_desc_first->[subject_primary_gerund] của [schematic_synonym] đã được in đi in lại đến mức nội dung trở nên mờ nhạt</li>
+		<li>schematic_desc_first->[schematic_synonym] này không thiết lập được mối liên hệ thực sự giữa [subject_primary_gerund] và [subject_secondary_gerund]</li>
+		<li>schematic_desc_first->[subject_primary_gerund] và [subject_secondary_gerund] khó kết hợp với nhau</li>
+		<li>schematic_desc_first->[schematic_container] này có [schematic_synonym] về cả [subject_primary_gerund] và [subject_secondary_gerund]</li>
+		<li>schematic_desc_first->[schematic_container] này có [schematic_synonym] về cả [subject_tertiary_gerund] và [subject_secondary_gerund]</li>
+		<li>schematic_desc_first->[schematic_container] này có [schematic_synonym] về cả [subject_primary_gerund] và [subject_tertiary_gerund]</li>
+		<li>schematic_desc_first->[schematic_container] này có [schematic_synonym] về [subject_primary_gerund], [subject_secondary_gerund] và [subject_tertiary_gerund]</li>
+		<li>schematic_desc_second(quality[less_than]2)->.Điều này khiến những người học môn này cảm thấy thất vọng.</li>
+		<li>schematic_desc_second(quality[less_than]2)->,khiến nó trở nên vô giá trị trong hầu hết các trường hợp.</li>
+		<li>schematic_desc_second(quality[less_than]2)->,phá hủy bài học mà nó truyền đạt.</li>
+		<li>schematic_desc_second(quality[less_than]2)->.Chỉ có người mới bắt đầu mới có thể hưởng lợi từ nó.</li>
+		<li>schematic_desc_second(quality[less_than]2)->.Một sơ đồ gây nhầm lẫn còn tệ hơn là không có sơ đồ.</li>
+		<li>schematic_desc_second(quality[less_than]2)->,khiến tính thực tiễn của nó bị đặt dấu hỏi.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->,nhưng các yếu tố cơ bản vẫn đầy đủ.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->,nhưng nó vẫn [contain_verb] đủ dữ liệu để phân tích.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->.Tuy nhiên, điều này không ảnh hưởng đến tính thực tiễn của nó đối với những người có kinh nghiệm.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->,nhưng nó vẫn có giá trị nhất định đối với hầu hết sinh viên.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->.Người mới bắt đầu vẫn có thể hưởng lợi từ việc dạy dỗ của nó.</li>
+		<li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->.Tuy nhiên, chỉ có các chuyên gia mới nhận thấy những thiếu sót trong đó.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->.Tuy nhiên, vào thời điểm đó, những nội dung này vẫn rất xuất sắc.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->,nhưng lại có thể dễ dàng giải thích các khái niệm tiên tiến.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->,nhưng đối với tất cả người học, nó vẫn đầy trí tuệ.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->.Dù vậy, bất kể kinh nghiệm của người học là bao nhiêu, họ vẫn có thể hưởng lợi từ đó.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->,nhưng những vấn đề này vẫn là thứ yếu so với lượng kiến thức phong phú mà nó chứa đựng.</li>
+		<li>schematic_desc_second(quality[greater_than]4)->.Tuy nhiên, kiến thức mà nó truyền đạt có thể chịu được thử thách của thời gian.</li>
+		<li>medium->Có hệ thống cảm giác tích hợp để truyền đạt [tells_verb][schematic_origin]</li>
+		<li>medium->Cuộn bên trong là một tập tài liệu cá nhân, [tells_verb][schematic_origin]</li>
+		<li>medium->Một nhãn nhỏ [tells_verb] thông tin ít ỏi về [schematic_origin]</li>
+		<li>medium->Sổ tay kèm theo [tells_verb][schematic_origin]</li>
+		<li>medium->Giấy da lỏng lẻo [tells_verb][schematic_origin]</li>
+		<li>medium->Giấy thứ hai [tells_verb][schematic_origin]</li>
+		<li>medium->Một bia đá khắc chữ [tells_verb][schematic_origin]</li>
+		<li>medium->Một [schematic_container] bằng kính được khắc với [schematic_origin]</li>
+		<li>medium->Một mảnh giấy viết nguệch ngoạc rơi ra, trên đó [tells_verb][schematic_origin]</li>
+		<li>medium->Phần sau của tài liệu [tells_verb] nhiều thông tin hơn về [schematic_origin]</li>
+		<li>medium->Một đoạn ghi âm [tells_verb][schematic_origin]</li>
+		<li>medium->Nếu không có ghi chú trên tài liệu, [schematic_origin] sẽ chỉ là một giả thuyết</li>
+		<li>medium(p=4)->[schematic_origin] là điều đã biết, nhưng vẫn được bao gồm trong ghi chú của tài liệu</li>
+		<li>medium->Nhật ký kèm theo kể về [schematic_origin]</li>
+		<li>medium->Một cơ khí cổ xưa [tells_verb][schematic_origin]</li>
+		<li>medium->Một thiết bị nhỏ gọn khởi động với tiếng rì rầm, kể về [schematic_origin]</li>
+		<li>tells_verb->Cảnh báo</li>
+		<li>tells_verb->Truyền đạt</li>
+		<li>tells_verb->Kể lại</li>
+		<li>tells_verb->Báo cáo</li>
+		<li>schematic_origin->Câu chuyện sáng tạo của bản vẽ [notable_adjective]</li>
+		<li>schematic_origin->Cách tác giả sáng tạo bản vẽ</li>
+		<li>schematic_origin->Cuộc đời [notable_adjective] của tác giả bản vẽ</li>
+		<li>schematic_origin->Câu chuyện sáng tạo của bản vẽ</li>
+		<li>schematic_origin->Nguồn gốc của bản vẽ [notable_adjective]</li>
+		<li>schematic_origin->Một tin đồn về cuộc đời của tác giả [notable_adjective]</li>
+		<li>schematic_origin->Tin đồn về lý do tài liệu [notable_adjective] này xuất hiện trên hành tinh biên giới và ai đã viết nó</li>
+		<li>author_story->[author_storyname][author_intent]</li>
+		<li>author_story->[author_storyname][learning_story]</li>
+		<li>author_story->[author_storyname][calltoadventure]</li>
+		<li>author_storyname(p=3)->[ANYPAWN_nameFull]</li>
+		<li>author_storyname->Vô đề [authorTitle]</li>
+		<li>author_intent->Từ khi còn nhỏ đã không ngừng hỏi mọi người ở quê hương [ANYPAWN_possessive] về kiến thức về [subject]</li>
+		<li>author_intent->Mơ ước phục hưng [subject] và dẫn dắt cuộc cách mạng khoa học của Kuhn [worldname]</li>
+		<li>author_intent->Xem [subject] như sự nghiệp suốt đời của [ANYPAWN_possessive]</li>
+		<li>author_intent->Chia sẻ quan điểm của [ANYPAWN_possessive] về [subject] trong một cuốn sách [written_when] được viết dưới dạng [physical_adjective]</li>
+		<li>author_intent->Cho rằng không có gì hấp dẫn hơn việc nghiên cứu [subject], nên đã sáng tạo bản vẽ này vào [written_when]</li>
+		<li>author_intent->Tình cờ phát hiện bí mật về [subject] trong phòng sách [physical_adjective] của mẹ [ANYPAWN_possessive]</li>
+		<li>author_intent->Khi còn nhỏ đã mắc bệnh nặng, nhưng trong thời gian đó đã học về [subject]</li>
+		<li>author_intent->Muốn cả thế giới biết đến [subject], nên đã sáng tạo bản vẽ này vào [written_when]</li>
+		<li>author_intent->Muốn toàn bộ thiên hà biết đến [subject]</li>
+		<li>author_intent->Bị cuốn hút bởi một loạt sách trẻ em, đã yêu thích [subject]</li>
+		<li>author_intent->Bị ép phải nghiên cứu [subject], nhưng trong lòng chưa bao giờ thích nó</li>
+		<li>author_intent->Cảm thấy [subject] là tiếng gọi từ sâu thẳm trong tâm hồn [ANYPAWN_possessive]</li>
+		<li>learning_story->Vượt biển lớn, tìm kiếm trí tuệ về [subject]</li>
+		<li>learning_story->Ngày qua ngày nghiên cứu [subject] trong thành phố theo chu kỳ của [midworld]</li>
+		<li>learning_story->Đến từ một trường nghèo tập trung vào [subject] ở [urbworld]</li>
+		<li>learning_story->Tốt nghiệp từ viện [world-name] với thành tích [subject] xuất sắc</li>
+		<li>learning_story->Tự học kiến thức về [subject] trong hoang dã của [animalworld]</li>
+		<li>learning_story->Phát hiện nhiều bản vẽ bị lãng quên về [subject] trong đổ nát của [ruinworld]</li>
+		<li>learning_story->Thường xuyên đi lang thang trên những con phố tối tăm của [steamworld], tìm kiếm [subject]</li>
+		<li>learning_story->Sống sót trong đầm lầy độc hại của [toxicworld], nơi có nhiều tin đồn về chuyên gia [subject]</li>
+		<li>learning_story->Tìm kiếm kiến thức về [subject] trong vùng ngoại ô của [glassworld] nơi có kính nóng chảy</li>
+		<li>learning_story->Trong lĩnh vực siêu nhiên của [transcendentworld], học hỏi về [subject] bằng cách chặn thông tin</li>
+		<li>learning_story->Cùng với con la vào [mineworld], nghe các thợ mỏ kể chuyện về [subject], khám phá bí mật bên trong</li>
+		<li>learning_story->Là một chuyên gia ký hợp đồng trên thế giới cốt lõi của [subject][coreworld]</li>
+		<li>learning_story->Sở hữu nhiều nhà máy ở [indworld], khi công nhân [ANYPAWN_possessive] làm việc chăm chỉ, [ANYPAWN_pronoun] chọn cách dồn tâm sức vào [subject]</li>
+		<li>learning_story->Bị giam ở thành phố số 5 của [prisonworld] vì học về [subject], luôn kêu gọi sự trong sạch của [ANYPAWN_possessive]</li>
+		<li>learning_story->Thu thập những mảnh vụn mà công dân thế giới lấp lánh đã vứt bỏ trong đống rác của [trashworld], ghép lại bản vẽ về [subject]</li>
+		<li>learning_story->Nuôi những con tinh tinh nhân bản ở [dinoworld], và đổi thịt của chúng lấy kiến thức về [subject]</li>
+		<li>learning_story->Sống trong một xã hội hiểu biết rộng rãi về [subject] ở tầng lớp thượng lưu của [urbworld]</li>
+		<li>learning_story->Lớn lên trong vùng đất chết của [ruinworld], sống sót bằng cách học về [subject]</li>
+		<li>calltoadventure->Cuộc sống của [ANYPAWN_possessive] đang dậm chân tại chỗ. Cho đến một ngày [ANYPAWN_pronoun] phát hiện ra [subject]</li>
+		<li>calltoadventure->Được giao nhiệm vụ xây dựng một thuộc địa của [ANYPAWN_possessive], nên tập trung học về [subject]</li>
+		<li>calltoadventure->Sau khi anh chị [ANYPAWN_objective] qua đời, [ANYPAWN_objective] trở thành chuyên gia về [subject] trong gia đình</li>
+		<li>calltoadventure->Tình cờ phát hiện một thuộc địa lấp lánh bị bỏ hoang, chuyên nghiên cứu về [subject]</li>
+		<li>calltoadventure->Bị cướp bởi những tên cướp biển từ [feudalworld] trên một con tàu thương mại, với tư cách là một chuyên gia [subject], [ANYPAWN_pronoun] đã được chuộc lại với giá cao</li>
+		<li>calltoadventure->Bị cuốn đi khỏi lộ trình, vào thế giới chết chóc [deadworld], nơi [ANYPAWN_pronoun] học được về [subject]</li>
+		<li>calltoadventure->Phát hiện các tài liệu dữ liệu về [subject] trong những xác máy móc hỏng và nghiên cứu chúng cẩn thận</li>
+		<li>calltoadventure->Theo một con chuột chũi vào hang của nó, nơi nó dạy cho [ANYPAWN_objective] về [subject]</li>
+		<li>calltoadventure->Được bộ tộc Ittakin yêu thích [subject] nuôi lớn trên [iceworld]</li>
+		<li>calltoadventure->Được tạo ra bởi những con người nhân bản Hắc Huyết, và tìm thấy niềm vui trong [subject]</li>
+		<li>calltoadventure->Lớn lên ở [warworld], trốn thoát khỏi đây bằng cách đánh cắp một khoang vận chuyển. Trong vài tháng qua, tài liệu duy nhất mà [ANYPAWN_pronoun] đọc được là một cuốn sách về [subject]</li>
+		<li>calltoadventure->Dành cả đời để xuyên qua các lớp của [shellworld], tìm kiếm một robot [subject] bị lỗi</li>
+		<li>calltoadventure->Sống trong một ngôi làng nhỏ ở [medievalworld], thoát khỏi số phận nô lệ bằng cách đi cùng một thương nhân thông thạo [subject] trên tàu vũ trụ của ông ta</li>
+		<li>calltoadventure->Đi lại giữa các hành tinh biên giới, học hỏi và tìm hiểu về [subject]</li>
+		<li>calltoadventure->Đi tàu trên biển [oceanicworld], tuyên bố rằng có thể học được bí mật về [subject] từ chính đại dương</li>
+		<li>calltoadventure->Là một người thu nhặt trong không trọng lực, ngày ngày đi lại giữa vành đai tiểu hành tinh của [worldname], phát hiện bí mật về [subject] giữa [asteroid] A3 và [asteroid] 7DD</li>
+		<li>written_when->Vào đêm trước khi [ANYPAWN_possessive] bị hành quyết</li>
+		<li>written_when->Trong thời kỳ đầu của [ANYPAWN_possessive]</li>
+		<li>written_when->Thời kỳ xanh của [worldname]</li>
+		<li>written_when->Như một phần của luận án tiến sĩ của [ANYPAWN_possessive]</li>
+		<li>written_when->Trong thời gian [ANYPAWN_possessive] lang thang ở các hành tinh biên giới</li>
+		<li>written_when->Trong thời gian ở cơ sở nhân bản của [worldname]</li>
+		<li>written_when->Như một phần cuối cùng của lễ nghi [notable_adjective][worldname]</li>
+		<li>written_when->Vô tình viết lên mặt sau của giấy mà cha mẹ [ANYPAWN_possessive] để lại</li>
+		<li>written_when->Sau nhiều năm suy nghĩ của họ</li>
+		<li>written_when->Trong thời kỳ già đi của [ANYPAWN_possessive]</li>
+		<li>written_when->Trong khoảng thời gian lấy từ giấc mơ</li>
+		<li>written_when->Khi không chăm sóc cho [ANYPAWN_possessive] con cái</li>
+		<li>written_when->Trong lúc vội vã ra mặt trận</li>
+		<li>written_when->Thư giãn trên ban công của [ANYPAWN_possessive] với một ly đồ uống mát lạnh</li>
+		<li>written_when->Khi còn trẻ làm việc một mình trong khi những người cùng tuổi với [ANYPAWN_possessive] vẫn đang vui chơi</li>
+		<li>subject_consequence(p=18)->[subject_primary_story]</li>
+		<li>subject_consequence->[digression]</li>
+		<li>digression->Câu chuyện đã rơi vào một cuộc thảo luận hỗn loạn về [digression_subject]</li>
+		<li>digression->Narrative của bản vẽ đã đi lệch chủ đề ở đây, bắt đầu thảo luận về [digression_subject]</li>
+		<li>digression->[author] đã chèn một ghi chú về [digression_subject] ở đây</li>
+		<li>digression->Hiện tại chưa rõ tại sao câu chuyện lại chuyển hướng sang [digression_subject]</li>
+		<li>digression->Thật ngạc nhiên khi bản vẽ [contain_verb] thông tin về [digression_subject]</li>
+		<li>digression->Nội dung về [digression_subject] hoàn toàn không liên quan đến chủ đề</li>
+		<li>digression_subject->Tình yêu và chiến tranh</li>
+		<li>digression_subject->Những bất đồng chính trị không ngừng, ngày càng thứ yếu</li>
+		<li>digression_subject->Xu hướng ẩm thực lấp lánh</li>
+		<li>digression_subject->Xu hướng ở [animalworld] và [urbworld]</li>
+		<li>digression_subject->Tin đồn vô liêm sỉ về việc sử dụng thuốc kích thích</li>
+		<li>digression_subject->Triển khai quân sự của hạm đội [glitterworld] một thế kỷ trước</li>
+		<li>digression_subject->Mối quan hệ bí ẩn giữa thế giới cốt lõi và lỗ đen siêu khối lượng</li>
+		<li>digression_subject->Tin đồn về số phận của thế giới chết [deadworld]</li>
+		<li>digression_subject->Biến thể loài trên [dinoworld]</li>
+		<li>digression_subject->Kinh nghiệm của [ANYPAWN_possessive] trong xã hội phong kiến ở [feudalworld]</li>
+		<li>digression_subject->Thiếu vi sinh vật trong các thành phố đang suy tàn của [glassworld]</li>
+		<li>digression_subject->Cuộc sống ngắn ngủi của người nghèo ở [indworld]</li>
+		<li>digression_subject->Sự thay đổi của những người nhặt rác sau chiến tranh ở [worldname]</li>
+		<li>digression_subject->Các ứng dụng của amine trung tính trong [coreworld]</li>
+		<li>aftermath->Thông tin mà các trang này truyền đạt chỉ là câu chuyện của [author]</li>
+		<li>aftermath->Một ghi chú khác viết rằng, lần cuối cùng [author] được nhìn thấy là đang trên đường đến [deathworld]</li>
+		<li>aftermath->Các trang ở đây đã bị xé ra.</li>
+		<li>aftermath->Các trang sách điểm xuyết những đốm nâu.</li>
+		<li>aftermath->Mặc dù trải qua nhiều nguy hiểm, [ANYPAWN_pronoun] vẫn vẽ ra bản vẽ này</li>
+		<li>aftermath->[ANYPAWN_pronoun] đã dành cả năm trời công sức và thời gian cho bản vẽ này</li>
+		<li>aftermath->Sau đó, [ANYPAWN_pronoun] tìm thấy sự bình yên trong công việc này. [subject_chat]</li>
+		<li>aftermath->Câu chuyện của [ANYPAWN_possessive] kết thúc sau khi giới thiệu chi tiết về công việc tại [worldname]. [subject_chat]</li>
+		<li>subject_chat->Tác phẩm của [author] chứng minh rằng [ANYPAWN_objective] có thẩm quyền nhất định về [subject]</li>
+		<li>subject_chat->Rất ít người phản đối kết luận của tài liệu [subject] này</li>
+		<li>subject_chat->Tài liệu này sẽ truyền cảm hứng cho bất kỳ ai quan tâm đến [subject]</li>
+		<li>subject_chat->Mặc dù các biểu đồ đã phai màu, nhưng những bài học của [author] về [subject] vẫn quý giá</li>
+		<li>linkage->Điều này đã truyền cảm hứng cho [ANYPAWN_objective] và [ANYPAWN_pronoun]</li>
+		<li>linkage->Những điều này sau đó đã chứng minh là hữu ích khi [ANYPAWN_pronoun]</li>
+		<li>linkage->Sử dụng những kiến thức này, [ANYPAWN_pronoun]</li>
+		<li>linkage->[ANYPAWN_pronoun] nhận thấy điều này rất hữu ích khi [ANYPAWN_pronoun]</li>
+		<li>linkage->Đó là lý do tại sao [ANYPAWN_pronoun]</li>
+		<li>linkage->Tại [worldname], [ANYPAWN_pronoun] với sự nhạy bén của [ANYPAWN_possessive] và</li>
+		<li>linkage->Để hoàn toàn nắm vững nó, [ANYPAWN_pronoun] đã đến [worldname], nơi [ANYPAWN_pronoun]</li>
+		<li>notable_adjective->Nổi tiếng</li>
+		<li>notable_adjective->Khó hiểu</li>
+		<li>notable_adjective->Biểu tượng</li>
+		<li>notable_adjective->Cổ điển</li>
+		<li>notable_adjective->Phổ biến</li>
+		<li>notable_adjective->Quen thuộc</li>
+		<li>negative_adjective->Nhập môn</li>
+		<li>negative_adjective->Thô sơ</li>
+		<li>negative_adjective->Nguyên thủy</li>
+		<li>negative_adjective->Tầm thường</li>
+		<li>negative_adjective->Không chính xác</li>
+		<li>negative_adjective->Thiếu thốn</li>
+		<li>appearance(p=3)->[phys_desc]</li>
+		<li>appearance->[nonphys_desc]</li>
+		<li>phys_desc(quality[less_than]5,quality[greater_than]1)->[physical_yet_statement]</li>
+		<li>phys_desc(quality[less_than]4)->[negative_physical_statement1]</li>
+		<li>phys_desc(quality[greater_than]3)->[positive_physical_statement1]</li>
+		<li>phys_desc(p=2)->[physical_yet_statement]</li>
+		<li>phys_desc(quality[less_than]3)->Tài liệu này [stink] của [badsmells]</li>
+		<li>phys_desc(quality[greater_than]4)->Tài liệu này [scent] của [smells]</li>
+		<li>nonphys_desc->[otherwordly_nonphys_desc]</li>
+		<li>nonphys_desc->[technical_nonphys_desc]</li>
+		<li>nonphys_desc->[academic_nonphys_desc]</li>
+		<li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[negative_physical_statement1] nhưng [positive_physical_statement2]</li>
+		<li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[positive_physical_statement1] nhưng [negative_physical_statement2]</li>
+		<li>physical_yet_statement(quality[greater_than]4)->[positive_physical_statement1] và [positive_physical_statement2]</li>
+		<li>physical_yet_statement(quality[less_than]2)->[negative_physical_statement1]. Ngoài ra, [negative_physical_statement2]</li>
+		<li>negative_physical_statement->[negative_physical_statement1]</li>
+		<li>negative_physical_statement->[negative_physical_statement2]</li>
+		<li>negative_physical_statement1->Có những vết nứt không đều trên bìa da bò</li>
+		<li>negative_physical_statement1->Một trong những sinh viên của [author] đã ký tên trên trang trước</li>
+		<li>negative_physical_statement1->Bọc trong bùn thối</li>
+		<li>negative_physical_statement2->Bìa bị thối rất dễ dính vào tay người đọc</li>
+		<li>negative_physical_statement2->Giòi bọ đã làm tổ dưới bìa, mỗi khi mở sách có ruồi bay ra</li>
+		<li>negative_physical_statement2->Chữ viết dường như được viết trên giấy da hỏng</li>
+		<li>negative_physical_statement2->Mực đỏ đã thấm vào các trang sách</li>
+		<li>positive_physical_statement->[positive_physical_statement1]</li>
+		<li>positive_physical_statement->[positive_physical_statement2]</li>
+		<li>positive_physical_statement1->Các trang bên trong sạch sẽ không tì vết</li>
+		<li>positive_physical_statement1->Các trang được làm từ vật liệu thủy tinh mỏng</li>
+		<li>positive_physical_statement1->Mỗi trang được tạo thành từ cấu trúc hình kim cương</li>
+		<li>positive_physical_statement1->Cảm giác ấm áp</li>
+		<li>positive_physical_statement2->Nó có in logo của một nhà xuất bản danh tiếng ở thế giới cốt lõi - bản vẽ [coreworld]</li>
+		<li>positive_physical_statement2->Các mép trang vẫn chưa được cắt</li>
+		<li>positive_physical_statement2->Nhựa bán quý sáng bóng trên bề mặt của nó</li>
+		<li>otherwordly_nonphys_desc->Cầm bản vẽ của [author], không gian như sống động lên</li>
+		<li>otherwordly_nonphys_desc->Chỉ cần nhìn vào bản vẽ cũng khiến người đọc đau đầu</li>
+		<li>otherwordly_nonphys_desc->Khi nhìn vào bản vẽ, các ký hiệu dường như di chuyển nhanh chóng ở góc mắt người đọc</li>
+		<li>otherwordly_nonphys_desc->Luôn có những tiếng thì thầm xung quanh bản vẽ của [author]</li>
+		<li>otherwordly_nonphys_desc->Bản vẽ của [author] mang một ký hiệu đặc biệt của những vật thể cổ xưa không nên tồn tại</li>
+		<li>technical_nonphys_desc->Độ phức tạp của bản vẽ vượt quá khả năng hiểu biết của người đọc thông thường</li>
+		<li>technical_nonphys_desc->Ký hiệu này rất đặc biệt, đến từ một ngôn ngữ đã tuyệt chủng của người Impe</li>
+		<li>technical_nonphys_desc->Mặc dù thiết bị gần như không hoạt động, nhưng vẫn có dây điện chạy xuyên qua các trang của bản vẽ</li>
+		<li>technical_nonphys_desc->[author] đã giải thích cùng một cơ chế bằng ba ngôn ngữ khác nhau</li>
+		<li>academic_nonphys_desc->Bản vẽ này được dành tặng cho một bậc thầy trí tuệ, người đã truyền cảm hứng cho [author]</li>
+		<li>academic_nonphys_desc->Tài liệu này có huy hiệu của tổ chức tài trợ cho [author]</li>
+		<li>badsmells->Mùi hôi thối</li>
+		<li>badsmells->Có một mùi hôi</li>
+		<li>badsmells->Có mùi khó chịu</li>
+		<li>badsmells->Mùi hôi khó chịu</li>
+		<li>badsmells->Mùi khó ngửi</li>
+		<li>stink->Chất nhầy của xác chết</li>
+		<li>stink->Mùi lưu huỳnh và trứng thối</li>
+		<li>stink->Xác chết lâu ngày</li>
+		<li>stink->Giống như mồ hôi của người Ittakin</li>
+		<li>stink->Hơi thở hôi</li>
+		<li>stink->Giống như phòng thay đồ của kỵ sĩ</li>
+		<li>smells->Mùi hương dễ chịu</li>
+		<li>smells->Có mùi lạ</li>
+		<li>smells->Có mùi thơm</li>
+		<li>smells->Có hương thơm</li>
+		<li>scent->Giống như đáy thùng nho</li>
+		<li>scent->Pheromone của giống loài ưu đãi</li>
+		<li>scent->Mùi kem</li>
+		<li>scent->Gỗ đàn hương</li>
+		<li>scent->Mùi sữa chuột ngọt</li>
+		<li>scent->Gia vị từ thế giới lấp lánh</li>
+		<li>scent->Hạt giống cây mẹ tươi mới</li>
+		<li>conjunction->Và</li>
+		<li>conjunction->Nhưng</li>
+		<li>conjunction->Tuy nhiên</li>
+		<li>conjunction->Dù vậy</li>
+		<li>conjunction->Còn nữa</li>
+		<li>conjunction->Ngoài ra,</li>
+		<li>author(p=4)->Tác giả</li>
+		<li>author(p=4)->Biên tập viên</li>
+		<li>author->Nhà phát minh</li>
+		<li>author->Người sáng tạo</li>
+		<li>author(p=2)->Nhà phát triển</li>
+		<li>author(p=4)->Nhà thiết kế</li>
+		<li>author->Kỹ sư</li>
+		<li>author->Thợ thủ công</li>
+		<li>author->Người bình dân</li>
+		<li>author->Chuyên gia</li>
+		<li>author->Kỹ thuật viên</li>
+		<li>author->Chuyên gia</li>
+		<li>author->Thợ lành nghề</li>
+		<li>anAuthorDesc(p=2)->Một</li>
+		<li>anAuthorDesc->Một người trẻ tuổi</li>
+		<li>anAuthorDesc->Một người già</li>
+		<li>anAuthorDesc->Một người lo lắng</li>
+		<li>anAuthorDesc->Một người đau buồn</li>
+		<li>anAuthorDesc->Một người cao tuổi</li>
+		<li>anAuthorDesc->Một người khôn ngoan</li>
+		<li>anAuthorDesc->Một người cứng đầu</li>
+		<li>anAuthorDesc->Một người ngu ngốc</li>
+		<li>anAuthorDesc->Một người vô tội</li>
+		<li>anAuthorDesc->Một người lo lắng</li>
+		<li>anAuthorDesc->Một người sống lâu</li>
+		<li>anAuthorDesc->Một người dũng cảm</li>
+		<li>anAuthorDesc->Một người điển hình</li>
+		<li>anAuthorDesc->Một người nhàm chán</li>
+		<li>anAuthorDesc->Một người điên rồ</li>
+		<li>anAuthorDesc->Một người huyền thoại</li>
+		<li>anAuthorDesc->Một người có đạo đức cao cả</li>
+		<li>anAuthorDesc->Một người sa đọa</li>
+		<li>anAuthorDesc->Một người mơ hồ</li>
+		<li>worldname->[glitterworld]</li>
+		<li>worldname->[urbworld]</li>
+		<li>worldname->[deadworld]</li>
+		<li>worldname->[shellworld]</li>
+		<li>worldname->[ruinworld]</li>
+		<li>worldname->[medievalworld]</li>
+		<li>worldname->[steamworld]</li>
+		<li>worldname->[midworld]</li>
+		<li>worldname->[rimworld]</li>
+		<li>worldname->[coreworld]</li>
+		<li>worldname->[toxicworld]</li>
+		<li>worldname->[glassworld]</li>
+		<li>worldname->[transcendentworld]</li>
+		<li>worldname->[indworld]</li>
+		<li>worldname->[prisonworld]</li>
+		<li>worldname->[feudalworld]</li>
+		<li>worldname->[trashworld]</li>
+		<li>worldname->[iceworld]</li>
+		<li>worldname->[dinoworld]</li>
+		<li>worldname->[warworld]</li>
+		<li>worldname->[oceanicworld]</li>
+		<li>worldname->[mineworld]</li>
+		<li>worldname->[animalworld]</li>
+		<li>worldname->[asteroid]</li>
+		<li>worldname->[animalworld]</li>
+		<li>feralworld->[animalworld]</li>
+		<li>milworld->[warworld]</li>
+		<li>animalworld->Sorne</li>
+		<li>animalworld->Rhydell</li>
+		<li>animalworld->Zoutera</li>
+		<li>animalworld->Thylacine</li>
+		<li>animalworld->Jiai</li>
+		<li>animalworld->Steller's World</li>
+		<li>animalworld->Aukton</li>
+		<li>asteroid->Iwamura</li>
+		<li>asteroid->Atura</li>
+		<li>asteroid->Widdershins</li>
+		<li>asteroid->Ranomi</li>
+		<li>asteroid->Aesh 265</li>
+		<li>asteroid->Taxlos</li>
+		<li>asteroid->Aryn Sigma</li>
+		<li>coreworld->Novaroma</li>
+		<li>coreworld->Lutuni</li>
+		<li>coreworld->Zeglar</li>
+		<li>coreworld->Novaroma</li>
+		<li>coreworld->Cormora Prime</li>
+		<li>coreworld->Glossolia</li>
+		<li>coreworld->Barbaros</li>
+		<li>deadworld->Callos IX</li>
+		<li>deadworld->Haspia</li>
+		<li>deadworld->Gost IV</li>
+		<li>deadworld->Berimund</li>
+		<li>deadworld->Ardar</li>
+		<li>deadworld->Kremhild</li>
+		<li>deadworld->Melisandz</li>
+		<li>deathworld->Creticon</li>
+		<li>deathworld->Zartza</li>
+		<li>deathworld->Rayth</li>
+		<li>deathworld->Spectra</li>
+		<li>deathworld->JNovahex</li>
+		<li>deathworld->Carthago</li>
+		<li>deathworld->Grimcore</li>
+		<li>dinoworld->Oubanyen</li>
+		<li>dinoworld->Zoutera</li>
+		<li>dinoworld->Einio</li>
+		<li>dinoworld->Baryonyx</li>
+		<li>dinoworld->N'cilo</li>
+		<li>dinoworld->Venator</li>
+		<li>dinoworld->Brach</li>
+		<li>feudalworld->Aracena VI</li>
+		<li>feudalworld->Nuchadus</li>
+		<li>feudalworld->Filson</li>
+		<li>feudalworld->Fieth</li>
+		<li>feudalworld->Bloch Regis</li>
+		<li>feudalworld->Carlosphere</li>
+		<li>feudalworld->Magna Dijou</li>
+		<li>glassworld->Ceti V</li>
+		<li>glassworld->Thebes XIV</li>
+		<li>glassworld->Naga</li>
+		<li>glassworld->Merv</li>
+		<li>glassworld->Perse</li>
+		<li>glassworld->Shechem</li>
+		<li>glassworld->Yelhazor</li>
+		<li>glitterworld->Kalthas IV</li>
+		<li>glitterworld->Amen-Ti</li>
+		<li>glitterworld->Sophiamunda </li>
+		<li>glitterworld->Rogia</li>
+		<li>glitterworld->Utmaior</li>
+		<li>glitterworld->Caspian</li>
+		<li>glitterworld->Kenerella</li>
+		<li>iceworld->Yttak</li>
+		<li>iceworld->Dedchenko</li>
+		<li>iceworld->Baltoro</li>
+		<li>iceworld->Furtwale</li>
+		<li>iceworld->Jaqua</li>
+		<li>iceworld->Christensen</li>
+		<li>iceworld->Barnes</li>
+		<li>indworld->Irithir</li>
+		<li>indworld->New China</li>
+		<li>indworld->Hudders</li>
+		<li>indworld->Iver</li>
+		<li>indworld->Achesta</li>
+		<li>indworld->Oods</li>
+		<li>indworld->Iladelf</li>
+		<li>medievalworld->Chelis</li>
+		<li>medievalworld->Vinna</li>
+		<li>medievalworld->Cassone</li>
+		<li>medievalworld->Jork</li>
+		<li>medievalworld->Cochmar</li>
+		<li>medievalworld->Alin</li>
+		<li>medievalworld->Dubrognago</li>
+		<li>midworld->Khalderia</li>
+		<li>midworld->Elsin</li>
+		<li>midworld->Haihan</li>
+		<li>midworld->Seolure</li>
+		<li>midworld->Panga</li>
+		<li>midworld->New London CXI </li>
+		<li>midworld->San Delenda</li>
+		<li>mineworld->Xanides</li>
+		<li>mineworld->Bingham</li>
+		<li>mineworld->Saarhi</li>
+		<li>mineworld->Grasbeg</li>
+		<li>mineworld->Chuqui</li>
+		<li>mineworld->Olimpia</li>
+		<li>mineworld->Orme</li>
+		<li>oceanicworld->Wavia</li>
+		<li>oceanicworld->Wadka</li>
+		<li>oceanicworld->Gichen</li>
+		<li>oceanicworld->Port Yam</li>
+		<li>oceanicworld->Baia</li>
+		<li>oceanicworld->Thonis</li>
+		<li>oceanicworld->Moaui</li>
+		<li>prisonworld->Yttak</li>
+		<li>prisonworld->Aldgate</li>
+		<li>prisonworld->Borren</li>
+		<li>prisonworld->Hoalo</li>
+		<li>prisonworld->Casmina</li>
+		<li>prisonworld->Port Basil</li>
+		<li>prisonworld->Chateau D'Ouen</li>
+		<li>rimworld->Filson</li>
+		<li>rimworld->La Grand</li>
+		<li>rimworld->Dalles</li>
+		<li>rimworld->Twig Falls</li>
+		<li>rimworld->Old Boise</li>
+		<li>rimworld->Devil's Gate</li>
+		<li>rimworld->Laramiere</li>
+		<li>ruinworld->Earth</li>
+		<li>ruinworld->Ilwaba</li>
+		<li>ruinworld->Xennoa</li>
+		<li>ruinworld->Pichu</li>
+		<li>ruinworld->Perdida</li>
+		<li>ruinworld->Hisarlik</li>
+		<li>ruinworld->Helike</li>
+		<li>shellworld->Boccocarro</li>
+		<li>shellworld->Destria</li>
+		<li>shellworld->Trophic</li>
+		<li>shellworld->Matrio</li>
+		<li>shellworld->Samen</li>
+		<li>shellworld->Xinthia</li>
+		<li>shellworld->Ferbine</li>
+		<li>steamworld->Corliss</li>
+		<li>steamworld->Borassic</li>
+		<li>steamworld->Savery II</li>
+		<li>steamworld->Heron</li>
+		<li>steamworld->Malmesburi</li>
+		<li>steamworld->Architonnerre</li>
+		<li>steamworld->Escapement</li>
+		<li>toxicworld->Scylla</li>
+		<li>toxicworld->Mauro</li>
+		<li>toxicworld->Cerospor</li>
+		<li>toxicworld->Oxy VI</li>
+		<li>toxicworld->Sangwine</li>
+		<li>toxicworld->Soleno</li>
+		<li>toxicworld->Imbatus</li>
+		<li>transcendentworld->Xaroh</li>
+		<li>transcendentworld->Immanence VI</li>
+		<li>transcendentworld->Qabba</li>
+		<li>transcendentworld->Einsof</li>
+		<li>transcendentworld->Mitvo</li>
+		<li>transcendentworld->Samydi</li>
+		<li>transcendentworld->Samsarr</li>
+		<li>trashworld->Bagua 5</li>
+		<li>trashworld->Puobell</li>
+		<li>trashworld->Deni IX</li>
+		<li>trashworld->Garbsh</li>
+		<li>trashworld->Tra'age</li>
+		<li>trashworld->Reepsyk</li>
+		<li>trashworld->Mystras</li>
+		<li>urbworld->Euterpe</li>
+		<li>urbworld->Avenna</li>
+		<li>urbworld->Essalon</li>
+		<li>urbworld->Enike</li>
+		<li>urbworld->Adocia</li>
+		<li>urbworld->N'toch</li>
+		<li>urbworld->Barca</li>
+		<li>warworld->Kemia</li>
+		<li>warworld->Vanu</li>
+		<li>warworld->Samnium</li>
+		<li>warworld->Kyrus</li>
+		<li>warworld->Punica</li>
+		<li>warworld->Cimbria XII</li>
+		<li>warworld->Barkitos</li>
+		<li>schematic_container->Hướng dẫn</li>
+		<li>schematic_container->Tóm tắt</li>
+		<li>schematic_container->Bìa rời</li>
+		<li>schematic_container->Thư mục</li>
+		<li>schematic_container->Tập sách</li>
+		<li>schematic_container->Gói</li>
+		<li>schematic_container->Hộp</li>
+		<li>schematic_container->Bọc</li>
+		<li>schematic_container->Hồ sơ</li>
+		<li>schematic_container->Gói</li>
+		<li>schematic_container->Bộ</li>
+		<li>schematic_container->Hộp</li>
+		<li>physical_adjective->Bẩn thỉu</li>
+		<li>physical_adjective->Nhỏ bé</li>
+		<li>physical_adjective->Thô ráp</li>
+		<li>physical_adjective->Khổng lồ</li>
+		<li>physical_adjective->Tinh xảo</li>
+		<li>physical_adjective->Đơn giản</li>
+		<li>physical_adjective->Mới tinh</li>
+		<li>physical_adjective->Tinh tế</li>
+		<li>physical_adjective->Cổ xưa</li>
+		<li>physical_adjective->Bị bỏ rơi</li>
+		<li>physical_adjective->Hỏng</li>
+		<li>physical_adjective->Mòn</li>
+		<li>physical_adjective->Cong vênh</li>
+		<li>physical_adjective->Lỗi thời</li>
+		<li>physical_adjective->Béo</li>
+		<li>physical_adjective->Ấm áp</li>
+		<li>physical_adjective->Giống như vải vụn</li>
+		<li>physical_adjective->Bằng gỗ</li>
+		<li>physical_adjective->Thô ráp</li>
+		<li>physical_adjective->Có gai</li>
+		<li>physical_adjective->Mịn màng</li>
+		<li>physical_adjective->Mang hơi thở quê hương</li>
+		<li>physical_adjective->Chức năng</li>
+		<li>physical_adjective->Lỗi thời</li>
+		<li>physical_adjective->Khó hiểu</li>
+		<li>physical_adjective->Quý giá</li>
+		<li>shows_synonym_verb->[shows_synonym_verb1]</li>
+		<li>shows_synonym_verb->[shows_synonym_verb2]</li>
+		<li>shows_synonym_verb1->Miêu tả</li>
+		<li>shows_synonym_verb1->Khắc họa</li>
+		<li>shows_synonym_verb1->Trình bày</li>
+		<li>shows_synonym_verb1->Trưng bày</li>
+		<li>shows_synonym_verb1->Thể hiện</li>
+		<li>shows_synonym_verb2->Thể hiện</li>
+		<li>shows_synonym_verb2->Miêu tả</li>
+		<li>shows_synonym_verb2->Mô tả</li>
+		<li>contain_verb->Chứa đựng</li>
+		<li>contain_verb->Bao gồm</li>
+		<li>contain_verb->Chứa</li>
+		<li>contain_verb->Lưu trữ</li>
+		<li>contain_verb->Bao hàm</li>
+		<li>schematic_synonym->Bản vẽ</li>
+		<li>schematic_synonym->Biểu đồ</li>
+		<li>schematic_synonym->Bản thiết kế</li>
+		<li>schematic_synonym->Thiết kế</li>
+		<li>schematic_synonym->Nguyên mẫu</li>
+		<li>schematic_synonym->Thông số sản phẩm</li>
+		<li>schematic_synonym->Hướng dẫn sử dụng</li>
+		<li>state_adjective->Dự thảo</li>
+		<li>state_adjective->Đã hoàn thành</li>
+		<li>state_adjective->Chưa hoàn thành</li>
+		<li>state_adjective->Hoàn chỉnh</li>
+		<li>diagram_type->Hình minh họa</li>
+		<li>diagram_type->Miêu tả</li>
+		<li>diagram_type->Biểu đồ</li>
+		<li>diagram_type->Bản thiết kế</li>
+		<li>diagram_type->Biểu đồ thông tin</li>
+		<li>diagram_type->Bản vẽ</li>
+		<li>diagram_type->Mặt cắt</li>
+		<li>diagram_type->Hình</li>
+		<li>diagram_type->Bảng</li>
+		<li>theory_synonym_adj->Lý thuyết</li>
+		<li>theory_synonym_adj->Khái niệm</li>
+		<li>theory_synonym_adj->Khái niệm</li>
+		<li>theory_synonym_adj->Giả thuyết</li>
+		<li>theory_synonym_adj->Ý tưởng</li>
+		<li>device_synonym->Cơ chế</li>
+		<li>device_synonym->Thiết bị</li>
+		<li>device_synonym->Ý tưởng</li>
+		<li>device_synonym->Phát minh</li>
+		<li>device_synonym->Bộ phận</li>
+		<li>device_synonym->Sáng tạo</li>
+		<li>device_synonym->Công cụ</li>
+		<li>device_synonym->Thiết bị cố định</li>
+		<li>device_synonym->Mô-đun</li>
+		<li>image_types->Ảnh</li>
+		<li>image_types->Hình vẽ</li>
+		<li>image_types->Điêu khắc</li>
+		<li>image_types->Tranh màu nước</li>
+		<li>image_types->Bản thiết kế</li>
+		<li>image_types->Phác thảo</li>
+		<li>image_types->Hoạt hình</li>
+		<li>other_subject->Cơ sở hạ tầng</li>
+		<li>other_subject->Nhân viên</li>
+		<li>other_subject->Giao tiếp</li>
+		<li>other_subject->Phạm vi</li>
+		<li>other_subject->Ngân sách</li>
+		<li>other_subject->Tài nguyên</li>
+		<li>dates->Bản vẽ đã được xuất bản vào [date_form]</li>
+		<li>dates->Bản vẽ lần đầu được in vào [date_form]</li>
+		<li>dates->Hiện tại vẫn chưa rõ thời gian chính xác bản vẽ này được tạo ra</li>
+		<li>date_form->Gần đây</li>
+		<li>date_form->Nhiều thế kỷ trước</li>
+		<li>date_form->Vào [date]</li>
+		<li>date_form->Vào [date_season]</li>
+	</Description_Schematic.rulePack.rulesStrings>
+	<Description_SkillBook.rulePack.rulesStrings>
+		<li>subject->[subject_primary]</li>
+		<li>desc->[discussion].\n\n[anecdote].[production].\n\n[quality_statement].</li>
+		<li>discussion->Cuốn [textbook] này cung cấp thông tin hữu ích về [subject][detail]</li>
+		<li>discussion->Cuốn [textbook] này khẳng định vị thế của tác giả trong lĩnh vực [subject][detail]</li>
+		<li>discussion->Những người tìm kiếm [understanding_synonym][subject] cuối cùng đều hướng đến cuốn [notable_adjective][textbook][detail]</li>
+		<li>discussion->Một cuốn [textbook] tiêu chuẩn về [subject][detail]</li>
+		<li>discussion->Phiên bản đầu tiên của tác giả về [subject][detail] trong cuốn [textbook]</li>
+		<li>detail->.Bản [precis_synonym] tập trung vào các khía cạnh kỹ thuật cao của chủ đề này</li>
+		<li>detail->.Đây là một [precis_synonym] ngắn gọn về một lĩnh vực phức tạp</li>
+		<li>detail->.[precis_synonym] chỉ ra rằng khi [ANYPAWN_label] hoàn thành cuốn sách này, nó là tiên tiến nhất trong lĩnh vực</li>
+		<li>detail->.Một câu châm ngôn trên [note_location] nói rằng, “Những [students] thực sự của [subject] không thể bỏ qua cuốn sách của [ANYPAWN_label]”</li>
+		<li>students->Sinh viên</li>
+		<li>students->Người đam mê</li>
+		<li>students->Người hành nghề</li>
+		<li>detail->.Nó sẽ dẫn bạn từng bước qua lĩnh vực này</li>
+		<li>detail(quality[less_than]4)->,mặc dù tác giả chỉ giới thiệu một cách vội vàng về lĩnh vực này</li>
+		<li>detail(quality[greater_than]3)->.Cuốn sách đã thảo luận khá toàn diện về lĩnh vực này</li>
+		<li>detail->.Tác giả trong [ANYPAWN_possessive][precis_synonym] đã tuyên bố rằng cuốn sách này có bản sao trái phép, nhưng cuốn này không phải là một trong số đó.</li>
+		<li>detail(quality[less_than]4)->,mặc dù việc truyền đạt ý tưởng qua các cuộc đối thoại tưởng tượng có thể gặp nhiều vấn đề</li>
+		<li>detail->.Những phát biểu của tác giả trong [precis_synonym] không đi lệch khỏi chủ đề</li>
+		<li>production->[precis_synonym] nói rằng đây là bản sao viết tay trên [worldname]</li>
+		<li>production->[precis_synonym] nói rằng đại học [worldname] đã xuất bản một bộ sách này</li>
+		<li>production->[precis_synonym] nói rằng mặc dù những ghi chú này chỉ dành cho [ANYPAWN_label] sử dụng cá nhân, nhưng thực tế đã được chia sẻ rộng rãi [maybe_detail]</li>
+		<li>production->Phần thực sự hữu ích của cuốn [textbook] này bị ẩn trong các chi tiết tiểu sử</li>
+		<li>production->[note_location] của [note] cho biết rằng nhà in ở [worldname] đã đóng cửa sau khi xảy ra bạo loạn, vì vậy các phiên bản sau này rất hiếm</li>
+		<li>production->[note] cho biết phần lớn các bản sao của cuốn [textbook] đã bị mất trong sự kiện ở [worldname]</li>
+		<li>production->[precis_synonym] rõ ràng chỉ ra rằng những độc giả hiểu biết về kỹ thuật thông tin thường tránh xa bộ [textbook] này — nhưng không giải thích lý do</li>
+		<li>production->Từ [note_location], có thể thấy rằng các chuyên gia [subject] ở [worldname] đã chi nhiều tiền để in cuốn sách này, sau đó nó đã được phổ biến rộng rãi</li>
+		<li>production->[note_location] giải thích rằng phiên bản đầu tiên của cuốn sách này là do [ANYPAWN_label][ANYPAWN_objective] tự tay viết</li>
+		<li>production->Nữ công tước [worldname] đã tài trợ cho cuốn [textbook] này, nhưng điều kiện là phải cung cấp miễn phí cho công chúng</li>
+		<li>production->Ghi chú cho biết rằng nhà sách ở [coreworld] đã đặt hàng phiên bản đầu tiên của cuốn [textbook]</li>
+		<li>production->Ở mặt sau của cuốn sách, nhà xuất bản còn quảng bá một bộ lớn hơn — liên quan đến tất cả các kỹ năng cần thiết để sinh tồn trên các hành tinh biên giới</li>
+		<li>production->Xét về sự không chính xác trong từ ngữ, nhà xuất bản có thể nên thẳng thắn hơn khi thực hiện nhiệm vụ biên tập của mình</li>
+		<li>quality_statement->[exterior_quality] [page_quality]</li>
+		<li>anecdote->Xét đến khoảng cách lớn giữa năm sinh của [ANYPAWN_nameFull] và ngày xuất bản cuốn sách này, [ANYPAWN_pronoun] rất có thể đã không sống để thấy cuốn sách được xuất bản</li>
+		<li>anecdote->Tại [note_location], có người đã dán một bài phê bình nghiêm khắc về cuốn sách này</li>
+		<li>anecdote->[precis_synonym] chỉ ra rằng cuốn sách này đã được thông qua hệ thống thư viện công cộng ở [urbworld]</li>
+		<li>anecdote->Theo [note_location], [ANYPAWN_nameFull] nổi tiếng là chuyên gia ở nhiều lĩnh vực</li>
+		<li>anecdote->Theo [note_location], người dân [worldname] vẫn đang nói về [ANYPAWN_nameFull] và nhớ đến tình yêu của [ANYPAWN_possessive] đối với [subject]</li>
+		<li>anecdote->Theo [note_location], một sự cố kỳ lạ đã dẫn đến cái chết của tác giả [ANYPAWN_nameFull] ngay sau khi xuất bản</li>
+		<li>anecdote->Theo [precis_synonym], [ANYPAWN_nameFull] đã dạy học tại học viện ở [coreworld], và cuốn sách này được viết dựa trên các bài giảng của [ANYPAWN_possessive]</li>
+		<li>anecdote->Theo [precis_synonym], kiến thức của [ANYPAWN_nameFull] về [subject] nổi tiếng đến nỗi mọi người sẽ chặn [ANYPAWN_objective] trên đường để hỏi về các vấn đề liên quan</li>
+		<li>anecdote->Theo [note_location], [ANYPAWN_nameFull] đã nghèo khổ và bán bản quyền của bộ sách này với giá rất thấp</li>
+		<li>anecdote->Theo [note_location], [ANYPAWN_nameFull] đã bị mù bẩm sinh, vì vậy chưa bao giờ thấy cuốn sách của [ANYPAWN_possessive]</li>
+		<li>anecdote->Theo [note_location], bản thảo ban đầu của sách giáo khoa của [ANYPAWN_nameFull] nổi tiếng với việc chứa đựng năm mươi trang nội dung vô nghĩa. Phần này đã bị xóa trong phiên bản thứ hai</li>
+		<li>anecdote->Theo [note_location], danh tiếng của [ANYPAWN_nameFull] rất tệ đến nỗi [ANYPAWN_pronoun] đã xuất bản cuốn sách này dưới một bút danh</li>
+		<li>anecdote->Theo [note_location], [ANYPAWN_nameFull] rất lười biếng khi còn nhỏ, khiến cha mẹ [ANYPAWN_possessive] tuyệt vọng. Cuốn sách giáo khoa này là một biện hộ cho khả năng của [ANYPAWN_possessive]</li>
+		<li>anecdote->Theo [precis_synonym], chính trong cuộc hôn nhân thứ tư của [ANYPAWN_nameFull] mà [ANYPAWN_pronoun] đã hình dung ra một cuốn sách giáo khoa về [subject]. (Điều này dẫn đến cuộc ly hôn thứ tư của [ANYPAWN_possessive])</li>
+		<li>textbook->Hướng dẫn nhập môn</li>
+		<li>textbook->Sổ tay</li>
+		<li>textbook->Sách giáo khoa</li>
+		<li>textbook(p=6)->Sách</li>
+		<li>textbook->Sách bài tập</li>
+		<li>textbook->Sách tham khảo</li>
+		<li>textbook->Tập hợp</li>
+		<li>textbook->Sách hướng dẫn</li>
+		<li>textbook->Tờ rơi</li>
+		<li>textbook->Chương trình giảng dạy</li>
+		<li>textbook->Sách học</li>
+		<li>textbook->Sách tham khảo</li>
+		<li>textbook->Sách trường học</li>
+		<li>textbook->Bách khoa toàn thư</li>
+		<li>textbook->Sổ tay</li>
+		<li>textbook->Sách thương mại</li>
+		<li>textbook->Tác phẩm</li>
+		<li>precis_synonym->Tóm tắt</li>
+		<li>precis_synonym->Hình minh họa bìa</li>
+		<li>precis_synonym->Tóm lược</li>
+		<li>precis_synonym->Tóm tắt</li>
+		<li>precis_synonym->Đề cương</li>
+		<li>precis_synonym->Trích đoạn</li>
+		<li>note_location->Bìa</li>
+		<li>note_location->Mặt sau bìa</li>
+		<li>note_location->Trang trong bìa</li>
+		<li>note_location->Trang ngoài bìa</li>
+		<li>note_location->Trang đầu tiên</li>
+		<li>note_location->Trang cuối cùng</li>
+		<li>note_location->Chân trang</li>
+		<li>note_location->Trang bìa</li>
+		<li>note_location->Chú thích</li>
+		<li>note_location->Chú giải cuối</li>
+		<li>note_location->Tiểu sử tác giả</li>
+		<li>note_location->Nhãn vận chuyển</li>
+		<li>note->Ghi chú</li>
+		<li>note->Phụ lục</li>
+		<li>note->Lời nói đầu</li>
+		<li>note->Lời nói đầu</li>
+		<li>note->Phụ lục</li>
+		<li>note->Kết luận</li>
+		<li>note->Chú thích</li>
+		<li>note->Chú giải cuối</li>
+		<li>useful_information->Các đoạn thông tin hữu ích</li>
+		<li>useful_information->Thông tin hữu ích</li>
+		<li>useful_information->Sự thật thú vị</li>
+		<li>useful_information->Những hiểu biết quý giá</li>
+		<li>useful_information->Những hiểu biết thực tiễn</li>
+		<li>useful_information->Mẹo hữu ích</li>
+		<li>useful_information->Chi tiết thông tin</li>
+		<li>understanding_synonym->Kiến thức sâu rộng</li>
+		<li>understanding_synonym->Chuyên môn</li>
+		<li>understanding_synonym->Triết lý</li>
+		<li>understanding_synonym->Đạo đức quan</li>
+		<li>notable_adjective->Nổi tiếng</li>
+		<li>notable_adjective->Khó hiểu</li>
+		<li>notable_adjective->Biểu tượng</li>
+		<li>notable_adjective->Cổ điển</li>
+		<li>notable_adjective->Thông thường</li>
+		<li>notable_adjective->Quen thuộc</li>
+		<li>notable_adjective->Vĩnh cửu</li>
+		<li>notable_adjective->Mất cân bằng</li>
+		<li>notable_adjective->Hài hòa</li>
+		<li>notable_adjective->Thanh lịch</li>
+		<li>notable_adjective->Đơn giản</li>
+		<li>notable_adjective->Thực dụng</li>
+		<li>notable_adjective->Thế giới đô thị</li>
+		<li>notable_adjective->Thế giới lấp lánh</li>
+		<li>notable_adjective->Nguyên thủy</li>
+		<li>notable_adjective->Trang trí</li>
+		<li>exterior_quality(quality[greater_than]4)->Ngoại hình của cuốn sách rất tinh xảo và</li>
+		<li>exterior_quality(quality[greater_than]4)->Như một kiệt tác của nghệ thuật in ấn, cuốn sách này lấp lánh và</li>
+		<li>exterior_quality(quality[greater_than]4)->Bìa da của nó mặc dù thô ráp nhưng</li>
+		<li>exterior_quality(quality[greater_than]4)->Mặc dù bìa rất đơn giản,</li>
+		<li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Cuốn sách này mặc dù không còn nổi bật, nhưng</li>
+		<li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Mặc dù là một cuốn sách đã qua sử dụng,</li>
+		<li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Cuốn sách này mặc dù đã đổi nhiều chủ nhưng</li>
+		<li>exterior_quality(quality[less_than]2)->Mặt trước của cuốn sách nhìn có vẻ hấp dẫn, nhưng</li>
+		<li>exterior_quality(quality[less_than]2)->Có người đã xé đi một phần ba đầu của cuốn sách, và</li>
+		<li>exterior_quality(quality[less_than]2)->Bìa đã bị ngâm trong một chất lỏng có mùi mạnh, và</li>
+		<li>exterior_quality(quality[less_than]2)->Thoạt nhìn cuốn sách không có vấn đề gì, nhưng</li>
+		<li>page_quality->Trang [page_condition]</li>
+		<li>page_condition(quality[greater_than]4)->[page_excellent]</li>
+		<li>page_condition(quality[less_than]5,quality[greater_than]1)->[page_decent]</li>
+		<li>page_condition(quality[less_than]2)->[page_awful]</li>
+		<li>page_excellent->Tình trạng tuyệt vời đến mức như chưa từng bị chạm vào</li>
+		<li>page_excellent->Tình trạng tốt</li>
+		<li>page_excellent->Mới nguyên vẹn</li>
+		<li>page_excellent->Sáng bóng và sạch sẽ</li>
+		<li>page_excellent->Được bảo quản một cách độc đáo tốt</li>
+		<li>page_decent->Tình trạng cũng khá ổn</li>
+		<li>page_decent->Nếu có nếp nhăn vẫn có thể đọc được</li>
+		<li>page_decent->Hoàn toàn có thể đọc</li>
+		<li>page_decent->Nếu có một số vết trầy thì tình trạng vẫn khá ổn</li>
+		<li>page_awful->Dường như được viết trên da cừu bị hỏng</li>
+		<li>page_awful->Bị hư hại nghiêm trọng</li>
+		<li>page_awful->Bị bẩn bởi một chất màu tối</li>
+		<li>page_awful->Không thể đọc được</li>
+		<li>page_awful->Có ghi chú không thể đọc được</li>
+		<li>worldname->[glitterworld]</li>
+		<li>worldname->[urbworld]</li>
+		<li>worldname->[deadworld]</li>
+		<li>worldname->[shellworld]</li>
+		<li>worldname->[ruinworld]</li>
+		<li>worldname->[medievalworld]</li>
+		<li>worldname->[steamworld]</li>
+		<li>worldname->[midworld]</li>
+		<li>worldname->[rimworld]</li>
+		<li>worldname->[coreworld]</li>
+		<li>worldname->[toxicworld]</li>
+		<li>worldname->[glassworld]</li>
+		<li>worldname->[transcendentworld]</li>
+		<li>worldname->[indworld]</li>
+		<li>worldname->[prisonworld]</li>
+		<li>worldname->[feudalworld]</li>
+		<li>worldname->[trashworld]</li>
+		<li>worldname->[iceworld]</li>
+		<li>worldname->[dinoworld]</li>
+		<li>worldname->[warworld]</li>
+		<li>worldname->[oceanicworld]</li>
+		<li>worldname->[mineworld]</li>
+		<li>worldname->[animalworld]</li>
+		<li>worldname->[asteroid]</li>
+		<li>worldname->[animalworld]</li>
+		<li>feralworld->[animalworld]</li>
+		<li>milworld->[warworld]</li>
+		<li>animalworld->Sorne</li>
+		<li>animalworld->Rhydell</li>
+		<li>animalworld->Zoutera</li>
+		<li>animalworld->Thylacine</li>
+		<li>animalworld->Jiai</li>
+		<li>animalworld->Steller's World</li>
+		<li>animalworld->Aukton</li>
+		<li>asteroid->Iwamura</li>
+		<li>asteroid->Atura</li>
+		<li>asteroid->Widdershins</li>
+		<li>asteroid->Ranomi</li>
+		<li>asteroid->Aesh 265</li>
+		<li>asteroid->Taxlos</li>
+		<li>asteroid->Aryn Sigma</li>
+		<li>coreworld->Novaroma</li>
+		<li>coreworld->Lutuni</li>
+		<li>coreworld->Zeglar</li>
+		<li>coreworld->Novaroma</li>
+		<li>coreworld->Cormora Prime</li>
+		<li>coreworld->Glossolia</li>
+		<li>coreworld->Barbaros</li>
+		<li>deadworld->Callos IX</li>
+		<li>deadworld->Haspia</li>
+		<li>deadworld->Gost IV</li>
+		<li>deadworld->Berimund</li>
+		<li>deadworld->Ardar</li>
+		<li>deadworld->Kremhild</li>
+		<li>deadworld->Melisandz</li>
+		<li>deathworld->Creticon</li>
+		<li>deathworld->Zartza</li>
+		<li>deathworld->Rayth</li>
+		<li>deathworld->Spectra</li>
+		<li>deathworld->JNovahex</li>
+		<li>deathworld->Carthago</li>
+		<li>deathworld->Grimcore</li>
+		<li>dinoworld->Oubanyen</li>
+		<li>dinoworld->Zoutera</li>
+		<li>dinoworld->Einio</li>
+		<li>dinoworld->Baryonyx</li>
+		<li>dinoworld->N'cilo</li>
+		<li>dinoworld->Venator</li>
+		<li>dinoworld->Brach</li>
+		<li>feudalworld->Aracena VI</li>
+		<li>feudalworld->Nuchadus</li>
+		<li>feudalworld->Filson</li>
+		<li>feudalworld->Fieth</li>
+		<li>feudalworld->Bloch Regis</li>
+		<li>feudalworld->Carlosphere</li>
+		<li>feudalworld->Magna Dijou</li>
+		<li>glassworld->Ceti V</li>
+		<li>glassworld->Thebes XIV</li>
+		<li>glassworld->Naga</li>
+		<li>glassworld->Merv</li>
+		<li>glassworld->Perse</li>
+		<li>glassworld->Shechem</li>
+		<li>glassworld->Yelhazor</li>
+		<li>glitterworld->Kalthas IV</li>
+		<li>glitterworld->Amen-Ti</li>
+		<li>glitterworld->Sophiamunda</li>
+		<li>glitterworld->Rogia</li>
+		<li>glitterworld->Utmaior</li>
+		<li>glitterworld->Caspian</li>
+		<li>glitterworld->Kenerella</li>
+		<li>iceworld->Yttak</li>
+		<li>iceworld->Dedchenko</li>
+		<li>iceworld->Baltoro</li>
+		<li>iceworld->Furtwale</li>
+		<li>iceworld->Jaqua</li>
+		<li>iceworld->Christensen</li>
+		<li>iceworld->Barnes</li>
+		<li>indworld->Irithir</li>
+		<li>indworld->New China</li>
+		<li>indworld->Hudders</li>
+		<li>indworld->Iver</li>
+		<li>indworld->Achesta</li>
+		<li>indworld->Oods</li>
+		<li>indworld->Iladelf</li>
+		<li>medievalworld->Chelis</li>
+		<li>medievalworld->Vinna</li>
+		<li>medievalworld->Cassone</li>
+		<li>medievalworld->Jork</li>
+		<li>medievalworld->Cochmar</li>
+		<li>medievalworld->Alin</li>
+		<li>medievalworld->Dubrognago</li>
+		<li>midworld->Khalderia</li>
+		<li>midworld->Elsin</li>
+		<li>midworld->Haihan</li>
+		<li>midworld->Seolure</li>
+		<li>midworld->Panga</li>
+		<li>midworld->New London CXI </li>
+		<li>midworld->San Delenda</li>
+		<li>mineworld->Xanides</li>
+		<li>mineworld->Bingham</li>
+		<li>mineworld->Saarhi</li>
+		<li>mineworld->Grasbeg</li>
+		<li>mineworld->Chuqui</li>
+		<li>mineworld->Olimpia</li>
+		<li>mineworld->Orme</li>
+		<li>oceanicworld->Wavia</li>
+		<li>oceanicworld->Wadka</li>
+		<li>oceanicworld->Gichen</li>
+		<li>oceanicworld->Port Yam</li>
+		<li>oceanicworld->Baia</li>
+		<li>oceanicworld->Thonis</li>
+		<li>oceanicworld->Moaui</li>
+		<li>prisonworld->Yttak</li>
+		<li>prisonworld->Aldgate</li>
+		<li>prisonworld->Borren</li>
+		<li>prisonworld->Hoalo</li>
+		<li>prisonworld->Casmina</li>
+		<li>prisonworld->Port Basil</li>
+		<li>prisonworld->Chateau D'Ouen</li>
+		<li>rimworld->Filson</li>
+		<li>rimworld->La Grand</li>
+		<li>rimworld->Dalles</li>
+		<li>rimworld->Twig Falls</li>
+		<li>rimworld->Old Boise</li>
+		<li>rimworld->Devil's Gate</li>
+		<li>rimworld->Laramiere</li>
+		<li>ruinworld->Earth</li>
+		<li>ruinworld->Ilwaba</li>
+		<li>ruinworld->Xennoa</li>
+		<li>ruinworld->Pichu</li>
+		<li>ruinworld->Perdida</li>
+		<li>ruinworld->Hisarlik</li>
+		<li>ruinworld->Helike</li>
+		<li>shellworld->Boccocarro</li>
+		<li>shellworld->Destria</li>
+		<li>shellworld->Trophic</li>
+		<li>shellworld->Matrio</li>
+		<li>shellworld->Samen</li>
+		<li>shellworld->Xinthia</li>
+		<li>shellworld->Ferbine</li>
+		<li>steamworld->Corliss</li>
+		<li>steamworld->Borassic</li>
+		<li>steamworld->Savery II</li>
+		<li>steamworld->Heron</li>
+		<li>steamworld->Malmesburi</li>
+		<li>steamworld->Architonnerre</li>
+		<li>steamworld->Escapement</li>
+		<li>toxicworld->Scylla</li>
+		<li>toxicworld->Mauro</li>
+		<li>toxicworld->Cerospor</li>
+		<li>toxicworld->Oxy VI</li>
+		<li>toxicworld->Sangwine</li>
+		<li>toxicworld->Soleno</li>
+		<li>toxicworld->Imbatus</li>
+		<li>transcendentworld->Xaroh</li>
+		<li>transcendentworld->Immanence VI</li>
+		<li>transcendentworld->Qabba</li>
+		<li>transcendentworld->Einsof</li>
+		<li>transcendentworld->Mitvo</li>
+		<li>transcendentworld->Samydi</li>
+		<li>transcendentworld->Samsarr</li>
+		<li>trashworld->Bagua 5</li>
+		<li>trashworld->Puobell</li>
+		<li>trashworld->Deni IX</li>
+		<li>trashworld->Garbsh</li>
+		<li>trashworld->Tra'age</li>
+		<li>trashworld->Reepsyk</li>
+		<li>trashworld->Mystras</li>
+		<li>urbworld->Euterpe</li>
+		<li>urbworld->Avenna</li>
+		<li>urbworld->Essalon</li>
+		<li>urbworld->Enike</li>
+		<li>urbworld->Adocia</li>
+		<li>urbworld->N'toch</li>
+		<li>urbworld->Barca</li>
+		<li>warworld->Kemia</li>
+		<li>warworld->Vanu</li>
+		<li>warworld->Samnium</li>
+		<li>warworld->Kyrus</li>
+		<li>warworld->Punica</li>
+		<li>warworld->Cimbria XII</li>
+		<li>warworld->Barkitos</li>
+	</Description_SkillBook.rulePack.rulesStrings>
+</LanguageData>

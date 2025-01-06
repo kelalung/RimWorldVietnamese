@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Scarification_Extreme.stages.scarified.label>Có sẹo</Scarification_Extreme.stages.scarified.label>
+<Scarification_Extreme.stages.scarified.description>Hy sinh của tôi được ghi lại trong nỗi đau không thể xóa nhòa.</Scarification_Extreme.stages.scarified.description>
+<Scarification_Extreme.stages.not_scarified.label>Không có sẹo</Scarification_Extreme.stages.not_scarified.label>
+<Scarification_Extreme.stages.not_scarified.description>Da mịn màng này thật sự là một sự mỉa mai.</Scarification_Extreme.stages.not_scarified.description>
+<Scarification_Extreme.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Extreme.stages.insufficiently_scarified.label>
+<Scarification_Extreme.stages.insufficiently_scarified.description>Da mịn màng này thật sự là một sự mỉa mai.</Scarification_Extreme.stages.insufficiently_scarified.description>
+<Scarification_Extreme_Opinion.stages.scarified.label>Có sẹo</Scarification_Extreme_Opinion.stages.scarified.label>
+<Scarification_Extreme_Opinion.stages.not_scarified.label>Không có sẹo</Scarification_Extreme_Opinion.stages.not_scarified.label>
+<Scarification_Extreme_Opinion.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Extreme_Opinion.stages.insufficiently_scarified.label>
+<Scarification_Heavy.stages.scarified.label>Có sẹo</Scarification_Heavy.stages.scarified.label>
+<Scarification_Heavy.stages.scarified.description>Tôi đã chịu đựng nhiều tổn thương, điều này là đúng.</Scarification_Heavy.stages.scarified.description>
+<Scarification_Heavy.stages.not_scarified.label>Không có sẹo</Scarification_Heavy.stages.not_scarified.label>
+<Scarification_Heavy.stages.not_scarified.description>Da mịn màng này là không đúng.</Scarification_Heavy.stages.not_scarified.description>
+<Scarification_Heavy.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Heavy.stages.insufficiently_scarified.label>
+<Scarification_Heavy.stages.insufficiently_scarified.description>Da mịn màng này là không đúng.</Scarification_Heavy.stages.insufficiently_scarified.description>
+<Scarification_Heavy_Opinion.stages.scarified.label>Có sẹo</Scarification_Heavy_Opinion.stages.scarified.label>
+<Scarification_Heavy_Opinion.stages.not_scarified.label>Không có sẹo</Scarification_Heavy_Opinion.stages.not_scarified.label>
+<Scarification_Heavy_Opinion.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Heavy_Opinion.stages.insufficiently_scarified.label>
+<Scarification_Minor.stages.scarified.label>Có sẹo</Scarification_Minor.stages.scarified.label>
+<Scarification_Minor.stages.scarified.description>Tôi mang dấu ấn này, điều này là đúng.</Scarification_Minor.stages.scarified.description>
+<Scarification_Minor.stages.not_scarified.label>Không có sẹo</Scarification_Minor.stages.not_scarified.label>
+<Scarification_Minor.stages.not_scarified.description>Tôi thiếu những vết sẹo nghi lễ thích hợp.</Scarification_Minor.stages.not_scarified.description>
+<Scarification_Minor.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Minor.stages.insufficiently_scarified.label>
+<Scarification_Minor.stages.insufficiently_scarified.description>Tôi thiếu những vết sẹo nghi lễ thích hợp.</Scarification_Minor.stages.insufficiently_scarified.description>
+<Scarification_Minor_Opinion.stages.scarified.label>Có sẹo</Scarification_Minor_Opinion.stages.scarified.label>
+<Scarification_Minor_Opinion.stages.not_scarified.label>Không có sẹo</Scarification_Minor_Opinion.stages.not_scarified.label>
+<Scarification_Minor_Opinion.stages.insufficiently_scarified.label>Sẹo quá ít</Scarification_Minor_Opinion.stages.insufficiently_scarified.label>
+<ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>Nghi lễ hy sinh</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>
+<ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>Chúng tôi đã làm tổn thương một thuộc địa vì đức tin! Điều này là sai!</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>
+<ScarificationCeremony_Self_Extreme.stages.got_scarified.label>Có sẹo</ScarificationCeremony_Self_Extreme.stages.got_scarified.label>
+<ScarificationCeremony_Self_Extreme.stages.got_scarified.description>Dấu ấn nghi lễ mà tôi chịu đựng kết nối tôi với sự thật của chúng tôi.</ScarificationCeremony_Self_Extreme.stages.got_scarified.description>
+<ScarificationCeremony_Self_Heavy.stages.got_scarified.label>Có sẹo</ScarificationCeremony_Self_Heavy.stages.got_scarified.label>
+<ScarificationCeremony_Self_Heavy.stages.got_scarified.description>Dấu ấn nghi lễ mà tôi chịu đựng kết nối tôi với sự thật của chúng tôi.</ScarificationCeremony_Self_Heavy.stages.got_scarified.description>
+<ScarificationCeremony_Self_Minor.stages.got_scarified.label>Có sẹo</ScarificationCeremony_Self_Minor.stages.got_scarified.label>
+<ScarificationCeremony_Self_Minor.stages.got_scarified.description>Dấu ấn nghi lễ mà tôi chịu đựng luôn nhắc nhở tôi về sự tồn tại của chân lý.</ScarificationCeremony_Self_Minor.stages.got_scarified.description>
+</LanguageData>

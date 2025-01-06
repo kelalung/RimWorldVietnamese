@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AgonyPulse.label>Puls đau đớn</AgonyPulse.label>
+	<AgonyPulse.description>Giải phóng một xung tâm linh khiến mục tiêu rơi vào đau đớn.</AgonyPulse.description>
+	<ConsumeLeap_Devourer.label>Nuốt chửng lao tới</ConsumeLeap_Devourer.label>
+	<ConsumeLeap_Devourer.description>Nhảy tới mục tiêu, nuốt chửng và tiêu hóa nó.</ConsumeLeap_Devourer.description>
+	<ConsumeLeap_Devourer.verbProperties.label>Nuốt chửng lao tới</ConsumeLeap_Devourer.verbProperties.label>
+	<CorrosiveSpray.label>Phun axit</CorrosiveSpray.label>
+	<CorrosiveSpray.description>Phun axit ở khoảng cách gần.\n\nTrái tim axit được cấy ghép vào xác sống có thể bơm ra axit ăn mòn, có thể được truyền qua ống dẫn vào miệng và phun ra với tốc độ cao.</CorrosiveSpray.description>
+	<EntitySkip.label>Bước nhảy thực thể</EntitySkip.label>
+	<EntitySkip.description>Chuyển đến vị trí chỉ định.</EntitySkip.description>
+	<FleshmelterBolt.label>Đạn tan chảy thịt</FleshmelterBolt.label>
+	<FleshmelterBolt.description>Phóng ra một viên đạn năng lượng nặng, có thể gây ra vụ nổ nhiệt độ cao.</FleshmelterBolt.description>
+	<GhoulFrenzy.label>Cơn cuồng loạn xác sống</GhoulFrenzy.label>
+	<GhoulFrenzy.description>Trái tim hormone có thể làm tăng hormone của xác sống, khiến chúng bùng nổ khả năng di chuyển và tấn công đáng kinh ngạc trong thời gian ngắn.</GhoulFrenzy.description>
+	<Heatspikes.label>Nhọn nhiệt</Heatspikes.label>
+	<Heatspikes.description>Liên tục phóng ra nhiều viên đạn năng lượng có độ chính xác thấp.</Heatspikes.description>
+	<MetalbloodInjection.label>Tiêm máu thép</MetalbloodInjection.label>
+	<MetalbloodInjection.description>Giải phóng huyết thanh máu thép vào máu thông qua trái tim máu thép, có thể giảm thiểu sát thương nhận được trong thời gian ngắn.</MetalbloodInjection.description>
+	<PsychicSlaughter.label>Giết chóc tâm linh</PsychicSlaughter.label>
+	<PsychicSlaughter.description>Điều khiển năng lượng tâm linh tối tăm để kích thích sự hỗn loạn của thịt và máu. Có thể giết chết sinh vật trong vài giây, biến xác của chúng thành một đống thịt méo mó.</PsychicSlaughter.description>
+	<ReleaseDeadlifeDust.label>Giải phóng bụi xác chết</ReleaseDeadlifeDust.label>
+	<ReleaseDeadlifeDust.description>Giải phóng một đám bụi xác chết. Khi bụi xác chết bám vào xác, nó sẽ gây ra phản ứng dữ dội và hỗn loạn, giúp chúng phục hồi khả năng hoạt động. Những xác sống này chỉ tấn công kẻ thù của bạn. Bụi xác chết được tạo thành từ các vi cơ khí siêu phàm lơ lửng trong không khí, có khả năng xuyên qua tế bào và phục hồi mô bị chết.</ReleaseDeadlifeDust.description>
+	<ReleaseDeadlifeDust.verbProperties.label>Giải phóng bụi xác chết</ReleaseDeadlifeDust.verbProperties.label>
+	<RevenantInvisibility.label>Ẩn hình hồn ma</RevenantInvisibility.label>
+	<RevenantInvisibility.description>Người sử dụng có thể tạm thời ẩn mình bằng cách sử dụng cột sống hồn ma. Thiết bị sẽ điều khiển thị giác của những người xung quanh, khiến họ không thể phát hiện ra.</RevenantInvisibility.description>
+	<ShapeFlesh.label>Biến hình thịt</ShapeFlesh.label>
+	<ShapeFlesh.description>Sử dụng công nghệ siêu phàm tối tăm để biến xác thành một quái thú thịt kinh khủng. Quái thú thịt sẽ thù địch với tất cả các loài người, bao gồm cả người tạo ra nó.</ShapeFlesh.description>
+	<SpikeLaunch_Fingerspike.label>Bắn mảnh xương</SpikeLaunch_Fingerspike.label>
+	<SpikeLaunch_Fingerspike.description>Phóng một mảnh xương về phía mục tiêu.</SpikeLaunch_Fingerspike.description>
+	<SpikeLaunch_Toughspike.label>Bắn mảnh xương</SpikeLaunch_Toughspike.label>
+	<SpikeLaunch_Toughspike.description>Phóng một mảnh xương về phía mục tiêu.</SpikeLaunch_Toughspike.description>
+	<SpineLaunch_Gorehulk.label>Bắn xương cứng</SpineLaunch_Gorehulk.label>
+	<SpineLaunch_Gorehulk.description>Phóng một mảnh xương cứng về phía mục tiêu để gây sát thương.</SpineLaunch_Gorehulk.description>
+	<TransmuteSteel.label>Biến đổi thép</TransmuteSteel.label>
+	<TransmuteSteel.description>Tái cấu trúc thép ở cấp độ nguyên tử, biến nó thành vật liệu có giá trị ngẫu nhiên. Có thể sử dụng trên các công trình thép, vật phẩm thép, hoặc đống thép và xỉ thép trên mặt đất.</TransmuteSteel.description>
+	<TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Chỉ hiệu quả với thép, xỉ thép, công trình thép hoặc vật phẩm thép.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+	<UnnaturalCorpseSkip.label>Bước nhảy thực thể</UnnaturalCorpseSkip.label>
+	<UnnaturalCorpseSkip.description>Chuyển một mục tiêu đến vị trí chỉ định.</UnnaturalCorpseSkip.description>
+	<UnnaturalHealing.label>Y học bất thường</UnnaturalHealing.label>
+	<UnnaturalHealing.description>Điều khiển năng lượng tâm linh tối tăm để chữa trị. Có thể cầm máu, bổ sung máu, thậm chí chữa lành vết thương nghiêm trọng. Nhưng cũng có thể gây ra tác dụng phụ không mong muốn.</UnnaturalHealing.description>
+	<VoidTerror.label>Kinh hoàng hư không</VoidTerror.label>
+	<VoidTerror.description>Điều khiển năng lượng tâm linh để gây ra ảo giác đáng sợ, khiến người ta hoảng sợ mà bỏ chạy.</VoidTerror.description>
+</LanguageData>

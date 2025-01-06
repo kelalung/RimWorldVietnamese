@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Animal.root.children.1.debugLabel>Vật mang</Animal.root.children.1.debugLabel>
+	<!-- <Animal.root.children.0.children.3.debugLabel>Vật mang</Animal.root.children.0.children.3.debugLabel> -->
+	<Humanlike.root.children.0.children.0.debugLabel>Hình xăm trên thân</Humanlike.root.children.0.children.0.debugLabel>
+	<Humanlike.root.children.0.children.1.debugLabel>Vết thương - lộ ra ngoài quần áo</Humanlike.root.children.0.children.1.debugLabel>
+	<Humanlike.root.children.0.children.2.debugLabel>Em bé trong tã</Humanlike.root.children.0.children.2.debugLabel>
+	<Humanlike.root.children.0.children.3.debugLabel>Gốc quần áo</Humanlike.root.children.0.children.3.debugLabel>
+	<!-- <Humanlike.root.children.0.children.4.debugLabel>Vết thương - ẩn dưới quần áo</Humanlike.root.children.0.children.4.debugLabel> -->
+	<Humanlike.root.children.1.debugLabel>Đầu</Humanlike.root.children.1.debugLabel>
+	<Humanlike.root.children.2.children.0.debugLabel>Hình xăm trên đầu</Humanlike.root.children.2.children.0.debugLabel>
+	<Humanlike.root.children.2.children.2.debugLabel>Tóc</Humanlike.root.children.2.children.2.debugLabel>
+	<Humanlike.root.children.2.children.3.debugLabel>Vết thương trên đầu</Humanlike.root.children.2.children.3.debugLabel>
+	<Humanlike.root.children.2.children.4.debugLabel>Gốc quần áo</Humanlike.root.children.2.children.4.debugLabel>
+	<Humanlike.root.children.2.children.5.debugLabel>Bọt chống cháy</Humanlike.root.children.2.children.5.debugLabel>
+	<!-- <Humanlike.root.children.2.children.6.debugLabel>Lớp trạng thái</Humanlike.root.children.2.children.6.debugLabel> -->
+	<Humanlike.root.children.3.debugLabel>Vũ khí/Vật mang</Humanlike.root.children.3.debugLabel>
+	<Misc.root.children.1.debugLabel>Vũ khí/Vật mang</Misc.root.children.1.debugLabel>
+	<!-- <Misc.root.children.0.children.2.debugLabel>Vũ khí/Vật mang</Misc.root.children.0.children.2.debugLabel> -->
+</LanguageData>

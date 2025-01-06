@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MechCluster.label>Nhóm máy móc</MechCluster.label>
+<MechCluster.description>Một nhóm máy móc chiến đấu.</MechCluster.description>
+<MechCluster.arrivedLetter>Khu vực này có một nhóm máy móc chiến đấu thù địch và nhiều công trình hỗ trợ khác.\n\nChúng có thể bao gồm pháo, tháp pháo cố định, nhiều loại máy chiến đấu, và các công trình khác đảm nhận nhiệm vụ hỗ trợ và phòng thủ.</MechCluster.arrivedLetter>
+<MechClusterForceNoConditionCauser.label>Nhóm máy móc</MechClusterForceNoConditionCauser.label>
+<MechClusterForceNoConditionCauser.description>Một nhóm máy móc chiến đấu.</MechClusterForceNoConditionCauser.description>
+<MechClusterForceNoConditionCauser.arrivedLetter>Khu vực này có một nhóm máy móc chiến đấu thù địch và nhiều công trình hỗ trợ khác.\n\nChúng có thể bao gồm pháo, tháp pháo cố định, nhiều loại máy chiến đấu, và các công trình khác đảm nhận nhiệm vụ hỗ trợ và phòng thủ.</MechClusterForceNoConditionCauser.arrivedLetter>
+</LanguageData>

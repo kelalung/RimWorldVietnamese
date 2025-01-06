@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MarriageCeremony.label>Lễ cưới</MarriageCeremony.label>
+	<Party.label>Tiệc tùng</Party.label>
+	<Party.calledOffMessage>Tiệc đã bị hủy.</Party.calledOffMessage>
+	<Party.finishedMessage>Tiệc đã kết thúc.</Party.finishedMessage>
+	<Party.letterText>{ORGANIZER_labelShort} đang tổ chức một bữa tiệc! Mỗi người tham gia sẽ nhận được sự hài lòng về giải trí và xã hội, cùng với một sự tăng cường tâm trạng kéo dài.</Party.letterText>
+	<Party.letterTitle>Tiệc tùng</Party.letterTitle>
+</LanguageData>

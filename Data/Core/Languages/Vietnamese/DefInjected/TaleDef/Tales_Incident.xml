@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Aurora.label>Ánh sáng phương Bắc</Aurora.label>
+  <Aurora.rulePack.rulesStrings>
+    <li>tale_noun->Ánh sáng phương Bắc xuất hiện trong [PAWN_nameDef] tại [Community]</li>
+    <li>tale_noun->Ánh sáng phương Bắc xuất hiện trên bầu trời của [PAWN_nameDef] tại [Community]</li>
+    <li>tale_noun->[PAWN_nameDef] tại [Community] được ánh sáng phương Bắc chiếu sáng</li>
+    <li>image->Ánh sáng [Color] và [Color] làm sáng bầu trời [circumstance_phrase]</li>
+    <li>image->Ánh sáng [Color] tạo thành những hình ảnh tuyệt đẹp [circumstance_phrase]</li>
+    <li>image->Ánh sáng [Color] như mạng nhện [circumstance_phrase]</li>
+    <li>image->Đường cong [Color] hướng xuống với ánh sáng cao [Color],[circumstance_phrase]</li>
+    <li>image->Ánh sáng [Color] nhảy múa [circumstance_group]</li>
+    <li>circumstance_phrase->bao phủ một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->chiếu sáng một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->lơ lửng trên không trung của [Community]</li>
+    <li>circumstance_phrase->kết nối [TerrainFeature] và [TerrainFeature] lại với nhau</li>
+    <li>desc_sentence->Dưới bầu trời, [PAWN_nameDef] đang chơi [Game], với vẻ mặt [AdjectiveFriendly].</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn ngắm mọi thứ, với vẻ mặt ngạc nhiên trên [PAWN_possessive] khuôn mặt.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] ngước nhìn bầu trời.</li>
+    <li>desc_sentence->[PAWN_nameDef] ngồi gần [TerrainFeature], ngắm nhìn bầu trời.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đi lang thang một cách bình tĩnh.</li>
+    <li>desc_sentence->Không có [Enemy] nào gần đó.</li>
+  </Aurora.rulePack.rulesStrings>
+  <CaravanAmbushedByHumanlike.label>Đoàn xe bị phục kích</CaravanAmbushedByHumanlike.label>
+  <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+    <li>tale_noun->Đoàn xe của [PAWN_nameDef] bị phục kích</li>
+    <li>image->[PAWN_nameFull] co rúm lại,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhanh chóng di chuyển để bảo vệ đồng đội,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] di chuyển và bắn,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] phát động tấn công,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] hô to,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang chạy,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] vật lộn với kẻ thù,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tự vệ,[circumstance_group]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->vừa vung [PAWN_possessive] vũ khí</li>
+    <li>circumstance_phrase->vừa đổ mồ hôi</li>
+    <li>desc_sentence->[Quantity_adjphrase] bóng người từ xa tiến đến từ [TerrainFeature].</li>
+    <li>desc_sentence->Có thể thấy [Quantity_adjphrase][Enemy] từ xa.</li>
+    <li>desc_sentence->[PAWN_nameDef] gần như bị [Enemy] bao vây.</li>
+    <li>desc_sentence->[PAWN_nameDef] phải đối mặt với một [Enemy].</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] hoảng sợ, chạy trốn khỏi khu vực nguy hiểm.</li>
+    <li>desc_sentence->Một [PersonJob] đang theo dõi mọi thứ từ xa.</li>
+  </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+  <CaravanAmbushedByManhunter.label>Đoàn xe bị săn đuổi bởi thú dữ</CaravanAmbushedByManhunter.label>
+  <CaravanAmbushedByManhunter.rulePack.rulesStrings>
+    <li>tale_noun->Đoàn xe của [PAWN_nameDef] bị phục kích</li>
+    <li>image->[PAWN_nameFull] co rúm lại,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhanh chóng di chuyển để bảo vệ đồng đội,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] di chuyển và bắn,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] phát động tấn công,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] hô to,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang chạy,[circumstance_group]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->vừa vung [PAWN_possessive] vũ khí</li>
+    <li>circumstance_phrase->vừa đổ mồ hôi</li>
+    <li>circumstance_phrase->người đầy[Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] động vật từ xa tiến đến từ [TerrainFeature].</li>
+    <li>desc_sentence->Mặt đất đầy[Gore].</li>
+    <li>desc_sentence->Mặt đất đầy những[Gore] bị dẫm nát.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] hoảng sợ, chạy trốn khỏi khu vực nguy hiểm.</li>
+    <li>desc_sentence->Một [PersonJob] đang theo dõi mọi thứ từ xa.</li>
+  </CaravanAmbushedByManhunter.rulePack.rulesStrings>
+  <CaravanDemand.label>Đoàn xe bị cưỡng đoạt</CaravanDemand.label>
+  <CaravanDemand.rulePack.rulesStrings>
+    <li>tale_noun->Đoàn xe của [PAWN_nameDef] bị cưỡng đoạt</li>
+    <li>tale_noun->Đoàn xe của [PAWN_nameDef] bị đe dọa</li>
+    <li>image->[PAWN_nameFull] co rúm lại,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] hô to,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang suy nghĩ,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn chằm chằm,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] bị [PersonJob] cưỡng đoạt,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] vung [Weapon],[circumstance_group]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveBadass]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->những người khác đứng xem bên cạnh</li>
+    <li>circumstance_phrase->đồng thời bị đe dọa bởi [Enemy]</li>
+    <li>desc_sentence->[PAWN_nameDef] gần như bị [Enemy] bao vây.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Enemy] ở gần đó,[action].</li>
+    <li>desc_sentence->Mặt trời lặn sau [TerrainFeature].</li>
+    <li>desc_sentence->Mặt trời mọc từ sau [TerrainFeature].</li>
+    <li>desc_sentence->Một [PersonJob] đang theo dõi mọi thứ từ xa.</li>
+    <li>action->chuẩn bị vũ khí của họ</li>
+    <li>action->canh gác xung quanh</li>
+    <li>action->theo dõi con tin</li>
+    <li>action->chờ quyết định</li>
+    <li>action->châm chọc [PAWN_nameDef]</li>
+  </CaravanDemand.rulePack.rulesStrings>
+  <CaravanMeeting.label>Đoàn xe gặp gỡ</CaravanMeeting.label>
+  <CaravanMeeting.rulePack.rulesStrings>
+    <li>tale_noun->Đoàn xe của [PAWN_nameDef] gặp gỡ những người khác</li>
+    <li>image->[PAWN_nameFull] đang chào hỏi một [PersonJob],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang kiểm tra một [PersonJob],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang gọi một [PersonJob],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tiến về phía một [PersonJob],[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang trò chuyện nhẹ nhàng,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang la to,[circumstance_group]</li>
+    <li>image->[PAWN_nameFull] chơi [Game] với [PersonJob],[circumstance_group]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->vẻ mặt [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->trông có vẻ rất [friendlyverb]</li>
+    <li>circumstance_phrase->những người khác đứng xem bên cạnh</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đứng gần đó.</li>
+    <li>desc_sentence->Mặt trời lặn sau [TerrainFeature].</li>
+    <li>desc_sentence->Mặt trời mọc từ sau [TerrainFeature].</li>
+    <li>desc_sentence->Một [PersonJob] đang theo dõi từ xa.</li>
+    <li>event->tổ chức tiệc</li>
+    <li>event->ăn tối</li>
+    <li>event->thảo luận về sự kiện gần đây</li>
+    <li>event->hồi tưởng</li>
+    <li>event->do dự</li>
+  </CaravanMeeting.rulePack.rulesStrings>
+  <Eclipse.label>Nhật thực</Eclipse.label>
+  <Eclipse.rulePack.rulesStrings>
+    <li>tale_noun->Nhật thực xuất hiện trên bầu trời của [PAWN_nameDef] tại [Community]</li>
+    <li>image->Một bầu trời tối tăm bất thường,[circumstance_phrase]</li>
+    <li>image->Một bầu trời mờ ảo,[circumstance_phrase]</li>
+    <li>image->Mặt trăng che khuất mặt trời, chỉ để lộ ánh sáng xung quanh,[circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase][Animal] đi lại không yên trong bóng tối,[circumstance_phrase]</li>
+    <li>circumstance_phrase->Xung quanh rất yên tĩnh</li>
+    <li>circumstance_phrase->Màu sắc hoàng hôn phủ lên một khu vực [TerrainFeature] gần đó</li>
+    <li>circumstance_phrase->Màu sắc hoàng hôn phủ lên [Quantity_adjphrase][TerrainFeature] gần đó</li>
+    <li>circumstance_phrase->Có thể nhìn thấy những ngôi sao</li>
+    <li>desc_sentence->Dưới bầu trời, [PAWN_nameDef] đang chơi [Game], với vẻ mặt [AdjectiveFriendly].</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn ngắm mọi thứ, với vẻ mặt ngạc nhiên trên [PAWN_possessive] khuôn mặt.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] ngước nhìn bầu trời.</li>
+    <li>desc_sentence->[PAWN_nameDef] ngồi gần [TerrainFeature], ngắm nhìn bầu trời.</li>
+    <li>desc_sentence->Khán giả của [Community] bình thản nhìn lên bầu trời.</li>
+    <li>desc_sentence->Không có [Enemy] nào gần đó.</li>
+  </Eclipse.rulePack.rulesStrings>
+  <EndGame_ShipEscape.label>Cuộc gọi từ người bạn cũ</EndGame_ShipEscape.label>
+  <EndGame_ShipEscape.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] nhận được thông điệp từ một người bạn cũ</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] có một cơ hội</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] mở một bức thư do [delivery_method] gửi đến</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] sử dụng một viên pha lê dữ liệu do [delivery_method] gửi đến</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] mở cuộn giấy do [delivery_method] gửi đến</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] nhận tín hiệu từ [transmission_source]</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] nhận được thông điệp từ [transmission_source]</li>
+    <li>image->[circumstance_group],[PAWN_nameDef] nhận một thông điệp từ [transmission_source]</li>
+    <li>delivery_method->một [Animal]</li>
+    <li>delivery_method->một [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase][Animal]</li>
+    <li>transmission_source->một tần số ít được sử dụng</li>
+    <li>transmission_source->một bộ phát cổ xưa</li>
+    <li>transmission_source->>một tín hiệu công suất thấp</li>
+    <li>transmission_source->>một tín hiệu từ xa</li>
+    <li>transmission_source->>một tín hiệu bí ẩn</li>
+    <li>circumstance_phrase->khi đứng một mình gần một [TerrainFeature]</li>
+    <li>circumstance_phrase->khi đang khám phá một [TerrainFeature]</li>
+    <li>circumstance_phrase->khi đang chăm sóc cây trồng</li>
+    <li>circumstance_phrase->khi một [Animal] đi qua</li>
+    <li>circumstance_phrase->khi chơi [Game]</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đi lang thang gần đó, không hề hay biết.</li>
+    <li>desc_sentence->Khi [pawn_pronoun] đọc thông điệp, [pawn_pronoun] bắt đầu trở nên rất [friendlyverb].</li>
+    <li>desc_sentence->Một linh hồn của [PersonJob] đang quan sát từ trên mây.</li>
+    <li>desc_sentence->[PAWN_nameDef] ngồi gần một [TerrainFeature].</li>
+    <li>desc_sentence->[Community] ở xa mờ mờ hiện ra.</li>
+    <li>desc_sentence->Tàu vũ trụ ở xa mờ mờ hiện ra.</li>
+  </EndGame_ShipEscape.rulePack.rulesStrings>
+  <Flashstorm.label>Bão sấm chớp</Flashstorm.label>
+  <Flashstorm.rulePack.rulesStrings>
+    <li>tale_noun->Bão sấm chớp đe dọa [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị thời tiết xấu tấn công</li>
+    <li>image->[Quantity_adjphrase] sấm chớp tấn công,[circumstance_phrase]</li>
+    <li>image->[behavior] bức tường lửa [circumstance_phrase]</li>
+    <li>image->[behavior][Color] bức tường lửa [circumstance_phrase]</li>
+    <li>image->[behavior] đám mây đầy tro bụi [circumstance_phrase]</li>
+    <li>image->[behavior] sóng lửa [circumstance_phrase]</li>
+    <li>behavior->Một đám</li>
+    <li>behavior->Một đám tăng cường</li>
+    <li>behavior->Một đám gần đó</li>
+    <li>circumstance_phrase->đang tấn công [Community]</li>
+    <li>circumstance_phrase->dưới những đám mây đáng sợ</li>
+    <li>circumstance_phrase->gần như bao vây một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->gần như bao vây [Quantity_adjphrase][TerrainFeature]</li>
+    <li>desc_sentence->[PAWN_nameDef] rất sốc khi nhìn thấy cảnh tượng này.</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn mọi thứ, với vẻ mặt đầy sợ hãi trên [PAWN_possessive] khuôn mặt.</li>
+    <li>desc_sentence->[PAWN_nameDef] phối hợp nhân lực để chống lại thảm họa.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang chuẩn bị gấp rút.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đang chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->Tất cả các động vật đều chạy trốn khỏi khu vực này.</li>
+  </Flashstorm.rulePack.rulesStrings>
+  <Infestation.label>Đại dịch côn trùng</Infestation.label>
+  <Infestation.rulePack.rulesStrings>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị đại dịch côn trùng tấn công</li>
+    <li>image->Một đàn bọ khổng lồ [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] nhện khổng lồ [circumstance_phrase]</li>
+    <li>image->Sự xuất hiện áp đảo của côn trùng màu [Color] [circumstance_phrase]</li>
+    <li>image->Một đám đông tối tăm [circumstance_phrase]</li>
+    <li>circumstance_phrase->đang di chuyển qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->bao vây [Community]</li>
+    <li>circumstance_phrase->đang tấn công [Quantity_adjphrase][PersonJob]</li>
+    <li>circumstance_phrase->đang chui lên từ mặt đất</li>
+    <li>circumstance_phrase->đang tàn sát [Quantity_adjphrase][Animal]</li>
+    <li>desc_sentence->[PAWN_nameDef] đang tổ chức phản công.</li>
+    <li>desc_sentence->[PAWN_nameDef] sử dụng [Weapon] để phòng thủ.</li>
+    <li>desc_sentence->[PAWN_nameDef] bị thương và ngã xuống.</li>
+    <li>desc_sentence->[PAWN_nameDef] trả đũa bằng [PAWN_possessive][Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveBadass].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->Mặt đất đầy [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] chạy trốn khỏi khu vực này.</li>
+<li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+<li>desc_sentence->Tất cả động vật sống đều rời khỏi khu vực này.</li>
+</Infestation.rulePack.rulesStrings>
+<ManhunterPack.label>Các loài động vật săn lùng con người</ManhunterPack.label>
+<ManhunterPack.rulePack.rulesStrings>
+    <li>tale_noun->Động vật tấn công [PAWN_nameDef] tại [Community]</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị động vật tấn công</li>
+    <li>image->Một bầy [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase][Animal] [circumstance_phrase]</li>
+    <li>image->Một [AdjectiveLarge][Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] bóng đen [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] bóng thú [circumstance_phrase]</li>
+    <li>circumstance_phrase->đang di chuyển qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->bao vây [Community]</li>
+    <li>circumstance_phrase->đang tấn công [Quantity_adjphrase][PersonJob]</li>
+    <li>circumstance_phrase->đang tàn sát [Quantity_adjphrase][Animal]</li>
+    <li>circumstance_phrase->bị [hate_emotion] bao vây</li>
+    <li>circumstance_phrase->toàn thân đầy [Gore]</li>
+    <li>hate_emotion->sự thù hận</li>
+    <li>hate_emotion->sự tức giận</li>
+    <li>hate_emotion->sự điên cuồng</li>
+    <li>desc_sentence->[PAWN_nameDef] đang tổ chức phản công.</li>
+    <li>desc_sentence->[PAWN_nameDef] sử dụng [Weapon] để phòng thủ.</li>
+    <li>desc_sentence->[PAWN_nameDef] bị thương và ngã xuống.</li>
+    <li>desc_sentence->[PAWN_nameDef] trả đũa bằng [PAWN_possessive][Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveBadass].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->Mặt đất đầy [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+</ManhunterPack.rulePack.rulesStrings>
+<MeteoriteImpact.label>Va chạm thiên thạch</MeteoriteImpact.label>
+<MeteoriteImpact.rulePack.rulesStrings>
+    <li>tale_noun->Một thiên thạch rơi gần [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->Một thiên thạch va vào một nơi không xa [Community] của [PAWN_nameDef]</li>
+    <li>image->Một viên đá [AdjectiveLarge] kéo theo ngọn lửa [Color],[airborne_circumstance]</li>
+    <li>image->Một điểm sáng rực rỡ [airborne_circumstance]</li>
+    <li>image->Một quả cầu lửa [AdjectiveLarge][Color] [airborne_circumstance]</li>
+    <li>airborne_circumstance->đang cháy bay qua bầu trời</li>
+    <li>airborne_circumstance->đi xuống mặt đất, khắp nơi là tro tàn</li>
+    <li>airborne_circumstance->trong lúc bay, đá và mảnh vụn liên tục rơi ra</li>
+    <li>image->Một viên đá [AdjectiveLarge] [ground_circumstance]</li>
+    <li>image->Một viên đá [AdjectiveLarge] bị cháy [Color] [ground_circumstance]</li>
+    <li>image->Một cột đá [Color] [ground_circumstance]</li>
+    <li>ground_circumstance->bị bao phủ bởi tro bụi</li>
+    <li>ground_circumstance->nóng đến mức bốc khói</li>
+    <li>ground_circumstance->bị bao quanh bởi các mảnh vụn nóng chảy</li>
+    <li>ground_circumstance->phần nào đó bị chôn vùi dưới mặt đất</li>
+    <li>ground_circumstance->nằm trong một hố thiên thạch bị nứt</li>
+    <li>desc_sentence->[PAWN_nameDef] tò mò quan sát.</li>
+    <li>desc_sentence->[PAWN_nameDef] hào hứng quan sát.</li>
+    <li>desc_sentence->[PAWN_nameDef] rất sốc khi nhìn thấy cảnh tượng này.</li>
+    <li>desc_sentence->[Quantity_adjphrase] bóng người từ xa tiến đến từ [TerrainFeature] gần đó.</li>
+    <li>desc_sentence->[Quantity_adjphrase] bóng người từ xa chuẩn bị công cụ và thiết bị.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đi lại không yên.</li>
+    <li>desc_sentence->Xung quanh im lặng và nặng nề.</li>
+</MeteoriteImpact.rulePack.rulesStrings>
+<Raid.label>Cuộc tấn công</Raid.label>
+<Raid.rulePack.rulesStrings>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị tấn công</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] gặp phải cuộc tấn công</li>
+    <li>tale_noun->[Enemy] tấn công [Community] của [PAWN_nameDef]</li>
+    <li>image->[Quantity_adjphrase][Enemy] [circumstance_phrase]</li>
+    <li>image->Một đội quân [circumstance_phrase]</li>
+    <li>image->Sức mạnh áp đảo [circumstance_phrase]</li>
+    <li>image->Kẻ xâm lược [circumstance_phrase]</li>
+    <li>image->Lực lượng cầm cờ [Color] [circumstance_phrase]</li>
+    <li>image->Một đám đông lớn [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->đang di chuyển qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->bao vây [Community]</li>
+    <li>circumstance_phrase->đang tấn công [Quantity_adjphrase][PersonJob]</li>
+    <li>circumstance_phrase->phát ra tiếng gầm chiến thắng</li>
+    <li>circumstance_phrase->vung [Weapon]</li>
+    <li>circumstance_phrase->toàn thân đầy [Gore]</li>
+    <li>desc_sentence->[PAWN_nameDef] vừa tổ chức kháng cự, vừa [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] sử dụng [Weapon] để phòng thủ, đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] bị thương và ngã xuống.</li>
+    <li>desc_sentence->[PAWN_nameDef] trả đũa bằng [PAWN_possessive][Weapon], đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] đứng lên, đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveBadass].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->Mặt đất đầy [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+    <li>defender_circumstance->Hô vang chiến thắng</li>
+    <li>defender_circumstance->Sáng ánh [Color]</li>
+    <li>defender_circumstance->Giơ tay thách thức</li>
+    <li>defender_circumstance->Thể hiện sức mạnh của [PAWN_possessive]</li>
+</Raid.rulePack.rulesStrings>
+<ShipPartCrash.label>Phần của tàu không gian rơi xuống</ShipPartCrash.label>
+  <ShipPartCrash.rulePack.rulesStrings>
+    <li>tale_noun->Một phần của tàu vũ trụ cổ đại khẩn cấp hạ cánh gần [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->Một phần của tàu vũ trụ cổ đại hạ cánh gần [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->Một phần nguy hiểm của tàu vũ trụ hạ cánh gần [Community] của [PAWN_nameDef]</li>
+    <li>image->Một bầy [Mechanoid] [circumstance_phrase]</li>
+    <li>image->Một đội quân bao gồm [Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase][Mechanoid] [circumstance_phrase]</li>
+    <li>image->Một [AdjectiveLarge][Mechanoid] [circumstance_phrase]</li>
+    <li>image->Bóng đen của [Quantity_adjphrase][Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid] có cảm biến màu [Color] [circumstance_phrase]</li>
+    <li>circumstance_phrase->đang di chuyển qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->bao vây [Community]</li>
+    <li>circumstance_phrase->đang tấn công [Quantity_adjphrase][PersonJob]</li>
+    <li>circumstance_phrase->đang tàn sát [Quantity_adjphrase][Animal]</li>
+    <li>circumstance_phrase->toàn thân đầy [Gore]</li>
+    <li>circumstance_phrase->bị nổ tung, tia lửa bay tứ tung</li>
+    <li>desc_sentence->[PAWN_nameDef] vừa tổ chức kháng cự, vừa [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] sử dụng [Weapon] để phòng thủ, đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] bị thương và ngã xuống.</li>
+    <li>desc_sentence->[PAWN_nameDef] trả đũa bằng [PAWN_possessive][Weapon], đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] đứng lên, đồng thời [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveBadass].</li>
+    <li>desc_sentence->[PAWN_nameDef] với vẻ mặt [AdjectiveAngsty].</li>
+    <li>desc_sentence->Mặt đất đầy [Gore].</li>
+    <li>desc_sentence->Kim loại phế thải nằm rải rác.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+    <li>defender_circumstance->Hô vang chiến thắng</li>
+    <li>defender_circumstance->Sáng ánh [Color]</li>
+    <li>defender_circumstance->Giơ tay thách thức</li>
+    <li>defender_circumstance->Thể hiện sức mạnh của [PAWN_possessive]</li>
+  </ShipPartCrash.rulePack.rulesStrings>
+  <Tornado.label>Cơn lốc xoáy</Tornado.label>
+  <Tornado.rulePack.rulesStrings>
+    <li>tale_noun->Cơn lốc xoáy hạ cánh gần [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị thời tiết xấu tấn công</li>
+    <li>image->[behavior] cơn lốc hình nón [circumstance_phrase]</li>
+    <li>image->[behavior] cơn lốc xoáy [circumstance_phrase]</li>
+    <li>image->[behavior] cơn bão [circumstance_phrase]</li>
+    <li>image->[behavior][Color] cột mây [circumstance_phrase]</li>
+    <li>behavior->được tăng cường</li>
+    <li>behavior->gần đó</li>
+    <li>behavior->di chuyển nhanh</li>
+    <li>behavior->quay nhanh</li>
+    <li>circumstance_phrase->cuốn theo các mảnh vụn</li>
+    <li>circumstance_phrase->đi qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->quét sạch toàn bộ [TerrainFeature]</li>
+    <li>circumstance_phrase->bao phủ toàn bộ [TerrainFeature]</li>
+    <li>desc_sentence->[PAWN_nameDef] rất sốc khi nhìn thấy cảnh tượng này.</li>
+    <li>desc_sentence->[PAWN_nameDef] nhìn mọi thứ, với vẻ mặt đầy sợ hãi trên [PAWN_possessive] khuôn mặt.</li>
+    <li>desc_sentence->[PAWN_nameDef] đang phối hợp nhân lực để chống lại thảm họa.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang chuẩn bị gấp rút.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->Tất cả động vật đều chạy trốn khỏi khu vực này.</li>
+  </Tornado.rulePack.rulesStrings>
+  <TornadoFromItem.label>Cơn lốc xoáy</TornadoFromItem.label>
+  <TornadoFromItem.rulePack.rulesStrings>
+    <li>tale_noun->Cơn lốc xoáy hạ cánh gần [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->[Community] của [PAWN_nameDef] bị thời tiết xấu tấn công</li>
+    <li>image->[behavior] cơn lốc hình nón [circumstance_phrase]</li>
+    <li>image->[behavior] cơn lốc xoáy [circumstance_phrase]</li>
+    <li>image->[behavior] cơn bão [circumstance_phrase]</li>
+    <li>image->[behavior][Color] cột mây [circumstance_phrase]</li>
+    <li>behavior->được tăng cường</li>
+    <li>behavior->gần đó</li>
+    <li>behavior->di chuyển nhanh</li>
+    <li>behavior->quay nhanh</li>
+    <li>circumstance_phrase->cuốn theo các mảnh vụn</li>
+    <li>circumstance_phrase->đi qua một khu vực [TerrainFeature]</li>
+    <li>circumstance_phrase->quét sạch toàn bộ [TerrainFeature]</li>
+    <li>circumstance_phrase->bao phủ toàn bộ [TerrainFeature]</li>
+    <li>desc_sentence->[COLONIST_nameDef] rất sốc khi nhìn thấy cảnh tượng này.</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] nhìn mọi thứ, với vẻ mặt đầy sợ hãi trên [COLONIST_possessive] khuôn mặt.</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] nhìn mọi thứ, với vẻ mặt đầy sợ hãi trên [ATTACKER_possessive] khuôn mặt.</li>
+    <li>desc_sentence->[COLONIST_nameDef] đang phối hợp nhân lực để chống lại thảm họa.</li>
+    <li>desc_sentence->[ATTACKER_nameDef] phát ra tiếng cười điên cuồng.</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob] đang chuẩn bị gấp rút.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] chạy trốn khỏi khu vực này.</li>
+    <li>desc_sentence->Tất cả động vật đều chạy trốn khỏi khu vực này.</li>
+  </TornadoFromItem.rulePack.rulesStrings>
+  <ToxicFallout.label>Bụi độc hại</ToxicFallout.label>
+  <ToxicFallout.rulePack.rulesStrings>
+    <li>tale_noun->Bụi độc bao phủ [Community] của [PAWN_nameDef]</li>
+    <li>tale_noun->Không khí quanh [Community] của [PAWN_nameDef] trở nên độc hại</li>
+    <li>image->Bầu trời u ám [circumstance_group]</li>
+    <li>image->Không khí ngày càng ô nhiễm, dường như [circumstance_group]</li>
+    <li>image->Đất đai phát ra ánh sáng dịu dàng, [circumstance_group]</li>
+    <li>image->Cây cối trong ruộng héo úa, [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] ngôi mộ [circumstance_group]</li>
+    <li>circumstance_phrase->không thấy dấu hiệu của sự sống</li>
+    <li>circumstance_phrase->xung quanh bị bao phủ bởi bụi phát sáng</li>
+    <li>circumstance_phrase->hình thành một mẫu hình, báo hiệu cái chết</li>
+    <li>circumstance_phrase->chờ đợi sương mù độc hại tan biến</li>
+    <li>desc_sentence->[PAWN_nameDef] nằm trên đất, [PAWN_possessive] cơ thể bị xoắn lại ở một góc bất thường.</li>
+    <li>desc_sentence->[PAWN_nameDef] trốn ở gần [TerrainFeature], với vẻ mặt [AdjectiveAngsty] nhìn mọi thứ.</li>
+    <li>desc_sentence->[PAWN_nameDef] rất sốc khi nhìn thấy cảnh tượng này.</li>
+    <li>desc_sentence->[PAWN_nameDef] nghỉ ngơi yên tĩnh, mồ hôi tuôn rơi trên khuôn mặt [PAWN_possessive].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] chết nằm trên đất.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên đất.</li>
+    <li>desc_sentence->[Quantity_adjphrase][Animal] đi lại không yên.</li>
+  </ToxicFallout.rulePack.rulesStrings>
+  <VolcanicWinter.label>Mùa đông núi lửa</VolcanicWinter.label>
+  <VolcanicWinter.rulePack.rulesStrings>
+	<li>tale_noun->[Community] của [PAWN_nameDef] bước vào mùa đông núi lửa</li>
+    <li>image->Bầu trời tối tăm và lạnh lẽo, [circumstance_group]</li>
+    <li>image->Không khí tràn ngập bụi, xung quanh [circumstance_group]</li>
+    <li>image->[TerrainFeature] cằn cỗi bị phủ băng, [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] cây cối trong ruộng bị bụi phủ, [circumstance_group]</li>
+    <li>circumstance_phrase->không thấy dấu hiệu của sự sống</li>
+    <li>circumstance_phrase->chỉ có một ít ánh sáng yếu ớt chiếu rọi</li>
+    <li>circumstance_phrase->được chiếu sáng hoàn toàn bởi ánh sáng xanh lạnh</li>
+    <li>desc_sentence->[PAWN_nameDef] ngồi gần đống lửa.</li>
+    <li>desc_sentence->Để giữ ấm, [PAWN_nameDef] đã mặc [Quantity_adjphrase][apparel].</li>
+    <li>desc_sentence->[PAWN_nameDef] ngồi gần đó, rõ ràng là bị hành hạ đến kiệt sức.</li>
+    <li>desc_sentence->[PAWN_nameDef] trốn ở gần [TerrainFeature], với vẻ mặt [AdjectiveAngsty] nhìn mọi thứ.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đói khát nằm rải rác xung quanh.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] run rẩy nằm rải rác xung quanh.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên đất.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đi đi lại lại không yên.</li>
+  </VolcanicWinter.rulePack.rulesStrings>
+</LanguageData>

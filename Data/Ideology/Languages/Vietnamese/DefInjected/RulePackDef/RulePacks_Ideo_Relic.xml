@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <NamerIdeoRelic.rulePack.rulesStrings>
+    <li>r_ideoRelicName(p=2)-&gt;[first][second]</li>
+    <li>r_ideoRelicName-&gt;[memeConcept] của [thingLabel]</li>
+    <li>r_ideoRelicName-&gt;[memeAdjective][thingLabel]</li>
+    <li>r_ideoRelicName-&gt;[memeHyphenPrefix]-[thingLabel]</li>
+    <li>r_ideoRelicName-&gt;[memeAdjective][relic]</li>
+    <li>r_ideoRelicName-&gt;[memeConcept] của [relic]</li>
+    <li>r_ideoRelicName-&gt;[memeHyphenPrefix]-[relic]</li>
+    <li>relic-&gt;Di vật thánh</li>
+    <li>relic-&gt;Thần khí</li>
+    <li>relic-&gt;Kỷ vật</li>
+    <li>relic-&gt;Di sản</li>
+    <li>relic-&gt;Thánh vật</li>
+    <li>relic-&gt;Bảo vật gia truyền</li>
+    <li>relic-&gt;Kỷ niệm vật</li>
+    <li>first(p=5)-&gt;[memeHyphenPrefix]</li>
+    <li>first-&gt;Con đường dài</li>
+    <li>first-&gt;Bầu trời</li>
+    <li>first-&gt;Ngôi sao</li>
+    <li>first-&gt;Đại dương</li>
+    <li>first-&gt;Xa xôi</li>
+    <li>first-&gt;Cái chết</li>
+    <li>first-&gt;Sự sống</li>
+    <li>first-&gt;Ánh sáng</li>
+    <li>first-&gt;Bóng tối</li>
+    <li>first-&gt;Tận cùng</li>
+    <li>first-&gt;Giấc ngủ dài</li>
+    <li>first-&gt;Hư vô</li>
+    <li>first-&gt;Tổ tiên</li>
+    <li>first-&gt;Giàu có</li>
+    <li>first-&gt;Ngủ say</li>
+    <li>first-&gt;Thiên đường</li>
+    <li>first-&gt;Nhẹ nhàng</li>
+    <li>first-&gt;Thế giới bên ngoài</li>
+    <li>first-&gt;Thức tỉnh</li>
+    <li>first-&gt;Ma lực</li>
+    <li>first-&gt;Héo úa</li>
+    <li>first-&gt;Bầu trời</li>
+    <li>first-&gt;Quê hương</li>
+    <li>first-&gt;Điểm cực</li>
+    <li>first-&gt;Mỏ</li>
+    <li>second-&gt;Người gọi</li>
+    <li>second-&gt;Sứ giả</li>
+    <li>second-&gt;Người nói</li>
+    <li>second-&gt;Kẻ lừa đảo</li>
+    <li>second-&gt;Liên kết</li>
+    <li>second-&gt;Hợp đồng</li>
+    <li>second-&gt;Vòng tròn</li>
+    <li>second-&gt;Kết nối</li>
+    <li>second-&gt;Trung tâm</li>
+    <li>second-&gt;Trung tâm</li>
+    <li>second-&gt;Lễ nghi</li>
+    <li>second-&gt;Thân xác</li>
+    <li>second-&gt;Nguồn gốc</li>
+    <li>second-&gt;Tinh thể</li>
+    <li>second-&gt;Ánh sáng</li>
+    <li>second-&gt;Bóng tối</li>
+    <li>second-&gt;Hình dạng</li>
+    <li>second-&gt;Đường đi</li>
+    <li>second-&gt;Hình dạng</li>
+    <li>second-&gt;Mũi tên</li>
+    <li>second-&gt;Cây roi</li>
+    <li>second-&gt;Đồng xu</li>
+</NamerIdeoRelic.rulePack.rulesStrings>
+</LanguageData>

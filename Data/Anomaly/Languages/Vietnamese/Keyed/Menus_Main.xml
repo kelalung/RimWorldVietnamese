@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DifficultyAnomalySection>Đặc điểm dị thường</DifficultyAnomalySection>
+	<Difficulty_AnomalyThreats_Label>Đe dọa dị thường</Difficulty_AnomalyThreats_Label>
+	<Difficulty_AnomalyThreats_Info>Điều chỉnh tỷ lệ phát sinh các mối đe dọa lớn liên quan đến dị thường.</Difficulty_AnomalyThreats_Info>
+	<Difficulty_AnomalyThreatsInactive_Label>Đe dọa dị thường (không kích hoạt khối đá)</Difficulty_AnomalyThreatsInactive_Label>
+	<Difficulty_AnomalyThreatsInactive_Info>Khi khối đá chưa được kích hoạt, tỷ lệ phát sinh các mối đe dọa lớn liên quan đến dị thường.\n\nNgoài ra, chỉ một số sự kiện dị thường nhỏ sẽ xảy ra khi khối đá chưa được kích hoạt.</Difficulty_AnomalyThreatsInactive_Info>
+	<Difficulty_AnomalyThreatsActive_Label>Đe dọa dị thường (đã kích hoạt khối đá)</Difficulty_AnomalyThreatsActive_Label>
+	<Difficulty_AnomalyThreatsActive_Info>Khi khối đá đã được kích hoạt, tỷ lệ phát sinh các mối đe dọa lớn liên quan đến dị thường. Cài đặt hiện tại như sau:\n - Khi khối đá ở cấp độ 1 và 5, tỷ lệ phát sinh các mối đe dọa lớn liên quan đến dị thường là {0}\n - Khi khối đá ở cấp độ 2 đến 4, tỷ lệ phát sinh các mối đe dọa lớn liên quan đến dị thường là {1}</Difficulty_AnomalyThreatsActive_Info>
+	<Difficulty_StudyEfficiency_Label>Hiệu suất nghiên cứu</Difficulty_StudyEfficiency_Label>
+	<Difficulty_StudyEfficiency_Info>Hệ số thu được kiến thức dị thường khi điều tra các thực thể bất thường.</Difficulty_StudyEfficiency_Info>
+	<Difficulty_ChildShamblersAllowed_Label>Quái vật đi lang thang trẻ em</Difficulty_ChildShamblersAllowed_Label>
+	<Difficulty_ChildShamblersAllowed_Info>Các quái vật đi lang thang hình dạng trẻ em sẽ xuất hiện thỉnh thoảng.</Difficulty_ChildShamblersAllowed_Info>
+	<AnomalySettings>Cài đặt dị thường</AnomalySettings>
+	<ChooseAnomalyPlaystyle>Chọn cách nội dung kinh dị của DLC dị thường sẽ được tích hợp vào trò chơi của bạn:</ChooseAnomalyPlaystyle>
+	<CanBeEditedInStorytellerSettings>Cập nhật cài đặt dị thường của người kể chuyện. Các tùy chọn dưới đây cũng có thể được thay đổi trong trò chơi</CanBeEditedInStorytellerSettings>
+	<SetToStandardPlaystyle>Nhập mẫu cơ bản</SetToStandardPlaystyle>
+</LanguageData>

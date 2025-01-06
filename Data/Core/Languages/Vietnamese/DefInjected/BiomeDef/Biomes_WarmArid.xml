@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AridShrubland.label>Thảo nguyên khô hạn</AridShrubland.label>
+	<AridShrubland.description>Khu vực khô hạn, nhưng chưa đến mức sa mạc. Đồng bằng rộng lớn với cỏ và bụi cây chủ yếu, cây cối rất hiếm. Thực vật có khả năng thích ứng cao, số lượng động vật trung bình. Tuy nhiên, đất đai thích hợp để canh tác rất khó tìm.</AridShrubland.description>
+	<Desert.label>Sa mạc</Desert.label>
+	<Desert.description>Khu vực cực kỳ khô hạn, hầu như không có đất canh tác, động thực vật cũng rất hiếm. Sa mạc có thể rất nóng hoặc rất lạnh.</Desert.description>
+	<ExtremeDesert.label>Sa mạc cực đoan</ExtremeDesert.label>
+	<ExtremeDesert.description>Khu vực cực kỳ nóng và khô hạn, hầu như không có dấu hiệu của sự sống. Nhiệt độ rất cao và thực vật hạn chế khiến nơi này rất khó sinh sống, ngay cả với những động vật thích nghi tốt nhất. Không khí nóng bỏng và đất canh tác hiếm hoi làm cho việc tồn tại ở đây gần như không thể.</ExtremeDesert.description>
+</LanguageData>

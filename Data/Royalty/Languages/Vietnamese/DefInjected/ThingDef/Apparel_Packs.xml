@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Apparel_PackBroadshield.label>Balo khiên di động</Apparel_PackBroadshield.label>
+<Apparel_PackBroadshield.description>Một thiết bị khiên di động dùng một lần. Nó có thể được triển khai trên mặt đất và tạo ra một khiên hình cầu, cho phép đạn bắn ra nhưng không thể bắn vào. Thiết kế của đơn vị này chỉ có thể duy trì trong thời gian ngắn, sau khi hết thời gian sẽ bị thiêu rụi.\n\nNhiều lực lượng chiến đấu thời kỳ cực đoan đã ghi nhận rằng thiết bị này là yếu tố quyết định giúp họ sống sót trên chiến trường.</Apparel_PackBroadshield.description>
+<Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun> Khiên</Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun>
+<Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>
+<Apparel_PackBroadshield.verbs.deploy_lowshield.label>Triển khai khiên di động</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
+<Apparel_PackJump.label>Balo nhảy</Apparel_PackJump.label>
+<Apparel_PackJump.description>Balo được trang bị tên lửa đẩy cá nhân cho phép người sử dụng thực hiện các chuyến bay ngắn. Với dây an toàn tích hợp và trợ lý hướng dẫn, balo nhảy có thể giúp bất kỳ ai vượt qua một khoảng cách nhanh chóng, thậm chí vượt qua các chướng ngại vật thấp. Nó cần được nạp lại sau khi sử dụng.\n\nMột số chuyên gia cận chiến thời kỳ không gian sử dụng balo nhảy để nhanh chóng tiếp cận kẻ thù qua các chướng ngại vật.</Apparel_PackJump.description>
+<Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>Bình nhiên liệu</Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>
+<Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>Đang làm mát</Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>
+<Apparel_PackJump.verbs.jump.label>Nhảy</Apparel_PackJump.verbs.jump.label>
+</LanguageData>

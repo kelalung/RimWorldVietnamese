@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ShamblerRegenerating>Đang hồi sinh.</ShamblerRegenerating>
+	<ShamblerRising>Đang hồi sinh.</ShamblerRising>
+	<ShamblerStanding>Đứng ngây ra.</ShamblerStanding>
+	<ShamblerShuffling>Lang thang ngây ngô.</ShamblerShuffling>
+	<LetterText_ShamblerGorehulk>Cẩn thận, có một con quái vật khổng lồ đi lang thang trong số chúng.</LetterText_ShamblerGorehulk>
+	<LetterText_ShamblerGorehulkPlural>Cẩn thận, có một vài con quái vật khổng lồ đi lang thang trong số chúng.</LetterText_ShamblerGorehulkPlural>
+	<LetterText_ShamblerChimera>Cẩn thận, có một con quái vật lai đi lang thang trong số chúng.</LetterText_ShamblerChimera>
+	<LetterText_ShamblerChimeraPlural>Cẩn thận, có một vài con quái vật lai đi lang thang trong số chúng.</LetterText_ShamblerChimeraPlural>
+	<MessageRitualCannotBeMutant>Chỉ có con người mới có thể tham gia nghi lễ.</MessageRitualCannotBeMutant>
+	<LetterLabelRevenantRevealed>Tấn công của linh hồn</LetterLabelRevenantRevealed>
+	<LetterRevenantRevealed>Linh hồn đã xuất hiện!</LetterRevenantRevealed>
+	<LetterRevenantRevealedFirst>Linh hồn đã xuất hiện và bắt đầu săn lùng một người định cư của bạn!</LetterRevenantRevealedFirst>
+	<LetterLabelRevenantSmearDiscovered>Phát hiện vết bẩn của linh hồn</LetterLabelRevenantSmearDiscovered>
+	<LetterRevenantSmearDiscovered>{0} đã nhận thấy một vết bẩn đen trên mặt đất. Vết bẩn này trông rất bất thường, tỏa ra mùi hôi thối. Nó còn rất mới và ẩm ướt. Gần đây chắc chắn có một thực thể kỳ quái đã đi qua đây.</LetterRevenantSmearDiscovered>
+	<LetterLabelRevenantKilled>Đã tiêu diệt linh hồn</LetterLabelRevenantKilled>
+	<LetterRevenantKilled>Linh hồn đã bị tiêu diệt! Những người bị thôi miên cũng sẽ hồi phục.\n\nThân xác của linh hồn đã tan biến, chỉ còn lại cột sống. Bạn có thể thu thập và điều tra cột sống của nó, hoặc phá hủy nó ngay lập tức.</LetterRevenantKilled>
+	<LetterLabelPawnHypnotized>{PAWN_nameDef} đã bị thôi miên</LetterLabelPawnHypnotized>
+	<LetterPawnHypnotized>{PAWN_nameDef} đã bị linh hồn thôi miên, đang nói lảm nhảm về những hình ảnh và ý nghĩ ác mộng.\n\nGiết linh hồn sẽ chấm dứt sự thôi miên.\n\nLinh hồn có thể sử dụng năng lực tâm linh để biến mình thành vô hình, nhưng có thể bị theo dõi qua vết bẩn đen mà nó để lại. Sử dụng pháo sáng, vật nổ, xung EMP, bọt chống cháy hoặc lửa để làm lộ diện linh hồn.\n\nNếu không bị tiêu diệt, linh hồn sẽ tiếp tục thôi miên những nạn nhân mới.</LetterPawnHypnotized>
+	<LetterRevenantFleshChunkLabel>Mảnh thịt của linh hồn</LetterRevenantFleshChunkLabel>
+	<LetterRevenantFleshChunkText>Linh hồn bị thương đã để lại một mảnh thịt. Bạn có thể phân tích mảnh thịt này để tìm hiểu cách theo dõi linh hồn.</LetterRevenantFleshChunkText>
+	<LetterRevenantSeenLabel>Đã nhìn thấy linh hồn</LetterRevenantSeenLabel>
+	<LetterRevenantSeen>{PAWN_nameDef} đã phát hiện một linh hồn ẩn giấu!</LetterRevenantSeen>
+	<InTrance>Đang trong trạng thái mơ màng.</InTrance>
+	<LetterLabelRevenantEmergence>Linh hồn xuất hiện</LetterLabelRevenantEmergence>
+	<LetterRevenantEmergence>Linh hồn đã xuất hiện từ cột sống nguyên vẹn! Tiêu diệt nó trước khi nó trốn thoát.\n\nTrong quá trình này, linh hồn đã biến đổi và có những đặc điểm sinh học mới.</LetterRevenantEmergence>
+	<LetterLabelSightstealerRevealed>Quái vật vô hình xuất hiện</LetterLabelSightstealerRevealed>
+	<LetterSightstealerRevealed>Một sinh vật biến dạng ghê tởm đột nhiên xuất hiện từ hư không!</LetterSightstealerRevealed>
+	<MessageSightstealerRevealed>Một quái vật vô hình đã xuất hiện!</MessageSightstealerRevealed>
+	<LetterLabelSightstealerHowl>Quái vật vô hình gào thét</LetterLabelSightstealerHowl>
+	<LetterSightstealerHowl>Các người định cư nghe thấy tiếng gào thét từ xa của quái vật vô hình.\n\nKhông ai biết chúng ở đâu, cũng không rõ có bao nhiêu con. Chúng có thể đến sau vài ngày hoặc ngay lập tức.</LetterSightstealerHowl>
+	<LetterLabelSightstealerHowlBig>Quái vật vô hình gào thét</LetterLabelSightstealerHowlBig>
+	<LetterSightstealerHowlBig>Các người định cư nghe thấy tiếng gào thét tức giận của nhiều quái vật vô hình từ xa. Chúng sắp đến.\n\nChúng có thể đến sau vài ngày hoặc ngay lập tức.</LetterSightstealerHowlBig>
+	<LetterLabelDeathPallEnded>Đám sương mù chết chóc tan biến</LetterLabelDeathPallEnded>
+	<LetterDeathPallEnded>Đám sương mù chết chóc đang tan biến. Những quái vật đi lang thang đã biến đổi do ảnh hưởng của nó sẽ sớm trở lại trạng thái bình thường.</LetterDeathPallEnded>
+	<LetterLabelGateClosing>Cổng hố sâu đang đóng lại</LetterLabelGateClosing>
+	<LetterGateClosing>Cổng hố sâu sắp đóng lại! Lối vào hố sâu sắp sụp đổ.\n\nLối vào hố sâu vốn đã không ổn định, giờ đây cuối cùng cũng sắp sụp đổ.</LetterGateClosing>
+	<MustPlaceNextToPitGate>Phải đặt ở vị trí ngay cạnh hố sâu.</MustPlaceNextToPitGate>
+	<PitGateClosedHumanityNote>Hố sâu đã đóng lại</PitGateClosedHumanityNote>
+	<PitGateCollapsing>Hố sâu đang sụp đổ</PitGateCollapsing>
+	<PitGateSettling>Hố sâu đang lún xuống</PitGateSettling>
+	<ViewUndercave>Xem hang động dưới đất</ViewUndercave>
+	<ViewUndercaveDesc>Xem bản đồ kết nối với hang động dưới đất.</ViewUndercaveDesc>
+	<ViewSurface>Xem bề mặt</ViewSurface>
+	<ViewSurfaceDesc>Xem bản đồ kết nối với bề mặt.</ViewSurfaceDesc>
+	<EmergenceWarningLabel>Hố sâu đang rung chuyển</EmergenceWarningLabel>
+	<EmergenceWarningText>Mặt đất dưới chân bạn đang rung chuyển, tiếng kêu kỳ quái vọng lại từ hố sâu dường như ngày càng gần. Có thứ gì đó sắp xuất hiện.</EmergenceWarningText>
+	<DesignatorFillIn>Đổ đầy</DesignatorFillIn>
+	<DesignatorFillInDesc>Đổ đầy cái hố này.</DesignatorFillInDesc>
+	<EnterPitGate>Vào hố sâu</EnterPitGate>
+	<ExitPitGate>Leo lên bề mặt</ExitPitGate>
+	<LetterLabelGateEntered>Hang ổ của quái thú thịt</LetterLabelGateEntered>
+	<LetterGateEntered>Trong sâu thẳm của hố sâu, bạn phát hiện ra một hang động lớn, nơi quái thú thịt đang hoành hành.\n\nNhiều khối thịt chặn lối vào hang động, cản trở bạn tiến lên. Tấn công và phá hủy các khối thịt.\n\nToàn bộ hệ thống hang động có vẻ không ổn định. Nếu bạn có thể tìm thấy thứ gì đó ẩn giấu sau các khối thịt, có thể bạn sẽ làm sập đường hầm và đóng cửa hang động.</LetterGateEntered>
+	<LetterLabelDreadmeldWarning>Âm thanh rùng mình</LetterLabelDreadmeldWarning>
+	<LetterDreadmeldWarning>{PAWN_nameDef} khi lại gần các khối thịt ở đây, {PAWN_pronoun} cảm thấy sự cử động và co giật mạnh mẽ bên dưới bề mặt ấm áp của các khối thịt. Có vẻ như có một sinh vật khổng lồ đang ẩn nấp phía sau bức tường thịt.</LetterDreadmeldWarning>
+	<LetterLabelUndercaveCollapsing>Hang động dưới đất không ổn định</LetterLabelUndercaveCollapsing>
+	<LetterUndercaveCollapsing>Cái chết của mẹ quái vật đã kích thích các khối thịt, dẫn đến sự không ổn định của hang động. Các khối thịt đang hỗ trợ hang động đã bắt đầu suy yếu. Trong vòng nửa ngày, toàn bộ hang động sẽ sụp đổ.\n\nHãy nhanh chóng rời khỏi hang động dưới đất trước khi quá muộn!</LetterUndercaveCollapsing>
+	<HoldingThing>Đang giam giữ</HoldingThing>
+	<RemoveFromPlatform>Gỡ bỏ {0_labelShort}</RemoveFromPlatform>
+	<RemoveFromPlatformDesc>Gỡ bỏ thực thể đang được đặt trên nền tảng giam giữ này.</RemoveFromPlatformDesc>
+	<ReleasingEntity>{GERUND}{TARGETLABEL}, nó đến từ</ReleasingEntity>
+	<TransferringEntity>{GERUND}{TARGETLABEL}</TransferringEntity>
+	<SelectHoldingPlatform>Chọn nền tảng giam giữ</SelectHoldingPlatform>
+	<LetterLabelEscapingFromHoldingPlatform>Thực thể đang trốn thoát</LetterLabelEscapingFromHoldingPlatform>
+	<LetterEscapingFromHoldingPlatform>Các thực thể sau đã vượt qua sự giam giữ:\n\n{0}\n\nXây dựng các phòng giam chắc chắn hơn để ngăn chặn thực thể trốn thoát. Sức mạnh kiềm chế càng cao, khả năng thực thể vượt qua sự giam giữ càng thấp, tường và cửa chắc chắn, ánh sáng tốt và thiết bị giam giữ đặc biệt đều có thể tăng cường sức mạnh kiềm chế.</LetterEscapingFromHoldingPlatform>
+	<HoldingPlatformRequiresStrength>Cần {0}</HoldingPlatformRequiresStrength>
+	<NoHoldingPlatformsAvailable>Không có nền tảng giam giữ nào khả dụng.</NoHoldingPlatformsAvailable>
+	<MutatorObeliskLetterLabel>Khối đá đang kích hoạt</MutatorObeliskLetterLabel>
+	<MutatorObeliskLetter>Khối đá đang được kích hoạt! Không khí xung quanh kêu lách cách, và khối đá đang tràn đầy năng lượng. Nó sẽ tự hủy trong một vụ nổ lớn, nhưng trước đó, nó sẽ sử dụng khả năng biến dạng độc ác của mình lên bất kỳ sinh vật nào mà nó phát hiện.</MutatorObeliskLetter>
+	<ObeliskTentacleLetterLabel>Biến dạng từ khối đá</ObeliskTentacleLetterLabel>
+	<ObeliskTentacleLetter>Khi tương tác với khối đá, {PAWN_nameDef} cảm thấy đau nhói ở cánh tay. Chỉ một lúc sau, da của {PAWN_possessive} bị nứt ra, và một mầm thịt từ bên trong {PAWN_possessive} mọc ra. Cánh tay của {PAWN_nameDef} giờ đã biến thành một cái xúc tu đang di chuyển!\n\n{PAWN_nameDef} đã mất một ít máu, nhưng các chỉ số sinh tồn trông vẫn ổn.</ObeliskTentacleLetter>
+	<ObeliskFleshWhipLetterLabel>Biến dạng từ khối đá</ObeliskFleshWhipLetterLabel>
+	<ObeliskFleshWhipLetter>Khi tương tác với khối đá, {PAWN_nameDef} cảm thấy đau nhói ở cánh tay. Chỉ một lúc sau, da của {PAWN_possessive} nứt ra mạnh mẽ, và một mầm thịt từ bên trong {PAWN_possessive} vươn ra. Cánh tay của {PAWN_nameDef} giờ đã biến thành một cái xúc tu, với lưỡi dao xương ở đầu!\n\nDù cảnh tượng rất khủng khiếp, nhưng {PAWN_nameDef} không mất quá nhiều máu, và các chỉ số sinh tồn vẫn ổn. Chiếc xúc tu này, dù ghê tởm, lại là một vũ khí cận chiến tuyệt vời.</ObeliskFleshWhipLetter>
+	<MutatorObeliskFailedArmLetterLabel>Tương tác với khối đá</MutatorObeliskFailedArmLetterLabel>
+	<MutatorObeliskFailedArmLetter>Khi tương tác với khối đá, {PAWN_nameDef} cảm thấy cánh tay bị đau nhói. Chỉ một lúc sau, cảm giác đau nhói này biến mất.\n\nKhối đá đã cố gắng gây biến dạng cho {PAWN_nameDef} nhưng không thành công.</MutatorObeliskFailedArmLetter>
+	<ObeliskFleshmassStomachLetterLabel>Biến dạng từ khối đá</ObeliskFleshmassStomachLetterLabel>
+	<ObeliskFleshmassStomachLetter>Khi tương tác với khối đá, {PAWN_nameDef} đột nhiên cảm thấy cơn đau dữ dội ở bụng, và các mô trong cơ thể {PAWN_possessive} bắt đầu phân hủy và biến đổi. Dạ dày của {PAWN_possessive} đã biến thành một khối thịt có ý thức riêng. Axit mạnh mà nó tiết ra gây ra cơn đau khó chịu, nhưng lại có thể ngăn ngừa ngộ độc thực phẩm.</ObeliskFleshmassStomachLetter>
+	<MutatorObeliskFailedStomachLetterLabel>Tương tác với khối đá</MutatorObeliskFailedStomachLetterLabel>
+	<MutatorObeliskFailedStomachLetter>Khi tương tác với khối đá, {PAWN_nameDef} cảm thấy cơn đau ở bụng. Chỉ một lúc sau, cảm giác đau này biến mất.\n\nKhối đá đã cố gắng gây biến dạng cho {PAWN_nameDef} nhưng không thành công.</MutatorObeliskFailedStomachLetter>
+	<ObeliskFleshmassLungLetterLabel>Biến dạng từ khối đá</ObeliskFleshmassLungLetterLabel>
+	<ObeliskFleshmassLungLetter>Khi tương tác với khối đá, {PAWN_nameDef} đột nhiên cảm thấy cơn đau dữ dội ở ngực, và phổi của {PAWN_possessive} bắt đầu sưng lên và biến dạng. Phổi của {PAWN_possessive} đã biến thành một khối thịt đau đớn có ý thức riêng. Tổ chức này liên tục tái sinh và trao đổi chất, giúp nó miễn dịch với các bệnh như viêm phổi và hen suyễn.</ObeliskFleshmassLungLetter>
+	<MutatorObeliskFailedLungLetterLabel>Tương tác với khối đá</MutatorObeliskFailedLungLetterLabel>
+	<MutatorObeliskFailedLungLetter>Khi tương tác với khối đá, {PAWN_nameDef} cảm thấy cơn đau ở ngực. Chỉ một lúc sau, cảm giác đau này biến mất.\n\nKhối đá đã cố gắng gây biến dạng cho {PAWN_nameDef} nhưng không thành công.</MutatorObeliskFailedLungLetter>
+	<ObeliskAnimalMutationLetterLabel>Biến dạng từ khối đá</ObeliskAnimalMutationLetterLabel>
+	<ObeliskAnimalMutationLetter>Khi tương tác với khối đá, {PAWN_nameDef} quan sát thấy năng lượng đột ngột tăng vọt. Khối đá đã tàn nhẫn biến dạng cơ thể của {ANIMAL}, biến nó thành một quái vật thịt ghê tởm.</ObeliskAnimalMutationLetter>
+	<ObeliskTreeMutationLetterLabel>Biến dạng từ khối đá</ObeliskTreeMutationLetterLabel>
+	<ObeliskTreeMutationLetter>Khi tương tác với khối đá, {PAWN_nameDef} quan sát thấy năng lượng đột ngột dâng trào. Khối đá đã biến một cái cây gần đó thành một cây ăn thịt điềm xấu. Những cây quái dị này có thể ăn xác chết, thịt sống và đầu lâu được đặt xung quanh nó.</ObeliskTreeMutationLetter>
+	<ObeliskDuplicationLetterLabel>Biến hình từ khối đá</ObeliskDuplicationLetterLabel>
+	<ObeliskDuplicationLetter>Khi {PAWN_nameDef} tương tác với khối đá, khối đá đột nhiên phát ra một xung năng lượng và sáng lên. {PAWN_nameDef} nhận thấy có một bản sao của {PAWN_objective} xuất hiện trước mặt! Người sao chép đó tuyên bố mình là {PAWN_objective} thật sự và đã tham gia vào thuộc địa của bạn.</ObeliskDuplicationLetter>
+	<ObeliskDuplicationFailedLetterLabel>Thử nghiệm sao chép khối đá thất bại</ObeliskDuplicationFailedLetterLabel>
+	<ObeliskDuplicationFailedLetter>{PAWN_nameDef} đã cố gắng kích hoạt khối đá nhưng không có phản ứng nào. Một điều gì đó trên người {PAWN_nameDef} đã ngăn cản khối đá sao chép {PAWN_objective}.</ObeliskDuplicationFailedLetter>
+	<ObeliskDuplicationSuccessMessage>{PAWN_nameDef} đã kích hoạt thành công việc sao chép khối đá.</ObeliskDuplicationSuccessMessage>
+	<ObeliskHostileDuplicateLetterLabel>Sao chép thù địch từ khối đá</ObeliskHostileDuplicateLetterLabel>
+	<ObeliskHostileDuplicateLetter>Khi {PAWN_nameDef} tương tác với khối đá, khối đá đột nhiên phát ra một xung năng lượng và sáng lên. {PAWN_nameDef} nhận thấy có một bản sao của chính mình xuất hiện! Nhưng người sao chép đó lại tiến đến gần {PAWN_nameDef} với ý định sát hại độc ác!</ObeliskHostileDuplicateLetter>
+	<DuplicatorObeliskLetterLabel>Kích hoạt khối đá</DuplicatorObeliskLetterLabel>
+	<DuplicatorObeliskLetter>Khối đá đang được kích hoạt! Không khí xung quanh khối đá tràn đầy năng lượng. Bản sao của người định cư sẽ sớm xuất hiện với ý định sát hại.\n\nHãy cẩn thận, năng lượng không ổn định đang chảy trong khối đá, nó có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
+	<ObeliskAbductorLetterLabel>Người định cư biến mất</ObeliskAbductorLetterLabel>
+	<ObeliskAbductorLetter>Khối đá biến dạng phát ra âm thanh lách cách khi nó biến đổi không gian xung quanh. Các sinh vật bắt đầu biến mất, và sẽ sớm hoàn toàn biến mất.\n\nHãy cẩn thận, năng lượng không ổn định đang chảy trong khối đá, nó có thể phát nổ bất cứ lúc nào.</ObeliskAbductorLetter>
+	<ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef} đang biến mất</ObeliskAbductedDisappearingLetterLabel>
+	<ObeliskAbductedDisappearingLetter>{PAWN_nameDef} nhận thấy có điều gì đó đang diễn ra bên trong khối đá biến dạng. Một cơ chế bí ẩn bên trong bắt đầu hoạt động, khiến {PAWN_nameDef} bắt đầu biến mất. {PAWN_pronoun} sẽ sớm hoàn toàn biến mất.</ObeliskAbductedDisappearingLetter>
+	<ObeliskAbductedLetterLabel>{PAWN_nameDef} xuất hiện trở lại</ObeliskAbductedLetterLabel>
+	<ObeliskAbductedLetter>{PAWN_nameDef} đã được chuyển đến một căn phòng kỳ lạ. Các bức tường của căn phòng được làm từ một loại vật liệu xám không thể nhận diện, và không khí ở đó rất ngột ngạt. {PAWN_pronoun} không biết mình đang ở đâu và không biết cách nào để trở về.\n\nMột cánh cửa gần đó đã bị chặn lại, nhưng có vẻ như có thể mở nó bằng một chút sức lực. Nhấp chuột phải vào cánh cửa bị chặn để mở nó. Bằng cách điều tra khối đá, các người định cư khác có thể tìm hiểu những gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Bạn cũng có thể chọn tấn công khối đá để khiến nó bắt cóc thêm nhiều người định cư.</ObeliskAbductedLetter>
+	<MutatorObeliskMutated>{PAWN_nameIndef} đã biến thành một quái vật thịt.</MutatorObeliskMutated>
+	<MutatorObeliskSpawned>Một quái vật thịt đã xuất hiện từ dưới lòng đất.</MutatorObeliskSpawned>
+	<ObeliskActivateDesc>Kích hoạt hoàn toàn khối đá biến dạng.</ObeliskActivateDesc>
+	<ObeliskActivateDescWarning>Cảnh báo! Khối đá biến dạng không ổn định. Việc kích hoạt hoàn toàn nó sẽ gây ra phản ứng nguy hiểm và dẫn đến sự tự hủy của khối đá.</ObeliskActivateDescWarning>
+	<ObeliskDeactivateMissingShards>Cần {0} mảnh vụn siêu nhiên để ngừng hoạt động</ObeliskDeactivateMissingShards>
+	<ActivityLevel>Cấp độ hoạt động</ActivityLevel>
+	<IsPsychicallySuppressed>Đang bị kiềm chế tâm linh</IsPsychicallySuppressed>
+	<ActivityIncrease>Tăng tốc độ</ActivityIncrease>
+	<NotInSealedRoom>Phòng không được niêm phong</NotInSealedRoom>
+	<EnergyHarvesting>Đang thu thập năng lượng</EnergyHarvesting>
+	<Unstable>Không ổn định</Unstable>
+	<BaseLevel>Cấp độ cơ bản</BaseLevel>
+	<IsActive>Đang hoạt động</IsActive>
+	<Resisted>Kháng cự</Resisted>
+	<HealthFactor>Bị thương</HealthFactor>
+	<Deactivated>Đã ngừng hoạt động</Deactivated>
+	<CommandSent>{PAWN_labelShort} đã được cử đi.</CommandSent>
+	<CannotActivateEntity>Không thể kích hoạt thực thể</CannotActivateEntity>
+	<CannotActivateEntityPlatform>Thực thể phải ở trên nền tảng</CannotActivateEntityPlatform>
+	<ActivityGizmo>Cấp độ hoạt động</ActivityGizmo>
+	<ActivitySuppressionTooltipTitle>Kiềm chế tự động</ActivitySuppressionTooltipTitle>
+	<ActivitySuppressionTooltipDisabled>Chức năng kiềm chế tự động hiện đã bị vô hiệu hóa. Khi được kích hoạt, người canh giữ sẽ kiềm chế {0}.</ActivitySuppressionTooltipDisabled>
+	<ActivitySuppressionTooltipDesc>Cấp độ hoạt động của {0} sẽ tăng dần. Nếu {0} bị thương hoặc bị khiêu khích, cấp độ hoạt động sẽ tăng nhanh hơn.\n\nKhi cấp độ hoạt động đạt 100%, {0} sẽ chuyển sang trạng thái hoạt động.\n\nNgười canh giữ sẽ tự động kiềm chế {0}, giữ cho cấp độ hoạt động của nó trong giới hạn an toàn. Khi cấp độ hoạt động vượt quá mức quy định ({LEVEL}), họ sẽ tiến hành kiềm chế nó. Các thực thể có cấp độ hoạt động cao hơn sẽ cung cấp nhiều kiến thức dị thường hơn khi được điều tra.</ActivitySuppressionTooltipDesc>
+	<ActivitySuppressionToggleTooltipDesc>Quyết định xem có tự động kiềm chế {0} khi cấp độ hoạt động vượt quá {LEVEL} hay không.\n\nKiềm chế tự động hiện đang {ONOFF}.</ActivitySuppressionToggleTooltipDesc>
+	<ActivityLevelDesc>Cấp độ hoạt động</ActivityLevelDesc>
+	<PsychicallySuppressedDesc>Đang bị kiềm chế tâm linh</PsychicallySuppressedDesc>
+	<CaptureEntity>Bắt giữ</CaptureEntity>
+	<CaptureEntityDesc>Bắt giữ {0_definite}. Nó phải được giam giữ trên nền tảng giam giữ. Khi đã bị giam giữ, bạn có thể điều tra nó.</CaptureEntityDesc>
+	<CancelCapture>Hủy bỏ bắt giữ</CancelCapture>
+	<CancelCaptureDesc>Hủy bỏ việc bắt giữ {0_definite}.</CancelCaptureDesc>
+	<ReadyToStudy>Hiện có thể điều tra</ReadyToStudy>
+	<NoActiveResearchProject>Không có dự án nghiên cứu nào được chọn cho loại kiến thức dị thường {0}.</NoActiveResearchProject>
+	<Capturable>Có thể bắt giữ</Capturable>
+	<RequiresHoldingPlatform>Cần phải bắt giữ trên nền tảng giam giữ.</RequiresHoldingPlatform>
+	<ChooseNociosphereDest>Chọn vị trí truyền tải của quả cầu đau đớn.</ChooseNociosphereDest>
+	<TransferEntity>Chuyển {0_definite}</TransferEntity>
+	<TransferEntityDesc>Chuyển thực thể đã giam giữ đến nền tảng giam giữ khác.</TransferEntityDesc>
+	<CancelTransfer>Hủy bỏ chuyển giao</CancelTransfer>
+	<CancelTransferDesc>Hủy bỏ việc chuyển thực thể đã giam giữ đến nền tảng giam giữ khác.</CancelTransferDesc>
+	<EmergedFrom>Chủ thể là</EmergedFrom>
+	<Emerging>Quái vật kim loại xuất hiện</Emerging>
+	<ImplantSourceUnknown>Đã được cấy ghép trước khi đến thuộc địa</ImplantSourceUnknown>
+	<InsectImplant>Bị cấy ghép bởi côn trùng</InsectImplant>
+	<SleepImplant>Bị cấy ghép trong khi ngủ bởi {SOURCE_nameDef}</SleepImplant>
+	<SurgeryImplant>Bị cấy ghép trong quá trình phẫu thuật bởi {SOURCE_nameDef}</SurgeryImplant>
+	<FoodImplant>Bị cấy ghép do ăn thức ăn do {SOURCE_nameDef} nấu</FoodImplant>
+	<UnnaturalHealingImplant>Bị cấy ghép trong quá trình điều trị bất thường bởi {SOURCE_nameDef}</UnnaturalHealingImplant>
+	<FeedingImplant>Bị cấy ghép trong quá trình cho ăn bởi {SOURCE_nameDef}</FeedingImplant>
+	<MetalhorrorEmergingLabel>Quái vật kim loại xuất hiện</MetalhorrorEmergingLabel>
+	<MetalhorrorEmergingDesc>Quái vật kim loại đã xuất hiện! Một sinh vật ác mộng đang xé rách thịt bằng những lưỡi cưa sắc bén trên cơ thể, đang từ cơ thể chủ thể chui ra. Chủ thể của quái vật kim loại là:</MetalhorrorEmergingDesc>
+	<MetalhorrorEmergingPluralDesc>Quái vật kim loại đã xuất hiện! Nhiều sinh vật ác mộng đang xé rách thịt bằng những lưỡi cưa sắc bén trên cơ thể, đang từ cơ thể chủ thể chui ra. Chủ thể của quái vật kim loại là:</MetalhorrorEmergingPluralDesc>
+	<MetalhorrorEmergingDescAppended>Các quái vật kim loại này ký sinh trong cơ thể nạn nhân, kiểm soát khả năng tư duy cao của chủ thể thông qua một mạng lưới kim loại mảnh như sợi tóc phủ khắp cơ thể và não của chủ thể. Chúng điều khiển suy nghĩ của nạn nhân và buộc họ phải sử dụng quái vật kim loại mới để lây nhiễm cho người khác.</MetalhorrorEmergingDescAppended>
+	<MetalhorrorSurgicalInspectionDetails>Các bác sĩ này đã bị quái vật kim loại ký sinh và kiểm soát, vì vậy họ đã nói dối về kết quả kiểm tra ngoại khoa.</MetalhorrorSurgicalInspectionDetails>
+	<MetalhorrorReasonInteraction>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân là do {PAWN_nameDef} phát hiện ra trong quá trình giao tiếp xã hội.</MetalhorrorReasonInteraction>
+	<MetalhorrorReasonInterrogation>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân là do {PAWN_nameDef} phát hiện ra trong quá trình thẩm vấn.</MetalhorrorReasonInterrogation>
+	<MetalhorrorReasonHostDied>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân là {INFECTED_nameDef} đã chết.</MetalhorrorReasonHostDied>
+	<MetalhorrorReasonSurgeryInspected>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân là do {PAWN_nameDef} phát hiện ra trong quá trình kiểm tra ngoại khoa.</MetalhorrorReasonSurgeryInspected>
+	<MetalhorrorReasonRandom>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân không rõ.</MetalhorrorReasonRandom>
+	<MetalhorrorReasonTriedToLeaveMap>Quái vật kim loại trong cơ thể {INFECTED_nameDef} đã chui ra, nguyên nhân là do cảm nhận được rằng chủ thể đang rời khỏi thuộc địa.</MetalhorrorReasonTriedToLeaveMap>
+	<MetalhorrorDetected>Phát hiện quái vật kim loại</MetalhorrorDetected>
+	<InteractionDetectedDesc>{PAWN_nameDef} đã phát hiện ra điều bất thường trên {INFECTED_nameDef} trong khi trò chuyện. {INFECTED_nameDef} có những hành vi kỳ lạ, thỉnh thoảng phát ra những âm thanh kỳ quái, và có những con sâu kim loại khó nhận thấy đang di chuyển trong mắt. {PAWN_nameDef} nghi ngờ rằng {INFECTED_nameDef} đã bị quái vật kim loại lây nhiễm.</InteractionDetectedDesc>
+	<InterrogationDetectedDesc>Trong quá trình thẩm vấn {PAWN_nameDef}, {INFECTED_nameDef} đã phát hiện ra điều bất thường. {INFECTED_nameDef} có những hành vi kỳ lạ, thỉnh thoảng phát ra những âm thanh kỳ quái, và có những con sâu kim loại khó nhận thấy đang di chuyển trong mắt. {PAWN_nameDef} nghi ngờ rằng {INFECTED_nameDef} đã bị quái vật kim loại lây nhiễm.</InterrogationDetectedDesc>
+	<MetalhorrorNoticedDetailsAppended>Quái vật kim loại là một loại ký sinh, nó có thể kiểm soát chủ thể và sử dụng chúng để lây nhiễm cho người khác.\n\nTheo thời gian, quái vật kim loại trong cơ thể chủ thể sẽ trở nên mạnh mẽ hơn. Nếu phát hiện có ai đó nhận ra sự tồn tại của mình, quái vật kim loại sẽ chui ra khỏi cơ thể chủ thể. Quá trình này rất đẫm máu và kinh hoàng, nhưng chủ thể thường có thể sống sót.\n\nCách duy nhất để xác nhận ai đó có bị quái vật kim loại lây nhiễm hay không là điều tra các mảnh thịt còn lại của quái vật kim loại để xác định đặc điểm sinh học của nó, sau đó tiến hành phẫu thuật kiểm tra ngoại khoa với bác sĩ đáng tin cậy.\n\nKhi phát hiện dấu vết của quái vật kim loại, có thể sử dụng phẫu thuật kiểm tra ngoại khoa để buộc quái vật kim loại chui ra khỏi cơ thể chủ thể. Hãy chuẩn bị sẵn sàng để tiêu diệt nó bằng vũ lực.</MetalhorrorNoticedDetailsAppended>
+	<LetterGrayFleshDiscoveredLabel>Thịt xám</LetterGrayFleshDiscoveredLabel>
+	<LetterGrayFleshDiscovered>{PAWN_nameDef} đã phát hiện một mảnh mô người nhỏ. Nó giống như da bình thường, chỉ khác là bị nhuộm xám bởi các hạt kim loại nhỏ. Chắc chắn đây là một phần của ai đó đã rơi ra trong quá trình hóa lỏng cơ thể.\n\nCó thể có thứ gì đó khác đã xâm nhập vào thuộc địa.\n\nCó một số cách để phát hiện kẻ giả mạo:\n\n{METHODS}\n\nCảnh báo: Một số quái vật kim loại có thể kiểm soát tư tưởng, thậm chí lây nhiễm cho người khác.</LetterGrayFleshDiscovered>
+	<LetterInterrogationUnlocked>Chế độ tương tác “thẩm vấn” đã được mở khóa.</LetterInterrogationUnlocked>
+	<LetterGrayFleshMethodOne>Giam giữ một người và cử một người canh giữ thẩm vấn danh tính thật của họ. Điều này có thể mất nhiều ngày.</LetterGrayFleshMethodOne>
+	<LetterGrayFleshMethodTwo>Thu thập thêm thịt xám và phân tích để xác định đặc điểm sinh học của mối đe dọa. Sau đó, tiến hành phẫu thuật kiểm tra ngoại khoa để tìm kiếm đặc điểm sinh học đó. Việc thu thập đủ mẫu có thể mất nhiều thời gian, và phẫu thuật này có thể gây chấn thương.</LetterGrayFleshMethodTwo>
+	<LetterGrayFleshMethodThree>Thi hành án tử hình hoặc lưu đày đối tượng nghi ngờ.</LetterGrayFleshMethodThree>
+	<LetterMetalhorrorReawakeningLabel>Quái vật kim loại tỉnh dậy</LetterMetalhorrorReawakeningLabel>
+	<LetterMetalhorrorReawakening>Quái vật kim loại đã bị quấy rầy, chúng đang tỉnh dậy!</LetterMetalhorrorReawakening>
+	<MessageMetalHorrorDormant>Quái vật kim loại đã vào trạng thái ngủ. Chúng sẽ tỉnh dậy nếu bị quấy rầy.</MessageMetalHorrorDormant>
+	<MetalhorrorDormant>Đang ngủ. Nếu bị quấy rầy, chúng sẽ tỉnh dậy.</MetalhorrorDormant>
+	<LetterSurgicallyInspectedLabel>Kết quả kiểm tra ngoại khoa</LetterSurgicallyInspectedLabel>
+	<LetterSurgicallyInspectedHeader>{DOCTOR_nameDef} đã thực hiện nhiều kiểm tra ngoại khoa cho {PATIENT_nameDef}.</LetterSurgicallyInspectedHeader>
+	<LetterSurgicallyInspectedNothing>{DOCTOR_pronoun} cho biết không phát hiện bất thường nào trên {DOCTOR_pronoun}. Nhưng bác sĩ cũng có thể che giấu sự thật vì lợi ích riêng.</LetterSurgicallyInspectedNothing>
+	<DeathRefusalUseSingular>Sử dụng</DeathRefusalUseSingular>
+	<DeathRefusalUsePlural>Sử dụng</DeathRefusalUsePlural>
+	<SelfResurrecting>Đang hồi sinh</SelfResurrecting>
+	<HarbingerTreeConsumption>Gần cây ăn thịt điềm xấu</HarbingerTreeConsumption>
+	<HarbingerTreeSprouted>Một cây ăn thịt điềm xấu mới đã nảy mầm.</HarbingerTreeSprouted>
+	<HarbingerTreeConsuming>Đang tiêu thụ thịt.</HarbingerTreeConsuming>
+	<HarbingerTreeNotConsuming>Đang tiêu thụ xác chết, thịt sống và đầu lâu xung quanh.</HarbingerTreeNotConsuming>
+	<ConsumedByHarbingerTree>Đang bị cây ăn thịt điềm xấu tiêu thụ.</ConsumedByHarbingerTree>
+	<FleshConsumption>Tiêu thụ thịt</FleshConsumption>
+	<CreateCorpseStockpile>Tạo khu vực lưu trữ xác chết</CreateCorpseStockpile>
+	<CreateCorpseStockpileDesc>Tạo một khu vực lưu trữ xác chết quanh cây ăn thịt điềm xấu.\n\nCây ăn thịt điềm xấu sẽ ăn xác chết, thịt sống và đầu lâu được đặt xung quanh nó, nếu có đủ dinh dưỡng, một cây ăn thịt điềm xấu mới sẽ được sinh ra gần đó.</CreateCorpseStockpileDesc>
+	<VoidNodeDisabled>Điểm hư không đã bị vô hiệu hóa.</VoidNodeDisabled>
+	<LetterCreeperAppearedAppended>{PAWN_pronoun} muốn nói chuyện với bạn. Bạn có thể cử một người định cư đến nghe {PAWN_pronoun} có gì muốn nói.</LetterCreeperAppearedAppended>
+	<LetterCreeperInviteJoins>Yêu cầu gia nhập: {PAWN_nameDef}</LetterCreeperInviteJoins>
+	<LetterCreeperInviteAppend>{PAWN_nameDef} có thể rất hữu ích, nhưng bạn cũng cảm thấy {PAWN_pronoun} dường như đang giấu giếm điều gì đó.</LetterCreeperInviteAppend>
+	<AcceptCreeper>Cho phép {PAWN_nameDef} gia nhập</AcceptCreeper>
+	<CaptureCreeper>Để {SPEAKER_nameDef} bắt giữ {PAWN_nameDef}</CaptureCreeper>
+	<RejectCreeper>Để {PAWN_nameDef} rời đi</RejectCreeper>
+	<LetterUnnaturalHealingLabel>Y học bất thường</LetterUnnaturalHealingLabel>
+	<LetterUnnaturalHealing>{CASTER_nameDef} đã hoàn thành quá trình chữa lành tâm linh {CASTER_possessive} cho {PAWN_nameDef}.</LetterUnnaturalHealing>
+	<LetterUnnaturalHealingTentacle>Tuy nhiên, việc điều trị đã gặp phải vấn đề lớn.\n\nCánh tay của {PAWN_nameDef} đã bị xé rách, và một thứ kỳ lạ đã đột ngột mọc ra từ bên trong cơ thể {PAWN_possessive}. Cánh tay của {PAWN_possessive} đã bị thay thế bằng một xúc tu thịt!</LetterUnnaturalHealingTentacle>
+	<MessageTransmutedItem>{PAWN_nameDef} đã chuyển đổi {ORIGINAL} thành {TRANSMUTED}.</MessageTransmutedItem>
+	<MessageTransmutedStuff>{PAWN_nameDef} đã chuyển đổi {1} thành {TRANSMUTED_labelShortIndef}.</MessageTransmutedStuff>
+	<MessageTransmutedStuffPlural>{PAWN_nameDef} đã chuyển đổi {1} thành {TRANSMUTED_labelPluralIndef}.</MessageTransmutedStuffPlural>
+	<ElectroharvesterNoEntity>Chưa có thực thể nào được giam giữ.</ElectroharvesterNoEntity>
+	<ElectroharvesterNoPlatform>Chưa kết nối với nền tảng giam giữ.</ElectroharvesterNoPlatform>
+	<FleshmassHeartInvulnerable>Trạng thái miễn dịch. Phân tích các khối tổ chức thần kinh để tiêu diệt nó.</FleshmassHeartInvulnerable>
+	<FleshmassHeartGrowing>Khối thịt đang phát triển.</FleshmassHeartGrowing>
+	<FleshmassHeartCollecting>Đang thu thập sinh khối cho đợt tăng trưởng tiếp theo...</FleshmassHeartCollecting>
+	<MessageHeartAttack>Trái tim thịt đang co giật!</MessageHeartAttack>
+	<LetterLabelFleshmassHeartDestroyed>Trái tim thịt đã bị tiêu diệt</LetterLabelFleshmassHeartDestroyed>
+	<LetterFleshmassHeartDestroyed>Trái tim thịt đã bị tiêu diệt, chỉ còn lại lõi bị hư hại nhưng vẫn hoạt động — một hỗn hợp biến dạng giữa thịt và công nghệ siêu nhiên. Ngay cả khi các khối thịt xung quanh đã phân hủy, lõi vẫn tiếp tục phát triển và biến đổi.\n\nCó thể bắt giữ lõi để điều tra thêm, hoặc tiêu diệt nó để chấm dứt cơn ác mộng này. Nếu không quản lý, nó có thể phát triển thành một trái tim thịt mới.</LetterFleshmassHeartDestroyed>
+	<NerveBundleGrewMessage>Trái tim thịt đã mọc ra các nút thần kinh mới.</NerveBundleGrewMessage>
+	<NeuralLumpDroppedMessage>Các nút thần kinh đã rơi ra một khối tổ chức thần kinh. Phân tích nó để tìm hiểu thêm về trái tim thịt.</NeuralLumpDroppedMessage>
+	<DestroyHeartDisabled>Cần thu thập và phân tích các khối tổ chức thần kinh. Các khối tổ chức thần kinh đã được phân tích.</DestroyHeartDisabled>
+	<SpitterAttacking>Máy phun thịt đang tấn công!</SpitterAttacking>
+	<SpitterGatheringSpit>Đang chuẩn bị dịch nhầy axit. Thời gian còn lại:</SpitterGatheringSpit>
+	<SpitterReadyToSpit>Đã sẵn sàng phun dịch nhầy axit.</SpitterReadyToSpit>
+	<ActiveFleshmassInspect>Khối thịt đang hoạt động. Nếu bị tiêu diệt, có thể sẽ sinh ra quái vật thịt.</ActiveFleshmassInspect>
+	<LetterLabelFleshTentacleAttack>Tấn công bằng xúc tu thịt</LetterLabelFleshTentacleAttack>
+	<LetterFleshTentacleAttack>Cuộc phẫu thuật của {PAWN_nameDef} đã thành công. Tuy nhiên, những khối thịt từng là xúc tu đã phát động tấn công!</LetterFleshTentacleAttack>
+	<Biosignature>Đặc điểm sinh học</Biosignature>
+	<BlissLobotomy>Phẫu thuật não hạnh phúc</BlissLobotomy>
+	<HP>Sinh mạng</HP>
+	<Analyzed>Đã phân tích</Analyzed>
+	<HighestSkill>Kỹ năng cấp cao nhất</HighestSkill>
+	<MessageShardDropped>{0} đã rơi ra một mảnh vụn siêu nhiên. Bạn có thể thu thập và sử dụng nó.</MessageShardDropped>
+	<Berserk_BloodRain>Cơn mưa máu khiến {0_nameIndef} rơi vào trạng thái cuồng bạo!</Berserk_BloodRain>
+	<Manhunter_BloodRain>Mưa máu đã khiến {0_nameIndef} rơi vào trạng thái săn lùng con người!</Manhunter_BloodRain>
+	<MentalBreakReason_BloodRage>Đây là do sự tích tụ cơn thịnh nộ máu.</MentalBreakReason_BloodRage>
+	<LetterLabelCorpseDisappeared>Xác chết biến mất</LetterLabelCorpseDisappeared>
+	<LetterCorpseDisappeared>Xác chết bất thường đã biến mất.</LetterCorpseDisappeared>
+	<LetterCorpseDisappearedPawnAliveAppend>{PAWN_nameDef} bắt đầu bình tĩnh lại.</LetterCorpseDisappearedPawnAliveAppend>
+	<LetterLabelCorpseReappeared>Xác chết xuất hiện</LetterLabelCorpseReappeared>
+	<LetterCorpseReappeared>Có vẻ như xác chết của {PAWN_nameDef} đã xuất hiện trở lại từ hư không.</LetterCorpseReappeared>
+	<MessageCorpseEscaped>Có vẻ như xác chết của {PAWN_nameDef} không biết làm thế nào đã chuyển ra khỏi {CONTAINER_labelShort}.</MessageCorpseEscaped>
+	<MessageUnnaturalCorpseResurrect>Không thể hồi sinh {PAWN_nameDef}. Xác chết không có bất kỳ phản ứng nào.</MessageUnnaturalCorpseResurrect>
+	<MessagePawnFainted>Xác chết bất thường đã khiến {PAWN_nameDef} ngất xỉu.</MessagePawnFainted>
+	<MessageAwokenReappeared>Xác chết bất thường đã xuất hiện gần {PAWN_nameDef} và đang tiến lại gần!</MessageAwokenReappeared>
+	<MessageAwokenVanished>Xác chết bất thường đã biến mất. Nó sẽ quay lại tìm {PAWN_nameDef} sau.</MessageAwokenVanished>
+	<MessageAwokenAttacking>Xác chết bất thường đang tấn công {PAWN_nameDef}!</MessageAwokenAttacking>
+	<MessageAwokenKilledVictim>Xác chết bất thường đã phá hủy bộ não của {PAWN_nameDef}.</MessageAwokenKilledVictim>
+	<MessageAwokenDisappeared>Xác chết bất thường đã biến mất.</MessageAwokenDisappeared>
+	<MentalBreakReason_MysteriousCorpse>Đây là do sự xuất hiện của xác chết bất thường.</MentalBreakReason_MysteriousCorpse>
+	<UnnaturalCorpseStudyLetter>Cuộc điều tra xác chết bất thường có tiến triển</UnnaturalCorpseStudyLetter>
+	<UnnaturalCorpseStudyLetterDesc>Cuộc điều tra xác chết bất thường đã tiết lộ thêm thông tin về xác chết này. Ở phần lõi của nó có một mảnh vụn siêu nhiên tối tăm, thiết lập một liên kết tâm linh với {VICTIM_nameDef}. Khi xác chết này bị tiêu diệt, nó sẽ tự tái tạo và bất chấp khoảng cách sẽ xuất hiện gần {VICTIM_nameDef}.\n\n{RESEARCHER_nameDef} nghĩ rằng có thể có cách để tiêu diệt xác chết này vĩnh viễn, nhưng cần phải điều tra thêm.</UnnaturalCorpseStudyLetterDesc>
+	<UnnaturalCorpseStudyCompletedLetter>Cuộc điều tra xác chết bất thường đã hoàn thành</UnnaturalCorpseStudyCompletedLetter>
+	<UnnaturalCorpseStudyCompletedLetterDesc>Cuộc điều tra xác chết bất thường đã tiết lộ cách an toàn để loại bỏ mảnh vụn siêu nhiên tối tăm. Làm như vậy có thể ngăn chặn nó tiếp tục gây đau khổ tâm linh cho {VICTIM_nameDef}. Nhưng điều này cũng sẽ cản trở việc điều tra thêm về xác chết.</UnnaturalCorpseStudyCompletedLetterDesc>
+	<UnnaturalCorpseDeactivatedLetter>Phần xác chết</UnnaturalCorpseDeactivatedLetter>
+	<UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef} đã lấy đi một mảnh vụn siêu nhiên tối tăm từ xác chết bất thường này, xác chết ngay lập tức bắt đầu phình to mạnh mẽ, cuối cùng phát nổ thành một đống thịt nát bét.</UnnaturalCorpseDeactivatedLetterDesc>
+	<UnnaturalCorpseDeactivatedLetterDescAppended>{PAWN_nameDef} cảm thấy tốt hơn nhiều.</UnnaturalCorpseDeactivatedLetterDescAppended>
+	<UnnaturalCorpseDeactivate>Tiêu hủy xác chết bất thường</UnnaturalCorpseDeactivate>
+	<UnnaturalCorpseDeactivateDesc>Tiêu hủy hoàn toàn xác chết bất thường.</UnnaturalCorpseDeactivateDesc>
+	<UnnaturalCorpseGuiLabel>Chọn người để tiêu hủy nó.</UnnaturalCorpseGuiLabel>
+	<UnnaturalCorpseJobString>Tiêu hủy</UnnaturalCorpseJobString>
+	<UnnaturalCorpseActivatingEnroute>Đang tiêu hủy {0}</UnnaturalCorpseActivatingEnroute>
+	<UnnaturalCorpseActivating>Tiêu hủy {0}: {1} giây</UnnaturalCorpseActivating>
+	<UnnaturalCorpseAwakeningLetter>Xác chết bất thường</UnnaturalCorpseAwakeningLetter>
+	<UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef} cảm thấy xác chết bất thường này đang nhanh chóng trở nên mạnh mẽ. Một số ý thức đáng sợ đang chảy trong cơ thể nó.\n\nNhững điều khủng khiếp sẽ xảy ra trong vài ngày tới.</UnnaturalCorpseAwakeningLetterDesc>
+	<UnnaturalCorpseAwakeningLetterExtra_StudyComplete>Tiêu diệt xác chết này trước khi mọi thứ mất kiểm soát.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
+	<UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>Điều tra xác chết này để thiết kế kế hoạch tiêu diệt.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
+	<UnnaturalCorpseAwokenLetter>Xác chết bất thường đã hồi sinh</UnnaturalCorpseAwokenLetter>
+	<UnnaturalCorpseAwokenLetterDesc>Xác chết bất thường đã hồi sinh, hiện đang tiến lại gần {PAWN_nameDef}!\n\nDù {PAWN_nameDef} chạy đi đâu, xác chết này sẽ luôn theo sát {PAWN_pronoun}.\n\nPhải tiêu diệt nó ngay lập tức.</UnnaturalCorpseAwokenLetterDesc>
+	<UnnaturalCorpseAwokenDefeatedLetter>Xác chết bất thường đã bị tiêu diệt!</UnnaturalCorpseAwokenDefeatedLetter>
+	<UnnaturalCorpseAwokenDefeatedLetterDesc>Xác chết bất thường nhằm vào {PAWN_nameDef} đã bị tiêu diệt!\n\nNó không còn có thể tra tấn {PAWN_nameDef} nữa.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+	<MessageGoldenCubeSeverityIncreased>{PAWN_labelShort} ngày càng trở nên cuồng tín với khối lập phương vàng.</MessageGoldenCubeSeverityIncreased>
+	<MessageGoldenCubeWithdrawal>{PAWN_labelShort} đang trải qua cơn thèm thuốc khối lập phương.</MessageGoldenCubeWithdrawal>
+	<MessageGoldenCubeWithdrawalIncreased>Cơn thèm thuốc khối lập phương của {PAWN_labelShort} đang gia tăng.</MessageGoldenCubeWithdrawalIncreased>
+	<MessageGoldenCubeInterest>{PAWN_labelShort} đã trở nên rất quan tâm đến khối lập phương vàng.</MessageGoldenCubeInterest>
+	<MessageGoldenCubeSculptureDestroyed>{PAWN_labelShort} cảm thấy tức giận vì bức tượng khối lập phương của {PAWN_possessive} đã bị phá hủy. {PAWN_pronoun} có thể trở nên bạo lực.</MessageGoldenCubeSculptureDestroyed>
+	<CannotDisableCube>{PAWN_labelShort} từ chối tắt khối lập phương vàng.</CannotDisableCube>
+	<LetterLabelGoldenCubeComa>Hôn mê khối lập phương: {PAWN_labelShort}</LetterLabelGoldenCubeComa>
+	<LetterGoldenCubeComa>Cơn thèm thuốc khối lập phương của {PAWN_labelShort} đã khiến {PAWN_objective} rơi vào trạng thái hôn mê. {PAWN_pronoun} sẽ ở trong trạng thái hôn mê cho đến khi liên kết tâm linh với khối lập phương vàng hoàn toàn biến mất.</LetterGoldenCubeComa>
+	<CubeDeactivationConfirmation>Việc vô hiệu hóa khối lập phương vàng sẽ khiến bất kỳ ai cuồng tín với khối lập phương vàng ngay lập tức rơi vào trạng thái cuồng nộ. Nếu người đó đang trong đội hình đi xa, họ sẽ ngay lập tức bỏ lại thuộc địa.</CubeDeactivationConfirmation>
+	<CubeDeactivationConfirmationPawnsBerserk>Các nhân vật sau sẽ rơi vào trạng thái cuồng nộ</CubeDeactivationConfirmationPawnsBerserk>
+	<CubeDeactivationConfirmationPawnsLost>Các nhân vật sau sẽ mất tích</CubeDeactivationConfirmationPawnsLost>
+	<CubeDeactivationConfirmationEnd>Bạn có chắc chắn muốn tiếp tục không?</CubeDeactivationConfirmationEnd>
+	<CubeDeactivationBerserk>Vô hiệu hóa khối lập phương</CubeDeactivationBerserk>
+	<CubeDeactivationBerserkDesc>{PAWN_labelShort} đã thành công trong việc phá hủy khối lập phương vàng, nhưng sóng tâm linh phát sinh đã khiến những người cuồng tín với nó rơi vào trạng thái cuồng nộ!</CubeDeactivationBerserkDesc>
+	<CubeDeactivationBerserkPawns>Các nhân vật sau đã rơi vào trạng thái cuồng nộ</CubeDeactivationBerserkPawns>
+	<CubeDeactivationLostPawns>Các nhân vật trong đội hình đi xa đã mất tích</CubeDeactivationLostPawns>
+	<MentalBreakReason_CubeSculpting>Đây là do sự cuồng tín của {PAWN_pronoun} với khối lập phương.</MentalBreakReason_CubeSculpting>
+	<CubeMaterialDirt>Đất</CubeMaterialDirt>
+	<CubeMaterialStone>Đá</CubeMaterialStone>
+	<CubeMaterialSand>Cát</CubeMaterialSand>
+	<CubeMaterialScrap>Rác thải</CubeMaterialScrap>
+	<ReportBuildingCubeEnroute>Đang chế tạo bức tượng.</ReportBuildingCubeEnroute>
+	<MessageSlaughterNoFlesh>Không thể giết thịt: {PAWN_labelShort} không phải là cơ thể thịt.</MessageSlaughterNoFlesh>
+	<MessageSlaughterTooBig>Không thể giết thịt: {PAWN_labelShort} quá to.</MessageSlaughterTooBig>
+	<GeneratingLabyrinth>Đang vào mê cung</GeneratingLabyrinth>
+	<MessagePawnVanished>{PAWN_nameDef} đã biến mất.</MessagePawnVanished>
+	<MessagePawnReappeared>{PAWN_nameDef} đã xuất hiện trở lại.</MessagePawnReappeared>
+	<FloorEtchingsInspectorExit>Hướng ra</FloorEtchingsInspectorExit>
+	<LetterLabelObeliskDiscovered>Đài kỷ niệm méo mó</LetterLabelObeliskDiscovered>
+	<LetterObeliskDiscovered>{PAWN_nameDef} đã phát hiện một đài kỷ niệm khổng lồ. Nó có vẻ giống hệt với đài kỷ niệm đã đưa {PAWN_objective} đến đây. Có thể khởi động nó để đưa {PAWN_objective} về nhà.\n\nChọn {PAWN_nameDef} và nhấp chuột phải vào đài kỷ niệm để kích hoạt nó.</LetterObeliskDiscovered>
+	<LetterLabelFloorEtchings>Hình khắc trên sàn</LetterLabelFloorEtchings>
+	<LetterFloorEtchings>{PAWN_nameDef} đã giải mã hình khắc trên sàn.\n\n{RAMBLINGS}\n\nChúng dường như chỉ ra rằng lối thoát ở đây theo hướng {DIRECTION}.</LetterFloorEtchings>
+	<LetterLabelFloorEtchingRamblings>Hình khắc trên sàn</LetterLabelFloorEtchingRamblings>
+	<LetterFloorEtchingsRamblings>{PAWN_nameDef} đã giải mã hình khắc trên sàn.</LetterFloorEtchingsRamblings>
+	<LetterLabelLabyrinthExit>Trở về thuộc địa</LetterLabelLabyrinthExit>
+	<LetterLabyrinthExit>Đài kỷ niệm đang kêu vo ve đã đưa những người định cư bị bắt cóc trở về. Ngay sau đó, nó nhanh chóng biến mất.\n\nCẩn thận, đài kỷ niệm có thể đã đưa về những sinh vật khác.</LetterLabyrinthExit>
+	<GrayDoorJammed>Cửa bị kẹt. Cần phải phá cửa.</GrayDoorJammed>
+	<ActivatedByProximity>Kích hoạt khi đến gần.</ActivatedByProximity>
+	<MonolithActivateDisabledPawns>Không có người định cư nào khả dụng.</MonolithActivateDisabledPawns>
+	<VoidMonolithInvestigatedText>Bề mặt kim loại đen của khối đá trông ấm áp, {PAWN_nameDef} cảm thấy mình có thể nghe thấy tiếng rì rào nhẹ phát ra từ bên trong nó. Bề mặt bẩn thỉu của nó dường như đang di chuyển, tạo cảm giác không thoải mái.\n\n{PAWN_nameDef} tập trung vào những hình ảnh này...</VoidMonolithInvestigatedText>
+	<VoidMonolithInvestigate>Tập trung vào hiện tượng</VoidMonolithInvestigate>
+	<VoidMonolithWalkAway>Đi ra xa</VoidMonolithWalkAway>
+	<VoidMonolithViewQuest>Xem nhiệm vụ</VoidMonolithViewQuest>
+	<VoidMonolithViewResearch>Xem nghiên cứu hiện tượng</VoidMonolithViewResearch>
+	<CurrentMonolithLevel>Cấp độ khối đá hiện tại</CurrentMonolithLevel>
+	<VoidMonolithUndiscovered>Điều tra để tìm hiểu thêm.</VoidMonolithUndiscovered>
+	<VoidMonolithRequiredEntityCategory>Để nâng cấp khối đá, cần phát hiện {0} loại thực thể cấp {1}.</VoidMonolithRequiredEntityCategory>
+	<DiscoveredCount>Đã phát hiện: {0}</DiscoveredCount>
+	<VoidMonolithAllEntitiesDiscovered>Cần phát hiện thêm thực thể.</VoidMonolithAllEntitiesDiscovered>
+	<VoidMonolithRequiresDiscovery>Điều kiện nâng cấp</VoidMonolithRequiresDiscovery>
+	<VoidMonolithRequiresDiscoveryShort>Chưa phát hiện đủ thực thể</VoidMonolithRequiresDiscoveryShort>
+	<VoidMonolithRequiresCategory>Cần phát hiện thêm {0} loại {1} thực thể.</VoidMonolithRequiresCategory>
+	<VoidMonolithVisionLabel>Ảo giác kỳ quái</VoidMonolithVisionLabel>
+	<VoidMonolithVisionText>{PAWN_nameDef} đã có một giấc mơ kỳ lạ. Trong giấc mơ, {PAWN_pronoun} thấy một hình thể đen tối không ngừng lan rộng, nuốt chửng mọi thứ. Hình thể đen tối này đến từ một khối đá bị nứt gần đó.\n\nKhi tỉnh dậy từ giấc mơ, {PAWN_nameDef} cảm thấy mình bị thu hút một cách kỳ lạ bởi khối đá này. Nó đang gọi {PAWN_objective}.</VoidMonolithVisionText>
+	<VoidMonolithChooseActivator>Chọn người kích hoạt</VoidMonolithChooseActivator>
+	<VoidMonolithActivatorDowned>Mục tiêu đã bị hạ gục</VoidMonolithActivatorDowned>
+	<VoidMonolithActivatorMentalState>Mục tiêu đang trong trạng thái tinh thần</VoidMonolithActivatorMentalState>
+	<VoidMonolithActivatorBusy>Mục tiêu đang bận</VoidMonolithActivatorBusy>
+	<VoidMonolithActivatorIncapable>Mục tiêu không đủ khả năng</VoidMonolithActivatorIncapable>
+	<MonolithArrivalLabel>Khối đá xuất hiện</MonolithArrivalLabel>
+	<MonolithArrivalText>Việc tương tác với tín hiệu tâm linh đã dẫn đến sự xuất hiện của một cấu trúc kỳ lạ.</MonolithArrivalText>
+	<MonolithArrivalTextExt>Nó rất giống với khối đá mà các bạn đã gặp trước đó.</MonolithArrivalTextExt>
+	<CantActivateMonolith>Không thể {0} khối đá</CantActivateMonolith>
+	<MonolithTwistingAlert>Khối đá đang xoắn</MonolithTwistingAlert>
+	<MonolithTwistingExplanation>Sự xuất hiện của bạn đã khiến khối đá xoắn lại. Quá trình này sẽ sớm kết thúc, hãy chuẩn bị sẵn sàng cho những gì sắp xảy ra.</MonolithTwistingExplanation>
+	<MonolithAutoActivatingLabel>Khối đá đổ</MonolithAutoActivatingLabel>
+	<MonolithAutoActivatingText>Sự sợ hãi đang lặng lẽ lan tỏa giữa các thuộc địa. Khối đá đổ bắt đầu kích hoạt. Dần dần, nó bắt đầu xoắn lại, tái tổ chức và biến đổi thành một thứ khác.\n\nTrong vài ngày tới, quá trình này sẽ hoàn tất. Hãy chuẩn bị sẵn sàng cho những gì sắp xảy ra.</MonolithAutoActivatingText>
+	<MonolithAutoActivatedLabel>Khối đá hư không</MonolithAutoActivatedLabel>
+	<MonolithAutoActivatedText>Quá trình tái tổ chức của khối đá sẽ sớm hoàn thành...</MonolithAutoActivatedText>
+	<LetterLabelGrayPallDescending>Sương mù gai xám</LetterLabelGrayPallDescending>
+	<LetterGrayPallDescending>Một làn sương mù thô ráp như cát bụi bao trùm khu vực này, phát ra mùi hôi thối và thối rữa. Thời tiết bất thường này gợi lên nỗi sợ hãi trong lòng mọi người.</LetterGrayPallDescending>
+	<VoidAwakeningConfirmationText>Việc đánh thức khối đá hư không sẽ khiến thuộc địa rơi vào bóng tối trong vài ngày và thu hút những thực thể mạnh mẽ đến đây. Hãy chắc chắn rằng bạn đã chuẩn bị đầy đủ:\n\n—— Dự trữ đủ thức ăn, vật liệu xây dựng và vũ khí.\n—— Đảm bảo thuộc địa có đủ ánh sáng và nguồn điện. Không nên phụ thuộc vào máy phát điện năng lượng mặt trời.\n—— Đảm bảo thuộc địa được phòng thủ chặt chẽ, thuộc địa viên luôn sẵn sàng chiến đấu.\n\nMột khi đã đánh thức khối đá hư không, sẽ không có đường quay lại.\n\nBạn có chắc chắn muốn tiếp tục không?</VoidAwakeningConfirmationText>
+	<VoidNodeLetter>Trước mặt {PAWN_nameDef}, một quả cầu từ từ nổi lên, bên trong chứa đầy năng lượng tâm linh đang xoay chuyển.\n\n{PAWN_nameDef} có thể cảm nhận rõ ràng một sự tồn tại nào đó trong ý thức của {PAWN_possessive}, rõ ràng hơn bất kỳ cảm giác nào của con người. Trước mặt {PAWN_pronoun} là một đại dương đen tối tràn đầy năng lượng, và nó đang gọi {PAWN_objective}...\n\nChính thiết bị công nghệ siêu nhiên gần đó, thông qua một liên kết yếu ớt, đã nâng đỡ quả cầu đó. {PAWN_nameDef} có thể phá hủy liên kết, cắt đứt mối liên hệ giữa hai thực tại.\n\nHoặc, {PAWN_pronoun} cũng có thể bước vào quả cầu, hòa nhập với hư không. Không ai biết hành động nổi loạn này sẽ mang lại sức mạnh tối tăm gì.</VoidNodeLetter>
+	<VoidNodeDisrupt>Phá hủy liên kết</VoidNodeDisrupt>
+	<VoidNodeEmbrace>Ôm lấy hư không</VoidNodeEmbrace>
+	<VoidNodePostpone>Để sau</VoidNodePostpone>
+	<DisruptTheLinkCredits>Luồng linh hồn bắt đầu rối loạn, các thiết bị cơ khí biến dạng phát ra tiếng nổ chói tai. Hư không đang quay cuồng bắt đầu nhấp nháy không ổn định. {PAWN_nameDef} cảm thấy nó đang rung chuyển mạnh mẽ và đột nhiên bắt đầu sụp đổ.\n\nVết lõm kim loại bắt đầu xoắn lại, tạo thành một khoang trống giống như một trái tim khổng lồ. {PAWN_nameDef} chưa kịp thét lên, đã biến mất không dấu vết trong nháy mắt.\n\n{PAWN_nameDef} đã từ chối lời gọi của hư không.\n\nCâu chuyện của {PAWN_possessive} vẫn tiếp tục...</DisruptTheLinkCredits>
+	<EmbraceTheVoidCredits>{PAWN_nameDef} đã bước vào hư không, đại dương đen tối lập tức bao trùm {PAWN_objective}, nhấn chìm mọi cảm giác, tràn ngập cơ thể {PAWN_possessive}, chiếm lĩnh ý thức {PAWN_possessive}.\n\nTrọng tâm của nút hư không, từ toàn bộ thế giới trở thành chỉ một người. Cấu trúc hư không phát ra tiếng nổ chói tai, thoát khỏi các giá đỡ kỳ quái kết nối nó, rồi biến mất không dấu vết trong nháy mắt.\n\n{PAWN_nameDef} đã ôm lấy lời gọi của hư không.\n\nCâu chuyện của {PAWN_possessive} vẫn tiếp tục...</EmbraceTheVoidCredits>
+	<StructureActivatedMessage>{PAWN_nameDef} đã kích hoạt {STRUCTURE_definite}</StructureActivatedMessage>
+	<StructuresActivatedAlertLabel>Cấu trúc đã được kích hoạt</StructuresActivatedAlertLabel>
+	<StructuresActivatedAlertDescription>Kích hoạt cấu trúc hư không để hoàn thành việc đánh thức khối đá.</StructuresActivatedAlertDescription>
+	<GleamingMonolithInterrupted>{PAWN_nameDef} đã mất liên kết với khối đá hư không. Cần phải kích hoạt lại.</GleamingMonolithInterrupted>
+	<IncreasesChanceOfLovin>Tăng khả năng ân ái.</IncreasesChanceOfLovin>
+	<UnnaturalCorpse>Xác chết bất thường {0_label}</UnnaturalCorpse>
+	<KnowledgeFactorOutdoors>Giảm kiến thức về hiện tượng điều tra</KnowledgeFactorOutdoors>
+	<EmergenceIn>Xuất hiện sau {0}</EmergenceIn>
+	<EmergenceInDesc>Sẽ có thứ gì đó nổi lên từ mặt đất sau {0}.</EmergenceInDesc>
+	<BioferriteHarvesterContained>Chứa sắt sống</BioferriteHarvesterContained>
+	<BioferriteHarvesterPerDay>Mỗi ngày</BioferriteHarvesterPerDay>
+	<BioferriteHarvesterEjectContents>Đẩy ra nội dung</BioferriteHarvesterEjectContents>
+	<BioferriteHarvesterEjectContentsDesc>Đẩy tất cả {0} ra ngoài.</BioferriteHarvesterEjectContentsDesc>
+	<BioferriteHarvesterToggleUnloading>Bật/tắt thu thập sắt sống</BioferriteHarvesterToggleUnloading>
+	<BioferriteHarvesterToggleUnloadingDesc>Khi kích hoạt, thuộc địa viên sẽ tự động lấy sắt sống ra khỏi máy thu thập khi đầy.</BioferriteHarvesterToggleUnloadingDesc>
+	<ProximityDetectorCreatureDetected>Phát hiện sinh vật vô hình.</ProximityDetectorCreatureDetected>
+	<FrenzyInducerEffectDescription>Đang tạo ra lĩnh vực cuồng loạn.</FrenzyInducerEffectDescription>
+	<MentalBreakReason_FrenzyInducer>Nguyên nhân là do ảnh hưởng của thiết bị kích thích cuồng loạn.</MentalBreakReason_FrenzyInducer>
+	<SleepSuppressorEffectDescription>Động lực tâm linh không ngủ</SleepSuppressorEffectDescription>
+	<DigestedBy>Đang bị {0_labelShort} tiêu hóa.</DigestedBy>
+	<MessageChimeraModeChangeSingular>Quái vật chimera đang {0}</MessageChimeraModeChangeSingular>
+	<MessageChimeraModeChangePlural>Quái vật chimera đang {0}</MessageChimeraModeChangePlural>
+	<MessageChimeraWithdrawing>Đang rút lui.</MessageChimeraWithdrawing>
+	<LetterChimerasAttackingLabel>Quái vật chimera tấn công</LetterChimerasAttackingLabel>
+	<LetterChimerasAttacking>Quái vật chimera đã bắt đầu tấn công!</LetterChimerasAttacking>
+	<AnomalyFrequency_None>Không có mối đe dọa lớn</AnomalyFrequency_None>
+	<AnomalyFrequency_VeryRare>Hiếm cực kỳ</AnomalyFrequency_VeryRare>
+	<AnomalyFrequency_Rare>Hiếm</AnomalyFrequency_Rare>
+	<AnomalyFrequency_Balanced>Cân bằng</AnomalyFrequency_Balanced>
+	<AnomalyFrequency_Intense>Thường gặp</AnomalyFrequency_Intense>
+	<AnomalyFrequency_Overwhelming>Cực kỳ phổ biến</AnomalyFrequency_Overwhelming>
+	<SecurityDoorsOnly>Chỉ cho phép cửa an toàn</SecurityDoorsOnly>
+</LanguageData>

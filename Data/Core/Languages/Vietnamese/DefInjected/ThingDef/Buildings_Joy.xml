@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BilliardsTable.label>Bàn bi-a</BilliardsTable.label>
+	<BilliardsTable.description>Một trò chơi thể thao giải trí trong nhà, sử dụng gậy để đánh bóng trên bàn, dựa vào tính toán điểm số để xác định thắng thua. Có thể nâng cao kỹ năng bắn.</BilliardsTable.description>
+	<ChessTable.label>Bàn cờ vua</ChessTable.label>
+	<ChessTable.description>Trò chơi cổ xưa của các vị vua. Có thể thú vị để giết thời gian trong vài giờ, ngay cả khi chơi một mình. Có thể nâng cao kỹ năng trí tuệ.\n\nCần có ghế đi kèm.</ChessTable.description>
+	<FlatscreenTelevision.label>Ti vi màn phẳng</FlatscreenTelevision.label>
+	<FlatscreenTelevision.description>Một màn hình ti vi công nghệ cao với hình ảnh rõ nét và màu sắc phong phú. Nhận dữ liệu từ vệ tinh cổ đại vẫn còn hoạt động.</FlatscreenTelevision.description>
+	<GameOfUrBoard.label>Cờ Hoàng gia</GameOfUrBoard.label>
+	<GameOfUrBoard.description>Kể từ năm 2500 trước Công nguyên, trò chơi cờ này khiến người ta vừa yêu vừa ghét, hỗ trợ từ một đến hai người chơi. Có thể nâng cao kỹ năng trí tuệ.</GameOfUrBoard.description>
+	<HoopstoneRing.label>Vòng đá ném</HoopstoneRing.label>
+	<HoopstoneRing.description>Một trò chơi cổ xưa có thể chơi bằng vài viên đá và một vòng được cắm xuống đất. Người chơi cần ném đá từ xa vào vòng. Vừa thư giãn vừa có thể nâng cao kỹ năng bắn.</HoopstoneRing.description>
+	<HorseshoesPin.label>Đinh ngựa</HorseshoesPin.label>
+	<HorseshoesPin.description>Một trò chơi cổ xưa có thể chơi bằng vài chiếc móng ngựa và một cái đinh lớn cắm xuống đất. Người chơi cần ném móng ngựa từ xa vào đinh. Vừa thư giãn vừa có thể nâng cao kỹ năng bắn.</HorseshoesPin.description>
+	<MegascreenTelevision.label>Ti vi màn hình lớn</MegascreenTelevision.label>
+	<MegascreenTelevision.description>Một chiếc ti vi công nghệ cao khổng lồ, hình ảnh siêu chân thực gần như nhảy ra khỏi màn hình. Rất thú vị. Nhận dữ liệu từ vệ tinh cổ đại vẫn còn hoạt động.</MegascreenTelevision.description>
+	<PokerTable.label>Bàn poker</PokerTable.label>
+	<PokerTable.description>Một chiếc bàn được thiết kế để chơi poker và các trò chơi bài khác. Đây là cách tốt để kiểm tra kỹ năng chiến lược và may mắn của bạn.\n\nCần có ghế đi kèm.</PokerTable.description>
+	<Telescope.label>Kính viễn vọng</Telescope.label>
+	<Telescope.description>Một kính viễn vọng thiên văn cho người nghiệp dư. Một sở thích và cách thư giãn cho một số người.</Telescope.description>
+	<TubeTelevision.label>Ti vi ống hình</TubeTelevision.label>
+	<TubeTelevision.description>Hiển thị hình ảnh chuyển động và âm thanh bằng màn hình ống tia âm cực. Ngay cả ở những vùng hẻo lánh, vẫn có một tháp phát sóng cũ gửi đi những thứ thú vị.</TubeTelevision.description>
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoligionForbids>Hình thức văn hóa cấm</IdeoligionForbids>
+<OnlyMembersCanBuild>Chỉ {0} có thể xây dựng</OnlyMembersCanBuild>
+<CantStartRitualAlreadyInProgress>{0} đang diễn ra.</CantStartRitualAlreadyInProgress>
+<CantJoinRitualInExtremeWeather>Một hoặc nhiều người tham gia không thể tham gia do nhiệt độ cực đoan.</CantJoinRitualInExtremeWeather>
+<CantStartRitualTargetIsAlreadyInRitual>{0} đã tham gia nghi lễ.</CantStartRitualTargetIsAlreadyInRitual>
+<CantStartRitualRoleNotAssigned>Cần phải gán vị trí cho {0} để bắt đầu nghi lễ này.</CantStartRitualRoleNotAssigned>
+<CantStartRitualNoConvertee>Không có ai để giáo hóa thành {0}. Bạn cần một người thuộc văn hóa khác, tù nhân hoặc nô lệ.</CantStartRitualNoConvertee>
+<CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} không thể là {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+<CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} phải là {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+<CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} bị điếc tâm linh.</CantStartRitualSelectedPawnPsychicallyDeaf>
+<CantStartNotEnoughSpaceDuelSpectators>Không đủ không gian cho khán giả. Cần có một khu vực sạch sẽ với bán kính {MINRADIUS}. Ít nhất {1} điểm đứng cần có trong bán kính này.</CantStartNotEnoughSpaceDuelSpectators>
+<CantStartNotEnoughSpaceDuelDuelists>Không đủ không gian cho các đấu sĩ. Cần có một khu vực sạch sẽ với bán kính {MINRADIUS}. Ít nhất {1} điểm đứng cần có trong bán kính này.</CantStartNotEnoughSpaceDuelDuelists>
+<CantStartNotEnoughSpaceDuelSpeaker>Không đủ không gian cho âm thanh. Cần có một khu vực sạch sẽ với bán kính {MINRADIUS}.</CantStartNotEnoughSpaceDuelSpeaker>
+<CantStartFuneralForSlave>{0_labelShort} là một nô lệ. Nô lệ không có tang lễ.</CantStartFuneralForSlave>
+<NoSlaveBed>Cần một giường nô lệ có thể tiếp cận, chưa được đặt trước, và an toàn về nhiệt độ.</NoSlaveBed>
+<ReturnToSlaveBed>Trả về giường nô lệ</ReturnToSlaveBed>
+<NotAllowedForFaction>Không có sẵn cho phái này</NotAllowedForFaction>
+<Remove>Loại bỏ</Remove>
+<RemovePrecept>Xóa quy tắc</RemovePrecept>
+<Regenerate>Tạo lại</Regenerate>
+<CannotEdit>Không thể chỉnh sửa</CannotEdit>
+<NoChoicesAvailable>Không có lựa chọn nào</NoChoicesAvailable>
+<RequiredByMeme>Meme {0} yêu cầu</RequiredByMeme>
+<Required>Cần thiết</Required>
+<StyleCategory>Phong cách</StyleCategory>
+<AddStyleCategory>Thêm phong cách</AddStyleCategory>
+<MaxRitualCount>Tối đa {0} nghi lễ.</MaxRitualCount>
+<MaxRelicCount>Tối đa {0} thánh vật.</MaxRelicCount>
+<MaxMultiRolesCount>Không thể vượt quá {0} chuyên gia.</MaxMultiRolesCount>
+<MaxPreceptCount>Tối đa {0}</MaxPreceptCount>
+<SetTargetGender>Đặt giới tính</SetTargetGender>
+<RoleApparelRequirementIncompatibleFaction>Cần phải là phái {0}</RoleApparelRequirementIncompatibleFaction>
+<RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>Thổ dân</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+<RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>Người ngoài</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+<RoleApparelRequirementIncompatibleAnyMemeRequired>Cần một trong các meme này</RoleApparelRequirementIncompatibleAnyMemeRequired>
+<BodyPartAlreadyCovered>Không thể kết hợp với trang phục đã chỉ định</BodyPartAlreadyCovered>
+<NoteRoleApparelRequirementEffects>Khi các yêu cầu trang phục của họ được đáp ứng, họ sẽ cảm thấy vui vẻ; nếu yêu cầu trang phục của họ bị từ chối, họ sẽ cảm thấy không vui.</NoteRoleApparelRequirementEffects>
+<NeuralSuperchargeNotReady>Siêu nạp chưa sẵn sàng</NeuralSuperchargeNotReady>
+<NeuralSuperchargeAlreadyGetting>Đã được nhận</NeuralSuperchargeAlreadyGetting>
+<SetApparelType>Đặt loại trang phục</SetApparelType>
+<ChangeStyle>Thay đổi phong cách</ChangeStyle>
+<DeitiesRequired>{0} {DEITYNOUN} cần thiết</DeitiesRequired>
+<Deity>Thần thánh</Deity>
+<RequiresMeme>Cần meme</RequiresMeme>
+<RequiresOneOfMemes>Cần một trong số đó</RequiresOneOfMemes>
+<ConflictsWithMeme>Meme xung đột</ConflictsWithMeme>
+<ConflictsWithMemes>Các meme xung đột</ConflictsWithMemes>
+<IdeoAlreadyHasAltar>Chỉ có thể có một bàn thờ/biểu tượng văn hóa</IdeoAlreadyHasAltar>
+<RecolorApparel>Tô màu lại trang phục</RecolorApparel>
+<Hack>Bẻ khóa {0}</Hack>
+<CannotHack>Không thể bẻ khóa {0}</CannotHack>
+<AlreadyHacked>Đã bị bẻ khóa</AlreadyHacked>
+<IncapableOfHacking>Không thể bẻ khóa</IncapableOfHacking>
+<ToDropSupplies>(Thả hàng tiếp tế)</ToDropSupplies>
+<InstallRelic>Cài đặt {0}</InstallRelic>
+<ExtractRelic>Chiết xuất {0}</ExtractRelic>
+<ExtractRelicToInventory>Chiết xuất {0} vào kho ({1})</ExtractRelicToInventory>
+<NoRelicToInstall>Không có thánh vật nào để cài đặt</NoRelicToInstall>
+<InstallInReliquary>Cài đặt trong bàn thờ thánh vật</InstallInReliquary>
+<NoEmptyReliquary>Không có bàn thờ thánh vật nào trống và có thể tiếp cận</NoEmptyReliquary>
+<NoWardenOfIdeo>Không có người canh gác {MEMBERNAME}</NoWardenOfIdeo>
+<RemoveCurrentRole>Loại bỏ vị trí hiện tại</RemoveCurrentRole>
+<EnterBiosculpterPod>Vào buồng tạo hình ({0}-{1})</EnterBiosculpterPod>
+<BiosculpterBiotunedToAnother>Đã được điều chỉnh với người khác</BiosculpterBiotunedToAnother>
+<UnderMinBiosculpterAgeReversalAge>Để thực hiện đảo ngược tuổi tác, phải đủ {0} tuổi.</UnderMinBiosculpterAgeReversalAge>
+<CarryToBiosculpterPod>Mang {PAWN_labelShort} vào buồng tạo hình ({CYCLE})</CarryToBiosculpterPod>
+<CannotCarryToBiosculpterPod>Không thể mang vào buồng tạo hình</CannotCarryToBiosculpterPod>
+<NoBiosculpterPod>Không có buồng tạo hình nào có sẵn.</NoBiosculpterPod>
+<BiosculpterNutritionNotLoaded>Chưa nạp dinh dưỡng</BiosculpterNutritionNotLoaded>
+<BiosculpterOccupied>Bị chiếm dụng</BiosculpterOccupied>
+<CannotEnter>Không thể vào</CannotEnter>
+<BiosculpterCannotStartCycle>Không thể bắt đầu {0}</BiosculpterCannotStartCycle>
+<BiosculpterMissingIngredients>Thiếu nguyên liệu ({INGREDIENTS})</BiosculpterMissingIngredients>
+<BiosculpterNoEligiblePawns>Không có đối tượng nào đủ điều kiện xung quanh</BiosculpterNoEligiblePawns>
+<BiosculpterNoEligiblePawnsBiotuned>Đã điều chỉnh cho {PAWN_labelShort} nhưng {PAWN_pronoun} không ở gần</BiosculpterNoEligiblePawnsBiotuned>
+<BiosculpterAutoLoadNutritionLabel>Tự động nạp</BiosculpterAutoLoadNutritionLabel>
+<BiosculpterAutoLoadNutritionDescription>Tự động nạp dinh dưỡng khi cần bắt đầu chu kỳ</BiosculpterAutoLoadNutritionDescription>
+<BiosculpterAutoAgeReversalLabel>Tự động đảo ngược tuổi tác ({PAWN_labelShort})</BiosculpterAutoAgeReversalLabel>
+<BiosculpterAutoAgeReversalDescription>Tự động thực hiện đảo ngược tuổi tác trong buồng tạo hình này hàng năm để đáp ứng nhu cầu của {PAWN_possessive}. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+<BiosculpterAutoAgeReversalDescriptionFuture>Nếu được kích hoạt và buồng tạo hình đã sẵn sàng, {PAWN_labelShort} sẽ tự động thực hiện điều trị tiếp theo vào {TIME}.</BiosculpterAutoAgeReversalDescriptionFuture>
+<BiosculpterAutoAgeReversalDescriptionNow>Nếu tùy chọn này được kích hoạt, {PAWN_labelShort} sẽ tự động bắt đầu một chu kỳ khi muốn thực hiện điều trị tiếp theo.</BiosculpterAutoAgeReversalDescriptionNow>
+<BiosculpterJobReportCollectIngredients>Thu thập vật liệu cho chu kỳ tạo hình</BiosculpterJobReportCollectIngredients>
+</LanguageData>

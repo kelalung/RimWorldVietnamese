@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ConfigPage_ConfigureStartingPawns.label>Số lượng khởi đầu</ConfigPage_ConfigureStartingPawns.label>
+	<PlayerFaction.label>Liên minh người chơi</PlayerFaction.label>
+	<PlayerPawnsArriveMethod.label>Phương thức đến nơi</PlayerPawnsArriveMethod.label>
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AtmosphericHeater.label>Thiết bị gia nhiệt khí quyển</AtmosphericHeater.label>
+	<AtmosphericHeater.description>Thiết bị phát nhiệt được điều khiển bởi mảnh siêu phàm tối tăm. Nó có thể khuấy động các phân tử khí trong khí quyển và nâng cao nhiệt độ ngoài trời địa phương bằng cách đốt cháy thép sống. Nó cũng tạo ra một lượng lớn nhiệt thải.</AtmosphericHeater.description>
+	<AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>Nhiệt độ ngoài trời mục tiêu</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
+	<Bullet_TacticalTurret.label>Đạn tháp pháo chiến thuật</Bullet_TacticalTurret.label>
+	<DelayedMetalhorrorEmerger.label>Quái vật kim loại thức dậy muộn</DelayedMetalhorrorEmerger.label>
+	<DirtCubeSculpture.label>Tượng điêu khắc khối đất</DirtCubeSculpture.label>
+	<DirtCubeSculpture.description>Tượng khối được xây dựng vội vàng.</DirtCubeSculpture.description>
+	<ElectricInhibitor.label>Thiết bị cản điện</ElectricInhibitor.label>
+	<ElectricInhibitor.description>Một thiết bị có khả năng phát ra trường điện từ được điều chỉnh đặc biệt, có thể làm tê liệt hoạt động thần kinh của các thực thể bị bắt giữ. Chỉ cần có điện, nó có thể nâng cao độ mạnh giam giữ của bất kỳ nền nào mà nó chỉ định. Trường điện từ sẽ không ảnh hưởng đến con người hoặc động vật bình thường.</ElectricInhibitor.description>
+	<EndlessPit2x2c.label>Hố sâu vô tận</EndlessPit2x2c.label>
+	<EndlessPit2x2c.description>Hố sâu trơn tru kéo dài vô tận xuống dưới.</EndlessPit2x2c.description>
+	<EndlessPit3x2c.label>Hố sâu vô tận</EndlessPit3x2c.label>
+	<EndlessPit3x2c.description>Hố sâu trơn tru kéo dài vô tận xuống dưới.</EndlessPit3x2c.description>
+	<EndlessPit3x3c.label>Hố sâu vô tận</EndlessPit3x3c.label>
+	<EndlessPit3x3c.description>Hố sâu trơn tru kéo dài vô tận xuống dưới.</EndlessPit3x3c.description>
+	<FloorEtching.label>Khắc trên sàn</FloorEtching.label>
+	<FloorEtching.description>Bản phác thảo thô sơ vẽ trên sàn.\n\nNếu có đủ thời gian, có thể giải mã nó. Chọn một nhà thuộc địa và nhấp chuột phải vào bản khắc để kiểm tra.</FloorEtching.description>
+	<FloorEtching.comps.CompFloorEtching.activateDescString>Chọn một nhà thuộc địa để giải mã bản khắc.</FloorEtching.comps.CompFloorEtching.activateDescString>
+	<FloorEtching.comps.CompFloorEtching.activateLabelString>Giải mã...</FloorEtching.comps.CompFloorEtching.activateLabelString>
+	<FloorEtching.comps.CompFloorEtching.activatingString>Giải mã bản khắc: {1} giây</FloorEtching.comps.CompFloorEtching.activatingString>
+	<FloorEtching.comps.CompFloorEtching.activatingStringPending>Giải mã bản khắc trên sàn</FloorEtching.comps.CompFloorEtching.activatingStringPending>
+	<FloorEtching.comps.CompFloorEtching.guiLabelString>Chọn người điều khiển</FloorEtching.comps.CompFloorEtching.guiLabelString>
+	<FloorEtching.comps.CompFloorEtching.inspectString>Cần chỉ định một thuộc địa để giải mã.</FloorEtching.comps.CompFloorEtching.inspectString>
+	<FloorEtching.comps.CompFloorEtching.jobString>Giải mã bản khắc trên sàn</FloorEtching.comps.CompFloorEtching.jobString>
+	<FloorEtching.comps.CompFloorEtching.messageCompletedString>{PAWN_nameDef} đã giải mã thành công bản khắc trên sàn.</FloorEtching.comps.CompFloorEtching.messageCompletedString>
+	<FloorEtchingRambling.label>Bản khắc trên sàn</FloorEtchingRambling.label>
+	<FloorEtchingRambling.description>Bản phác thảo thô sơ vẽ trên sàn.\n\nNếu có đủ thời gian, có thể giải mã nó. Chọn một nhà thuộc địa, nhấp chuột phải vào bản khắc để kiểm tra.</FloorEtchingRambling.description>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Chọn một nhà thuộc địa để giải mã bản khắc.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>Giải mã...</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>Giải mã bản khắc: {1} giây</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>Giải mã bản khắc</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Chọn người điều khiển</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Cần chỉ định một thuộc địa để giải mã.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Giải mã bản khắc trên sàn</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
+	<FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>{PAWN_nameDef} đã giải mã thành công bản khắc trên sàn.</FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>
+	<FrenzyInducer.label>Thiết bị kích thích cuồng loạn</FrenzyInducer.label>
+	<FrenzyInducer.description>Thiết bị được chế tạo bằng cách lắp đặt mảnh siêu phàm tối tăm vào khung kích thích điện. Nó tạo ra sóng tâm linh cuồng loạn trong khu vực lân cận, kích thích mọi người xung quanh để tăng tốc độ di chuyển và làm việc. Tuy nhiên, một khi ai đó bị suy sụp tinh thần, họ sẽ thể hiện hành vi cực kỳ bạo lực.</FrenzyInducer.description>
+	<GrayBox.label>Hộp xám</GrayBox.label>
+	<GrayBox.description>Thùng chứa màu xám kỳ lạ. Không có đặc điểm nào, bề mặt mịn màng. Vật liệu không phải là kim loại, bê tông hay bất kỳ vật liệu nào khác có thể nhận diện.</GrayBox.description>
+	<GrayDoor.label>Cửa xám</GrayDoor.label>
+	<GrayDoor.description>Một cánh cửa xám kỳ quái.</GrayDoor.description>
+	<GrayDoor.comps.CompLabyrinthDoor.activateDescString>Chọn một nhà thuộc địa để phá cửa.</GrayDoor.comps.CompLabyrinthDoor.activateDescString>
+	<GrayDoor.comps.CompLabyrinthDoor.activateLabelString>Phá cửa...</GrayDoor.comps.CompLabyrinthDoor.activateLabelString>
+	<GrayDoor.comps.CompLabyrinthDoor.activatingString>Phá cửa: {1} giây</GrayDoor.comps.CompLabyrinthDoor.activatingString>
+	<GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>Phá cửa</GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>
+	<GrayDoor.comps.CompLabyrinthDoor.guiLabelString>Chọn người điều khiển</GrayDoor.comps.CompLabyrinthDoor.guiLabelString>
+	<GrayDoor.comps.CompLabyrinthDoor.jobString>Phá cửa</GrayDoor.comps.CompLabyrinthDoor.jobString>
+	<GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>{PAWN_nameDef} đã phá cửa thành công.</GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>
+	<GrayStatueDeadlifeDust.label>Tượng xám</GrayStatueDeadlifeDust.label>
+	<GrayStatueDeadlifeDust.description>Tượng điêu khắc có hình dạng méo mó kỳ lạ, khiến người ta cảm thấy không thoải mái. Nó phát ra tiếng rì rào nhẹ nhàng, bên trong dường như chứa đựng một loại năng lượng kỳ lạ.</GrayStatueDeadlifeDust.description>
+	<GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Tượng xám đã được kích hoạt</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
+	<GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Nhờ sự xuất hiện của {PAWN_nameDef}, bức tượng kỳ lạ này đã giải phóng một đám bụi chết chóc!\n\nChất bụi này sẽ bám vào các xác chết xung quanh, giúp chúng phục hồi khả năng hoạt động và trở thành những sinh vật đi lang thang nguy hiểm.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+	<GrayStatueTeleporter.label>Tượng xám</GrayStatueTeleporter.label>
+	<GrayStatueTeleporter.description>Tượng điêu khắc có hình dạng méo mó kỳ lạ, khiến người ta cảm thấy không thoải mái. Nó phát ra tiếng rì rào nhẹ nhàng, bên trong dường như chứa đựng một loại năng lượng kỳ lạ.</GrayStatueTeleporter.description>
+	<GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef} đã bị dịch chuyển</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+	<GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>Khi gần gũi với bức tượng kỳ quái, {PAWN_nameDef} phát hiện mình đã bị dịch chuyển đến nơi khác trong nháy mắt.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+	<GrayWall.label>Tường xám</GrayWall.label>
+	<GrayWall.description>Một bức tường xám không thể vượt qua.</GrayWall.description>
+	<Gun_TacticalTurret.label>Vũ khí tháp pháo chiến thuật</Gun_TacticalTurret.label>
+	<Gun_TacticalTurret.description>Máy súng tự động đơn giản được lắp đặt trên tháp pháo.</Gun_TacticalTurret.description>
+	<Gun_TacticalTurret.verbs.Verb_Shoot.label>Vũ khí tháp pháo chiến thuật</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+	<HoldingPlatform.label>Nền tảng giam giữ</HoldingPlatform.label>
+	<HoldingPlatform.description>Nền tảng dùng để giam giữ các thực thể nguy hiểm. Bốn góc có lỗ để buộc dây xích chắc chắn.\n\nCác thực thể ngã xuống có thể bị bắt giữ và đặt lên nền tảng giam giữ, điều tra chúng có thể thu thập kiến thức dị thường. Xây dựng tường, cửa và các thiết bị giam giữ đặc biệt khác để tăng cường sức mạnh giam giữ.</HoldingPlatform.description>
+	<HoldingSpot.label>Điểm giam giữ</HoldingSpot.label>
+	<HoldingSpot.description>Vị trí dùng để giam giữ các thực thể nguy hiểm. Không chắc chắn như nền tảng giam giữ bằng thép, nhưng vẫn tốt hơn không có.\n\nCác thực thể ngã xuống có thể bị bắt giữ và đặt lên nền tảng giam giữ, điều tra chúng có thể thu thập kiến thức dị thường. Xây dựng tường, cửa và các thiết bị giam giữ đặc biệt khác để tăng cường sức mạnh giam giữ.</HoldingSpot.description>
+	<Noctolith.label>Cột ánh sáng ban đêm</Noctolith.label>
+	<Noctolith.description>Cột hình trụ méo mó được cấu tạo từ các mảnh nhọn, làm bằng kim loại đen bóng mịn. Trung tâm phát ra năng lượng xung được điều khiển bởi thiết bị công nghệ siêu phàm tối tăm.\n\nKhi bị phá hủy, có thể thu hồi một mảnh siêu phàm tối tăm.</Noctolith.description>
+	<Noctolith.comps.CompInspectString.inspectString>Tải: Không rõ\nPhá hủy cột ánh sáng ban đêm để kết thúc trạng thái bóng tối bất thường.</Noctolith.comps.CompInspectString.inspectString>
+	<PitBurrow.label>Hố nhỏ</PitBurrow.label>
+	<PitBurrow.description>Hố nhỏ dẫn sâu vào lòng đất, kết nối với một số mạng lưới hang động không thể nhìn thấy. Bức tường hố quá dốc, không thể leo lên. Nó không ổn định và sẽ sụp đổ sau một thời gian.</PitBurrow.description>
+	<PitBurrowSpawner.label>Mặt đất đang sụp đổ</PitBurrowSpawner.label>
+	<PitBurrowSpawner.description>Có gì đó đang trồi lên từ mặt đất.</PitBurrowSpawner.description>
+	<PitGate.label>Cổng hố lớn</PitGate.label>
+	<PitGate.description>Hố lớn tỏa ra khí chất không lành, kết nối bề mặt với mạng lưới hang động tối tăm bên dưới. Có thể leo xuống các hang động bên dưới.</PitGate.description>
+	<PitGateExit.label>Dây thừng lên khỏi hố</PitGateExit.label>
+	<PitGateExit.description>Dây thừng dùng để leo lên bề mặt.</PitGateExit.description>
+	<PitGateSpawner.label>Mặt đất đang sụp đổ</PitGateSpawner.label>
+	<PitGateSpawner.description>Có gì đó đang trồi lên từ mặt đất.</PitGateSpawner.description>
+	<PitGateSpawner.building.groundSpawnerLetterLabel>Cổng hố lớn đã mở</PitGateSpawner.building.groundSpawnerLetterLabel>
+	<PitGateSpawner.building.groundSpawnerLetterText>Sự biến động địa chất đã gây ra sự sụp đổ, tạo ra một cổng hố lớn.\n\nCổng hố này sẽ luôn mở, trừ khi bị chặn lại. Khám phá cổng hố để tìm cách tạo ra sự sụp đổ từ bên dưới và chặn miệng hố, đồng thời mang về những vật phẩm hữu ích.</PitGateSpawner.building.groundSpawnerLetterText>
+	<ProximityDetector.label>Máy dò gần</ProximityDetector.label>
+	<ProximityDetector.description>Máy quét có khả năng phát hiện sinh vật vô hình. Khi có sinh vật tâm linh vô hình xuất hiện trong phạm vi quét, thiết bị này sẽ phát ra cảnh báo.</ProximityDetector.description>
+	<SandCubeSculpture.label>Tượng điêu khắc khối cát</SandCubeSculpture.label>
+	<SandCubeSculpture.description>Tượng khối được xây dựng vội vàng từ cát.</SandCubeSculpture.description>
+	<ScrapCubeSculpture.label>Tượng điêu khắc khối phế liệu</ScrapCubeSculpture.label>
+	<ScrapCubeSculpture.description>Tượng khối được xây dựng vội vàng từ phế liệu.</ScrapCubeSculpture.description>
+	<SecurityDoor.label>Cửa an ninh</SecurityDoor.label>
+	<SecurityDoor.description>Cánh cửa được gia cố nhiều lớp. Phân chia các phòng. Tốc độ mở và đóng chậm, cần có điện, nhưng ưu điểm là rất chắc chắn. Nếu cần chặn nguy hiểm bên ngoài hoặc khóa bên trong, đây là sự lựa chọn tốt. Cánh cửa lớn và nặng này cần phải liên kết với tường để hoạt động bình thường.</SecurityDoor.description>
+	<ShardInhibitor.label>Thiết bị cản mảnh vỡ</ShardInhibitor.label>
+	<ShardInhibitor.description>Thiết bị này tận dụng khả năng của mảnh siêu phàm tối tăm để cộng hưởng với năng lượng tâm linh, có thể tăng cường sức mạnh giam giữ của bất kỳ nền tảng hoặc điểm giam giữ nào trong phạm vi tác động.\n\nHiệu ứng này không thể tích lũy.</ShardInhibitor.description>
+	<SleepSuppressor.label>Thiết bị ức chế giấc ngủ</SleepSuppressor.label>
+	<SleepSuppressor.description>Thiết bị được chế tạo bằng cách lắp đặt mảnh siêu phàm tối tăm vào khung kích thích điện. Nó có thể phát xung tâm linh trong một phạm vi nhỏ, ảnh hưởng đến phản ứng hóa học trong não của những người xung quanh, ngăn chặn sự tích tụ độc tố mệt mỏi, loại bỏ nhu cầu ngủ. Nhưng cũng có thể khiến người ta trở nên dễ cáu kỉnh.</SleepSuppressor.description>
+	<StoneCubeSculpture.label>Tượng điêu khắc khối đá</StoneCubeSculpture.label>
+	<StoneCubeSculpture.description>Tượng khối được xây dựng vội vàng từ đá.</StoneCubeSculpture.description>
+	<TrapIED_Deadlife.label>Động cơ bẫy chết chóc đơn giản</TrapIED_Deadlife.label>
+	<TrapIED_Deadlife.description>Bẫy được tạo thành từ một viên đạn chết chóc và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị đạn bắn trúng, bẫy sẽ phát nổ và giải phóng một lượng lớn bụi chết chóc xung quanh. Vì nó được giấu trong địa hình xung quanh, nên không thể đặt cạnh các bẫy khác. Động vật có thể cảm nhận bẫy trong trạng thái không cuồng loạn.\n\nBụi chết chóc có khả năng biến xác chết của con người và động vật xung quanh thành những sinh vật đi lang thang. Những sinh vật này chỉ tấn công kẻ thù của bạn.</TrapIED_Deadlife.description>
+	<Turret_TacticalTurret.label>Tháp pháo chiến thuật</Turret_TacticalTurret.label>
+	<Turret_TacticalTurret.description>Tháp pháo có tầm bắn ngắn. Khi pin tích hợp hết năng lượng, nó sẽ hoàn toàn ngừng hoạt động. Nếu bị hư hại nghiêm trọng, có thể phát nổ.</Turret_TacticalTurret.description>
+	<Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>Pin năng lượng</Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+	<Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>Pin năng lượng tích hợp trong tháp pháo này là nguồn năng lượng dùng một lần. Khi pin hết năng lượng, nó sẽ ngừng hoạt động hoàn toàn.</Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+</LanguageData>

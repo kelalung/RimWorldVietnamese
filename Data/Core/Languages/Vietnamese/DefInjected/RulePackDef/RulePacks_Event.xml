@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Event_AbilityUsed.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] đã sử dụng [ABILITY_label] đối với [SUBJECT_definite].</li>
+	</Event_AbilityUsed.rulePack.rulesStrings>
+	<Event_ItemUsed.rulePack.rulesStrings>
+		<li>r_logentry->[INITIATOR_definite] đã sử dụng [ITEM_indefinite] đối với [SUBJECT_definite].</li>
+	</Event_ItemUsed.rulePack.rulesStrings>
+	<Event_Stun.rulePack.rulesStrings>
+		<li>r_logentry->[SUBJECT_definite] bị tấn công và [stunned].</li>
+		<li>r_logentry->[SUBJECT_definite] bị tấn công bởi [INITIATOR_definite] và [stunned].</li>
+		<li>stunned(p=3)->chóng mặt</li>
+		<li>stunned->mờ mắt</li>
+		<li>stunned->hôn mê</li>
+		<li>stunned->mất phương hướng</li>
+		<li>r_logentry->[SUBJECT_definite][staggered].</li>
+		<li>r_logentry->[SUBJECT_definite] bị tấn công và [staggered].</li>
+		<li>r_logentry->[SUBJECT_definite] bị [staggered] dưới đòn tấn công của [INITIATOR_definite].</li>
+		<li>staggered(p=3)->hoa mắt</li>
+		<li>staggered->không giữ được thăng bằng</li>
+		<li>staggered->mất trọng tâm</li>
+		<li>staggered->đứng không vững</li>
+		<li>r_logentry->[SUBJECT_definite][stumbled],cảm thấy xung quanh đều có sao.</li>
+		<li>r_logentry->[SUBJECT_definite][stumbled],cảm thấy xung quanh có nhiều chú chim bay.</li>
+		<li>stumbled(p=3)->lảo đảo</li>
+		<li>stumbled->đứng không vững</li>
+		<li>stumbled->mất trọng tâm</li>
+		<li>stumbled->chóng mặt</li>
+	</Event_Stun.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AllowBiocodedApparel.label>Cho phép trang phục mã sinh học</AllowBiocodedApparel.label>
+	<AllowBiocodedWeapons.label>Cho phép vũ khí mã sinh học</AllowBiocodedWeapons.label>
+	<AllowBookAnimals.label>Huấn luyện thú</AllowBookAnimals.label>
+	<AllowBookAnimals.description>Cho phép đọc sách dạy kỹ năng huấn luyện thú.</AllowBookAnimals.description>
+	<AllowBookArtistic.label>Nghệ thuật</AllowBookArtistic.label>
+	<AllowBookArtistic.description>Cho phép đọc sách dạy kỹ năng nghệ thuật.</AllowBookArtistic.description>
+	<AllowBookConstruction.label>Xây dựng</AllowBookConstruction.label>
+	<AllowBookConstruction.description>Cho phép đọc sách dạy kỹ năng xây dựng.</AllowBookConstruction.description>
+	<AllowBookCooking.label>Nấu ăn</AllowBookCooking.label>
+	<AllowBookCooking.description>Cho phép đọc sách dạy kỹ năng nấu ăn.</AllowBookCooking.description>
+	<AllowBookCrafting.label>Thủ công</AllowBookCrafting.label>
+	<AllowBookCrafting.description>Cho phép đọc sách dạy kỹ năng thủ công.</AllowBookCrafting.description>
+	<AllowBookIntellectual.label>Trí thức</AllowBookIntellectual.label>
+	<AllowBookIntellectual.description>Cho phép đọc sách dạy kỹ năng trí thức.</AllowBookIntellectual.description>
+	<AllowBookMedicine.label>Y tế</AllowBookMedicine.label>
+	<AllowBookMedicine.description>Cho phép đọc sách dạy kỹ năng y tế.</AllowBookMedicine.description>
+	<AllowBookMelee.label>Đánh gần</AllowBookMelee.label>
+	<AllowBookMelee.description>Cho phép đọc sách dạy kỹ năng đánh gần.</AllowBookMelee.description>
+	<AllowBookMining.label>Khai thác</AllowBookMining.label>
+	<AllowBookMining.description>Cho phép đọc sách dạy kỹ năng khai thác.</AllowBookMining.description>
+	<AllowBookPlants.label>Trồng trọt</AllowBookPlants.label>
+	<AllowBookPlants.description>Cho phép đọc sách dạy kỹ năng trồng trọt.</AllowBookPlants.description>
+	<AllowBookShooting.label>Bắn xa</AllowBookShooting.label>
+	<AllowBookShooting.description>Cho phép đọc sách dạy kỹ năng bắn xa.</AllowBookShooting.description>
+	<AllowBookSocial.label>Xã hội</AllowBookSocial.label>
+	<AllowBookSocial.description>Cho phép đọc sách dạy kỹ năng xã hội.</AllowBookSocial.description>
+	<AllowBurnableApparel.label>Cho phép vật phẩm có thể cháy</AllowBurnableApparel.label>
+	<AllowBurnableWeapons.label>Cho phép vũ khí có thể cháy</AllowBurnableWeapons.label>
+	<AllowCorpsesColonist.label>Cho phép xác chết (thuộc địa)</AllowCorpsesColonist.label>
+	<AllowCorpsesColonist.description>Cho phép xác chết của thuộc địa.</AllowCorpsesColonist.description>
+	<AllowCorpsesStranger.label>Cho phép xác chết (người lạ)</AllowCorpsesStranger.label>
+	<AllowCorpsesStranger.description>Cho phép xác chết của người lạ và kẻ thù.</AllowCorpsesStranger.description>
+	<AllowDeadmansApparel.label>Cho phép trang phục của người chết</AllowDeadmansApparel.label>
+	<AllowDeadmansApparel.description>Cho phép trang phục mà người chết đã mặc. Hầu hết mọi người sẽ cảm thấy không thoải mái với trang phục bị ô nhiễm từ xác chết, và thương nhân cũng sẽ không mua những thứ này.</AllowDeadmansApparel.description>
+	<AllowFemaleGender.label>Cho phép giới tính nữ</AllowFemaleGender.label>
+	<AllowFemaleGender.description>Cho phép cá thể giới tính nữ.</AllowFemaleGender.description>
+	<AllowFresh.label>Cho phép thực phẩm tươi</AllowFresh.label>
+	<AllowFresh.description>Cho phép các vật hữu cơ chưa hỏng.</AllowFresh.description>
+	<AllowLargeCorpses.label>Cho phép xác chết lớn</AllowLargeCorpses.label>
+	<AllowLargeCorpses.description>Cho phép xác chết lớn.</AllowLargeCorpses.description>
+	<AllowMainResearch.label>Dự án nghiên cứu thông thường</AllowMainResearch.label>
+	<AllowMainResearch.description>Cho phép các sách có thể thúc đẩy dự án nghiên cứu thông thường.</AllowMainResearch.description>
+	<AllowMaleGender.label>Cho phép giới tính nam</AllowMaleGender.label>
+	<AllowMaleGender.description>Cho phép cá thể giới tính nam.</AllowMaleGender.description>
+	<AllowNonBiocodedApparel.label>Cho phép trang phục không mã sinh học</AllowNonBiocodedApparel.label>
+	<AllowNonBiocodedWeapons.label>Cho phép vũ khí không mã sinh học</AllowNonBiocodedWeapons.label>
+	<AllowNonBurnableApparel.label>Cho phép vật phẩm không thể cháy</AllowNonBurnableApparel.label>
+	<AllowNonBurnableWeapons.label>Cho phép vũ khí không thể cháy</AllowNonBurnableWeapons.label>
+	<AllowNonDeadmansApparel.label>Cho phép trang phục không phải của người chết</AllowNonDeadmansApparel.label>
+	<AllowNonDeadmansApparel.description>Cho phép trang phục chưa từng được người chết mặc. Hầu hết mọi người sẽ cảm thấy không thoải mái với trang phục bị ô nhiễm từ xác chết, và thương nhân cũng sẽ không mua những thứ này.</AllowNonDeadmansApparel.description>
+	<AllowNonSmeltableApparel.label>Cho phép vật phẩm không thể nấu chảy</AllowNonSmeltableApparel.label>
+	<AllowNonSmeltableWeapons.label>Cho phép vũ khí không thể nấu chảy</AllowNonSmeltableWeapons.label>
+	<AllowPlantFood.label>Cho phép thực phẩm từ thực vật</AllowPlantFood.label>
+	<AllowPlantFood.description>Cho phép thực phẩm giống như thực vật chưa thu hoạch, như cỏ khô.</AllowPlantFood.description>
+	<AllowRotten.label>Cho phép vật phẩm đã hỏng</AllowRotten.label>
+	<AllowRotten.description>Cho phép các vật hữu cơ đã bắt đầu hỏng.</AllowRotten.description>
+	<AllowSmeltable.label>Cho phép vật phẩm có thể nấu chảy</AllowSmeltable.label>
+	<AllowSmeltableApparel.label>Cho phép vật phẩm có thể nấu chảy</AllowSmeltableApparel.label>
+</LanguageData>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BlindingCeremony.roles.0.label>Đối tượng</BlindingCeremony.roles.0.label>
+	<BlindingCeremony.roles.0.missingDesc>Người thực hiện nghi lễ làm mù</BlindingCeremony.roles.0.missingDesc>
+	<BlindingCeremony.roles.1.label>Người thực hiện</BlindingCeremony.roles.1.label>
+	<BlindingCeremony.roles.1.missingDesc>Người thực hiện nghi lễ làm mù</BlindingCeremony.roles.1.missingDesc>
+	<BlindingCeremony.stages.0.failTriggers.0.desc>Mục tiêu không thể đạt được.</BlindingCeremony.stages.0.failTriggers.0.desc>
+	<BlindingCeremony.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</BlindingCeremony.stages.0.failTriggers.1.desc>
+	<BurnCircle.spectatorGerund>Tham gia</BurnCircle.spectatorGerund>
+	<BurnCircle.spectatorsLabel>Người tham gia</BurnCircle.spectatorsLabel>
+	<CelebrationPartyDanceDrum.spectatorGerund>Tham gia</CelebrationPartyDanceDrum.spectatorGerund>
+	<CelebrationPartyDanceDrum.spectatorsLabel>Người tham gia</CelebrationPartyDanceDrum.spectatorsLabel>
+	<CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Thiếu lửa trại.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+	<CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Lửa trại chưa được thắp sáng.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+	<CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Thiếu trống.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+	<CelebrationSkyLanterns.spectatorGerund>Tham gia</CelebrationSkyLanterns.spectatorGerund>
+	<CelebrationSkyLanterns.spectatorsLabel>Người tham gia</CelebrationSkyLanterns.spectatorsLabel>
+	<CelebrationTree.spectatorGerund>Tham gia</CelebrationTree.spectatorGerund>
+	<CelebrationTree.spectatorsLabel>Người tham gia</CelebrationTree.spectatorsLabel>
+	<Conversion.roles.0.label>Người diễn thuyết</Conversion.roles.0.label>
+	<Conversion.roles.1.label>Người nghe</Conversion.roles.1.label>
+	<Conversion.stages.0.failTriggers.0.desc>Không thể đến vị trí của tù nhân.</Conversion.stages.0.failTriggers.0.desc>
+	<Conversion.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</Conversion.stages.0.failTriggers.1.desc>
+	<DancePartyTech.spectatorGerund>Tham gia</DancePartyTech.spectatorGerund>
+	<DancePartyTech.spectatorsLabel>Người tham gia</DancePartyTech.spectatorsLabel>
+	<DancePartyTech.stages.0.failTriggers.0.desc>Thiếu bóng đèn.</DancePartyTech.stages.0.failTriggers.0.desc>
+	<DancePartyTech.stages.0.failTriggers.1.desc>Bóng đèn không có điện.</DancePartyTech.stages.0.failTriggers.1.desc>
+	<DancePartyTech.stages.0.failTriggers.2.desc>Loa không có điện.</DancePartyTech.stages.0.failTriggers.2.desc>
+	<DateRitual.roles.0.label>Người diễn thuyết</DateRitual.roles.0.label>
+	<DateRitual.spectatorGerund>Tham gia</DateRitual.spectatorGerund>
+	<DateRitual.spectatorsLabel>Người tham gia</DateRitual.spectatorsLabel>
+	<DateRitual.stages.0.postAction.text>{0}: Bài phát biểu đã kết thúc, buổi tiệc bắt đầu.</DateRitual.stages.0.postAction.text>
+	<Execution.roles.0.label>Người hành quyết</Execution.roles.0.label>
+	<Execution.roles.0.missingDesc>Một người hành quyết</Execution.roles.0.missingDesc>
+	<Execution.roles.1.label>Tù nhân</Execution.roles.1.label>
+	<Execution.roles.1.missingDesc>Một tù nhân</Execution.roles.1.missingDesc>
+	<Execution.spectatorFilter.description>Các khán giả chắc chắn sẽ thích xem hành quyết.</Execution.spectatorFilter.description>
+	<Execution.stages.0.failTriggers.0.desc>Tù nhân không thể đến nơi.</Execution.stages.0.failTriggers.0.desc>
+	<Execution.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</Execution.stages.0.failTriggers.1.desc>
+	<FeastCannibal.spectatorGerund>Tham gia</FeastCannibal.spectatorGerund>
+	<FeastCannibal.spectatorsLabel>Người tham gia</FeastCannibal.spectatorsLabel>
+	<Funeral.roles.0.label>Người diễn thuyết</Funeral.roles.0.label>
+	<GladiatorDuel.roles.0.label>Người diễn thuyết</GladiatorDuel.roles.0.label>
+	<GladiatorDuel.roles.1.label>Người đấu sĩ</GladiatorDuel.roles.1.label>
+	<GladiatorDuel.roles.1.categoryLabel>Người đấu sĩ</GladiatorDuel.roles.1.categoryLabel>
+	<GladiatorDuel.roles.1.missingDesc>Tù nhân, nô lệ (người đấu sĩ)</GladiatorDuel.roles.1.missingDesc>
+	<GladiatorDuel.roles.2.label>Người đấu sĩ</GladiatorDuel.roles.2.label>
+	<GladiatorDuel.roles.2.categoryLabel>Người đấu sĩ</GladiatorDuel.roles.2.categoryLabel>
+	<GladiatorDuel.roles.2.missingDesc>Tù nhân, nô lệ (người đấu sĩ)</GladiatorDuel.roles.2.missingDesc>
+	<GladiatorDuel.roles.3.label>Người dẫn dắt đấu sĩ</GladiatorDuel.roles.3.label>
+	<GladiatorDuel.roles.3.categoryLabel>Người dẫn dắt đấu sĩ</GladiatorDuel.roles.3.categoryLabel>
+	<GladiatorDuel.roles.3.missingDesc>Người thuộc địa chưa ngã không có khả năng di chuyển.</GladiatorDuel.roles.3.missingDesc>
+	<GladiatorDuel.roles.4.label>Người dẫn dắt đấu sĩ</GladiatorDuel.roles.4.label>
+	<GladiatorDuel.roles.4.categoryLabel>Người dẫn dắt đấu sĩ</GladiatorDuel.roles.4.categoryLabel>
+	<GladiatorDuel.roles.4.missingDesc>Những người thuộc địa chưa ngã xuống không có khả năng vận chuyển.</GladiatorDuel.roles.4.missingDesc>
+	<GladiatorDuel.spectatorGerund>Tham gia</GladiatorDuel.spectatorGerund>
+	<GladiatorDuel.spectatorsLabel>Khán giả</GladiatorDuel.spectatorsLabel>
+	<GladiatorDuel.stages.2.failTriggers.0.desc>Đấu sĩ không thể đến nơi.</GladiatorDuel.stages.2.failTriggers.0.desc>
+	<GladiatorDuel.stages.2.failTriggers.1.desc>Người bảo vệ đã ngủ quên</GladiatorDuel.stages.2.failTriggers.1.desc>
+	<GladiatorDuel.stages.2.failTriggers.2.desc>Người bảo vệ đã ngủ quên</GladiatorDuel.stages.2.failTriggers.2.desc>
+	<LeaderSpeech.letterText>{SPEAKER_labelShort} đang thực hiện bài phát biểu về {RITUAL_labelIndef}.\n\nNếu mọi thứ suôn sẻ, khán giả sẽ cảm thấy phấn chấn và có được sự tôn trọng đối với {SPEAKER_labelShort}. Nếu tiến triển không thuận lợi, bài phát biểu sẽ gây ảnh hưởng xã hội. Đối với những người không phải là {IDEOMEMBERS}, hiệu ứng tích cực sẽ giảm.</LeaderSpeech.letterText>
+	<LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
+	<LeaderSpeech.roles.0.label>Người diễn thuyết</LeaderSpeech.roles.0.label>
+	<RoleChange.roles.0.label>Người diễn thuyết</RoleChange.roles.0.label>
+	<RoleChange.roles.0.missingDesc>Một người diễn thuyết</RoleChange.roles.0.missingDesc>
+	<RoleChange.spectatorGerund>Xem</RoleChange.spectatorGerund>
+	<RoleChange.spectatorsLabel>Khán giả</RoleChange.spectatorsLabel>
+	<SacrificeAnimal.roles.0.label>Người tế lễ</SacrificeAnimal.roles.0.label>
+	<SacrificeAnimal.roles.1.label>Hy sinh</SacrificeAnimal.roles.1.label>
+	<SacrificeAnimal.roles.1.missingDesc>Động vật có kích thước ít nhất 0.8.</SacrificeAnimal.roles.1.missingDesc>
+	<SacrificeAnimal.spectatorGerund>Tham gia</SacrificeAnimal.spectatorGerund>
+	<SacrificeAnimal.spectatorsLabel>Người tham gia</SacrificeAnimal.spectatorsLabel>
+	<SacrificeAnimal.stages.0.failTriggers.0.desc>Động vật không thể đến nơi.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+	<SacrificeAnimal.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên.</SacrificeAnimal.stages.0.failTriggers.1.desc>
+	<SacrificeAnimal.stages.3.failTriggers.0.desc>Hy sinh đã được hồi sinh.</SacrificeAnimal.stages.3.failTriggers.0.desc>
+	<SacrificePrisoner.roles.0.label>Người tế lễ</SacrificePrisoner.roles.0.label>
+	<SacrificePrisoner.roles.1.label>Hy sinh</SacrificePrisoner.roles.1.label>
+	<SacrificePrisoner.roles.1.missingDesc>Một tù nhân</SacrificePrisoner.roles.1.missingDesc>
+	<SacrificePrisoner.spectatorGerund>Tham gia</SacrificePrisoner.spectatorGerund>
+	<SacrificePrisoner.spectatorsLabel>Người tham gia</SacrificePrisoner.spectatorsLabel>
+	<SacrificePrisoner.stages.0.failTriggers.0.desc>Tù nhân không thể đến nơi.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+	<SacrificePrisoner.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</SacrificePrisoner.stages.0.failTriggers.1.desc>
+	<SacrificePrisoner.stages.3.failTriggers.0.desc>Hy sinh đã được hồi sinh.</SacrificePrisoner.stages.3.failTriggers.0.desc>
+	<ScarificationCeremony.roles.0.label>Đối tượng</ScarificationCeremony.roles.0.label>
+	<ScarificationCeremony.roles.0.missingDesc>Người sẽ thực hiện nghi lễ khắc dấu.</ScarificationCeremony.roles.0.missingDesc>
+	<ScarificationCeremony.roles.1.label>Người thực hiện</ScarificationCeremony.roles.1.label>
+	<ScarificationCeremony.roles.1.missingDesc>Người thực hiện nghi lễ khắc dấu</ScarificationCeremony.roles.1.missingDesc>
+	<ScarificationCeremony.stages.0.failTriggers.0.desc>Mục tiêu không thể đạt được.</ScarificationCeremony.stages.0.failTriggers.0.desc>
+	<ScarificationCeremony.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</ScarificationCeremony.stages.0.failTriggers.1.desc>
+	<SmokeCircle.spectatorGerund>Tham gia</SmokeCircle.spectatorGerund>
+	<SmokeCircle.spectatorsLabel>Người tham gia</SmokeCircle.spectatorsLabel>
+	<TreeConnection.roles.0.label>Người cộng hưởng</TreeConnection.roles.0.label>
+	<TreeConnection.roles.0.customChildDisallowMessage>Chỉ có người lớn mới có thể cộng hưởng với cây mẹ.</TreeConnection.roles.0.customChildDisallowMessage>
+	<TreeConnection.spectatorGerund>Tham dự xem</TreeConnection.spectatorGerund>
+	<TreeConnection.spectatorsLabel>Khán giả</TreeConnection.spectatorsLabel>
+	<Trial.roles.0.label>Thẩm phán</Trial.roles.0.label>
+	<Trial.roles.1.label>Tội phạm</Trial.roles.1.label>
+	<TrialMentalState.roles.0.label>Thẩm phán</TrialMentalState.roles.0.label>
+	<TrialMentalState.roles.1.label>Tội phạm</TrialMentalState.roles.1.label>
+	<TrialPrisoner.roles.0.label>Thẩm phán</TrialPrisoner.roles.0.label>
+	<TrialPrisoner.roles.1.label>Tội phạm</TrialPrisoner.roles.1.label>
+	<TrialPrisoner.stages.0.failTriggers.0.desc>Tội phạm bị kết án không thể đến nơi.</TrialPrisoner.stages.0.failTriggers.0.desc>
+	<TrialPrisoner.stages.0.failTriggers.1.desc>Người bảo vệ đã ngủ quên</TrialPrisoner.stages.0.failTriggers.1.desc>
+</LanguageData>

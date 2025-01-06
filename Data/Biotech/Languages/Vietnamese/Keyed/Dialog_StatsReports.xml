@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<StatsReport_Genes>Gen liên quan</StatsReport_Genes>
+<StatsReport_InSunlight>Dưới ánh sáng mặt trời</StatsReport_InSunlight>
+<StatsReport_Clothed>Mặc quần áo</StatsReport_Clothed>
+<StatsReport_Unclothed>Không mặc quần áo</StatsReport_Unclothed>
+<StatsReport_AgeRateMultiplier>Tỷ lệ lão hóa</StatsReport_AgeRateMultiplier>
+<StatsReport_AgeRateMultiplier_Desc>Hệ số tốc độ lão hóa sinh học của người này dựa trên độ tuổi hiện tại của họ.</StatsReport_AgeRateMultiplier_Desc>
+<StatsReport_RechargerWeightClass>Cấp trọng lượng</StatsReport_RechargerWeightClass>
+<StatsReport_RechargerWeightClass_Desc>Cấp độ trọng lượng của máy móc có thể sử dụng trạm sạc này. Các máy móc dưới đây có thể sử dụng</StatsReport_RechargerWeightClass_Desc>
+<StatsReport_RechargerNeeded>Trạm sạc</StatsReport_RechargerNeeded>
+<StatsReport_RechargerNeeded_Desc>Loại trạm sạc cần thiết để máy móc này bổ sung năng lượng. Điều này phụ thuộc vào trọng lượng của máy móc.</StatsReport_RechargerNeeded_Desc>
+<StatsReport_DeathrestEffectiveness>Hiệu quả ngủ đông</StatsReport_DeathrestEffectiveness>
+<StatsReport_DeathrestEffectiveness_Desc>Chỉ số này cho thấy hiệu quả của vật thể này khi sử dụng trong ngủ đông; chỉ số càng cao, thời gian ngủ đông càng ngắn.</StatsReport_DeathrestEffectiveness_Desc>
+<StatsReport_DeathrestConnectionLimit>Giới hạn kết nối ngủ đông</StatsReport_DeathrestConnectionLimit>
+<StatsReport_DeathrestConnectionLimit_Desc>Số lượng thiết bị có thể kết nối trong khi người dùng đang ngủ đông. Giá trị này cũng bị giới hạn bởi khả năng ngủ đông của người sử dụng.</StatsReport_DeathrestConnectionLimit_Desc>
+<StatsReport_GrowthTier>Xếp hạng phát triển</StatsReport_GrowthTier>
+<StatsReport_GrowthTierDesc>Tiến độ phát triển của trẻ em theo thời gian. Việc học tập đầy đủ có thể nâng cao xếp hạng phát triển nhanh hơn. Khi đạt đến các giai đoạn phát triển cố định (7 tuổi, 10 tuổi và 13 tuổi), xếp hạng phát triển của trẻ em sẽ quyết định số lượng đặc điểm và sở thích kỹ năng mà bạn có thể lựa chọn. Xếp hạng phát triển sẽ được đặt lại khi đạt đến mỗi giai đoạn phát triển.</StatsReport_GrowthTierDesc>
+<StatsReport_DevelopmentStage>Giai đoạn sống</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStageDesc_Baby>Một em bé. Trẻ sơ sinh không thể tự di chuyển. Cuộc sống của chúng xoay quanh những nhu cầu đơn giản như thức ăn, giấc ngủ và vui chơi. Khi chúng cười, tâm trạng của những người lớn xung quanh sẽ vui vẻ hơn, và khi chúng khóc, những người lớn xung quanh sẽ cảm thấy khó chịu.\n\nỞ tuổi 3, trẻ sơ sinh sẽ trở thành trẻ em.</StatsReport_DevelopmentStageDesc_Baby>
+<StatsReport_DevelopmentStageDesc_ChildPart1>Một đứa trẻ. Thông thường, trẻ em di chuyển chậm hơn người lớn và có kỹ năng kém hơn. Tuy nhiên, trẻ em có tinh thần lạc quan tự nhiên. Khi tâm trạng của chúng vui vẻ, tinh thần lạc quan này có thể nâng cao tâm trạng của những người lớn thuộc địa.\n\nTrẻ em có thể tham gia nhiều loại công việc, tùy thuộc vào độ tuổi của chúng.</StatsReport_DevelopmentStageDesc_ChildPart1>
+<StatsReport_DevelopmentStageDesc_ChildPart2>Khi trẻ em lớn lên, chúng sẽ có nhiều sở thích và đặc điểm hơn.\n\nTrẻ em có nhiều nhu cầu học tập đặc trưng, cần trang phục kích thước trẻ em đặc biệt.\n\nỞ tuổi 13, trẻ em sẽ trở thành người lớn.</StatsReport_DevelopmentStageDesc_ChildPart2>
+<StatsReport_DevelopmentStageDesc_Adult>Một người lớn. Người lớn hoàn toàn trưởng thành ở tuổi 18.</StatsReport_DevelopmentStageDesc_Adult>
+<StatsReport_Pollution>Hệ số ô nhiễm</StatsReport_Pollution>
+<StatsReport_FertilityAgeFactor>Hệ số tuổi tác</StatsReport_FertilityAgeFactor>
+<StatsReport_HasGene>Có gen {0_label}</StatsReport_HasGene>
+<StatsReport_NonBaselinerDescription>Loại khác: {0}.\n\nVề {0}:</StatsReport_NonBaselinerDescription>
+<Stat_Thing_Apparel_ValidLifestage>Giai đoạn sống</Stat_Thing_Apparel_ValidLifestage>
+<Stat_Thing_Apparel_ValidLifestage_Desc>Một số trang phục yêu cầu người mặc phải trong một khoảng độ tuổi nhất định.</Stat_Thing_Apparel_ValidLifestage_Desc>
+<StatsReport_Connected>Đã kết nối {0}</StatsReport_Connected>
+<Effects>Ảnh hưởng</Effects>
+<StatsReport_MissingGeneRomanceChance>Hệ số cơ hội phát sinh mối quan hệ tình cảm với những người không có gen này.</StatsReport_MissingGeneRomanceChance>
+<ImmuneTo>Miễn dịch</ImmuneTo>
+<SocialFightChanceFactor>Hệ số khả năng đánh nhau</SocialFightChanceFactor>
+<AggroMentalBreakSelectionChanceFactor>Hệ số đổ vỡ tâm lý bạo lực</AggroMentalBreakSelectionChanceFactor>
+<PrisonBreakIntervalFactor>Hệ số khoảng thời gian vượt ngục</PrisonBreakIntervalFactor>
+<WillNeverPrisonBreak>Không bao giờ vượt ngục.</WillNeverPrisonBreak>
+<AlwaysAggroMentalBreak>Đổ vỡ tâm lý luôn ở dạng bạo lực.</AlwaysAggroMentalBreak>
+<NeverAggroMentalBreak>Đổ vỡ tâm lý không có hành vi bạo lực.</NeverAggroMentalBreak>
+<AddictionChanceFactor>Hệ số khả năng nghiện {0_label}</AddictionChanceFactor>
+<OverdoseChanceFactor>Hệ số khả năng quá liều {0_label}</OverdoseChanceFactor>
+<ToleranceBuildupFactor>Hệ số tăng cường khả năng chống thuốc {0_label}</ToleranceBuildupFactor>
+<AddictionImmune>Miễn dịch với nghiện {0_label}.</AddictionImmune>
+<FoodPoisoningImmune>Miễn dịch với ngộ độc thực phẩm.</FoodPoisoningImmune>
+<WillNeverSocialFight>Không bao giờ đánh nhau.</WillNeverSocialFight>
+<AgeFactors>Hệ số lão hóa</AgeFactors>
+<UnaffectedByDarkness>Tốc độ làm việc không bị ảnh hưởng bởi bóng tối.</UnaffectedByDarkness>
+<PassionModAdd>Tăng mức độ quan tâm {0_label} lên một cấp.</PassionModAdd>
+<PassionModDrop>Xóa tất cả sở thích về {0_label}.</PassionModDrop>
+<CausesNeed>Gây ra nhu cầu</CausesNeed>
+<GivesAbility>Trao khả năng</GivesAbility>
+<GivesAbilities>Trao khả năng</GivesAbilities>
+<ResourceLossPerDay>{RESOURCE}: {OFFSET}/ngày</ResourceLossPerDay>
+<Removes>Xóa bỏ</Removes>
+<DisablesNeed>Vô hiệu hóa nhu cầu</DisablesNeed>
+<DisablesNeeds>Vô hiệu hóa nhu cầu</DisablesNeeds>
+<DevelopmentStage_Baby>Trẻ sơ sinh</DevelopmentStage_Baby>
+<DevelopmentStage_Child>Trẻ em</DevelopmentStage_Child>
+<DevelopmentStage_Adult>Người lớn</DevelopmentStage_Adult>
+<StatsReport_GrowthVatSpeedFactor>Tốc độ phát triển</StatsReport_GrowthVatSpeedFactor>
+<GeneToleranceBuildupImmune>Không phát triển khả năng chống thuốc với {0_label}.</GeneToleranceBuildupImmune>
+<GeneToleranceBuildupFactor>Tăng tốc độ phát triển khả năng chống thuốc với {0_label} nhanh hơn ({1}).</GeneToleranceBuildupFactor>
+<GeneOverdoseImmune>Không bị quá liều do {0_label}.</GeneOverdoseImmune>
+<GeneOverdoseFactor>Tăng tốc độ quá liều do {0_label} nhanh hơn ({1}).</GeneOverdoseFactor>
+</LanguageData>

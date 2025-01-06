@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Mech_CentipedeBlaster.label>Máy móc côn trùng bắn</Mech_CentipedeBlaster.label>
+<Mech_CentipedeBlaster.description>Loại máy chiến đấu nặng nề di chuyển bằng hàng chục chân nhỏ. Với lớp giáp dày và hỏa lực mạnh mẽ, chúng rất thích hợp để chống lại các công sự phòng thủ cố định, nhưng lại yếu thế trước các chiến thuật du kích.\n\nLoại côn trùng máy này được trang bị súng điện.</Mech_CentipedeBlaster.description>
+<Mech_CentipedeBlaster.tools.head.label>Đầu</Mech_CentipedeBlaster.tools.head.label>
+<Mech_CentipedeBurner.label>Máy móc côn trùng lửa</Mech_CentipedeBurner.label>
+<Mech_CentipedeBurner.description>Loại máy chiến đấu nặng nề di chuyển bằng hàng chục chân nhỏ. Với lớp giáp dày và hỏa lực mạnh mẽ, chúng rất thích hợp để chống lại các công sự phòng thủ cố định, nhưng lại yếu thế trước các chiến thuật du kích.\n\nLoại côn trùng máy này được trang bị pháo hỏa ngục.</Mech_CentipedeBurner.description>
+<Mech_CentipedeBurner.tools.head.label>Đầu</Mech_CentipedeBurner.tools.head.label>
+<Mech_CentipedeGunner.label>Máy móc côn trùng bắn nhanh</Mech_CentipedeGunner.label>
+<Mech_CentipedeGunner.description>Loại máy chiến đấu nặng nề di chuyển bằng hàng chục chân nhỏ. Với lớp giáp dày và hỏa lực mạnh mẽ, chúng rất thích hợp để chống lại các công sự phòng thủ cố định, nhưng lại yếu thế trước các chiến thuật du kích.\n\nLoại côn trùng máy này được trang bị súng máy bắn nhanh.</Mech_CentipedeGunner.description>
+<Mech_CentipedeGunner.tools.head.label>Đầu</Mech_CentipedeGunner.tools.head.label>
+<Mech_Lancer.label>Máy móc kỵ sĩ</Mech_Lancer.label>
+<Mech_Lancer.description>Loại máy chiến đấu trung bình có kích thước con người, di chuyển nhanh chóng. Mặc dù mạnh ở tầm xa, nhưng yếu ở cự ly gần.</Mech_Lancer.description>
+<Mech_Lancer.tools.left_fist.label>Đấm trái</Mech_Lancer.tools.left_fist.label>
+<Mech_Lancer.tools.left_fist.labelNoLocation>Đấm</Mech_Lancer.tools.left_fist.labelNoLocation>
+<Mech_Lancer.tools.right_fist.label>Đấm phải</Mech_Lancer.tools.right_fist.label>
+<Mech_Lancer.tools.right_fist.labelNoLocation>Đấm</Mech_Lancer.tools.right_fist.labelNoLocation>
+<Mech_Lancer.tools.head.label>Đầu</Mech_Lancer.tools.head.label>
+<Mech_Pikeman.label>Máy móc lính cắm</Mech_Pikeman.label>
+<Mech_Pikeman.description>Loại máy chiến đấu nặng nề có nhiều chân, được thiết kế đặc biệt để mang theo vũ khí tầm xa. Mặc dù mạnh ở khoảng cách xa, nhưng yếu ở cự ly gần.\n\nNhững cựu chiến binh đã trải qua cuộc chiến máy móc biết rằng cách an toàn nhất để đối phó với máy móc lính cắm là cố gắng lại gần chúng nhất có thể.</Mech_Pikeman.description>
+<Mech_Pikeman.tools.front_left_leg.label>Chân trước trái</Mech_Pikeman.tools.front_left_leg.label>
+<Mech_Pikeman.tools.front_left_leg.labelNoLocation>Chân</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+<Mech_Pikeman.tools.front_right_leg.label>Chân trước phải</Mech_Pikeman.tools.front_right_leg.label>
+<Mech_Pikeman.tools.front_right_leg.labelNoLocation>Chân</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+<Mech_Pikeman.tools.head.label>Đầu</Mech_Pikeman.tools.head.label>
+<Mech_Scyther.label>Máy móc gặt</Mech_Scyther.label>
+<Mech_Scyther.description>Loại máy chiến đấu trung bình có kích thước con người, di chuyển nhanh chóng với những chiếc lưỡi hái đáng sợ. Chúng giỏi trong việc xâm nhập nhanh vào đội hình kẻ thù và cắt đứt chân tay hoặc mổ bụng của đối thủ bằng cánh tay hình lưỡi hái.</Mech_Scyther.description>
+<Mech_Scyther.tools.left_blade.label>Lưỡi hái trái</Mech_Scyther.tools.left_blade.label>
+<Mech_Scyther.tools.left_blade.labelNoLocation>Lưỡi hái</Mech_Scyther.tools.left_blade.labelNoLocation>
+<Mech_Scyther.tools.right_blade.label>Lưỡi hái phải</Mech_Scyther.tools.right_blade.label>
+<Mech_Scyther.tools.right_blade.labelNoLocation>Lưỡi hái</Mech_Scyther.tools.right_blade.labelNoLocation>
+<Mech_Scyther.tools.head.label>Đầu</Mech_Scyther.tools.head.label>
+<Mech_Termite.label>Máy móc mối</Mech_Termite.label>
+<Mech_Termite.description>Loại máy chiến đấu trung bình, giỏi trong việc khoan, đào bới và phá vỡ công sự. Những người bảo vệ có thể chọn tiêu diệt máy móc mối khi chúng phá hủy công trình phòng thủ, hoặc tấn công chúng bằng hỏa lực tầm xa như súng cối khi chúng vừa xuất hiện.</Mech_Termite.description>
+<Mech_Termite.tools.head.label>Đầu</Mech_Termite.tools.head.label>
+</LanguageData>

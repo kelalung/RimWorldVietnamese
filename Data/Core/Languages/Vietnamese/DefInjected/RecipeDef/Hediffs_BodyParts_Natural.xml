@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallNaturalHeart.label>Cấy ghép tim</InstallNaturalHeart.label>
+	<InstallNaturalHeart.description>Cấy ghép tim vào cơ thể.</InstallNaturalHeart.description>
+	<InstallNaturalHeart.jobString>Đang cấy ghép tim.</InstallNaturalHeart.jobString>
+	<InstallNaturalKidney.label>Cấy ghép thận</InstallNaturalKidney.label>
+	<InstallNaturalKidney.description>Cấy ghép thận vào cơ thể.</InstallNaturalKidney.description>
+	<InstallNaturalKidney.jobString>Đang cấy ghép thận.</InstallNaturalKidney.jobString>
+	<InstallNaturalLiver.label>Cấy ghép gan</InstallNaturalLiver.label>
+	<InstallNaturalLiver.description>Cấy ghép gan vào cơ thể.</InstallNaturalLiver.description>
+	<InstallNaturalLiver.jobString>Đang cấy ghép gan.</InstallNaturalLiver.jobString>
+	<InstallNaturalLung.label>Cấy ghép phổi</InstallNaturalLung.label>
+	<InstallNaturalLung.description>Cấy ghép phổi vào cơ thể.</InstallNaturalLung.description>
+	<InstallNaturalLung.jobString>Đang cấy ghép phổi.</InstallNaturalLung.jobString>
+</LanguageData>

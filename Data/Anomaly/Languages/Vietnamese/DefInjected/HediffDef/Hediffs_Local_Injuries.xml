@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Digested.label>Bị tiêu hóa</Digested.label>
+	<Digested.description>Phần này đã bị tiêu hóa.</Digested.description>
+	<Digested.labelNoun>Một phần bị tiêu hóa</Digested.labelNoun>
+	<Digested.labelNounPretty>Đã tiêu hóa {1}</Digested.labelNounPretty>
+	<EnergyBolt.label>Đạn năng lượng</EnergyBolt.label>
+	<EnergyBolt.description>Vết thương do đạn năng lượng gây ra.</EnergyBolt.description>
+	<EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>Sẹo do đạn năng lượng</EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+	<EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>Vết thương cũ do đạn năng lượng</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
+	<EnergyBolt.injuryProps.destroyedLabel>Bị bắn đứt</EnergyBolt.injuryProps.destroyedLabel>
+	<EnergyBolt.injuryProps.destroyedOutLabel>Bị bắn ra ngoài</EnergyBolt.injuryProps.destroyedOutLabel>
+	<EnergyBolt.labelNoun>Vết thương do đạn năng lượng</EnergyBolt.labelNoun>
+	<EnergyBolt.labelNounPretty>{1} trúng đích {0}</EnergyBolt.labelNounPretty>
+	<PsychicInjury.label>Chấn thương tâm linh</PsychicInjury.label>
+	<PsychicInjury.description>Một vết thương tâm linh.</PsychicInjury.description>
+	<PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo chấn thương tâm linh</PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>
+	<PsychicInjury.injuryProps.destroyedLabel>Bị thiêu đốt</PsychicInjury.injuryProps.destroyedLabel>
+	<PsychicInjury.labelNoun>Chấn thương tâm linh</PsychicInjury.labelNoun>
+	<PsychicInjury.labelNounPretty>{1} trúng đích {0}</PsychicInjury.labelNounPretty>
+	<PsychicInjurySkin.label>Chấn thương tâm linh</PsychicInjurySkin.label>
+	<PsychicInjurySkin.description>Một vết thương tâm linh.</PsychicInjurySkin.description>
+	<PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo chấn thương tâm linh</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
+	<PsychicInjurySkin.injuryProps.destroyedLabel>Bị thiêu đốt</PsychicInjurySkin.injuryProps.destroyedLabel>
+	<PsychicInjurySkin.labelNoun>Chấn thương tâm linh</PsychicInjurySkin.labelNoun>
+	<PsychicInjurySkin.labelNounPretty>{1}中的{0}</PsychicInjurySkin.labelNounPretty>
+	<PsychicInjurySolid.label>Chấn thương tâm linh</PsychicInjurySolid.label>
+	<PsychicInjurySolid.description>Một vết thương tâm linh.</PsychicInjurySolid.description>
+	<PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>Sẹo chấn thương tâm linh</PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>
+	<PsychicInjurySolid.injuryProps.destroyedLabel>Bị thiêu đốt</PsychicInjurySolid.injuryProps.destroyedLabel>
+	<PsychicInjurySolid.labelNoun>Chấn thương tâm linh</PsychicInjurySolid.labelNoun>
+	<PsychicInjurySolid.labelNounPretty>{1} trúng đích {0}</PsychicInjurySolid.labelNounPretty>
+</LanguageData>

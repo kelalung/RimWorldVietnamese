@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+		<li>questDescription->Gần đây có một người tên là [joiner_nameDef] [introduction] đã gửi cho chúng ta một thông điệp cầu cứu. [joiner_pronoun] nói rằng [joiner_pronoun] đang bị [enemyFaction_name] và [enemyFaction_pawnsPlural] truy đuổi!\n\n[joiner_pronoun] cầu xin được bảo vệ và hy vọng gia nhập thuộc địa của chúng ta tại [map_definite]. [joiner_relationInfo]\n\nCảnh báo: Nếu chúng ta chấp nhận yêu cầu của [joiner_possessive], chúng ta sẽ phải chống lại [enemyFaction_pawnsPlural] đang truy đuổi.\nĐội hình của [enemyFaction_pawnsPlural] là:\n\n[raid/raidPawnKinds]\n\nDo quá hoảng loạn, [joiner_nameDef] đã bắt đầu nói lắp và không thể cung cấp thêm thông tin cho chúng ta.</li>
+		<li>introduction(childCount==1,priority=1)->[joiner_age] tuổi trẻ em</li>
+		<li>introduction->[joiner_age] tuổi [joiner_title]</li>
+	</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+	<ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+		<li>questName->Cứu [runnerIndef] đang bị truy đuổi</li>
+		<li>questName->Yêu cầu bảo vệ của [runnerIndef]</li>
+		<li>questName->Giúp đỡ [runnerIndef] đang bị truy sát</li>
+		<li>questName->Tiếp nhận [runnerIndef] đã trốn thoát</li>
+		<li>questName->[enemyFaction_pawnsPlural] đang truy đuổi [runnerIndef]</li>
+		<li>questName->[runnerIndef] đang hoảng loạn bỏ chạy</li>
+		<li>questName->[runnerIndef] đang tìm kiếm nơi ẩn náu</li>
+		<li>questName->[runnerIndef] đang bị [enemyFaction_pawnsPlural] truy đuổi</li>
+		<li>questName->[runnerIndef] và [enemyFaction_pawnsPlural]</li>
+		<li>runnerIndef->[joiner_titleIndef]</li>
+		<li>runnerIndef->[joiner_nameIndef]</li>
+		<li>runnerIndef->Người tị nạn</li>
+		<li>runnerIndef(childCount==1,priority=1)->Trẻ em</li>
+	</ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+	<!-- <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} Đang truy đuổi [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef> -->
+	<!-- <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural] đang truy đuổi [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef> -->
+	<ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL} đang đuổi theo [../joiner_nameDef]</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+	<ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] đã đến để lấy [../joiner_nameDef].</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+</LanguageData>

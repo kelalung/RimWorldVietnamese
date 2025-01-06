@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CallOnRadio>Gọi {0}</CallOnRadio>
+	<CannotUseReason>Không thể sử dụng ({0})</CannotUseReason>
+	<CannotUseSolarFlare>Không thể sử dụng (Bão mặt trời)</CannotUseSolarFlare>
+	<CannotUseNoPower>Không thể sử dụng (Không có điện)</CannotUseNoPower>
+	<CannotUseNoPath>Không thể sử dụng (Không có đường đi)</CannotUseNoPath>
+	<CannotUseReserved>Không thể sử dụng (Đã được đặt trước)</CannotUseReserved>
+	<CannotUseFull>Không thể sử dụng (Đã đầy)</CannotUseFull>
+	<LeaderUnavailable>Thủ lĩnh {1_labelShort} không khả dụng</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>Thủ lĩnh không khả dụng</LeaderUnavailableNoLeader>
+	<NotAllowed>Không được phép</NotAllowed>
+	<FireAt>Đánh {1_label}</FireAt>
+	<OutOfRange>Ra ngoài tầm bắn</OutOfRange>
+	<TooClose>Quá gần</TooClose>
+	<CannotHitTarget>Không thể trúng mục tiêu</CannotHitTarget>
+	<IsIncapableOfViolenceLower>{1_labelShort} không có khả năng bạo lực</IsIncapableOfViolenceLower>
+	<IncapableOfViolenceLower>Không có khả năng bạo lực</IncapableOfViolenceLower>
+	<IsIncapableOfShootingLower>{0_labelShort} không có khả năng bắn</IsIncapableOfShootingLower>
+	<IsNotDraftedLower>{1_labelShort} chưa được triệu tập</IsNotDraftedLower>
+	<CannotOrderNonControlledLower>Không thể ra lệnh cho nhân vật không thuộc quyền kiểm soát của bạn</CannotOrderNonControlledLower>
+	<CannotAttackSelf>Không thể tấn công bản thân</CannotAttackSelf>
+	<CannotAttackSameFactionMember>Không thể tấn công thành viên cùng phe</CannotAttackSameFactionMember>
+	<IncapableOfFirefighting>Không thể dập lửa.</IncapableOfFirefighting>
+	<OrderManThing>Điều khiển {1_labelShort}</OrderManThing>
+	<MeleeAttack>Tấn công cận chiến {1_label}</MeleeAttack>
+	<MeleeAttackToDeath>Tấn công cận chiến đến chết {1_label}</MeleeAttackToDeath>
+	<NoPath>Không có đường đi</NoPath>
+	<Burying>Chôn cất</Burying>
+	<DesignatedFor>Được chỉ định cho {0}</DesignatedFor>
+	<ForbiddenLower>Đã bị cấm</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>Nằm ngoài khu vực cho phép</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>Nằm ngoài khu vực sinh sống</NotInHomeArea>
+	<BurningLower>Đang cháy</BurningLower>
+	<NoEmptyPlaceLower>Không có điểm lưu trữ trống và có thể tiếp cận</NoEmptyPlaceLower>
+	<NoMergeTarget>Không có đống có thể hợp nhất</NoMergeTarget>
+	<AlreadyFilledLower>Đã đầy</AlreadyFilledLower>
+	<MissingMaterials>Cần {0}</MissingMaterials>
+	<NoMedicineMatchingCategory>Không có thuốc phù hợp '{CATEGORY}'.</NoMedicineMatchingCategory>
+	<UnderRequiredSkill>Kỹ năng không đủ {0}</UnderRequiredSkill>
+	<UnderAllowedSkill>Kỹ năng không đủ {0}</UnderAllowedSkill>
+	<AboveAllowedSkill>Kỹ năng vượt quá {0}</AboveAllowedSkill>
+	<NoReachableOutsideCell>Không có khu vực có thể tiếp cận</NoReachableOutsideCell>
+	<MissingRequiredSkillLevel>Thiếu cấp độ kỹ năng yêu cầu</MissingRequiredSkillLevel>
+	<AnimalInteractedTooRecently>Động vật đã tương tác quá gần đây</AnimalInteractedTooRecently>
+	<PrisonerInteractedTooRecently>Tương tác với tù nhân quá gần đây</PrisonerInteractedTooRecently>
+	<NoUsableFood>Thiếu thực phẩm có sẵn</NoUsableFood>
+	<NoFood>Thiếu thực phẩm</NoFood>
+	<NoFoodMatchingRestrictions>Không có thực phẩm phù hợp</NoFoodMatchingRestrictions>
+	<NoIngredient>Thiếu {0_label}</NoIngredient>
+	<FoodBelowTitleRequirements>Dưới yêu cầu {0}</FoodBelowTitleRequirements>
+	<AnimalsSkillTooLow>Kỹ năng thuần hóa động vật quá thấp - cần {0}</AnimalsSkillTooLow>
+	<CantInteractAnimalDowned>Động vật đã ngã</CantInteractAnimalDowned>
+	<CantInteractAnimalAsleep>Động vật đang ngủ</CantInteractAnimalAsleep>
+	<CantInteractAnimalBusy>Động vật đang bận</CantInteractAnimalBusy>
+	<CantRopeAnimalNoUsableReachablePens>Không có chuồng có thể tiếp cận và sử dụng</CantRopeAnimalNoUsableReachablePens>
+	<CantRopeAnimalNoEnclosedPens>Không có chuồng kín</CantRopeAnimalNoEnclosedPens>
+	<CantRopeAnimalNoAllowedPens>Không có chuồng có thể sử dụng</CantRopeAnimalNoAllowedPens>
+	<CantRopeAnimalNoReachablePens>Không có chuồng có thể tiếp cận</CantRopeAnimalNoReachablePens>
+	<CantRopeAnimalCantTouch>Không thể chạm vào</CantRopeAnimalCantTouch>
+	<CantRopeAnimalNoSpace>Chuồng đã đầy</CantRopeAnimalNoSpace>
+	<CantRopeAnimalMentalState>{0_labelShort} đang trong trạng thái {1}</CantRopeAnimalMentalState>
+	<CantRopeAnimalAlreadyInBestPen>Đã ở trong chuồng tốt nhất</CantRopeAnimalAlreadyInBestPen>
+	<SkillTooLowForConstruction>Kỹ năng {0} quá thấp</SkillTooLowForConstruction>
+	<NoComponentsToRepair>Cần các bộ phận</NoComponentsToRepair>
+	<NoFuelToRefuel>Cần {0}</NoFuelToRefuel>
+	<NoWort>Cần nước trái cây</NoWort>
+	<TheOnlyAvailableFoodIsInStorageOfHigherPriority>Thực phẩm có sẵn nằm trong kho có ưu tiên cao hơn</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+	<NoFoodToFillHopper>Thiếu thực phẩm phù hợp</NoFoodToFillHopper>
+	<SelfTendDisabled>Tự chăm sóc đã bị vô hiệu hóa</SelfTendDisabled>
+	<ReservedForPrisoners>Đã được đặt trước cho tù nhân</ReservedForPrisoners>
+	<CannotReach>Không thể tiếp cận</CannotReach>
+	<NotSurgeryReady>Chưa sẵn sàng cho phẫu thuật</NotSurgeryReady>
+	<SkillDisabled>Kỹ năng đã bị vô hiệu hóa</SkillDisabled>
+	<CantSowCavePlantBecauseOfLight>Quá sáng</CantSowCavePlantBecauseOfLight>
+	<CantSowCavePlantBecauseUnroofed>Không có mái che</CantSowCavePlantBecauseUnroofed>
+	<IncapableOfDeconstruction>Không thể tháo dỡ</IncapableOfDeconstruction>
+	<IncapableOfMining>Không thể khai thác</IncapableOfMining>
+	<TreeMarkedForExtraction>Cây đã được đánh dấu để khai thác</TreeMarkedForExtraction>
+	<AngersFaction>Kích thích phe phái</AngersFaction>
+	<InstallImplantNoBodyPart>Không có bộ phận cơ thể</InstallImplantNoBodyPart>
+	<InstallImplantNotAllowedForNonColonists>Không phải là thuộc địa</InstallImplantNotAllowedForNonColonists>
+	<InstallImplantAlreadyInstalled>Đã cài đặt</InstallImplantAlreadyInstalled>
+	<InstallImplantHediffRequired>Cần có {0} đã có sẵn</InstallImplantHediffRequired>
+	<InstallImplantAlreadyMaxLevel>Cấp tối đa</InstallImplantAlreadyMaxLevel>
+	<InstallImplantMinLevel>Cần cấp {0}</InstallImplantMinLevel>
+	<InstallImplantPsychicallyDeaf>Mất khả năng tâm linh</InstallImplantPsychicallyDeaf>
+	<UpgradeImplant>Nâng cấp {0} lên cấp {1}</UpgradeImplant>
+	<SurgeryViolationFellowFactionMember>Vi phạm đối với thành viên cùng phe</SurgeryViolationFellowFactionMember>
+	<BeingCarriedBy>Bị {0_labelShort} mang</BeingCarriedBy>
+	<ContainerFull>Đã đầy</ContainerFull>
+	<AlreadyAssigned>Đã được chỉ định</AlreadyAssigned>
+	<ConsumeThing>Tiêu thụ {1_labelShort}</ConsumeThing>
+	<CannotGoNoPath>Không thể đến (Không có đường đi)</CannotGoNoPath>
+	<GoHere>Đi đến đây</GoHere>
+	<CleanRoom>Dọn dẹp {0}</CleanRoom>
+	<Arrest>Bắt giữ {0}</Arrest>
+	<TryToArrest>Thử bắt giữ {1_label} ({2} tỷ lệ thành công)</TryToArrest>
+	<CannotArrest>Không thể bắt giữ</CannotArrest>
+	<ArrestChance>Cơ hội bị bắt {0}</ArrestChance>
+	<Capture>Bắt giữ {1_label}</Capture>
+	<CaptureLower>Bắt giữ {0_labelShort}</CaptureLower>
+	<CannotCapture>Không thể bắt giữ</CannotCapture>
+	<Unrecruitable>Trung thành</Unrecruitable>
+	<UnrecruitableNoFaction>Không thể tuyển dụng</UnrecruitableNoFaction>
+	<TransferEntity>Chuyển {0_definite}</TransferEntity>
+	<Rescue>Cứu {1_label}</Rescue>
+	<PutSomewhereSafe>Chuyển {1_label} đến nơi an toàn</PutSomewhereSafe>
+	<TakingToBed>Đưa {0_labelShort} lên giường.</TakingToBed>
+	<CannotRescue>Không thể cứu</CannotRescue>
+	<CarryToCryptosleepCasket>Đưa {1_label} vào quan tài đông lạnh</CarryToCryptosleepCasket>
+	<CannotCarryToCryptosleepCasket>Không thể đưa vào quan tài đông lạnh</CannotCarryToCryptosleepCasket>
+	<CarryToShuttle>Mang {0_label} vào tàu con thoi</CarryToShuttle>
+	<NoCryptosleepCasket>Thiếu quan tài đông lạnh có sẵn.</NoCryptosleepCasket>
+	<CryptosleepCasketGuestsNotAllowed>Thành viên tạm thời không được phép.</CryptosleepCasketGuestsNotAllowed>
+	<CryptosleepCasketGuestPrisonersNotAllowed>Tù nhân không được phép.</CryptosleepCasketGuestPrisonersNotAllowed>
+	<CryptosleepCasketOccupied>Đã được chiếm dụng</CryptosleepCasketOccupied>
+	<NoPrisonerBed>Thiếu giường dành cho tù nhân có thể tiếp cận, chưa được đặt trước, trong điều kiện an toàn.</NoPrisonerBed>
+	<NoPrisonerBedShort>Thiếu chỗ ngủ cho tù nhân.</NoPrisonerBedShort>
+	<NoNonPrisonerBed>Thiếu giường dành cho người không phải tù nhân có thể tiếp cận, chưa được đặt trước, trong điều kiện an toàn.</NoNonPrisonerBed>
+	<NoAnimalBed>Thiếu chỗ ngủ cho động vật có thể tiếp cận, chưa được đặt trước, trong điều kiện an toàn.</NoAnimalBed>
+	<NoItemReservedOrReachable>Thiếu {0} có thể tiếp cận, chưa bị cấm, chưa được đặt trước</NoItemReservedOrReachable>
+	<NoItemReserved>Thiếu {0} chưa bị cấm, chưa được đặt trước</NoItemReserved>
+	<Reserved>Đã được đặt trước cho người khác.</Reserved>
+	<ReservedBy>Đã được đặt trước cho {1_labelShort}.</ReservedBy>
+	<IsReservedBy>{0} đã được đặt trước cho {1}.</IsReservedBy>
+	<TooHeavy>Quá nặng</TooHeavy>
+	<SameFaction>{0_labelShort} đang ở cùng một phe.</SameFaction>
+	<Incapable>Không đủ khả năng</Incapable>
+	<IncapableOfCapacity>Không đủ khả năng {0}</IncapableOfCapacity>
+	<MustHaveHediff>Phải có {0_label}</MustHaveHediff>
+	<MinSkill>Kỹ năng tối thiểu</MinSkill>
+	<Equip>Trang bị {0}</Equip>
+	<EquipWarningBrawler>(Lính đánh nhau sẽ không vui)</EquipWarningBrawler>
+	<CannotEquip>Không thể trang bị {0}</CannotEquip>
+	<CannotManThing>Không thể điều khiển {1_labelShort}</CannotManThing>
+	<ForceWear>Bắt buộc mặc {1_labelShort}</ForceWear>
+	<CannotWear>Không thể mặc {1_label}</CannotWear>
+	<ForceEquipApparel>Bắt buộc trang bị {1_labelShort}</ForceEquipApparel>
+	<CannotEquipApparel>Không thể trang bị {1_label}</CannotEquipApparel>
+	<CannotWearBecauseOfMissingBodyParts>Thiếu bộ phận cơ thể</CannotWearBecauseOfMissingBodyParts>
+	<Reload>Reload {GEAR_labelShort} with {AMMO_label}</Reload>
+	<ReloadFull>Đầy</ReloadFull>
+	<ReloadNotEnough>Quá ít</ReloadNotEnough>
+	<ReloadCannotCarryEnough>Không thể mang đủ {AMMO_label} để nạp một đơn vị năng lượng.</ReloadCannotCarryEnough>
+	<CannotPickUp>Không thể nhặt {1_labelShort}</CannotPickUp>
+	<CannotPickUpAll>Không thể nhặt {1_label} (tất cả)</CannotPickUpAll>
+	<PickUpOne>Nhặt {1_labelShort} x1</PickUpOne>
+	<PickUpAll>Nhặt {1_label} (tất cả)</PickUpAll>
+	<PickUpSome>Nhặt {1_labelShort}…</PickUpSome>
+	<PickUpCount>Nhặt {1_labelShort} x{{0}}</PickUpCount>
+	<CannotPickUpSome>Không thể nhặt {1_labelShort}</CannotPickUpSome>
+	<MaxPickUpAllowed>Cho phép {0} x {1}</MaxPickUpAllowed>
+	<CannotGiveToPackAnimal>Không thể đưa {1_label} cho động vật mang</CannotGiveToPackAnimal>
+	<CannotGiveToPackAnimalAll>Không thể đưa {1_label} (tất cả) cho động vật mang</CannotGiveToPackAnimalAll>
+	<GiveToPackAnimal>Đưa {1_label} cho động vật mang</GiveToPackAnimal>
+	<GiveToPackAnimalAll>Đưa {1_label} (tất cả) cho động vật mang</GiveToPackAnimalAll>
+	<GiveToPackAnimalSome>Đưa {1_labelShort} cho động vật mang…</GiveToPackAnimalSome>
+	<GiveToPackAnimalCount>Đưa {1_labelShort} x{{0}} cho động vật mang</GiveToPackAnimalCount>
+	<CannotLoadIntoCaravan>Không thể đưa {1_label} cho đoàn xe mang</CannotLoadIntoCaravan>
+	<CannotLoadIntoCaravanAll>Không thể đưa {1_label} (tất cả) cho đoàn xe mang</CannotLoadIntoCaravanAll>
+	<LoadIntoCaravan>Đưa {1_label} cho đoàn xe mang</LoadIntoCaravan>
+	<LoadIntoCaravanAll>Đưa {1_label} (tất cả) cho đoàn xe mang</LoadIntoCaravanAll>
+	<LoadIntoCaravanSome>Đưa {1_labelShort} cho đoàn xe mang...</LoadIntoCaravanSome>
+	<LoadIntoCaravanCount>Đưa {1_labelShort} x{{0}} cho đoàn xe mang</LoadIntoCaravanCount>
+	<OverweightLower>Quá nặng</OverweightLower>
+	<CannotCarryToExit>Không thể mang {1_label} rời khỏi khu vực này</CannotCarryToExit>
+	<CarryToExit>Mang {1_label} rời khỏi khu vực này</CarryToExit>
+	<CarryToExitAndCapture>Bắt giữ {1_label} và rời khỏi khu vực này</CarryToExitAndCapture>
+	<Strip>Tháo bỏ {1_label}</Strip>
+	<CannotStrip>Không thể tháo bỏ {1_label}</CannotStrip>
+	<CannotDrop>Không thể thả {1_label}</CannotDrop>
+	<Carry>Mang {0_label}</Carry>
+	<CannotCarry>Không thể mang {0_label}</CannotCarry>
+	<CarriedPawnHostile>Thù địch</CarriedPawnHostile>
+	<QuestRelated>Thành viên tạm thời</QuestRelated>
+	<QuestRelated_Outfit>Không thể thay đổi trang bị của thành viên tạm thời</QuestRelated_Outfit>
+	<WouldReplaceLockedApparel>Sẽ thay thế trang phục đã khóa</WouldReplaceLockedApparel>
+	<CannotPlaceIn>Không thể đặt {0_label} vào {1_label}</CannotPlaceIn>
+	<PlaceIn>Đặt {0_label} vào {1_label}</PlaceIn>
+	<SelfDestructHere>Tự hủy tại đây</SelfDestructHere>
+	<Drop>Thả {1_label}</Drop>
+	<UseMedicalBed>Nghỉ ngơi cho đến khi hồi phục</UseMedicalBed>
+	<NotInjured>Không bị thương</NotInjured>
+	<NoDoctor>Không có bác sĩ</NoDoctor>
+	<NotForSlaves>Không có giường y tế dành cho nô lệ</NotForSlaves>
+	<SomeoneElseSleeping>Đã bị {0} chiếm dụng</SomeoneElseSleeping>
+	<TradeWith>Giao dịch với {0}</TradeWith>
+	<DismissTrader>Yêu cầu đoàn thương mại rời đi</DismissTrader>
+	<CannotTrade>Không thể giao dịch</CannotTrade>
+	<TraderDismissed>Đoàn thương mại đã được yêu cầu rời đi</TraderDismissed>
+	<Open>Mở {0_label}</Open>
+	<CannotOpen>Không thể mở {0_label}</CannotOpen>
+	<EnterMap>Vào {0}</EnterMap>
+	<VisitSettlement>Thăm {0}</VisitSettlement>
+	<VisitPeaceTalks>Thăm {0}</VisitPeaceTalks>
+	<VisitEscapeShip>Thăm {0}</VisitEscapeShip>
+	<AttackSettlement>Tấn công {0}</AttackSettlement>
+	<ApproachSite>Tiến gần {0}</ApproachSite>
+	<ApproachingSite>Đang tiến gần {0}</ApproachingSite>
+	<OfferGifts>Cung cấp quà tặng</OfferGifts>
+	<TradeWithSettlement>Giao dịch với {0}</TradeWithSettlement>
+	<EnterPortal>Vào {0}</EnterPortal>
+	<EnteringPortal>Đang vào {0}</EnteringPortal>
+	<CommandEnterPortal>Vào {0}</CommandEnterPortal>
+	<CommandEnterPortalDesc>Chọn nhân sự và vật phẩm để mang vào {0}.</CommandEnterPortalDesc>
+	<CommandCancelEnterPortal>Hủy bỏ vào</CommandCancelEnterPortal>
+	<CommandCancelEnterPortalDesc>Hủy bỏ việc tải nhân sự hoặc vật phẩm vào.</CommandCancelEnterPortalDesc>
+	<EnterCryptosleepCasket>Vào quan tài đông lạnh</EnterCryptosleepCasket>
+	<OpenCryptosleepCasket>Mở quan tài đông lạnh</OpenCryptosleepCasket>
+	<EnterShuttle>Lên tàu con thoi</EnterShuttle>
+	<CannotGenericWork>Không thể {0} {1}</CannotGenericWork>
+	<CannotGenericWorkCustom>Không thể {0}</CannotGenericWorkCustom>
+	<CannotMissingHealthActivities>Không thể ưu tiên (vấn đề sức khỏe: {0})</CannotMissingHealthActivities>
+	<CannotGenericAlreadyAm>Đã ở trong {0} {2_labelShort}</CannotGenericAlreadyAm>
+	<CannotGenericAlreadyAmCustom>Đã ở trong {0}</CannotGenericAlreadyAmCustom>
+	<CannotPrioritizeWorkTypeDisabled>Không thể ưu tiên (không thể làm: {0})</CannotPrioritizeWorkTypeDisabled>
+	<MissingTitleAbility>Thiếu tiêu đề cần thiết</MissingTitleAbility>
+	<CannotPrioritizeWorkGiverDisabled>Không thể ưu tiên (không thể {0})</CannotPrioritizeWorkGiverDisabled>
+	<WillNever>Không bao giờ {0}</WillNever>
+	<CannotPrioritizeNotAssignedToWorkType>Không thể ưu tiên (không được chỉ định công việc: {0})</CannotPrioritizeNotAssignedToWorkType>
+	<NotAssigned>Chưa được chỉ định</NotAssigned>
+	<NotAssignedToWorkType>Chưa được chỉ định {0}</NotAssignedToWorkType>
+	<CannotPrioritizeResearch>Không thể ưu tiên (nghiên cứu là công việc dài hạn)</CannotPrioritizeResearch>
+	<CannotPrioritizeForbidden>Không thể ưu tiên ({1_label} đã bị cấm)</CannotPrioritizeForbidden>
+	<CannotPrioritizeCellForbidden>Không thể ưu tiên (bị cấm)</CannotPrioritizeCellForbidden>
+	<CannotPrioritizeForbiddenOutsideAllowedArea>Ở ngoài khu vực cho phép</CannotPrioritizeForbiddenOutsideAllowedArea>
+	<CannotPrioritizeBurying>Không thể ưu tiên chôn cất</CannotPrioritizeBurying>
+	<PrioritizeGeneric>Ưu tiên {0} {1}</PrioritizeGeneric>
+	<DropAtEdge>Thả xuống cạnh</DropAtEdge>
+	<DropInCenter>Thả xuống giữa</DropInCenter>
+	<AttackShuttle>Tấn công {0}</AttackShuttle>
+	<AttackAndDropAtEdge>Tấn công {0}: thả xuống cạnh</AttackAndDropAtEdge>
+	<AttackAndDropInCenter>Tấn công {0}: thả xuống giữa</AttackAndDropInCenter>
+	<VomitingLower>Đang nôn mửa</VomitingLower>
+	<NotInterruptibleLower>Không thể bị gián đoạn</NotInterruptibleLower>
+	<AddWaypoint>Thêm điểm dừng mới tại đây</AddWaypoint>
+	<RemoveWaypoint>Xóa điểm dừng này</RemoveWaypoint>
+	<RemoveAllDesignations>Xóa tất cả chỉ định</RemoveAllDesignations>
+	<DesignateAll>Chỉ định tất cả</DesignateAll>
+	<CountToDesignate>{0} bị ảnh hưởng</CountToDesignate>
+	<ForbidAllItems>Cấm tất cả đồ vật</ForbidAllItems>
+	<UnforbidAllItems>Giải phóng tất cả đồ vật</UnforbidAllItems>
+	<LandInExistingMap>Trên {0}, thu nhỏ và chọn địa điểm hạ cánh</LandInExistingMap>
+	<TransportPodsContentsWillBeLost>Nội dung sẽ bị mất</TransportPodsContentsWillBeLost>
+	<FormCaravanHere>Tạo đoàn xe tại đây</FormCaravanHere>
+	<GiveToCaravan>Gửi {0} cho đoàn xe</GiveToCaravan>
+	<GiveGiftViaTransportPods>Gửi {0} như một món quà ({1})</GiveGiftViaTransportPods>
+	<NotPartOfLaunchGroup>Không thuộc nhóm phóng</NotPartOfLaunchGroup>
+	<FreePrisoner>Giải phóng tù nhân</FreePrisoner>
+	<OfferHelp>Cung cấp sự giúp đỡ</OfferHelp>
+	<ApplyTechprint>Áp dụng {0}</ApplyTechprint>
+	<EnterCooldownBlocksEntering>Quá nguy hiểm</EnterCooldownBlocksEntering>
+	<NoCommsTarget>Không tìm thấy mục tiêu</NoCommsTarget>
+	<Invoke>Gọi {0}</Invoke>
+	<CannotInvoke>Không thể gọi {0}</CannotInvoke>
+	<Power>Nguồn điện</Power>
+	<AlreadyInvoked>Đã gọi</AlreadyInvoked>
+	<Tend>Chăm sóc {0}</Tend>
+	<CannotTend>Không thể chăm sóc {0}</CannotTend>
+	<TendingNotRequired>{0} không cần chăm sóc</TendingNotRequired>
+	<WithoutMedicine>Không cần thuốc</WithoutMedicine>
+	<RepairThing>Sửa chữa {0}</RepairThing>
+	<CannotRepair>Không thể sửa chữa {0}</CannotRepair>
+	<CannotEnter>Không thể vào</CannotEnter>
+	<CannotEnterPortal>Không thể vào {0}</CannotEnterPortal>
+	<PortalClosed>Đã đóng</PortalClosed>
+	<CannotRomance>Không thể hẹn hò với {0}</CannotRomance>
+	<CanRomance>Có thể hẹn hò với {0}</CanRomance>
+	<WarningFoodDisliked>Thức ăn không thích</WarningFoodDisliked>
+	<FoodNotSuitable>Thức ăn không phù hợp</FoodNotSuitable>
+	<DrugNotSuitable>Thuốc không phù hợp</DrugNotSuitable>
+	<AssignReading>Chỉ định đọc...</AssignReading>
+	<AssignReadNow>Đọc {0}</AssignReadNow>
+	<AssignCannotReadNow>Không thể đọc {0}</AssignCannotReadNow>
+	<ExtinguishFiresNearby>Ưu tiên dập lửa</ExtinguishFiresNearby>
+	<AlreadyAnalyzed>Đã phân tích</AlreadyAnalyzed>
+	<NoResearchBench>Thiếu bàn nghiên cứu có thể tiếp cận và chưa bị đặt trước</NoResearchBench>
+</LanguageData>

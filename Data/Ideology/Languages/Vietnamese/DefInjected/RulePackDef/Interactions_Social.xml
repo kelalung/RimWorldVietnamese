@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] không bị lay động.</li>
+</Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+<Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] không bị lay động và thể hiện sự phẫn nộ đối với nỗ lực này.</li>
+</Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+<Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] rất tức giận và bắt đầu đánh nhau!</li>
+</Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+<Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] đã bị thuyết phục và thay đổi hình thức văn hóa của [RECIPIENT_possessive].</li>
+</Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+</LanguageData>

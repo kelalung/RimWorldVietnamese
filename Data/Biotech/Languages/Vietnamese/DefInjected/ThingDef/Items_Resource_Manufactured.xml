@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_Shell_Tox.label>Đạn khí độc</Bullet_Shell_Tox.label>
+<DeathrestCapacitySerum.label>Serum mở rộng khả năng ngủ chết</DeathrestCapacitySerum.label>
+<DeathrestCapacitySerum.description>Một serum có thể tăng vĩnh viễn số lượng thiết bị ngủ chết mà một người thuộc địa có thể kết nối trong thời gian ngủ chết.\n\nSerum này chỉ có thể được tiêu thụ bởi những người đã có gen ngủ chết.</DeathrestCapacitySerum.description>
+<DeathrestCapacitySerum.comps.CompUsable.useLabel>Tiêu thụ {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+<NanostructuringChip.label>Chip cấu trúc nano</NanostructuringChip.label>
+<NanostructuringChip.description>Một bộ phận cơ khí vi mô dùng để sản xuất một số thiết bị và cơ giới tiên tiến.\n\nKỹ sư có thể phân tích chip này để mở khóa các dự án nghiên cứu công nghệ cơ giới cấp cao hơn.</NanostructuringChip.description>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip cấu trúc nano.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách phân tích chip cấu trúc nano, {PAWN_labelShort} đã thu được kiến thức cần thiết để nghiên cứu {RESEARCH}.\n\nNgười nghiên cứu của bạn bây giờ có thể sử dụng bàn nghiên cứu để bắt đầu học cách áp dụng công nghệ này thực tế.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Phân tích chip hoàn thành: Mở khóa {RESEARCH}</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người phân tích</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người thuộc địa.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
+<NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip cấu trúc nano</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
+<PowerfocusChip.label>Chip tập trung năng lượng</PowerfocusChip.label>
+<PowerfocusChip.description>Một bộ phận cơ khí vi mô dùng để sản xuất một số thiết bị và cơ giới tiên tiến.\n\nKỹ sư có thể phân tích chip này để mở khóa các dự án nghiên cứu công nghệ cơ giới cấp cao hơn.</PowerfocusChip.description>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tập trung năng lượng.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách phân tích chip tập trung năng lượng, {PAWN_labelShort} đã thu được kiến thức cần thiết để nghiên cứu {RESEARCH}.\n\nNgười nghiên cứu của bạn bây giờ có thể sử dụng bàn nghiên cứu để bắt đầu học cách áp dụng công nghệ này thực tế.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Phân tích chip hoàn thành: Mở khóa {RESEARCH}</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người phân tích</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người thuộc địa.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
+<PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tập trung năng lượng</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
+<Shell_Toxic.label>Đạn khí độc</Shell_Toxic.label>
+<Shell_Toxic.description>Đạn chứa hóa chất. Hóa chất này, khi được trộn lẫn, có thể tạo ra khí độc chết người. Khi đạn được bắn ra, nó sẽ cắm vào mặt đất trong một thời gian và liên tục phát tán khí độc.\n\nKhí độc sẽ làm bỏng mắt và phổi của sinh vật, làm giảm khả năng nhìn và hô hấp tạm thời. Việc tiếp xúc kéo dài với khí độc cũng có thể gây ngộ độc.</Shell_Toxic.description>
+<Shell_Toxic_Releasing.label>Đạn khí độc</Shell_Toxic_Releasing.label>
+<Shell_Toxic_Releasing_Water.label>Đạn khí độc</Shell_Toxic_Releasing_Water.label>
+<SignalChip.label>Chip tín hiệu đồng bộ</SignalChip.label>
+<SignalChip.description>Một bộ phận cơ khí vi mô dùng để sản xuất một số thiết bị và cơ giới tiên tiến.\n\nKỹ sư có thể phân tích chip này để mở khóa các dự án nghiên cứu công nghệ cơ giới cấp cao hơn.</SignalChip.description>
+<SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tín hiệu đồng bộ.</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+<SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách phân tích chip tín hiệu đồng bộ, {PAWN_labelShort} đã thu được kiến thức cần thiết để nghiên cứu {RESEARCH}.\n\nNgười nghiên cứu của bạn bây giờ có thể sử dụng bàn nghiên cứu để bắt đầu học cách áp dụng công nghệ này thực tế.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+<SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Phân tích chip hoàn thành: Mở khóa {RESEARCH}</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người phân tích</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người thuộc địa.</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tín hiệu đồng bộ</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
+<SubcoreBasic.label>Lõi phụ (Cơ bản)</SubcoreBasic.label>
+<SubcoreBasic.description>Lõi phụ cơ bản của cơ giới, đồng thời cũng là một đơn vị nền vi mô có khả năng tâm linh, mang theo một nhân cách phụ chậm chạp. Vì là lõi phụ cơ bản nhất, nó chỉ có thể điều khiển những cơ giới đơn giản nhất.\n\nGiống như tất cả các lõi phụ của cơ giới, nó mang theo một nhân cách phụ có nguồn lực tâm linh, mặc dù nguồn lực này khá yếu.</SubcoreBasic.description>
+<SubcoreHigh.label>Lõi phụ (Cao cấp)</SubcoreHigh.label>
+<SubcoreHigh.description>Lõi phụ cao cấp của cơ giới, đồng thời cũng là một đơn vị nền có khả năng tâm linh, mang theo một nhân cách phụ tinh vi. Lõi phụ này đủ mạnh để điều khiển các cơ giới siêu nặng phức tạp.\n\nVề độ tinh vi, nhân cách phụ bên trong lõi này tương tự như một con người sống, mặc dù cơ chế hoạt động của chúng hoàn toàn khác nhau. Giống như bất kỳ ý thức phức tạp nào, nó cũng có nguồn lực tâm linh đáng kể.\n\nLõi phụ này chỉ có thể được tạo ra thông qua việc sao chép mô hình não từ một ý thức tương đương. Nếu không có cơ sở hạ tầng lớn, cách duy nhất để có được lõi này là quét phá hủy não của một người sống, điều này sẽ giết chết người đó.</SubcoreHigh.description>
+<SubcoreRegular.label>Lõi phụ (Tiêu chuẩn)</SubcoreRegular.label>
+<SubcoreRegular.description>Lõi phụ tiêu chuẩn của cơ giới, đồng thời cũng là một đơn vị nền có khả năng tâm linh, mang theo một nhân cách phụ có khả năng tư duy. Lõi phụ này đủ mạnh để điều khiển các cơ giới tiêu chuẩn.\n\nCơ giới không chỉ đơn thuần là robot, và lõi này cũng không chỉ là bộ xử lý silicon. Khả năng tư duy và nguồn lực tâm linh của nó khiến nó thích ứng tốt hơn bất kỳ hệ thống silicon nào. Tuy nhiên, điều này cũng có nghĩa là nó chỉ có thể được tạo ra thông qua việc sao chép mô hình não từ một ý thức khác.</SubcoreRegular.description>
+<Wastepack.label>Rác thải độc hại</Wastepack.label>
+<Wastepack.description>Một túi rác thải độc hại được đóng gói kín, bên trong chứa các chất độc hại sẽ từ từ rò rỉ trong môi trường không lạnh. Nếu bao bì bị phân hủy hoặc hư hỏng vì lý do nào đó, chất độc bên trong sẽ rò rỉ và ô nhiễm môi trường xung quanh.\n\nNếu rác thải độc hại bị phá hủy do đốt cháy hoặc mất mát khác, nó sẽ giải phóng khí độc và ô nhiễm môi trường xung quanh.</Wastepack.description>
+</LanguageData>

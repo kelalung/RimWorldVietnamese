@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <LetterLabelLostRoyalTitle>Đã mất danh hiệu {TITLE}: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+<LetterLabelGainedRoyalTitle>Đã nhận danh hiệu {TITLE}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+<PermitPointsAwarded>Điểm giấy phép được thưởng: {0}.</PermitPointsAwarded>
+<LetterRoyalTitleApparelQualityRequirement>Danh hiệu này yêu cầu trang phục có chất lượng {1} hoặc cao hơn.</LetterRoyalTitleApparelQualityRequirement>
+<LetterRoyalTitleApparelRequirement>Danh hiệu này yêu cầu trang phục phù hợp với danh hiệu của {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
+<LetterRoyalTitleExpectation>{PAWN_possessive} mong đợi không bao giờ thấp hơn “{1}”.</LetterRoyalTitleExpectation>
+<LetterRoyalTitleConceitedTrait>{PAWN_labelShort} sẽ yêu cầu tất cả các đặc quyền của danh hiệu này (do {1}). {PAWN_pronoun} có thể từ chối thực hiện một số công việc, không ăn thức ăn kém chất lượng và sẽ ban hành các sắc lệnh.</LetterRoyalTitleConceitedTrait>
+<LetterGainedRoyalTitle>{PAWN_labelShort} đã nhận được danh hiệu {TITLE} từ {FACTION_name}!</LetterGainedRoyalTitle>
+<LetterLostRoyalTitle>{PAWN_labelShort} không còn giữ danh hiệu {TITLE} của {FACTION_name}.</LetterLostRoyalTitle>
+<LetterLabelRewardsForNewTitle>Phần thưởng</LetterLabelRewardsForNewTitle>
+<LetterRewardsForNewTitle>Để kỷ niệm việc thăng chức danh hiệu {TITLE} của {PAWN_labelShort}, {FACTION_name} đã cấp cho {PAWN_objective} những phần thưởng sau:</LetterRewardsForNewTitle>
+<LetterRewardsForNewTitleDeliveryBase>Phần thưởng đã được gửi đến thuộc địa của bạn qua kho vận chuyển.</LetterRewardsForNewTitleDeliveryBase>
+<LetterRewardsForNewTitleDeliveryDirect>Phần thưởng đã được trực tiếp đưa vào kho của {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
+<LetterRoyalTitlePermits>{PAWN_pronoun} đã nhận được các quyền sau:</LetterRoyalTitlePermits>
+<LetterRoyalTitleLostPermits>{PAWN_pronoun} đã mất các quyền sau:</LetterRoyalTitleLostPermits>
+<LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} không muốn thực hiện các loại công việc sau:\n{1}</LetterRoyalTitleDisabledWorkTag>
+<LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} hiện có thể tham gia các hoạt động giải trí:</LetterRoyalTitleEnabledJoyKind>
+<LetterRoyalTitleDisabledJoyKind>Các hoạt động giải trí bị cấm đối với danh hiệu này:</LetterRoyalTitleDisabledJoyKind>
+<LetterRoyalTitleAllowedImplants>{PAWN_pronoun} được phép sử dụng các cấy ghép sau: {1}</LetterRoyalTitleAllowedImplants>
+<LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} không còn được phép sử dụng các cấy ghép sau: {1}</LetterRoyalTitleImplantsMustBeRemoved>
+<LetterRoyalTitleImplantGracePeriod>Cần phải rút cấy ghép trong vòng năm ngày để tránh hậu quả ngoại giao.</LetterRoyalTitleImplantGracePeriod>
+<LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} hiện có thể phát biểu. Nếu mọi thứ diễn ra suôn sẻ, khán giả sẽ cảm thấy phấn khích và nhận được sự tôn trọng từ khán giả. Nếu không, bài phát biểu sẽ gây tổn thương xã hội. Kết quả phụ thuộc vào khả năng xã hội của {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
+<LetterRoyalTitleThroneroomRequirements>Danh hiệu này yêu cầu một phòng tiếp kiến đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleThroneroomRequirements>
+<LetterRoyalTitleBedroomRequirements>Danh hiệu này yêu cầu một phòng ngủ đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleBedroomRequirements>
+<LetterRoyalTitleFoodRequirements>{PAWN_pronoun} chỉ ăn các loại thực phẩm sau: {1}</LetterRoyalTitleFoodRequirements>
+<LetterRoyalTitleRewardGranted>{PAWN_pronoun} sẽ nhận các vật phẩm sau qua kho vận chuyển: {1}</LetterRoyalTitleRewardGranted>
+<PeaceTalksRoyalFavorGain>{PAWN_labelShort} đã nhận được {1}{FACTION_royalFavorLabel} từ {FACTION_name}.</PeaceTalksRoyalFavorGain>
+<LetterRoyalTitleHeir>Nếu {PAWN_pronoun} qua đời, danh hiệu này sẽ được {HEIR_nameFull} kế thừa.</LetterRoyalTitleHeir>
+<LetterRoyalTitleNoHeir>Nếu {PAWN_pronoun} qua đời, không có ai có thể kế thừa danh hiệu này.</LetterRoyalTitleNoHeir>
+<LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} là thành viên của {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
+<LetterRoyalTitleChangingHeir>Bạn có thể liên hệ với {FACTION_name} qua trạm liên lạc để chỉ định người thừa kế mới.</LetterRoyalTitleChangingHeir>
+<LetterTitleHeirLostLabel>Người thừa kế đã chết</LetterTitleHeirLostLabel>
+<LetterTitleHeirLost>{HEIR_nameFull} đã chết, {HOLDER_labelShort} không còn giữ danh hiệu từ {FACTION_name}. Bạn có thể liên hệ với {FACTION_name} qua trạm liên lạc để chỉ định người thừa kế mới.</LetterTitleHeirLost>
+<LetterRoyalTitleCantBeInherited>Danh hiệu {TITLE} không thể được kế thừa.</LetterRoyalTitleCantBeInherited>
+<LetterTitleInheritance>Thừa kế danh hiệu</LetterTitleInheritance>
+<LetterTitleInheritance_Base>Khi {PAWN_nameFull} qua đời, danh hiệu của {PAWN_possessive} sẽ được truyền cho người thừa kế của {PAWN_possessive} theo luật của phe cấp danh hiệu.</LetterTitleInheritance_Base>
+<LetterTitleInheritance_AsReplacement>Theo luật thừa kế của {FACTION_name}, danh hiệu {PAWN_possessive}{TITLE} sẽ được {HEIR_nameFull} kế thừa. Sau khi hoàn thành nghi lễ trao giải, nó sẽ thay thế danh hiệu {HEIR_possessive}{REPLACEDTITLE}.</LetterTitleInheritance_AsReplacement>
+<LetterTitleInheritance_NoEffectHigherTitle>Theo luật thừa kế của {FACTION_name}, danh hiệu {PAWN_possessive}{TITLE} sẽ được {HEIR_nameFull} kế thừa. Tuy nhiên, {HEIR_pronoun} đã sở hữu danh hiệu {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
+<LetterTitleInheritance_WasInherited>Theo luật thừa kế của {FACTION_name}, danh hiệu {PAWN_possessive}{TITLE} sẽ được {HEIR_nameFull} kế thừa sau khi hoàn thành nghi lễ trao giải.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>Danh hiệu {PAWN_possessive}{TITLE} không được kế thừa bởi ai cả, vì {PAWN_pronoun} chưa chỉ định người thừa kế cho danh hiệu này.</LetterTitleInheritance_NoHeirFound>
+<LetterLawViolationDetectedLabel>Người vi phạm: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+<LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} phát hiện {PAWN_labelShort} đã sử dụng trái phép: {CULPRIT} (xác suất phát hiện {CHANCE})。\n\nTheo luật của {FACTION_name}, chỉ những người sở hữu danh hiệu {TITLE} mới được phép sử dụng {CULPRIT}.\n\nNhư một hình phạt, mối quan hệ của bạn với phe giảm {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
+<WildDecree>Quyết định tàn nhẫn</WildDecree>
+<LetterLabelRandomDecree>{0_nameIndef} đã ban hành một sắc lệnh</LetterLabelRandomDecree>
+<LetterDecreeMentalBreak>Để giải tỏa áp lực của {0_possessive}, {0_nameIndef} đã ban hành một sắc lệnh hoàng gia điên rồ, yêu cầu thực hiện ngay lập tức.\n\nNếu không thực hiện kịp thời, {0_nameIndef} sẽ trở nên rất không vui.</LetterDecreeMentalBreak>
+<LetterRandomDecree>{0_nameIndef} đã ban hành một sắc lệnh để xác nhận danh hiệu {0_bestRoyalTitleIndef} của {0_possessive}, yêu cầu thực hiện ngay lập tức.\n\nNếu không thực hiện kịp thời, {0_nameIndef} sẽ trở nên rất không vui.</LetterRandomDecree>
+<LetterDecree_Quest>Sắc lệnh này là “{0}”.</LetterDecree_Quest>
+<LentColonistDied>{PAWN_nameDef} đã được cho vay tới {FACTION}. Họ sẽ trả lại thi thể của {PAWN_nameDef} trong thời gian tới.</LentColonistDied>
+<LetterLabelPsylinkLevelGained>Liên kết tâm linh</LetterLabelPsylinkLevelGained>
+<LetterPsylinkLevelGained_First>{USER_labelShort} đã đạt được cấp độ tâm linh đầu tiên! {USER_pronoun} hiện là một người có khả năng tâm linh.\n\nĐể sử dụng khả năng tâm linh, {USER_labelShort} phải nâng cao sức mạnh tinh thần thông qua thiền. Nếu có thể tập trung vào một đối tượng cụ thể trong khi thiền, hiệu quả thiền sẽ được cải thiện.\n\nMọi người có thể thiền gần các vật thể khác nhau, tùy thuộc vào tâm linh của họ. Tâm linh của người thiền phụ thuộc vào câu chuyện nền, đặc điểm và danh hiệu của họ. Ví dụ:\n\n- Những người có danh hiệu danh dự thiền trên ngai vàng của họ.\n- Những người lớn lên trong bộ lạc thiền bên cây thần hoặc nơi thiêng liêng tự nhiên.\n- Những người khổ hạnh thiền trước bức tường trống rỗng.\n- Những người có khả năng tâm linh bệnh tật thiền bên mồ mả, nơi chôn cất người yêu sẽ lý tưởng hơn.\n\nĐể xem tâm linh của một người, bạn có thể chọn họ và nhấp vào nút "i" để mở cửa sổ thông tin chi tiết của họ.</LetterPsylinkLevelGained_First>
+<LetterPsylinkLevelGained_NotFirst>{USER_labelShort} đã đạt được cấp độ tâm linh cao hơn! {USER_pronoun} hiện có thể sử dụng khả năng tâm linh cấp cao hơn, nhưng {USER_pronoun} cần học cách sử dụng trước.</LetterPsylinkLevelGained_NotFirst>
+<LetterPsylinkLevelGained_PsycastLearned>Sau khi đạt được cấp độ tâm linh mới, {USER_labelShort} đã tự động lĩnh hội khả năng tâm linh này: {2}.</LetterPsylinkLevelGained_PsycastLearned>
+<LetterPsychicInspiration>Cảm ơn sự gợi ý tâm linh từ {CASTER_nameIndef}, {PAWN_nameIndef} đã có một ý tưởng!</LetterPsychicInspiration>
+<LetterLabelBestowingCeremonyExpired>Nghi lễ trao giải đã kết thúc</LetterLabelBestowingCeremonyExpired>
+<LetterTextBestowingCeremonyExpired>{TARGET_definite} không xuất hiện tại nghi lễ trao giải. Nghi lễ đã bị hủy bỏ.</LetterTextBestowingCeremonyExpired>
+<LetterLabelBestowingCeremonyTitleUpdated>Danh hiệu của {TARGET_definite} đã thay đổi</LetterLabelBestowingCeremonyTitleUpdated>
+<LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} đã nhận được danh hiệu mới sau khi sắp xếp nghi lễ trao giải. Để phù hợp với việc trao danh hiệu mới, một nghi lễ khác sẽ được sắp xếp sớm.\n\nNghi lễ mới sẽ bao gồm phần thưởng thiết bị tâm linh cho tất cả các danh hiệu chưa được trao.</LetterTextBestowingCeremonyTitleUpdated>
+<LetterPartBestowingExtraHonor>Vì {PAWN_labelShort} đã tập hợp được {3} khán giả, {FACTION_name} đã trao cho {PAWN_pronoun} {1}x điểm danh dự để thể hiện sự tôn trọng.</LetterPartBestowingExtraHonor>
+<LetterPartNoExtraHonor>Do không có nhiều khán giả, {PAWN_labelShort} không nhận được danh dự thêm.</LetterPartNoExtraHonor>
+<LetterPartMoodBonus>Tất cả khán giả của nghi lễ đều nhận được phần thưởng tâm trạng.</LetterPartMoodBonus>
+<LetterTextHonorAward_BanditCamp>Ai nên nhận phần thưởng {0} vì đã đánh bại trại cướp?</LetterTextHonorAward_BanditCamp>
+<LetterLabelShuttleCrashed>Máy bay vũ trụ đã rơi</LetterLabelShuttleCrashed>
+<LetterTextShuttleCrashed>Một máy bay vũ trụ đã rơi xuống gần đây.</LetterTextShuttleCrashed>
+<LetterLabelWandererJoinsAbasia>Kho vận chuyển đã rơi: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+<LetterTextWandererJoinsAbasia>Một người tên là {0_nameDef}, một {0_title}, đã rơi xuống gần đây trong kho vận chuyển.\n\n{0_nameDef} mắc phải {1_label} và sẽ không thể đi lại.\n\n{0_pronoun} sẽ hồi phục tự nhiên sau nhiều ngày. Cũng có khả năng hồi phục nhanh chóng. {1_label} cũng có thể được chữa trị bằng một ca phẫu thuật đặc biệt, cần rất nhiều thuốc quý.\n\n{0_pronoun} sẽ không chủ động rời đi và sẵn sàng đóng góp sau khi hồi phục. Nếu bạn không muốn nhận {0_nameDef}, bạn có thể lưu đày {0_objective}, bán {0_objective} làm nô lệ, hoặc để {0_objective} chết. Tuy nhiên, các thuộc địa khác của bạn có thể thấy điều này không thoải mái.</LetterTextWandererJoinsAbasia>
+</LanguageData>

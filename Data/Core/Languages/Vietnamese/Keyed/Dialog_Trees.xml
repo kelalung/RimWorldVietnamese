@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<FactionGreetingHostile>{0} tức giận mắng chửi vào micro vài câu rồi ngắt kết nối.</FactionGreetingHostile>
+	<FactionGreetingHostileAppreciative>{0} yêu cầu bạn thể hiện thiện chí, chẳng hạn như gửi quà đến một khu định cư của {0_possessive} hoặc thả tự do cho tù nhân của {0_possessive} phe phái. Trước khi làm điều đó, {0_pronoun} không muốn bàn luận về bất kỳ vấn đề nào.\n\n{0_pronoun} đã mắng chửi vài câu rồi ngắt kết nối.</FactionGreetingHostileAppreciative>
+	<FactionGreetingWary>{0} cẩn thận chào hỏi {NEGOTIATOR_labelShort} và hỏi về ý định của bạn.</FactionGreetingWary>
+	<FactionGreetingWarm>{0} thân thiện chào hỏi {NEGOTIATOR_labelShort} và hỏi {LEADER_pronoun} có thể giúp gì cho bạn.</FactionGreetingWarm>
+	<WorkTypeDisablesOption>Không thể làm {0}</WorkTypeDisablesOption>
+	<Disconnect>Ngắt kết nối</Disconnect>
+	<OfferGift>Tặng quà</OfferGift>
+	<MustBeAlly>Phải là đồng minh</MustBeAlly>
+	<NeedGoodwill>Cần {0} thiện cảm</NeedGoodwill>
+	<NeedSilverLaunchable>Cần có {0} bạc gần tín hiệu giao dịch quỹ đạo</NeedSilverLaunchable>
+	<NotEnoughSilver>Bạc không đủ</NotEnoughSilver>
+	<SilverForGoodwill>Mỗi {0} bạc tăng {1} thiện cảm</SilverForGoodwill>
+	<SilverGiftSent>{0} cảm ơn bạn.\n\n(Thiện cảm tăng {1}).</SilverGiftSent>
+	<RequestTrader>Yêu cầu cử đoàn thương nhân (tốn: {0} thiện cảm)</RequestTrader>
+	<ChooseTraderKind>{0} hỏi bạn cần loại đoàn thương nhân nào.</ChooseTraderKind>
+	<TraderSent>{0} đồng ý cử một đoàn thương nhân đến bạn, họ sẽ đến trong vài ngày tới.</TraderSent>
+	<WaitTime>Chờ {0}</WaitTime>
+	<RequestAICoreInformation>Yêu cầu thông tin về vị trí {0} (tốn: {1} bạc)</RequestAICoreInformation>
+	<RequestAICoreInformationResult>{0} đã gửi thông tin bạn yêu cầu và chúc bạn may mắn.</RequestAICoreInformationResult>
+	<NoKnownAICore>Không còn vị trí nào được biết đến</NoKnownAICore>
+	<RequestMilitaryAid>Yêu cầu hỗ trợ quân sự ngay lập tức (tốn: {0} thiện cảm)</RequestMilitaryAid>
+	<MilitaryAidConfirmMutualEnemy>{0} sẽ không giúp bạn tấn công các phe phái không đối đầu với họ. Điều này bao gồm một số thành viên {1} hiện đang đe dọa bạn. Bạn có vẫn muốn gọi hỗ trợ không?</MilitaryAidConfirmMutualEnemy>
+	<CallConfirm>Đúng, vẫn muốn gọi họ.</CallConfirm>
+	<CallCancel>Không, thôi đi.</CallCancel>
+	<MilitaryAidSent>{0} đồng ý cử lính đến giúp bạn.</MilitaryAidSent>
+	<CantSendMilitaryAidInTime>{0} xin lỗi bạn và nói rằng họ không thể đến kịp thời.\n\n(Trình độ công nghệ của phe này quá thấp, không thể sử dụng khoang vận chuyển.)</CantSendMilitaryAidInTime>
+	<HostileVisitorsPresent>Có khách từ phe thù địch có mặt</HostileVisitorsPresent>
+</LanguageData>

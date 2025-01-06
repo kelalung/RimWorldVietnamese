@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BecameLover.label>Trở thành tình nhân</BecameLover.label>
+<BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->[PURSUER_nameDef] và [ACCEPTER_nameDef] trở thành tình nhân</li>
+    <li>image->[PURSUER_nameFull] thì thầm ngọt ngào bên tai [ACCEPTER_nameFull], [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] nắm tay [ACCEPTER_nameFull] đi lên giường, [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] và [ACCEPTER_nameFull] đang vui đùa trên giường, [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] hôn sâu [ACCEPTER_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->Giường của hai người thật khó tin là lớn</li>
+    <li>circumstance_phrase->Hai người đang mây mưa trên giường</li>
+    <li>circumstance_phrase->Cả hai đều mặc rất ít quần áo</li>
+    <li>circumstance_phrase->Cả hai đều ướt đẫm mồ hôi</li>
+    <li>desc_sentence->[PURSUER_nameDef] hạnh phúc tựa vào [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] nhìn [ACCEPTER_nameDef] đầy tình cảm.</li>
+    <li>desc_sentence->[PURSUER_nameDef] thổi hơi vào [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] và [ACCEPTER_nameDef] hòa quyện tâm hồn.</li>
+    <li>desc_sentence->[PURSUER_nameDef] và [ACCEPTER_nameDef] trở thành một thể thống nhất.</li>
+    <li>desc_sentence->[PURSUER_nameDef] âu yếm [ACCEPTER_nameDef] một cách tự do.</li>
+</BecameLover.rulePack.rulesStrings>
+<BondedWithAnimal.label>Phát triển mối liên kết</BondedWithAnimal.label>
+<BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->Mối liên kết giữa [HUMAN_nameDef] và [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] và [ANIMAL_nameFull] tạo ra mối liên kết, [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] xem [ANIMAL_nameFull] như thú cưng của mình, [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] nhận ra [ANIMAL_nameFull] đã trở thành gia đình của mình, [circumstance_group]</li>
+    <li>circumstance_phrase->Các động vật khác đứng bên cạnh quan sát</li>
+    <li>circumstance_phrase->Nhìn vào đôi mắt của [ANIMAL_nameDef]</li>
+    <li>circumstance_phrase->Cảm thấy hài lòng</li>
+    <li>desc_sentence->[ANIMAL_nameDef] hạnh phúc tựa vào [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] trông như đang chìm đắm trong tình yêu.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] đứng thẳng, trông rất cao quý.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] phản ứng tích cực với điều này.</li>
+</BondedWithAnimal.rulePack.rulesStrings>
+<Breakup.label>Đổ vỡ</Breakup.label>
+<Breakup.rulePack.rulesStrings>
+    <li>tale_noun->[DUMPER_nameDef] và [REJECTED_nameDef] tình cảm đổ vỡ</li>
+    <li>image->[DUMPER_nameFull] và [REJECTED_nameFull] ngồi đối diện, cuộc trò chuyện không vui vẻ, [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] đứng xa [REJECTED_nameFull], [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] đẩy [REJECTED_nameFull] xuống giường, [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] từ chối vòng tay của [REJECTED_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->Đó là một khoảnh khắc buồn bã</li>
+    <li>circumstance_phrase->Người khác ngượng ngùng quay đi</li>
+    <li>circumstance_phrase->Người khác đứng bên cạnh quan sát</li>
+    <li>desc_sentence->[REJECTED_nameDef] không kìm được mà khóc nức nở.</li>
+    <li>desc_sentence->[REJECTED_nameDef] vừa cười vừa khóc.</li>
+    <li>desc_sentence->[REJECTED_nameDef] đứng sững sờ, sốc.</li>
+    <li>desc_sentence->[DUMPER_nameDef] chính thức chia tay với [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] run rẩy ngồi bệt xuống đất.</li>
+    <li>desc_sentence->[REJECTED_nameDef] chỉ tay về phía [DUMPER_nameDef], tức giận không nói nên lời.</li>
+</Breakup.rulePack.rulesStrings>
+<Marriage.label>Kết hôn</Marriage.label>
+<Marriage.rulePack.rulesStrings>
+    <li>tale_noun->[SPOUSE1_nameDef] và [SPOUSE2_nameDef] kết hôn</li>
+    <li>image->[SPOUSE1_nameFull] và [SPOUSE2_nameFull] đã kết hôn, [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] nói lời thề hôn nhân với [SPOUSE2_nameFull], [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] và [SPOUSE2_nameFull] bước lên thảm đỏ, [circumstance_group]</li>
+    <li>image->Trong lễ cưới, [SPOUSE1_nameFull] nắm tay [SPOUSE2_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->Lễ cưới rất trang trọng</li>
+    <li>circumstance_phrase->Hai người cười rất hạnh phúc</li>
+    <li>circumstance_phrase->Người khác đứng bên cạnh nghiêm trang quan sát</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] và [SPOUSE2_nameDef] hạnh phúc tựa vào nhau.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] nhìn [SPOUSE2_nameDef] đầy tình cảm.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] thổi hơi vào [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] và [SPOUSE2_nameDef] hòa quyện tâm hồn.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] và [SPOUSE2_nameDef] tâm đầu ý hợp.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] âu yếm [SPOUSE2_nameDef] một cách tự do.</li>
+</Marriage.rulePack.rulesStrings>
+</LanguageData>

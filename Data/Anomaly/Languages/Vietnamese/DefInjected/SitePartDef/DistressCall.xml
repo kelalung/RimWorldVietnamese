@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DistressCall_Fleshbeasts.label>Tín hiệu cầu cứu từ {FACTION_name}</DistressCall_Fleshbeasts.label>
+<DistressCall_Fleshbeasts.description>Bạn nhận được một tín hiệu cầu cứu từ trại này. Mặc dù chưa rõ mối đe dọa là gì, nhưng họ sẵn sàng đưa ra mọi thứ trong trại như một phần thưởng cho sự giúp đỡ.</DistressCall_Fleshbeasts.description>
+<DistressCall_Fleshbeasts.approachingReportString>Điều tra {0}</DistressCall_Fleshbeasts.approachingReportString>
+<DistressCall_Fleshbeasts.approachOrderString>Điều tra {0}</DistressCall_Fleshbeasts.approachOrderString>
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[ofThing][empire]</li>
+    <li>r_name(p=2)-&gt;[ofThing][empire]</li>
+    <li>r_name-&gt;Mất mát[empire]</li>
+    <li>r_name-&gt;Lưu vong[empire]</li>
+    <li>r_name-&gt;Đổ vỡ[empire]</li>
+    <li>r_name-&gt;Đổ vỡ[empire]</li>
+    <li>r_name-&gt;Sa ngã[empire]</li>
+    <li>r_name-&gt;[Color] màu[empire]</li>
+    <li>empire(p=4)-&gt;Đế chế</li>
+    <li>empire-&gt;Liên hiệp vương quốc</li>
+    <li>empire-&gt;Đại đế chế</li>
+    <li>empire-&gt;Đế chế</li>
+    <li>empire-&gt;Đế chế</li>
+    <li>ofThing(p=4)-&gt;[WordImperial]</li>
+    <li>ofThing-&gt;Mặt trời</li>
+    <li>ofThing-&gt;Mặt trăng</li>
+    <li>ofThing-&gt;Vũ trụ</li>
+    <li>ofThing-&gt;Thần thánh</li>
+    <li>ofThing-&gt;Hoàn hảo</li>
+    <li>ofThing-&gt;Vĩnh cửu</li>
+    <li>ofThing-&gt;Linh hồn</li>
+</NamerFactionEmpire.rulePack.rulesStrings>
+<NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name(p=3)-&gt;[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)-&gt;[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)-&gt;[WordImperial] [WordImperial]</li>
+</NamerPersonSophian.rulePack.rulesStrings>
+<NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)-&gt;[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)-&gt;[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)-&gt;[WordImperial] [WordImperial]</li>
+</NamerPersonSophianFemale.rulePack.rulesStrings>
+<NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name-&gt;[townname_wordgen]</li>
+    <li>r_name-&gt;[townname_fixed]</li>
+    <li>townname_wordgen-&gt;[WordImperial]</li>
+    <li>townname_wordgen-&gt;[WordImperial][townend]</li>
+    <li>townend(p=3)-&gt;Thành</li>
+    <li>townend(p=3)-&gt;Thành</li>
+    <li>townend(p=3)-&gt;Pháo đài</li>
+    <li>townend-&gt;Thành phố nước</li>
+    <li>townend-&gt;Cung điện</li>
+    <li>townend-&gt;Lâu đài</li>
+    <li>townend-&gt;Lâu đài</li>
+    <li>townend-&gt;Lâu đài</li>
+    <li>townend-&gt;Cung điện</li>
+    <li>townend-&gt;Thành phố hoa</li>
+    <li>townend-&gt;Lâu đài</li>
+    <li>townend-&gt;Lâu đài</li>
+    <li>townend-&gt;Thành phố núi</li>
+    <li>townend-&gt;Lâu đài vườn</li>
+    <li>townend-&gt;Cung điện</li>
+    <li>townend-&gt;Pháo đài</li>
+    <li>townend-&gt;Pháo đài</li>
+    <li>townend-&gt;Pháo đài</li>
+    <li>townend-&gt;Pháo đài cổ</li>
+    <li>townend-&gt;Pháo đài cổ</li>
+</NamerSettlementEmpire.rulePack.rulesStrings>
+</LanguageData>

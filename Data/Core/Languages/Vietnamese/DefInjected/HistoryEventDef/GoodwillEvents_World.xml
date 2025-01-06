@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttackedCaravan.label>Đoàn xe bị tấn công</AttackedCaravan.label>
+	<AttackedSettlement.label>Định cư điểm bị tấn công</AttackedSettlement.label>
+	<DestroyedEnemyBase.label>Đã phá hủy định cư của kẻ thù</DestroyedEnemyBase.label>
+	<SettlementProximity.label>Định cư quá gần</SettlementProximity.label>
+</LanguageData>

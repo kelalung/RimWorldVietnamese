@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<KnowledgeFromStudy>Điều tra có thể thu được kiến thức</KnowledgeFromStudy>
+	<KnowledgeFromStudyDesc>Điều tra loại và số lượng kiến thức dị thường có thể thu được từ thực thể này. Các thực thể phức tạp có thể mở khóa các dự án nghiên cứu dị thường cao cấp hơn.</KnowledgeFromStudyDesc>
+	<Stat_Knowledge>{0} {1}</Stat_Knowledge>
+	<StudyFrequency>Khoảng thời gian điều tra</StudyFrequency>
+	<StudyFrequencyDesc>Khoảng thời gian thực thể này vào trạng thái có thể điều tra.</StudyFrequencyDesc>
+	<Stat_Hediff_Regeneration_Name>Hồi phục</Stat_Hediff_Regeneration_Name>
+	<Stat_Hediff_Regeneration_Desc>Hồi phục một lượng độ bền nhất định mỗi ngày.</Stat_Hediff_Regeneration_Desc>
+	<Stat_Hediff_Regeneration_Stat>{0} điểm độ bền/ngày</Stat_Hediff_Regeneration_Stat>
+	<Stat_ContainmentStrength_AverageLighting>Độ sáng trung bình</Stat_ContainmentStrength_AverageLighting>
+	<Stat_ContainmentStrength_AverageWallHp>Độ bền tường trung bình</Stat_ContainmentStrength_AverageWallHp>
+	<Stat_ContainmentStrength_AverageDoorHp>Độ bền cửa trung bình</Stat_ContainmentStrength_AverageDoorHp>
+	<Stat_ContainmentStrength_OtherHoldingPlatforms>Nhiều ({0}) nền tảng giam giữ</Stat_ContainmentStrength_OtherHoldingPlatforms>
+	<Stat_ContainmentStrength_MapwideOffset>Độ lệch trên bản đồ</Stat_ContainmentStrength_MapwideOffset>
+	<Stat_ContainmentStrength_DoorForcedOpen>Cửa đang mở</Stat_ContainmentStrength_DoorForcedOpen>
+	<Stat_ContainmentStrength_NotFullyRoofed>Chưa hoàn toàn có mái</Stat_ContainmentStrength_NotFullyRoofed>
+	<Stat_ContainmentStrength_Flooring>Sàn nhà</Stat_ContainmentStrength_Flooring>
+	<Stat_ContainmentStrength_Platform>Công trình</Stat_ContainmentStrength_Platform>
+	<StatsReport_BioferriteGeneration>Sản xuất sắt sống</StatsReport_BioferriteGeneration>
+	<StatsReport_BioferriteGeneration_Desc>Số lượng sắt sống mà thực thể này sản xuất mỗi ngày khi kết nối với máy thu thập sắt sống.</StatsReport_BioferriteGeneration_Desc>
+	<StatsReport_BioferriteDensityMultiplier>Hệ số sản xuất sắt sống</StatsReport_BioferriteDensityMultiplier>
+	<StatsReport_BioferriteExtractedMultiplier>Hệ số sức khỏe “đã trích xuất sắt sống”</StatsReport_BioferriteExtractedMultiplier>
+	<StatsReport_Offering>Hy sinh</StatsReport_Offering>
+	<StatsReport_Offering_Desc>Nguyên liệu cần thiết để thực hiện nghi lễ tâm linh.</StatsReport_Offering_Desc>
+	<StatsReport_RitualDuration>Thời gian nghi lễ</StatsReport_RitualDuration>
+	<StatsReport_RitualDuration_Desc>Thời gian cần thiết để thực hiện nghi lễ.</StatsReport_RitualDuration_Desc>
+	<StatsReport_RitualCooldown>Thời gian hồi chiêu</StatsReport_RitualCooldown>
+	<StatsReport_RitualCooldown_Desc>Sau khi hoàn thành một nghi lễ, môi trường xung quanh sẽ xuất hiện hiện tượng rối loạn năng lượng tâm linh trong một khoảng thời gian ngắn. Trong thời gian này, không thể thực hiện nghi lễ lần nữa.</StatsReport_RitualCooldown_Desc>
+	<StatsReport_ContainmentStrengthOffset>Độ lệch khả năng giam giữ</StatsReport_ContainmentStrengthOffset>
+	<StatsReport_ContainmentStrengthOffset_Desc>Giá trị này ảnh hưởng đến khả năng kiềm chế của nền tảng giam giữ đối với một thực thể. Các thực thể bị quản lý chặt chẽ sẽ khó trốn thoát hơn, và trong quá trình điều tra có thể thu được nhiều kiến thức dị thường hơn.</StatsReport_ContainmentStrengthOffset_Desc>
+	<StatsReport_SerumDuration>Thời gian hiệu lực</StatsReport_SerumDuration>
+	<StatsReport_SerumDuration_Desc>Thời gian hiệu lực của một liều huyết thanh.</StatsReport_SerumDuration_Desc>
+	<StatsReport_Occupied>Đã chiếm dụng</StatsReport_Occupied>
+	<MeditationFocusPerBuilding>Mỗi {BUILDING_label} gần đó {2} ({0}/{1})</MeditationFocusPerBuilding>
+	<MeditationFocusPerBuildingAbstract>Mỗi {BUILDING_label} gần đó {1} (tối đa {0})</MeditationFocusPerBuildingAbstract>
+</LanguageData>

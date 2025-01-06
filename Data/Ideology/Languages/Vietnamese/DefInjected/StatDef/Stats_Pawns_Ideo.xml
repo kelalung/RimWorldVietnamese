@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BiosculpterOccupantSpeed.label>Tốc độ định hình</BiosculpterOccupantSpeed.label>
+<BiosculpterOccupantSpeed.description>Hệ số tốc độ của người này khi hoàn thành chu kỳ buồng định hình sinh học.</BiosculpterOccupantSpeed.description>
+<CertaintyLossFactor.label>Hệ số giảm độ tin cậy toàn cầu</CertaintyLossFactor.label>
+<CertaintyLossFactor.description>Hệ số giảm độ tin cậy của người này khi người khác cố gắng giáo hóa họ bằng văn hóa khác.</CertaintyLossFactor.description>
+<ConversionPower.label>Năng lực giáo hóa</ConversionPower.label>
+<ConversionPower.description>Hiệu quả của người này khi giáo hóa người khác sang hình thức văn hóa của mình. Khi người này cố gắng giáo hóa người khác, giá trị này sẽ được nhân với mức độ giảm độ tin cậy của đối phương.</ConversionPower.description>
+<MeleeDodgeChanceIndoorsDarkOffset.label>Cơ hội né đòn cận chiến (môi trường tối trong nhà)</MeleeDodgeChanceIndoorsDarkOffset.label>
+<MeleeDodgeChanceIndoorsDarkOffset.description>Độ lệch né đòn cận chiến khi mục tiêu ở trong môi trường tối trong nhà.</MeleeDodgeChanceIndoorsDarkOffset.description>
+<MeleeDodgeChanceIndoorsLitOffset.label>Cơ hội né đòn cận chiến (môi trường sáng trong nhà)</MeleeDodgeChanceIndoorsLitOffset.label>
+<MeleeDodgeChanceIndoorsLitOffset.description>Độ lệch né đòn cận chiến khi mục tiêu ở trong môi trường sáng trong nhà.</MeleeDodgeChanceIndoorsLitOffset.description>
+<MeleeDodgeChanceOutdoorsDarkOffset.label>Cơ hội né đòn cận chiến (môi trường tối ngoài trời)</MeleeDodgeChanceOutdoorsDarkOffset.label>
+<MeleeDodgeChanceOutdoorsDarkOffset.description>Độ lệch né đòn cận chiến khi mục tiêu ở trong môi trường tối ngoài trời.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+<MeleeDodgeChanceOutdoorsLitOffset.label>Cơ hội né đòn cận chiến (môi trường sáng ngoài trời)</MeleeDodgeChanceOutdoorsLitOffset.label>
+<MeleeDodgeChanceOutdoorsLitOffset.description>Độ lệch né đòn cận chiến khi mục tiêu ở trong môi trường sáng ngoài trời.</MeleeDodgeChanceOutdoorsLitOffset.description>
+<MeleeHitChanceIndoorsDarkOffset.label>Cơ hội trúng cận chiến (môi trường tối trong nhà)</MeleeHitChanceIndoorsDarkOffset.label>
+<MeleeHitChanceIndoorsDarkOffset.description>Độ lệch trúng đòn cận chiến khi mục tiêu ở trong môi trường tối trong nhà.</MeleeHitChanceIndoorsDarkOffset.description>
+<MeleeHitChanceIndoorsLitOffset.label>Cơ hội trúng cận chiến (môi trường sáng trong nhà)</MeleeHitChanceIndoorsLitOffset.label>
+<MeleeHitChanceIndoorsLitOffset.description>Độ lệch trúng đòn cận chiến khi mục tiêu ở trong môi trường sáng trong nhà.</MeleeHitChanceIndoorsLitOffset.description>
+<MeleeHitChanceOutdoorsDarkOffset.label>Cơ hội trúng cận chiến (môi trường tối ngoài trời)</MeleeHitChanceOutdoorsDarkOffset.label>
+<MeleeHitChanceOutdoorsDarkOffset.description>Độ lệch trúng đòn cận chiến khi mục tiêu ở trong môi trường tối ngoài trời.</MeleeHitChanceOutdoorsDarkOffset.description>
+<MeleeHitChanceOutdoorsLitOffset.label>Cơ hội trúng cận chiến (môi trường sáng ngoài trời)</MeleeHitChanceOutdoorsLitOffset.label>
+<MeleeHitChanceOutdoorsLitOffset.description>Độ lệch trúng đòn cận chiến khi mục tiêu ở trong môi trường sáng ngoài trời.</MeleeHitChanceOutdoorsLitOffset.description>
+<ShootingAccuracyIndoorsDarkOffset.label>Độ chính xác bắn (môi trường tối trong nhà)</ShootingAccuracyIndoorsDarkOffset.label>
+<ShootingAccuracyIndoorsDarkOffset.description>Độ lệch trúng đạn khi mục tiêu ở trong môi trường tối trong nhà.</ShootingAccuracyIndoorsDarkOffset.description>
+<ShootingAccuracyIndoorsLitOffset.label>Độ chính xác bắn (môi trường sáng trong nhà)</ShootingAccuracyIndoorsLitOffset.label>
+<ShootingAccuracyIndoorsLitOffset.description>Độ lệch trúng đạn khi mục tiêu ở trong môi trường sáng trong nhà.</ShootingAccuracyIndoorsLitOffset.description>
+<ShootingAccuracyOutdoorsDarkOffset.label>Độ chính xác bắn (môi trường tối ngoài trời)</ShootingAccuracyOutdoorsDarkOffset.label>
+<ShootingAccuracyOutdoorsDarkOffset.description>Độ lệch trúng đạn khi mục tiêu ở trong môi trường tối ngoài trời.</ShootingAccuracyOutdoorsDarkOffset.description>
+<ShootingAccuracyOutdoorsLitOffset.label>Độ chính xác bắn (môi trường sáng ngoài trời)</ShootingAccuracyOutdoorsLitOffset.label>
+<ShootingAccuracyOutdoorsLitOffset.description>Độ lệch trúng đạn khi mục tiêu ở trong môi trường sáng ngoài trời.</ShootingAccuracyOutdoorsLitOffset.description>
+<SocialIdeoSpreadFrequencyFactor.label>Hệ số truyền bá văn hóa</SocialIdeoSpreadFrequencyFactor.label>
+<SocialIdeoSpreadFrequencyFactor.description>Hệ số xác suất của người này khi cố gắng giáo hóa người khác thuộc văn hóa khác.</SocialIdeoSpreadFrequencyFactor.description>
+</LanguageData>

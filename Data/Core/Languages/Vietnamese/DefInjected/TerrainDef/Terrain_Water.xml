@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Marsh.label>Đầm lầy</Marsh.label>
+	<Marsh.tools.water.label>Nước</Marsh.tools.water.label>
+	<Marsh.tools.mud.label>Bùn</Marsh.tools.mud.label>
+	<WaterDeep.label>Nước sâu</WaterDeep.label>
+	<WaterDeep.tools.water.label>Nước</WaterDeep.tools.water.label>
+	<WaterMovingChestDeep.label>Nước sâu chảy</WaterMovingChestDeep.label>
+	<WaterMovingChestDeep.tools.water.label>Nước</WaterMovingChestDeep.tools.water.label>
+	<WaterMovingShallow.label>Nước nông chảy</WaterMovingShallow.label>
+	<WaterMovingShallow.tools.water.label>Nước</WaterMovingShallow.tools.water.label>
+	<WaterOceanDeep.label>Nước biển sâu</WaterOceanDeep.label>
+	<WaterOceanDeep.tools.water.label>Nước</WaterOceanDeep.tools.water.label>
+	<WaterOceanShallow.label>Nước biển nông</WaterOceanShallow.label>
+	<WaterOceanShallow.tools.water.label>Nước</WaterOceanShallow.tools.water.label>
+	<WaterShallow.label>Nước nông</WaterShallow.label>
+	<WaterShallow.tools.water.label>Nước</WaterShallow.tools.water.label>
+</LanguageData>

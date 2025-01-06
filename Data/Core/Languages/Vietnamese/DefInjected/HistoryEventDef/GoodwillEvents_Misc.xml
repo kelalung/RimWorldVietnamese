@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AttackedBuilding.label>Công trình bị tấn công</AttackedBuilding.label>
+	<DebugGoodwill.label>Sự kiện gỡ lỗi</DebugGoodwill.label>
+	<LaborersMissedShuttle.label>Công nhân bỏ lỡ tàu con thoi</LaborersMissedShuttle.label>
+	<ReachNaturalGoodwill.label>Xu hướng thiện cảm tự nhiên</ReachNaturalGoodwill.label>
+	<RitualDone.label>Nghi lễ đã hoàn thành</RitualDone.label>
+	<ShuttleDestroyed.label>Tàu con thoi bị phá hủy</ShuttleDestroyed.label>
+	<UsedForbiddenThing.label>Sử dụng vật cấm</UsedForbiddenThing.label>
+	<UsedHarmfulAbility.label>Sử dụng khả năng có hại</UsedHarmfulAbility.label>
+</LanguageData>

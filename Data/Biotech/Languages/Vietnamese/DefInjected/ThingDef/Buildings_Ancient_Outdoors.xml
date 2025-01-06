@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AncientExostriderCannon.label>Pháo cổ xưa của quái thú hạng nặng</AncientExostriderCannon.label>
+<AncientExostriderCannon.description>Di tích của pháo năng lượng trên lưng quái thú hạng nặng cổ xưa.</AncientExostriderCannon.description>
+<AncientExostriderHead.label>Đầu quái thú hạng nặng cổ xưa</AncientExostriderHead.label>
+<AncientExostriderHead.description>Di tích của đầu quái thú hạng nặng cổ xưa. Có vẻ như nó đã bị phá hủy bởi một loại vũ khí năng lượng cao.</AncientExostriderHead.description>
+<AncientExostriderLeg.label>Chân quái thú hạng nặng cổ xưa</AncientExostriderLeg.label>
+<AncientExostriderLeg.description>Di tích của chân quái thú hạng nặng cổ xưa.</AncientExostriderLeg.description>
+<AncientExostriderRemains.label>Xác quái thú hạng nặng cổ xưa</AncientExostriderRemains.label>
+<AncientExostriderRemains.description>Xác quái thú hạng nặng cổ xưa. Từ rất lâu trước đây, một loại vũ khí năng lượng cao đã phá hủy cơ thể của nó, các bộ phận vỡ nát cũng gần như bị nung chảy thành một khối.\n\nCó vẻ như ở trung tâm của nó vẫn còn một bộ phát tín hiệu hoạt động. Nếu có thể lấy ra và giải mã, có thể sẽ nhận được một số thông tin quý giá.\n\nHệ thống vũ khí đốt của quái thú hạng nặng vẫn còn nguyên vẹn nhưng không ổn định, có thể phát nổ sau một số tổn thương nhất định.</AncientExostriderRemains.description>
+<AncientExostriderRemains.comps.CompProximityLetter.letterLabel>Cơ giới cổ xưa</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
+<AncientExostriderRemains.comps.CompProximityLetter.letterText>Khi {PAWN_nameDef} đi qua một xác quái thú hạng nặng cổ xưa, {PAWN_pronoun} phát hiện bên trong vẫn còn một bộ phát tín hiệu (*Reward) hoạt động (/Reward).\n\nNếu bạn có thể lấy ra và giải mã, có thể sẽ nhận được một số thông tin quý giá. Do các bộ phận vỡ nát của quái thú hạng nặng đã bị nung chảy thành một khối, bạn phải phá hủy nó trước khi có thể thu hồi bộ phát tín hiệu.\n\nCẩn thận—hệ thống vũ khí đốt của quái thú hạng nặng có vẻ (*Threat) không ổn định (/Threat), có thể phát nổ sau một số tổn thương nhất định.</AncientExostriderRemains.comps.CompProximityLetter.letterText>
+<AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>Có sẵn: {LEAVINGS1_label}</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
+<AncientExostriderRemains.comps.CompLeavingsLetter.letterText>Di tích phát nổ đã để lại một {LEAVINGS1_label}, bạn có thể giải mã nó trên bàn nghiên cứu.\n\nChọn một người thuộc địa, nhấp chuột phải vào {LEAVINGS1_label} để giải mã.</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
+<AncientExostriderRemains.comps.CompInspectString.inspectString>Chứa một bộ phát tín hiệu.</AncientExostriderRemains.comps.CompInspectString.inspectString>
+</LanguageData>

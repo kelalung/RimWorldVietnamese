@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Make_Kibble.label>Chế tạo thức ăn thô cho động vật</Make_Kibble.label>
+	<Make_Kibble.description>Chế tạo thức ăn thô cho động vật bằng thịt và nguyên liệu thực vật/hay.</Make_Kibble.description>
+	<Make_Kibble.ingredients.0.filter.customSummary>Protein</Make_Kibble.ingredients.0.filter.customSummary>
+	<Make_Kibble.ingredients.1.filter.customSummary>Nguyên liệu thực vật/hay</Make_Kibble.ingredients.1.filter.customSummary>
+	<Make_Kibble.jobString>Đang chế tạo thức ăn thô.</Make_Kibble.jobString>
+	<Make_Pemmican.label>Chế tạo bánh thịt khô</Make_Pemmican.label>
+	<Make_Pemmican.description>Chế tạo bánh thịt khô, một loại thực phẩm được làm từ thịt và thực vật trộn lẫn và làm khô. Hương vị bình thường nhưng không gây khó chịu. Không cần bảo quản lạnh mà vẫn có thể giữ lâu dài.</Make_Pemmican.description>
+	<Make_Pemmican.jobString>Đang chế tạo bánh thịt khô.</Make_Pemmican.jobString>
+	<Make_PemmicanBulk.label>Chế tạo bánh thịt khô x4</Make_PemmicanBulk.label>
+	<Make_PemmicanBulk.description>Chế tạo bánh thịt khô theo lô, một loại thực phẩm được làm từ thịt và thực vật trộn lẫn và làm khô. Hương vị bình thường nhưng không gây khó chịu. Không cần bảo quản lạnh mà vẫn có thể giữ lâu dài.</Make_PemmicanBulk.description>
+	<Make_PemmicanBulk.jobString>Đang chế tạo bánh thịt khô.</Make_PemmicanBulk.jobString>
+</LanguageData>

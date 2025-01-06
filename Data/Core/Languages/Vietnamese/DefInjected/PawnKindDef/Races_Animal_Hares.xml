@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Hare.label>Thỏ hoang</Hare.label>
+	<Hare.labelFemale>Thỏ cái</Hare.labelFemale>
+	<Hare.labelFemalePlural>Thỏ cái</Hare.labelFemalePlural>
+	<Hare.labelMale>Thỏ đực</Hare.labelMale>
+	<Hare.labelMalePlural>Thỏ đực</Hare.labelMalePlural>
+	<Hare.labelPlural>Thỏ hoang</Hare.labelPlural>
+	<Hare.lifeStages.0.label>Thỏ con</Hare.lifeStages.0.label>
+	<Hare.lifeStages.0.labelFemale>Thỏ con cái</Hare.lifeStages.0.labelFemale>
+	<Hare.lifeStages.0.labelFemalePlural>Thỏ con cái</Hare.lifeStages.0.labelFemalePlural>
+	<Hare.lifeStages.0.labelMale>Thỏ con đực</Hare.lifeStages.0.labelMale>
+	<Hare.lifeStages.0.labelMalePlural>Thỏ con đực</Hare.lifeStages.0.labelMalePlural>
+	<Hare.lifeStages.0.labelPlural>Thỏ con</Hare.lifeStages.0.labelPlural>
+	<Hare.lifeStages.1.label>Thỏ tuổi thơ</Hare.lifeStages.1.label>
+	<Hare.lifeStages.1.labelFemale>Thỏ cái tuổi thơ</Hare.lifeStages.1.labelFemale>
+	<Hare.lifeStages.1.labelFemalePlural>Thỏ cái tuổi thơ</Hare.lifeStages.1.labelFemalePlural>
+	<Hare.lifeStages.1.labelMale>Thỏ đực tuổi thơ</Hare.lifeStages.1.labelMale>
+	<Hare.lifeStages.1.labelMalePlural>Thỏ đực tuổi thơ</Hare.lifeStages.1.labelMalePlural>
+	<Hare.lifeStages.1.labelPlural>Thỏ tuổi thơ</Hare.lifeStages.1.labelPlural>
+	<Hare.lifeStages.2.label>Thỏ trưởng thành</Hare.lifeStages.2.label>
+	<Hare.lifeStages.2.labelFemale>Thỏ cái trưởng thành</Hare.lifeStages.2.labelFemale>
+	<Hare.lifeStages.2.labelFemalePlural>Thỏ cái trưởng thành</Hare.lifeStages.2.labelFemalePlural>
+	<Hare.lifeStages.2.labelMale>Thỏ đực trưởng thành</Hare.lifeStages.2.labelMale>
+	<Hare.lifeStages.2.labelMalePlural>Thỏ đực trưởng thành</Hare.lifeStages.2.labelMalePlural>
+	<Hare.lifeStages.2.labelPlural>Thỏ trưởng thành</Hare.lifeStages.2.labelPlural>
+	<Snowhare.label>Thỏ tuyết</Snowhare.label>
+	<Snowhare.labelFemale>Thỏ tuyết cái</Snowhare.labelFemale>
+	<Snowhare.labelFemalePlural>Thỏ tuyết cái</Snowhare.labelFemalePlural>
+	<Snowhare.labelMale>Thỏ tuyết đực</Snowhare.labelMale>
+	<Snowhare.labelMalePlural>Thỏ tuyết đực</Snowhare.labelMalePlural>
+	<Snowhare.labelPlural>Thỏ tuyết</Snowhare.labelPlural>
+	<Snowhare.lifeStages.0.label>Thỏ tuyết con</Snowhare.lifeStages.0.label>
+	<Snowhare.lifeStages.0.labelFemale>Thỏ tuyết con cái</Snowhare.lifeStages.0.labelFemale>
+	<Snowhare.lifeStages.0.labelFemalePlural>Thỏ tuyết con cái</Snowhare.lifeStages.0.labelFemalePlural>
+	<Snowhare.lifeStages.0.labelMale>Thỏ tuyết con đực</Snowhare.lifeStages.0.labelMale>
+	<Snowhare.lifeStages.0.labelMalePlural>Thỏ tuyết con đực</Snowhare.lifeStages.0.labelMalePlural>
+	<Snowhare.lifeStages.0.labelPlural>Thỏ tuyết con</Snowhare.lifeStages.0.labelPlural>
+	<Snowhare.lifeStages.1.label>Thỏ tuyết tuổi thơ</Snowhare.lifeStages.1.label>
+	<Snowhare.lifeStages.1.labelFemale>Thỏ tuyết cái tuổi thơ</Snowhare.lifeStages.1.labelFemale>
+	<Snowhare.lifeStages.1.labelFemalePlural>Thỏ tuyết cái tuổi thơ</Snowhare.lifeStages.1.labelFemalePlural>
+	<Snowhare.lifeStages.1.labelMale>Thỏ tuyết đực tuổi thơ</Snowhare.lifeStages.1.labelMale>
+	<Snowhare.lifeStages.1.labelMalePlural>Thỏ tuyết đực tuổi thơ</Snowhare.lifeStages.1.labelMalePlural>
+	<Snowhare.lifeStages.1.labelPlural>Thỏ tuyết tuổi thơ</Snowhare.lifeStages.1.labelPlural>
+	<Snowhare.lifeStages.2.label>Thỏ tuyết trưởng thành</Snowhare.lifeStages.2.label>
+	<Snowhare.lifeStages.2.labelFemale>Thỏ tuyết cái trưởng thành</Snowhare.lifeStages.2.labelFemale>
+	<Snowhare.lifeStages.2.labelFemalePlural>Thỏ tuyết cái trưởng thành</Snowhare.lifeStages.2.labelFemalePlural>
+	<Snowhare.lifeStages.2.labelMale>Thỏ tuyết đực trưởng thành</Snowhare.lifeStages.2.labelMale>
+	<Snowhare.lifeStages.2.labelMalePlural>Thỏ tuyết đực trưởng thành</Snowhare.lifeStages.2.labelMalePlural>
+	<Snowhare.lifeStages.2.labelPlural>Thỏ tuyết trưởng thành</Snowhare.lifeStages.2.labelPlural>
+</LanguageData>

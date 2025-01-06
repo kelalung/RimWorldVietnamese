@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fertile.label>Sinh sản mạnh mẽ</Fertile.label>
+<Fertile.description>Người mang gen này dễ dàng mang thai hoặc khiến người khác mang thai.</Fertile.description>
+<Immunity_Strong.label>Miễn dịch mạnh</Immunity_Strong.label>
+<Immunity_Strong.description>Người mang gen này có tốc độ miễn dịch nhanh hơn người bình thường.</Immunity_Strong.description>
+<Immunity_Strong.labelShortAdj>Miễn dịch</Immunity_Strong.labelShortAdj>
+<Immunity_Strong.symbolPack.prefixSymbols.0.symbol>Kiên cường</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+<Immunity_SuperStrong.label>Miễn dịch siêu mạnh</Immunity_SuperStrong.label>
+<Immunity_SuperStrong.description>Người mang gen này có tốc độ miễn dịch nhanh hơn đáng kể so với người bình thường.</Immunity_SuperStrong.description>
+<Immunity_SuperStrong.labelShortAdj>Miễn dịch siêu</Immunity_SuperStrong.labelShortAdj>
+<Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>Kiên cường</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+<Immunity_Weak.label>Miễn dịch yếu</Immunity_Weak.label>
+<Immunity_Weak.description>Người mang gen này có tốc độ miễn dịch chậm hơn người bình thường, họ có thể chết vì những bệnh hoặc nhiễm trùng mà người khác có thể vượt qua.</Immunity_Weak.description>
+<Immunity_Weak.labelShortAdj>Dễ bị nhiễm</Immunity_Weak.labelShortAdj>
+<Immunity_Weak.symbolPack.prefixSymbols.0.symbol>Yếu ớt</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+<Immunity_Weak.symbolPack.prefixSymbols.1.symbol>Mỏng manh</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+<Sterile.label>Vô sinh</Sterile.label>
+<Sterile.description>Người mang gen này không thể sinh sản theo cách bình thường.</Sterile.description>
+<Superclotting.label>Đông máu siêu tốc</Superclotting.label>
+<Superclotting.description>Người mang gen này có lượng yếu tố đông máu trong máu nhiều hơn người bình thường, có thể cầm máu trong thời gian rất ngắn sau khi bị thương.</Superclotting.description>
+<Superclotting.customEffectDescriptions.0>Vết thương chảy máu sẽ lành nhanh hơn.</Superclotting.customEffectDescriptions.0>
+<Superclotting.symbolPack.prefixSymbols.0.symbol>Đông máu</Superclotting.symbolPack.prefixSymbols.0.symbol>
+<Superclotting.symbolPack.prefixSymbols.1.symbol>Sẹo</Superclotting.symbolPack.prefixSymbols.1.symbol>
+<Superclotting.symbolPack.suffixSymbols.0.symbol>Dễ đông</Superclotting.symbolPack.suffixSymbols.0.symbol>
+<Superclotting.symbolPack.suffixSymbols.1.symbol>Kết vảy nhanh</Superclotting.symbolPack.suffixSymbols.1.symbol>
+<ToxicEnvironmentResistance_Partial.label>Kháng độc tố một phần</ToxicEnvironmentResistance_Partial.label>
+<ToxicEnvironmentResistance_Partial.description>Người mang gen này có khả năng kháng tự nhiên với độc tố môi trường, họ bị nhiễm độc chậm hơn do bụi độc, khí độc và địa hình ô nhiễm, chịu đựng tốt hơn với bệnh dịch, nhưng vẫn bị ảnh hưởng bởi tiếp xúc trực tiếp với độc tố và vũ khí độc.</ToxicEnvironmentResistance_Partial.description>
+<ToxicEnvironmentResistance_Partial.labelShortAdj>Kháng độc</ToxicEnvironmentResistance_Partial.labelShortAdj>
+<ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>Kháng độc</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+<ToxicEnvironmentResistance_Total.label>Kháng độc hoàn toàn</ToxicEnvironmentResistance_Total.label>
+<ToxicEnvironmentResistance_Total.description>Người mang gen này hoàn toàn không bị ảnh hưởng bởi độc tố môi trường, nhưng vẫn bị ảnh hưởng bởi các cuộc tấn công độc trực tiếp. Cụ thể: họ không bị ảnh hưởng bởi bụi độc, khí độc, địa hình ô nhiễm và khí thối, nhưng vẫn bị ảnh hưởng bởi các cuộc tấn công độc và vũ khí độc.</ToxicEnvironmentResistance_Total.description>
+<ToxicEnvironmentResistance_Total.customEffectDescriptions.0>Miễn dịch với khí độc</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+<ToxicEnvironmentResistance_Total.labelShortAdj>Miễn dịch độc tố</ToxicEnvironmentResistance_Total.labelShortAdj>
+<ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>Kháng độc</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+<WoundHealing_Fast.label>Chữa lành nhanh</WoundHealing_Fast.label>
+<WoundHealing_Fast.description>Người mang gen này có tốc độ chữa lành vết thương nhanh gấp hai lần so với người bình thường.</WoundHealing_Fast.description>
+<WoundHealing_Fast.labelShortAdj>Chữa lành nhanh</WoundHealing_Fast.labelShortAdj>
+<WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>Kiên cường</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+<WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>Vững chắc</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+<WoundHealing_Slow.label>Chữa lành chậm</WoundHealing_Slow.label>
+<WoundHealing_Slow.description>Người mang gen này có tốc độ chữa lành vết thương chậm hơn một nửa so với người bình thường.</WoundHealing_Slow.description>
+<WoundHealing_Slow.labelShortAdj>Chữa lành chậm</WoundHealing_Slow.labelShortAdj>
+<WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>Da mềm</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+<WoundHealing_SuperFast.label>Chữa lành siêu tốc</WoundHealing_SuperFast.label>
+<WoundHealing_SuperFast.description>Người mang gen này có tốc độ chữa lành vết thương nhanh gấp bốn lần so với người bình thường.</WoundHealing_SuperFast.description>
+<WoundHealing_SuperFast.labelShortAdj>Chữa lành siêu tốc</WoundHealing_SuperFast.labelShortAdj>
+<WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>Kiên cường</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+<WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>Da cứng</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+</LanguageData>

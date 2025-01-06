@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BestowingCeremony.questDescriptionRules.rulesStrings>
+<li>questDescription-&gt;[faction_name] chuẩn bị trao tặng cho [pawn_definite][newTitle] danh hiệu và cấp độ [psylinkLevel] của thần kinh tâm linh.\n\nNgười ban tặng sẽ đến bằng tàu vũ trụ để thực hiện nghi lễ.\n\nBạn cần có một phòng tiếp kiến phù hợp với danh hiệu, người ban tặng mới sẽ trao tặng danh hiệu. [pawn_definite] sẽ có cơ hội nhận thêm điểm danh dự, tùy thuộc vào số lượng khán giả tham dự nghi lễ. Ngoài ra, mỗi khán giả sẽ nhận được lợi ích tâm trạng.\n\nBạn có thể phản bội người ban tặng để đánh cắp thiết bị tâm linh, nhưng điều này sẽ khiến [faction_name] trở thành kẻ thù của bạn.\n\nNếu bạn bỏ lỡ nghi lễ hoặc nghi lễ thất bại, sẽ có cơ hội nghi lễ mới sau một thời gian. Nếu người ban tặng và lính gác bị thương vì bất kỳ lý do gì, sẽ có ảnh hưởng ngoại giao tương ứng.</li>
+</BestowingCeremony.questDescriptionRules.rulesStrings>
+<BestowingCeremony.questNameRules.rulesStrings>
+<li>questName-&gt;Nghi lễ [pawn_definite] của [newTitle]</li>
+</BestowingCeremony.questNameRules.rulesStrings>
+</LanguageData>

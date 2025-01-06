@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DiscoverAncientComplex.label>Khám phá khu kiến trúc cổ đại</DiscoverAncientComplex.label>
+	<DiscoverAncientComplex.effectDesc>Bạn sẽ phát hiện ra một khu kiến trúc cổ đại gần đó.</DiscoverAncientComplex.effectDesc>
+	<DiscoverAncientComplex.letterInfoText>Bạn đã phát hiện ra vị trí của một khu kiến trúc cổ đại.</DiscoverAncientComplex.letterInfoText>
+	<FarmAnimalsWanderIn.label>Động vật trang trại gia nhập</FarmAnimalsWanderIn.label>
+	<FarmAnimalsWanderIn.effectDesc>Một nhóm động vật trang trại bị thu hút sẽ gia nhập thuộc địa của bạn.</FarmAnimalsWanderIn.effectDesc>
+	<FarmAnimalsWanderIn.letterInfoText>Một nhóm động vật trang trại tò mò đã bị thu hút bởi sự náo động này.</FarmAnimalsWanderIn.letterInfoText>
+	<GauranlenTreePod.label>Quả cây mẹ nảy mầm</GauranlenTreePod.label>
+	<GauranlenTreePod.effectDesc>Nếu có thể, quả cây mẹ trên bản đồ sẽ nảy mầm ngẫu nhiên.</GauranlenTreePod.effectDesc>
+	<GauranlenTreePod.letterInfoText>Một quả cây mẹ gần đó đã nảy mầm.</GauranlenTreePod.letterInfoText>
+	<InsectJellyTunnels.label>Đường hầm nhựa côn trùng</InsectJellyTunnels.label>
+	<InsectJellyTunnels.effectDesc>Nhựa côn trùng đã tích tụ dưới lòng đất.</InsectJellyTunnels.effectDesc>
+	<InsectJellyTunnels.letterInfoText>Một lượng lớn nhựa côn trùng đã tích tụ trong một khu định cư khổng lồ dưới lòng đất.</InsectJellyTunnels.letterInfoText>
+	<NearbyFactionGoodwill.label>Độ thiện cảm của phe phái gần đó</NearbyFactionGoodwill.label>
+	<NearbyFactionGoodwill.effectDesc>Bạn sẽ nhận được thiện cảm từ các phe phái gần đó.</NearbyFactionGoodwill.effectDesc>
+	<NearbyFactionGoodwill.letterInfoText>Bạn nhận được {AMOUNT} thiện cảm từ {FACTION_name}.</NearbyFactionGoodwill.letterInfoText>
+	<RandomRecruit.label>Tuyển dụng ngẫu nhiên</RandomRecruit.label>
+	<RandomRecruit.effectDesc>Có 50% cơ hội tuyển dụng một người có cùng hình thái văn hóa gia nhập thuộc địa của bạn.</RandomRecruit.effectDesc>
+	<RandomRecruit.letterInfoText>Một người lang thang đã đến và muốn gia nhập thuộc địa của bạn.</RandomRecruit.letterInfoText>
+</LanguageData>

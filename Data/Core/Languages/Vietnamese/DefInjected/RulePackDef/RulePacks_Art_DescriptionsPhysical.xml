@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArtDescription_Furniture.rulePack.rulesStrings>
+		<li>physical_description_root->Nội dung khắc trên món đồ nội thất này [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên món đồ nội thất này đối với chúng tôi [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên món đồ nội thất này [depicts] là [image].[desc_sentence_group]</li>
+	</ArtDescription_Furniture.rulePack.rulesStrings>
+	<ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+		<li>physical_description_root->Nội dung khắc trên chiếc quan tài này [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên chiếc quan tài này đối với chúng tôi [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên chiếc quan tài này [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên chiếc quan tài này [depicts] là [image].[desc_sentence_group]</li>
+	</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+	<ArtDescription_Sculpture.rulePack.rulesStrings>
+		<li>physical_description_root->Món [sculpture] này [depicts] là [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Món [sculpture] này đối với chúng tôi [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên món [sculpture] này [depiction] [image].[desc_sentence_group]</li>
+		<li>sculpture->Tượng điêu khắc</li>
+		<li>sculpture->Tác phẩm</li>
+		<li>sculpture->Nghệ phẩm</li>
+		<li>sculpture->Tượng</li>
+	</ArtDescription_Sculpture.rulePack.rulesStrings>
+	<ArtDescription_WeaponGun.rulePack.rulesStrings>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này đối với chúng tôi [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này [depicts] là [image].[desc_sentence_group]</li>
+	</ArtDescription_WeaponGun.rulePack.rulesStrings>
+	<ArtDescription_WeaponMelee.rulePack.rulesStrings>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này đối với chúng tôi [depiction] [image].[desc_sentence_group]</li>
+		<li>physical_description_root->Nội dung khắc trên vũ khí này [depicts] là [image].[desc_sentence_group]</li>
+	</ArtDescription_WeaponMelee.rulePack.rulesStrings>
+</LanguageData>

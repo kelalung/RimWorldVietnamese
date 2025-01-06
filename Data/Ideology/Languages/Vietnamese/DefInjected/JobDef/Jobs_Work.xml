@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ChangeTreeMode.reportString>Đang thay đổi giống cây TargetA.</ChangeTreeMode.reportString>
+<CreateAndEnterCocoon.reportString>Đang dệt kén.</CreateAndEnterCocoon.reportString>
+<CreateAndEnterHealingPod.reportString>Đang dệt kén chữa lành.</CreateAndEnterHealingPod.reportString>
+<Hack.reportString>Đang hack TargetA.</Hack.reportString>
+<MergeIntoGaumakerPod.reportString>Đang hòa nhập vào TargetB.</MergeIntoGaumakerPod.reportString>
+<PrisonerConvert.reportString>Đang cải tạo TargetA.</PrisonerConvert.reportString>
+<PrisonerEnslave.reportString>Đang nô lệ hóa TargetA.</PrisonerEnslave.reportString>
+<PrisonerReduceWill.reportString>Đang giảm ý chí của TargetA.</PrisonerReduceWill.reportString>
+<PruneGauranlenTree.reportString>Đang tỉa TargetA.</PruneGauranlenTree.reportString>
+<ReturnToGauranlenTree.reportString>Đang trở về với TargetA.</ReturnToGauranlenTree.reportString>
+<SlaveEmancipation.reportString>Đang giải phóng TargetA.</SlaveEmancipation.reportString>
+<SlaveExecution.reportString>Đang xử án TargetA.</SlaveExecution.reportString>
+<SlaveSuppress.reportString>Đang đàn áp TargetA.</SlaveSuppress.reportString>
+</LanguageData>

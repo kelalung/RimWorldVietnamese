@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Bison.label>Bò rừng</Bison.label>
+	<Bison.lifeStages.bison_calf.label>Bò rừng con</Bison.lifeStages.bison_calf.label>
+	<Bison.lifeStages.bison_calf.labelPlural>Bò rừng con</Bison.lifeStages.bison_calf.labelPlural>
+	<Boomalope.label>Cừu nổ</Boomalope.label>
+	<Boomalope.labelFemale>Cừu nổ cái</Boomalope.labelFemale>
+	<Boomalope.labelFemalePlural>Cừu nổ cái</Boomalope.labelFemalePlural>
+	<Boomalope.labelMale>Cừu nổ đực</Boomalope.labelMale>
+	<Boomalope.labelMalePlural>Cừu nổ đực</Boomalope.labelMalePlural>
+	<Boomalope.labelPlural>Cừu nổ</Boomalope.labelPlural>
+	<Boomalope.lifeStages.boomalope_calf.label>Cừu nổ con</Boomalope.lifeStages.boomalope_calf.label>
+	<Boomalope.lifeStages.boomalope_calf.labelFemale>Cừu nổ con cái</Boomalope.lifeStages.boomalope_calf.labelFemale>
+	<Boomalope.lifeStages.boomalope_calf.labelFemalePlural>Cừu nổ con cái</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
+	<Boomalope.lifeStages.boomalope_calf.labelMale>Cừu nổ con đực</Boomalope.lifeStages.boomalope_calf.labelMale>
+	<Boomalope.lifeStages.boomalope_calf.labelMalePlural>Cừu nổ con đực</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
+	<Boomalope.lifeStages.boomalope_calf.labelPlural>Cừu nổ con</Boomalope.lifeStages.boomalope_calf.labelPlural>
+	<Boomalope.lifeStages.1.label>Cừu nổ tuổi thơ</Boomalope.lifeStages.1.label>
+	<Boomalope.lifeStages.1.labelFemale>Cừu nổ cái tuổi thơ</Boomalope.lifeStages.1.labelFemale>
+	<Boomalope.lifeStages.1.labelFemalePlural>Cừu nổ cái tuổi thơ</Boomalope.lifeStages.1.labelFemalePlural>
+	<Boomalope.lifeStages.1.labelMale>Cừu nổ đực tuổi thơ</Boomalope.lifeStages.1.labelMale>
+	<Boomalope.lifeStages.1.labelMalePlural>Cừu nổ đực tuổi thơ</Boomalope.lifeStages.1.labelMalePlural>
+	<Boomalope.lifeStages.1.labelPlural>Cừu nổ tuổi thơ</Boomalope.lifeStages.1.labelPlural>
+	<Boomalope.lifeStages.2.label>Cừu nổ trưởng thành</Boomalope.lifeStages.2.label>
+	<Boomalope.lifeStages.2.labelFemale>Cừu nổ cái trưởng thành</Boomalope.lifeStages.2.labelFemale>
+	<Boomalope.lifeStages.2.labelFemalePlural>Cừu nổ cái trưởng thành</Boomalope.lifeStages.2.labelFemalePlural>
+	<Boomalope.lifeStages.2.labelMale>Cừu nổ đực trưởng thành</Boomalope.lifeStages.2.labelMale>
+	<Boomalope.lifeStages.2.labelMalePlural>Cừu nổ đực trưởng thành</Boomalope.lifeStages.2.labelMalePlural>
+	<Boomalope.lifeStages.2.labelPlural>Cừu nổ trưởng thành</Boomalope.lifeStages.2.labelPlural>
+	<Caribou.label>Tuần lộc</Caribou.label>
+	<Caribou.labelFemale>Tuần lộc cái</Caribou.labelFemale>
+	<Caribou.labelFemalePlural>Tuần lộc cái</Caribou.labelFemalePlural>
+	<Caribou.labelMale>Tuần lộc đực</Caribou.labelMale>
+	<Caribou.labelMalePlural>Tuần lộc đực</Caribou.labelMalePlural>
+	<Caribou.labelPlural>Tuần lộc</Caribou.labelPlural>
+	<Caribou.lifeStages.caribou_calf.label>Tuần lộc con</Caribou.lifeStages.caribou_calf.label>
+	<Caribou.lifeStages.caribou_calf.labelFemale>Tuần lộc con cái</Caribou.lifeStages.caribou_calf.labelFemale>
+	<Caribou.lifeStages.caribou_calf.labelFemalePlural>Tuần lộc con cái</Caribou.lifeStages.caribou_calf.labelFemalePlural>
+	<Caribou.lifeStages.caribou_calf.labelMale>Tuần lộc con đực</Caribou.lifeStages.caribou_calf.labelMale>
+	<Caribou.lifeStages.caribou_calf.labelMalePlural>Tuần lộc con đực</Caribou.lifeStages.caribou_calf.labelMalePlural>
+	<Caribou.lifeStages.caribou_calf.labelPlural>Tuần lộc con</Caribou.lifeStages.caribou_calf.labelPlural>
+	<Caribou.lifeStages.1.label>Tuần lộc tuổi thơ</Caribou.lifeStages.1.label>
+	<Caribou.lifeStages.1.labelFemale>Tuần lộc cái tuổi thơ</Caribou.lifeStages.1.labelFemale>
+	<Caribou.lifeStages.1.labelFemalePlural>Tuần lộc cái tuổi thơ</Caribou.lifeStages.1.labelFemalePlural>
+	<Caribou.lifeStages.1.labelMale>Tuần lộc đực tuổi thơ</Caribou.lifeStages.1.labelMale>
+	<Caribou.lifeStages.1.labelMalePlural>Tuần lộc đực tuổi thơ</Caribou.lifeStages.1.labelMalePlural>
+	<Caribou.lifeStages.1.labelPlural>Tuần lộc tuổi thơ</Caribou.lifeStages.1.labelPlural>
+	<Caribou.lifeStages.2.label>Tuần lộc trưởng thành</Caribou.lifeStages.2.label>
+	<Caribou.lifeStages.2.labelFemale>Tuần lộc cái trưởng thành</Caribou.lifeStages.2.labelFemale>
+	<Caribou.lifeStages.2.labelFemalePlural>Tuần lộc cái trưởng thành</Caribou.lifeStages.2.labelFemalePlural>
+	<Caribou.lifeStages.2.labelMale>Tuần lộc đực trưởng thành</Caribou.lifeStages.2.labelMale>
+	<Caribou.lifeStages.2.labelMalePlural>Tuần lộc đực trưởng thành</Caribou.lifeStages.2.labelMalePlural>
+	<Caribou.lifeStages.2.labelPlural>Tuần lộc trưởng thành</Caribou.lifeStages.2.labelPlural>
+	<Cow.label>Bò</Cow.label>
+	<Cow.labelFemale>Bò cái</Cow.labelFemale>
+	<Cow.labelFemalePlural>Bò cái</Cow.labelFemalePlural>
+	<Cow.labelMale>Bò đực</Cow.labelMale>
+	<Cow.labelMalePlural>Bò đực</Cow.labelMalePlural>
+	<Cow.labelPlural>Bò</Cow.labelPlural>
+	<Cow.lifeStages.calf.label>Bò con</Cow.lifeStages.calf.label>
+	<Cow.lifeStages.calf.labelFemale>Bò con cái</Cow.lifeStages.calf.labelFemale>
+	<Cow.lifeStages.calf.labelFemalePlural>Bò con cái</Cow.lifeStages.calf.labelFemalePlural>
+	<Cow.lifeStages.calf.labelMale>Bò con đực</Cow.lifeStages.calf.labelMale>
+	<Cow.lifeStages.calf.labelMalePlural>Bò con đực</Cow.lifeStages.calf.labelMalePlural>
+	<Cow.lifeStages.calf.labelPlural>Bò con</Cow.lifeStages.calf.labelPlural>
+	<Cow.lifeStages.1.label>Bò tuổi thơ</Cow.lifeStages.1.label>
+	<Cow.lifeStages.1.labelFemale>Bò cái tuổi thơ</Cow.lifeStages.1.labelFemale>
+	<Cow.lifeStages.1.labelFemalePlural>Bò cái tuổi thơ</Cow.lifeStages.1.labelFemalePlural>
+	<Cow.lifeStages.1.labelMale>Bò đực tuổi thơ</Cow.lifeStages.1.labelMale>
+	<Cow.lifeStages.1.labelMalePlural>Bò đực tuổi thơ</Cow.lifeStages.1.labelMalePlural>
+	<Cow.lifeStages.1.labelPlural>Bò tuổi thơ</Cow.lifeStages.1.labelPlural>
+	<Cow.lifeStages.2.label>Bò trưởng thành</Cow.lifeStages.2.label>
+	<Cow.lifeStages.2.labelFemale>Bò cái trưởng thành</Cow.lifeStages.2.labelFemale>
+	<Cow.lifeStages.2.labelFemalePlural>Bò cái trưởng thành</Cow.lifeStages.2.labelFemalePlural>
+	<Cow.lifeStages.2.labelMale>Bò đực trưởng thành</Cow.lifeStages.2.labelMale>
+	<Cow.lifeStages.2.labelMalePlural>Bò đực trưởng thành</Cow.lifeStages.2.labelMalePlural>
+	<Cow.lifeStages.2.labelPlural>Bò trưởng thành</Cow.lifeStages.2.labelPlural>
+	<Donkey.label>Lừa</Donkey.label>
+	<Donkey.lifeStages.donkey_foal.label>Lừa con</Donkey.lifeStages.donkey_foal.label>
+	<Dromedary.label>Lạc đà một bướu</Dromedary.label>
+	<Dromedary.labelFemale>Lạc đà cái một bướu</Dromedary.labelFemale>
+	<Dromedary.labelFemalePlural>Lạc đà cái một bướu</Dromedary.labelFemalePlural>
+	<Dromedary.labelMale>Lạc đà đực một bướu</Dromedary.labelMale>
+	<Dromedary.labelMalePlural>Lạc đà đực một bướu</Dromedary.labelMalePlural>
+	<Dromedary.labelPlural>Lạc đà một bướu</Dromedary.labelPlural>
+	<Dromedary.lifeStages.dromedary_calf.label>Lạc đà một bướu con</Dromedary.lifeStages.dromedary_calf.label>
+	<Dromedary.lifeStages.dromedary_calf.labelFemale>Lạc đà một bướu con cái</Dromedary.lifeStages.dromedary_calf.labelFemale>
+	<Dromedary.lifeStages.dromedary_calf.labelFemalePlural>Lạc đà một bướu con cái</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
+	<Dromedary.lifeStages.dromedary_calf.labelMale>Lạc đà một bướu con đực</Dromedary.lifeStages.dromedary_calf.labelMale>
+	<Dromedary.lifeStages.dromedary_calf.labelMalePlural>Lạc đà một bướu con đực</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
+	<Dromedary.lifeStages.dromedary_calf.labelPlural>Lạc đà một bướu con</Dromedary.lifeStages.dromedary_calf.labelPlural>
+	<Dromedary.lifeStages.1.label>Lạc đà một bướu tuổi thơ</Dromedary.lifeStages.1.label>
+	<Dromedary.lifeStages.1.labelFemale>Lạc đà cái một bướu tuổi thơ</Dromedary.lifeStages.1.labelFemale>
+	<Dromedary.lifeStages.1.labelFemalePlural>Lạc đà cái một bướu tuổi thơ</Dromedary.lifeStages.1.labelFemalePlural>
+	<Dromedary.lifeStages.1.labelMale>Lạc đà đực một bướu tuổi thơ</Dromedary.lifeStages.1.labelMale>
+	<Dromedary.lifeStages.1.labelMalePlural>Lạc đà đực một bướu tuổi thơ</Dromedary.lifeStages.1.labelMalePlural>
+	<Dromedary.lifeStages.1.labelPlural>Lạc đà một bướu tuổi thơ</Dromedary.lifeStages.1.labelPlural>
+	<Dromedary.lifeStages.2.label>Lạc đà một bướu trưởng thành</Dromedary.lifeStages.2.label>
+	<Dromedary.lifeStages.2.labelFemale>Lạc đà cái một bướu trưởng thành</Dromedary.lifeStages.2.labelFemale>
+	<Dromedary.lifeStages.2.labelFemalePlural>Lạc đà cái một bướu trưởng thành</Dromedary.lifeStages.2.labelFemalePlural>
+	<Dromedary.lifeStages.2.labelMale>Lạc đà đực một bướu trưởng thành</Dromedary.lifeStages.2.labelMale>
+	<Dromedary.lifeStages.2.labelMalePlural>Lạc đà đực một bướu trưởng thành</Dromedary.lifeStages.2.labelMalePlural>
+	<Dromedary.lifeStages.2.labelPlural>Lạc đà một bướu trưởng thành</Dromedary.lifeStages.2.labelPlural>
+	<Elephant.label>Voi</Elephant.label>
+	<Elephant.labelFemale>Voi cái</Elephant.labelFemale>
+	<Elephant.labelFemalePlural>Voi cái</Elephant.labelFemalePlural>
+	<Elephant.labelMale>Voi đực</Elephant.labelMale>
+	<Elephant.labelMalePlural>Voi đực</Elephant.labelMalePlural>
+	<Elephant.labelPlural>Voi</Elephant.labelPlural>
+	<Elephant.lifeStages.elephant_calf.label>Voi con</Elephant.lifeStages.elephant_calf.label>
+	<Elephant.lifeStages.elephant_calf.labelFemale>Voi con cái</Elephant.lifeStages.elephant_calf.labelFemale>
+	<Elephant.lifeStages.elephant_calf.labelFemalePlural>Voi con cái</Elephant.lifeStages.elephant_calf.labelFemalePlural>
+	<Elephant.lifeStages.elephant_calf.labelMale>Voi con đực</Elephant.lifeStages.elephant_calf.labelMale>
+	<Elephant.lifeStages.elephant_calf.labelMalePlural>Voi con đực</Elephant.lifeStages.elephant_calf.labelMalePlural>
+	<Elephant.lifeStages.elephant_calf.labelPlural>Voi con</Elephant.lifeStages.elephant_calf.labelPlural>
+	<Elephant.lifeStages.1.label>Voi tuổi thơ</Elephant.lifeStages.1.label>
+	<Elephant.lifeStages.1.labelFemale>Voi cái tuổi thơ</Elephant.lifeStages.1.labelFemale>
+	<Elephant.lifeStages.1.labelFemalePlural>Voi cái tuổi thơ</Elephant.lifeStages.1.labelFemalePlural>
+	<Elephant.lifeStages.1.labelMale>Voi đực tuổi thơ</Elephant.lifeStages.1.labelMale>
+	<Elephant.lifeStages.1.labelMalePlural>Voi đực tuổi thơ</Elephant.lifeStages.1.labelMalePlural>
+	<Elephant.lifeStages.1.labelPlural>Voi tuổi thơ</Elephant.lifeStages.1.labelPlural>
+	<Elephant.lifeStages.2.label>Voi trưởng thành</Elephant.lifeStages.2.label>
+	<Elephant.lifeStages.2.labelFemale>Voi cái trưởng thành</Elephant.lifeStages.2.labelFemale>
+	<Elephant.lifeStages.2.labelFemalePlural>Voi cái trưởng thành</Elephant.lifeStages.2.labelFemalePlural>
+	<Elephant.lifeStages.2.labelMale>Voi đực trưởng thành</Elephant.lifeStages.2.labelMale>
+	<Elephant.lifeStages.2.labelMalePlural>Voi đực trưởng thành</Elephant.lifeStages.2.labelMalePlural>
+	<Elephant.lifeStages.2.labelPlural>Voi trưởng thành</Elephant.lifeStages.2.labelPlural>
+	<Elk.label>Nai Sừng Tấm</Elk.label>
+	<Elk.labelFemale>Nai Sừng Tấm cái</Elk.labelFemale>
+	<Elk.labelFemalePlural>Nai Sừng Tấm cái</Elk.labelFemalePlural>
+	<Elk.labelMale>Nai Sừng Tấm đực</Elk.labelMale>
+	<Elk.labelMalePlural>Nai Sừng Tấm đực</Elk.labelMalePlural>
+	<Elk.labelPlural>Nai Sừng Tấm</Elk.labelPlural>
+	<Elk.lifeStages.elk_calf.label>Nai Sừng Tấm con</Elk.lifeStages.elk_calf.label>
+	<Elk.lifeStages.elk_calf.labelFemale>Nai Sừng Tấm con cái</Elk.lifeStages.elk_calf.labelFemale>
+	<Elk.lifeStages.elk_calf.labelFemalePlural>Nai Sừng Tấm con cái</Elk.lifeStages.elk_calf.labelFemalePlural>
+	<Elk.lifeStages.elk_calf.labelMale>Nai Sừng Tấm con đực</Elk.lifeStages.elk_calf.labelMale>
+	<Elk.lifeStages.elk_calf.labelMalePlural>Nai Sừng Tấm con đực</Elk.lifeStages.elk_calf.labelMalePlural>
+	<Elk.lifeStages.elk_calf.labelPlural>Nai Sừng Tấm con</Elk.lifeStages.elk_calf.labelPlural>
+	<Elk.lifeStages.1.label>Nai Sừng Tấm tuổi thơ</Elk.lifeStages.1.label>
+	<Elk.lifeStages.1.labelFemale>Nai Sừng Tấm cái tuổi thơ</Elk.lifeStages.1.labelFemale>
+	<Elk.lifeStages.1.labelFemalePlural>Nai Sừng Tấm cái tuổi thơ</Elk.lifeStages.1.labelFemalePlural>
+	<Elk.lifeStages.1.labelMale>Nai Sừng Tấm đực tuổi thơ</Elk.lifeStages.1.labelMale>
+	<Elk.lifeStages.1.labelMalePlural>Nai Sừng Tấm đực tuổi thơ</Elk.lifeStages.1.labelMalePlural>
+	<Elk.lifeStages.1.labelPlural>Nai Sừng Tấm tuổi thơ</Elk.lifeStages.1.labelPlural>
+	<Elk.lifeStages.2.label>Nai Sừng Tấm trưởng thành</Elk.lifeStages.2.label>
+	<Elk.lifeStages.2.labelFemale>Nai Sừng Tấm cái trưởng thành</Elk.lifeStages.2.labelFemale>
+	<Elk.lifeStages.2.labelFemalePlural>Nai Sừng Tấm cái trưởng thành</Elk.lifeStages.2.labelFemalePlural>
+	<Elk.lifeStages.2.labelMale>Nai Sừng Tấm đực trưởng thành</Elk.lifeStages.2.labelMale>
+	<Elk.lifeStages.2.labelMalePlural>Nai Sừng Tấm đực trưởng thành</Elk.lifeStages.2.labelMalePlural>
+	<Elk.lifeStages.2.labelPlural>Nai Sừng Tấm trưởng thành</Elk.lifeStages.2.labelPlural>
+	<Goat.label>Dê</Goat.label>
+	<Goat.labelFemale>Dê cái</Goat.labelFemale>
+	<Goat.lifeStages.baby_goat.label>Dê con</Goat.lifeStages.baby_goat.label>
+	<Horse.label>Ngựa</Horse.label>
+	<Horse.labelFemale>Ngựa cái</Horse.labelFemale>
+	<Horse.labelMale>Ngựa đực</Horse.labelMale>
+	<Horse.lifeStages.foal.label>Ngựa con</Horse.lifeStages.foal.label>
+	<Muffalo.label>Bò tuyết</Muffalo.label>
+	<Muffalo.labelFemale>Bò tuyết cái</Muffalo.labelFemale>
+	<Muffalo.labelFemalePlural>Bò tuyết cái</Muffalo.labelFemalePlural>
+	<Muffalo.labelMale>Bò tuyết đực</Muffalo.labelMale>
+	<Muffalo.labelMalePlural>Bò tuyết đực</Muffalo.labelMalePlural>
+	<Muffalo.labelPlural>Bò tuyết</Muffalo.labelPlural>
+	<Muffalo.lifeStages.muffalo_calf.label>Bò tuyết con</Muffalo.lifeStages.muffalo_calf.label>
+	<Muffalo.lifeStages.muffalo_calf.labelFemale>Bò tuyết con cái</Muffalo.lifeStages.muffalo_calf.labelFemale>
+	<Muffalo.lifeStages.muffalo_calf.labelFemalePlural>Bò tuyết con cái</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
+	<Muffalo.lifeStages.muffalo_calf.labelMale>Bò tuyết con đực</Muffalo.lifeStages.muffalo_calf.labelMale>
+	<Muffalo.lifeStages.muffalo_calf.labelMalePlural>Bò tuyết con đực</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+	<Muffalo.lifeStages.muffalo_calf.labelPlural>Bò tuyết con</Muffalo.lifeStages.muffalo_calf.labelPlural>
+	<Muffalo.lifeStages.1.label>Bò tuyết tuổi thơ</Muffalo.lifeStages.1.label>
+	<Muffalo.lifeStages.1.labelFemale>Bò tuyết cái tuổi thơ</Muffalo.lifeStages.1.labelFemale>
+	<Muffalo.lifeStages.1.labelFemalePlural>Bò tuyết cái tuổi thơ</Muffalo.lifeStages.1.labelFemalePlural>
+	<Muffalo.lifeStages.1.labelMale>Bò tuyết đực tuổi thơ</Muffalo.lifeStages.1.labelMale>
+	<Muffalo.lifeStages.1.labelMalePlural>Bò tuyết đực tuổi thơ</Muffalo.lifeStages.1.labelMalePlural>
+	<Muffalo.lifeStages.1.labelPlural>Bò tuyết tuổi thơ</Muffalo.lifeStages.1.labelPlural>
+	<Muffalo.lifeStages.2.label>Bò tuyết trưởng thành</Muffalo.lifeStages.2.label>
+	<Muffalo.lifeStages.2.labelFemale>Bò tuyết cái trưởng thành</Muffalo.lifeStages.2.labelFemale>
+	<Muffalo.lifeStages.2.labelFemalePlural>Bò tuyết cái trưởng thành</Muffalo.lifeStages.2.labelFemalePlural>
+	<Muffalo.lifeStages.2.labelMale>Bò tuyết đực trưởng thành</Muffalo.lifeStages.2.labelMale>
+	<Muffalo.lifeStages.2.labelMalePlural>Bò tuyết đực trưởng thành</Muffalo.lifeStages.2.labelMalePlural>
+	<Muffalo.lifeStages.2.labelPlural>Bò tuyết trưởng thành</Muffalo.lifeStages.2.labelPlural>
+	<Rhinoceros.label>Tê Giác</Rhinoceros.label>
+	<Rhinoceros.labelFemale>Tê Giác cái</Rhinoceros.labelFemale>
+	<Rhinoceros.labelFemalePlural>Tê Giác cái</Rhinoceros.labelFemalePlural>
+	<Rhinoceros.labelMale>Tê Giác đực</Rhinoceros.labelMale>
+	<Rhinoceros.labelMalePlural>Tê Giác đực</Rhinoceros.labelMalePlural>
+	<Rhinoceros.labelPlural>Tê Giác</Rhinoceros.labelPlural>
+	<Rhinoceros.lifeStages.0.label>Tê Giác con</Rhinoceros.lifeStages.0.label>
+	<Rhinoceros.lifeStages.0.labelFemale>Tê Giác con cái</Rhinoceros.lifeStages.0.labelFemale>
+	<Rhinoceros.lifeStages.0.labelFemalePlural>Tê Giác con cái</Rhinoceros.lifeStages.0.labelFemalePlural>
+	<Rhinoceros.lifeStages.0.labelMale>Tê Giác con đực</Rhinoceros.lifeStages.0.labelMale>
+	<Rhinoceros.lifeStages.0.labelMalePlural>Tê Giác con đực</Rhinoceros.lifeStages.0.labelMalePlural>
+	<Rhinoceros.lifeStages.0.labelPlural>Tê Giác con</Rhinoceros.lifeStages.0.labelPlural>
+	<Rhinoceros.lifeStages.1.label>Tê Giác tuổi thơ</Rhinoceros.lifeStages.1.label>
+	<Rhinoceros.lifeStages.1.labelFemale>Tê Giác cái tuổi thơ</Rhinoceros.lifeStages.1.labelFemale>
+	<Rhinoceros.lifeStages.1.labelFemalePlural>Tê Giác cái tuổi thơ</Rhinoceros.lifeStages.1.labelFemalePlural>
+	<Rhinoceros.lifeStages.1.labelMale>Tê Giác đực tuổi thơ</Rhinoceros.lifeStages.1.labelMale>
+	<Rhinoceros.lifeStages.1.labelMalePlural>Tê Giác đực tuổi thơ</Rhinoceros.lifeStages.1.labelMalePlural>
+	<Rhinoceros.lifeStages.1.labelPlural>Tê Giác tuổi thơ</Rhinoceros.lifeStages.1.labelPlural>
+	<Rhinoceros.lifeStages.2.label>Tê Giác trưởng thành</Rhinoceros.lifeStages.2.label>
+	<Rhinoceros.lifeStages.2.labelFemale>Tê Giác cái trưởng thành</Rhinoceros.lifeStages.2.labelFemale>
+	<Rhinoceros.lifeStages.2.labelFemalePlural>Tê Giác cái trưởng thành</Rhinoceros.lifeStages.2.labelFemalePlural>
+	<Rhinoceros.lifeStages.2.labelMale>Tê Giác đực trưởng thành</Rhinoceros.lifeStages.2.labelMale>
+	<Rhinoceros.lifeStages.2.labelMalePlural>Tê Giác đực trưởng thành</Rhinoceros.lifeStages.2.labelMalePlural>
+	<Rhinoceros.lifeStages.2.labelPlural>Tê Giác trưởng thành</Rhinoceros.lifeStages.2.labelPlural>
+	<Yak.label>Bò Tây Tạng</Yak.label>
+	<Yak.labelMale>Bò Tây Tạng đực</Yak.labelMale>
+	<Yak.lifeStages.yak_calf.label>Bò Tây Tạng con</Yak.lifeStages.yak_calf.label>
+	<Yak.lifeStages.yak_calf.labelPlural>Bò Tây Tạng con</Yak.lifeStages.yak_calf.labelPlural>
+</LanguageData>

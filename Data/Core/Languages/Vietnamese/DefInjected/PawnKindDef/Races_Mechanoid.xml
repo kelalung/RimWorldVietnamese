@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Mech_CentipedeBlaster.label>Máy cắt chân đốt</Mech_CentipedeBlaster.label>
+	<Mech_CentipedeBurner.label>Máy đốt địa ngục chân đốt</Mech_CentipedeBurner.label>
+	<Mech_CentipedeGunner.label>Máy bắn nhanh chân đốt</Mech_CentipedeGunner.label>
+	<Mech_Lancer.label>Máy tán sương</Mech_Lancer.label>
+	<Mech_Lancer.labelPlural>Máy tán sương</Mech_Lancer.labelPlural>
+	<Mech_Pikeman.label>Máy bắn giáo</Mech_Pikeman.label>
+	<Mech_Pikeman.labelPlural>Máy bắn giáo</Mech_Pikeman.labelPlural>
+	<Mech_Scyther.label>Máy cắt bay</Mech_Scyther.label>
+	<Mech_Scyther.labelPlural>Máy cắt bay</Mech_Scyther.labelPlural>
+</LanguageData>

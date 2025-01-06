@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <Body_Fat.label>Thân hình béo phì</Body_Fat.label>
+<Body_Fat.description>Người mang gen này có thể có thân hình béo, và một người có thể mang nhiều gen hình dáng khác nhau, họ có thể biểu hiện bất kỳ hình dáng nào trong số đó.</Body_Fat.description>
+<Body_Fat.symbolPack.prefixSymbols.0.symbol>Béo phì</Body_Fat.symbolPack.prefixSymbols.0.symbol>
+<Body_Fat.symbolPack.prefixSymbols.1.symbol>Phình ra</Body_Fat.symbolPack.prefixSymbols.1.symbol>
+<Body_Fat.symbolPack.prefixSymbols.2.symbol>Nặng nề</Body_Fat.symbolPack.prefixSymbols.2.symbol>
+<Body_Fat.symbolPack.prefixSymbols.3.symbol>Đầy đặn</Body_Fat.symbolPack.prefixSymbols.3.symbol>
+<Body_Fat.symbolPack.prefixSymbols.4.symbol>Đậm đà</Body_Fat.symbolPack.prefixSymbols.4.symbol>
+<Body_Fat.symbolPack.prefixSymbols.5.symbol>Béo ngậy</Body_Fat.symbolPack.prefixSymbols.5.symbol>
+<Body_Fat.symbolPack.prefixSymbols.6.symbol>Cường tráng</Body_Fat.symbolPack.prefixSymbols.6.symbol>
+<Body_Fat.symbolPack.prefixSymbols.7.symbol>Thịt béo</Body_Fat.symbolPack.prefixSymbols.7.symbol>
+<Body_Fat.symbolPack.prefixSymbols.8.symbol>Béo ngậy</Body_Fat.symbolPack.prefixSymbols.8.symbol>
+<Body_Fat.symbolPack.suffixSymbols.0.symbol>Béo ngậy</Body_Fat.symbolPack.suffixSymbols.0.symbol>
+<Body_Fat.symbolPack.suffixSymbols.1.symbol>Phình ra</Body_Fat.symbolPack.suffixSymbols.1.symbol>
+<Body_Fat.symbolPack.suffixSymbols.2.symbol>Nặng nề</Body_Fat.symbolPack.suffixSymbols.2.symbol>
+<Body_Fat.symbolPack.suffixSymbols.3.symbol>Bóng</Body_Fat.symbolPack.suffixSymbols.3.symbol>
+<Body_Hulk.label>Thân hình vạm vỡ</Body_Hulk.label>
+<Body_Hulk.description>Người mang gen này có thể có thân hình rất cường tráng, và một người có thể mang nhiều gen hình dáng khác nhau, họ có thể biểu hiện bất kỳ hình dáng nào trong số đó.</Body_Hulk.description>
+<Body_Hulk.symbolPack.prefixSymbols.0.symbol>Cường tráng</Body_Hulk.symbolPack.prefixSymbols.0.symbol>
+<Body_Hulk.symbolPack.prefixSymbols.1.symbol>To lớn</Body_Hulk.symbolPack.prefixSymbols.1.symbol>
+<Body_Hulk.symbolPack.prefixSymbols.2.symbol>Rộng lớn</Body_Hulk.symbolPack.prefixSymbols.2.symbol>
+<Body_Hulk.symbolPack.prefixSymbols.3.symbol>Khổng lồ</Body_Hulk.symbolPack.prefixSymbols.3.symbol>
+<Body_Hulk.symbolPack.suffixSymbols.0.symbol>Khổng lồ</Body_Hulk.symbolPack.suffixSymbols.0.symbol>
+<Body_Hulk.symbolPack.suffixSymbols.1.symbol>Đồ sộ</Body_Hulk.symbolPack.suffixSymbols.1.symbol>
+<Body_Standard.label>Thân hình chuẩn</Body_Standard.label>
+<Body_Standard.description>Người mang gen này có thể có thân hình rất chuẩn, và một người có thể mang nhiều gen hình dáng khác nhau, họ có thể biểu hiện bất kỳ hình dáng nào trong số đó.</Body_Standard.description>
+<Body_Thin.label>Thân hình mảnh mai</Body_Thin.label>
+<Body_Thin.description>Người mang gen này có thể có thân hình rất mảnh mai, và một người có thể mang nhiều gen hình dáng khác nhau, họ có thể biểu hiện bất kỳ hình dáng nào trong số đó.</Body_Thin.description>
+<Body_Thin.symbolPack.prefixSymbols.0.symbol>Mảnh mai</Body_Thin.symbolPack.prefixSymbols.0.symbol>
+<Body_Thin.symbolPack.prefixSymbols.1.symbol>Gầy yếu</Body_Thin.symbolPack.prefixSymbols.1.symbol>
+<Body_Thin.symbolPack.prefixSymbols.2.symbol>Gầy</Body_Thin.symbolPack.prefixSymbols.2.symbol>
+<Body_Thin.symbolPack.prefixSymbols.3.symbol>Thon thả</Body_Thin.symbolPack.prefixSymbols.3.symbol>
+<Body_Thin.symbolPack.prefixSymbols.4.symbol>Cành nhánh</Body_Thin.symbolPack.prefixSymbols.4.symbol>
+<Body_Thin.symbolPack.prefixSymbols.5.symbol>Yếu ớt</Body_Thin.symbolPack.prefixSymbols.5.symbol>
+<Body_Thin.symbolPack.prefixSymbols.6.symbol>Giống xương</Body_Thin.symbolPack.prefixSymbols.6.symbol>
+<Body_Thin.symbolPack.prefixSymbols.7.symbol>Dài</Body_Thin.symbolPack.prefixSymbols.7.symbol>
+<Body_Thin.symbolPack.prefixSymbols.8.symbol>Rơm</Body_Thin.symbolPack.prefixSymbols.8.symbol>
+<Body_Thin.symbolPack.prefixSymbols.9.symbol>Que</Body_Thin.symbolPack.prefixSymbols.9.symbol>
+<Body_Thin.symbolPack.prefixSymbols.10.symbol>Thon thả</Body_Thin.symbolPack.prefixSymbols.10.symbol>
+<Body_Thin.symbolPack.prefixSymbols.11.symbol>Mềm mại</Body_Thin.symbolPack.prefixSymbols.11.symbol>
+<Body_Thin.symbolPack.suffixSymbols.0.symbol>Cành</Body_Thin.symbolPack.suffixSymbols.0.symbol>
+<Body_Thin.symbolPack.suffixSymbols.1.symbol>Xương</Body_Thin.symbolPack.suffixSymbols.1.symbol>
+<Body_Thin.symbolPack.suffixSymbols.2.symbol>Gậy</Body_Thin.symbolPack.suffixSymbols.2.symbol>
+<Body_Thin.symbolPack.suffixSymbols.3.symbol>Mềm mại</Body_Thin.symbolPack.suffixSymbols.3.symbol>
+<Body_Thin.symbolPack.suffixSymbols.4.symbol>Rơm</Body_Thin.symbolPack.suffixSymbols.4.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.5.symbol>Que</Body_Thin.symbolPack.suffixSymbols.5.symbol>
+<Body_Thin.symbolPack.suffixSymbols.6.symbol>Cao mảnh</Body_Thin.symbolPack.suffixSymbols.6.symbol>
+<Ears_Cat.label>Đôi tai mèo</Ears_Cat.label>
+<Ears_Cat.description>Người mang gen này có đôi tai giống mèo.</Ears_Cat.description>
+<Ears_Cat.symbolPack.prefixSymbols.0.symbol>Mèo</Ears_Cat.symbolPack.prefixSymbols.0.symbol>
+<Ears_Cat.symbolPack.prefixSymbols.1.symbol>Mèo con</Ears_Cat.symbolPack.prefixSymbols.1.symbol>
+<Ears_Cat.symbolPack.prefixSymbols.2.symbol>Mèo con</Ears_Cat.symbolPack.prefixSymbols.2.symbol>
+<Ears_Cat.symbolPack.prefixSymbols.3.symbol>Mèo vằn</Ears_Cat.symbolPack.prefixSymbols.3.symbol>
+<Ears_Cat.symbolPack.prefixSymbols.4.symbol>Tom</Ears_Cat.symbolPack.prefixSymbols.4.symbol>
+<Ears_Cat.symbolPack.suffixSymbols.0.symbol>Mèo</Ears_Cat.symbolPack.suffixSymbols.0.symbol>
+<Ears_Cat.symbolPack.suffixSymbols.1.symbol>Mèo con</Ears_Cat.symbolPack.suffixSymbols.1.symbol>
+<Ears_Cat.symbolPack.suffixSymbols.2.symbol>Mèo vằn</Ears_Cat.symbolPack.suffixSymbols.2.symbol>
+<Ears_Cat.symbolPack.suffixSymbols.3.symbol>Tom</Ears_Cat.symbolPack.suffixSymbols.3.symbol>
+<Ears_Cat.symbolPack.suffixSymbols.4.symbol>Đôi tai mèo</Ears_Cat.symbolPack.suffixSymbols.4.symbol>
+<Ears_Floppy.label>Đôi tai chó</Ears_Floppy.label>
+<Ears_Floppy.description>Người mang gen này có đôi tai dài và rủ xuống giống như chó săn.</Ears_Floppy.description>
+<Ears_Floppy.symbolPack.prefixSymbols.0.symbol>Rủ xuống</Ears_Floppy.symbolPack.prefixSymbols.0.symbol>
+<Ears_Floppy.symbolPack.prefixSymbols.1.symbol>Treo</Ears_Floppy.symbolPack.prefixSymbols.1.symbol>
+<Ears_Floppy.symbolPack.prefixSymbols.2.symbol>Chó</Ears_Floppy.symbolPack.prefixSymbols.2.symbol>
+<Ears_Floppy.symbolPack.prefixSymbols.3.symbol>Rủ xuống</Ears_Floppy.symbolPack.prefixSymbols.3.symbol>
+<Ears_Floppy.symbolPack.prefixSymbols.4.symbol>Nhão</Ears_Floppy.symbolPack.prefixSymbols.4.symbol>
+<Ears_Floppy.symbolPack.suffixSymbols.0.symbol>Chó săn</Ears_Floppy.symbolPack.suffixSymbols.0.symbol>
+<Ears_Floppy.symbolPack.suffixSymbols.1.symbol>Đôi tai chó</Ears_Floppy.symbolPack.suffixSymbols.1.symbol>
+<Ears_Human.label>Đôi tai người</Ears_Human.label>
+<Ears_Human.description>Người mang gen này có đôi tai bình thường của con người.</Ears_Human.description>
+<Ears_Pig.label>Đôi tai heo</Ears_Pig.label>
+<Ears_Pig.description>Người mang gen này có đôi tai giống như heo.</Ears_Pig.description>
+<Ears_Pig.symbolPack.prefixSymbols.0.symbol>Heo</Ears_Pig.symbolPack.prefixSymbols.0.symbol>
+<Ears_Pig.symbolPack.prefixSymbols.1.symbol>Heo đực</Ears_Pig.symbolPack.prefixSymbols.1.symbol>
+<Ears_Pig.symbolPack.suffixSymbols.0.symbol>Heo béo</Ears_Pig.symbolPack.suffixSymbols.0.symbol>
+<Ears_Pig.symbolPack.suffixSymbols.1.symbol>Đôi tai heo</Ears_Pig.symbolPack.suffixSymbols.1.symbol>
+<Ears_Pig.symbolPack.suffixSymbols.2.symbol>Đôi tai heo</Ears_Pig.symbolPack.suffixSymbols.2.symbol>
+<Ears_Pointed.label>Đôi tai nhọn</Ears_Pointed.label>
+<Ears_Pointed.description>Người mang gen này có đôi tai nhọn.</Ears_Pointed.description>
+<Ears_Pointed.symbolPack.prefixSymbols.0.symbol>Nhọn</Ears_Pointed.symbolPack.prefixSymbols.0.symbol>
+<Ears_Pointed.symbolPack.prefixSymbols.1.symbol>Sắc bén</Ears_Pointed.symbolPack.prefixSymbols.1.symbol>
+<Ears_Pointed.symbolPack.suffixSymbols.0.symbol>Đôi tai nhọn</Ears_Pointed.symbolPack.suffixSymbols.0.symbol>
+<Ears_Pointed.symbolPack.suffixSymbols.1.symbol>Nhọn</Ears_Pointed.symbolPack.suffixSymbols.1.symbol>
+<ElongatedFingers.label>Ngón tay dài</ElongatedFingers.label>
+<ElongatedFingers.description>Người mang gen này có ngón tay dài, giúp tăng khả năng thao tác để hoàn thành các công việc khác nhau, đặc biệt là chế tạo và xây dựng.</ElongatedFingers.description>
+<ElongatedFingers.symbolPack.prefixSymbols.0.symbol>Dài</ElongatedFingers.symbolPack.prefixSymbols.0.symbol>
+<ElongatedFingers.symbolPack.prefixSymbols.1.symbol>Duyên dáng</ElongatedFingers.symbolPack.prefixSymbols.1.symbol>
+<ElongatedFingers.symbolPack.prefixSymbols.2.symbol>Bút chì</ElongatedFingers.symbolPack.prefixSymbols.2.symbol>
+<ElongatedFingers.symbolPack.suffixSymbols.0.symbol>Ngón tay</ElongatedFingers.symbolPack.suffixSymbols.0.symbol>
+<ElongatedFingers.symbolPack.suffixSymbols.1.symbol>Ngón</ElongatedFingers.symbolPack.suffixSymbols.1.symbol>
+<ElongatedFingers.symbolPack.suffixSymbols.2.symbol>Đầu ngón tay</ElongatedFingers.symbolPack.suffixSymbols.2.symbol>
+<Hands_Human.label>Ngón tay người</Hands_Human.label>
+<Hands_Human.description>Người mang gen này có ngón tay bình thường của con người.</Hands_Human.description>
+<Hands_Pig.label>Ngón tay ngắn và dày</Hands_Pig.label>
+<Hands_Pig.description>Người mang gen này có ngón tay giống như chân heo, khả năng thao tác kém hơn so với người bình thường.</Hands_Pig.description>
+<Hands_Pig.symbolPack.prefixSymbols.0.symbol>Đi khập khiễng</Hands_Pig.symbolPack.prefixSymbols.0.symbol>
+<Hands_Pig.symbolPack.prefixSymbols.1.symbol>Heo</Hands_Pig.symbolPack.prefixSymbols.1.symbol>
+<Hands_Pig.symbolPack.prefixSymbols.2.symbol>Heo</Hands_Pig.symbolPack.prefixSymbols.2.symbol>
+<Hands_Pig.symbolPack.prefixSymbols.3.symbol>Heo rừng</Hands_Pig.symbolPack.prefixSymbols.3.symbol>
+<Hands_Pig.symbolPack.prefixSymbols.4.symbol>Heo béo</Hands_Pig.symbolPack.prefixSymbols.4.symbol>
+<Hands_Pig.symbolPack.suffixSymbols.0.symbol>Đi khập khiễng</Hands_Pig.symbolPack.suffixSymbols.0.symbol>
+<Hands_Pig.symbolPack.suffixSymbols.1.symbol>Heo</Hands_Pig.symbolPack.suffixSymbols.1.symbol>
+<Hands_Pig.symbolPack.suffixSymbols.2.symbol>Heo lợn</Hands_Pig.symbolPack.suffixSymbols.2.symbol>
+<Hands_Pig.symbolPack.suffixSymbols.3.symbol>Heo rừng</Hands_Pig.symbolPack.suffixSymbols.3.symbol>
+<Hands_Pig.symbolPack.suffixSymbols.4.symbol>Heo béo</Hands_Pig.symbolPack.suffixSymbols.4.symbol>
+<Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>Đi khập khiễng</Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>
+<Head_Gaunt.label>Khuôn mặt gầy</Head_Gaunt.label>
+<Head_Gaunt.description>Người mang gen này có khuôn mặt hóp lại, trông rất tiều tụy.</Head_Gaunt.description>
+<Head_Gaunt.symbolPack.prefixSymbols.0.symbol>Tiều tụy</Head_Gaunt.symbolPack.prefixSymbols.0.symbol>
+<Head_Gaunt.symbolPack.prefixSymbols.1.symbol>Đầu mặt</Head_Gaunt.symbolPack.prefixSymbols.1.symbol>
+<Head_Gaunt.symbolPack.prefixSymbols.2.symbol>Chết chóc</Head_Gaunt.symbolPack.prefixSymbols.2.symbol>
+<Head_Gaunt.symbolPack.prefixSymbols.3.symbol>Hộp sọ</Head_Gaunt.symbolPack.prefixSymbols.3.symbol>
+<Headbone_CenterHorn.label>Độc giác</Headbone_CenterHorn.label>
+<Headbone_CenterHorn.description>Người mang gen này có một chiếc sừng độc trên đỉnh đầu.</Headbone_CenterHorn.description>
+<Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>Tê giác</Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>
+<Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>Độc giác</Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>
+<Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>Nổi bật</Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>
+<Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>Gai nhọn</Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>
+<Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>Độc giác</Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>
+<Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>Gai nhọn</Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>
+<Headbone_Human.label>Không có sừng</Headbone_Human.label>
+  <Headbone_Human.description>Người mang gen này có hình dạng đầu chuẩn của con người.</Headbone_Human.description>
+<Headbone_MiniHorns.label>Đôi sừng nhỏ</Headbone_MiniHorns.label>
+<Headbone_MiniHorns.description>Người mang gen này có hai chiếc sừng nhỏ mọc lên trên trán.</Headbone_MiniHorns.description>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>Sừng</Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>Sừng non</Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>Gai nhọn</Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>Quỷ</Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>Ác quỷ</Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>Lucifer</Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>Beelzebub</Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>
+<Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>Địa ngục</Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>
+<Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>Sừng</Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>
+<Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>Gai nhọn</Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>
+<Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>Quỷ</Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>
+<Jaw_Baseline.label>Đường hàm người</Jaw_Baseline.label>
+<Jaw_Baseline.description>Người mang gen này có đường hàm chuẩn của con người.</Jaw_Baseline.description>
+<Jaw_Heavy.label>Đường hàm rộng</Jaw_Heavy.label>
+<Jaw_Heavy.description>Người mang gen này có đường hàm rất lớn.</Jaw_Heavy.description>
+<Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>Thô lỗ</Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>
+<Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>Đường hàm quyến rũ</Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>
+<Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>Kéo dài</Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>
+<Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>Thô lỗ</Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>
+<Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>Hàm</Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>
+<Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>Kéo dài</Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>
+<Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>Kéo lê</Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>
+<Nose_Human.label>Đôi mũi người</Nose_Human.label>
+<Nose_Human.description>Người mang gen này có mũi chuẩn của con người.</Nose_Human.description>
+<Nose_Pig.label>Đôi mũi heo</Nose_Pig.label>
+<Nose_Pig.description>Người mang gen này có mũi giống như heo.</Nose_Pig.description>
+<Nose_Pig.symbolPack.prefixSymbols.0.symbol>Heo</Nose_Pig.symbolPack.prefixSymbols.0.symbol>
+<Nose_Pig.symbolPack.prefixSymbols.1.symbol>Heo</Nose_Pig.symbolPack.prefixSymbols.1.symbol>
+<Nose_Pig.symbolPack.prefixSymbols.2.symbol>Mũi heo</Nose_Pig.symbolPack.prefixSymbols.2.symbol>
+<Nose_Pig.symbolPack.prefixSymbols.3.symbol>Heo rừng</Nose_Pig.symbolPack.prefixSymbols.3.symbol>
+<Nose_Pig.symbolPack.prefixSymbols.4.symbol>Heo béo</Nose_Pig.symbolPack.prefixSymbols.4.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.0.symbol>Heo con</Nose_Pig.symbolPack.suffixSymbols.0.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.1.symbol>Mũi</Nose_Pig.symbolPack.suffixSymbols.1.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.2.symbol>Heo lợn</Nose_Pig.symbolPack.suffixSymbols.2.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.3.symbol>Heo rừng</Nose_Pig.symbolPack.suffixSymbols.3.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.4.symbol>Heo béo</Nose_Pig.symbolPack.suffixSymbols.4.symbol>
+<Nose_Pig.symbolPack.suffixSymbols.5.symbol>Mũi heo</Nose_Pig.symbolPack.suffixSymbols.5.symbol>
+<Voice_Human.label>Giọng nói người</Voice_Human.label>
+<Voice_Human.description>Người mang gen này có dây thanh quản chuẩn của con người.</Voice_Human.description>
+<VoicePig.label>Giọng heo</VoicePig.label>
+<VoicePig.description>Người mang gen này phát ra âm thanh giống như tiếng heo kêu.</VoicePig.description>
+<VoicePig.symbolPack.prefixSymbols.0.symbol>Giọng the thé</VoicePig.symbolPack.prefixSymbols.0.symbol>
+<VoicePig.symbolPack.prefixSymbols.1.symbol>Hừ hừ</VoicePig.symbolPack.prefixSymbols.1.symbol>
+<VoicePig.symbolPack.prefixSymbols.2.symbol>Âm mũi</VoicePig.symbolPack.prefixSymbols.2.symbol>
+<VoicePig.symbolPack.prefixSymbols.3.symbol>Âm hừ</VoicePig.symbolPack.prefixSymbols.3.symbol>
+<VoicePig.symbolPack.suffixSymbols.0.symbol>Quái vật hừ hừ</VoicePig.symbolPack.suffixSymbols.0.symbol>
+<VoicePig.symbolPack.suffixSymbols.1.symbol>Heo béo</VoicePig.symbolPack.suffixSymbols.1.symbol>
+<VoicePig.symbolPack.suffixSymbols.2.symbol>Heo đực</VoicePig.symbolPack.suffixSymbols.2.symbol>
+<VoicePig.symbolPack.suffixSymbols.3.symbol>Mũi to</VoicePig.symbolPack.suffixSymbols.3.symbol>
+<VoicePig.symbolPack.wholeNameSymbols.0.symbol>Người kêu</VoicePig.symbolPack.wholeNameSymbols.0.symbol>
+<VoicePig.symbolPack.wholeNameSymbols.1.symbol>Quái vật hừ hừ</VoicePig.symbolPack.wholeNameSymbols.1.symbol>
+<VoicePig.symbolPack.wholeNameSymbols.2.symbol>Mũi to</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
+<VoiceRoar.label>Tiếng gầm</VoiceRoar.label>
+<VoiceRoar.description>Người mang gen này phát ra âm thanh giống như tiếng gầm của thú dữ.</VoiceRoar.description>
+<VoiceRoar.symbolPack.prefixSymbols.0.symbol>Gầm</VoiceRoar.symbolPack.prefixSymbols.0.symbol>
+<VoiceRoar.symbolPack.prefixSymbols.1.symbol>Hú</VoiceRoar.symbolPack.prefixSymbols.1.symbol>
+<VoiceRoar.symbolPack.prefixSymbols.2.symbol>Khủng khiếp</VoiceRoar.symbolPack.prefixSymbols.2.symbol>
+<VoiceRoar.symbolPack.suffixSymbols.0.symbol>Gầm</VoiceRoar.symbolPack.suffixSymbols.0.symbol>
+<VoiceRoar.symbolPack.suffixSymbols.1.symbol>Hú</VoiceRoar.symbolPack.suffixSymbols.1.symbol>
+<VoiceRoar.symbolPack.suffixSymbols.2.symbol>Hú</VoiceRoar.symbolPack.suffixSymbols.2.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>Người gầm</VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>Người hú</VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>Người sủa</VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>Người hú</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GauranlenConnectionDesired.stages.Gauranlen_connection.label>Cộng hưởng cây mẹ</GauranlenConnectionDesired.stages.Gauranlen_connection.label>
+<GauranlenConnectionDesired.stages.Gauranlen_connection.description>Tôi rất vui khi kết nối với một cái cây mẹ.</GauranlenConnectionDesired.stages.Gauranlen_connection.description>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>Khao khát kết nối với cây mẹ</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>Không có kết nối với cây mẹ, tôi cảm thấy mình bị tách rời khỏi thiên nhiên.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>Khao khát kết nối với cây mẹ</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>Không có kết nối với cây mẹ, tôi cảm thấy mình bị tách rời khỏi thiên nhiên.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>Khao khát kết nối với cây mẹ</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>Không có kết nối với cây mẹ, tôi cảm thấy mình bị tách rời khỏi thiên nhiên.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>Khao khát kết nối với cây mẹ</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>Không có kết nối với cây mẹ, tôi cảm thấy mình bị tách rời khỏi thiên nhiên.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>Khao khát kết nối với cây mẹ</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>
+<GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>Không có kết nối với cây mẹ, tôi cảm thấy mình bị tách rời khỏi thiên nhiên.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
+<TreeDensityReduced.stages.healthy_trees.label>Cây khỏe mạnh</TreeDensityReduced.stages.healthy_trees.label>
+<TreeDensityReduced.stages.healthy_trees.description>Trong thời gian qua, gần như không có cây nào bị phá hủy. Chúng tôi sống hòa hợp với cây cối, đây là khởi đầu cho một cuộc sống tốt đẹp.</TreeDensityReduced.stages.healthy_trees.description>
+<TreeDensityReduced.stages.trees_disturbed.label>Cây bị quấy rối</TreeDensityReduced.stages.trees_disturbed.label>
+<TreeDensityReduced.stages.trees_disturbed.description>Trong thời gian qua, một số cây mà chúng tôi không nên có đã bị phá hủy. Điều này có thể cần thiết, nhưng vẫn khiến tôi buồn.</TreeDensityReduced.stages.trees_disturbed.description>
+<TreeDensityReduced.stages.trees_defaced.label>Cây bị hư hỏng</TreeDensityReduced.stages.trees_defaced.label>
+<TreeDensityReduced.stages.trees_defaced.description>Trong thời gian qua, chúng tôi đã phá hủy nhiều cây mà không nên làm như vậy. Tôi nghĩ điều này là không cần thiết.</TreeDensityReduced.stages.trees_defaced.description>
+<TreeDensityReduced.stages.trees_damaged.label>Cây bị tổn thương</TreeDensityReduced.stages.trees_damaged.label>
+<TreeDensityReduced.stages.trees_damaged.description>Trong thời gian qua, chúng tôi đã phá hủy nhiều cây mà không nên làm như vậy. Tội ác này là không cần thiết, nhưng chúng tôi vẫn làm.</TreeDensityReduced.stages.trees_damaged.description>
+<TreeDensityReduced.stages.trees_harmed.label>Cây bị thiệt hại</TreeDensityReduced.stages.trees_harmed.label>
+<TreeDensityReduced.stages.trees_harmed.description>Trong thời gian qua, số lượng cây chúng tôi phá hủy là không thể tha thứ, chúng tôi cần làm tốt hơn.</TreeDensityReduced.stages.trees_harmed.description>
+<TreeDensityReduced.stages.trees_defiled.label>Cây bị ô uế</TreeDensityReduced.stages.trees_defiled.label>
+<TreeDensityReduced.stages.trees_defiled.description>Trong thời gian qua, chúng tôi đã phá hủy một số lượng lớn cây cối, điều này là không thể tha thứ. Tội lỗi của chúng tôi rất nặng nề.</TreeDensityReduced.stages.trees_defiled.description>
+<TreeDensityReduced.stages.trees_wrecked.label>Rừng bị hủy hoại</TreeDensityReduced.stages.trees_wrecked.label>
+<TreeDensityReduced.stages.trees_wrecked.description>Trong thời gian qua, chúng tôi đã phá hủy một số lượng lớn cây cối. Tôi thậm chí có thể nghe thấy tiếng kêu gào của lá cây ngay bây giờ.</TreeDensityReduced.stages.trees_wrecked.description>
+<TreeDensityReduced.stages.trees_ravaged.label>Rừng bị tàn phá</TreeDensityReduced.stages.trees_ravaged.label>
+<TreeDensityReduced.stages.trees_ravaged.description>Trong thời gian qua, số lượng cây mà chúng tôi đã phá hủy thật đáng kinh ngạc, thật sự là một tai họa cho vũ trụ.</TreeDensityReduced.stages.trees_ravaged.description>
+<TreesDesired.stages.amazing_trees.label>Cây tuyệt đẹp</TreesDesired.stages.amazing_trees.label>
+<TreesDesired.stages.amazing_trees.description>Tôi được bao quanh bởi những cây lớn đẹp đẽ, khiến tôi không thể không ngạc nhiên trước vẻ đẹp của thiên nhiên!</TreesDesired.stages.amazing_trees.description>
+<TreesDesired.stages.amazing_tree-0.label>Cây tuyệt đẹp</TreesDesired.stages.amazing_tree-0.label>
+<TreesDesired.stages.amazing_tree-0.description>Tôi vừa thấy một cái cây lớn đẹp đẽ, như thể là hiện thân của đức hạnh!</TreesDesired.stages.amazing_tree-0.description>
+<TreesDesired.stages.remarkable_trees.label>Cây phi thường</TreesDesired.stages.remarkable_trees.label>
+<TreesDesired.stages.remarkable_trees.description>Tôi đang được bao quanh bởi một khu rừng rậm rạp.</TreesDesired.stages.remarkable_trees.description>
+<TreesDesired.stages.amazing_tree-1.label>Cây tuyệt đẹp</TreesDesired.stages.amazing_tree-1.label>
+<TreesDesired.stages.amazing_tree-1.description>Tôi vừa thấy một cái cây lớn đẹp đẽ.</TreesDesired.stages.amazing_tree-1.description>
+<TreesDesired.stages.rich_forest.label>Rừng rậm rạp</TreesDesired.stages.rich_forest.label>
+<TreesDesired.stages.rich_forest.description>Tôi vừa được bao quanh bởi một khu rừng rậm rạp.</TreesDesired.stages.rich_forest.description>
+<TreesDesired.stages.full_trees.label>Cây cối phát triển tốt</TreesDesired.stages.full_trees.label>
+<TreesDesired.stages.full_trees.description>Tôi vừa đi dạo giữa nhiều cây cối khỏe mạnh.</TreesDesired.stages.full_trees.description>
+<TreesDesired.stages.mixed_trees.label>Rừng hỗn hợp</TreesDesired.stages.mixed_trees.label>
+<TreesDesired.stages.mixed_trees.description>Tôi vừa đi dạo giữa nhiều loại cây khác nhau.</TreesDesired.stages.mixed_trees.description>
+<TreesDesired.stages.full_tree.label>Cây phát triển tốt</TreesDesired.stages.full_tree.label>
+<TreesDesired.stages.full_tree.description>Tôi vừa thấy một cái cây khỏe mạnh.</TreesDesired.stages.full_tree.description>
+<TreesDesired.stages.mini_trees.label>Rừng mini</TreesDesired.stages.mini_trees.label>
+<TreesDesired.stages.mini_trees.description>Tôi vừa ở gần nhiều cây nhỏ.</TreesDesired.stages.mini_trees.description>
+<TreesDesired.stages.mini_tree.label>Cây mini</TreesDesired.stages.mini_tree.label>
+<TreesDesired.stages.mini_tree.description>Tôi vừa thấy một cái cây nhỏ.</TreesDesired.stages.mini_tree.description>
+<TreesDesired.stages.no_tree-0.label>Không có cây</TreesDesired.stages.no_tree-0.label>
+<TreesDesired.stages.no_tree-0.description>Đã lâu tôi không thấy cây.</TreesDesired.stages.no_tree-0.description>
+<TreesDesired.stages.no_tree-1.label>Không có cây</TreesDesired.stages.no_tree-1.label>
+<TreesDesired.stages.no_tree-1.description>Tôi nhớ những cái cây xung quanh.</TreesDesired.stages.no_tree-1.description>
+<TreesDesired.stages.trees_missed-0.label>Không thấy cây</TreesDesired.stages.trees_missed-0.label>
+<TreesDesired.stages.trees_missed-0.description>Tôi đã không đến gần cây cối trong một thời gian.</TreesDesired.stages.trees_missed-0.description>
+<TreesDesired.stages.trees_missed-1.label>Không thấy cây</TreesDesired.stages.trees_missed-1.label>
+<TreesDesired.stages.trees_missed-1.description>Tôi đã rất lâu không thấy cây.</TreesDesired.stages.trees_missed-1.description>
+<TreesDesired.stages.trees_sorely_missed.label>Rất lâu không thấy cây</TreesDesired.stages.trees_sorely_missed.label>
+<TreesDesired.stages.trees_sorely_missed.description>Tôi đã rất lâu rất lâu không thấy cây!</TreesDesired.stages.trees_sorely_missed.description>
+</LanguageData>

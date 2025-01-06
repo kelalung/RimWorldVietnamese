@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BioferriteGenerator.label>Máy phát điện Bioferrite</BioferriteGenerator.label>
+<BioferriteGenerator.description>Một máy phát điện đốt cháy bioferrite bằng cách nén để thu điện từ nhiệt sinh ra.\n\nQuá trình phát điện này làm giảm tính linh hoạt tâm linh của nó, do đó thiết bị này phát ra tiếng ồn tâm linh khó chịu.</BioferriteGenerator.description>
+<Electroharvester.label>Máy hút điện</Electroharvester.label>
+<Electroharvester.description>Một máy phát điện có thể được đặt gần nền tảng chứa, nó hút điện từ các thực thể bị giam giữ. Máy này sẽ đâm vào cơ thể của thực thể, sử dụng không gian bất thường bên trong thực thể để tạo ra điện.\n\nCác thực thể lớn hơn thường có thể tạo ra nhiều điện hơn. Tuy nhiên, máy hút điện sẽ kích thích thực thể, làm tăng ham muốn thoát khỏi nó.\n\nMỗi nền tảng chứa chỉ có thể kết nối với một máy hút điện, nhưng mỗi máy hút điện có thể kết nối với tối đa bốn nền tảng.</Electroharvester.description>
+</LanguageData>

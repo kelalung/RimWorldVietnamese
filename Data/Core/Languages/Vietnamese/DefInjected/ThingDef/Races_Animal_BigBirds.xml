@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Cassowary.label>Đà điểu châu Úc</Cassowary.label>
+	<Cassowary.description>Một loài chim lớn không biết bay, có bộ lông màu sắc rực rỡ. Mặc dù trông đẹp, nhưng cú đá của nó lại rất mạnh. Khi bị tấn công hoặc đối mặt với người nuôi thú không có khả năng, nó sẽ phản công nhanh chóng.</Cassowary.description>
+	<Cassowary.race.meatLabel>Thịt chim</Cassowary.race.meatLabel>
+	<Cassowary.tools.claws.label>Móng</Cassowary.tools.claws.label>
+	<Cassowary.tools.beak.label>Đỉnh</Cassowary.tools.beak.label>
+	<Cassowary.tools.head.label>Đầu</Cassowary.tools.head.label>
+	<Emu.label>Đà điểu emu</Emu.label>
+	<Emu.description>Một loài chim lớn không biết bay, với khuôn mặt xấu xí nhưng đôi mắt sáng như đá quý. Tính cách rất xấu, là một kẻ lưu manh trong tự nhiên.</Emu.description>
+	<Emu.tools.claws.label>Móng</Emu.tools.claws.label>
+	<Emu.tools.beak.label>Đỉnh</Emu.tools.beak.label>
+	<Emu.tools.head.label>Đầu</Emu.tools.head.label>
+	<Ostrich.label>Đà điểu</Ostrich.label>
+	<Ostrich.description>Loài chim bản địa lớn nhất, đà điểu nổi tiếng với khả năng chạy nhanh, trứng lớn và đôi chân mạnh mẽ.</Ostrich.description>
+	<Ostrich.tools.claws.label>Móng</Ostrich.tools.claws.label>
+	<Ostrich.tools.beak.label>Đỉnh</Ostrich.tools.beak.label>
+	<Ostrich.tools.head.label>Đầu</Ostrich.tools.head.label>
+</LanguageData>

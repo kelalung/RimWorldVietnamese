@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BrainwipeTarget.label>Mục tiêu</BrainwipeTarget.label>
+	<Chanter.label>Người ngâm vịnh</Chanter.label>
+	<Chanter.description>Người ngâm vịnh có thể truyền năng lượng tâm linh cho nghi lễ.</Chanter.description>
+	<ChanterAdvanced.label>Người ngâm vịnh nâng cao</ChanterAdvanced.label>
+	<ChanterAdvanced.description>Người ngâm vịnh có thể truyền năng lượng tâm linh cho nghi lễ.</ChanterAdvanced.description>
+	<ChronophagyTarget.label>Mục tiêu</ChronophagyTarget.label>
+	<DeathRefusalTarget.label>Mục tiêu</DeathRefusalTarget.label>
+	<DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>Số lượng “tránh cái chết” của {PAWN_labelShort} đã đạt giới hạn tối đa.</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+	<Defender.label>Bảo vệ</Defender.label>
+	<Defender.description>Bảo vệ sẽ bảo vệ những người tham gia nghi lễ.</Defender.description>
+	<Invoker.label>Người khởi xướng</Invoker.label>
+	<PhilophagyTarget.label>Mục tiêu</PhilophagyTarget.label>
+	<PsychophagyTarget.label>Mục tiêu</PsychophagyTarget.label>
+</LanguageData>

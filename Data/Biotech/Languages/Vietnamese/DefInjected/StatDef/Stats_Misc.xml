@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MaxInstallCount.label>Số lần cấy ghép tối đa</MaxInstallCount.label>
+<MaxInstallCount.description>Số lần có thể được cấy ghép. Mỗi lần cấy ghép thêm sẽ tăng cường hiệu quả cơ bản.</MaxInstallCount.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Classic.label>Cổ điển</Classic.label>
+<Classic.description>Chế độ trò chơi cổ điển không kích hoạt hệ thống văn hóa. Thích hợp cho vài trận đấu đầu tiên hoặc khi không muốn nổi bật. Tất cả nội dung liên quan đến DLC văn hóa vẫn có hiệu lực.</Classic.description>
+<Classic.groupLabel>Cổ điển</Classic.groupLabel>
+<Custom.label>Tùy chỉnh</Custom.label>
+<Custom.description>Tạo một hình thái văn hóa mới và điều chỉnh từng chi tiết. Điều này có thể tốn một chút thời gian.</Custom.description>
+<Custom.groupLabel>Tùy chỉnh</Custom.groupLabel>
+<Fluid.label>Tiến hóa</Fluid.label>
+<Fluid.description>Bắt đầu từ hình thái văn hóa đơn giản, phát triển thành hình thái văn hóa phức tạp theo thời gian.</Fluid.description>
+<Fluid.groupLabel>Tiến hóa</Fluid.groupLabel>
+<Intense.label>Cực đoan</Intense.label>
+<Intense.description>Các văn hóa này rất cực đoan, trò chơi của bạn sẽ khác biệt rất lớn so với cách chơi truyền thống. Hầu như đều làm tăng độ khó của trò chơi.</Intense.description>
+<Intense.groupLabel>Văn hóa cực đoan</Intense.groupLabel>
+<Mild.label>Ôn hòa</Mild.label>
+<Mild.description>Hình thái văn hóa giống như chế độ cổ điển, nhưng có một chút thay đổi.</Mild.description>
+<Mild.groupLabel>Văn hóa ôn hòa</Mild.groupLabel>
+<Strong.label>Quyết liệt</Strong.label>
+<Strong.description>Các văn hóa này có phần quyết liệt, khác biệt rõ rệt so với văn hóa cổ điển.</Strong.description>
+<Strong.groupLabel>Văn hóa quyết liệt</Strong.groupLabel>
+</LanguageData>

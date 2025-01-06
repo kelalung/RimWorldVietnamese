@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BroadshieldProjector.label>Thiết bị chiếu khiên</BroadshieldProjector.label>
+<BroadshieldProjector.description>Một thiết bị chiếu khiên di động có thể mang theo bởi một người lính. Đạn có thể bắn ra nhưng không thể bắn vào. Nó sẽ tự động bị thiêu rụi sau một khoảng thời gian.</BroadshieldProjector.description>
+<BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>Thiêu rụi vào</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
+</LanguageData>

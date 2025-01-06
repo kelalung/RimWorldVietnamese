@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientBarrel.label>Thùng cổ xưa</AncientBarrel.label>
+<AncientBarrel.description>Một thùng có vẻ như đã từng chứa một loại chất thải nào đó. Bây giờ bên trong chỉ còn một ít bùn.</AncientBarrel.description>
+<AncientBed.label>Giường cổ xưa</AncientBed.label>
+<AncientBed.description>Một chiếc giường đơn cũ kỹ. Mặc dù nằm không thoải mái, nhưng vẫn có thể sử dụng bình thường. Do đã quá lâu, không thể sửa chữa được.</AncientBed.description>
+<AncientCrate.label>Hòm chứa cổ xưa</AncientCrate.label>
+<AncientCrate.description>Một hòm chứa cũ kỹ. Các vật bên trong đã lão hóa thành những mảnh vụn không còn giá trị.</AncientCrate.description>
+<AncientDisplayBank.label>Màn hình cổ xưa</AncientDisplayBank.label>
+<AncientDisplayBank.description>Một nhóm màn hình cổ xưa với chức năng không xác định. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientDisplayBank.description>
+<AncientEquipmentBlocks.label>Bộ thiết bị cổ xưa</AncientEquipmentBlocks.label>
+<AncientEquipmentBlocks.description>Một nhóm thiết bị cổ xưa với chức năng không xác định. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientEquipmentBlocks.description>
+<AncientGenerator.label>Máy phát điện cổ xưa</AncientGenerator.label>
+<AncientGenerator.description>Một máy phát điện cổ xưa đã rỉ sét. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientGenerator.description>
+<AncientLockerBank.label>Ngân hàng tủ cổ xưa</AncientLockerBank.label>
+<AncientLockerBank.description>Một nhóm tủ cổ xưa đã rỉ sét. Tất cả các tủ đều đã bị mở khóa, không còn vật quý nào bên trong.</AncientLockerBank.description>
+<AncientMachine.label>Máy móc cổ xưa</AncientMachine.label>
+<AncientMachine.description>Một máy móc lớn đã rỉ sét, chúng ta không biết cấu trúc bên trong. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientMachine.description>
+<AncientMilitaryCrate.label>Hòm quân dụng cổ xưa</AncientMilitaryCrate.label>
+<AncientMilitaryCrate.description>Một hòm cổ xưa có vẻ là quân dụng. Nó đã bị phá hủy từ lâu, và mọi thứ bên trong đã bị cướp sạch.</AncientMilitaryCrate.description>
+<AncientOperatingTable.label>Bàn phẫu thuật cổ xưa</AncientOperatingTable.label>
+<AncientOperatingTable.description>Một bàn phẫu thuật từng được sử dụng cho phẫu thuật, đã rất cũ kỹ.</AncientOperatingTable.description>
+<AncientSpacerCrate.label>Hòm vật tư không gian cổ xưa</AncientSpacerCrate.label>
+<AncientSpacerCrate.description>Một hòm vật tư cổ xưa bị hư hại. Những vật quý từng được bảo quản đã bị lấy đi từ lâu.</AncientSpacerCrate.description>
+<AncientStorageCylinder.label>Thùng chứa cổ xưa</AncientStorageCylinder.label>
+<AncientStorageCylinder.description>Một thùng chứa đã rỉ sét, có vẻ như đã từng chứa một loại chất lỏng nào đó. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientStorageCylinder.description>
+<AncientSystemRack.label>Kệ thiết bị cổ xưa</AncientSystemRack.label>
+<AncientSystemRack.description>Một kệ thiết bị đã rỉ sét với các thiết bị không xác định. Các bộ phận quý giá đã biến mất, và những gì còn lại đều đã lão hóa và không còn giá trị.</AncientSystemRack.description>
+</LanguageData>

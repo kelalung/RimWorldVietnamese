@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AirConditioning.label>Điều hòa không khí</AirConditioning.label>
+	<AirConditioning.description>Mở khóa xây dựng điều hòa không khí, có thể làm mát phòng khi thời tiết nóng bức, hoặc được sử dụng để thiết lập kho lạnh.</AirConditioning.description>
+	<AirConditioning.generalRules.rulesStrings>
+		<li>subject->Điều hòa không khí</li>
+		<li>subject_story->Thăm một thị trấn nóng nhất trên hành tinh.</li>
+		<li>subject_story->Làm việc trong một kho liên sao gần với nhiệt độ tuyệt đối.</li>
+		<li>subject_story->Học tất cả kiến thức liên quan đến điều hòa và tủ lạnh, rồi trở về quê hương.</li>
+		<li>subject_gerund->Xây dựng điều hòa không khí</li>
+	</AirConditioning.generalRules.rulesStrings>
+	<Autodoors.label>Cửa tự động</Autodoors.label>
+	<Autodoors.description>Mở khóa xây dựng "cửa tự động", không làm chậm người đi qua.</Autodoors.description>
+	<Autodoors.generalRules.rulesStrings>
+		<li>subject->Cửa tự động</li>
+		<li>subject_story->Được một công ty an ninh robot thuê, bắt đầu sự nghiệp kiểm tra tự động hóa.</li>
+		<li>subject_story->Phát triển nguyên mẫu cửa tự động độc đáo.</li>
+		<li>subject_story->Làm việc rất chăm chỉ để đảm bảo cửa phát ra âm thanh “xì xì” dễ chịu khi mở hoặc đóng.</li>
+		<li>subject_gerund->Xây dựng cửa tự động</li>
+	</Autodoors.generalRules.rulesStrings>
+	<Batteries.label>Pin lưu trữ</Batteries.label>
+	<Batteries.description>Mở khóa xây dựng "Pin lưu trữ" để lưu trữ điện năng.</Batteries.description>
+	<Batteries.generalRules.rulesStrings>
+		<li>subject->Pin lưu trữ</li>
+		<li>subject_story->Phát hiện hồ axit bên bờ hồ chì trong thế giới chết có thể hoạt động như một Pin lưu trữ tự nhiên.</li>
+		<li>subject_story->Chịu trách nhiệm đảm bảo hệ thống duy trì sự sống có điện liên tục khi thuộc địa mất điện.</li>
+		<li>subject_story->Làm việc trong thế giới rác thải, chịu trách nhiệm sửa chữa máy móc và Pin lưu trữ.</li>
+		<li>subject_gerund->Xây dựng Pin lưu trữ</li>
+	</Batteries.generalRules.rulesStrings>
+	<BiofuelRefining.label>Công nghệ tinh chế</BiofuelRefining.label>
+	<BiofuelRefining.description>Mở khóa xây dựng "thiết bị tinh chế", dùng để tinh chế nhiên liệu hóa hợp từ gỗ, thực phẩm thô và các vật liệu sinh học khác.</BiofuelRefining.description>
+	<BiofuelRefining.generalRules.rulesStrings>
+		<li>subject->Nhiên liệu sinh học</li>
+		<li>subject_story->Bị mắc kẹt trên một tàu thuộc thế hệ thuộc địa mất động lực. Cô sử dụng kiến thức tinh chế của mình để biến xác người thành nhiên liệu sinh học và khởi động lại động cơ.</li>
+		<li>subject_story->Bắt đầu quá trình cải tạo địa hình dài lâu trong thế giới băng tuyết bằng nhà máy tinh chế sinh học tự động.</li>
+		<li>subject_story->Mở một nhà máy bia để sản xuất rượu tự chế, nhưng sau đó nhận ra rằng những thứ đó không thể uống được, nên đã bán rượu tự chế như một loại nhiên liệu hóa hợp.</li>
+		<li>subject_gerund->Tinh chế nhiên liệu sinh học</li>
+	</BiofuelRefining.generalRules.rulesStrings>
+	<BlowbackOperation.label>Hệ thống phản lực</BlowbackOperation.label>
+	<BlowbackOperation.description>Mở khóa sản xuất súng nhẹ kiểu phản lực, như súng ngắn tự động và súng tiểu liên.</BlowbackOperation.description>
+	<BlowbackOperation.generalRules.rulesStrings>
+		<li>subject->Súng ngắn</li>
+		<li>subject->Súng kiểu phản lực</li>
+		<li>subject_story->Sử dụng súng ngắn tự động vượt trội hơn công nghệ hành tinh trong trận chiến hào.</li>
+		<li>subject_story->Bán súng ngắn tự động công suất thấp cho các cơ quan thực thi pháp luật trên quỹ đạo.</li>
+		<li>subject_story->Sản xuất súng kiểu phản lực cho những người lính nghĩa vụ bị cận thị.</li>
+		<li>subject_gerund->Sản xuất súng kiểu phản lực</li>
+	</BlowbackOperation.generalRules.rulesStrings>
+	<ColoredLights.label>Cải tiến chiếu sáng</ColoredLights.label>
+	<ColoredLights.description>Mở khóa xây dựng "đèn pha" có phạm vi chiếu sáng rộng hơn. Hơn nữa, mức tiêu thụ điện của tất cả đèn sẽ giảm một nửa và có thể thay đổi màu ánh sáng theo sở thích. Hiệu ứng này sẽ không ảnh hưởng đến đèn mặt trời.</ColoredLights.description>
+	<ColoredLights.generalRules.rulesStrings>
+		<li>subject->Cải tiến chiếu sáng</li>
+		<li>subject_story->Lắp đặt đèn pha trên nhiều hệ thống an ninh trong thế giới nhà tù.</li>
+		<li>subject_story->Tìm cách cung cấp ánh sáng đầy đủ cho mặt tối của hành tinh này.</li>
+		<li>subject_story->Tổ chức buổi hòa nhạc cho ca sĩ dân gian liên sao, đặc biệt chịu trách nhiệm điều khiển thiết bị chiếu sáng lớn trên tàu.</li>
+		<li>subject_gerund->Xây dựng đèn chiếu sáng cải tiến</li>
+	</ColoredLights.generalRules.rulesStrings>
+	<Electricity.label>Điện</Electricity.label>
+	<Electricity.description>Thấu hiểu sức mạnh của điện để đối phó với những tình huống phức tạp hơn. Mở khóa xây dựng các thiết bị phát điện và sử dụng điện cơ bản khác nhau.</Electricity.description>
+	<Electricity.discoveredLetterText>Thuộc địa của bạn đã có thể tận dụng sức mạnh mà người ngoài hành tinh gọi là "điện". Nó có thể thay đổi cách sống của các thuộc địa của bạn từ nhiều khía cạnh.\n\nBạn đã mở khóa tab "Điện" trong bảng "Kế hoạch xây dựng", nơi bạn có thể xây dựng máy phát điện, cáp và các thiết bị khác để kiểm soát sức mạnh mới này. Tab "Điện" cũng có thể hiển thị lưới điện kết nối máy phát điện và thiết bị tiêu thụ điện.</Electricity.discoveredLetterText>
+	<Electricity.discoveredLetterTitle>Về: Điện</Electricity.discoveredLetterTitle>
+	<Electricity.generalRules.rulesStrings>
+		<li>subject->Điện</li>
+		<li>subject_story->Bị sét đánh và quyết tâm điều khiển nó.</li>
+		<li>subject_story->Tạo ra máy phát điện và bóng đèn đầu tiên trên thế giới trung cổ.</li>
+		<li>subject_story->Bị xử án vì hành vi báng bổ khi tạo ra ánh sáng trong thế giới phong kiến.</li>
+		<li>subject_gerund->Sử dụng điện</li>
+	</Electricity.generalRules.rulesStrings>
+	<Firefoam.label>Bình chữa cháy foam</Firefoam.label>
+	<Firefoam.description>Mở khóa xây dựng "bình chữa cháy foam", một thiết bị chữa cháy tự động có khả năng phát hiện ngọn lửa và phun ra lượng lớn foam chống cháy.</Firefoam.description>
+	<Firefoam.generalRules.rulesStrings>
+		<li>subject->Bình chữa cháy foam</li>
+		<li>subject->Thiết bị an toàn chữa cháy</li>
+		<li>subject_story->Lãnh đạo một tổ chức tuyên truyền an toàn chữa cháy cho mọi người.</li>
+		<li>subject_story->Trở thành một nhân viên cứu hỏa.</li>
+		<li>subject_story->Được cứu khỏi một vụ cháy do tràn dầu mất kiểm soát bởi các nhân viên cứu hỏa.</li>
+		<li>subject_gerund->Xây dựng bình chữa cháy foam</li>
+		<li>subject_gerund->Dùng bình chữa cháy để dập lửa</li>
+	</Firefoam.generalRules.rulesStrings>
+	<FlakArmor.label>Áo giáp chống đạn</FlakArmor.label>
+	<FlakArmor.description>Mở khóa sản xuất áo giáp kim loại có khả năng ngăn chặn hiệu quả đạn và tác động của vụ nổ, nhược điểm là sẽ làm chậm một chút tốc độ di chuyển.</FlakArmor.description>
+	<FlakArmor.generalRules.rulesStrings>
+		<li>subject->Áo giáp chống đạn</li>
+		<li>subject_story->Cung cấp áo giáp chống đạn cho các dân quân kiểm soát thành phố.</li>
+		<li>subject_story->Học cách may các tấm kim loại vào trong quần áo để bảo vệ người thân khỏi sự tấn công của bọn côn đồ.</li>
+		<li>subject_story->Nhờ vào tấm kim loại may trong túi áo phía trước, đã sống sót sau khi bị đạn súng trường bắn trúng.</li>
+		<li>subject_gerund->Sản xuất áo giáp chống đạn</li>
+	</FlakArmor.generalRules.rulesStrings>
+	<FoamTurret.label>Tháp chữa cháy foam</FoamTurret.label>
+	<FoamTurret.description>Mở khóa xây dựng "tháp phun foam", một tháp có khả năng phun ra foam chống cháy xung quanh. Cần người thuộc địa kích hoạt bằng tay.</FoamTurret.description>
+	<FoamTurret.generalRules.rulesStrings>
+		<li>subject->Tháp chữa cháy foam</li>
+		<li>subject_story->Thiết kế lại tháp vốn dùng để gây hỏa hoạn thành tháp chữa cháy.</li>
+		<li>subject_story->Tích hợp cảm biến nhiệt và thiết bị phun foam vào chân đế của tháp tiêu chuẩn.</li>
+		<li>subject_story->Lắp đặt tháp phun foam giá rẻ tại các khu vực công cộng, được khen ngợi vì đã cứu sống nhiều người.</li>
+		<li>subject_gerund->Xây dựng tháp chữa cháy foam</li>
+		<li>subject_gerund->Dùng tháp chữa cháy để dập lửa</li>
+	</FoamTurret.generalRules.rulesStrings>
+	<GasOperation.label>Hệ thống khí nén</GasOperation.label>
+	<GasOperation.description>Sản xuất các loại vũ khí mạnh mẽ, như súng tiểu liên hạng nặng, súng ngắn bắn đạn ghém, và súng máy nhẹ.</GasOperation.description>
+	<GasOperation.generalRules.rulesStrings>
+		<li>subject->Vũ khí hạng nặng</li>
+		<li>subject->Vũ khí mạnh mẽ</li>
+		<li>subject_story->Trang bị súng máy nhẹ cho đội vũ khí đặc biệt của quân đội độc tài.</li>
+		<li>subject_story->Cung cấp vũ khí hạng nặng cho một số quân đội hành tinh.</li>
+		<li>subject_story->Thiết kế nhiều loại vũ khí mạnh mẽ mới, vẫn được biết đến đến ngày nay.</li>
+		<li>subject_gerund->Sản xuất vũ khí</li>
+	</GasOperation.generalRules.rulesStrings>
+	<GeothermalPower.label>Năng lượng hơi nước</GeothermalPower.label>
+	<GeothermalPower.description>Mở khóa xây dựng "máy phát điện hơi nước", cung cấp điện liên tục khi đặt trên các suối nước nóng.</GeothermalPower.description>
+	<GeothermalPower.generalRules.rulesStrings>
+		<li>subject->Năng lượng hơi nước</li>
+		<li>subject_story->Nghiên cứu năng lượng hơi nước và xây dựng nhà máy điện hơi nước trong toàn khu vực.</li>
+		<li>subject_story->Sử dụng năng lượng từ một ngọn núi lửa ngủ để cung cấp điện cho lưới điện địa phương.</li>
+		<li>subject_story->Xảy ra tranh cãi với cư dân địa phương muốn bảo vệ cảnh quan của suối nước nóng, không muốn sử dụng nó để phát điện.</li>
+		<li>subject_gerund->Phát triển năng lượng hơi nước</li>
+		<li>subject_gerund->Xây dựng máy phát điện hơi nước</li>
+	</GeothermalPower.generalRules.rulesStrings>
+	<Gunsmithing.label>Sản xuất vũ khí</Gunsmithing.label>
+	<Gunsmithing.description>Sản xuất các loại vũ khí thủ công đơn giản, như súng lục, súng bắn đạn ghém, súng trường, và súng phóng bom.</Gunsmithing.description>
+	<Gunsmithing.generalRules.rulesStrings>
+		<li>subject->Vũ khí đơn giản</li>
+		<li>subject_story->Chế tạo một khẩu súng lục 12 viên độc đáo và thắng lợi trong nhiều cuộc chiến.</li>
+		<li>subject_story->Chuyên sản xuất vũ khí đơn giản, cung cấp súng bắn đạn ghém và súng trường cho thợ săn.</li>
+		<li>subject_story->Là một thợ chế tạo vũ khí, nổi tiếng trong ngành.</li>
+		<li>subject_gerund->Lắp ráp vũ khí</li>
+		<li>subject_gerund->Sản xuất vũ khí</li>
+	</Gunsmithing.generalRules.rulesStrings>
+	<GunTurrets.label>Tháp súng tự động</GunTurrets.label>
+	<GunTurrets.description>Mở khóa xây dựng "tháp súng tự động nhỏ".</GunTurrets.description>
+	<GunTurrets.generalRules.rulesStrings>
+		<li>subject->Tháp súng tự động</li>
+		<li>subject_story->Nghiên cứu chương trình AI, cho phép tháp nhận diện kẻ thù và bạn.</li>
+		<li>subject_story->Thiết kế bộ điều hợp tháp mô-đun, có thể lắp đặt bất kỳ loại vũ khí nào.</li>
+		<li>subject_story->Trước khi dẫn đầu cuộc tấn công, đã tiêu diệt từ xa tháp của kẻ thù.</li>
+		<li>subject_gerund->Xây dựng tháp súng tự động</li>
+	</GunTurrets.generalRules.rulesStrings>
+	<Hydroponics.label>Thủy canh</Hydroponics.label>
+	<Hydroponics.description>Mở khóa xây dựng "chậu cây thủy canh", dùng để trồng cây nhanh chóng trong nhà, không bị ảnh hưởng bởi đất nghèo dinh dưỡng và thời tiết bên ngoài.</Hydroponics.description>
+	<Hydroponics.generalRules.rulesStrings>
+		<li>subject->Thủy canh</li>
+		<li>subject_story->Tham gia vào một tàu thuộc thế hệ thuộc địa với tư cách là chuyên gia trồng trọt.</li>
+		<li>subject_story->Xây dựng một nhà máy thủy canh để nuôi sống những người đói khát.</li>
+		<li>subject_story->Du lịch khắp nơi, dạy các thuộc địa mới cách trồng cây nhân tạo.</li>
+		<li>subject_gerund->Xây dựng chậu cây thủy canh</li>
+		<li>subject_gerund->Trồng cây trong nhà</li>
+	</Hydroponics.generalRules.rulesStrings>
+	<IEDs.label>Thiết bị nổ tự chế</IEDs.label>
+	<IEDs.description>Mở khóa xây dựng bẫy nổ tự chế được chế tạo từ đạn cối, bao gồm các loại như nổ mạnh, EMP, foam chữa cháy, đầu đạn phản hạt nhân, v.v.</IEDs.description>
+	<IEDs.generalRules.rulesStrings>
+		<li>subject->Bẫy nổ</li>
+		<li>subject_story->Tháo rời các đầu đạn còn lại trên chiến trường và gửi chúng đến tiền tuyến mới như mìn.</li>
+		<li>subject_story->Sống sót nhờ vào việc chế tạo bẫy từ đạn dược của kẻ thù dưới hỏa lực của súng cối.</li>
+		<li>subject_story->Bảo vệ quyền lợi của một khu định cư nhỏ, nơi mà các đầu đạn chưa nổ là một mối nguy hiểm thường trực.</li>
+		<li>subject_gerund->Sản xuất bẫy nổ tự chế</li>
+	</IEDs.generalRules.rulesStrings>
+	<Machining.label>Gia công cơ khí</Machining.label>
+	<Machining.description>Mở khóa xây dựng "bàn gia công cơ khí", dùng để sản xuất vũ khí, lựu đạn, áo giáp, và các trang bị khác, hoặc tháo dỡ và tái chế xác của các thiết bị cơ khí.</Machining.description>
+	<Machining.generalRules.rulesStrings>
+		<li>subject->Gia công cơ khí</li>
+		<li>subject_story->Thu thập xác của các máy móc và nghiền nát chúng để tái chế tài nguyên.</li>
+		<li>subject_story->Âm thầm xây dựng một kho vũ khí tự chế trong tầng hầm của một ngôi nhà ở ngoại ô.</li>
+		<li>subject_story->Là một người theo chủ nghĩa hòa bình, nhưng vẫn xây dựng bàn gia công cho nhiều thợ chế tạo vũ khí.</li>
+		<li>subject_gerund->Xây dựng bàn gia công</li>
+		<li>subject_gerund->Lắp ráp</li>
+	</Machining.generalRules.rulesStrings>
+	<Mortars.label>Súng cối</Mortars.label>
+	<Mortars.description>Mở khóa xây dựng "súng cối", có thể bắn đạn qua tường với khoảng cách rất xa.</Mortars.description>
+	<Mortars.generalRules.rulesStrings>
+		<li>subject->Pháo</li>
+		<li>subject->Súng cối</li>
+		<li>subject_story->Đóng vai trò quan trọng trong cuộc bao vây nhà kính để lật đổ hội đồng thị trấn.</li>
+		<li>subject_story->Phát triển một ống súng cối nhẹ có thể gập lại cho cảnh sát địa phương.</li>
+		<li>subject_story->Sử dụng đạn nổ mạnh để phá hủy nhiều tòa nhà bỏ hoang từ xa.</li>
+		<li>subject_gerund->Xây dựng súng cối</li>
+		<li>subject_gerund->Xây dựng pháo đơn giản</li>
+	</Mortars.generalRules.rulesStrings>
+	<NutrientPaste.label>Máy tổng hợp bột dinh dưỡng</NutrientPaste.label>
+	<NutrientPaste.description>Mở khóa xây dựng "máy tổng hợp bột dinh dưỡng", có khả năng tự động biến thực phẩm sống thành bột dinh dưỡng hiệu quả, giúp đối phó với tình trạng thiếu thực phẩm. Nó hầu như không cần thao tác.</NutrientPaste.description>
+	<NutrientPaste.generalRules.rulesStrings>
+		<li>subject->Bột dinh dưỡng</li>
+		<li>subject_story->Làm việc tại nhà ăn của nhà máy, phát minh ra bột dinh dưỡng để tránh tất cả các công việc.</li>
+		<li>subject_story->Mất khứu giác do bệnh tật, phát minh ra một loại bột dinh dưỡng rẻ tiền và không có mùi vị.</li>
+		<li>subject_story->Khuyến khích tái chế nhiều loại hữu cơ, bao gồm cả xác chết thành bột dinh dưỡng.</li>
+		<li>subject_gerund->Xây dựng máy tổng hợp bột dinh dưỡng</li>
+	</NutrientPaste.generalRules.rulesStrings>
+	<PackagedSurvivalMeal.label>Thực phẩm sinh tồn đóng gói</PackagedSurvivalMeal.label>
+	<PackagedSurvivalMeal.description>Mở khóa sản xuất "thực phẩm sinh tồn đóng gói", một loại thực phẩm được bảo quản kín và không bị hỏng. Thích hợp để mang theo trong những chuyến đi dài.</PackagedSurvivalMeal.description>
+	<PackagedSurvivalMeal.generalRules.rulesStrings>
+		<li>subject->Thực phẩm sinh tồn đóng gói</li>
+		<li>subject->Thực phẩm không bị hỏng</li>
+		<li>subject_story->Biết rằng khi thảm họa xảy ra, có đủ thực phẩm đóng gói để chờ đến khi nhân viên cứu hộ đến.</li>
+		<li>subject_story->Mở một nhà bếp xã hội, tặng thực phẩm sinh tồn cho tất cả các tàu ra khơi.</li>
+		<li>subject_story->Phát hiện thực phẩm sinh tồn từ hàng trăm năm trước trên núi.</li>
+		<li>subject_gerund->Chuẩn bị thực phẩm sinh tồn</li>
+	</PackagedSurvivalMeal.generalRules.rulesStrings>
+	<Prosthetics.label>Chân giả đơn giản</Prosthetics.label>
+	<Prosthetics.description>Mở khóa sản xuất các bộ phận giả rẻ tiền, dùng để thay thế các chi bị mất. Cần một bác sĩ có tay nghề để lắp đặt.</Prosthetics.description>
+	<Prosthetics.generalRules.rulesStrings>
+		<li>subject->Chân giả đơn giản</li>
+		<li>subject_story->Thay thế chi thật bằng chân giả đơn giản để chứng minh rằng điều này rất dễ dàng.</li>
+		<li>subject_story->Mở một phòng khám chân giả.</li>
+		<li>subject_story->Bắt đầu tùy chỉnh chân giả cho nhiều cựu chiến binh trong khu vực.</li>
+		<li>subject_gerund->Sản xuất chân giả</li>
+	</Prosthetics.generalRules.rulesStrings>
+	<SmokepopBelt.label>Đai khói</SmokepopBelt.label>
+	<SmokepopBelt.description>Mở khóa sản xuất "đai khói", có thể phát hành khói phòng thủ bằng tay khi đeo.</SmokepopBelt.description>
+	<SmokepopBelt.generalRules.rulesStrings>
+		<li>subject->Khói phòng thủ</li>
+		<li>subject_story->Đã từng là một người vận chuyển cho ban nhạc, sử dụng khói để tạo hiệu ứng.</li>
+		<li>subject_story->Thiết lập một vòng khói phòng thủ xung quanh thị trấn địa phương để ngăn chặn động vật hoang dã vào.</li>
+		<li>subject_story->Sử dụng đai khói để huấn luyện lính cứu hỏa mới mà không gây ra hỏa hoạn.</li>
+		<li>subject_gerund->Sản xuất đai khói</li>
+		<li>subject_gerund->Triển khai khói phòng thủ</li>
+	</SmokepopBelt.generalRules.rulesStrings>
+	<SolarPanels.label>Pin mặt trời</SolarPanels.label>
+	<SolarPanels.description>Mở khóa xây dựng "pin mặt trời", dùng để phát điện.</SolarPanels.description>
+	<SolarPanels.generalRules.rulesStrings>
+		<li>subject->Pin mặt trời</li>
+		<li>subject->Năng lượng mặt trời</li>
+		<li>subject_story->Xây dựng một nhà máy điện mặt trời đa phổ.</li>
+		<li>subject_story->Nghiên cứu cách tối đa hóa tỷ lệ chuyển đổi năng lượng mặt trời.</li>
+		<li>subject_story->Quan sát một lần bay gần sao từ thiết bị dò tìm mặt trời.</li>
+		<li>subject_gerund->Xây dựng pin mặt trời</li>
+	</SolarPanels.generalRules.rulesStrings>
+	<SterileMaterials.label>Vật liệu vô trùng</SterileMaterials.label>
+	<SterileMaterials.description>Mở khóa xây dựng "gạch vô trùng", dùng để cung cấp môi trường sạch hơn cho phòng y tế, phòng nghiên cứu và bếp.</SterileMaterials.description>
+	<SterileMaterials.generalRules.rulesStrings>
+		<li>subject->Bề mặt vô trùng</li>
+		<li>subject_story->Thông qua việc duy trì khử trùng hiệu quả và đồng nhất cho tất cả thiết bị, đã tránh được nhiều cái chết.</li>
+		<li>subject_story->Mở một bếp nhỏ độc nhất vô nhị trong toàn hệ ngân hà, hoàn toàn không gây ngộ độc thực phẩm.</li>
+		<li>subject_story->Thành lập một nhà máy gạch trang trí, đồng thời sản xuất thiết bị y tế và gạch vô trùng.</li>
+		<li>subject_gerund->Khử trùng bề mặt</li>
+		<li>subject_gerund->Xây dựng gạch vô trùng</li>
+	</SterileMaterials.generalRules.rulesStrings>
+	<TubeTelevision.label>TV ống hình</TubeTelevision.label>
+	<TubeTelevision.description>Mở khóa xây dựng "TV ống hình".</TubeTelevision.description>
+	<TubeTelevision.generalRules.rulesStrings>
+		<li>subject->TV ống hình</li>
+		<li>subject_story->Thiết kế một chiếc TV cổ điển có thể nhận tín hiệu liên sao.</li>
+		<li>subject_story->Tham gia vào ngành phát thanh, chuyên sản xuất chương trình cho TV ống hình cổ điển.</li>
+		<li>subject_story->Đảm bảo mọi người đều biết đến nguy hiểm của ống tia catot.</li>
+		<li>subject_gerund->Sản xuất TV ống hình</li>
+	</TubeTelevision.generalRules.rulesStrings>
+	<WatermillGenerator.label>Máy phát điện nước</WatermillGenerator.label>
+	<WatermillGenerator.description>Mở khóa xây dựng "máy phát điện nước", cung cấp điện liên tục khi đặt trên dòng sông.</WatermillGenerator.description>
+	<WatermillGenerator.generalRules.rulesStrings>
+		<li>subject->Máy phát điện nước</li>
+		<li>subject_story->Nhìn thấy cành cây và lá bị kéo về phía hạ lưu, tưởng tượng về năng lượng tiềm ẩn của dòng nước.</li>
+		<li>subject_story->Kết nối cáp điện với một nhà máy xay bột cổ xưa trong thế giới phong kiến.</li>
+		<li>subject_story->Đã cải tạo một chiếc tàu hơi nước bỏ hoang thành máy phát điện nước trên bờ biển của một thế giới hoang tàn.</li>
+		<li>subject_gerund->Xây dựng máy phát điện nước</li>
+	</WatermillGenerator.generalRules.rulesStrings>
+</LanguageData>

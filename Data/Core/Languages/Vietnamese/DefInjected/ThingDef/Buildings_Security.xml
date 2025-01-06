@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Barricade.label>Rào chắn</Barricade.label>
+	<Barricade.description>Một vật cản cao đến thắt lưng, dùng để ngăn chặn đạn bắn vào. Mặc dù không đẹp mắt, nhưng nó cung cấp sự che chở tốt hơn so với các vật thể thấp khác. Rào chắn cũng có thể ngăn chặn một số loài động vật như hàng rào.</Barricade.description>
+	<Sandbags.label>Bao cát</Sandbags.label>
+	<Sandbags.description>Cố định đất hoặc cát xung quanh để tạo thành nơi ẩn nấp, mặc dù có phần xấu xí, nhưng có thể giảm đáng kể khả năng bị trúng đạn từ vũ khí tầm xa.</Sandbags.description>
+	<TrapIED_AntigrainWarhead.label>Bẫy đầu đạn phản hạt đơn giản</TrapIED_AntigrainWarhead.label>
+	<TrapIED_AntigrainWarhead.description>Một bẫy được tạo thành từ một đầu đạn phản hạt và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ gây ra thiệt hại cực lớn. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_AntigrainWarhead.description>
+	<TrapIED_EMP.label>Bẫy EMP đơn giản</TrapIED_EMP.label>
+	<TrapIED_EMP.description>Một bẫy được tạo thành từ một đầu đạn EMP và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ và tạm thời làm tê liệt các cơ thể máy móc, tháp pháo và súng cối gần đó, đồng thời ngay lập tức tiêu hao năng lượng của lá chắn. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_EMP.description>
+	<TrapIED_Firefoam.label>Bẫy bọt chữa cháy đơn giản</TrapIED_Firefoam.label>
+	<TrapIED_Firefoam.description>Một bẫy được tạo thành từ một đầu đạn bọt chữa cháy và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ và phun ra bọt chống cháy xung quanh. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_Firefoam.description>
+	<TrapIED_HighExplosive.label>Bẫy bom đơn giản</TrapIED_HighExplosive.label>
+	<TrapIED_HighExplosive.description>Một bẫy được tạo thành từ một đầu đạn nổ lớn và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ và gây ra thiệt hại. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_HighExplosive.description>
+	<TrapIED_Incendiary.label>Bẫy đốt cháy đơn giản</TrapIED_Incendiary.label>
+	<TrapIED_Incendiary.description>Một bẫy được tạo thành từ một đầu đạn đốt cháy và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ và biến khu vực xung quanh thành biển lửa. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_Incendiary.description>
+	<TrapIED_Smoke.label>Bẫy khói đơn giản</TrapIED_Smoke.label>
+	<TrapIED_Smoke.description>Một bẫy được tạo thành từ một đầu đạn khói và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật hoặc bị bắn trúng, bẫy sẽ phát nổ và phun ra một lượng lớn khói xung quanh. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapIED_Smoke.description>
+	<TrapSpike.label>Bẫy mũi nhọn</TrapSpike.label>
+	<TrapSpike.description>Một bẫy được tạo thành từ năm mũi nhọn sắc và cơ chế kích hoạt tự chế. Khi cơ chế bị kích hoạt bởi sinh vật, các mũi nhọn sẽ nhanh chóng bật ra để gây thiệt hại. Vì nó được ẩn trong địa hình xung quanh, nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận bẫy khi không ở trạng thái cuồng loạn.</TrapSpike.description>
+</LanguageData>

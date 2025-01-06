@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Archogenetics.label>Di truyền học siêu phàm</Archogenetics.label>
+<Archogenetics.description>Mở khóa giới hạn sử dụng viên nang siêu phàm của bộ lắp ghép gen để tạo ra những gen dường như không thể tạo ra. Gen siêu phàm và viên nang siêu phàm có thể được thu thập qua thương mại.</Archogenetics.description>
+<Archogenetics.generalRules.rulesStrings>
+    <li>subject-&gt;Di truyền học siêu phàm</li>
+    <li>subject_story-&gt;Khai thác gen siêu phàm từ vệ tinh thăng thiên Ix</li>
+    <li>subject_story-&gt;Sống cuộc sống tốt đẹp như một thương nhân gen siêu phàm</li>
+    <li>subject_story-&gt;Dẫn dắt một đội nghiên cứu thám hiểm đến những tảng đá cổ và phản hồi sự thay đổi</li>
+    <li>subject_gerund-&gt;Lắp ráp gen siêu phàm</li>
+    <li>subject_gerund-&gt;Tạo ra những gen dường như không thể</li>
+</Archogenetics.generalRules.rulesStrings>
+<Deathrest.label>Thiết bị ngủ chết</Deathrest.label>
+<Deathrest.description>Mở khóa xây dựng một thiết bị có thể tăng tốc quá trình ngủ chết mà những người có gen ngủ chết phải trải qua định kỳ, kéo dài hàng ngày và cung cấp cho những người ngủ chết những lợi ích nhất định. Một ngày nào đó, bạn có thể xây dựng một ngôi đền ngủ chết vĩ đại.</Deathrest.description>
+<Deathrest.generalRules.rulesStrings>
+    <li>subject-&gt;Ngủ chết</li>
+    <li>subject_story-&gt;Giải phẫu xác chết trong ngôi đền ngủ chết và cuối cùng hiểu cách hoạt động của ngôi đền ngủ chết</li>
+    <li>subject_story-&gt;Phỏng vấn một người nổi tiếng không bị thời gian ảnh hưởng, và cuối cùng hiểu được bí mật của cô ấy</li>
+    <li>subject_story-&gt;Cố gắng sao chép công nghệ này và rơi vào hôn mê, phải mất vài tuần mới tỉnh lại</li>
+    <li>subject_gerund-&gt;Đang xây dựng thiết bị ngủ chết</li>
+    <li>subject_gerund-&gt;Đang cải tiến ngủ chết</li>
+</Deathrest.generalRules.rulesStrings>
+<FertilityProcedures.label>Quy định sinh sản</FertilityProcedures.label>
+<FertilityProcedures.description>Mở khóa các thủ tục liên quan đến sinh sản. Tạo ra phôi ống nghiệm từ những người có khả năng sinh sản để cho thuê mang thai hoặc nuôi dưỡng. Cũng như các thủ tục triệt sản.</FertilityProcedures.description>
+<FertilityProcedures.generalRules.rulesStrings>
+    <li>subject-&gt;Quy định sinh sản</li>
+    <li>subject_story-&gt;Giúp các gia đình ở thế giới trung tâm thực hiện giấc mơ làm cha mẹ qua thụ tinh ống nghiệm</li>
+    <li>subject_story-&gt;Giúp loài chuột nổ Karopia hiếm hoi tránh khỏi tuyệt chủng thông qua công nghệ thụ tinh nhân tạo nguy hiểm</li>
+    <li>subject_story-&gt;Giải quyết cuộc khủng hoảng dân số của một thế giới đô thị thông qua can thiệp sinh sản và buồng nuôi dưỡng</li>
+    <li>subject_gerund-&gt;Thay đổi khả năng sinh sản của con người</li>
+    <li>subject_gerund-&gt;Cải thiện hoặc thay đổi hoàn toàn khả năng sinh sản của con người</li>
+</FertilityProcedures.generalRules.rulesStrings>
+<GeneProcessor.label>Máy xử lý gen</GeneProcessor.label>
+<GeneProcessor.description>Mở khóa xây dựng "Máy xử lý gen", cho phép bộ lắp ghép gen tạo ra phôi ngoại lai phức tạp hơn.</GeneProcessor.description>
+<GeneProcessor.generalRules.rulesStrings>
+    <li>subject-&gt;Máy xử lý gen</li>
+    <li>subject_story-&gt;Chiết xuất gen từ các cấu trúc bỏ hoang của thế giới lấp lánh</li>
+    <li>subject_story-&gt;Chiết xuất gen từ toàn bộ ngôi làng để tạo ra một bộ gen ngoại lai</li>
+    <li>subject_story-&gt;Bắt đầu quá trình tiến hóa chậm bằng cách cấy ghép phôi ngoại lai vào cư dân của một bộ lạc nguyên thủy</li>
+    <li>subject_gerund-&gt;Xây dựng máy xử lý gen</li>
+    <li>subject_gerund-&gt;Lắp ráp gen</li>
+</GeneProcessor.generalRules.rulesStrings>
+<GrowthVats.label>Buồng nuôi dưỡng</GrowthVats.label>
+<GrowthVats.description>Mở khóa xây dựng "Buồng nuôi dưỡng", có thể nuôi phôi hoặc tăng tốc sự phát triển của trẻ em.</GrowthVats.description>
+<GrowthVats.generalRules.rulesStrings>
+    <li>subject-&gt;Thai kỳ tiên tiến</li>
+    <li>subject-&gt;Tử cung nhân tạo</li>
+    <li>subject_story-&gt;Thiết lập nhà máy nhân bản để cung cấp người hầu cho thế giới trung tâm</li>
+    <li>subject_story-&gt;Thiết lập quân đội cho chính phủ quân sự của thế giới chiến tranh</li>
+    <li>subject_story-&gt;Giúp các gia đình từ mọi nguồn gốc có con cái</li>
+    <li>subject_gerund-&gt;Nuôi phôi trong tử cung nhân tạo</li>
+    <li>subject_gerund-&gt;Tăng tốc sự phát triển của con người</li>
+    <li>subject_gerund-&gt;Xây dựng buồng nuôi dưỡng</li>
+</GrowthVats.generalRules.rulesStrings>
+  <ToxFiltration.label>Bộ lọc độc tố</ToxFiltration.label>
+<ToxFiltration.description>Mở khóa chế tạo các cơ quan sinh học có thể lọc độc tố từ các cuộc tấn công hoặc môi trường.</ToxFiltration.description>
+<ToxFiltration.generalRules.rulesStrings>
+    <li>subject-&gt;Lọc khí độc</li>
+    <li>subject-&gt;Chuyển hóa khí độc</li>
+    <li>subject_story-&gt;Giúp những người sống sót sau cuộc chiến ở thế giới trung tâm tự thở lại</li>
+    <li>subject_story-&gt;Bỏ qua thực hành hóa học vì lý do đạo đức bổ sung</li>
+    <li>subject_story-&gt;Tham gia một công ty khai thác với tư cách là chuyên gia lọc độc</li>
+    <li>subject_gerund-&gt;Chuyển hóa khí độc</li>
+    <li>subject_gerund-&gt;Chế tạo cơ quan chống độc</li>
+</ToxFiltration.generalRules.rulesStrings>
+<ToxGas.label>Khí độc</ToxGas.label>
+<ToxGas.description>Mở khóa chế tạo vũ khí sử dụng khí độc ăn mòn hóa học.</ToxGas.description>
+<ToxGas.generalRules.rulesStrings>
+    <li>subject-&gt;Vũ khí khí độc</li>
+    <li>subject-&gt;Chiến tranh hóa học</li>
+    <li>subject_story-&gt;Mơ ước về một vũ khí kết thúc mọi cuộc chiến</li>
+    <li>subject_story-&gt;Bỏ qua khóa học đạo đức để thực hành hóa học</li>
+    <li>subject_story-&gt;Nghiên cứu công nghệ kiểm soát mưa cho chính phủ độc tài của thế giới chết chóc</li>
+    <li>subject_gerund-&gt;Chế tạo vũ khí khí độc</li>
+</ToxGas.generalRules.rulesStrings>
+<ToxifierGenerator.label>Máy phát điện ô nhiễm</ToxifierGenerator.label>
+<ToxifierGenerator.description>Mở khóa xây dựng "Máy phát điện thải" gây ô nhiễm môi trường xung quanh.</ToxifierGenerator.description>
+<ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject-&gt;Phát điện ô nhiễm</li>
+    <li>subject_story-&gt;Dẫn dắt đội dọn dẹp đến một tiểu hành tinh đầy khí độc</li>
+    <li>subject_story-&gt;Tìm hiểu về sinh vật độc hại trong hồ sâu của kẻ mở trời</li>
+    <li>subject_story-&gt;Nghiên cứu năng lượng bẩn giá rẻ cho các doanh nghiệp đô thị</li>
+    <li>subject_gerund-&gt;Xây dựng máy phát điện ô nhiễm</li>
+</ToxifierGenerator.generalRules.rulesStrings>
+<Xenogermination.label>Di truyền học ngoại lai</Xenogermination.label>
+<Xenogermination.description>Mở khóa chế tạo phôi ngoại lai có thể biến đổi gen qua việc cấy vào cơ thể người. Sử dụng máy chiết xuất gen để lấy gen từ người sống, từ đó bạn có thể cấy ghép gen của họ vào người khác.</Xenogermination.description>
+<Xenogermination.generalRules.rulesStrings>
+    <li>subject-&gt;Phôi ngoại lai</li>
+    <li>subject-&gt;Cấy ghép gen</li>
+    <li>subject_story-&gt;Nhận được sự hỗ trợ từ tổ chức từ thiện về gen yếu ở thế giới lấp lánh</li>
+    <li>subject_story-&gt;Bị một nhà sinh học lừa đảo đánh cắp gen của [ANYPAWN_possessive]</li>
+    <li>subject_story-&gt;Mở một phòng khám cho những người tinh hoa ở thế giới lấp lánh để thực hiện cấy ghép gen</li>
+    <li>subject_gerund-&gt;Chế tạo phôi ngoại lai</li>
+</Xenogermination.generalRules.rulesStrings>
+</LanguageData>

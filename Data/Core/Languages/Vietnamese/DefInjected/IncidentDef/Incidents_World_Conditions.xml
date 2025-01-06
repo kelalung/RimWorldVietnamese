@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Aurora.label>Ánh Sáng Cực</Aurora.label>
+	<Aurora.letterLabel>Ánh Sáng Cực</Aurora.letterLabel>
+	<Aurora.letterText>Một bức tranh tuyệt đẹp của ánh sáng cực đang chiếu sáng bầu trời, những màu sắc lấp lánh sẽ làm cho người nhìn thấy ở bên ngoài cảm thấy vui vẻ, và làm cho đêm trở nên sáng hơn.</Aurora.letterText>
+	<Eclipse.label>Nhật Thực</Eclipse.label>
+	<Eclipse.letterLabel>Nhật Thực</Eclipse.letterLabel>
+	<Eclipse.letterText>Một vệ tinh của hành tinh này đã di chuyển vào vị trí chính giữa, gây ra hiện tượng nhật thực.</Eclipse.letterText>
+	<SolarFlare.label>Phun Năng Lượng Mặt Trời</SolarFlare.label>
+	<SolarFlare.letterLabel>Phun Năng Lượng Mặt Trời</SolarFlare.letterLabel>
+	<SolarFlare.letterText>Một đợt phun năng lượng mặt trời đã bắt đầu.\n\nBức xạ điện từ mạnh sẽ khiến tất cả thiết bị điện tử không hoạt động.\n\nĐợt phun này sẽ kéo dài khoảng một ngày.</SolarFlare.letterText>
+</LanguageData>

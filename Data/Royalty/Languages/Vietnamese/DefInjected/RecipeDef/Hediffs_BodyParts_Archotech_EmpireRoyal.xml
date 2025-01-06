@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallPsychicHarmonizer.label>Cài đặt thiết bị đồng bộ tâm linh</InstallPsychicHarmonizer.label>
+<InstallPsychicHarmonizer.description>Cài đặt thiết bị đồng bộ tâm linh.</InstallPsychicHarmonizer.description>
+<InstallPsychicHarmonizer.jobString>Đang cài đặt thiết bị đồng bộ tâm linh.</InstallPsychicHarmonizer.jobString>
+<InstallPsychicReader.label>Tháo lắp thiết bị đọc tâm linh</InstallPsychicReader.label>
+<InstallPsychicReader.description>Cài đặt thiết bị đọc tâm linh.</InstallPsychicReader.description>
+<InstallPsychicReader.jobString>Đang cài đặt thiết bị đọc tâm linh.</InstallPsychicReader.jobString>
+<InstallPsychicSensitizer.label>Tháo lắp thiết bị nhạy cảm tâm linh</InstallPsychicSensitizer.label>
+<InstallPsychicSensitizer.description>Cài đặt thiết bị nhạy cảm tâm linh.</InstallPsychicSensitizer.description>
+<InstallPsychicSensitizer.jobString>Đang cài đặt thiết bị nhạy cảm tâm linh.</InstallPsychicSensitizer.jobString>
+<RemovePsychicHarmonizer.label>Tháo lắp thiết bị đồng bộ tâm linh</RemovePsychicHarmonizer.label>
+<RemovePsychicHarmonizer.description>Tháo lắp thiết bị đồng bộ tâm linh.</RemovePsychicHarmonizer.description>
+<RemovePsychicHarmonizer.jobString>Đang tháo lắp thiết bị đồng bộ tâm linh.</RemovePsychicHarmonizer.jobString>
+<RemovePsychicReader.label>Tháo lắp thiết bị đọc tâm linh</RemovePsychicReader.label>
+<RemovePsychicReader.description>Tháo lắp thiết bị đọc tâm linh.</RemovePsychicReader.description>
+<RemovePsychicReader.jobString>Đang tháo lắp thiết bị đọc tâm linh.</RemovePsychicReader.jobString>
+<RemovePsychicSensitizer.label>Tháo lắp thiết bị nhạy cảm tâm linh</RemovePsychicSensitizer.label>
+<RemovePsychicSensitizer.description>Tháo lắp thiết bị nhạy cảm tâm linh.</RemovePsychicSensitizer.description>
+<RemovePsychicSensitizer.jobString>Đang tháo lắp thiết bị nhạy cảm tâm linh.</RemovePsychicSensitizer.jobString>
+</LanguageData>

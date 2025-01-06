@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Bạn đã biết có một khu kiến trúc cổ đại gần đó, được cho là ẩn chứa kho báu cổ xưa.\n\nBạn có thể xâm nhập vào đó để thu thập chiến lợi phẩm.\n\nCảnh báo: Trong các khu kiến trúc này có thể tồn tại nhiều mối đe dọa không xác định. Hơn nữa, các dấu hiệu hoạt động trong khu kiến trúc có thể thu hút sự chú ý không cần thiết.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+<li>questName(p=3)-&gt;[complexAdj][complex][finalWord]</li>
+    <li>questName-&gt;[complex][finalWord]</li>
+    <li>complexAdj-&gt; Bí mật</li>
+    <li>complexAdj-&gt; Huyền bí</li>
+    <li>complexAdj-&gt; Cổ xưa</li>
+    <li>complexAdj-&gt; Cũ kỹ</li>
+    <li>complexAdj-&gt; Ẩn giấu</li>
+    <li>complexAdj-&gt; Chết người</li>
+    <li>complex-&gt; Khu kiến trúc</li>
+    <li>complex-&gt; Cơ sở</li>
+    <li>complex-&gt; Di tích</li>
+	<li>finalWord-&gt; Kho báu</li>
+    <li>finalWord-&gt; Tài sản</li>
+    <li>finalWord-&gt; Đồ vật</li>
+    <li>finalWord-&gt; Kho tàng</li>
+    <li>finalWord-&gt; Tài sản bất hợp pháp</li>
+    <li>finalWord-&gt; Đột kích</li>
+    <li>finalWord-&gt; Cướp bóc</li>
+    <li>finalWord-&gt; Bắt cóc</li>
+    <li>finalWord-&gt; Trộm cắp</li>
+	<li>finalWord-&gt; Cường đạo </li>
+    <li>finalWord-&gt; Tài sản không hợp pháp</li>
+    <li>finalWord-&gt; Chiến lợi phẩm</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+</LanguageData>

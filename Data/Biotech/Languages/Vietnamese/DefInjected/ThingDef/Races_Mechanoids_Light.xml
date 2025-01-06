@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Mech_Agrihand.label>Máy làm vườn</Mech_Agrihand.label>
+	<Mech_Agrihand.description>Một cơ giới hạng nhẹ, được thiết kế để gieo trồng và thu hoạch cây trồng. Mặc dù nó được thiết kế cho mục đích nông nghiệp, nhưng trong trường hợp cần thiết, nó cũng có thể chiến đấu bằng lưỡi hái tích hợp.</Mech_Agrihand.description>
+	<Mech_Agrihand.tools.head.label>Đầu</Mech_Agrihand.tools.head.label>
+	<Mech_Agrihand.tools.right_blade.label>Lưỡi hái phải</Mech_Agrihand.tools.right_blade.label>
+	<Mech_Agrihand.tools.right_blade.labelNoLocation>Lưỡi hái</Mech_Agrihand.tools.right_blade.labelNoLocation>
+	<Mech_Cleansweeper.label>Máy quét dọn</Mech_Cleansweeper.label>
+	<Mech_Cleansweeper.description>Một cơ giới hạng nhẹ, được thiết kế để làm sạch vệ sinh. Nó không có vũ khí tầm xa và khả năng gần chiến đấu cũng rất yếu.</Mech_Cleansweeper.description>
+	<Mech_Cleansweeper.tools.head.label>Đầu</Mech_Cleansweeper.tools.head.label>
+	<Mech_Constructoid.label>Máy xây dựng</Mech_Constructoid.label>
+	<Mech_Constructoid.description>Một cơ giới hạng nhẹ, được thiết kế để hoàn thành công việc xây dựng. Trong trường hợp cần thiết, nó cũng có thể gây ra một số sát thương bằng đòn đánh gần.</Mech_Constructoid.description>
+	<Mech_Constructoid.tools.head.label>Đầu</Mech_Constructoid.tools.head.label>
+	<Mech_Constructoid.tools.torso.label>Thân</Mech_Constructoid.tools.torso.label>
+	<Mech_Fabricor.label>Máy chế tạo</Mech_Fabricor.label>
+	<Mech_Fabricor.description>Một cơ giới hạng nhẹ, được thiết kế để sản xuất các món đồ trên bàn làm việc.</Mech_Fabricor.description>
+	<Mech_Fabricor.tools.head.label>Đầu</Mech_Fabricor.tools.head.label>
+	<Mech_Lifter.label>Máy nâng</Mech_Lifter.label>
+	<Mech_Lifter.description>Một cơ giới hạng nhẹ, được thiết kế để vận chuyển hàng hóa. Nó không có vũ khí tầm xa và khả năng gần chiến đấu cũng rất yếu.</Mech_Lifter.description>
+	<Mech_Lifter.tools.head.label>Đầu</Mech_Lifter.tools.head.label>
+	<Mech_Militor.label>Đơn vị hỗ trợ cơ giới</Mech_Militor.label>
+	<Mech_Militor.description>Một cơ giới chiến đấu hạng nhẹ, được trang bị một khẩu súng shotgun mini. Đơn vị nhẹ này cao khoảng bốn feet, nhưng về sức mạnh, tầm bắn và khả năng phòng thủ thì không thể so sánh với các cơ giới chiến đấu hạng cao hơn. Tuy nhiên, chi phí và bảo trì của nó rất thấp, nên nó rất phù hợp để bảo vệ hậu phương hoặc sử dụng trong chiến thuật biển người.\n\nTrong chiến tranh, quân đội cơ giới thường gửi hàng loạt đơn vị hỗ trợ vào các đống đổ nát của thành phố để tiêu diệt những người sống sót, do đó mẫu này trở nên đặc biệt khét tiếng.</Mech_Militor.description>
+	<Mech_Militor.tools.head.label>Đầu</Mech_Militor.tools.head.label>
+	<Mech_Paramedic.label>Máy cứu thương</Mech_Paramedic.label>
+	<Mech_Paramedic.description>Một cơ giới hạng nhẹ, được thiết kế cho công việc cấp cứu và y tế. Máy cứu thương có thể cứu chữa người bị thương, dập tắt lửa, điều trị bệnh tật, thậm chí có thể thực hiện phẫu thuật mà không cần bác sĩ chuyên môn. Bộ phận nhảy của nó cho phép nó nhanh chóng ra vào trong các tình huống nguy hiểm, và bộ phun foam chống cháy có thể dập lửa nhanh chóng.</Mech_Paramedic.description>
+	<Mech_Paramedic.tools.head.label>Đầu</Mech_Paramedic.tools.head.label>
+	<Mech_WarUrchin.label>Cơ giới chiến tranh</Mech_WarUrchin.label>
+	<Mech_WarUrchin.description>Một cơ giới chiến đấu hạng nhẹ có thể được triển khai nhanh chóng, thường được sản xuất bởi Nữ hoàng chiến tranh. Cơ giới chiến tranh được thiết kế đặc biệt cho chiến thuật "biển máy". Chúng được trang bị súng bắn gai với tầm bắn ngắn và có pin năng lượng một lần không thể sạc lại.</Mech_WarUrchin.description>
+	<Mech_WarUrchin.tools.head.label>Đầu</Mech_WarUrchin.tools.head.label>
+</LanguageData>

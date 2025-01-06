@@ -1,0 +1,31 @@
+﻿/// Dùng cho quy mô nhỏ đối tượng, không phải chủ yếu địa hình
+// Bao quát động vật, thực vật cùng khoáng sản
+Nham thạch
+Tảng đá
+Phiêu đá sỏi
+Cây
+Bụi cây
+Bụi cây
+Hồ nước
+Hồ nước
+Hồ
+Đồi núi
+Hang động
+Gốc cây
+Vỏ sò
+Lông vũ
+Hạt giống
+Thân cây
+Hoa quả
+Kim châm
+Giáp trùng
+Tiểu trùng
+Vó
+Trảo
+Cái đuôi
+Da
+Da
+Sừng
+Răng
+Cánh
+Rừng cây

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<CureAbasia.label>Điều trị chống liệt</CureAbasia.label>
+<CureAbasia.description>Sử dụng một lượng lớn máy nano để làm đầy mô não, phục hồi chức năng phối hợp mà không làm tổn thương não. Điều này có thể ngay lập tức chữa khỏi liệt do liệt gây ra, nhưng sẽ tiêu tốn một lượng lớn thuốc của thế giới rực rỡ.</CureAbasia.description>
+<CureAbasia.jobString>Đang tiêm máy nano chống liệt.</CureAbasia.jobString>
+<CureAbasia.successfullyRemovedHediffMessage>{0} đã thành công chữa khỏi liệt cho {1}.</CureAbasia.successfullyRemovedHediffMessage>
+<CureBloodRot.label>Điều trị nhiễm độc máu</CureBloodRot.label>
+<CureBloodRot.description>Điều trị nhiễm độc máu bằng cách tiêm một lượng lớn máy nano tiêu diệt vi khuẩn.</CureBloodRot.description>
+<CureBloodRot.jobString>Đang điều trị nhiễm độc máu.</CureBloodRot.jobString>
+<CureBloodRot.successfullyRemovedHediffMessage>{0} đã thành công chữa khỏi nhiễm độc máu cho {1}.</CureBloodRot.successfullyRemovedHediffMessage>
+</LanguageData>

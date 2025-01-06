@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ReHumanizedLabel>Khôi phục nhân tính</ReHumanizedLabel>
+	<ReHumanizedText>{0_nameDef} đã khôi phục nhân tính của mình. Tình trạng sức khỏe “phi nhân hóa” của {0_nameDef} đã biến mất.</ReHumanizedText>
+	<WarningFromLabel>Cảnh báo từ {0_nameDef}</WarningFromLabel>
+	<HateChantersLabel>Các tín đồ thuyết giáo</HateChantersLabel>
+	<HateChantersText>Một số tín đồ thuyết giáo đã đến. Họ muốn tổ chức một nghi lễ ngâm thơ nguyền rủa, gây ra sự điên cuồng tâm linh cho các người định cư của bạn. Trước khi ai đó ngăn chặn những tín đồ này, nghi lễ nguyền rủa sẽ càng lúc càng lớn tiếng.</HateChantersText>
+	<HateChantersAttackingLabel>Tín đồ tấn công</HateChantersAttackingLabel>
+	<HateChantersAttackingText>Các tín đồ đã ngừng ngâm thơ nguyền rủa và quay lại để bắt đầu tấn công.\n\nChuẩn bị chiến đấu!</HateChantersAttackingText>
+	<PsychicRitualCompleteLabel>{0} đã hoàn thành</PsychicRitualCompleteLabel>
+	<VoidProvocationCompletedText>{INVOKER_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}, phát ra một xung tâm linh có thể thu hút các thực thể.</VoidProvocationCompletedText>
+	<VoidProvocationSucceeded>Dù có gì xuất hiện, hãy chuẩn bị sẵn sàng.</VoidProvocationSucceeded>
+	<VoidProvocationFailed>Thật tiếc, lời kêu gọi của bạn đã không thành công.</VoidProvocationFailed>
+	<VoidProvocationDarkPsychicShock>Trong quá trình nghi lễ, {INVOKER_nameDef} đã nhìn thấy một số điều kinh hoàng vượt quá hiểu biết của con người. Năng lượng tâm linh đen tối theo sau đã khiến {INVOKER_objective} tạm thời bất tỉnh.</VoidProvocationDarkPsychicShock>
+	<PhilophagyCompleteText>{INVOKER_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}, hấp thụ kỹ năng và ký ức của {TARGET_nameDef}.</PhilophagyCompleteText>
+	<PawnGainedXPInSkill>{0_nameDef} đã nhận được {1}{2_label} kinh nghiệm</PawnGainedXPInSkill>
+	<PawnLostXPInSkill>{0_nameDef} đã mất {1}{2_label} kinh nghiệm</PawnLostXPInSkill>
+	<PhilophagySkillLevelGained>Cấp độ kỹ năng đã tăng từ {0} lên {1}.</PhilophagySkillLevelGained>
+	<PhilophagySkillLevelLost>Cấp độ kỹ năng đã giảm từ {0} xuống {1}.</PhilophagySkillLevelLost>
+	<PhilophagySkillLevelRemains>Giữ nguyên cấp độ kỹ năng {0}.</PhilophagySkillLevelRemains>
+	<PhilophagyDamagedTarget>Quá trình nghi lễ đã gây tổn thương cho não của {TARGET_nameDef}, khiến {TARGET_objective} rơi vào trạng thái bất tỉnh.</PhilophagyDamagedTarget>
+	<ImbueDeathRefuralCompleteText>{0_nameDef} đã được truyền vào khả năng tránh cái chết, cho phép {0_pronoun} tự hồi sinh sau khi chết.\n\nQuá trình này đã làm suy yếu não của {0_nameDef}, khiến {0_pronoun} mất tổng cộng {1} kinh nghiệm trong các kỹ năng.</ImbueDeathRefuralCompleteText>
+	<SummonAnimalsSuccessText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Dự kiến sẽ có một nhóm động vật xuất hiện sớm.</SummonAnimalsSuccessText>
+	<SummonAnimalsFailureText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}, nhưng đã xảy ra một sai lầm lớn! Nghi lễ đã thu hút một nhóm động vật điên cuồng đang săn lùng con người! Chuẩn bị chiến đấu!</SummonAnimalsFailureText>
+	<SummonShamblersCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite} một cách suôn sẻ. Hãy chuẩn bị đón chờ sự xuất hiện của chúng.</SummonShamblersCompleteText>
+	<AttackingFromMultipleDirections>Chúng đang tấn công từ nhiều hướng khác nhau.</AttackingFromMultipleDirections>
+	<ChronophagyCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite} một cách suôn sẻ. Các hiệu ứng của nghi lễ như sau:</ChronophagyCompleteText>
+	<ChronophagyTargetAged>{0_nameDef} đã già đi {1} tuổi</ChronophagyTargetAged>
+	<ChronophagyInvokerRejuvenated>{0_nameDef} đã trẻ lại {1} tuổi</ChronophagyInvokerRejuvenated>
+	<ChronophagyTargetDiedOfOldAge>{0_nameDef} không thể chịu đựng được áp lực lão hóa do nghi lễ thời gian mang lại và đã chết vì tuổi già.</ChronophagyTargetDiedOfOldAge>
+	<ChronophagyTargetOldAgeDiseases>{0_nameDef} đã sống sót sau nghi lễ thời gian và nhận được các trạng thái sau</ChronophagyTargetOldAgeDiseases>
+	<ChronophagyInvokerCuredDiseases>Ngoài ra, nghi lễ cũng đã chữa khỏi các bệnh sau cho {0_nameDef}:</ChronophagyInvokerCuredDiseases>
+	<ChronophagyCurrentAge>Tuổi hiện tại là {0} tuổi.</ChronophagyCurrentAge>
+	<PleasurePulseCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Trong {1} tới, những người bị ảnh hưởng bởi {RITUAL_definite} sẽ cảm thấy vui vẻ hơn, nhưng hiệu suất công việc sẽ giảm.</PleasurePulseCompleteText>
+	<NeurosisPulseCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Trong {1} tới, những người bị ảnh hưởng bởi xung động sẽ có hiệu suất công việc cao hơn, nhưng cũng sẽ trở nên cáu kỉnh hơn.</NeurosisPulseCompleteText>
+	<BloodRainCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Trời bắt đầu rơi những giọt mưa đỏ đặc sệt. Hãy để mọi người ở trong nhà để tránh bị điên cuồng.</BloodRainCompleteText>
+	<BrainwipeCompleteText>{INVOKER_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}, một cách ngẫu nhiên xóa bỏ ký ức của {TARGET_nameDef}.</BrainwipeCompleteText>
+	<BrainwipeTargetComa>{TARGET_pronoun} sẽ rơi vào trạng thái hôn mê {1}.</BrainwipeTargetComa>
+	<BrainwipeUnwaveringlyLoyal>{TARGET_nameDef} không còn là người trung thành tuyệt đối nữa.</BrainwipeUnwaveringlyLoyal>
+	<BrainwipeRehumanized>{TARGET_nameDef} đã khôi phục nhân tính.</BrainwipeRehumanized>
+	<PsychophagyCompleteText>{INVOKER_nameDef} đã hoàn thành nghi lễ {RITUAL_definite} và hấp thụ sức mạnh tâm linh của {TARGET_nameDef}.</PsychophagyCompleteText>
+	<PsychophagyTargetSurvived>{TARGET_nameDef} trở thành người điếc tâm linh. Quá trình nghi lễ đã gây tổn thương cho não của {TARGET_pronoun}, khiến {TARGET_objective} rơi vào trạng thái bất tỉnh.</PsychophagyTargetSurvived>
+	<PsychicRitualTargetBrainLiquified>Quá trình nghi lễ đã làm tan chảy não của {TARGET_nameDef}, dẫn đến cái chết của {TARGET_objective}.</PsychicRitualTargetBrainLiquified>
+	<SummonFleshbeastsPlayerCompleteText>{0_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Những quái thú thịt đang xuất hiện từ dưới đất!</SummonFleshbeastsPlayerCompleteText>
+	<GhoulInfusionCompleteText>{INVOKER_nameDef} đã cấy ghép các mảnh siêu nhiên đen tối và sắt sống vào {TARGET_nameDef}. Nghi lễ này đã làm biến dạng tâm trí của {TARGET_nameDef} và gây ra sự biến đổi cơ thể, biến {TARGET_nameDef} thành một sinh vật đáng sợ được gọi là thịt thối. {INVOKER_nameDef} và {TARGET_nameDef} có một liên kết tâm linh, cho phép {INVOKER_objective} kiểm soát {TARGET_nameDef}.\n\nThịt thối có một khao khát mãnh liệt và phụ thuộc vào thịt sống. Khi chúng cảm thấy đói, chúng sẽ ngay lập tức trở nên thù địch, thậm chí quay lại tấn công người tạo ra chúng để thỏa mãn cơn thèm ăn của mình.</GhoulInfusionCompleteText>
+	<AttackersMayCastRitualMultipleTimes>Họ có thể thực hiện nhiều nghi lễ nữa. Bạn cần ngăn chặn họ.</AttackersMayCastRitualMultipleTimes>
+	<SkipAbductionPlayerCompleteText>{INVOKER_nameDef} đã hoàn thành nghi lễ {RITUAL_definite}. Bằng cách điều khiển thời gian và không gian, {INVOKER_nameDef} đã bắt cóc {TARGET_nameDef} từ phe {FACTION_name}. Nội dung kinh hoàng của nghi lễ đã khiến {TARGET_nameDef} rơi vào trạng thái bất tỉnh tạm thời.</SkipAbductionPlayerCompleteText>
+	<FleshmassResponseLabel>Phản ứng khối thịt</FleshmassResponseLabel>
+	<FleshmassResponseText>Sự chết của khối thịt đã gây ra phản ứng mạnh mẽ! Khối thịt đang rung lên và sinh ra những quái thú thịt mới để tự vệ.</FleshmassResponseText>
+	<VoidAwakeningStageOneStructuresActivatedLabel>Bầu trời u ám</VoidAwakeningStageOneStructuresActivatedLabel>
+	<VoidAwakeningStageTwoStructuresActivatedLabel>Các cấu trúc đã được kích hoạt</VoidAwakeningStageTwoStructuresActivatedLabel>
+	<VoidAwakeningStageOneStructuresActivatedText>Với việc cấu trúc thứ hai được kích hoạt, bóng tối càng trở nên dày đặc. Một bóng tối bất thường sẽ sớm bao trùm nơi này. Đảm bảo rằng thuộc địa của bạn đã sẵn sàng. Tích trữ vật tư, xây dựng nguồn sáng, chế tạo đèn chói, củng cố phòng thủ. Chỉ có ở nơi sáng sủa mới an toàn.\n\nNhiều cấu trúc biến dạng sẽ sớm xuất hiện.</VoidAwakeningStageOneStructuresActivatedText>
+	<VoidAwakeningStageTwoStructuresActivatedText>Tất cả các cấu trúc hư không đã được kích hoạt. Không gian xung quanh khối đá hư không bắt đầu nhấp nháy. Hãy chuẩn bị!</VoidAwakeningStageTwoStructuresActivatedText>
+	<VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef} đã bị truyền đi</VoidAwakeningFinalStructuresActivatedLabel>
+	<VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} đã kích hoạt khối đá và rơi ra khỏi không gian mà chúng ta đang ở, đến một không gian khác.\n\n{STUDIER_pronoun} phát hiện mình đang ở trong một căn phòng đầy những chiếc đinh kim loại sắc nhọn. Mỗi bề mặt đều dính đầy chất lỏng màu tối, không khí rung lên với năng lượng. Địa ngục kim loại này chính là lối vào kết nối với trí thông minh siêu nhiên không phải con người.\n\n{STUDIER_nameDef} đã phát hiện ra một nút hư không có thể kết nối sức mạnh tâm linh ác mộng với thế giới của chúng ta. Hãy tương tác với nó, ôm ấp sức mạnh bên trong; hoặc phá hủy nó, cắt đứt hoàn toàn kết nối.</VoidAwakeningFinalStructuresActivatedText>
+	<VoidAwakeningShamblerArrivalLabel>Sự tấn công của quái vật đi lang thang</VoidAwakeningShamblerArrivalLabel>
+	<VoidAwakeningShamblerArrivalText>Một nhóm lớn quái vật đi lang thang đã bị thu hút bởi cấu trúc hư không! Hãy chuẩn bị!</VoidAwakeningShamblerArrivalText>
+	<VoidAwakeningFleshbeastBurrowLabel>Tấn công của quái thú thịt từ dưới đất</VoidAwakeningFleshbeastBurrowLabel>
+	<VoidAwakeningFleshbeastBurrowText>Khối đá đã phát ra một xung tâm linh mạnh mẽ, thu hút các thực thể gần đó.\n\nÂm thanh la hét của thịt cùng với tiếng cào xới từ dưới đất vang lên. Một nhóm quái thú thịt đang đào đường hầm đến tấn công bạn. Hãy chuẩn bị!</VoidAwakeningFleshbeastBurrowText>
+	<VoidAwakeningMetalhorrorArrivalLabel>Tấn công của quái vật kim loại</VoidAwakeningMetalhorrorArrivalLabel>
+	<VoidAwakeningMetalhorrorArrivalText>Quái vật kim loại đang xuất hiện gần khối đá hư không. Hãy chuẩn bị!</VoidAwakeningMetalhorrorArrivalText>
+	<VoidAwakeningEntityArrivalLabel>Tấn công của thực thể</VoidAwakeningEntityArrivalLabel>
+	<VoidAwakeningEntityArrivalText>Khối đá hư không đã kích hoạt một xung tâm linh biến dạng, thu hút các thực thể gần đó. Hãy chuẩn bị!</VoidAwakeningEntityArrivalText>
+	<VoidAwakeningBreadcrumbLetterLabel>Ôm lấy hư không</VoidAwakeningBreadcrumbLetterLabel>
+	<VoidAwakeningBreadcrumbLetterText>Trong quá trình tương tác với cấu trúc hư không, {PAWN_nameDef} đã nhìn thấy những hình ảnh của hư không. {PAWN_pronoun} đã tạm thời lướt qua đại dương đen tối vô tận, cảm nhận sức mạnh phi nhân không thể đo đếm.\n\n{PAWN_nameDef} tin rằng có thể tìm ra cách kiểm soát những sức mạnh đó bằng cách chấp nhận hư không. Nếu bạn mở rộng mãi mãi lối vào hư không này thay vì đóng lại, sẽ mang lại những khả năng không thể dự đoán được.</VoidAwakeningBreadcrumbLetterText>
+	<VoidNodeReturnedLabel>{PAWN_nameDef} đã trở lại</VoidNodeReturnedLabel>
+	<VoidNodeReturnedMessage>{PAWN_nameDef} đã xuất hiện trở lại.</VoidNodeReturnedMessage>
+	<EmbracedVoidText>{PAWN_nameDef} đã xuất hiện trở lại.\n\n{PAWN_pronoun} dường như bị sức mạnh phi nhân trong hư không làm cho kiệt sức. Đôi mắt của {PAWN_possessive} giờ đây đã không còn dấu hiệu nhân tính.\n\nThân thể và tâm trí của {PAWN_nameDef} hiện giờ đã kết nối với bóng tối hư không đầy phi nhân. {PAWN_nameDef} được sức mạnh này ban cho, không còn bị ràng buộc bởi những nhu cầu của người phàm như ăn uống và nghỉ ngơi. Nhờ sức mạnh của hư không, {PAWN_pronoun} có khả năng tạo ra nỗi sợ hãi.\n\nKhối đá đã thức tỉnh. Nó vang lên ngày càng lớn khi {PAWN_nameDef} xuất hiện, báo hiệu rằng cánh cửa kết nối với hư không đã mở ra vĩnh viễn.</EmbracedVoidText>
+	<DisruptedLinkText>{PAWN_nameDef} đã xuất hiện trở lại. {PAWN_pronoun} rõ ràng đã mệt mỏi vì nỗ lực của chính mình, nhưng ngoài ra vẫn khá khỏe mạnh.\n\nSau khi đóng cửa lối vào hư không, {PAWN_nameDef} đã ngăn chặn bất kỳ điều gì dị thường không thể vào thế giới của chúng ta. Tất cả các thực thể thù địch trong khu vực hiện giờ đã ngã xuống đất, không còn sức sống.\n\nHuyền thoại anh hùng của {PAWN_possessive} chắc chắn sẽ được truyền tụng xa và rộng, qua nhiều thế hệ.</DisruptedLinkText>
+	<RewardFleshcraftingAbility>Thao tác thịt</RewardFleshcraftingAbility>
+	<RewardSlaughterAbility>Giết mổ</RewardSlaughterAbility>
+	<RewardShamblerControlAbility>Kiểm soát quái vật đi lang thang</RewardShamblerControlAbility>
+	<DuplicateSicknessLabel>Hệ quả sao chép</DuplicateSicknessLabel>
+	<DuplicateSicknessText>{0_nameDef} và bản sao của {0_possessive} đều cảm thấy không thoải mái. Tình trạng này dường như liên quan đến quá trình sao chép và đang xấu đi. Sự liên kết tâm linh giữa hai người khiến cả hai từ từ mất ý thức. Tình trạng sẽ không cải thiện cho đến khi một trong hai người chết.</DuplicateSicknessText>
+	<FrenziedAnimalsLabel>Động vật điên cuồng</FrenziedAnimalsLabel>
+	<FrenziedAnimalsText>Một nhóm {0} đang săn lùng con người đã vào khu vực này. Chúng bị thu hút bởi nghi lễ của bạn và sẽ lang thang để săn lùng con người.\n\nChúng sẽ không tấn công cửa trừ khi thấy ai đó đi ra. Vì vậy, tốt nhất là nên đóng cửa lại và ở trong nhà. Chúng cũng sẽ không tấn công các tháp pháo đóng cửa, vì vậy nếu bạn muốn bảo vệ tháp pháo, hãy xem xét việc cắt điện cho nó.\n\n{0} sẽ rời đi trong một hoặc hai ngày. Bạn có thể ẩn nấp hoặc ra ngoài chiến đấu với chúng.</FrenziedAnimalsText>
+	<GhoulBetrayalLabel>Phản bội thịt thối</GhoulBetrayalLabel>
+	<GhoulBetrayalText>{PAWN_nameDef} đã rơi vào cơn điên cuồng vì khao khát thịt sống tươi mát!</GhoulBetrayalText>
+	<DistressSignalLabel>Tín hiệu cứu hộ</DistressSignalLabel>
+	<DistressSignalText>Bạn đã nhận được một tín hiệu cứu hộ từ một trại gần đó thuộc về {FACTION_name}.\n\nNgười bên kia đang cầu cứu với giọng điệu gần như điên cuồng, hy vọng có ai đó đến giúp họ chống lại mối đe dọa. Họ sẵn sàng trao đổi mọi thứ trong trại của mình, bao gồm cả các mảnh siêu nhiên mạnh mẽ.\n\nChưa kịp để người bên kia nói rõ về mối đe dọa, tín hiệu đã bị ngắt.</DistressSignalText>
+	<DistressSignalAmbushLabel>Đánh úp</DistressSignalAmbushLabel>
+	<DistressSignalAmbushText>Các quái thú thịt đang xuất hiện từ một hố sâu gần đó!</DistressSignalAmbushText>
+	<ChimeraAssaultLabel>Quái vật lai đang tiếp cận</ChimeraAssaultLabel>
+	<ChimeraAssaultText>Một nhóm quái vật lai hình dạng động vật biến dạng đã xuất hiện gần đây.\n\nNhững con thú dị dạng này sẽ theo dõi thuộc địa của bạn, chờ đợi thời điểm tấn công. Hãy cẩn thận, chúng có thể trả thù nếu bị khiêu khích.</ChimeraAssaultText>
+	<DarknessLiftingEarlyLetterLabel>Bóng tối đang tan biến</DarknessLiftingEarlyLetterLabel>
+	<DarknessLiftingEarlyLetterText>Khi cột ánh sáng cuối cùng sụp đổ, bóng tối bất thường bắt đầu tan biến. Các người định cư cuối cùng cũng có thể hít thở không khí trong lành.</DarknessLiftingEarlyLetterText>
+	<PawnAttackedInDarknessLabel>{0_nameDef} đã bị tấn công</PawnAttackedInDarknessLabel>
+	<PawnAttackedInDarknessText>Có một cái gì đó đã tấn công {0_nameDef} trong bóng tối!\n\nNhững cuộc tấn công này sẽ không dừng lại cho đến khi {0_pronoun} trốn thoát đến nơi an toàn đủ ánh sáng.</PawnAttackedInDarknessText>
+	<NoctolAttackLetterLabel>Tấn công của ác mộng</NoctolAttackLetterLabel>
+	<NoctolAttackLetterText>Bóng tối bắt đầu cuộn lên. Từ bóng tối đen tối đó phát ra tiếng kêu của những sinh vật phi nhân.\n\nNhững ác mộng đen như sâu bọ sẽ sớm tấn công từ bóng tối.</NoctolAttackLetterText>
+	<DarknessWarningLetterLabel>Bóng tối sắp đến</DarknessWarningLetterLabel>
+	<DarknessWarningLetterText>Bóng tối sắp đến gần. Chỉ những nơi đủ ánh sáng mới an toàn, đèn đứng, đuốc, và pháo sáng đều có thể dùng được.\n\nHãy giữ cho các người định cư ở trong khu vực có đủ ánh sáng, bạn có thể thiết lập hạn chế hoạt động trong tab “Quản lý” để ngăn họ không chạy lung tung.</DarknessWarningLetterText>
+	<DarknessWaveringLetterLabel>Bóng tối đang suy giảm</DarknessWaveringLetterLabel>
+	<DarknessWaveringLetterText>Khi các cột ánh sáng bị phá hủy, một vết nứt xuất hiện trong bóng tối, nhưng nó sẽ nhanh chóng bị bóng tối khác lấp đầy.\n\nHãy phá hủy các cột ánh sáng còn lại để chấm dứt hoàn toàn bóng tối bất thường này.</DarknessWaveringLetterText>
+	<LetterLabelShamblerSwarmArrived>Đàn quái vật đi lang thang đang tiếp cận</LetterLabelShamblerSwarmArrived>
+	<LetterLabelShamblerArrived>Quái vật đi lang thang đang tiếp cận</LetterLabelShamblerArrived>
+	<LetterShamblerSwarmArrived>{0} con quái vật đi lang thang thối rữa đang tiến gần. Một sức mạnh bất thường đã khiến những xác chết này hồi sinh.\n\nChúng sẽ lang thang trong khu vực này và tấn công bất kỳ ai nhìn thấy. Nếu bạn cẩn thận tránh né, chúng sẽ rời đi sau vài ngày.\n\nNếu bạn có thể bắt một con, bạn có thể điều tra nó để thu thập kiến thức dị thường.</LetterShamblerSwarmArrived>
+	<LetterShamblerArrived>Một con quái vật đi lang thang thối rữa đang tiến gần. Một sức mạnh bất thường đã khiến xác chết này hồi sinh.\n\nNó sẽ lang thang trong khu vực này và tấn công bất kỳ ai nhìn thấy. Nếu bạn cẩn thận tránh né, nó sẽ rời đi sau vài ngày.\n\nNếu bạn có thể bắt nó, bạn có thể điều tra nó để thu thập kiến thức dị thường.</LetterShamblerArrived>
+	<LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} quái vật đi lang thang</LetterLabelShamblerAnimalsArrived>
+	<LetterShamblerAnimalsArrived>Một nhóm quái vật đi lang thang thối rữa {ANIMALKIND_label} đang tiến gần. Một sức mạnh bất thường đã khiến những xác chết này hồi sinh.\n\nChúng sẽ lang thang trong khu vực này và tấn công bất kỳ ai nhìn thấy. Nếu bạn cẩn thận tránh né, chúng sẽ rời đi sau vài ngày.\n\nNếu bạn có thể bắt một con, bạn có thể điều tra nó để thu thập kiến thức dị thường.</LetterShamblerAnimalsArrived>
+	<GhoulPodCrashLabel>Hộp vận chuyển rơi xuống</GhoulPodCrashLabel>
+	<GhoulPodCrashText>Một hộp vận chuyển chứa quái vật thịt thối đã rơi xuống gần đây.\n\nQuái vật này hiện đang trong trạng thái sốc tâm linh, nhưng sẽ nhanh chóng hồi phục và tấn công bất kỳ ai nhìn thấy. Bạn có thể bắt nó và đặt vào một nền tảng giam giữ để điều tra sau này.\n\nTốt nhất là bắt hoặc giết nó trước khi nó tỉnh lại.</GhoulPodCrashText>
+	<GhoulPodCrashStartingPawnText>Một hộp vận chuyển chứa quái vật thịt thối đã rơi xuống gần đây. Khi kiểm tra gần, bạn phát hiện ra đó là {PAWN_nameDef}, đồng đội trước đây của bạn.\n\nQuái vật này hiện đang trong trạng thái sốc tâm linh, nhưng sẽ nhanh chóng hồi phục và tấn công bất kỳ ai nhìn thấy. Bạn có thể bắt nó và đặt vào một nền tảng giam giữ để điều tra sau này.\n\nTốt nhất là bắt hoặc giết nó trước khi nó tỉnh lại.</GhoulPodCrashStartingPawnText>
+	<LetterLabelEntityDiscovery>Có dự án nghiên cứu mới</LetterLabelEntityDiscovery>
+	<LetterTextEntityDiscoveryResearch>Bằng việc phát hiện {ENTITY_definite}, bạn đã có được những hiểu biết mới. Bây giờ bạn có thể thực hiện các dự án nghiên cứu dị thường sau đây</LetterTextEntityDiscoveryResearch>
+	<NociosphereDefeatedLabel>Đã đánh bại quả cầu đau đớn</NociosphereDefeatedLabel>
+	<NociosphereDefeatedText>Quả cầu đau đớn đã bị phá hủy, để lại một số tài nguyên quý giá.</NociosphereDefeatedText>
+	<NociosphereBecomingUnstableLabel>Quả cầu đau đớn không ổn định</NociosphereBecomingUnstableLabel>
+	<NociosphereBecomingUnstableText>Mô hình năng lượng của quả cầu đau đớn đã bắt đầu điều chỉnh và thích nghi. Trong vòng 10 ngày, nó sẽ không còn phản ứng với sự kiềm chế.\n\nNếu không bị kiềm chế, quả cầu đau đớn sẽ kích hoạt.</NociosphereBecomingUnstableText>
+	<NociosphereBecomingUnstableTextExtraSendable>Gửi quả cầu đau đớn đi tấn công các phe thù địch để đẩy nó đi. Sau khi nó giết đủ, nó sẽ rời đi vĩnh viễn.</NociosphereBecomingUnstableTextExtraSendable>
+	<NociosphereBecomingUnstableTextExtraNotSendable>Điều tra quả cầu đau đớn để tìm cách xử lý nó.</NociosphereBecomingUnstableTextExtraNotSendable>
+	<NociosphereUnstableLabel>Quả cầu đau đớn không ổn định</NociosphereUnstableLabel>
+	<NociosphereUnstableText>Quả cầu đau đớn đã trở nên không ổn định, nó không còn phản ứng với sự kiềm chế. Khi mức độ hoạt động của nó đạt 100%, nó sẽ tỉnh dậy.</NociosphereUnstableText>
+	<NociosphereUnstableTextExtraSendable>Gửi quả cầu đau đớn đi tấn công các phe thù địch để đẩy nó đi. Sau khi nó giết đủ, nó sẽ rời đi vĩnh viễn.</NociosphereUnstableTextExtraSendable>
+	<NociosphereUnstableTextExtraNotSendable>Hãy chuẩn bị cho cuộc tấn công của quả cầu đau đớn.</NociosphereUnstableTextExtraNotSendable>
+	<UnnaturalCorpseArrivalLabel>Xác chết dị thường</UnnaturalCorpseArrivalLabel>
+	<UnnaturalCorpseArrivalText>Một xác chết người bất thường dường như đã xuất hiện từ hư không.\n\nKhi kiểm tra kỹ, bạn phát hiện xác chết này giống hệt {PAWN_nameDef}. Da của nó cảm giác như sáp và ấm.\n\nĐiều tra xác chết này để biết thêm thông tin.</UnnaturalCorpseArrivalText>
+	<GoldenCubeArrivalLabel>Khối lập phương vàng</GoldenCubeArrivalLabel>
+	<GoldenCubeArrivalText>Một khối lập phương kỳ lạ đã rơi xuống gần đó. Dù nó sáng lấp lánh như vàng, nhưng lại cứng cáp và không để lại dấu vết nào. Cảm giác của nó nhẹ nhàng và ấm áp. Bề mặt của nó phản chiếu ánh sáng một cách đẹp mắt.\n\n{PAWN_nameDef} cảm thấy mình bị mê hoặc bởi khối lập phương này một cách kỳ lạ.\n\nĐiều tra khối lập phương này để biết thêm thông tin.</GoldenCubeArrivalText>
+	<VoidCuriosityLabel>Khám phá hư không</VoidCuriosityLabel>
+	<VoidCuriosityText_Researched>{PAWN_nameDef} đã bắt đầu bị mê hoặc bởi hư không và muốn điều tra nó thông qua nghi lễ khuấy động hư không.\n\nThông qua nghi lễ khuấy động hư không, bạn có thể phát hiện và bắt giữ các thực thể. Các thực thể bị bắt giữ có thể được sử dụng để thúc đẩy các dự án nghiên cứu dị thường, hoặc kết nối với một máy thu thập sắt sống để sản xuất sắt sống.\n\nChỉ định một địa điểm nghi lễ tâm linh để thực hiện nghi lễ khuấy động hư không.</VoidCuriosityText_Researched>
+	<VoidCuriosityText_NotResearched>{PAWN_nameDef} đã bắt đầu bị mê hoặc bởi hư không và muốn điều tra nó thông qua nghi lễ khuấy động hư không.\n\nThông qua nghi lễ khuấy động hư không, bạn có thể phát hiện và bắt giữ các thực thể. Các thực thể bị bắt giữ có thể được sử dụng để thúc đẩy các dự án nghiên cứu dị thường, hoặc kết nối với một máy thu thập sắt sống để sản xuất sắt sống.\n\nHoàn thành dự án nghiên cứu “Khuấy động hư không”, sau đó chỉ định một “điểm tổ chức nghi lễ tâm linh” để thực hiện nghi lễ.</VoidCuriosityText_NotResearched>
+</LanguageData>

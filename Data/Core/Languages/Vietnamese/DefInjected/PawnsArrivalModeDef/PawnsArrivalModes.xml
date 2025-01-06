@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CenterDrop.textEnemy>Một nhóm {0} từ {1} đã hạ cánh xuống trung tâm!</CenterDrop.textEnemy>
+	<CenterDrop.textFriendly>Một nhóm đồng minh {0} từ {1} đã hạ cánh xuống trung tâm!</CenterDrop.textFriendly>
+	<CenterDrop.textWillArrive>Khoang vận chuyển của {0_pawnsPluralDef} sắp hạ cánh gần bạn.</CenterDrop.textWillArrive>
+	<EdgeDrop.textEnemy>Một nhóm {0} từ {1} đã hạ cánh gần đây.</EdgeDrop.textEnemy>
+	<EdgeDrop.textFriendly>Một nhóm đồng minh {0} từ {1} đã hạ cánh gần đây.</EdgeDrop.textFriendly>
+	<EdgeDrop.textWillArrive>Khoang vận chuyển của {0_pawnsPluralDef} sắp hạ cánh.</EdgeDrop.textWillArrive>
+	<EdgeDropGroups.textEnemy>Nhiều đội {0} từ {1} đã hạ cánh gần đây.</EdgeDropGroups.textEnemy>
+	<EdgeDropGroups.textFriendly>Nhiều đội đồng minh {0} từ {1} đã hạ cánh gần đây.</EdgeDropGroups.textFriendly>
+	<EdgeDropGroups.textWillArrive>Khoang vận chuyển của {0_pawnsPluralDef} sắp hạ cánh.</EdgeDropGroups.textWillArrive>
+	<EdgeWalkIn.textEnemy>Một nhóm {0} từ {1} đã đến gần đây.</EdgeWalkIn.textEnemy>
+	<EdgeWalkIn.textFriendly>Một nhóm đồng minh {0} từ {1} đã đến gần đây.</EdgeWalkIn.textFriendly>
+	<EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} sẽ đi bộ đến căn cứ của bạn.</EdgeWalkIn.textWillArrive>
+	<EdgeWalkInDistributed.textEnemy>Một nhóm {0} từ {1} đã đến từ mọi hướng.</EdgeWalkInDistributed.textEnemy>
+	<EdgeWalkInDistributed.textFriendly>Một nhóm đồng minh {0} từ {1} đã đến từ mọi hướng.</EdgeWalkInDistributed.textFriendly>
+	<EdgeWalkInDistributed.textWillArrive>{0_pawnsPluralDef} sẽ đi bộ đến căn cứ của bạn từ mọi hướng.</EdgeWalkInDistributed.textWillArrive>
+	<EdgeWalkInGroups.textEnemy>Nhiều đội {0} từ {1} đã đến gần đây.</EdgeWalkInGroups.textEnemy>
+	<EdgeWalkInGroups.textFriendly>Nhiều đội đồng minh {0} từ {1} đã đến gần đây.</EdgeWalkInGroups.textFriendly>
+	<EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} sẽ đến căn cứ của bạn từ nhiều hướng.</EdgeWalkInGroups.textWillArrive>
+	<EmergeFromWater.textEnemy>Một nhóm {0} đang nổi lên từ nước.</EmergeFromWater.textEnemy>
+	<EmergeFromWater.textWillArrive>{0_pawnsPluralDef} sẽ nổi lên từ nước.</EmergeFromWater.textWillArrive>
+	<MechClusterDrop.textEnemy>Một lô khoang vận chuyển chứa đầy cơ khí đã hạ cánh gần đây.</MechClusterDrop.textEnemy>
+	<MechClusterDrop.textWillArrive>Một lô khoang vận chuyển chứa đầy cơ khí sắp hạ cánh gần đây.</MechClusterDrop.textWillArrive>
+	<RandomDrop.textEnemy>Một nhóm {0} từ {1} đã hạ cánh gần đây. Khoang vận chuyển của họ rải rác khắp khu vực!</RandomDrop.textEnemy>
+	<RandomDrop.textFriendly>Một nhóm đồng minh {0} từ {1} đã hạ cánh gần đây. Khoang vận chuyển của họ rải rác khắp khu vực!</RandomDrop.textFriendly>
+	<RandomDrop.textWillArrive>Khoang vận chuyển của {0_pawnsPluralDef} sắp hạ cánh.</RandomDrop.textWillArrive>
+</LanguageData>

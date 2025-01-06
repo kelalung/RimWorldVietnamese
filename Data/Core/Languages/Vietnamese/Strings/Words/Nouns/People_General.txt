@@ -1,0 +1,72 @@
+﻿//Normal outlanders
+Nông dân
+Thôn dân
+Nơi xay bột chủ
+Thợ rèn
+Thợ nấu rượu
+Dệt vải công
+Đầu bếp
+Tên ăn mày
+Thị dân
+Trấn thủ vệ
+Trấn bệnh viện
+Bánh mì sư
+May vá
+Trưởng giả
+Tạo thương sư
+Rèn
+Đồ tể
+Đánh cốc người
+Kiến trúc sư
+Thợ mộc
+Thương nhân
+
+//Exotic outlanders
+Bác sĩ ngoại khoa
+Bác sĩ
+Nhà thám hiểm
+Mạo hiểm giả
+Tửu quỷ
+Mục sư
+Truyền giáo sĩ
+Buôn lậu phạm
+Hài kịch diễn viên
+Gia đình bà chủ
+Giáo sư
+Tạp kỹ diễn viên
+Thằng hề
+Diễn viên
+Nghệ thuật gia
+Tay quyền anh
+Nhà hóa học
+Vũ giả
+Thầy bói
+Nghề làm vườn nhà
+Hầu gái
+Thôi Miên sư
+Châu báu tượng
+Thi nhân
+Cao bồi
+Ca sĩ
+Triết học gia
+Tay súng
+Thám tử
+
+//Tech
+Nhà khảo cổ học
+Hacker
+Hành tinh học gia
+Chính trị gia
+Nhà lịch sử học
+Thư ký
+Tác gia
+Công trình sư
+Nha sĩ
+Luật sư
+
+//Tribals
+Tù trưởng
+Chiến sĩ
+Cung thủ
+Vu y
+Tát Mãn

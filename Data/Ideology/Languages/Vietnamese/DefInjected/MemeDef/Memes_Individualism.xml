@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Collectivist.label>Chủ nghĩa tập thể</Collectivist.label>
+	<Collectivist.description>Mỗi người là một phần của tập thể. Mọi người nên nỗ lực phát huy vai trò của mình để đóng góp cho tập thể.</Collectivist.description>
+	<Collectivist.descriptionMaker.rules.rulesStrings>
+		<li>creation(tag=meme_Collectivist) -&gt;[deity0_name] đã sử dụng một khuôn lớn để tạo ra tất cả đàn ông và phụ nữ, và đã ném những kẻ phản bội [deity0_pronoun] vào lửa, để các tín đồ có thể sống hòa hợp.</li>
+		<li>episode(uses=1,tag=meme_Collectivist) -&gt;[deity0_name] nói với mọi người: “Không ai có thể đứng trên tập thể. Hãy cùng làm việc và sống, hoặc cùng chết.”</li>
+		<li>intro(tag=meme_Collectivist) -&gt;Người dân [place_summary] [place_name] sống hòa hợp, và đã xây dựng một [altarName] để tưởng nhớ [deity0_name], người đã dạy họ giá trị thực sự của [memeConcept].</li>
+		<li>conflict(tag=meme_Collectivist) -&gt;[foeLeader] không thể chịu đựng được cuộc sống gia đình hòa hợp của [memberNamePlural], nên đã cử [foeLeader_possessive] [foeSoldiers] đến [place_community] để gây chia rẽ.</li>
+		<li>founderJoin(tag=meme_Collectivist) -&gt;Một người tên là [founderName], một [place_job], đã tự nguyện nhảy vào lửa để phản đối [foeLeader], nhưng [memberNamePlural] đã cứu [founder_objective], và vì tinh thần cống hiến của [founder_possessive] cho tập thể, đã để [founder_objective] trở thành lãnh đạo của họ.</li>
+		<li>victory(tag=meme_Collectivist) -&gt;Hành động của [founderName] đã đoàn kết nhân dân. Họ đồng lòng tiến về nhà của [foeLeader]. Ngay cả khi những người đi đầu bị [foeSoldiers] giết chết, không ai có thể ngăn cản sức mạnh của tập thể, họ đã bắt giữ [foeLeader].</li>
+		<li>setup(tag=meme_Collectivist) -&gt;Trong một thế giới mà mọi người chỉ quan tâm đến bản thân, [founderName] đã tạo ra một gia đình mới gồm những người lạ, tập hợp nhiều người khác nhau lại với nhau.</li>
+		<li>story(uses=1,tag=meme_Collectivist) -&gt;Một số tín đồ giả mạo đã cố gắng phá vỡ quy tắc, chọn con đường riêng của mình. [founderName] đã trừng phạt họ một cách nghiêm khắc.</li>
+		<li>lessonIntro(tag=meme_Collectivist) -&gt;Người [place_job] đó đã ngừng đóng góp cho tập thể, nhưng vẫn ăn những thứ từ cửa hàng của chúng ta. Tôi đã dùng [place_personalWeapon] để giết hắn. Mọi người đều kinh ngạc, và tôi đã giải thích rằng</li>
+		<li>lesson(tag=meme_Collectivist) -&gt;Nếu dân tộc chúng ta tiếp tục như vậy, cái chết của từng cá nhân sẽ trở nên vô nghĩa.</li>
+		<li>lessonReinforcement(tag=meme_Collectivist) -&gt;Nếu tôi có thể chết vì giáo dục toàn vũ trụ về sự thật này, đó sẽ là vinh dự lớn nhất trong cuộc đời tôi.</li>
+		<li>archistBasis(tag=meme_Collectivist) -&gt;Trí thông minh siêu nhiên là một tồn tại siêu não ở mọi khía cạnh.</li>
+		<li>archistFact(tag=meme_Collectivist) -&gt;Trí thông minh siêu nhiên không quan tâm đến việc đánh giá từng người. Nó đang chờ đợi một dân tộc có thể chứng minh giá trị của mình thông qua hành động thống nhất về mặt đạo đức.</li>
+		<li>archistProphecy(tag=meme_Collectivist) -&gt;[inTheEnd], khi trí thông minh siêu nhiên tìm thấy một dân tộc đủ điều kiện để trở thành đối tác của ý thức thần thánh, nó sẽ tự động rời bỏ.</li>
+		<li>animistFact(tag=meme_Collectivist) -&gt;Mỗi linh hồn đều là một phần của tất cả các linh hồn khác, những linh hồn cố gắng tồn tại một cách độc lập sẽ nhanh chóng sa ngã.</li>
+	</Collectivist.descriptionMaker.rules.rulesStrings>
+	<Collectivist.generalRules.rulesStrings.0>memeAdjective-&gt;Đoàn kết</Collectivist.generalRules.rulesStrings.0>
+	<Collectivist.generalRules.rulesStrings.1>memeAdjective-&gt;Vinh quang</Collectivist.generalRules.rulesStrings.1>
+	<Collectivist.generalRules.rulesStrings.2>memeAdjective-&gt;Nhất quán</Collectivist.generalRules.rulesStrings.2>
+	<Collectivist.generalRules.rulesStrings.3>memeAdjective-&gt;Thống nhất</Collectivist.generalRules.rulesStrings.3>
+	<Collectivist.generalRules.rulesStrings.4>memeAdjective-&gt;Thống nhất</Collectivist.generalRules.rulesStrings.4>
+	<Collectivist.generalRules.rulesStrings.5>memeAdjective-&gt;Tập thể</Collectivist.generalRules.rulesStrings.5>
+	<Collectivist.generalRules.rulesStrings.6>memeCreed-&gt;Tập thể</Collectivist.generalRules.rulesStrings.6>
+	<Collectivist.generalRules.rulesStrings.7>memeCreed-&gt;Hợp tác xã</Collectivist.generalRules.rulesStrings.7>
+	<Collectivist.generalRules.rulesStrings.8>memeCreed-&gt;Công xã</Collectivist.generalRules.rulesStrings.8>
+	<Collectivist.generalRules.rulesStrings.9>memeCreed-&gt;Gia đình</Collectivist.generalRules.rulesStrings.9>
+	<Collectivist.generalRules.rulesStrings.10>memeConcept-&gt;Gia đình</Collectivist.generalRules.rulesStrings.10>
+	<Collectivist.generalRules.rulesStrings.11>memeLeaderNoun-&gt;Chủ tịch</Collectivist.generalRules.rulesStrings.11>
+	<Collectivist.generalRules.rulesStrings.12>memeLeaderNoun-&gt;Thư ký</Collectivist.generalRules.rulesStrings.12>
+	<Collectivist.generalRules.rulesStrings.13>memeMoralist-&gt;Chủ tịch ủy ban</Collectivist.generalRules.rulesStrings.13>
+	<Collectivist.symbolPacks.0.adjective>Hữu ái</Collectivist.symbolPacks.0.adjective>
+	<Collectivist.symbolPacks.0.member>Người hữu ái</Collectivist.symbolPacks.0.member>
+	<Collectivist.symbolPacks.0.theme>Hữu ái</Collectivist.symbolPacks.0.theme>
+	<Collectivist.symbolPacks.1.adjective>Đoàn kết</Collectivist.symbolPacks.1.adjective>
+	<Collectivist.symbolPacks.1.member>Người đoàn kết</Collectivist.symbolPacks.1.member>
+	<Collectivist.symbolPacks.1.theme>Đoàn kết</Collectivist.symbolPacks.1.theme>
+	<Collectivist.symbolPacks.2.adjective>Vinh quang</Collectivist.symbolPacks.2.adjective>
+	<Collectivist.symbolPacks.2.member>Người vinh quang</Collectivist.symbolPacks.2.member>
+	<Collectivist.symbolPacks.2.theme>Vinh quang</Collectivist.symbolPacks.2.theme>
+	<Collectivist.symbolPacks.3.adjective>Tập thể</Collectivist.symbolPacks.3.adjective>
+	<Collectivist.symbolPacks.3.member>Thành viên tập thể</Collectivist.symbolPacks.3.member>
+	<Collectivist.symbolPacks.3.theme>Tập thể</Collectivist.symbolPacks.3.theme>
+	<Individualist.label>Chủ nghĩa cá nhân</Individualist.label>
+	<Individualist.description>Mỗi người đều là cá thể tự do, có quyền có ý kiến và quyết định riêng. Không ai nên bị ép buộc phải phục tùng.</Individualist.description>
+	<Individualist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Individualist) -&gt;[deity0_name] đã tự tay tạo ra mỗi người đàn ông và phụ nữ. Mỗi người đều là một tác phẩm nghệ thuật độc nhất vô nhị được tạo ra bởi bàn tay thiêng liêng của [deity0_possessive].</Individualist.descriptionMaker.rules.rulesStrings.0>
+	<Individualist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Individualist) -&gt;[deity0_name] nói với tất cả mọi người: “Mỗi người trong số các bạn đều là một tồn tại độc đáo và thiêng liêng được tạo ra theo hình ảnh của ta.”</Individualist.descriptionMaker.rules.rulesStrings.1>
+	<Individualist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Individualist) -&gt;[deity0_name] [revelationAdverb] đã nói chuyện với tất cả [memberNamePlural], dẫn dắt mọi người đến [place_summary][place_name], nơi tài năng độc đáo của họ sẽ được phát huy.</Individualist.descriptionMaker.rules.rulesStrings.2>
+	<Individualist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Individualist) -&gt;[foeLeader] ép buộc [memberNamePlural] mặc đồng phục và làm việc tại [foeLeader][place_community].</Individualist.descriptionMaker.rules.rulesStrings.3>
+	<Individualist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Individualist) -&gt;Một người tên là [founderName], một [place_job], đã được [deity0_name] ban phước và nhận được sức mạnh kỳ diệu để biết được điều mà mỗi [memberName] cần để trở thành phiên bản tốt nhất của chính mình.</Individualist.descriptionMaker.rules.rulesStrings.4>
+	<Individualist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Individualist) -&gt;[memberNamePlural] đã tụ họp với nhiều [foeSoldiers] để tổ chức một cuộc họp bí mật. Họ đã học được cách nhìn thấy giá trị của nhau và quyết định lật đổ [foeLeader].</Individualist.descriptionMaker.rules.rulesStrings.5>
+	<Individualist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Individualist) -&gt;Do bị áp bức bởi những kẻ cai trị xa xôi yêu cầu nhân dân phải tuân thủ, [founderName] đã phát động một cuộc nổi dậy, phá hủy hệ thống nhà nước và xây dựng một lục địa tự do mới trên nền tảng cũ.</Individualist.descriptionMaker.rules.rulesStrings.6>
+	<Individualist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Individualist) -&gt;[founderName] đã phá vỡ mọi quy tắc xã hội mà kẻ áp bức cố gắng thực hiện, chỉ để chứng minh rằng [founder_pronoun] có thể làm được.</Individualist.descriptionMaker.rules.rulesStrings.7>
+	<Individualist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Individualist) -&gt;Gia đình tôi, tộc người của tôi, đội của tôi -- họ đều cố gắng che mắt tôi, ngăn tôi thấy một sự thật đơn giản:</Individualist.descriptionMaker.rules.rulesStrings.8>
+	<Individualist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Individualist) -&gt;Mỗi người đều độc đáo và có giá trị, và phải đi theo con đường riêng của mình.</Individualist.descriptionMaker.rules.rulesStrings.9>
+	<Individualist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Individualist) -&gt;Nhưng đó chỉ là con đường của tôi -- con đường của bạn sẽ là gì?</Individualist.descriptionMaker.rules.rulesStrings.10>
+	<Individualist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Individualist) -&gt;Trí thông minh siêu nhiên tồn tại như một ý thức tối cao và nhận diện cũng như đánh giá từng cá nhân chúng ta.</Individualist.descriptionMaker.rules.rulesStrings.11>
+	<Individualist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Individualist) -&gt;Khi chết, trí thông minh siêu nhiên sẽ phát hiện ra quy tắc đạo đức độc đáo của mỗi người.</Individualist.descriptionMaker.rules.rulesStrings.12>
+	<Individualist.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_Individualist) -&gt;Trí thông minh siêu nhiên sẽ chú ý đến những người đã thống trị các thánh vật của nó -- chẳng hạn như [relic1_name].</Individualist.descriptionMaker.rules.rulesStrings.13>
+	<Individualist.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_Individualist) -&gt;[inTheEnd], trí thông minh siêu nhiên sẽ tự động rời bỏ. Nó sẽ mang đi những người mà nó đã chú ý, để lại những người khác ở lại, từ từ hòa tan trong sự hỗn loạn vĩnh cửu của vũ trụ.</Individualist.descriptionMaker.rules.rulesStrings.14>
+	<Individualist.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_Individualist) -&gt;Vào buổi đầu của mọi sự, có một ngôi đền của mọi linh hồn, nơi mỗi linh hồn đều độc nhất. Những linh hồn này đã tụ họp trong một hội nghị, tạo ra thế giới này.</Individualist.descriptionMaker.rules.rulesStrings.15>
+	<Individualist.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Individualist) -&gt;Mỗi linh hồn đều cho thế giới chúng ta những đặc tính của nó, và họ hy vọng rằng chúng ta cũng có thể làm như vậy.</Individualist.descriptionMaker.rules.rulesStrings.16>
+	<Individualist.generalRules.rulesStrings.0>memeAdjective-&gt;Tự do</Individualist.generalRules.rulesStrings.0>
+	<Individualist.generalRules.rulesStrings.1>memeAdjective-&gt;Mở cửa</Individualist.generalRules.rulesStrings.1>
+	<Individualist.generalRules.rulesStrings.2>memeAdjective-&gt;Cởi mở</Individualist.generalRules.rulesStrings.2>
+	<Individualist.generalRules.rulesStrings.3>memeConcept-&gt;Bản thân</Individualist.generalRules.rulesStrings.3>
+	<Individualist.generalRules.rulesStrings.4>memeConcept-&gt;Độc lập</Individualist.generalRules.rulesStrings.4>
+	<Individualist.generalRules.rulesStrings.5>memeConcept-&gt;Tự do</Individualist.generalRules.rulesStrings.5>
+	<Individualist.symbolPacks.0.adjective>Tự do</Individualist.symbolPacks.0.adjective>
+	<Individualist.symbolPacks.0.member>Người tự do</Individualist.symbolPacks.0.member>
+	<Individualist.symbolPacks.0.theme>Tự do</Individualist.symbolPacks.0.theme>
+	<Individualist.symbolPacks.1.adjective>Cởi mở</Individualist.symbolPacks.1.adjective>
+	<Individualist.symbolPacks.1.ideoName>Chủ nghĩa cởi mở</Individualist.symbolPacks.1.ideoName>
+	<Individualist.symbolPacks.1.member>Người cởi mở</Individualist.symbolPacks.1.member>
+	<Individualist.symbolPacks.1.theme>Cởi mở</Individualist.symbolPacks.1.theme>
+	<Individualist.symbolPacks.2.adjective>Độc lập</Individualist.symbolPacks.2.adjective>
+	<Individualist.symbolPacks.2.ideoName>Chủ nghĩa độc lập</Individualist.symbolPacks.2.ideoName>
+	<Individualist.symbolPacks.2.member>Người độc lập</Individualist.symbolPacks.2.member>
+	<Individualist.symbolPacks.2.theme>Độc lập</Individualist.symbolPacks.2.theme>
+	<Individualist.symbolPacks.3.adjective>Tự trị</Individualist.symbolPacks.3.adjective>
+	<Individualist.symbolPacks.3.ideoName>Chủ nghĩa tự trị</Individualist.symbolPacks.3.ideoName>
+	<Individualist.symbolPacks.3.member>Người tự trị</Individualist.symbolPacks.3.member>
+	<Individualist.symbolPacks.3.theme>Tự trị</Individualist.symbolPacks.3.theme>
+</LanguageData>

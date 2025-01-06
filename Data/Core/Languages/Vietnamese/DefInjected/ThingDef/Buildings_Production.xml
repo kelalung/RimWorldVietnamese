@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BiofuelRefinery.label>Nhà máy tinh chế sinh học</BiofuelRefinery.label>
+	<BiofuelRefinery.description>Được sử dụng để tinh chế gỗ, thực vật, thực phẩm tươi sống và các chất hữu cơ khác thành nhiên liệu hóa học.</BiofuelRefinery.description>
+	<Brewery.label>Nhà máy bia</Brewery.label>
+	<Brewery.description>Một bàn làm việc được trang bị thiết bị nấu bia. Nước ngọt phải được cho vào thùng để lên men trước khi trở thành bia.</Brewery.description>
+	<ButcherSpot.label>Điểm giết mổ</ButcherSpot.label>
+	<ButcherSpot.description>Chỉ định vị trí để giết mổ động vật. Do thiếu thiết bị và công cụ hỗ trợ, lượng thịt và da sản xuất ở đây chỉ đạt 70% bình thường.</ButcherSpot.description>
+	<CraftingSpot.label>Điểm chế tạo</CraftingSpot.label>
+	<CraftingSpot.description>Chỉ định vị trí để chế tạo các vật phẩm đơn giản như thuốc lá, dao găm, cung ngắn, v.v. Do thiếu thiết bị và công cụ hỗ trợ, tốc độ làm việc sẽ rất chậm.</CraftingSpot.description>
+	<DeepDrill.label>Máy khoan sâu</DeepDrill.label>
+	<DeepDrill.description>Thiết bị khoan dùng để khai thác khoáng sản nằm dưới bề mặt đất, cần sử dụng máy quét địa chất để khảo sát tài nguyên dưới lòng đất. Ngay cả khi không còn tài nguyên, nó vẫn có thể liên tục khai thác đá.</DeepDrill.description>
+	<DrugLab.label>Phòng thí nghiệm thuốc</DrugLab.label>
+	<DrugLab.description>Một bàn làm việc hóa học được trang bị nhiều bình, cốc đo và thiết bị gia nhiệt, dùng để sản xuất các loại thuốc và chất gây nghiện khác nhau.</DrugLab.description>
+	<ElectricCrematorium.label>Nhà hỏa táng điện</ElectricCrematorium.label>
+	<ElectricCrematorium.description>Một lò hỏa táng điện lớn bằng đá, có thể tạo ra nhiệt độ cực cao để hỏa táng thi thể và quần áo.</ElectricCrematorium.description>
+	<ElectricSmelter.label>Lò nấu điện</ElectricSmelter.label>
+	<ElectricSmelter.description>Tinh chế kim loại hữu ích từ xỉ thép và các vật phẩm chứa kim loại khác. Tiêu tốn nhiều điện.</ElectricSmelter.description>
+	<ElectricSmithy.label>Nhà rèn điện</ElectricSmithy.label>
+	<ElectricSmithy.description>Nhà rèn điện để chế tạo vũ khí và công cụ không cơ khí.</ElectricSmithy.description>
+	<ElectricStove.label>Bếp điện</ElectricStove.label>
+	<ElectricStove.description>Bếp điện dùng để nấu ăn.</ElectricStove.description>
+	<ElectricTailoringBench.label>Bàn may điện</ElectricTailoringBench.label>
+	<ElectricTailoringBench.description>Bàn làm việc có máy may, dùng để may nhanh quần áo. Tốc độ làm việc khi không có điện chỉ đạt 50% so với bình thường.</ElectricTailoringBench.description>
+	<FabricationBench.label>Bàn chế tạo chính xác</FabricationBench.label>
+	<FabricationBench.description>Một bàn làm việc được trang bị công cụ tiên tiến, có thể chế tạo các thiết bị tiên tiến từ nguyên liệu đơn giản.</FabricationBench.description>
+	<FermentingBarrel.label>Thùng lên men</FermentingBarrel.label>
+	<FermentingBarrel.description>Một thùng dùng để lên men nước ngọt thành bia.</FermentingBarrel.description>
+	<FueledSmithy.label>Nhà rèn (nhiên liệu)</FueledSmithy.label>
+	<FueledSmithy.description>Nhà rèn sử dụng gỗ làm nhiên liệu, dùng để chế tạo vũ khí và công cụ không cơ khí.</FueledSmithy.description>
+	<FueledStove.label>Bếp (nhiên liệu)</FueledStove.label>
+	<FueledStove.description>Bếp đơn giản sử dụng gỗ làm nhiên liệu, có mặt bàn cố định để nấu ăn.</FueledStove.description>
+	<HandTailoringBench.label>Bàn may (thủ công)</HandTailoringBench.label>
+	<HandTailoringBench.description>Bàn làm việc dùng để may quần áo bằng tay. Tốc độ làm việc chỉ đạt 50% so với bàn may điện.</HandTailoringBench.description>
+	<HiTechResearchBench.label>Bàn nghiên cứu cao cấp</HiTechResearchBench.label>
+	<HiTechResearchBench.description>Một bàn làm việc công nghệ cao được trang bị máy tính và thiết bị đo điện tử. Công cụ công nghệ cao tăng tốc độ nghiên cứu và có khả năng mở khóa các dự án nghiên cứu tiên tiến hơn.</HiTechResearchBench.description>
+	<Hopper.label>Cổng cấp liệu</Hopper.label>
+	<Hopper.description>Lưu trữ nguyên liệu cho các máy như máy tổng hợp dinh dưỡng.</Hopper.description>
+	<HydroponicsBasin.label>Chậu thủy canh</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Trồng cây nhanh trong dung dịch nuôi cấy nhân tạo. Cần tiêu tốn điện khi hoạt động, cây sẽ chết khi mất điện.</HydroponicsBasin.description>
+	<NutrientPasteDispenser.label>Máy tổng hợp bột dinh dưỡng</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Chuyển đổi nguyên liệu hữu cơ thành bột dinh dưỡng. Tiêu tốn ít nguyên liệu và thời gian hơn so với các phương pháp sản xuất thực phẩm khác, nhưng không ai thích ăn bột dinh dưỡng. Có thể xử lý thực phẩm tươi, nhưng không thể xử lý một số loại thực vật, như cỏ khô. Chỉ khi thuộc địa thiếu thực phẩm, họ mới lấy bột dinh dưỡng từ máy.</NutrientPasteDispenser.description>
+	<SimpleResearchBench.label>Bàn nghiên cứu cơ bản</SimpleResearchBench.label>
+	<SimpleResearchBench.description>Một bàn làm việc đơn giản được trang bị công cụ viết và thiết bị đo cơ bản. Các nhà nghiên cứu khám phá những điều mới mẻ ở đây.</SimpleResearchBench.description>
+	<TableButcher.label>Bàn mổ</TableButcher.label>
+	<TableButcher.description>Một bàn làm việc nặng dùng để mổ xác. Xác thối rữa hoặc phong hóa không thể bị mổ.</TableButcher.description>
+	<TableMachining.label>Bàn gia công cơ khí</TableMachining.label>
+	<TableMachining.description>Bàn làm việc dùng để lắp ráp và tháo rời các thiết bị cơ khí, như vũ khí hoặc cơ thể cơ khí đã chết.</TableMachining.description>
+	<TableSculpting.label>Bàn điêu khắc</TableSculpting.label>
+	<TableSculpting.description>Một bàn làm việc được trang bị công cụ chế tác nghệ thuật.</TableSculpting.description>
+	<TableStonecutter.label>Bàn cắt đá</TableStonecutter.label>
+	<TableStonecutter.description>Một bàn làm việc được trang bị công cụ cắt đá. Dùng để cắt những viên đá không đều thành các khối đá có thể sử dụng.</TableStonecutter.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Penoxycyline.label>Penoxycyline</Penoxycyline.label>
+	<Penoxycyline.description>Thuốc ngăn ngừa bệnh truyền nhiễm. Ngăn chặn nhiễm trùng sốt rét, bệnh ngủ và dịch hạch. Uống mỗi năm ngày.\n\nLưu ý: Thuốc này không thể chữa trị các bệnh đã mắc — chỉ dùng để ngăn ngừa.</Penoxycyline.description>
+	<Penoxycyline.ingestible.ingestCommandString>Uống {0}</Penoxycyline.ingestible.ingestCommandString>
+	<Penoxycyline.ingestible.ingestReportString>Đang uống {0}.</Penoxycyline.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WorldCameraMovement.label>Di chuyển camera bản đồ</WorldCameraMovement.label>
+<WorldCameraMovement.helpText>Sử dụng "cuộn chuột", hoặc phím {Key:MapZoom_In} và {Key:MapZoom_Out} để phóng to hoặc thu nhỏ camera.\n\nSử dụng phím {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, hoặc giữ "chuột giữa (cuộn)" và "kéo" để di chuyển camera.</WorldCameraMovement.helpText>
+<WorldCameraMovement.helpTextController>Sử dụng phím {Key:MapZoom_In} và {Key:MapZoom_Out} để phóng to hoặc thu nhỏ camera.\n\nSử dụng cần điều khiển hoặc màn hình cảm ứng để di chuyển camera.</WorldCameraMovement.helpTextController>
+</LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<JumpRange.label>Khoảng cách nhảy</JumpRange.label>
+<JumpRange.description>Khoảng cách nhảy tối đa.</JumpRange.description>
+<JumpRange.formatString>{0} ô</JumpRange.formatString>
+</LanguageData>

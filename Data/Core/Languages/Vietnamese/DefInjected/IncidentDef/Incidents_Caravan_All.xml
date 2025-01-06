@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Ambush.label>Đánh úp</Ambush.label>
+	<Ambush.letterLabel>Đoàn xe gặp phải đánh úp</Ambush.letterLabel>
+	<Ambush.letterText>{0} đã bị {1} từ {2} đánh úp!</Ambush.letterText>
+	<CaravanDemand.label>Cướp bóc</CaravanDemand.label>
+	<CaravanMeeting.label>Đoàn xe gặp nhau</CaravanMeeting.label>
+	<ManhunterAmbush.label>Đánh úp săn người</ManhunterAmbush.label>
+	<ManhunterAmbush.letterLabel>Đoàn xe gặp phải đánh úp (săn người)</ManhunterAmbush.letterLabel>
+	<ManhunterAmbush.letterText>{0} đã bị {1} nhiễm bệnh điên cuồng đánh úp!</ManhunterAmbush.letterText>
+</LanguageData>

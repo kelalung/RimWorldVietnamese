@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DeadlifeDust.label>Bụi xác sống</DeadlifeDust.label>
+  <DeadlifeDust.deathMessage>{0} đã bị giết.</DeadlifeDust.deathMessage>
+  <Digested.label>Bị tiêu hóa</Digested.label>
+  <Digested.deathMessage>{0} đã chết do bị tiêu hóa.</Digested.deathMessage>
+  <EnergyBolt.label>Đạn năng lượng</EnergyBolt.label>
+  <EnergyBolt.deathMessage>{0} đã chết vì đạn năng lượng.</EnergyBolt.deathMessage>
+  <Nerve.label>Thần kinh</Nerve.label>
+  <Nerve.deathMessage>{0} đã chết vì sốc thần kinh.</Nerve.deathMessage>
+  <NerveStun.label>Choáng thần kinh</NerveStun.label>
+  <NerveStun.deathMessage>{0} đã bị giết.</NerveStun.deathMessage>
+  <NociosphereVaporize.label>Bay hơi</NociosphereVaporize.label>
+  <NociosphereVaporize.deathMessage>{0} đã bị bay hơi do nhiệt độ cao.</NociosphereVaporize.deathMessage>
+  <Psychic.label>Công kích tâm linh</Psychic.label>
+  <Psychic.deathMessage>{0} đã chết vì công kích tâm linh.</Psychic.deathMessage>
+</LanguageData>

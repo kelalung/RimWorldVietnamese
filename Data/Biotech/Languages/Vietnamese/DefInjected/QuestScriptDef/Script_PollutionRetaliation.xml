@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PollutionRetaliation.questContentRules.rulesStrings>
+    <li>retaliationLetterLabel-&gt;Phản công rác độc hại</li>
+    <li>retaliationLetterLabel(senderIsNull==False)-&gt;[sender_faction_pawnSingular] Phản công rác độc hại</li>
+    <li>retaliationLetterLabel(senderIsNull==False,sender_royalInCurrentFaction==False)-&gt;Phản công rác độc hại của [sender_nameDef]</li>
+    <li>retaliationLetterText(senderIsNull==True)-&gt;Hành động đổ rác độc hại ra ngoài bản đồ của bạn không hề bị bỏ qua. Những hàng xóm tức giận đang thực hiện sự trả thù bằng cách ném bom khu định cư của bạn bằng khoang vận chuyển chứa đầy rác độc hại.\n\nNếu không giữ đông lạnh, rác độc hại sẽ tan chảy theo thời gian và làm ô nhiễm địa hình xung quanh.</li>
+    <li>retaliationLetterText(sender_factionLeader==True)-&gt;[sender_faction_name] của [sender_faction_leaderTitle] [sender_nameFull] tuyên bố rằng bạn đã đổ rác độc hại ra ngoài bản đồ mà không quan tâm, làm tổn hại đến phái của [sender_possessive]. Để trả thù, [sender_pronoun] đang sử dụng khoang vận chuyển chứa đầy rác độc hại để ném bom bạn.\n\nNếu không giữ đông lạnh, rác độc hại sẽ tan chảy theo thời gian và làm ô nhiễm địa hình xung quanh.</li>
+    <li>retaliationLetterText(sender_royalInCurrentFaction==True)-&gt;[sender_faction_name] của [sender_faction_leaderTitle] [sender_nameFull] tuyên bố rằng bạn đã đổ rác độc hại ra ngoài bản đồ mà không quan tâm, làm tổn hại đến phái của [sender_possessive], và [sender_pronoun] cảm thấy có nghĩa vụ phải trả thù. [sender_pronoun] đang sử dụng khoang vận chuyển chứa đầy rác độc hại để ném bom bạn.\n\nNếu không giữ đông lạnh, rác độc hại sẽ tan chảy theo thời gian và làm ô nhiễm địa hình xung quanh.</li>
+</PollutionRetaliation.questContentRules.rulesStrings>
+<PollutionRetaliation.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Phản công rác</li>
+</PollutionRetaliation.questDescriptionRules.rulesStrings>
+<PollutionRetaliation.questNameRules.rulesStrings>
+    <li>questDescription-&gt;Phản công rác</li>
+</PollutionRetaliation.questNameRules.rulesStrings>
+</LanguageData>

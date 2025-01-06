@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings>
+    <li>r_ritualName-&gt;[keyDeity][ritNoun]</li>
+    <li>r_ritualName-&gt;[chosenTheme][ritNoun]</li>
+    <li>r_ritualName-&gt;[memeConcept] [ritNoun]</li>
+    <li>r_ritualName-&gt;[memeAdjective][ritNoun]</li>
+    <li>ritNoun-&gt;Đấu trường</li>
+    <li>ritNoun-&gt;Cuộc quyết đấu</li>
+    <li>ritNoun-&gt;Đối kháng</li>
+    <li>ritNoun-&gt;Cuộc chiến sinh tử</li>
+    <li>ritNoun-&gt;Cuộc quyết đấu</li>
+  </NamerRitualGladiatorDuel.rulePack.rulesStrings>
+</LanguageData>

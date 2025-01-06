@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Brazier.label>Đèn lửa</Brazier.label>
+<Brazier.description>Một món đồ nội thất dạng bát dùng để nhóm lửa. Nó sẽ chiếu sáng môi trường xung quanh và tạo ra nhiệt.</Brazier.description>
+<DarklightBrazier.label>Đèn lửa mờ</DarklightBrazier.label>
+<DarklightBrazier.description>Đèn lửa được xử lý đặc biệt, chiếu sáng môi trường xung quanh bằng ánh sáng mờ và tạo ra nhiệt. Nó có thể đáp ứng nhu cầu đèn lửa trong phòng tiếp khách.</DarklightBrazier.description>
+<Drape.label>Màn chắn</Drape.label>
+<Drape.description>Một món đồ nội thất treo vải trang trí trên khung gỗ đứng. Rất phù hợp cho các phòng của quý tộc.</Drape.description>
+<GrandThrone.label>Ngai vàng hoành tráng</GrandThrone.label>
+<GrandThrone.description>Một chiếc ghế hoành tráng và lộng lẫy, được thiết kế cho những người có khả năng tâm linh ngồi thiền. Ngồi trên ngai vàng là một hình thức thiền định, giúp nâng cao sức mạnh tinh thần.</GrandThrone.description>
+<GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Ngai vàng cần chỉ định một người có danh hiệu danh dự để sử dụng.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+<Throne.label>Ngai vàng</Throne.label>
+<Throne.description>Một chiếc ghế lớn và lộng lẫy, được thiết kế cho những người có khả năng tâm linh ngồi thiền. Ngồi trên ngai vàng là một hình thức thiền định, giúp nâng cao sức mạnh tinh thần.</Throne.description>
+<Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Ngai vàng cần chỉ định một người có danh hiệu danh dự để sử dụng.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+</LanguageData>

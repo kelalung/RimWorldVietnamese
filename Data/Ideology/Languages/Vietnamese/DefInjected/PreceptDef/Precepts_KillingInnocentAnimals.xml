@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<KillingInnocentAnimals_Abhorrent.label>Ghê tởm</KillingInnocentAnimals_Abhorrent.label>
+<KillingInnocentAnimals_Abhorrent.description>Giết chết động vật vô tội là một hành động tàn nhẫn và đáng sợ. Động vật vô tội không tấn công con người, hoặc chỉ bị kích thích bởi sự khiêu khích của con người mà tấn công.</KillingInnocentAnimals_Abhorrent.description>
+<KillingInnocentAnimals_Abhorrent.comps.2.description>Giết chết động vật vô tội</KillingInnocentAnimals_Abhorrent.comps.2.description>
+<KillingInnocentAnimals_Disapproved.label>Phản cảm</KillingInnocentAnimals_Disapproved.label>
+<KillingInnocentAnimals_Disapproved.description>Giết chết động vật vô tội là một hành động xấu xa. Động vật vô tội không tấn công con người, hoặc chỉ bị kích thích bởi sự khiêu khích của con người mà tấn công.</KillingInnocentAnimals_Disapproved.description>
+<KillingInnocentAnimals_Disapproved.comps.0.description>Giết chết động vật vô tội</KillingInnocentAnimals_Disapproved.comps.0.description>
+<KillingInnocentAnimals_Disapproved.comps.2.description>Có người đã giết một con vật vô tội</KillingInnocentAnimals_Disapproved.comps.2.description>
+<KillingInnocentAnimals_Horrible.label>Kinh khủng</KillingInnocentAnimals_Horrible.label>
+<KillingInnocentAnimals_Horrible.description>Giết chết động vật vô tội là một hành động đáng sợ. Động vật vô tội không tấn công con người, hoặc chỉ bị kích thích bởi sự khiêu khích của con người mà tấn công.</KillingInnocentAnimals_Horrible.description>
+<KillingInnocentAnimals_Horrible.comps.0.description>Giết chết động vật vô tội</KillingInnocentAnimals_Horrible.comps.0.description>
+<KillingInnocentAnimals_Horrible.comps.2.description>Có người đã giết một con vật vô tội</KillingInnocentAnimals_Horrible.comps.2.description>
+</LanguageData>

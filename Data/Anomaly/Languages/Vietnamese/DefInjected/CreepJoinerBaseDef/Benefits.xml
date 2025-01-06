@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Alchemist.label>Giả kim thuật sĩ</Alchemist.label>
+<Alchemist.letterExtra>{PAWN_nameDef} tuyên bố rằng {PAWN_pronoun} có kiến thức phong phú về giả kim thuật. {PAWN_pronoun} có thể sử dụng công nghệ siêu nhiên chưa biết để biến thép thành nhiều loại tài nguyên có thể sử dụng.</Alchemist.letterExtra>
+<BodyMastery.label>Thể lực tối thượng</BodyMastery.label>
+<BodyMastery.letterExtra>{PAWN_nameDef} giờ đây có ánh mắt trống rỗng. Nhờ vào trí tuệ của người bản địa, {PAWN_pronoun} đã có thể điều khiển quá trình trao đổi chất và thói quen sinh hoạt của mình một cách thành thạo. Ít nhất, {PAWN_pronoun} tự nói như vậy. {PAWN_nameDef} không bao giờ ngủ và cũng không cần ăn, nhưng trong mắt {PAWN_possessive} đang tiềm ẩn một cơn khát nguyên thủy.</BodyMastery.letterExtra>
+<DeathRefusal.label>Tránh cái chết</DeathRefusal.label>
+<DeathRefusal.letterExtra>{PAWN_nameDef} đã trải qua một nghi lễ của giáo phái và giờ đây có khả năng coi thường cái chết. Các vi mạch siêu nhiên phủ khắp cơ thể {PAWN_objective} cho phép {PAWN_pronoun} có thể sống lại. Và khi {PAWN_pronoun} sống lại, cơ thể {PAWN_possessive} sẽ nhanh chóng tái tạo, phục hồi các cơ quan bị thiếu và chữa lành vết thương. Tuy nhiên, quá trình này có những khiếm khuyết.</DeathRefusal.letterExtra>
+<Fleshcrafter.label>Thầy phù thủy thịt</Fleshcrafter.label>
+<Fleshcrafter.letterExtra>{PAWN_nameDef} tự xưng là người nắm giữ nghệ thuật đen tối có thể hồi sinh xác chết. {PAWN_pronoun} có khả năng biến xác chết thành những quái thú máu thịt ghê rợn.</Fleshcrafter.letterExtra>
+<Joybringer.label>Người mang niềm vui</Joybringer.label>
+<Joybringer.letterExtra>{PAWN_nameDef} đồng hành với niềm vui và sự bình yên, khả năng của {PAWN_pronoun} không thể đơn giản chỉ được mô tả bằng sự quyến rũ. {PAWN_pronoun} sẽ nâng cao tinh thần và truyền cảm hứng cho người khác bằng cách kể chuyện cười và lan tỏa năng lượng tích cực.</Joybringer.letterExtra>
+<Occultist.label>Nhà huyền bí học</Occultist.label>
+<Occultist.letterExtra>{PAWN_pronoun} hiểu biết sâu sắc về mọi thứ liên quan đến hư vô. {PAWN_pronoun} điều tra các hiện tượng dị thường nhanh hơn người khác, thậm chí có thời gian, {PAWN_pronoun} còn truyền đạt kiến thức cho người khác.</Occultist.letterExtra>
+<PerfectHuman.label>Người hoàn hảo</PerfectHuman.label>
+<PerfectHuman.letterExtra>{PAWN_nameDef} thông thạo mọi công việc, có thể nói là rất xuất sắc. Dù là công việc gì, {PAWN_pronoun} cũng có thể thành thạo. Hơn nữa, đạo đức nghề nghiệp của {PAWN_possessive} cũng rất xuất sắc. Để {PAWN_pronoun} làm việc thật sự là hoàn hảo.</PerfectHuman.letterExtra>
+<PsychicButcher.label>Thịt mổ tâm linh</PsychicButcher.label>
+<PsychicButcher.letterExtra>{PAWN_nameDef} đi đến đâu, động vật ở đó sẽ trở nên hoảng sợ một cách khó hiểu. {PAWN_pronoun} có một khả năng dị thường có thể biến dạng cơ thể của sinh vật sống, khiến chúng trở thành một đống thịt thối rữa. Mặc dù {PAWN_nameDef} tuyên bố rằng {PAWN_possessive} tài năng chỉ có thể được sử dụng để giết mổ động vật, nhưng rõ ràng, {PAWN_pronoun} cũng có thể dễ dàng cướp đi mạng sống của con người.</PsychicButcher.letterExtra>
+<ShamblerOverlord.label>Chúa tể xác sống</ShamblerOverlord.label>
+<ShamblerOverlord.letterExtra>{PAWN_nameDef} chứa đầy các vi mạch siêu nhiên mục nát. {PAWN_pronoun} có thể thả chúng ra tùy ý để tạo ra bụi xác sống, biến xác chết xung quanh thành những quái vật đi lang thang.</ShamblerOverlord.letterExtra>
+<UnnaturalHealing.label>Thầy thuốc bất thường</UnnaturalHealing.label>
+<UnnaturalHealing.letterExtra>{PAWN_pronoun} có khả năng sử dụng y học để chữa trị.</UnnaturalHealing.letterExtra>
+</LanguageData>

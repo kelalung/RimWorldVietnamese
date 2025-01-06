@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <RoyalFavorDescription>Đại diện thương lượng của bạn đã nhận được {FACTION_royalFavorLabel} điểm từ giao dịch này.</RoyalFavorDescription>
+<RoyalTitleTooltipRequiredApparel>Trang Phục Cần Thiết</RoyalTitleTooltipRequiredApparel>
+<RoyalTitleTooltipRequiredApparelQuality>Chất Lượng Trang Phục Tối Thiểu</RoyalTitleTooltipRequiredApparelQuality>
+<RoyalTitleTooltipBedroomRequirements>Các Yêu Cầu Phòng Ngủ</RoyalTitleTooltipBedroomRequirements>
+<RoyalTitleTooltipThroneroomRequirements>Các Yêu Cầu Phòng Tiếp Kiến</RoyalTitleTooltipThroneroomRequirements>
+<RoyalTitleTooltipPermits>Đặc Quyền Danh Hiệu</RoyalTitleTooltipPermits>
+<RoyalTitleRequiredApparelStatDescription>Người nắm giữ danh hiệu này phải sử dụng theo các cách kết hợp sau đây</RoyalTitleRequiredApparelStatDescription>
+<ApparelRequirementAnyPrestigeArmor>Bất kỳ Bộ Giáp Thánh Nào</ApparelRequirementAnyPrestigeArmor>
+<ApparelRequirementAnyPsycasterApparel>Bất kỳ Bộ Trang Phục Tinh Chất Nào</ApparelRequirementAnyPsycasterApparel>
+<ApparelRequirementOrAnyPsycasterOrPrestigeApparel>Bất kỳ Bộ Trang Phục Tinh Chất Hoặc Quý Tộc Nào</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+<DisabledWorkTypes>Các Loại Công Việc Bị Vô Hiệu Hóa</DisabledWorkTypes>
+<RoyalTitleRequiredMeals>Thức Ăn Được Phép</RoyalTitleRequiredMeals>
+<RoyalTitleRequiredMealsDesc>Người nắm giữ danh hiệu này chỉ ăn những thức ăn này, trừ khi họ bị đói hoặc đang trong đoàn thương mại.</RoyalTitleRequiredMealsDesc>
+<RoyalImplantIllegalUseWarning>Theo luật của {FACTION_name}, phải có danh hiệu {TITLE} để sử dụng {IMPLANT} một cách hợp pháp.\n\n{VIOLATIONTRIGGER}, {FACTION_name} có khả năng phát hiện tín hiệu tâm linh của nó. Điều này sẽ dẫn đến xung đột ngoại giao nghiêm trọng.</RoyalImplantIllegalUseWarning>
+<RoyalImplantInstallConfirmation>Bạn có muốn cài đặt cấy ghép này không?</RoyalImplantInstallConfirmation>
+<RoyalImplantUpgradeConfirmation>Bạn có muốn nâng cấp cấy ghép này không?</RoyalImplantUpgradeConfirmation>
+<BladelinkEquipWarning>Khi được liên kết với một người sử dụng, vũ khí này sẽ không thể được sử dụng bởi người khác.</BladelinkEquipWarning>
+<BladelinkEquipWarningTraits>Vũ khí này có các đặc điểm sau</BladelinkEquipWarningTraits>
+<RoyalWeaponEquipConfirmation>Bạn có chắc chắn muốn trang bị vật phẩm này không?</RoyalWeaponEquipConfirmation>
+<AbilityTargetPsychicallyDeaf>Mục tiêu là người mất thính giác tâm linh.</AbilityTargetPsychicallyDeaf>
+<PsycastIsIllegal>Đối với {PAWN_labelShort}, điều này là bất hợp pháp. Cần có danh hiệu {TITLE}.</PsycastIsIllegal>
+<CannotSkipTarget>Không thể bỏ qua {PAWN_labelShort}</CannotSkipTarget>
+<CannotSkipTargetTooLarge>Quá lớn</CannotSkipTargetTooLarge>
+<CannotSkipTargetPsychicResistant>Kháng tâm linh</CannotSkipTargetPsychicResistant>
+<QuestGivesRoyalFavor>Nhiệm vụ này sẽ thưởng cho {PAWN_labelShort} danh hiệu danh dự vì phần thưởng {FACTION_royalFavorLabel}.</QuestGivesRoyalFavor>
+<RoyalIncapableOfSocial>{PAWN_labelShort} không thể tham gia hoạt động xã hội. Những người được trao danh hiệu danh dự có nhu cầu cao về khả năng xã hội, nếu {PAWN_labelShort} nhận được một danh hiệu, {PAWN_pronoun} có thể gặp khó khăn. Các thuộc địa khác có thể xã hội tốt hơn.</RoyalIncapableOfSocial>
+<RoyalWithConceitedTrait>Do {PAWN_labelShort} là {2}, {PAWN_pronoun} sẽ yêu cầu tất cả các đặc quyền của danh hiệu này. {PAWN_labelShort} có thể từ chối thực hiện một số loại công việc, chống lại thức ăn kém chất lượng và sẽ ban hành các sắc lệnh. Các thuộc địa khác có thể linh hoạt hơn.</RoyalWithConceitedTrait>
+<RoyalWithTraitAffectingPsylinkNegatively>Khi {PAWN_labelShort} là {2}, mối liên kết tâm linh có thể không sử dụng được.</RoyalWithTraitAffectingPsylinkNegatively>
+<PsylinkTooLowForGainAbility>Cấp độ tâm linh của {PAWN_labelShort} không đủ để sử dụng {ABILITY}.\n\nBạn có thực sự muốn nhận khả năng này không?</PsylinkTooLowForGainAbility>
+<SendShuttleWithNoContents>Tàu chuyển này đang trống, nếu bạn phóng nó ra khỏi khu vực hiện tại, bạn sẽ không thể sử dụng nó nữa.\n\nBạn có thực sự muốn gửi nó đi không?</SendShuttleWithNoContents>
+<DropResourcesOverweightConfirm>Việc lấy những tài nguyên này sẽ khiến đoàn thương mại của bạn không thể di chuyển vì quá tải.\n\nBạn có chắc chắn muốn lấy những tài nguyên này không?</DropResourcesOverweightConfirm>
+<!-- <ChooseParticipantsBestow>Chọn người tham gia nghi lễ trao giải.</ChooseParticipantsBestow> -->
+</LanguageData>

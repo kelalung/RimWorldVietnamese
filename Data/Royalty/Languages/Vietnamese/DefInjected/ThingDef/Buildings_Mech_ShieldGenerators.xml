@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ShieldGeneratorBullets.label>Giáp cơ khí góc thấp</ShieldGeneratorBullets.label>
+<ShieldGeneratorBullets.description>Một thiết bị có khả năng tạo ra trường đẩy động năng. Có thể bắn ra nhưng không thể bắn vào.\n\nLoại này được điều chỉnh cho trường góc thấp, vì vậy nó có thể chặn các vật thể như đạn gần mặt đất.\n\nThiết bị này có thể bị tạm thời vô hiệu hóa bởi EMP, và cũng có thể bị ảnh hưởng tạm thời bởi chính thiết bị rung hoặc sử dụng đạn EMP.</ShieldGeneratorBullets.description>
+<ShieldGeneratorMortar.label>Giáp cơ khí góc cao</ShieldGeneratorMortar.label>
+<ShieldGeneratorMortar.description>Một thiết bị có khả năng tạo ra trường đẩy động năng. Có thể bắn ra nhưng không thể bắn vào.\n\nLoại này được điều chỉnh cho trường góc cao, vì vậy nó có thể chặn các quả đạn cối bắn từ trên cao.\n\nThiết bị này có thể bị tạm thời vô hiệu hóa bởi EMP, và cũng có thể bị ảnh hưởng tạm thời bởi chính thiết bị rung hoặc sử dụng đạn EMP.</ShieldGeneratorMortar.description>
+</LanguageData>

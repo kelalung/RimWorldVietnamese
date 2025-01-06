@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<InstallDenture.label>Cài đặt hàm giả</InstallDenture.label>
+	<InstallDenture.description>Cài đặt hàm giả.</InstallDenture.description>
+	<InstallDenture.jobString>Đang cài đặt hàm giả.</InstallDenture.jobString>
+	<InstallPegLeg.label>Cài đặt chân gỗ</InstallPegLeg.label>
+	<InstallPegLeg.description>Cài đặt chân gỗ.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>Đang cài đặt chân gỗ.</InstallPegLeg.jobString>
+	<InstallWoodenFoot.label>Cài đặt bàn chân gỗ</InstallWoodenFoot.label>
+	<InstallWoodenFoot.description>Cài đặt bàn chân gỗ.</InstallWoodenFoot.description>
+	<InstallWoodenFoot.jobString>Đang cài đặt bàn chân gỗ.</InstallWoodenFoot.jobString>
+	<InstallWoodenHand.label>Cài đặt bàn tay gỗ</InstallWoodenHand.label>
+	<InstallWoodenHand.description>Cài đặt bàn tay gỗ.</InstallWoodenHand.description>
+	<InstallWoodenHand.jobString>Đang cài đặt bàn tay gỗ.</InstallWoodenHand.jobString>
+</LanguageData>

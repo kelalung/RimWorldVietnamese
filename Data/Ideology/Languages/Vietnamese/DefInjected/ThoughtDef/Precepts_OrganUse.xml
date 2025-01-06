@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HarvestedOrgan_Abhorrent.stages.harvested_organ.label>Thu hoạch cơ quan</HarvestedOrgan_Abhorrent.stages.harvested_organ.label>
+<HarvestedOrgan_Abhorrent.stages.harvested_organ.description>Tôi buộc phải thu hoạch một cơ quan của ai đó, đây là một sự xâm phạm khủng khiếp đối với đức tin của tôi.</HarvestedOrgan_Abhorrent.stages.harvested_organ.description>
+<HarvestedOrgan_Horrible.stages.harvested_organ.label>Thu hoạch cơ quan</HarvestedOrgan_Horrible.stages.harvested_organ.label>
+<HarvestedOrgan_Horrible.stages.harvested_organ.description>Tôi buộc phải thu hoạch một cơ quan của ai đó, đây là một sự xúc phạm đối với đức tin của tôi.</HarvestedOrgan_Horrible.stages.harvested_organ.description>
+<HarvestedOrgan_Know_Abhorrent.stages.harvested_organ.label>Thu hoạch cơ quan</HarvestedOrgan_Know_Abhorrent.stages.harvested_organ.label>
+<HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>Cơ quan đã được thu hoạch</HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+<HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Cơ quan của đồng đội tôi đã bị thu hoạch, điều này thật khủng khiếp.</HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
+<HarvestedOrgan_Know_Horrible.stages.harvested_organ.label>Thu hoạch cơ quan</HarvestedOrgan_Know_Horrible.stages.harvested_organ.label>
+<HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.label>Cơ quan đã được thu hoạch</HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
+<HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>Cơ quan của đồng đội tôi đã bị thu hoạch, điều này thật khủng khiếp.</HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
+<InstalledOrgan_Abhorrent.stages.installed_organ.label>Gắn cơ quan</InstalledOrgan_Abhorrent.stages.installed_organ.label>
+<InstalledOrgan_Abhorrent.stages.installed_organ.description>Tôi buộc phải gắn một cơ quan cho ai đó, đây là một sự xâm phạm khủng khiếp đối với đức tin của tôi.</InstalledOrgan_Abhorrent.stages.installed_organ.description>
+<InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>Gắn cơ quan</InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>
+<InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>Cơ quan đã được gắn</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>
+<InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>Có người đã gắn cơ quan, cơ thể phải được coi là thiêng liêng và không thể xâm phạm!</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>
+<!--<InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>Cơ quan đã được thu hoạch</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>-->
+<!-- <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Có người đã thu hoạch cơ quan, cơ thể phải được coi là thiêng liêng và không thể xâm phạm!</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description> -->
+<SoldOrgan_Disapproved.stages.sold_organ.label>Bán cơ quan</SoldOrgan_Disapproved.stages.sold_organ.label>
+<SoldOrgan_Disapproved.stages.sold_organ.description>Tôi buộc phải bán một cơ quan của ai đó, tôi không đồng ý với giao dịch như vậy.</SoldOrgan_Disapproved.stages.sold_organ.description>
+<SoldOrgan_Know_Disapproved.stages.sold_organ.label>Bán cơ quan</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
+<SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>Cơ quan đã được bán</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>Có người đã bán một cơ quan. Việc bán các bộ phận cơ thể như những linh kiện máy móc thật là khủng khiếp.</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>
+<!-- <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>Cơ quan đã bị thu hoạch</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label> -->
+<!-- <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>Có người đã bán một cơ quan. Việc giao dịch cơ quan thật đáng sợ.</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description> -->
+<TradedOrgan_Abhorrent.stages.traded_organ.label>Giao dịch cơ quan</TradedOrgan_Abhorrent.stages.traded_organ.label>
+<TradedOrgan_Abhorrent.stages.traded_organ.description>Tôi buộc phải giao dịch một cơ quan của ai đó, đây là sự xúc phạm đối với đức tin của tôi.</TradedOrgan_Abhorrent.stages.traded_organ.description>
+<TradedOrgan_Know_Abhorrent.stages.traded_organ.label>Giao dịch cơ quan</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
+<TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>Cơ quan đã được giao dịch</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>
+<TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>Có người đã giao dịch cơ quan! Đây là một hành động ghê tởm và khiến người ta buồn nôn.</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>
+<!-- <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>Cơ quan đã bị bán</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label> -->
+<!-- <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Có người đang giao dịch cơ quan! Đây là một hành động ghê tởm và khiến người ta buồn nôn.</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description> -->
+</LanguageData>

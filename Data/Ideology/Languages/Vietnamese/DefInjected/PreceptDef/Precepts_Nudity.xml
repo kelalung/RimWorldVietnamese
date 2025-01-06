@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Nudity_Female_CoveringAnythingButGroinDisapproved.label>Chỉ che vùng nhạy cảm</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+	<Nudity_Female_CoveringAnythingButGroinDisapproved.description>Phụ nữ nên che vùng nhạy cảm, nhưng không được che các bộ phận khác. Có thể sử dụng thắt lưng bảo vệ và ba lô phun để hỗ trợ.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+	<Nudity_Female_Mandatory.label>Hoàn toàn khỏa thân</Nudity_Female_Mandatory.label>
+	<Nudity_Female_Mandatory.description>Phụ nữ phải luôn hoàn toàn khỏa thân. Có thể sử dụng thắt lưng bảo vệ và ba lô phun để hỗ trợ.</Nudity_Female_Mandatory.description>
+	<Nudity_Female_NoRules.label>Không quy tắc</Nudity_Female_NoRules.label>
+	<Nudity_Female_NoRules.description>Phụ nữ có thể để lộ hoặc che bất kỳ bộ phận nào của cơ thể.</Nudity_Female_NoRules.description>
+	<Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>Hoàn toàn che đậy</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
+	<Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>Phụ nữ phải che toàn bộ cơ thể, bao gồm cả tóc và mặt.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+	<Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>Quần, áo và mũ</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
+	<Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>Phụ nữ phải che toàn bộ cơ thể và tóc, mặt có thể tự do chọn che hay không.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+	<Nudity_Female_UncoveredGroinDisapproved.label>Ít nhất che vùng nhạy cảm</Nudity_Female_UncoveredGroinDisapproved.label>
+	<Nudity_Female_UncoveredGroinDisapproved.description>Phụ nữ phải che vùng nhạy cảm, các bộ phận cơ thể khác có thể tự do chọn che hay không.</Nudity_Female_UncoveredGroinDisapproved.description>
+	<Nudity_Female_UncoveredGroinOrChestDisapproved.label>Quần và áo</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
+	<Nudity_Female_UncoveredGroinOrChestDisapproved.description>Phụ nữ phải che vùng nhạy cảm và ngực, các bộ phận khác có thể tự do chọn che hay không.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+	<Nudity_Male_CoveringAnythingButGroinDisapproved.label>Chỉ che vùng nhạy cảm</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+	<Nudity_Male_CoveringAnythingButGroinDisapproved.description>Nam giới nên che vùng nhạy cảm, nhưng không được che các bộ phận khác. Có thể sử dụng thắt lưng bảo vệ và ba lô phun để hỗ trợ.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+	<Nudity_Male_Mandatory.label>Hoàn toàn khỏa thân</Nudity_Male_Mandatory.label>
+	<Nudity_Male_Mandatory.description>Nam giới phải luôn hoàn toàn khỏa thân. Có thể sử dụng thắt lưng bảo vệ và ba lô phun để hỗ trợ.</Nudity_Male_Mandatory.description>
+	<Nudity_Male_NoRules.label>Không quy tắc</Nudity_Male_NoRules.label>
+	<Nudity_Male_NoRules.description>Nam giới có thể để lộ hoặc che bất kỳ bộ phận nào của cơ thể.</Nudity_Male_NoRules.description>
+	<Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>Hoàn toàn che đậy</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
+	<Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>Nam giới phải che toàn bộ cơ thể, bao gồm cả tóc và mặt.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+	<Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>Quần, áo và mũ</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
+	<Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>Nam giới phải che toàn bộ cơ thể và tóc, mặt có thể tự do chọn che hay không.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+	<Nudity_Male_UncoveredGroinDisapproved.label>Ít nhất che vùng nhạy cảm</Nudity_Male_UncoveredGroinDisapproved.label>
+	<Nudity_Male_UncoveredGroinDisapproved.description>Nam giới phải che vùng nhạy cảm, các bộ phận cơ thể khác có thể tự do chọn che hay không.</Nudity_Male_UncoveredGroinDisapproved.description>
+	<Nudity_Male_UncoveredGroinOrChestDisapproved.label>Quần và áo</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
+	<Nudity_Male_UncoveredGroinOrChestDisapproved.description>Nam giới phải che vùng nhạy cảm và ngực, các bộ phận khác có thể tự do chọn che hay không.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AbsorbXenogerm.reportString>Đang hấp thụ phôi thai ngoại lai từ TargetA.</AbsorbXenogerm.reportString>
+<CarryGenepackToContainer.reportString>Đang chuyển TargetA đến TargetB.</CarryGenepackToContainer.reportString>
+<CarryToBuilding.reportString>Đang bế TargetB đến TargetA.</CarryToBuilding.reportString>
+<CastAbilityGoToThing.reportString>Đang làm điều gì đó.</CastAbilityGoToThing.reportString>
+<CastAbilityOnThingWithoutWeapon.reportString>Đang làm điều gì đó.</CastAbilityOnThingWithoutWeapon.reportString>
+<CastAbilityOnThingWithoutWeaponInterruptible.reportString>Đang làm điều gì đó.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+<ClearPollution.reportString>Đang làm sạch ô nhiễm.</ClearPollution.reportString>
+<ControlMech.reportString>Đang chiếm quyền điều khiển TargetA.</ControlMech.reportString>
+<CreateXenogerm.reportString>Đang lắp ráp phôi thai ngoại lai.</CreateXenogerm.reportString>
+<Deathrest.reportString>Đang ngủ chết.</Deathrest.reportString>
+<DisassembleMech.reportString>Đang tháo rời TargetA.</DisassembleMech.reportString>
+<EnterBuilding.reportString>Đang vào TargetA.</EnterBuilding.reportString>
+<GetReimplanted.reportString>Đang hấp thụ phôi thai ngoại lai từ TargetA.</GetReimplanted.reportString>
+<HaulMechToCharger.reportString>Đang chuyển TargetA đến trạm sạc.</HaulMechToCharger.reportString>
+<InstallMechlink.reportString>Đang cài đặt TargetA.</InstallMechlink.reportString>
+<MechCharge.reportString>Đang sạc điện.</MechCharge.reportString>
+<PrisonerBloodfeed.reportString>Đang hút máu từ TargetA.</PrisonerBloodfeed.reportString>
+<ReadDatacore.reportString>Đang giải mã TargetA.</ReadDatacore.reportString>
+<ReleaseMechs.reportString>Đang thả các cơ khí ra.</ReleaseMechs.reportString>
+<RemoveMechlink.reportString>Đang làm điều gì đó.</RemoveMechlink.reportString>
+<RepairMech.reportString>Đang sửa chữa TargetA.</RepairMech.reportString>
+<RepairMechRemote.reportString>Đang sửa chữa TargetA.</RepairMechRemote.reportString>
+<SelfShutdown.reportString>Đang ngủ đông (sạc tự động).</SelfShutdown.reportString>
+<ShieldMech.reportString>Đang bảo vệ TargetA.</ShieldMech.reportString>
+<TryRomance.reportString>Đang lãng mạn với TargetA.</TryRomance.reportString>
+<Wait_WithSleeping.reportString>Đang chờ đợi.</Wait_WithSleeping.reportString>
+</LanguageData>

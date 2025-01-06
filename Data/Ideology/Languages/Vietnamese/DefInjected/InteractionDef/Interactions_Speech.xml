@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Speech_AcceptRole.label>Diễn văn nhận chức</Speech_AcceptRole.label>
+  <Speech_AcceptRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] vị trí mới trong cộng đồng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] trách nhiệm của vị trí mới</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] tầm quan trọng của vị trí mới</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] phẩm chất tốt</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] lợi thế và cách phát huy điểm mạnh</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] nhược điểm</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] nhược điểm và cách khắc phục chúng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] nguyện vọng phục vụ cộng đồng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] mong muốn cống hiến cho [INITIATOR_possessive] niềm tin</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] kỳ vọng về tương lai</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] hoài bão lớn lao</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive][PersonalCharacteristic] và mối quan hệ với vị trí</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive][PersonalCharacteristic] làm cho [INITIATOR_objective] phù hợp với vị trí này</li>
+    <li>speechtopic-&gt;[INITIATOR_pronoun] làm thế nào để sử dụng [INITIATOR_possessive][PersonalCharacteristic] vượt qua trở ngại</li>
+    <li>speechtopic-&gt; lòng biết ơn</li>
+    <li>speechtopic-&gt; bày tỏ lòng cảm ơn</li>
+    <li>speechtopic-&gt; ý nghĩa của cuộc sống</li>
+    <li>speechtopic-&gt; tương lai của thuộc địa</li>
+    <li>speechtopic-&gt; phát triển thuộc địa</li>
+    <li>speechtopic-&gt; quyết định trong tình huống khẩn cấp</li>
+    <li>speechtopic-&gt; cấu trúc xã hội của cộng đồng</li>
+    <li>speechtopic-&gt; chịu trách nhiệm</li>
+    <li>speechtopic-&gt; đặt trách nhiệm vị trí lên trên [INITIATOR_possessive] mong muốn cá nhân</li>
+  </Speech_AcceptRole.logRulesInitiator.rulesStrings>
+  <Speech_Blinding.label>Diễn văn mù quáng</Speech_Blinding.label>
+  <Speech_Blinding.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic].</li>
+    <li>speechtopic-&gt;mù quáng</li>
+    <li>speechtopic-&gt; sự tinh khiết của mù quáng</li>
+    <li>speechtopic-&gt; ý nghĩa tâm linh của mù quáng</li>
+    <li>speechtopic-&gt; thế giới bí ẩn ngoài tầm nhìn</li>
+    <li>speechtopic-&gt; sự giả dối của thực tại thị giác của chúng ta</li>
+    <li>speechtopic-&gt; công nghệ mù quáng</li>
+    <li>speechtopic-&gt; lời nguyền của ánh mắt</li>
+    <li>speechtopic-&gt; chất keo trong mắt</li>
+    <li>speechtopic-&gt; vấn đề thị giác trong quá trình phát triển</li>
+    <li>speechtopic-&gt; vấn đề mù quáng trong quá trình phát triển</li>
+    <li>speechtopic-&gt; hành trình khám phá không nhìn thấy</li>
+    <li>speechtopic-&gt; khía cạnh thực sự dưới ánh nhìn</li>
+    <li>speechtopic-&gt; kết nối tâm hồn</li>
+  </Speech_Blinding.logRulesInitiator.rulesStrings>
+  <Speech_Conversion.label>Diễn văn giáo hóa</Speech_Conversion.label>
+  <Speech_Conversion.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;đoàn kết vì mục tiêu lớn hơn</li>
+    <li>speechtopic-&gt;sự sai trái của hành vi phản bội</li>
+    <li>speechtopic-&gt;chọn niềm tin đúng đắn</li>
+    <li>speechtopic-&gt;các cấu trúc đạo đức trong vũ trụ</li>
+    <li>speechtopic-&gt;đúng và sai</li>
+    <li>speechtopic-&gt;mục tiêu của cuộc sống</li>
+    <li>speechtopic-&gt;ý nghĩa của cuộc sống</li>
+    <li>speechtopic-&gt;lịch sử của nhân loại</li>
+    <li>speechtopic-&gt;tương lai của nhân loại</li>
+    <li>speechtopic-&gt;yêu và ghét</li>
+    <li>speechtopic-&gt;sợ hãi và an toàn</li>
+    <li>speechtopic-&gt;sự đúng đắn của cảm giác thuộc về</li>
+    <li>speechtopic-&gt;tham gia và cảm giác thuộc về</li>
+    <li>speechtopic-&gt;các niềm tin sai lầm khác</li>
+    <li>speechtopic-&gt;tiến bộ hướng tới tương lai</li>
+  </Speech_Conversion.logRulesInitiator.rulesStrings>
+  <Speech_DateRitual.label>Diễn văn lễ hội</Speech_DateRitual.label>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic-&gt;sự vui mừng của lễ hội văn hóa</li>
+    <li>praisetopic-&gt;suy nghĩ đúng đắn</li>
+    <li>praisetopic-&gt;các cấu trúc đạo đức trong vũ trụ</li>
+    <li>praisetopic-&gt;[INITIATOR_possessive] niềm tin</li>
+    <li>praisetopic-&gt;chia sẻ trong khó khăn</li>
+    <li>praisetopic-&gt;khi ở bên nhau</li>
+    <li>praisetopic-&gt;trao đổi ý kiến</li>
+    <li>praisetopic-&gt;[INITIATOR_possessive] nhóm của riêng mình</li>
+  </Speech_DateRitual.logRulesInitiator.rulesStrings>
+  <Speech_Duel.label>Diễn văn quyết đấu</Speech_Duel.label>
+  <Speech_Duel.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic-&gt;chết dưới lưỡi gươm</li>
+    <li>praisetopic-&gt;chết đau đớn</li>
+    <li>praisetopic-&gt;chết một cách vinh quang</li>
+    <li>praisetopic-&gt;chiến đấu một cách vinh quang</li>
+    <li>praisetopic-&gt;sự kiên trì và đấu tranh</li>
+    <li>praisetopic-&gt;[AdjectiveBadass] vũ khí và chiến binh</li>
+    <li>praisetopic-&gt;sự tinh khiết của cuộc chiến thể xác</li>
+    <li>praisetopic-&gt;yêu đến chết</li>
+    <li>praisetopic-&gt;xua tan thù hận, thúc đẩy sức khỏe</li>
+    <li>praisetopic-&gt;mạnh hơn người khác</li>
+    <li>praisetopic-&gt;các xung đột vốn có trong vũ trụ</li>
+    <li>praisetopic-&gt;máu và bụi</li>
+    <li>praisetopic-&gt;cuộc sống như một vở kịch</li>
+    <li>praisetopic-&gt;cơn giận và hy vọng</li>
+    <li>praisetopic-&gt;cơn giận và sức mạnh</li>
+  </Speech_Duel.logRulesInitiator.rulesStrings>
+  <Speech_Execution.label>Diễn văn xử án</Speech_Execution.label>
+  <Speech_Execution.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;sống và chết</li>
+    <li>speechtopic-&gt;sự cần thiết của công lý</li>
+    <li>speechtopic-&gt;phương pháp thưởng phạt</li>
+    <li>speechtopic-&gt;chết và tàn bạo</li>
+    <li>speechtopic-&gt;sự săn đuổi từ bi</li>
+    <li>speechtopic-&gt;sự thương xót của cái chết đúng đắn</li>
+    <li>speechtopic-&gt;ý nghĩa biểu tượng của cái chết</li>
+    <li>speechtopic-&gt;án tử và lịch sử của nó</li>
+    <li>speechtopic-&gt;nguyên nhân của việc xử án</li>
+  </Speech_Execution.logRulesInitiator.rulesStrings>
+  <Speech_Funeral.label>Diễn văn tang lễ</Speech_Funeral.label>
+  <Speech_Funeral.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;sự cao quý của hy sinh</li>
+    <li>speechtopic-&gt;chết</li>
+    <li>speechtopic-&gt;kiếp sau</li>
+    <li>speechtopic-&gt;chết và gia đình</li>
+    <li>speechtopic-&gt;khái niệm về cuộc sống tốt đẹp</li>
+    <li>speechtopic-&gt;chết là con đường dẫn đến phẩm giá</li>
+    <li>speechtopic-&gt;khởi đầu và kết thúc</li>
+    <li>speechtopic-&gt;chuyện gì sẽ xảy ra sau khi chết</li>
+    <li>speechtopic-&gt;ăn mừng sự thăng hoa của cuộc sống</li>
+    <li>speechtopic-&gt;người bạn vắng mặt</li>
+    <li>speechtopic-&gt;cuộc sống và niềm vui</li>
+    <li>speechtopic-&gt;tiến hành công việc chưa hoàn thành</li>
+  </Speech_Funeral.logRulesInitiator.rulesStrings>
+  <Speech_Leader.label>Diễn văn lãnh đạo</Speech_Leader.label>
+  <Speech_Leader.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;tìm kiếm [Vegetable]</li>
+    <li>speechtopic-&gt;làm thế nào để trở nên [AdjectiveFriendly]</li>
+    <li>speechtopic-&gt;tránh [AnimalBadass]</li>
+    <li>speechtopic-&gt;sống như [Game]</li>
+    <li>speechtopic-&gt;nghĩ như [Weapon]</li>
+    <li>speechtopic-&gt;khám phá [TerrainFeature] và [TerrainFeature]</li>
+    <li>speechtopic-&gt;đảm bảo đạt được [Direction]</li>
+    <li>speechtopic-&gt;làm thế nào để trở nên giống như [Animal]</li>
+    <li>speechtopic-&gt;ý nghĩa biểu tượng của [NaturalObject] và [NaturalObject]</li>
+    <li>speechtopic-&gt;làm thế nào để trở thành [PersonFamily] và [PersonFamily]</li>
+    <li>speechtopic-&gt;làm thế nào để trở thành một [PersonAlly] tốt</li>
+    <li>speechtopic-&gt;cần thiết cho [PersonJob]</li>
+    <li>speechtopic-&gt;tránh [PersonBadass]</li>
+    <li>speechtopic-&gt;đánh bại [Enemy] bằng [ConceptPositive]</li>
+    <li>speechtopic-&gt;khám phá [Gore] trong trận chiến</li>
+    <li>speechtopic-&gt;lịch sử của [Mechanoid]</li>
+    <li>speechtopic-&gt;ý nghĩa của [ConceptPositive]</li>
+    <li>speechtopic-&gt;[ConceptPositive] của thuộc địa</li>
+    <li>speechtopic-&gt;làm thế nào để trở nên [AdjectiveBadass] để tránh trở nên [AdjectiveBadass]</li>
+    <li>speechtopic-&gt;thuộc địa như thế nào [AdjectiveBadass]</li>
+    <li>speechtopic-&gt;[AdjectiveNatural][TerrainFeature]</li>
+    <li>speechtopic-&gt;tiềm năng [AdjectiveLarge] của thuộc địa</li>
+    <li>speechtopic-&gt;[PersonalCharacteristic] của mỗi người định cư</li>
+    <li>speechtopic-&gt;[PersonalCharacteristic] của kẻ thù thuộc địa</li>
+    <li>speechtopic(p=0.25)-&gt;đoàn kết</li>
+    <li>speechtopic(p=0.25)-&gt;tiến lên trong khó khăn</li>
+    <li>speechtopic(p=0.25)-&gt;cộng đồng và tầm quan trọng của nó</li>
+    <li>speechtopic(p=0.25)-&gt;sự sống và xa hoa</li>
+    <li>speechtopic(p=0.25)-&gt;sau cơn bão sẽ có cầu vồng</li>
+    <li>speechtopic(p=0.25)-&gt;kiên trì vượt qua khổ nạn</li>
+    <li>speechtopic(p=0.25)-&gt;chết là một động lực</li>
+    <li>speechtopic(p=0.25)-&gt;linh hồn mạnh mẽ và đôi tay kiên cường</li>
+    <li>speechtopic(p=0.25)-&gt;quyền sống</li>
+  </Speech_Leader.logRulesInitiator.rulesStrings>
+  <Speech_RemoveRole.label>Diễn văn từ chức</Speech_RemoveRole.label>
+  <Speech_RemoveRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] vị trí đã từng có trong cộng đồng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] trách nhiệm của vị trí đã từng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] khó khăn của vị trí cũ</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] nhược điểm</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] nhược điểm và cách khắc phục chúng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] sự thất vọng trong cộng đồng</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] sự cống hiến cho lý tưởng của [INITIATOR_possessive]</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] niềm tin vào tương lai</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] mong muốn theo đuổi mục tiêu của riêng mình</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] thiếu [PersonalCharacteristic]</li>
+    <li>speechtopic-&gt;[INITIATOR_possessive] quá khứ</li>
+    <li>speechtopic-&gt;thái độ khiêm tốn</li>
+    <li>speechtopic-&gt;ý nghĩa của cuộc sống</li>
+    <li>speechtopic-&gt;tương lai của thuộc địa</li>
+    <li>speechtopic-&gt;phát triển thuộc địa</li>
+    <li>speechtopic-&gt;cấu trúc xã hội của cộng đồng</li>
+    <li>speechtopic-&gt;các ứng viên xuất sắc hơn</li>
+    <li>speechtopic-&gt;đặt mục tiêu của cộng đồng lên trên những tham vọng cá nhân của [INITIATOR_possessive]</li>
+</Speech_RemoveRole.logRulesInitiator.rulesStrings>
+<Speech_Sacrifice.label>Diễn văn hy sinh</Speech_Sacrifice.label>
+<Speech_Sacrifice.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic-&gt;ý nghĩa thực sự của giá trị cái chết</li>
+    <li>speechtopic-&gt;cách thể hiện nỗi đau</li>
+    <li>speechtopic-&gt;hành vi tàn bạo có kiểm soát</li>
+    <li>speechtopic-&gt;nhiệt độ của máu</li>
+    <li>speechtopic-&gt;ý nghĩa của cái chết</li>
+    <li>speechtopic-&gt;yêu và chết</li>
+    <li>speechtopic-&gt;biểu tượng của nỗi đau</li>
+    <li>speechtopic-&gt;thịt và lưỡi gươm</li>
+    <li>speechtopic-&gt;nghệ thuật cắt xẻ</li>
+    <li>speechtopic-&gt;sự cám dỗ của máu</li>
+    <li>speechtopic-&gt;âm nhạc của tiếng thét</li>
+    <li>speechtopic-&gt;các nội tạng trên sàn nhà</li>
+    <li>crazy-&gt;cuồng loạn trong tiếng thét</li>
+    <li>crazy-&gt;đột nhiên hát lên những bài thánh ca</li>
+    <li>crazy-&gt;hát lên trời</li>
+    <li>crazy-&gt;nhổ nước bọt vào mắt của vật tế</li>
+    <li>crazy-&gt;nói cười to</li>
+    <li>crazy-&gt;vung vẩy lưỡi gươm</li>
+    <li>crazy-&gt;thì thầm một mình</li>
+</Speech_Sacrifice.logRulesInitiator.rulesStrings>
+<Speech_Scarification.label>Diễn văn thương tích</Speech_Scarification.label>
+<Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic-&gt;ghi lại nỗi đau của cơ thể</li>
+    <li>speechtopic-&gt;cách thể hiện nỗi đau</li>
+    <li>speechtopic-&gt;hành vi tàn bạo có kiểm soát</li>
+    <li>speechtopic-&gt;nhiệt độ của máu</li>
+    <li>speechtopic-&gt;ý nghĩa của vết sẹo</li>
+    <li>speechtopic-&gt;yêu và đau</li>
+    <li>speechtopic-&gt;ý nghĩa biểu tượng của nỗi đau</li>
+    <li>speechtopic-&gt;thịt và lưỡi gươm</li>
+    <li>speechtopic-&gt;nghệ thuật cắt xẻ</li>
+    <li>speechtopic-&gt;sự cám dỗ của máu</li>
+    <li>speechtopic-&gt;âm nhạc của tiếng thét</li>
+    <li>crazy-&gt;cuồng loạn trong tiếng thét</li>
+    <li>crazy-&gt;đột nhiên hát lên những bài thánh ca</li>
+    <li>crazy-&gt;hát lên trời</li>
+    <li>crazy-&gt;nói cười to</li>
+    <li>crazy-&gt;vung vẩy lưỡi gươm</li>
+    <li>crazy-&gt;thì thầm một mình</li>
+</Speech_Scarification.logRulesInitiator.rulesStrings>
+<Speech_TreeConnection.label>Diễn văn cộng hưởng</Speech_TreeConnection.label>
+<Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic-&gt;cây và con người</li>
+    <li>speechtopic-&gt;cây và sức mạnh tâm hồn</li>
+    <li>speechtopic-&gt;linh hồn cây</li>
+    <li>speechtopic-&gt;chu kỳ sống của cây mẹ</li>
+    <li>speechtopic-&gt;nghi thức tâm linh của cây mẹ</li>
+    <li>speechtopic-&gt;nhánh cây tâm hồn</li>
+    <li>speechtopic-&gt;làm thế nào để tỉa cây linh hồn</li>
+    <li>speechtopic-&gt;sự cao quý của linh hồn cây</li>
+    <li>speechtopic-&gt;tuổi của cây</li>
+    <li>speechtopic-&gt;vai trò của con người trong cây</li>
+    <li>speechtopic-&gt;sự sống thực vật và sự vĩnh cửu</li>
+    <li>speechtopic-&gt;hòa hợp với thiên nhiên</li>
+</Speech_TreeConnection.logRulesInitiator.rulesStrings>
+</LanguageData>

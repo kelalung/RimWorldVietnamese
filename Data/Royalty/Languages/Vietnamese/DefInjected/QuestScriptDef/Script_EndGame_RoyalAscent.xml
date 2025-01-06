@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+<li>questDescription-&gt;[intro] [asker_faction_name] của [asker_faction_leaderTitle] sẽ được mời đến thăm một lãnh thổ của bá tước. Mời họ đến thăm và trong vòng [shuttleDelayTicks_duration] phải đáp ứng các nhu cầu khác nhau, sau đó mọi người có thể lên tàu vũ trụ đến căn cứ của đế quốc. Bạn có thể chọn gia nhập đế quốc hoặc bỏ trốn khỏi hành tinh để bắt đầu cuộc sống mới.\n\nBạn có thể nhận được danh hiệu [asker_faction_name] của [asker_faction_royalFavorLabel] bằng cách hoàn thành nhiệm vụ này. Điều này cũng có thể có nghĩa là bạn sẽ cần nhiều năm để hoàn thành công việc này.\n\nTrong thời gian thăm, bạn phải đảm bảo tâm trạng của khách luôn cao hơn [lodgersMoodThreshold_percent]. Điều này có nghĩa là bạn phải cung cấp nhiều nội dung đặc quyền, chẳng hạn như chuẩn bị một cung điện sang trọng. [threatsInfo]\n\nMột số vệ sĩ cá nhân đi cùng [asker_faction_leaderTitle] sẽ tạm thời nghe theo bạn. Mặc dù [asker_faction_leaderTitle] không quan tâm đến sự sống chết của những người này, nhưng bạn vẫn cần cung cấp chỗ ở cho những vệ sĩ này.\n\nBạn phải đảm bảo rằng khách luôn ở lại [map_definite] và không được gửi họ đi. Nếu bạn thất bại trong nhiệm vụ này hoặc tự ý di chuyển, điều này sẽ không ảnh hưởng đến cơ hội nhận được nhiệm vụ tương tự trong tương lai.</li>
+<li>intro(sameQuestsCount==0)-&gt;Bạn đã biết một cách để thoát khỏi hành tinh này!\n\n</li>
+<li>intro(sameQuestsCount&gt;=1)-&gt;Bạn có thêm một cơ hội thăng tiến danh dự.\n\n</li>
+<li>threatsInfo(allowViolentQuests==true,priority=1)-&gt;\n\nNgười khác cuối cùng có cơ hội giết [asker_faction_leaderTitle], bạn sẽ ngay lập tức bị tấn công với số lượng lớn. Hãy nhanh chóng chuẩn bị lực lượng phòng thủ!</li>
+<li>threatsInfo-&gt;</li>
+</EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+<EndGame_RoyalAscent.questNameRules.rulesStrings>
+<li>questName(sameQuestsCount==0)-&gt;Thăng tiến danh dự</li>
+<li>questName(sameQuestsCount&gt;=1)-&gt;Danh dự [titleEnd]</li>
+<li>titleEnd-&gt;Thăng tiến</li>
+<li>titleEnd-&gt;Tăng cường</li>
+<li>titleEnd-&gt;Khách tham quan</li>
+<li>titleEnd-&gt;Khách</li>
+<li>titleEnd-&gt;Chủ nhân</li>
+<li>titleEnd-&gt;Chiến thắng</li>
+</EndGame_RoyalAscent.questNameRules.rulesStrings>
+<EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
+<EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[faction_name] bắt đầu thù địch với bạn.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
+<EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>asker.NoLongerFactionLeader</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
+<EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] đã đến</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
+<EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_name] của [asker_faction_leaderTitle], [asker_nameDef], đã đến.\n\nBạn phải cung cấp sự bảo vệ cho [asker_objective] và đáp ứng các nhu cầu của [asker_possessive] trong vòng [shuttleDelayTicks_duration] trước khi tàu vũ trụ đến.\n\nTất cả các bạn có thể cùng [asker_faction_leaderTitle] lên tàu vũ trụ để bắt đầu cuộc sống mới tại căn cứ của đế quốc.</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
+<EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>Khách {SUBJECT_definite} đã chết.</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+<EndGame_RoyalAscent.LetterTextGuestDied.slateRef>Người cần bạn bảo vệ, {SUBJECT_definite}, đã chết. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
+<EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>Nên lên tàu vũ trụ để rời đi</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
+<EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>Tàu vũ trụ đã đến</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
+<EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>Tàu vũ trụ đã đến để đón [asker_faction_leaderTitle].\n\nTất cả các bạn có thể cùng [asker_faction_leaderTitle] lên tàu vũ trụ để bắt đầu cuộc sống mới tại căn cứ của đế quốc.</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
+<EndGame_RoyalAscent.EndGameEndingText.slateRef>Chúa tể thiên hà đã chào đón bạn gia nhập đế quốc với tư cách là một quý tộc danh dự.\n\nBạn có thể chọn gia nhập tầng lớp thượng lưu của đế quốc để tìm kiếm quyền lực chính trị lớn hơn. Có thể bạn chỉ muốn tận hưởng những trải nghiệm xa xỉ mà công nghệ của đế quốc mang lại, không muốn trải qua những cuộc sống kịch tính nữa. Hoặc có thể, bạn cũng có thể mua một con tàu vũ trụ và trở về quê hương.\n\nQuyết định nằm trong tay bạn.</EndGame_RoyalAscent.EndGameEndingText.slateRef>
+<EndGame_RoyalAscent.EndGameIntroText.slateRef>Bạn đã rời khỏi bằng tàu vũ trụ của đế quốc!</EndGame_RoyalAscent.EndGameIntroText.slateRef>
+<EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>{SUBJECT_bestRoyalTitle} đang không vui</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
+<EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>Người cần bạn bảo vệ và đáp ứng nhu cầu, {SUBJECT_definite}, đã có tâm trạng thấp hơn mức tối thiểu [lodgersMoodThreshold] trong thời gian dài. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
+<EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>Khách {SUBJECT_definite} đã bị bắt.</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+<EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>Người cần bạn bảo vệ, {SUBJECT_definite}, đã bị bắt. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+<EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>Phẫu thuật không được phép: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
+<EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>Người cần bạn bảo vệ, {SUBJECT_definite}, đã trải qua một ca phẫu thuật không được phép. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+<EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>Hạt giống ngoại lai đã bị hấp thụ</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>Người được bạn bảo vệ, {SUBJECT_definite}, đã bị hấp thụ bởi hạt giống ngoại lai trong thuộc địa của bạn. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+<EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>Khách bị mất tích: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
+<EndGame_RoyalAscent.LetterTextGuestLost.slateRef>Người cần bạn bảo vệ, {SUBJECT_definite}, đã mất tích trong thuộc địa của bạn. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
+<EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>Tàu vũ trụ đã bị phá hủy</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
+<EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>Tàu vũ trụ đến đón [asker_faction_leaderTitle] đã bị phá hủy. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
+<EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>Khách bị mất tích: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
+<EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>Người cần bạn bảo vệ, {SUBJECT_definite}, đã trở về tự nhiên trong thuộc địa của bạn. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
+<EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
+<EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>Tàu vũ trụ đến đón [asker_faction_leaderTitle] không nhận được [asker_objective]. [asker_pronoun] giờ chỉ có thể đi bộ trở về. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+</LanguageData>

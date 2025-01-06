@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+		<li>questDescription->Một AI thân thiện có tên là (*Name) Shalon Bạch Thạch (/Name) đã gửi cho chúng ta một thông điệp!\n\nHắn tiết lộ rằng hắn có một chiếc tàu vũ trụ trên hành tinh này và đã gửi tọa độ cho bạn.\n\nChiếc tàu vũ trụ này đang ở chế độ ngủ sâu. Khi đến nơi, chúng ta phải khởi động nó và chống lại những kẻ tấn công cố gắng đánh cắp tàu cho đến khi hoàn thành chuỗi khởi động. Đây sẽ là một hành trình dài và gian khổ, đầy rẫy nguy hiểm.\n\nNếu bạn đến tàu vũ trụ, (*Name) Shalon (/Name) sẽ đưa bạn rời khỏi thế giới hẻo lánh này, bay vào bầu trời sao.</li>
+	</EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+	<EndGame_ShipEscape.questNameRules.rulesStrings>
+		<li>questName->Hành trình đến bầu trời sao</li>
+	</EndGame_ShipEscape.questNameRules.rulesStrings>
+</LanguageData>

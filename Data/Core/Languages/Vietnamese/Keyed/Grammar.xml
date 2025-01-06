@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<IndefiniteArticle/>
+	<DefiniteArticle/>
+	<IndefiniteForm>{0}</IndefiniteForm>
+	<DefiniteForm>{0}</DefiniteForm>
+	<Proits>Nó</Proits>
+	<Prohis>Anh ấy</Prohis>
+	<Proher>Cô ấy</Proher>
+	<ProitsCap>Nó</ProitsCap>
+	<ProhisCap>Anh ấy</ProhisCap>
+	<ProherCap>Cô ấy</ProherCap>
+	<ProitObj>Nó</ProitObj>
+	<ProhimObj>Anh ấy</ProhimObj>
+	<ProherObj>Cô ấy</ProherObj>
+	<ProitObjCap>Nó</ProitObjCap>
+	<ProhimObjCap>Anh ấy</ProhimObjCap>
+	<ProherObjCap>Cô ấy</ProherObjCap>
+	<Prohe>Anh ấy</Prohe>
+	<Proshe>Cô ấy</Proshe>
+	<Proit>Nó</Proit>
+	<ProheCap>Anh ấy</ProheCap>
+	<ProsheCap>Cô ấy</ProsheCap>
+	<ProitCap>Nó</ProitCap>
+	<ProHeNoun>Đàn ông</ProHeNoun>
+	<ProSheNoun>Phụ nữ</ProSheNoun>
+	<ProItNoun>Người</ProItNoun>
+	<ClauseSequence2>{0} và {1}.</ClauseSequence2>
+	<ClauseSequence3>{0}. Cũng có, {1} và {2}.</ClauseSequence3>
+	<ClauseSequence4>{0} và {1}. Ngoài ra còn có {2} và {3}.</ClauseSequence4>
+	<ClauseSequence5>{0} và {1}. Còn có {2} và {3}. Cuối cùng, {4}.</ClauseSequence5>
+	<ClauseSequence6>{0}. {1} và {2}. Cũng có, {3} và {4}. Cuối cùng, {5}.</ClauseSequence6>
+	<ClauseSequence7>{0} và {1}. {2} và {3}. Cũng có, {4} và {5}. Cũng như, {6}.</ClauseSequence7>
+	<ClauseSequence8>{0} và {1}. Cũng có, {2} và {3}. {4} và {5}. Cuối cùng, {6} và {7}.</ClauseSequence8>
+	<XorY>{0} hoặc {1}</XorY>
+</LanguageData>

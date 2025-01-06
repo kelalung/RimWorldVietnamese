@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SpouseCount_Female_MaxOne.label>Trung thành</SpouseCount_Female_MaxOne.label>
+	<SpouseCount_Female_MaxOne.description>Phụ nữ chỉ có thể có một người phối ngẫu.</SpouseCount_Female_MaxOne.description>
+	<SpouseCount_Male_MaxOne.label>Trung thành</SpouseCount_Male_MaxOne.label>
+	<SpouseCount_Male_MaxOne.description>Nam giới chỉ có thể có một người phối ngẫu.</SpouseCount_Male_MaxOne.description>
+</LanguageData>

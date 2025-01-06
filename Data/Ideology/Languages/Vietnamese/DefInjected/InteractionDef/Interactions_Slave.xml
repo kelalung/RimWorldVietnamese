@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SparkSlaveRebellion.label>Kích thích cuộc nổi dậy của nô lệ</SparkSlaveRebellion.label>
+	<SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] gợi ý cho họ trốn thoát.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] khuyến khích [RECIPIENT_nameDef] lấy lại tự do của mình.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] nói về việc chấm dứt sự nô lệ và tạo ra một không gian mới.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] nói về cuộc sống không bị nô lệ và khuyến khích [RECIPIENT_nameDef] trốn chạy.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] thì thầm rằng bây giờ an ninh đang lỏng lẻo, là thời điểm tốt nhất để trốn thoát.</li>
+	</SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+	<Suppress.label>Đàn áp</Suppress.label>
+	<Suppress.logRulesInitiator.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng cuộc nổi dậy sẽ bị trừng phạt.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cảnh báo [RECIPIENT_nameDef] rằng những ai không tuân lệnh sẽ bị trừng phạt.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] cảnh báo [RECIPIENT_nameDef] rằng mọi hành vi vi phạm sẽ thất bại.</li>
+		<li>r_logentry-&gt;[INITIATOR_nameDef] khuyên [RECIPIENT_nameDef] nên tuân lệnh mà không hỏi thêm.</li>
+	</Suppress.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<WakeUp.label>Viên thuốc tỉnh táo</WakeUp.label>
+<WakeUp.description>Một loại thuốc kích thích tổng hợp. Viên thuốc tỉnh táo có thể phục hồi giá trị nghỉ ngơi của người sử dụng, giúp họ làm việc không biết mệt mỏi trong thời gian dài. Tuy nhiên, việc sử dụng lặp đi lặp lại với số lượng lớn sẽ giảm hiệu quả và gây ra sự sụp đổ tinh thần.\n\nNhiều nhà lãnh đạo xuất sắc ở các công ty và trường đại học cạnh tranh nhất trên thế giới đã nổi tiếng vì sự sụp đổ tinh thần do nghiện viên thuốc tỉnh táo.</WakeUp.description>
+<WakeUp.ingestible.ingestCommandString>Uống {0}</WakeUp.ingestible.ingestCommandString>
+<WakeUp.ingestible.ingestReportString>Đang uống {0}.</WakeUp.ingestible.ingestReportString>
+</LanguageData>

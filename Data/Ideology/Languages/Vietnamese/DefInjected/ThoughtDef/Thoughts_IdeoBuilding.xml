@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<IdeoBuildingDisrespected.stages.disrespected.label>Bị thiếu tôn trọng {BUILDING_labelCap}</IdeoBuildingDisrespected.stages.disrespected.label>
+<IdeoBuildingDisrespected.stages.disrespected.description>Chúng tôi có {BUILDING_labelIndef}, nhưng cần đặt nó trong một căn phòng đáp ứng các điều kiện thích hợp.</IdeoBuildingDisrespected.stages.disrespected.description>
+<IdeoBuildingMissing.stages.Missing.label>Thiếu {BUILDING_label}</IdeoBuildingMissing.stages.Missing.label>
+<IdeoBuildingMissing.stages.Missing.description>Chúng tôi cần phải có {BUILDING_labelIndef}.</IdeoBuildingMissing.stages.Missing.description>
+</LanguageData>

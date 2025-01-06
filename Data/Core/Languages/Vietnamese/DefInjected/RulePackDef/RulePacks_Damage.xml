@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Damage_Bomb.rulePack.rulesStrings>
+		<li>damaged_past(p=2)->Đã va chạm</li>
+		<li>damaged_past(p=2)->Đã nổ</li>
+		<li>damaged_past->Đã gây hại</li>
+		<li>damaged_past->Đã phá hủy</li>
+		<li>damaged_past->Đã làm thương</li>
+		<li>damaged_past->Đã bị chấn thương</li>
+		<li>destroyed_past->Đã vỡ vụn</li>
+		<li>destroyed_past->Đã bị nứt</li>
+		<li>destroyed_past->Đã bị gãy</li>
+		<li>destroyed_past->Đã bị hỏng</li>
+		<li>destroyed_past->Đã bị nổ tung</li>
+	</Damage_Bomb.rulePack.rulesStrings>
+	<Damage_EMP.rulePack.rulesStrings>
+		<li>damaged_past->Đã bị chấn động</li>
+		<li>damaged_past->Đã bị sốc</li>
+		<li>damaged_past->Đã sụp đổ</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_EMP.rulePack.rulesStrings>
+	<Damage_Extinguish.rulePack.rulesStrings>
+		<li>damaged_past->Đã dập tắt</li>
+		<li>damaged_past->Đã bị ngập</li>
+		<li>damaged_past->Đã sủi bọt</li>
+		<li>damaged_past->Đã tắt đột ngột</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Extinguish.rulePack.rulesStrings>
+	<Damage_Flame.rulePack.rulesStrings>
+		<li>damaged_past(p=2)->Đã ảnh hưởng</li>
+		<li>damaged_past(p=2)->Đã cháy</li>
+		<li>damaged_past(p=2)->Đã bùng cháy</li>
+		<li>damaged_past(p=2)->Đã bắt lửa</li>
+		<li>damaged_past(p=2)->Đã nướng cháy</li>
+		<li>damaged_past(p=2)->Đã bị cháy khét</li>
+		<li>damaged_past->Đã bị thương</li>
+		<li>damaged_past->Đã phá hủy</li>
+		<li>damaged_past->Đã chảy máu</li>
+		<li>damaged_past->Đã gây hại</li>
+		<li>damaged_present(p=2)->Đang nổ</li>
+		<li>damaged_present(p=2)->Đang bị cháy</li>
+		<li>damaged_present(p=2)->Đang bùng cháy</li>
+		<li>damaged_present(p=2)->Đang bị phồng lên</li>
+		<li>damaged_present(p=2)->Đang bắt lửa</li>
+		<li>damaged_present(p=2)->Đang bị cháy</li>
+		<li>damaged_present->Đã phá hủy</li>
+		<li>damaged_present->Đã tiêu diệt</li>
+		<li>damaged_present->Đã gây hại</li>
+		<li>damaged_present->Đã hư hỏng</li>
+		<li>destroyed_past->Đã cháy thành tro</li>
+		<li>destroyed_past->Đã cháy hết</li>
+		<li>destroyed_past->Đã bị thiêu rụi</li>
+		<li>destroyed_past->Đã bị cháy hỏng</li>
+		<li>destroyed_past->Đã bị cháy khét</li>
+		<li>destroyed_past->Đã bị nổ tung</li>
+		<li>destroyed_present->Đang cháy hết</li>
+		<li>destroyed_present->Đang cháy thành tro</li>
+		<li>destroyed_present->Đang bị cháy khét</li>
+		<li>destroyed_present->Đang bị thiêu rụi</li>
+		<li>destroyed_present->Đang bị cháy hỏng</li>
+		<li>destroyed_present->Đang bị nổ tung</li>
+	</Damage_Flame.rulePack.rulesStrings>
+	<Damage_Smoke.rulePack.rulesStrings>
+		<li>damaged_past->Đã bốc khói</li>
+		<li>damaged_past->Đã mờ sương</li>
+		<li>damaged_past->Đã có khói mù mịt</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Smoke.rulePack.rulesStrings>
+	<Damage_Stun.rulePack.rulesStrings>
+		<li>damaged_past->bối rối</li>
+		<li>damaged_past->hỗn loạn</li>
+		<li>damaged_past->dừng lại</li>
+		<li>damaged_past->chóng mặt</li>
+		<li>destroyed_past->damaged_past</li>
+	</Damage_Stun.rulePack.rulesStrings>
+</LanguageData>

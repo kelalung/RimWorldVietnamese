@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SmokeleafJoint.label>Thuốc lá cần sa</SmokeleafJoint.label>
+<SmokeleafJoint.description>Thuốc lá được cuốn từ lá cần sa. Thuốc lá cần sa có thể nâng cao tâm trạng, nhưng cũng có tính gây nghiện và làm giảm nhận thức cũng như khả năng di chuyển của người sử dụng, việc sử dụng lâu dài sẽ dẫn đến phụ thuộc vào thuốc.\n\nThuốc lá cần sa có thể được chế biến tại các điểm chế biến thủ công mà không cần bất kỳ công cụ nào, đồng thời cũng là một thú tiêu khiển truyền thống của nền văn minh công nghiệp thấp.</SmokeleafJoint.description>
+<SmokeleafJoint.ingestible.ingestCommandString>Hút {0}</SmokeleafJoint.ingestible.ingestCommandString>
+<SmokeleafJoint.ingestible.ingestReportString>Đang hút {0}.</SmokeleafJoint.ingestible.ingestReportString>
+<SmokeleafJoint.ingestible.ingestReportStringEat>Đang nghiện {0}.</SmokeleafJoint.ingestible.ingestReportStringEat>
+</LanguageData>

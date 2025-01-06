@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Leather_Bear.label>Da Gấu</Leather_Bear.label>
+	<Leather_Bear.description>Da gấu bền và lông lá. So với hầu hết các loại da lông khác, nó bền hơn và có khả năng cách nhiệt xuất sắc.</Leather_Bear.description>
+	<Leather_Bear.stuffProps.stuffAdjective>Da Gấu</Leather_Bear.stuffProps.stuffAdjective>
+	<Leather_Bird.label>Da Chim</Leather_Bird.label>
+	<Leather_Bird.description>Da chim đã thuộc da, khô và bóng. Nó khá tinh tế, nhưng không có lông, khả năng chống lại nhiệt độ cao và thấp gần như không có.</Leather_Bird.description>
+	<Leather_Bird.stuffProps.stuffAdjective>Da Chim</Leather_Bird.stuffProps.stuffAdjective>
+	<Leather_Bluefur.label>Da Lông Xanh</Leather_Bluefur.label>
+	<Leather_Bluefur.description>Da lông của Muffalo. Dễ dàng nhận biết từ màu xanh đặc trưng của nó. Có khả năng cách nhiệt tốt trong điều kiện khí hậu lạnh.</Leather_Bluefur.description>
+	<Leather_Bluefur.stuffProps.stuffAdjective>Da Lông Xanh</Leather_Bluefur.stuffProps.stuffAdjective>
+	<Leather_Camel.label>Da Lạc Đà</Leather_Camel.label>
+	<Leather_Camel.description>Da lạc đà đã thuộc da, khô và bóng. Có khả năng cách nhiệt tốt trong khí hậu nóng.</Leather_Camel.description>
+	<Leather_Camel.stuffProps.stuffAdjective>Da Lạc Đà</Leather_Camel.stuffProps.stuffAdjective>
+	<Leather_Chinchilla.label>Da Chuột Chinchilla</Leather_Chinchilla.label>
+	<Leather_Chinchilla.description>Da chuột Chinchilla đã thuộc da, khô và bóng. Nổi tiếng vì sự sang trọng và khả năng cách nhiệt xuất sắc, giá trị thị trường bất ngờ cao.</Leather_Chinchilla.description>
+	<Leather_Chinchilla.stuffProps.stuffAdjective>Da Chuột Chinchilla</Leather_Chinchilla.stuffProps.stuffAdjective>
+	<Leather_Dog.label>Da Chó</Leather_Dog.label>
+	<Leather_Dog.description>Da đã thuộc da, khô và bóng. Một loại vật liệu tốt và truyền thống để làm quần áo và bao bọc.</Leather_Dog.description>
+	<Leather_Dog.stuffProps.stuffAdjective>Da Chó</Leather_Dog.stuffProps.stuffAdjective>
+	<Leather_Elephant.label>Da Voi</Leather_Elephant.label>
+	<Leather_Elephant.description>Da voi đã thuộc da, phơi khô và bóng. Mặc dù rất bền, nhưng khả năng cách nhiệt không tốt.</Leather_Elephant.description>
+	<Leather_Elephant.stuffProps.stuffAdjective>Da Voi</Leather_Elephant.stuffProps.stuffAdjective>
+	<Leather_Fox.label>Da Cáo</Leather_Fox.label>
+	<Leather_Fox.description>Da của một con cáo. Nó có khả năng chống lạnh tốt và khá quý giá, giá cả cao.</Leather_Fox.description>
+	<Leather_Fox.stuffProps.stuffAdjective>Da Cáo</Leather_Fox.stuffProps.stuffAdjective>
+	<Leather_GuineaPig.label>Da Chuột Cavia</Leather_GuineaPig.label>
+	<Leather_GuineaPig.description>Da của một con chuột Cavia, nó rất mỏng manh nhưng khá sang trọng.</Leather_GuineaPig.description>
+	<Leather_Heavy.label>Da Dày</Leather_Heavy.label>
+	<Leather_Heavy.description>Da dày phủ một lớp lông dài và thô. Được lột từ một con vật lớn và mạnh mẽ. Da dày này có khả năng bảo vệ và cách nhiệt xuất sắc.</Leather_Heavy.description>
+	<Leather_Heavy.stuffProps.stuffAdjective>Da Dày</Leather_Heavy.stuffProps.stuffAdjective>
+	<Leather_Human.label>Da Người</Leather_Human.label>
+	<Leather_Human.description>Da người đã thuộc da, phơi khô và bóng. Hầu hết mọi người coi đây là một loại vật liệu rất đáng sợ. Nhưng một số người cảm thấy điều này rất hấp dẫn. Mặc dù là một loại da khá tốt, nhưng nó không có khả năng cách nhiệt và không bền lắm.</Leather_Human.description>
+	<Leather_Human.stuffProps.stuffAdjective>Da Người</Leather_Human.stuffProps.stuffAdjective>
+	<Leather_Light.label>Da Mỏng</Leather_Light.label>
+	<Leather_Light.description>Da mỏng, có thể được lấy từ động vật nhỏ. Không có khả năng bảo vệ tốt như da dày.</Leather_Light.description>
+	<Leather_Light.stuffProps.stuffAdjective>Da Mỏng</Leather_Light.stuffProps.stuffAdjective>
+	<Leather_Lizard.label>Da Thằn Lằn</Leather_Lizard.label>
+	<Leather_Lizard.description>Da của động vật bò sát đã thuộc da và phơi khô. Da thằn lằn khá bền, nhưng khả năng cách nhiệt kém.</Leather_Lizard.description>
+	<Leather_Lizard.stuffProps.stuffAdjective>Da Thằn Lằn</Leather_Lizard.stuffProps.stuffAdjective>
+	<Leather_Panthera.label>Da Báo</Leather_Panthera.label>
+	<Leather_Panthera.description>Da mềm và lông lá từ động vật họ mèo lớn. Khó bị đâm thủng và có khả năng cách nhiệt tốt.</Leather_Panthera.description>
+	<Leather_Panthera.stuffProps.stuffAdjective>Da Báo</Leather_Panthera.stuffProps.stuffAdjective>
+	<Leather_Patch.label>Da Ghép</Leather_Patch.label>
+	<Leather_Patch.description>Một loại vải không hữu dụng được tạo thành từ việc cắt và khâu nhiều loại da khác nhau. Dù sử dụng loại da nào để làm da ghép, các đường nối không đều làm cho khả năng bảo vệ và cách nhiệt của nó kém hơn bất kỳ loại da nguyên vẹn nào.</Leather_Patch.description>
+	<Leather_Patch.stuffProps.stuffAdjective>Da Ghép</Leather_Patch.stuffProps.stuffAdjective>
+	<Leather_Pig.label>Da Heo</Leather_Pig.label>
+	<Leather_Pig.description>Da heo đã thuộc da, phơi khô và bóng. Mặc dù là một loại da khá tốt, nhưng nó không có khả năng cách nhiệt và không bền lắm.</Leather_Pig.description>
+	<Leather_Pig.stuffProps.stuffAdjective>Da Heo</Leather_Pig.stuffProps.stuffAdjective>
+	<Leather_Plain.label>Da Thông Thường</Leather_Plain.label>
+	<Leather_Plain.description>Da đã thuộc da, khô và bóng. Một loại vật liệu tốt và truyền thống để làm quần áo và bao bọc.</Leather_Plain.description>
+	<Leather_Plain.stuffProps.stuffAdjective>Da Thông Thường</Leather_Plain.stuffProps.stuffAdjective>
+	<Leather_Rhinoceros.label>Da Tê Giác</Leather_Rhinoceros.label>
+	<Leather_Rhinoceros.description>Da tê giác đã thuộc da, phơi khô và bóng. Nó đặc biệt bền trong chiến đấu, nhưng khả năng cách nhiệt không tốt.</Leather_Rhinoceros.description>
+	<Leather_Rhinoceros.stuffProps.stuffAdjective>Da Tê Giác</Leather_Rhinoceros.stuffProps.stuffAdjective>
+	<Leather_Thrumbo.label>Da Thú Đánh</Leather_Thrumbo.label>
+	<Leather_Thrumbo.description>Da lông của thú đánh. Sang trọng và bất ngờ bền bỉ. Khả năng bảo vệ và cách nhiệt của nó cực kỳ xuất sắc, thường được sử dụng để làm đồ thủ công chất lượng cao.</Leather_Thrumbo.description>
+	<Leather_Thrumbo.stuffProps.stuffAdjective>Da Thú Đánh</Leather_Thrumbo.stuffProps.stuffAdjective>
+	<Leather_Wolf.label>Da Sói</Leather_Wolf.label>
+	<Leather_Wolf.description>Da mềm và lông lá từ động vật sói. Khó bị đâm thủng và có khả năng chống lạnh tốt.</Leather_Wolf.description>
+	<Leather_Wolf.stuffProps.stuffAdjective>Da Sói</Leather_Wolf.stuffProps.stuffAdjective>
+</LanguageData>

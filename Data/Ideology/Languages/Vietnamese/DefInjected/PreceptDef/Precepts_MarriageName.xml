@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MarriageName_AlwaysMans.label>Họ chồng</MarriageName_AlwaysMans.label>
+<MarriageName_AlwaysMans.description>Vợ chồng phải mang họ của người chồng.</MarriageName_AlwaysMans.description>
+<MarriageName_AlwaysWomans.label>Họ vợ</MarriageName_AlwaysWomans.label>
+<MarriageName_AlwaysWomans.description>Vợ chồng phải mang họ của người vợ.</MarriageName_AlwaysWomans.description>
+<MarriageName_KeepNames.label>Giữ nguyên</MarriageName_KeepNames.label>
+<MarriageName_KeepNames.description>Cả hai người đều giữ họ của mình sau khi kết hôn.</MarriageName_KeepNames.description>
+<MarriageName_Random.label>Ngẫu nhiên</MarriageName_Random.label>
+<MarriageName_Random.description>Cặp đôi ngẫu nhiên chọn xem có chia sẻ họ hay không, và chia sẻ họ của bên nào.</MarriageName_Random.description>
+<MarriageName_UsuallyWomans.label>Thường là họ vợ</MarriageName_UsuallyWomans.label>
+<MarriageName_UsuallyWomans.description>Phần lớn các cặp đôi sẽ cùng mang họ của người vợ.</MarriageName_UsuallyWomans.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerScenario.rulePack.rulesFiles>
+    <li>story->Words/Nouns/Stories</li>
+  </NamerScenario.rulePack.rulesFiles>
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[Weapon][Trans][story]</li>
+    <li>r_name->[Animal][Trans][story]</li>
+    <li>r_name->[TerrainFeature][Trans][story]</li>
+    <li>r_name->[PersonJob][Trans][story]</li>
+    <li>r_name->[ConceptAny][Trans][story]</li>
+    <li>r_name->[ConceptAny][story]</li>
+    <li>r_name->[Community][Trans][story]</li>
+    <li>r_name->Một cái [AdjectiveAny] [story]</li>
+    <li>r_name->[Game][Trans][story]</li>
+    <li>r_name->[Color] và [Color] [story]</li>
+    <li>r_name->[Color] màu [story]</li>
+    <li>r_name->[story] tập [RomanNumeral]</li>
+  </NamerScenario.rulePack.rulesStrings>
+</LanguageData>

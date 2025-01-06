@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Plant_Astragalus.label>Đậu hoa tím</Plant_Astragalus.label>
+	<Plant_Astragalus.description>Một loài hoa dại nhỏ, sống lâu năm, phát triển ở vùng cao nguyên.</Plant_Astragalus.description>
+	<Plant_Berry.label>Quả mâm xôi dại</Plant_Berry.label>
+	<Plant_Berry.description>Bụi cây có quả màu xanh ngon có thể ăn sống.</Plant_Berry.description>
+	<Plant_Dandelion.label>Răng cưa</Plant_Dandelion.label>
+	<Plant_Dandelion.description>Một loài hoa nhỏ màu vàng mọc thành cụm lớn, thường được coi là cỏ dại do sinh sản nhanh chóng. Thực tế cũng là một loài hoa khá đẹp.</Plant_Dandelion.description>
+	<Plant_Moss.label>Rêu</Plant_Moss.label>
+	<Plant_Moss.description>Một loại rêu dại, phát triển thành từng mảng trong môi trường ẩm ướt và tối tăm. Có khả năng thích nghi tốt và rất chịu lạnh.</Plant_Moss.description>
+	<Plant_TreeBirch.label>Cây bạch dương</Plant_TreeBirch.label>
+	<Plant_TreeBirch.description>Một loài cây phía Bắc, nổi tiếng với vỏ cây mỏng như giấy.</Plant_TreeBirch.description>
+	<Plant_TreeOak.label>Cây sồi</Plant_TreeOak.label>
+	<Plant_TreeOak.description>Một loài cây gỗ cứng mạnh mẽ. Tăng trưởng chậm, nhưng gỗ rất cứng. Trong một số nền văn hóa, "cây sồi" được coi là ẩn dụ cho "sức mạnh".</Plant_TreeOak.description>
+	<Plant_TreePine.label>Cây thông</Plant_TreePine.label>
+	<Plant_TreePine.description>Một loài cây lá kim lớn có thể cho ra quả thông. Cả tán cây có hình dạng độc đáo như hình nón.</Plant_TreePine.description>
+	<Plant_TreePoplar.label>Cây dương</Plant_TreePoplar.label>
+	<Plant_TreePoplar.description>Một loài cây gỗ mềm phát triển nhanh. Gỗ có chất lượng yếu, do đó lượng gỗ có thể sử dụng không nhiều.</Plant_TreePoplar.description>
+</LanguageData>

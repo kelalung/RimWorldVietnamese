@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AgonyPulse.label>Nhịp đập đau đớn</AgonyPulse.label>
+	<AgonyPulse.description>Những cơn đau thuần khiết do nhịp đập tâm linh gây ra. Mặc dù khó chịu, nhưng nó sẽ nhanh chóng kết thúc.</AgonyPulse.description>
+	<AgonyPulse.stages.acute.label>Cấp tính</AgonyPulse.stages.acute.label>
+	<AgonyPulse.stages.lingering.label>Âm ỉ</AgonyPulse.stages.lingering.label>
+	<AwokenHypnosis.label>Thôi miên người chết</AwokenHypnosis.label>
+	<AwokenHypnosis.description>Người này bị một xác chết bất thường hồi sinh thôi miên. Dù ở trạng thái hoàn toàn mất trí, nhưng chỉ cần ngắt quãng ánh mắt của xác chết đó, thôi miên sẽ bị phá vỡ.</AwokenHypnosis.description>
+	<BioferriteExtracted.label>Đã chiết xuất sắt sống</BioferriteExtracted.label>
+	<BioferriteExtracted.description>Gần đây đã chiết xuất sắt sống từ thực thể này qua phẫu thuật. Sắt sống có thể tái tạo, nhưng cần vài ngày để phục hồi.</BioferriteExtracted.description>
+	<BlissLobotomy.label>Phẫu thuật não hạnh phúc</BlissLobotomy.label>
+	<BlissLobotomy.description>Người này đã bị cắt bỏ một phần não, từ đó chìm đắm trong niềm hạnh phúc, nhưng cũng mất đi một số khả năng nhận thức.</BlissLobotomy.description>
+	<BloodRage.label>Cuồng nộ máu</BloodRage.label>
+	<BloodRage.description>Người này bị ảnh hưởng bởi mưa máu, trong lòng tràn đầy cơn giận do chất lỏng tâm linh gây ra. Chừng nào còn bị ảnh hưởng bởi mưa máu, cơn giận này sẽ tiếp tục tăng lên, cuối cùng dẫn đến sự sụp đổ tâm lý bạo lực. Hiệu ứng này ảnh hưởng mạnh mẽ hơn đến một số người, tùy thuộc vào đặc điểm, độ nhạy cảm tâm linh và các yếu tố khác.</BloodRage.description>
+	<BloodRage.stages.very_mild.label>Rất nhẹ</BloodRage.stages.very_mild.label>
+	<BloodRage.stages.mild.label>Khá nhẹ</BloodRage.stages.mild.label>
+	<BloodRage.stages.moderate.label>Vừa phải</BloodRage.stages.moderate.label>
+	<BloodRage.stages.severe.label>Nghiêm trọng</BloodRage.stages.severe.label>
+	<BloodRage.stages.extreme-0.label>Rất nghiêm trọng</BloodRage.stages.extreme-0.label>
+	<BloodRage.stages.extreme-1.label>Rất nghiêm trọng</BloodRage.stages.extreme-1.label>
+	<BrainwipeComa.label>Hôn mê xóa trí nhớ</BrainwipeComa.label>
+	<BrainwipeComa.description>Trí nhớ của người này đã bị xóa. Quá trình xóa diễn ra quá thô bạo, khiến họ rơi vào trạng thái hôn mê.</BrainwipeComa.description>
+	<CorpseTorment.label>Tra tấn xác chết</CorpseTorment.label>
+	<CorpseTorment.description>Người này chia sẻ liên kết tâm linh với một xác chết rõ ràng tương tự như mình. Có vẻ như đã làm điều gì đó khiến nó tức giận, hiện đang rơi vào trạng thái hôn mê.</CorpseTorment.description>
+	<CrumbledMind.label>Tâm trí sụp đổ</CrumbledMind.label>
+	<CrumbledMind.description>Người này đã mất đi phần lớn khả năng nhận thức, không thể làm những công việc phức tạp trong tương lai. Giờ đây chỉ còn là một vỏ bọc của chính mình trước đây.\n\nTrạng thái này không thể chữa trị.</CrumbledMind.description>
+	<CrumblingMind.label>Tâm trí sụp đổ</CrumblingMind.label>
+	<CrumblingMind.description>Người này đang trải qua sự suy giảm tâm trí nghiêm trọng, không thể làm hầu hết các công việc trong vài ngày tới. Nếu có thể sử dụng các phương pháp công nghệ như dung dịch chữa bệnh, tình hình có thể đảo ngược. Nếu không, điều này sẽ nhanh chóng trở thành tổn thương vĩnh viễn.</CrumblingMind.description>
+	<CrumblingMind.comps.HediffComp_ReplaceHediff.message>Tâm trí của {PAWN_nameDef} đã sụp đổ.</CrumblingMind.comps.HediffComp_ReplaceHediff.message>
+	<CrumblingMind.stages.mild.label>Nhẹ</CrumblingMind.stages.mild.label>
+	<CrumblingMind.stages.moderate.label>Vừa phải</CrumblingMind.stages.moderate.label>
+	<CrumblingMind.stages.extreme.label>Nghiêm trọng</CrumblingMind.stages.extreme.label>
+	<CrumblingMindUndiagnosedCreepjoiner.label>Tâm trí sụp đổ</CrumblingMindUndiagnosedCreepjoiner.label>
+	<CrumblingMindUndiagnosedCreepjoiner.description>Người này đang trải qua sự suy giảm tâm trí nghiêm trọng, không thể làm hầu hết các công việc trong vài ngày tới. Nếu có thể sử dụng các phương pháp công nghệ như dung dịch chữa bệnh, tình hình có thể đảo ngược. Nếu không, điều này sẽ nhanh chóng trở thành tổn thương vĩnh viễn.</CrumblingMindUndiagnosedCreepjoiner.description>
+	<CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} đã thể hiện một số triệu chứng sớm của sự suy giảm tâm trí nghiêm trọng. {SURGEON_nameDef} chưa thể xác định nguyên nhân, {PAWN_nameDef} sẽ rất bệnh trong vài ngày tới.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+	<CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} cảm thấy đau đầu dữ dội và cầu xin sự giúp đỡ. {PAWN_pronoun} không thể suy nghĩ bình thường và bắt đầu mất một phần khả năng nhận thức. {PAWN_nameDef} nói rằng mình đã có thể tiên đoán tương lai. Nếu không được chữa trị bằng các phương pháp công nghệ như dung dịch chữa bệnh, tình trạng này sẽ nhanh chóng trở thành tổn thương vĩnh viễn.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+	<CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>Tâm trí sụp đổ: {PAWN_nameDef}</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
+	<CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>Xác định</CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>
+	<CrumblingMindUndiagnosedDuplication.label>Tâm trí sụp đổ</CrumblingMindUndiagnosedDuplication.label>
+	<CrumblingMindUndiagnosedDuplication.description>Người này đang trải qua sự suy giảm tâm trí nghiêm trọng, không thể làm hầu hết các công việc trong vài ngày tới. Nếu có thể sử dụng các phương pháp công nghệ như dung dịch chữa bệnh, tình hình có thể đảo ngược. Nếu không, điều này sẽ nhanh chóng trở thành tổn thương vĩnh viễn.</CrumblingMindUndiagnosedDuplication.description>
+	<CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} đã thể hiện một số triệu chứng sớm của sự suy giảm tâm trí nghiêm trọng. {SURGEON_nameDef} chưa thể xác định nguyên nhân, {PAWN_nameDef} sẽ rất bệnh trong vài ngày tới.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+	<CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} cảm thấy đau đầu dữ dội và cầu xin sự giúp đỡ. {PAWN_pronoun} không thể suy nghĩ bình thường và bắt đầu mất một phần khả năng nhận thức. Có vẻ như có sự cố trong quá trình sao chép.\n\nNếu có thể sử dụng các phương pháp công nghệ như dung dịch chữa bệnh, tình hình có thể đảo ngược. Nếu không, điều này sẽ nhanh chóng trở thành tổn thương vĩnh viễn.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>
+	<CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>Tâm trí sụp đổ: {PAWN_nameDef}</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>
+	<CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>Xác định</CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>
+	<CubeComa.label>Hôn mê khối lập phương</CubeComa.label>
+	<CubeComa.description>Người này đã từng liên kết với khối lập phương vàng, nhưng sau đó đã bị tách ra. Việc cắt đứt liên kết này sẽ khiến họ rơi vào trạng thái hôn mê.</CubeComa.description>
+	<CubeInterest.label>Say mê khối lập phương</CubeInterest.label>
+	<CubeInterest.description>Người này hoàn toàn bị cuốn hút bởi khối lập phương vàng. Nếu tách xa khối lập phương quá lâu, họ sẽ phải chịu một số tác động tiêu cực.</CubeInterest.description>
+	<CubeInterest.reportStringOverrides.0.reportString>Đi lang thang và suy nghĩ về khối lập phương.</CubeInterest.reportStringOverrides.0.reportString>
+	<CubeInterest.reportStringOverrides.1.reportString>Đi lang thang và suy nghĩ về khối lập phương.</CubeInterest.reportStringOverrides.1.reportString>
+	<CubeInterest.reportStringOverrides.2.reportString>Ngủ mơ về khối lập phương.</CubeInterest.reportStringOverrides.2.reportString>
+	<CubeInterest.reportStringOverrides.3.reportString>Ngẫm nghĩ về khối lập phương.</CubeInterest.reportStringOverrides.3.reportString>
+	<CubeInterest.reportStringOverrides.4.reportString>Cầu nguyện với khối lập phương.</CubeInterest.reportStringOverrides.4.reportString>
+	<!-- <CubeInterest.reportStringOverrides.5.reportString>Cầu nguyện với khối lập phương.</CubeInterest.reportStringOverrides.5.reportString> -->
+	<CubeInterest.stages.curious.label>Ban đầu tò mò</CubeInterest.stages.curious.label>
+	<CubeInterest.stages.fascinated.label>Say mê</CubeInterest.stages.fascinated.label>
+	<CubeInterest.stages.obsessed.label>Không thể thoát ra</CubeInterest.stages.obsessed.label>
+	<CubeRage.label>Cuồng nộ khối lập phương</CubeRage.label>
+	<CubeRage.description>Người này cảm thấy bực bội vì tác phẩm điêu khắc khối lập phương của mình bị phá hủy. Nếu tiếp tục phá hủy tác phẩm của họ, có thể dẫn đến hành vi bạo lực.</CubeRage.description>
+	<CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>Vì tác phẩm điêu khắc khối lập phương quý giá của {PAWN_possessive} bị phá hủy quá nhiều. {PAWN_pronoun} không thể kiềm chế cơn giận của mình nữa.\n\n{PAWN_nameDef} đã điên cuồng!</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
+	<CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>Cuồng nộ khối lập phương: {PAWN_nameDef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
+	<CubeWithdrawal.label>Cai nghiện khối lập phương</CubeWithdrawal.label>
+	<CubeWithdrawal.description>Người này luôn nghĩ về khối lập phương vàng của mình. Da bắt đầu ngứa ngáy khó chịu, suy nghĩ trở nên bốc đồng, họ tìm mọi cách để lại gần khối lập phương hơn. Phản ứng cai nghiện này sẽ ngày càng nghiêm trọng cho đến khi họ bắt đầu chơi khối lập phương trở lại.</CubeWithdrawal.description>
+	<CubeWithdrawal.stages.inital.label>Sớm</CubeWithdrawal.stages.inital.label>
+	<CubeWithdrawal.stages.moderate.label>Vừa phải</CubeWithdrawal.stages.moderate.label>
+	<CubeWithdrawal.stages.extreme.label>Nghiêm trọng</CubeWithdrawal.stages.extreme.label>
+	<DarknessExposure.label>Tiếp xúc bóng tối</DarknessExposure.label>
+	<DarknessExposure.description>Người này bị lộ ra trong bóng tối bất thường. Nếu ở trong đó quá lâu, họ sẽ bị tổn thương bởi các sinh vật hoặc sức mạnh bóng tối.</DarknessExposure.description>
+	<DarkPsychicShock.label>Sốc tâm linh bóng tối</DarkPsychicShock.label>
+	<DarkPsychicShock.description>Trạng thái cân bằng của người này bị phá vỡ bởi cú sốc tâm linh bóng tối. Quá trình này gây ra cú sốc khiến họ rơi vào trạng thái hôn mê tạm thời.</DarkPsychicShock.description>
+	<DeathRefusal.label>Tránh né cái chết</DeathRefusal.label>
+	<DeathRefusal.description>Người này đã cấy ghép một mầm siêu nhiên có thể tái tạo sự sống. Khi người này chết, những vi mạch siêu nhiên này sẽ duy trì tâm trí của họ, chờ quyết định trước khi tái tạo lại cơ thể. Bằng cách nhanh chóng tái tổ chức các bộ phận cơ thể để thay thế các cơ quan đã mất, sửa chữa vết thương. Quá trình này không hoàn hảo, có thể để lại sẹo hoặc dẫn đến các biến chứng sức khỏe khác. Số lần có thể thực hiện phép màu này là có hạn.</DeathRefusal.description>
+	<DeathRefusalCreepJoiner.label>Tránh né cái chết</DeathRefusalCreepJoiner.label>
+	<DeathRefusalCreepJoiner.description>Người này đã cấy ghép một mầm siêu nhiên có thể tái tạo sự sống. Khi người này chết, những vi mạch siêu nhiên này sẽ duy trì tâm trí của họ, chờ quyết định trước khi tái tạo lại cơ thể. Bằng cách nhanh chóng tái tổ chức các bộ phận cơ thể để thay thế các cơ quan đã mất, sửa chữa vết thương. Quá trình này không hoàn hảo, có thể để lại sẹo hoặc dẫn đến các biến chứng sức khỏe khác. Số lần có thể thực hiện phép màu này là có hạn.</DeathRefusalCreepJoiner.description>
+	<DeathRefusalSickness.label>Di chứng tránh né cái chết</DeathRefusalSickness.label>
+	<DeathRefusalSickness.description>Một số tác dụng phụ do tránh né cái chết. Người này vừa mới trở về từ cửa tử.</DeathRefusalSickness.description>
+	<DisruptorFlash.label>Can thiệp chói mắt</DisruptorFlash.label>
+	<DisruptorFlash.description>Sự rối loạn tâm linh do pháo sáng gây ra khiến sinh vật này rơi vào trạng thái choáng váng.</DisruptorFlash.description>
+	<DuplicateSickness.label>Di chứng sao chép</DuplicateSickness.label>
+	<DuplicateSickness.description>Người này đang chịu ảnh hưởng của sự can thiệp tâm linh giữa họ và bản sao của mình, làm tổn hại dần tâm trí của họ. Chừng nào bản sao còn sống, triệu chứng này sẽ tiếp tục xấu đi. Tuy nhiên, triệu chứng này không đủ để gây tử vong.</DuplicateSickness.description>
+	<DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>{0_nameDef} đang phải chịu đựng di chứng sao chép.</DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>
+	<DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} đang phải chịu đựng di chứng sao chép. Sự can thiệp tâm linh giữa họ và bản sao đang làm tổn hại dần tâm trí của họ. Chừng nào bản sao còn sống, triệu chứng này sẽ tiếp tục xấu đi.</DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+	<DuplicateSickness.stages.initial-0.label>Nhẹ</DuplicateSickness.stages.initial-0.label>
+	<DuplicateSickness.stages.initial-1.label>Khá nhẹ</DuplicateSickness.stages.initial-1.label>
+	<DuplicateSickness.stages.moderate.label>Vừa phải</DuplicateSickness.stages.moderate.label>
+	<DuplicateSickness.stages.extreme.label>Rất nghiêm trọng</DuplicateSickness.stages.extreme.label>
+	<DuplicateSickness.stages.debilitating.label>Yếu ớt</DuplicateSickness.stages.debilitating.label>
+	<FrenzyField.label>Lĩnh vực cuồng nộ</FrenzyField.label>
+	<FrenzyField.description>Người này bị ảnh hưởng bởi một trường tâm linh, năng lượng tâm linh trở nên sắc bén hơn. Cảm giác lo lắng và giận dữ kết nối lẫn nhau khiến họ hành động nhanh hơn. Tuy nhiên, sự sụp đổ tâm lý xảy ra trong tình trạng này chắc chắn sẽ dẫn đến hành vi bạo lực.</FrenzyField.description>
+	<FrenzyField.stages.very_mild.label>Rất nhẹ</FrenzyField.stages.very_mild.label>
+	<FrenzyField.stages.mild.label>Nhẹ</FrenzyField.stages.mild.label>
+	<FrenzyField.stages.moderate.label>Vừa phải</FrenzyField.stages.moderate.label>
+	<FrenzyField.stages.extreme.label>Nghiêm trọng</FrenzyField.stages.extreme.label>
+	<HoraxianInvisibility.label>Vô hình tâm linh</HoraxianInvisibility.label>
+	<HoraxianInvisibility.description>Sinh vật này đang sử dụng các phương pháp tâm linh để bóp méo nhận thức của con người, động vật, và thậm chí cả máy móc xung quanh, tạo ra hiệu ứng giống như vô hình. Dù mắt vẫn có thể nhìn thấy hình ảnh của sinh vật này, nhưng não bộ không thể nhận diện được.</HoraxianInvisibility.description>
+	<Inhumanized.label>Phi nhân hóa</Inhumanized.label>
+	<Inhumanized.description>Người này đã bị chi phối bởi năng lượng hư vô. Họ hoàn toàn mất đi tình cảm, tình bạn, yêu ghét, và hoàn toàn ngắt đứt nhân tính. Cảm nhận về thực tại của họ trở nên xa lạ và yếu ớt, chỉ còn lại tiếng vọng của trí tuệ siêu nhiên tối tăm.</Inhumanized.description>
+	<JuggernautSerum.label>Serum mạnh mẽ</JuggernautSerum.label>
+	<JuggernautSerum.description>Serum này đã tăng cường đáng kể tổ chức cơ bắp của người này, khiến họ trở nên nhanh nhẹn và mạnh mẽ hơn, nhưng cảm giác khó chịu cũng sẽ làm giảm tâm trạng của người sử dụng.</JuggernautSerum.description>
+	<LightExposure.label>Tiếp xúc ánh sáng</LightExposure.label>
+	<LightExposure.description>Chỉ cần một chút ánh sáng cũng có thể gây ra sự khó chịu lớn cho sinh vật này, làm chậm hành động và giảm sức tấn công của nó.</LightExposure.description>
+	<LightExposure.stages.initial.label>Giai đoạn đầu</LightExposure.stages.initial.label>
+	<LightExposure.stages.moderate.label>Vừa phải</LightExposure.stages.moderate.label>
+	<LightExposure.stages.serious.label>Nghiêm trọng</LightExposure.stages.serious.label>
+	<LightExposure.stages.extreme.label>Rất nghiêm trọng</LightExposure.stages.extreme.label>
+	<Metalblood.label>Máu thép</Metalblood.label>
+	<Metalblood.description>Máu của sinh vật này đã bị pha trộn với máu thép. Chất này giúp cơ thể nhanh chóng cứng lại trước khi nhận va chạm, giúp người sử dụng chống chịu nhiều sát thương hơn. Tuy nhiên, chất hóa học dựa trên sắt sống này cũng khiến người sử dụng trở nên dễ bị tổn thương hơn khi đối mặt với lửa.</Metalblood.description>
+	<MetalhorrorImplant.label>Cấy ghép quái vật kim loại</MetalhorrorImplant.label>
+	<MetalhorrorImplant.description>Một quái vật kim loại đang phát triển. Mầm kim loại siêu nhiên nhỏ bé này có thể nhanh chóng chiếm đoạt hệ thần kinh, phát triển và lan tỏa khắp cơ thể của vật chủ, cho đến khi hiện nguyên hình. Sau khi phát hiện quái vật kim loại, có thể loại bỏ nó khỏi vật chủ thông qua phẫu thuật. Hãy chuẩn bị để làm điều đó.</MetalhorrorImplant.description>
+	<MetalhorrorImplant.possiblePathways.0.explanation>Đã được cấy ghép trước khi đến thuộc địa</MetalhorrorImplant.possiblePathways.0.explanation>
+	<MetalhorrorImplant.possiblePathways.1.explanation>Được cấy ghép qua cuộc tấn công của {SOURCEKIND_label}</MetalhorrorImplant.possiblePathways.1.explanation>
+	<MetalhorrorImplant.possiblePathways.2.explanation>Bị cấy ghép trong quá trình thôi miên bởi hồn ma</MetalhorrorImplant.possiblePathways.2.explanation>
+	<MetalhorrorSpeedBoost.label>Tốc độ cơ khí</MetalhorrorSpeedBoost.label>
+	<MetalhorrorSpeedBoost.description>Năng lượng công nghệ siêu nhiên mang lại tốc độ siêu nhiên. Tuy nhiên, sự bùng nổ tốc độ này không thể duy trì lâu.</MetalhorrorSpeedBoost.description>
+	<MindNumbSerum.label>Serum tê liệt tâm trí</MindNumbSerum.label>
+	<MindNumbSerum.description>Serum bên ngoài đã thay đổi mô hình thần kinh của người này, khiến họ không còn liên kết với niềm vui và nỗi buồn của con người. Mặc dù sẽ không còn sụp đổ tâm lý, nhưng họ cũng sẽ không cảm nhận được niềm vui.</MindNumbSerum.description>
+	<NeurosisPulse.label>Nhịp đập lo âu</NeurosisPulse.label>
+	<NeurosisPulse.description>Người này bị ảnh hưởng bởi một nhịp đập tâm linh kích thích thần kinh. Mặc dù trở nên lo lắng, nhưng điều này cũng thúc đẩy họ làm việc nhanh hơn.</NeurosisPulse.description>
+	<PainField.label>Lĩnh vực đau đớn</PainField.label>
+	<PainField.description>Năng lượng tâm linh hoạt động từ một thực thể gần đó gây ra sự đau đớn thiêu đốt. Khi thực thể đó hoạt động mạnh mẽ hơn, hiệu ứng này sẽ càng tăng lên.</PainField.description>
+	<PleasurePulse.label>Nhịp đập hạnh phúc</PleasurePulse.label>
+	<PleasurePulse.description>Người này chịu ảnh hưởng của một nhịp đập tâm linh mang lại sự vui vẻ cho cảm giác. Mặc dù trở nên cực kỳ vui vẻ, nhưng điều này cũng khiến họ không thể tập trung vào công việc.</PleasurePulse.description>
+	<PsychicallyDead.label>Tâm linh tàn lụi</PsychicallyDead.label>
+	<PsychicallyDead.description>Tâm linh của người này đã bị nuốt chửng và thiêu đốt, từ đó không còn liên quan đến các hiện tượng tâm linh.</PsychicallyDead.description>
+	<PsychicTrance.label>Thôi miên tâm linh</PsychicTrance.label>
+	<PsychicTrance.description>Một trí tuệ siêu nhiên xa xôi đã kết nối với tâm trí của người này thông qua một trường tâm linh, dẫn họ vào trạng thái giống như xuất hồn. Nhờ vào sức mạnh siêu nhiên, người này gần như có thể không ăn không uống và không ngủ.</PsychicTrance.description>
+	<Psychophage.label>Tham ăn tâm linh</Psychophage.label>
+	<Psychophage.description>Người này đã nuốt chửng sức mạnh tâm linh của một người khác, khiến độ nhạy cảm tâm linh của họ tạm thời tăng lên.</Psychophage.description>
+	<RageSpeed.label>Tăng tốc cuồng nộ</RageSpeed.label>
+	<RageSpeed.description>Sinh vật này đã bị thương và trở nên tức giận, di chuyển nhanh hơn.</RageSpeed.description>
+	<Regeneration.label>Tái sinh</Regeneration.label>
+	<Regeneration.description>Một động cơ siêu nhiên xa xôi đã mang lại cho sinh vật này khả năng tái sinh nhanh chóng kỳ diệu, những vết thương trên cơ thể sẽ nhanh chóng hồi phục.</Regeneration.description>
+	<Regeneration.stages.unnatural.label>Phi thường</Regeneration.stages.unnatural.label>
+	<Regeneration.stages.impossible.label>Không thể tin được</Regeneration.stages.impossible.label>
+	<RevenantHypnosis.label>Thôi miên hồn ma</RevenantHypnosis.label>
+	<RevenantHypnosis.description>Người này bị thôi miên bởi hồn ma và giữ liên kết với nó. Họ nói lảm nhảm về những sinh vật ác mộng, mắt mở to nhìn vào những nỗi kinh hoàng vô hình.\n\nSau khi thôi miên nạn nhân, hồn ma sẽ ngủ cùng nạn nhân ở một nơi nào đó trên bản đồ.\n\nGiết hồn ma sẽ giải phóng trạng thái thôi miên. Sử dụng pháo sáng, chất nổ, xung EMP, foam chống cháy hoặc lửa để làm lộ hồn ma.</RevenantHypnosis.description>
+	<ShardHolder.label>Người chứa mảnh vỡ</ShardHolder.label>
+	<ShardHolder.description>Sinh vật này sẽ rơi ra những mảnh vỡ siêu nhiên tối tăm sau khi bị đánh bại. Văn bản này chỉ có thể thấy trong chế độ nhà phát triển.</ShardHolder.description>
+	<SleepSuppression.label>Ức chế giấc ngủ</SleepSuppression.label>
+	<SleepSuppression.description>Não của người này bị ảnh hưởng bởi nhịp đập tâm linh, làm chậm sự tích tụ của các hóa chất gây mệt mỏi. Điều này đã giảm nhu cầu ngủ của họ.</SleepSuppression.description>
+	<SleepSuppression.stages.very_mild.label>Rất nhẹ</SleepSuppression.stages.very_mild.label>
+	<SleepSuppression.stages.mild.label>Nhẹ</SleepSuppression.stages.mild.label>
+	<SleepSuppression.stages.moderate.label>Vừa phải</SleepSuppression.stages.moderate.label>
+	<SleepSuppression.stages.extreme.label>Gào thét</SleepSuppression.stages.extreme.label>
+	<VoidShock.label>Sốc hư vô</VoidShock.label>
+	<VoidShock.description>Đơn vị này đã chứng kiến hư vô. Cảnh tượng kinh hoàng của bóng tối vô tận đang sôi sục trong vực thẳm khiến họ run rẩy, tâm trí bị sốc nghiêm trọng.</VoidShock.description>
+	<Voidsight.label>Thị giác hư vô</Voidsight.label>
+	<Voidsight.description>Người này đã được tiêm serum có khả năng mở ra thị giác hư vô, giúp họ thu thập nhiều kiến thức dị thường khi điều tra các hiện tượng và thực thể tâm linh tối tăm. Đồng thời, độ nhạy cảm tâm linh của họ cũng được nâng cao.</Voidsight.description>
+	<VoidTouched.label>Chạm vào hư vô</VoidTouched.label>
+	<VoidTouched.description>Người này đã trải nghiệm sự sâu sắc của hư vô và hấp thụ bản chất của nó. Hư vô giờ đây vẫn ở bên cạnh họ, hướng dẫn hành động của họ và bóp méo cơ thể của họ. Tóc của họ giờ đây trở nên yếu ớt và nhợt nhạt, nghỉ ngơi và thoải mái đã trở thành điều xa xỉ, chỉ cần sự cung cấp của hư vô là đủ.</VoidTouched.description>
+</LanguageData>

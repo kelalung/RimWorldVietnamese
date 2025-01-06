@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+		<li>r_art_description->[physical_description_root][context_sentence]</li>
+		<li>circumstance_group->[circumstance_phrase]</li>
+		<li>desc_sentence_group->[desc_sentence][style_group]</li>
+		<li>context_sentence->Câu chuyện được trích dẫn trong [depiction] xảy ra vào [DATE] của [tale_noun].</li>
+		<li>context_sentence->Mô tả này về [depiction] kể về câu chuyện xảy ra vào [DATE] của [tale_noun].</li>
+		<li>context_sentence->[depiction] ghi lại những kỷ niệm về [tale_noun] xảy ra vào [DATE].</li>
+	</ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+	<ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+		<li>r_art_description->[physical_description_root]</li>
+		<li>desc_sentence_group->[style_group]</li>
+	</ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+	<ArtDescriptionUtility_Global.rulePack.rulesStrings>
+		<li>style_group->[artextra_clause],[style_clause].</li>
+		<li>style_group->[style_clause],[artconjunction][artextra_clause].</li>
+		<li>style_group->[style_clause].</li>
+		<li>style_group->[artextra_clause].</li>
+		<li>style_group-></li>
+		<li>artconjunction(p=6)-></li>
+		<li>artconjunction->Như một sự đối lập thú vị,</li>
+		<li>artconjunction->Như một bổ sung cho tác phẩm,</li>
+		<li>artconjunction->Nhân tiện,</li>
+		<li>artconjunction->Thật ngạc nhiên,</li>
+		<li>artconjunction->Điều đáng chú ý là,</li>
+		<li>artconjunction->Điều không bình thường là,</li>
+		<li>artconjunction->Mặc dù ít người mong đợi,</li>
+		<li>artconjunction->Ngoài ra,</li>
+		<li>artextra_clause->Đường viền của bức tranh được tạo thành từ [subimageplural]</li>
+		<li>artextra_clause->Đường viền của bức tranh là [subimageplural]</li>
+		<li>artextra_clause->[side_position] có [subimagesingle]</li>
+		<li>artextra_clause->Phía sau chủ thể là [subimageany]</li>
+		<li>artextra_clause->Phần dưới của hình ảnh được chi phối bởi [subimageany]</li>
+		<li>artextra_clause->Cảnh này diễn ra trong [Community]</li>
+		<li>artextra_clause->Cảnh này diễn ra gần [Community]</li>
+		<li>artextra_clause->Cảnh này diễn ra trong [Community] thuộc [TerrainFeature]</li>
+		<li>artextra_clause->Một [Character][idles][side_position]</li>
+		<li>artextra_clause->Một [PAWN_adj][Character][idles][side_position]</li>
+		<li>artextra_clause->[Quantity_adjphrase][Character] xuất hiện [side_position]</li>
+		<li>artextra_clause->[Quantity_adjphrase][PAWN_adj][Character] xuất hiện [side_position]</li>
+		<li>artextra_clause->Một [Animal][idles][side_position]</li>
+		<li>artextra_clause->Khi bạn nheo mắt nhìn, bố cục [composition] sẽ hiện lên hình dáng của [subimageany]</li>
+		<li>artextra_clause->Một [PAWN_adj][PersonJob][emotional_expression] đang quan sát mọi thứ</li>
+		<li>artextra_clause->Một [PAWN_adj][PersonJob] đang nhìn mọi thứ, [emotional_expression]</li>
+		<li>artextra_clause->Một [PAWN_adj][PersonJob] đang quan sát mọi thứ</li>
+		<li>artextra_clause->Toàn bộ bức tranh được tạo thành từ những [subimageplural] được sắp xếp cẩn thận</li>
+		<li>subimageany->[subimagesingle]</li>
+		<li>subimageany->[subimageplural]</li>
+		<li>subimagesingle(p=4)->Một [Character]</li>
+		<li>subimagesingle->Một mảnh [TerrainFeature]</li>
+		<li>subimagesingle->Một [Community]</li>
+		<li>subimagesingle->Một cây [TreeType]</li>
+		<li>subimagesingle->Một cây [Vegetable]</li>
+		<li>subimagesingle->Một [AnimalGroup][Animal]</li>
+		<li>subimageplural(p=3)->[Quantity_adjphrase][Character]</li>
+		<li>subimageplural->[Quantity_adjphrase][Vegetable]</li>
+		<li>subimageplural->[Quantity_adjphrase][Shape]</li>
+		<li>pawn_adj->Chết</li>
+		<li>pawn_adj->Sắp chết</li>
+		<li>pawn_adj->Bị thương</li>
+		<li>pawn_adj->Đang ngủ</li>
+		<li>pawn_adj->Đứng</li>
+		<li>pawn_adj->Ngồi</li>
+		<li>pawn_adj->Điên</li>
+		<li>pawn_adj->Trẻ</li>
+		<li>pawn_adj->Già</li>
+		<li>pawn_adj->Bị [Gore] khắp người</li>
+		<li>pawn_adj->Bẩn</li>
+		<li>pawn_adj->Mặc [Apparel]</li>
+		<li>pawn_adj->Cầm [Weapon]</li>
+		<li>pawn_adj->Ăn [Vegetable]</li>
+		<li>emotional_expression->Đang mỉm cười</li>
+		<li>emotional_expression->Đang nhíu mày</li>
+		<li>emotional_expression->Đang căng thẳng</li>
+		<li>emotional_expression->Cười lớn</li>
+		<li>emotional_expression->Đang trợn mắt</li>
+		<li>emotional_expression->Đang khóc</li>
+		<li>emotional_expression->Đang la hét</li>
+		<li>emotional_expression->Vui mừng tột độ</li>
+		<li>idles->Ngồi</li>
+		<li>idles->Đứng</li>
+		<li>idles->Chờ đợi</li>
+		<li>idles->Đang mỉm cười chờ</li>
+		<li>idles->Nằm</li>
+		<li>idles->Tạo dáng</li>
+		<li>idles->Xuất hiện</li>
+		<li>idles->Hiện ra</li>
+		<li>idles->Dần dần hiện ra</li>
+		<li>idles->Trôi nổi</li>
+		<li>side_position->Ở một bên</li>
+		<li>side_position->Trong nền</li>
+		<li>side_position->Ở xa</li>
+		<li>side_position->Ở phía dưới bức tranh</li>
+		<li>side_position->Ở phía trên bức tranh</li>
+		<li>side_position->Ở bên trái của cảnh chính</li>
+		<li>side_position->Ở bên phải của cảnh chính</li>
+		<li>side_position->Ở rìa bức tranh</li>
+		<li>side_position->Gần chủ thể</li>
+		<li>side_position->Ở rất xa chủ thể</li>
+		<li>side_position->Dưới chủ thể</li>
+		<li>side_position->Sau điểm tập trung</li>
+		<li>style_clause(p=4)->Tác phẩm [symbolizes][ConceptAny]</li>
+		<li>artextra_clause->[side_position] của một [subimagesingle][symbolizes][ConceptAny]</li>
+		<li>style_clause->Tác phẩm được lấy cảm hứng từ [ConceptAny] và trình bày theo phong cách [artstyle_adj]</li>
+		<li>style_clause->Tác phẩm tràn đầy hơi thở mạnh mẽ của [artstyle_adj]</li>
+		<li>style_clause->Phong cách [artstyle_adj] ở trung tâm bức tranh tạo ra sự đối lập mạnh mẽ với phần nền [artstyle_adj]</li>
+		<li>style_clause->Tác phẩm mang lại cảm giác [artstyle_adj] và sử dụng bố cục [composition]</li>
+		<li>style_clause->Tác phẩm tổng thể áp dụng phương pháp bố cục [composition]</li>
+		<li>style_clause->Tác phẩm sử dụng phong cách [artstyle_adj] kết hợp các yếu tố [artstyle_adj]</li>
+		<li>style_clause->Bức tranh dường như thể hiện [ConceptAny] và [ConceptAny] qua một hình thức nào đó</li>
+		<li>style_clause->[ConceptAny] và [ConceptAny] trong bức tranh tạo ra sự tương phản</li>
+		<li>style_clause->Bố cục [composition] của bức tranh dường như không phù hợp với phong cách [artstyle_adj] mà nó sử dụng</li>
+		<li>style_clause->Tông màu chính của tác phẩm là [Color] và [Color]</li>
+		<li>style_clause->Mỗi hình dạng trong bức tranh dường như đều áp dụng bố cục [composition]</li>
+		<li>symbolizes->Biểu tượng hóa</li>
+		<li>symbolizes->Dường như biểu tượng hóa</li>
+		<li>symbolizes->Mô tả</li>
+		<li>symbolizes->Dường như mô tả</li>
+		<li>symbolizes->Dường như biểu đạt</li>
+		<li>symbolizes->Gợi nhớ đến</li>
+		<li>symbolizes->Truyền đạt cảm xúc —</li>
+		<li>symbolizes->Khiến khán giả nghĩ đến</li>
+		<li>symbolizes->Biểu tượng cho nghệ sĩ</li>
+		<li>symbolizes->Gợi ý</li>
+		<li>depicts->Khắc họa</li>
+		<li>depicts->Trình bày</li>
+		<li>depicts->Miêu tả</li>
+		<li>depicts->Hiện ra</li>
+		<li>depicts->Thể hiện</li>
+		<li>depicts->Mô tả</li>
+		<li>depicts->Tạo hình</li>
+		<li>depiction->Khắc họa</li>
+		<li>depiction->Trình bày</li>
+		<li>depiction->Miêu tả</li>
+		<li>depiction->Thể hiện</li>
+		<li>depiction->Mô tả</li>
+		<li>depiction->Tạo hình</li>
+		<li>composition->Hình tam giác</li>
+		<li>composition->Hình chữ nhật</li>
+		<li>composition->Hình vuông</li>
+		<li>composition->Không cân bằng</li>
+		<li>composition->Cân bằng</li>
+		<li>composition->Động</li>
+		<li>composition->Tĩnh</li>
+		<li>composition->Thẳng đứng</li>
+		<li>composition->Nằm ngang</li>
+		<li>composition->Tập trung</li>
+		<li>artstyle_adj->Không sáng tạo</li>
+		<li>artstyle_adj->Đơn giản</li>
+		<li>artstyle_adj->Phức tạp và hiện thực</li>
+		<li>artstyle_adj->Siêu thực</li>
+		<li>artstyle_adj->Cổ điển</li>
+		<li>artstyle_adj->Hiện đại</li>
+		<li>artstyle_adj->Biểu tượng</li>
+		<li>artstyle_adj->Non nớt nhưng đầy sức hút</li>
+		<li>artstyle_adj->Chú trọng chi tiết</li>
+		<li>artstyle_adj->Đậm nhạt không đều</li>
+		<li>artstyle_adj->Lập thể</li>
+		<li>artstyle_adj->Ấn tượng</li>
+		<li>artstyle_adj->Biểu hiện</li>
+		<li>artstyle_adj->Giống như ảnh</li>
+		<li>artstyle_adj->Baroque</li>
+		<li>artstyle_adj->Dada</li>
+		<li>artstyle_adj->Nghệ thuật lỗi</li>
+		<li>artstyle_adj->Pixel hóa</li>
+		<li>artstyle_adj->Dã thú</li>
+		<li>artstyle_adj->Nông thôn</li>
+		<li>artstyle_adj->Ẩn dụ</li>
+		<li>artstyle_adj->Uốn lượn</li>
+		<li>artstyle_adj->Phong cách hình học</li>
+		<li>artstyle_adj->Trừu tượng</li>
+		<li>artstyle_adj->Siêu thực</li>
+		<li>artstyle_adj->Nghệ thuật đại chúng</li>
+		<li>artstyle_adj->Tối giản</li>
+		<li>artstyle_adj->Tân cổ điển</li>
+		<li>artstyle_adj->Mơ hồ</li>
+		<li>artstyle_adj->Hậu ấn tượng</li>
+		<li>artstyle_adj->Tinh khiết</li>
+		<li>artstyle_adj->Rococo</li>
+		<li>artstyle_adj->Romanesque</li>
+		<li>artstyle_adj->Lãng mạn</li>
+		<li>artstyle_adj->Nghệ thuật graffiti</li>
+		<li>artstyle_adj->Nghệ thuật tình dục</li>
+		<li>artstyle_adj->Cảm tính</li>
+		<li>artstyle_adj->Sáng tạo</li>
+	</ArtDescriptionUtility_Global.rulePack.rulesStrings>
+</LanguageData>

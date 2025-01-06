@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Harp.label>Đàn Hạc</Harp.label>
+<Harp.description>Một nhạc cụ cố định đơn giản. Một hàng dây đàn trải dài trên một khung, được gảy trực tiếp bằng ngón tay của nhạc công.\n\nNó có thể được chế tạo tại một điểm gia công thủ công, bàn nghệ thuật hoặc bàn rèn.</Harp.description>
+<Harpsichord.label>Đàn Đại Phím</Harpsichord.label>
+<Harpsichord.description>Một nhạc cụ cố định phức tạp. Một nhạc công chạm vào một hàng phím ở phía trước nhạc cụ. Mỗi phím đều kết nối với một cơ chế bên trong có thể kéo ra một dây trong hàng dây trên khung gỗ. Mặc dù nó có cấu trúc phức tạp hơn đàn hạc, nhưng cấu trúc gỗ và cơ chế gảy hạn chế khả năng phát ra âm thanh và biểu cảm của nó.\n\nNó có thể được chế tạo tại bàn nghệ thuật hoặc bàn rèn.</Harpsichord.description>
+<Piano.label>Đàn Piano</Piano.label>
+<Piano.description>Một nhạc cụ cố định tiên tiến. Nó được chơi bằng cách nhấn một hàng phím, điều này sẽ khiến búa đánh vào dây bên trong kéo dài trên khung kim loại. Cơ chế búa và dây đàn áp lực cao cho phép nhạc công chơi những bản nhạc rất nhẹ nhàng và to lớn, khiến đàn piano trở thành một nhạc cụ rất biểu cảm.\n\nNó có thể được chế tạo tại bàn rèn.</Piano.description>
+<UnfinishedPiano.label>Đàn Piano Chưa Hoàn Thiện</UnfinishedPiano.label>
+<UnfinishedPiano.description>Một cây đàn piano chưa hoàn thiện.</UnfinishedPiano.description>
+</LanguageData>

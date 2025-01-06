@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CreepyWords.label>Những lời rùng rợn</CreepyWords.label>
+	<CreepyWords.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef][rambled] về [subjectInsane].</li>
+		<li>r_logentry->[INITIATOR_nameDef][darkSpeechAdverb][rambled] về [subjectInsane].</li>
+	</CreepyWords.logRulesInitiator.rulesStrings>
+	<DisturbingChat.label>Cuộc trò chuyện kỳ quái</DisturbingChat.label>
+	<DisturbingChat.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] đã làm [RECIPIENT_nameDef][disturbed] vì [talkingAbout][subjectDisturbing].</li>
+		<li>r_logentry->[INITIATOR_nameDef][RECIPIENT_nameDef][darkSpeechAdverb] đã nói về [subjectDisturbing].</li>
+		<li>spoke->đã nói về</li>
+		<li>spoke->thì thầm</li>
+		<li>spoke->nói lắp bắp</li>
+		<li>spoke->phàn nàn</li>
+		<li>spoke->lẩm bẩm</li>
+		<li>spoke->nói mơ hồ</li>
+		<li>spoke(p=5)->[rambled]</li>
+		<li>subjectDisturbing->[subjectDarkStudy]</li>
+		<li>subjectDisturbing->[subjectInsane]</li>
+		<li>disturbed->cảm thấy lo âu</li>
+		<li>disturbed->cảm thấy sợ hãi</li>
+		<li>disturbed->cảm thấy sợ hãi</li>
+		<li>disturbed->cảm thấy buồn bã</li>
+		<li>disturbed->cảm thấy bực bội</li>
+		<li>disturbed->cảm thấy không yên</li>
+		<li>disturbed->cảm thấy hoảng loạn</li>
+		<li>disturbed->cảm thấy nản lòng</li>
+		<li>disturbed->cảm thấy cảnh giác</li>
+		<li>disturbed->cảm thấy buồn</li>
+		<li>disturbed->cảm thấy chán nản</li>
+		<li>maybeDarkSpeechAdverb-></li>
+		<li>maybeDarkSpeechAdverb->[darkSpeechAdverb]</li>
+		<li>talkingAbout->miêu tả về</li>
+		<li>talkingAbout->giải thích về</li>
+		<li>talkingAbout->[maybeDarkSpeechAdverb] phàn nàn về</li>
+		<li>talkingAbout->[maybeDarkSpeechAdverb] nói về</li>
+		<li>talkingAbout->[maybeDarkSpeechAdverb] gào thét về</li>
+		<li>talkingAbout->kể chi tiết về</li>
+	</DisturbingChat.logRulesInitiator.rulesStrings>
+	<InhumanRambling.label>Nói chuyện phi nhân loại</InhumanRambling.label>
+	<InhumanRambling.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef][rambled] về [subjectInsane].</li>
+		<li>r_logentry->[INITIATOR_nameDef][darkSpeechAdverb][rambled] về [subjectInsane].</li>
+	</InhumanRambling.logRulesInitiator.rulesStrings>
+	<InterrogateIdentity.label>Thẩm vấn danh tính</InterrogateIdentity.label>
+	<InterrogateIdentity.logRulesInitiator.rulesStrings>
+		<li>askedAbout->đã thẩm vấn [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã hỏi [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã truy vấn [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã chất vấn [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã tra hỏi [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã thúc giục [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã hỏi một cách lén lút [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã cố gắng hỏi [RECIPIENT_nameDef] về [RECIPIENT_nameDef] khi không phòng bị</li>
+		<li>askedAbout->đã la hét vào mặt [RECIPIENT_nameDef] để hỏi về</li>
+		<li>askedAbout->đã hỏi dồn dập [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã đối chất với [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã nhắc đi nhắc lại với [RECIPIENT_nameDef] về</li>
+		<li>askedAbout->đã thảo luận với [RECIPIENT_nameDef] về</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] công việc cũ trước đây</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] mối quan hệ với các phe phái khác trước đây</li>
+		<li>identityTopic->[RECIPIENT_possessive] nguồn gốc</li>
+		<li>identityTopic->[RECIPIENT_possessive] quá trình trưởng thành</li>
+		<li>identityTopic->[RECIPIENT_possessive] cha mẹ</li>
+		<li>identityTopic->[RECIPIENT_possessive] bạn bè cũ</li>
+		<li>identityTopic->[RECIPIENT_possessive] mối tình</li>
+		<li>identityTopic->[RECIPIENT_possessive] sở thích và ghét bỏ</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] phản ứng khi đối mặt với bất an</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] thích ăn gì</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] sợ điều gì nhất</li>
+		<li>identityTopic->[RECIPIENT_possessive] kỷ niệm quý giá</li>
+		<li>identityTopic->[RECIPIENT_possessive] điều tiếc nuối</li>
+		<li>identityTopic->[RECIPIENT_possessive] hoài bão và ước mơ</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] lý do gia nhập phe phái hiện tại</li>
+		<li>identityTopic->[RECIPIENT_possessive][RECIPIENT_pronoun] vai trò trong một sự kiện lớn trước đây</li>
+		<li>identityTopic->[RECIPIENT_possessive] sở thích và giải trí</li>
+		<li>identityTopic->[RECIPIENT_possessive] nguyên tắc và quan điểm</li>
+		<li>identityTopic->[RECIPIENT_possessive] động cơ</li>
+		<li>identityTopic->[RECIPIENT_pronoun] lý do đưa ra những quyết định quan trọng</li>
+		<li>identityTopic->những trải nghiệm chấn thương trong quá khứ</li>
+		<li>identityTopic->quá trình tư duy của con người</li>
+		<li>identityTopic->trải nghiệm thời thơ ấu</li>
+		<li>identityTopic->trải nghiệm ở trường</li>
+		<li>identityTopic->trải nghiệm văn hóa</li>
+		<li>r_logentry->[INITIATOR_nameDef][askedAbout][identityTopic] về.</li>
+	</InterrogateIdentity.logRulesInitiator.rulesStrings>
+	<OccultTeaching.label>Truyền thụ bí ẩn</OccultTeaching.label>
+	<OccultTeaching.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] đã giải thích cho [RECIPIENT_nameDef] về lý thuyết của mình về [subjectDarkStudy].</li>
+		<li>r_logentry->[RECIPIENT_nameDef][INITIATOR_nameDef] đã chia sẻ quan điểm của mình về [subjectDarkStudy].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] đã nói về [subjectDarkStudy].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] đã nói đi nói lại về [subjectDarkStudy].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] đã dạy một bài học về [subjectDarkStudy].</li>
+	</OccultTeaching.logRulesInitiator.rulesStrings>
+	<PrisonerStudyAnomaly.label>Điều tra tù nhân</PrisonerStudyAnomaly.label>
+	<PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] đã hỏi [RECIPIENT_nameDef] về [subjectDarkStudy].</li>
+		<li>r_logentry->[INITIATOR_nameDef] đã thẩm vấn về [subjectDarkStudy].</li>
+		<li>r_logentry->[RECIPIENT_nameDef] đã nói mơ hồ về [subjectInsane].</li>
+	</PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+</LanguageData>

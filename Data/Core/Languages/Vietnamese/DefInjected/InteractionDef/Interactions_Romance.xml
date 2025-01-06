@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Breakup.label>Chia tay</Breakup.label>
+	<Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] yêu cầu chia tay với [RECIPIENT_nameDef].</Breakup.logRulesInitiator.rulesStrings.0>
+	<Breakup.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] yêu cầu [RECIPIENT_nameDef] cho nhau nhiều không gian hơn.</Breakup.logRulesInitiator.rulesStrings.1>
+	<Breakup.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng như vậy thì không ổn.</Breakup.logRulesInitiator.rulesStrings.2>
+	<Breakup.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng người tiếp theo sẽ tốt hơn.</Breakup.logRulesInitiator.rulesStrings.3>
+	<MarriageProposal.label>Cầu hôn</MarriageProposal.label>
+	<MarriageProposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] đã cầu hôn [RECIPIENT_nameDef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+	<MarriageProposal.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] đã cam kết suốt đời với [RECIPIENT_nameDef].</MarriageProposal.logRulesInitiator.rulesStrings.1>
+	<MarriageProposal.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng [INITIATOR_pronoun] mong muốn đồng hành cùng [RECIPIENT_objective] suốt đời.</MarriageProposal.logRulesInitiator.rulesStrings.2>
+	<RomanceAttempt.label>Thử tán tỉnh</RomanceAttempt.label>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][wooed][RECIPIENT_nameDef],[wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->Cố gắng quyến rũ</RomanceAttempt.logRulesInitiator.rulesStrings.1>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->Quyến rũ</RomanceAttempt.logRulesInitiator.rulesStrings.2>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->Cố gắng thu hút</RomanceAttempt.logRulesInitiator.rulesStrings.3>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->Cố gắng theo đuổi</RomanceAttempt.logRulesInitiator.rulesStrings.4>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->Cố gắng thổ lộ</RomanceAttempt.logRulesInitiator.rulesStrings.5>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->Thổ lộ</RomanceAttempt.logRulesInitiator.rulesStrings.6>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->Theo đuổi</RomanceAttempt.logRulesInitiator.rulesStrings.7>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->Cố gắng làm cho say mê</RomanceAttempt.logRulesInitiator.rulesStrings.8>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->Cầu hôn</RomanceAttempt.logRulesInitiator.rulesStrings.9>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting][RECIPIENT_possessive][PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.10>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic(p=2)->Kể một câu chuyện về [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.12>wootactic(p=2)->Kể một truyền thuyết về [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.12>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.13>wootactic(p=2)->Kể một câu chuyện cười về [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.13>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.14>wootactic->Kể một câu chuyện về [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.14>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting][INITIATOR_possessive][PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.15>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.16>wootactic->So sánh [RECIPIENT_objective] với [romantic_adj][romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.16>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.17>wootactic->Mô tả [RECIPIENT_objective] như [romantic_adj][romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.17>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.18>boasting->Khoe khoang</RomanceAttempt.logRulesInitiator.rulesStrings.18>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.19>boasting->Đề cập</RomanceAttempt.logRulesInitiator.rulesStrings.19>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.20>boasting->Khen ngợi một cách tinh tế</RomanceAttempt.logRulesInitiator.rulesStrings.20>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.21>boasting->Phóng đại</RomanceAttempt.logRulesInitiator.rulesStrings.21>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.22>boasting->Nói về</RomanceAttempt.logRulesInitiator.rulesStrings.22>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.23>boasting->Đặc biệt đề cập đến</RomanceAttempt.logRulesInitiator.rulesStrings.23>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.24>complimenting(p=3)->Khen ngợi</RomanceAttempt.logRulesInitiator.rulesStrings.24>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.25>complimenting->Khen ngợi một cách khéo léo</RomanceAttempt.logRulesInitiator.rulesStrings.25>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.26>complimenting->Khen ngợi</RomanceAttempt.logRulesInitiator.rulesStrings.26>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.27>complimenting->Khen thưởng</RomanceAttempt.logRulesInitiator.rulesStrings.27>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.28>complimenting->Khen ngợi</RomanceAttempt.logRulesInitiator.rulesStrings.28>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.29>complimenting(p=2)->Trêu chọc một cách tinh nghịch</RomanceAttempt.logRulesInitiator.rulesStrings.29>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.30>complimenting->Chế nhạo một cách hài hước</RomanceAttempt.logRulesInitiator.rulesStrings.30>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.31>complimenting->Khen ngợi một cách nửa đùa nửa thật</RomanceAttempt.logRulesInitiator.rulesStrings.31>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.32>complimenting->Hỏi một cách tinh nghịch</RomanceAttempt.logRulesInitiator.rulesStrings.32>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.33>complimenting->Chọc cười một cách vui vẻ</RomanceAttempt.logRulesInitiator.rulesStrings.33>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.34>romantic_adj->Đẹp</RomanceAttempt.logRulesInitiator.rulesStrings.34>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.35>romantic_adj->Rực rỡ</RomanceAttempt.logRulesInitiator.rulesStrings.35>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.36>romantic_adj->Mờ ảo</RomanceAttempt.logRulesInitiator.rulesStrings.36>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.37>romantic_adj->Thiêng liêng</RomanceAttempt.logRulesInitiator.rulesStrings.37>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.38>romantic_adj->Vàng kim</RomanceAttempt.logRulesInitiator.rulesStrings.38>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.39>romantic_adj->Sáng chói</RomanceAttempt.logRulesInitiator.rulesStrings.39>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.40>romantic_adj->Kinh ngạc</RomanceAttempt.logRulesInitiator.rulesStrings.40>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.41>romantic_adj->Lôi cuốn</RomanceAttempt.logRulesInitiator.rulesStrings.41>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.42>romantic_adj->Lấp lánh</RomanceAttempt.logRulesInitiator.rulesStrings.42>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.43>romantic_adj->Mảnh mai</RomanceAttempt.logRulesInitiator.rulesStrings.43>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.44>romantic_adj->Thanh tú</RomanceAttempt.logRulesInitiator.rulesStrings.44>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.45>romantic_adj->Quyến rũ</RomanceAttempt.logRulesInitiator.rulesStrings.45>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.46>romantic_adj->Dễ thương</RomanceAttempt.logRulesInitiator.rulesStrings.46>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.47>romantic_adj->Tuyệt vời</RomanceAttempt.logRulesInitiator.rulesStrings.47>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.48>romantic_adj(p=3)->[AdjectiveBadass]</RomanceAttempt.logRulesInitiator.rulesStrings.48>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.49>romantic_noun->Hoa tươi</RomanceAttempt.logRulesInitiator.rulesStrings.49>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.50>romantic_noun->Mùa xuân</RomanceAttempt.logRulesInitiator.rulesStrings.50>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.51>romantic_noun->Dòng sông</RomanceAttempt.logRulesInitiator.rulesStrings.51>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.52>romantic_noun->Ngôi sao</RomanceAttempt.logRulesInitiator.rulesStrings.52>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.53>romantic_noun->Mặt trăng</RomanceAttempt.logRulesInitiator.rulesStrings.53>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.54>romantic_noun->Mặt trời</RomanceAttempt.logRulesInitiator.rulesStrings.54>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.55>romantic_noun->Nhà</RomanceAttempt.logRulesInitiator.rulesStrings.55>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.56>romantic_noun->Ánh sáng phương Bắc</RomanceAttempt.logRulesInitiator.rulesStrings.56>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.57>romantic_noun->[TreeType]</RomanceAttempt.logRulesInitiator.rulesStrings.57>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)->[TerrainFeature]</RomanceAttempt.logRulesInitiator.rulesStrings.58>
+	<RomanceAttempt.logRulesInitiator.rulesStrings.59>romantic_noun(p=2)->[NaturalObject]</RomanceAttempt.logRulesInitiator.rulesStrings.59>
+</LanguageData>

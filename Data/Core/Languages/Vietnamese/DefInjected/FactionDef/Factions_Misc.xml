@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<OutlanderCivil.label>Liên minh người ngoài văn minh</OutlanderCivil.label>
+	<OutlanderCivil.description>Những người này có thể đã sống ở đây hàng chục năm hoặc thậm chí hàng trăm năm, hầu hết các thành tựu công nghệ mà họ từng có đã bị lãng quên. Họ thường sử dụng công cụ cơ khí đơn giản và vũ khí thuốc nổ tiên tiến để tự vệ.\n\nHọ quan tâm nhiều hơn đến các vấn đề thực tế như thương mại, lòng tin và sự sống sót.\n\nNhóm này rất coi trọng hành vi văn minh.</OutlanderCivil.description>
+	<OutlanderCivil.leaderTitle>Thủ lĩnh</OutlanderCivil.leaderTitle>
+	<OutlanderCivil.pawnSingular>Người ngoài</OutlanderCivil.pawnSingular>
+	<OutlanderCivil.pawnsPlural>Người ngoài</OutlanderCivil.pawnsPlural>
+	<OutlanderRough.label>Liên minh người ngoài thô bạo</OutlanderRough.label>
+	<OutlanderRough.description>Những người này có thể đã sống ở đây hàng chục năm hoặc thậm chí hàng trăm năm, hầu hết các thành tựu công nghệ mà họ từng có đã bị lãng quên. Họ thường sử dụng công cụ cơ khí đơn giản và vũ khí thuốc nổ tiên tiến để tự vệ.\n\nHọ quan tâm nhiều hơn đến các vấn đề thực tế như thương mại, lòng tin và sự sống sót.\n\nNhóm này có xu hướng bạo lực thô bạo.</OutlanderRough.description>
+	<OutlanderRough.leaderTitle>Thủ lĩnh</OutlanderRough.leaderTitle>
+	<OutlanderRough.pawnSingular>Người ngoài</OutlanderRough.pawnSingular>
+	<OutlanderRough.pawnsPlural>Người ngoài</OutlanderRough.pawnsPlural>
+	<Pirate.label>Liên minh cướp biển</Pirate.label>
+	<Pirate.description>Một liên minh lỏng lẻo của những tên cướp biển, họ đạt được thỏa thuận không tự sát lẫn nhau mà tập trung vào những người ngoài.\n\nNhững tên cướp biển không trồng trọt, không xây dựng, và hiếm khi thương mại. Họ chủ yếu sống dựa vào cướp bóc và cướp giật từ những tổ chức hoạt động khác trong khu vực để làm giàu.\n\nCông nghệ của họ phụ thuộc vào việc họ đã cướp được ai gần đây. Họ thường sử dụng vũ khí hỏa lực, và một số có thể thích cận chiến bằng dao.</Pirate.description>
+	<Pirate.leaderTitle>Thủ lĩnh</Pirate.leaderTitle>
+	<Pirate.pawnSingular>Cướp biển</Pirate.pawnSingular>
+	<Pirate.pawnsPlural>Cướp biển</Pirate.pawnsPlural>
+	<TribeCivil.label>Bộ lạc hòa bình</TribeCivil.label>
+	<TribeCivil.description>Những người này đã tồn tại ở đây rất lâu. Có thể tổ tiên của họ đã rơi xuống đây hàng nghìn năm trước, hoặc họ là những người sống sót sau một thảm họa hủy diệt văn minh. Dù sao đi nữa, những người bản địa bộ lạc này chủ yếu là những người du mục sinh ra tại đây, sử dụng công cụ và vũ khí nguyên thủy.\n\nMặc dù về mặt công nghệ rõ ràng là kém phát triển, nhưng với số lượng đông đảo, lòng dũng cảm và kỹ năng chiến tranh công nghệ thấp, các bộ lạc này có thể trở thành kẻ thù nguy hiểm hoặc bạn bè quý giá.\n\nBộ lạc này cố gắng theo đuổi lối sống hòa bình, đối xử tốt với mọi người. Họ rất sẵn lòng thương mại và kết bạn, ngay cả với những người lạ.</TribeCivil.description>
+	<TribeCivil.leaderTitle>Trưởng bộ lạc</TribeCivil.leaderTitle>
+	<TribeCivil.pawnSingular>Bộ lạc</TribeCivil.pawnSingular>
+	<TribeCivil.pawnsPlural>Bộ lạc</TribeCivil.pawnsPlural>
+	<TribeRough.label>Bộ lạc thô bạo</TribeRough.label>
+	<TribeRough.description>Những người này đã tồn tại ở đây rất lâu. Có thể tổ tiên của họ đã rơi xuống đây hàng nghìn năm trước, hoặc họ là những người sống sót sau một thảm họa hủy diệt văn minh. Dù sao đi nữa, những người bản địa bộ lạc này chủ yếu là những người du mục sinh ra tại đây, sử dụng công cụ và vũ khí nguyên thủy.\n\nMặc dù về mặt công nghệ rõ ràng là kém phát triển, nhưng với số lượng đông đảo, lòng dũng cảm và kỹ năng chiến tranh công nghệ thấp, các bộ lạc này có thể trở thành kẻ thù nguy hiểm hoặc bạn bè quý giá.\n\nBộ lạc này tôn sùng chiến tranh, và việc trở thành đồng minh với họ không phải là điều dễ dàng.</TribeRough.description>
+	<TribeRough.leaderTitle>Trưởng bộ lạc</TribeRough.leaderTitle>
+	<TribeRough.pawnSingular>Bộ lạc</TribeRough.pawnSingular>
+	<TribeRough.pawnsPlural>Bộ lạc</TribeRough.pawnsPlural>
+	<TribeSavage.label>Bộ lạc man rợ</TribeSavage.label>
+	<TribeSavage.description>Những người này đã tồn tại ở đây rất lâu. Có thể tổ tiên của họ đã rơi xuống đây hàng nghìn năm trước, hoặc họ là những người sống sót sau một thảm họa hủy diệt văn minh. Dù sao đi nữa, những người bản địa bộ lạc này chủ yếu là những người du mục sinh ra tại đây, sử dụng công cụ và vũ khí nguyên thủy.\n\nMặc dù về mặt công nghệ rõ ràng là kém phát triển, nhưng với số lượng đông đảo, lòng dũng cảm và kỹ năng chiến tranh công nghệ thấp, các bộ lạc này có thể trở thành kẻ thù nguy hiểm.\n\nBộ lạc này tràn ngập văn hóa máu và vinh quang, và sẽ không bao giờ trở thành bạn bè với bạn.</TribeSavage.description>
+	<TribeSavage.leaderTitle>Trưởng bộ lạc</TribeSavage.leaderTitle>
+	<TribeSavage.pawnSingular>Bộ lạc</TribeSavage.pawnSingular>
+	<TribeSavage.pawnsPlural>Bộ lạc</TribeSavage.pawnsPlural>
+</LanguageData>

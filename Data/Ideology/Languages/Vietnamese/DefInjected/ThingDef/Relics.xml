@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RelicInertArk.label>Hòm thánh</RelicInertArk.label>
+<RelicInertArk.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertArk.description>
+<RelicInertBox.label>Hộp thánh</RelicInertBox.label>
+<RelicInertBox.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertBox.description>
+<RelicInertCube.label>Khối lập phương</RelicInertCube.label>
+<RelicInertCube.description>Một khối vuông kích thước bằng bàn tay. Nó đã được xử lý để vô hiệu hóa, không còn sức hút bất thường.</RelicInertCube.description>
+<RelicInertCup.label>Chén thánh</RelicInertCup.label>
+<RelicInertCup.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertCup.description>
+<RelicInertFragment.label>Mảnh vụn</RelicInertFragment.label>
+<RelicInertFragment.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertFragment.description>
+<RelicInertPendant.label>Đồ trang sức thánh</RelicInertPendant.label>
+<RelicInertPendant.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertPendant.description>
+<RelicInertSwordHandle.label>Cán kiếm</RelicInertSwordHandle.label>
+<RelicInertSwordHandle.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertSwordHandle.description>
+<RelicInertTablet.label>Đá ghi</RelicInertTablet.label>
+<RelicInertTablet.description>Đồ thánh được gán ý nghĩa văn hóa.</RelicInertTablet.description>
+</LanguageData>

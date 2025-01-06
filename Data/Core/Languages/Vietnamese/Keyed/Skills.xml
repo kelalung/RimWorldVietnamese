@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Level>Cấp độ</Level>
+	<SkillLevel>Cấp độ kỹ năng</SkillLevel>
+	<ProgressToNextLevel>Tiến độ lên cấp</ProgressToNextLevel>
+	<Experience>Kinh nghiệm</Experience>
+	<Passion>Đam mê</Passion>
+	<PassionNone>Không có</PassionNone>
+	<PassionMinor>Thích thú</PassionMinor>
+	<PassionMajor>Đam mê</PassionMajor>
+	<LearningSpeed>Tốc độ học tập</LearningSpeed>
+	<LearnedMaxToday>Đã đạt giới hạn học hôm nay ({0}/{1}, học tiếp theo sẽ nhân với {2})</LearnedMaxToday>
+	<ChildrenLearn>Trẻ em học kỹ năng thông qua việc quan sát công việc của người lớn và tham gia học tại bàn học.</ChildrenLearn>
+	<EffectsAtLevel>Hiệu ứng cấp {0}: </EffectsAtLevel>
+	<SkillMax>Tối đa</SkillMax>
+	<LearnedLevel>Cấp độ đã học</LearnedLevel>
+	<NegativeLevelAdjustedToZero>Cấp độ âm được điều chỉnh về 0.</NegativeLevelAdjustedToZero>
+	<LevelCappedAtMax>Cấp độ tối đa {0}.</LevelCappedAtMax>
+	<GeneLabelWithDesc>Gen “{GENE_label}”</GeneLabelWithDesc>
+	<TraitLabelWithDesc>Đặc điểm “{TRAITLABEL}”</TraitLabelWithDesc>
+	<Skill0>Không biết gì</Skill0>
+	<Skill1>Chưa hiểu rõ</Skill1>
+	<Skill2>Mới bắt đầu</Skill2>
+	<Skill3>Hiểu biết sơ bộ</Skill3>
+	<Skill4>Bắt đầu hiểu biết</Skill4>
+	<Skill5>Đã nhận thức</Skill5>
+	<Skill6>Có chút thành tựu</Skill6>
+	<Skill7>Đang tiến bộ</Skill7>
+	<Skill8>Thành thạo</Skill8>
+	<Skill9>Xuất sắc</Skill9>
+	<Skill10>Rất thành thạo</Skill10>
+	<Skill11>Thợ giỏi</Skill11>
+	<Skill12>Đặc biệt tài năng</Skill12>
+	<Skill13>Thành công rực rỡ</Skill13>
+	<Skill14>Vĩ nhân</Skill14>
+	<Skill15>Đỉnh cao</Skill15>
+	<Skill16>Danh tiếng lẫy lừng</Skill16>
+	<Skill17>Vĩ nhân của một thế hệ</Skill17>
+	<Skill18>Danh tiếng toàn cầu</Skill18>
+	<Skill19>Không ai sánh bằng</Skill19>
+	<Skill20>Biến đá thành vàng</Skill20>
+</LanguageData>
