@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Theme.RefreshRate>Tần suất làm mới</RimHUD.Theme.RefreshRate>
+<RimHUD.Theme.RefreshRateDesc>Cách thường xuyên HUD sẽ làm mới. Đặt cao hơn nếu gặp phải hiện tượng giảm khung hình.</RimHUD.Theme.RefreshRateDesc>
+<RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+
+<RimHUD.Theme.InspectPane>Bảng kiểm tra</RimHUD.Theme.InspectPane>
+<RimHUD.Theme.InspectPaneDocked>Chế độ neo</RimHUD.Theme.InspectPaneDocked>
+<RimHUD.Theme.InspectPaneDockedDesc>Neo HUD vào bảng kiểm tra.</RimHUD.Theme.InspectPaneDockedDesc>
+<RimHUD.Theme.InspectPaneModify>Chỉnh sửa</RimHUD.Theme.InspectPaneModify>
+<RimHUD.Theme.InspectPaneModifyDesc>Điều này là cần thiết cho chế độ neo.</RimHUD.Theme.InspectPaneModifyDesc>
+<RimHUD.Theme.InspectPaneAddLog>Hiển thị nhật ký nhân vật</RimHUD.Theme.InspectPaneAddLog>
+<RimHUD.Theme.InspectPaneAddLogDesc>Điền bảng kiểm tra với nhật ký của nhân vật đã chọn. Không khả dụng cho chế độ neo.</RimHUD.Theme.InspectPaneAddLogDesc>
+<RimHUD.Theme.InspectPaneHeight>Chiều cao bảng</RimHUD.Theme.InspectPaneHeight>
+<RimHUD.Theme.InspectPaneMinTabs>Tabs tối thiểu</RimHUD.Theme.InspectPaneMinTabs>
+<RimHUD.Theme.InspectPaneTabWidth>Chiều rộng tab</RimHUD.Theme.InspectPaneTabWidth>
+
+<RimHUD.Theme.Floating>Chế độ nổi</RimHUD.Theme.Floating>
+<RimHUD.Theme.FloatingAnchor>Mốc</RimHUD.Theme.FloatingAnchor>
+<RimHUD.Theme.FloatingAnchors>Trên trái|Trên giữa|Trên phải|Giữa trái|Giữa|Giữa phải|Dưới trái|Dưới giữa|Dưới phải</RimHUD.Theme.FloatingAnchors>
+<RimHUD.Theme.FloatingOffsetX>X</RimHUD.Theme.FloatingOffsetX>
+<RimHUD.Theme.FloatingOffsetY>Y</RimHUD.Theme.FloatingOffsetY>
+<RimHUD.Theme.FloatingWidth>Chiều rộng</RimHUD.Theme.FloatingWidth>
+<RimHUD.Theme.FloatingHeight>Chiều cao</RimHUD.Theme.FloatingHeight>
+
+<RimHUD.Theme.TextStyle.Size>Kích thước</RimHUD.Theme.TextStyle.Size>
+<RimHUD.Theme.TextStyle.Height>Chiều cao dòng</RimHUD.Theme.TextStyle.Height>
+
+<RimHUD.Theme.TextStyleRegular>Văn bản thường</RimHUD.Theme.TextStyleRegular>
+<RimHUD.Theme.TextStyleLarge>Văn bản tiêu đề</RimHUD.Theme.TextStyleLarge>
+<RimHUD.Theme.TextStyleSmall>Văn bản mô tả</RimHUD.Theme.TextStyleSmall>
+
+<RimHUD.Theme.LabelWidth>Chiều rộng nhãn</RimHUD.Theme.LabelWidth>
+<RimHUD.Theme.ValueWidth>Chiều rộng giá trị</RimHUD.Theme.ValueWidth>
+
+<RimHUD.Theme.Miscellaneous>Các mục khác</RimHUD.Theme.Miscellaneous>
+
+<RimHUD.Theme.ShowFactionIcon>Hiển thị biểu tượng phe</RimHUD.Theme.ShowFactionIcon>
+<RimHUD.Theme.ShowIdeoligionIcon>Hiển thị biểu tượng ý thức hệ</RimHUD.Theme.ShowIdeoligionIcon>
+<RimHUD.Theme.ShowDecimals>Hiển thị số thập phân</RimHUD.Theme.ShowDecimals>
+
+<RimHUD.Theme.LetterPadding>Khoảng cách chữ</RimHUD.Theme.LetterPadding>
+<RimHUD.Theme.LetterPaddingDesc>Thay đổi khoảng cách giữa các thông báo chữ xuất hiện ở bên phải màn hình. Mặc định: 12</RimHUD.Theme.LetterPaddingDesc>
+<RimHUD.Theme.LetterCompress>Nén thông báo</RimHUD.Theme.LetterCompress>
+<RimHUD.Theme.LetterCompressDesc>Sẽ nén bất kỳ chữ cái và cảnh báo nào ở bên phải màn hình nếu chúng chồng chéo với HUD.</RimHUD.Theme.LetterCompressDesc>
+
+<RimHUD.Theme.HudColors>Màu HUD</RimHUD.Theme.HudColors>
+
+<RimHUD.Theme.MainTextColor>Văn bản chính</RimHUD.Theme.MainTextColor>
+<RimHUD.Theme.DisabledColor>Văn bản bị vô hiệu hóa</RimHUD.Theme.DisabledColor>
+<RimHUD.Theme.CriticalColor>Văn bản quan trọng</RimHUD.Theme.CriticalColor>
+<RimHUD.Theme.WarningColor>Văn bản cảnh báo</RimHUD.Theme.WarningColor>
+<RimHUD.Theme.InfoColor>Văn bản thông tin</RimHUD.Theme.InfoColor>
+<RimHUD.Theme.GoodColor>Văn bản tốt</RimHUD.Theme.GoodColor>
+<RimHUD.Theme.ExcellentColor>Văn bản xuất sắc</RimHUD.Theme.ExcellentColor>
+<RimHUD.Theme.BarBackgroundColor>Nền thanh</RimHUD.Theme.BarBackgroundColor>
+<RimHUD.Theme.BarMainColor>Thanh chính</RimHUD.Theme.BarMainColor>
+<RimHUD.Theme.BarLowColor>Thanh thấp</RimHUD.Theme.BarLowColor>
+<RimHUD.Theme.BarThresholdColor>Mức ngưỡng thanh</RimHUD.Theme.BarThresholdColor>
+<RimHUD.Theme.SelectorBackgroundColor>Nền bộ chọn</RimHUD.Theme.SelectorBackgroundColor>
+<RimHUD.Theme.SelectorTextColor>Văn bản bộ chọn</RimHUD.Theme.SelectorTextColor>
+<RimHUD.Theme.LineColor>Đường</RimHUD.Theme.LineColor>
+
+<RimHUD.Theme.FactionColors>Màu phe</RimHUD.Theme.FactionColors>
+<RimHUD.Theme.FactionOwnColor>Của riêng</RimHUD.Theme.FactionOwnColor>
+<RimHUD.Theme.FactionAlliedColor>Liên minh</RimHUD.Theme.FactionAlliedColor>
+<RimHUD.Theme.FactionIndependentColor>Độc lập</RimHUD.Theme.FactionIndependentColor>
+<RimHUD.Theme.FactionHostileColor>Thù địch</RimHUD.Theme.FactionHostileColor>
+<RimHUD.Theme.FactionWildColor>Hoang dã</RimHUD.Theme.FactionWildColor>
+<RimHUD.Theme.FactionPrisonerColor>Tù nhân</RimHUD.Theme.FactionPrisonerColor>
+<RimHUD.Theme.FactionSlaveColor>Nô lệ</RimHUD.Theme.FactionSlaveColor>
+
+<RimHUD.Theme.SkillColors>Màu kỹ năng</RimHUD.Theme.SkillColors>
+<RimHUD.Theme.SkillMinorPassionColor>Đam mê nhỏ</RimHUD.Theme.SkillMinorPassionColor>
+<RimHUD.Theme.SkillMajorPassionColor>Đam mê lớn</RimHUD.Theme.SkillMajorPassionColor>
+<RimHUD.Theme.SkillSaturatedColor>Học tập bão hòa</RimHUD.Theme.SkillSaturatedColor>
+<RimHUD.Theme.SkillActiveColor>Hiện đang hoạt động</RimHUD.Theme.SkillActiveColor>
+</LanguageData>

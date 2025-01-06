@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- dummy recipe for ingredient generation -->
+
+<avCSDummyRecipeForNutrientPaste.label>Công thức dinh dưỡng giả</avCSDummyRecipeForNutrientPaste.label>
+<avCSDummyRecipeForNutrientPaste.description>Công thức dinh dưỡng giả</avCSDummyRecipeForNutrientPaste.description>
+<avCSDummyRecipeForNutrientPaste.jobString>Đang chế biến công thức dinh dưỡng giả (đã nói là giả mà! Còn xem nữa!)</avCSDummyRecipeForNutrientPaste.jobString>
+
+</LanguageData>

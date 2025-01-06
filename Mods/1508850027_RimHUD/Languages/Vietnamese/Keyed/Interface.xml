@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RimHUD.Interface.Button.OK>Đồng ý</RimHUD.Interface.Button.OK>
+	<RimHUD.Interface.Button.Yes>Có</RimHUD.Interface.Button.Yes>
+	<RimHUD.Interface.Button.No>Không</RimHUD.Interface.Button.No>
+	<RimHUD.Interface.Button.Cancel>Hủy</RimHUD.Interface.Button.Cancel>
+	<RimHUD.Interface.Button.Close>Đóng</RimHUD.Interface.Button.Close>
+	<RimHUD.Interface.Button.Save>Lưu</RimHUD.Interface.Button.Save>
+	<RimHUD.Interface.Dialog_Config.Title>RimHUD</RimHUD.Interface.Dialog_Config.Title>
+	<RimHUD.Interface.Dialog_Config.SetToDefault>Sử dụng mặc định</RimHUD.Interface.Dialog_Config.SetToDefault>
+	<RimHUD.Interface.Dialog_Config.OpenFolder>Thư mục cấu hình</RimHUD.Interface.Dialog_Config.OpenFolder>
+	<RimHUD.Interface.Dialog_Config.Tab_Design>Thiết kế</RimHUD.Interface.Dialog_Config.Tab_Design>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors>Màu sắc</RimHUD.Interface.Dialog_Config.Tab_Colors>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>Chỉnh sửa màu cho {0}</RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>Màu sắc</RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>Độ bão hòa</RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>Độ sáng</RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>Alpha</RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>
+	<RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>RGBA</RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>
+	<RimHUD.Interface.Dialog_Config.Tab_Content>Nội dung</RimHUD.Interface.Dialog_Config.Tab_Content>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>Các lớp neo</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>Các lớp nổi</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets>Cài đặt trước</RimHUD.Interface.Dialog_Config.Tab_Content.Presets>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>Chọn cài đặt trước...</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>Lưu cài đặt trước</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>Quản lý cài đặt trước</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>[Mặc định]</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Presets.DefaultCompact>[Mặc định - Gọn]</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.DefaultCompact>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer>Lớp</RimHUD.Interface.Dialog_Config.Tab_Content.Layer>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>Di chuyển lên</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>Di chuyển xuống</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>Xóa</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>Thêm ngăn xếp</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>Một ngăn xếp có thể chứa các ngăn xếp hoặc bảng khác. Nội dung của ngăn xếp sẽ được phân phối đều theo chiều ngang hoặc chiều dọc tùy thuộc vào loại ngăn xếp được chọn.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>Thêm bảng</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>Một bảng hiển thị đều các hàng phần tử theo chiều dọc.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>Thêm hàng</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>Một hàng chứa các phần tử và nếu chứa nhiều hơn một, chúng sẽ được hiển thị đều theo chiều ngang.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>Thêm thông thường</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>Thêm bên thứ ba</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>Thêm thống kê</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>Thêm bản ghi</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>Thêm thanh</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>Thêm kỹ năng/đào tạo</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Selected>Đã chọn: </RimHUD.Interface.Dialog_Config.Tab_Content.Selected>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>Điền chiều cao</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>
+	<RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>Nếu được chọn, bảng hoặc ngăn xếp sẽ kéo dài để lấp đầy không gian dọc còn lại.\n\nNếu không được chọn, nó sẽ điều chỉnh chiều cao theo nội dung của nó.</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>
+	<RimHUD.Interface.Dialog_ManagePresets.Title>Cài đặt trước của người dùng</RimHUD.Interface.Dialog_ManagePresets.Title>
+	<RimHUD.Interface.Dialog_ManagePresets.Delete>Xóa đã chọn</RimHUD.Interface.Dialog_ManagePresets.Delete>
+	<RimHUD.Interface.Dialog_SavePreset.Title>Lưu cài đặt trước</RimHUD.Interface.Dialog_SavePreset.Title>
+	<RimHUD.Interface.Dialog_SavePreset.Name>Tên</RimHUD.Interface.Dialog_SavePreset.Name>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeDocked>Bao gồm neo</RimHUD.Interface.Dialog_SavePreset.IncludeDocked>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeFloating>Bao gồm nổi</RimHUD.Interface.Dialog_SavePreset.IncludeFloating>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeHeight>Bao gồm chiều cao</RimHUD.Interface.Dialog_SavePreset.IncludeHeight>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeWidth>Bao gồm chiều rộng</RimHUD.Interface.Dialog_SavePreset.IncludeWidth>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeTabs>Bao gồm các tab tối thiểu</RimHUD.Interface.Dialog_SavePreset.IncludeTabs>
+	<RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>Bao gồm kích thước văn bản</RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>
+	<RimHUD.Interface.Alert.ConfigReset>RimHUD đã được cập nhật lên phiên bản {0} và yêu cầu cấu hình của nó được đặt lại về mặc định.</RimHUD.Interface.Alert.ConfigReset>
+	<RimHUD.Interface.Alert.SetToDefault>Bạn có chắc chắn muốn khôi phục tất cả cài đặt về mặc định không?</RimHUD.Interface.Alert.SetToDefault>
+	<RimHUD.Interface.Alert.InvalidPreset>Cài đặt trước này chứa các phần tử không hợp lệ hoặc các phần tử từ các mod bên thứ ba không còn hoạt động.\n\nBố cục đang hoạt động đã được đặt lại về mặc định.</RimHUD.Interface.Alert.InvalidPreset>
+	<RimHUD.Interface.Alert.PresetDefaultLoaded>Cài đặt trước đã được đặt lại về mặc định.</RimHUD.Interface.Alert.PresetDefaultLoaded>
+	<RimHUD.Interface.Alert.PresetLoaded>Cài đặt trước cho '{0}' đã được tải.</RimHUD.Interface.Alert.PresetLoaded>
+	<RimHUD.Interface.Alert.PresetSaved>Cài đặt trước '{0}' đã được lưu.</RimHUD.Interface.Alert.PresetSaved>
+	<RimHUD.Interface.Alert.ConfirmDelete>Bạn có chắc chắn muốn xóa cài đặt trước '{0}' không?</RimHUD.Interface.Alert.ConfirmDelete>
+	<RimHUD.Interface.Alert.NotImplemented>Tính năng này chưa được triển khai</RimHUD.Interface.Alert.NotImplemented>
+	<RimHUD.Interface.Alert.MoreComingSoon>Các tính năng khác sẽ sớm ra mắt™</RimHUD.Interface.Alert.MoreComingSoon>
+	<RimHUD.Interface.Settings.Tutorial>Để truy cập cấu hình của RimHUD, di chuột qua bảng kiểm tra khi một nhân vật được chọn và nhấp vào nút bánh răng.</RimHUD.Interface.Settings.Tutorial>
+	<RimHUD.Interface.Settings.TutorialStart>Bạn sẽ thấy một hướng dẫn ngắn về cách thực hiện điều này trong trò chơi ngay khi bảng kiểm tra được hiển thị.</RimHUD.Interface.Settings.TutorialStart>
+	<RimHUD.Interface.Settings.TutorialComplete>Để nhắc nhở về cách thực hiện điều này, hãy nhấp vào nút bên dưới.</RimHUD.Interface.Settings.TutorialComplete>
+	<RimHUD.Interface.Settings.ResetTutorial>Đặt lại hướng dẫn</RimHUD.Interface.Settings.ResetTutorial>
+	<RimHUD.Interface.Tutorial.InspectPane>nhấp vào biểu tượng bánh răng này để truy cập cấu hình của mod này</RimHUD.Interface.Tutorial.InspectPane>
+	<RimHUD.Interface.Tutorial.InspectPaneHover>di chuột qua bảng này để xem nút cấu hình</RimHUD.Interface.Tutorial.InspectPaneHover>
+	<RimHUD.Interface.Tutorial.DialogConfig1>Đây là tất cả các cài đặt của RimHUD cho phép sửa đổi kiểu dáng và nội dung được hiển thị.</RimHUD.Interface.Tutorial.DialogConfig1>
+	<RimHUD.Interface.Tutorial.DialogConfig2>Trong tab nội dung, bạn có thể lưu và tải cài đặt trước và có thể có các cài đặt trước được xây dựng sẵn cho các mod khác mà bạn đang sử dụng.</RimHUD.Interface.Tutorial.DialogConfig2>
+	<RimHUD.Interface.Tutorial.DialogConfig3>Khi bạn hoàn thành ở đây, hãy nhấp vào đây để đóng cửa sổ.</RimHUD.Interface.Tutorial.DialogConfig3>
+	<RimHUD.Interface.Tutorial.DialogConfigContinue>Nhấp để tiếp tục...</RimHUD.Interface.Tutorial.DialogConfigContinue>
+	<RimHUD.Interface.Tutorial.DialogConfigEnd>Không còn thông báo như thế này sẽ xuất hiện để đảm bảo trải nghiệm giống như phiên bản gốc. Thưởng thức nhé!</RimHUD.Interface.Tutorial.DialogConfigEnd>
+</LanguageData>

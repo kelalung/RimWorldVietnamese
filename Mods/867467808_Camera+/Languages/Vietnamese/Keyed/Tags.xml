@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- types -->
+	<AncientTag>Cổ xưa</AncientTag>
+	<NotAncientTag>Không phải cổ xưa</NotAncientTag>
+	<AnimalTag>Động vật</AnimalTag>
+	<NotAnimalTag>Không phải động vật</NotAnimalTag>
+	<CreepJoinerTag>Người bò tham gia</CreepJoinerTag>
+	<NotCreepJoinerTag>Không phải người bò tham gia</NotCreepJoinerTag>
+	<EmpireTag>Đến từ đế chế</EmpireTag>
+	<NotEmpireTag>Không phải đến từ đế chế</NotEmpireTag>
+	<EntityTag>Thực thể</EntityTag>
+	<NotEntityTag>Không phải thực thể</NotEntityTag>
+	<GhoulTag>Xác sống</GhoulTag>
+	<NotGhoulTag>Không phải xác sống</NotGhoulTag>
+	<HoraxCultTag>Thành viên giáo phái</HoraxCultTag>
+	<NotHoraxCultTag>Không phải thành viên giáo phái</NotHoraxCultTag>
+	<HumanTag>Con người</HumanTag>
+	<NotHumanTag>Không phải con người</NotHumanTag>
+	<InsectTag>Côn trùng</InsectTag>
+	<NotInsectTag>Không phải côn trùng</NotInsectTag>
+	<MechanoidTag>Cơ giới</MechanoidTag>
+	<NotMechanoidTag>Không phải cơ giới</NotMechanoidTag>
+	<Mechanitor>Người điều khiển máy móc</Mechanitor>
+	<NotMechanitor>Không phải người điều khiển máy móc</NotMechanitor>
+	<MutantTag>Đột biến</MutantTag>
+	<NotMutantTag>Không phải đột biến</NotMutantTag>
+	<PirateTag>Hải tặc</PirateTag>
+	<NotPirateTag>Không phải hải tặc</NotPirateTag>
+	<PrisonerTag>Tù nhân</PrisonerTag>
+	<NotPrisonerTag>Không phải tù nhân</NotPrisonerTag>
+	<ShamblerTag>Người đi khập khiễng</ShamblerTag>
+	<NotShamblerTag>Không phải người đi khập khiễng</NotShamblerTag>
+	<SlaveTag>Nô lệ</SlaveTag>
+	<NotSlaveTag>Không phải nô lệ</NotSlaveTag>
+	<VehicleTag>Phương tiện</VehicleTag>
+	<NotVehicleTag>Không phải phương tiện</NotVehicleTag>
+	<WildManTag>Người hoang dã</WildManTag>
+	<NotWildManTag>Không phải người hoang dã</NotWildManTag>
+	<!-- properties -->
+	<AdultTag>Người lớn</AdultTag>
+	<NotAdultTag>Không phải người lớn</NotAdultTag>
+	<AttackingTag>Đang tấn công</AttackingTag>
+	<NotAttackingTag>Chưa tấn công</NotAttackingTag>
+	<AwakeTag>Thức tỉnh</AwakeTag>
+	<NotAwakeTag>Đang ngủ</NotAwakeTag>
+	<AwokenCorpseTag>Xác chết hồi sinh</AwokenCorpseTag>
+	<NotAwokenCorpseTag>Không phải xác chết hồi sinh</NotAwokenCorpseTag>
+	<ChildTag>Trẻ em</ChildTag>
+	<NotChildTag>Không phải trẻ em</NotChildTag>
+	<CanCastTag>Có thể thi triển</CanCastTag>
+	<NotCanCastTag>Không thể thi triển</NotCanCastTag>
+	<ColonistTag>Thực dân</ColonistTag>
+	<NotColonistTag>Không phải thực dân</NotColonistTag>
+	<ControllableTag>Có thể điều khiển</ControllableTag>
+	<NotControllableTag>Không thể điều khiển</NotControllableTag>
+	<CrawlingTag>Đang bò</CrawlingTag>
+	<NotCrawlingTag>Không bò</NotCrawlingTag>
+	<DeadTag>Đã chết</DeadTag>
+	<NotDeadTag>Còn sống</NotDeadTag>
+	<DeathrestingTag>Ngủ đông</DeathrestingTag>
+	<NotDeathrestingTag>Chưa ngủ đông</NotDeathrestingTag>
+	<DownedTag>Ngã xuống</DownedTag>
+	<NotDownedTag>Chưa ngã xuống</NotDownedTag>
+	<DraftedTag>Được triệu tập</DraftedTag>
+	<NotDraftedTag>Chưa được triệu tập</NotDraftedTag>
+	<ExitingMapTag>Rời khỏi bản đồ</ExitingMapTag>
+	<NotExitingMapTag>Chưa rời khỏi bản đồ</NotExitingMapTag>
+	<FemaleTag>Nữ</FemaleTag>
+	<NotFemaleTag>Không phải nữ</NotFemaleTag>
+	<FreeTag>Tự do</FreeTag>
+	<NotFreeTag>Không tự do</NotFreeTag>
+	<GuestTag>Khách</GuestTag>
+	<NotGuestTag>Không phải khách</NotGuestTag>
+	<HasWeaponTag>Có vũ khí</HasWeaponTag>
+	<NotHasWeaponTag>Không có vũ khí</NotHasWeaponTag>
+	<HostileTag>Thù địch</HostileTag>
+	<NotHostileTag>Thân thiện</NotHostileTag>
+	<IdleTag>Nhàn rỗi</IdleTag>
+	<NotIdleTag>Không nhàn rỗi</NotIdleTag>
+	<InjuredTag>Bị thương</InjuredTag>
+	<NotInjuredTag>Không bị thương</NotInjuredTag>
+	<InspiredTag>Cảm hứng</InspiredTag>
+	<NotInspiredTag>Không có cảm hứng</NotInspiredTag>
+	<MaleTag>Nam</MaleTag>
+	<NotMaleTag>Không phải nam</NotMaleTag>
+	<ManhunterTag>Thợ săn con người</ManhunterTag>
+	<NotManhunterTag>Không phải thợ săn con người</NotManhunterTag>
+	<MeleeTag>Chiến đấu cận chiến</MeleeTag>
+	<NotMeleeTag>Không phải cận chiến</NotMeleeTag>
+	<MentalTag>Rối loạn tâm thần</MentalTag>
+	<NotMentalTag>Không rối loạn tâm thần</NotMentalTag>
+	<ModdedTag>Đến từ mod</ModdedTag>
+	<NotModdedTag>Nguyên bản</NotModdedTag>
+	<OverseenTag>Bị giám sát</OverseenTag>
+	<NotOverseenTag>Chưa bị giám sát</NotOverseenTag>
+	<PlayerFactionTag>Liên minh người chơi</PlayerFactionTag>
+	<NotPlayerFactionTag>Không phải liên minh người chơi</NotPlayerFactionTag>
+	<PredatorHuntTag>Săn mồi</PredatorHuntTag>
+	<NotPredatorHuntTag>Chưa săn mồi</NotPredatorHuntTag>
+	<SelfShutdownTag>Tắt</SelfShutdownTag>
+	<NotSelfShutdownTag>Chưa tắt</NotSelfShutdownTag>
+	<TameTag>Được thuần hóa</TameTag>
+	<NotTameTag>Chưa thuần hóa</NotTameTag>
+	<TeenagerTag>Thanh thiếu niên</TeenagerTag>
+	<NotTeenagerTag>Không phải thanh thiếu niên</NotTeenagerTag>
+	<!-- names -->
+	<KindDefTag>Loại</KindDefTag>
+	<NotKindDefTag>Không phải loại</NotKindDefTag>
+	<FactionNameTag>Liên minh</FactionNameTag>
+	<NotFactionNameTag>Không phải liên minh</NotFactionNameTag>
+	<PawnNameTag>Tên</PawnNameTag>
+	<NotPawnNameTag>Chưa có tên</NotPawnNameTag>
+	<HediffTag>Bệnh tật</HediffTag>
+	<NotHediffTag>Không có bệnh tật</NotHediffTag>
+	<ApparelTag>Trang phục</ApparelTag>
+	<NotApparelTag>Không có trang phục</NotApparelTag>
+	<InventoryTag>Tồn kho</InventoryTag>
+	<NotInventoryTag>Không có tồn kho</NotInventoryTag>
+	<EquipmentTag>Trang bị</EquipmentTag>
+	<NotEquipmentTag>Không có trang bị</NotEquipmentTag>
+	<WeaponTag>Vũ khí</WeaponTag>
+	<NotWeaponTag>Không có vũ khí</NotWeaponTag>
+</LanguageData>

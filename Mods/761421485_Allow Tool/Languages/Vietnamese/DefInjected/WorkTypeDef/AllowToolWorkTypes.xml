@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<HaulingUrgent.description>Vận chuyển ưu tiên cao. Giống như vận chuyển thông thường, nhưng chỉ dành cho các vật phẩm được đánh dấu thủ công. Sử dụng 「Kế hoạch xây dựng」 > 「Lệnh」 > 「Vận chuyển khẩn cấp」 để đánh dấu các vật phẩm cần vận chuyển khẩn cấp.\nĐược thêm bởi Mod 「Cho phép một lần nhấn」. Có thể tắt trong 「Tùy chọn」 > 「Cài đặt Mod」.</HaulingUrgent.description>
+<FinishingOff.description>Giết nhanh chóng và không đau đớn các đơn vị đã ngã.\nĐược thêm bởi Mod 「Cho phép một lần nhấn」. Có thể tắt trong 「Tùy chọn」 > 「Cài đặt Mod」.</FinishingOff.description>
+<HaulingUrgent.label>Vận chuyển+</HaulingUrgent.label>
+<HaulingUrgent.labelShort>Vận chuyển+</HaulingUrgent.labelShort>
+<HaulingUrgent.pawnLabel>Người vận chuyển khẩn cấp</HaulingUrgent.pawnLabel>
+<HaulingUrgent.gerundLabel>Vận chuyển khẩn cấp</HaulingUrgent.gerundLabel>
+<HaulingUrgent.verb>Vận chuyển khẩn cấp</HaulingUrgent.verb>
+<FinishingOff.label>Giết</FinishingOff.label>
+<FinishingOff.labelShort>Giết</FinishingOff.labelShort>
+<FinishingOff.pawnLabel>Người thực hiện</FinishingOff.pawnLabel>
+<FinishingOff.gerundLabel>Giết</FinishingOff.gerundLabel>
+<FinishingOff.verb>Giết</FinishingOff.verb>
+</LanguageData>

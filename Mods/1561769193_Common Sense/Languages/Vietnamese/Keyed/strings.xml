@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- settings -->
+	<fulfill_outdoors_head>Nhu cầu ngoài trời</fulfill_outdoors_head>
+	<fulfill_outdoors_label>Các nhân vật sẽ tự động ra ngoài để giải trí một chút nhằm đáp ứng nhu cầu ngoài trời</fulfill_outdoors_label>
+	<fulfill_outdoors_note>Chú ý: Không đặt cùng một nguồn giải trí trong nhà và ngoài trời, nếu không các nhân vật sẽ bị rối</fulfill_outdoors_note>
+	<clean_head>Làm việc thông minh</clean_head>
+	<clean_before_working_label>Các nhân vật sẽ ưu tiên dọn dẹp phòng trước khi làm việc (bao gồm nghiên cứu, nấu ăn hoặc chế tạo, ngủ, v.v.)</clean_before_working_label>
+	<clean_before_working_note>Chú ý: Đừng mong những nhân vật không thể làm sạch sẽ dọn dẹp phòng</clean_before_working_note>
+	<bill_job_pathing_label>Tính toán đường đi chính xác hơn cho các công việc trong danh sách</bill_job_pathing_label>
+	<bill_job_pathing_note>Điều này giúp bạn tránh việc các nhân vật đi đường vòng không hợp lý khi cần lấy nguyên liệu để làm việc, nhưng có thể làm tăng tải CPU</bill_job_pathing_note>
+	<clean_after_tending_label>Các nhân vật sẽ dọn dẹp phòng bệnh sau khi chữa trị cho bệnh nhân</clean_after_tending_label>
+	<clean_after_tending_note>Chú ý: Đừng mong những nhân vật không thể làm sạch sẽ dọn dẹp phòng</clean_after_tending_note>
+	<meal_stacking_head>Chồng chất thực phẩm</meal_stacking_head>
+	<meal_stacking_label>Các nhân vật sẽ không chồng chất thực phẩm kỳ lạ với thực phẩm bình thường</meal_stacking_label>
+	<meal_stacking_note>Như vậy, các nhân vật sẽ không chồng chất thực phẩm ghê tởm (như thực phẩm làm từ thịt người hoặc côn trùng) với các thực phẩm khác</meal_stacking_note>
+	<dont_count_odd_label>Các nhân vật có thể chấp nhận việc chồng chất thực phẩm làm từ thịt côn trùng với thực phẩm bình thường, nhưng không phải thịt người</dont_count_odd_label>
+	<dont_count_odd_note>Thực ra, thịt côn trùng có vẻ không ghê tởm đến vậy...</dont_count_odd_note>
+	<gen_ingredients_head>Phát sinh nguyên liệu</gen_ingredients_head>
+	<gen_ingredients_label>Thêm nguyên liệu ngẫu nhiên vào thực phẩm không do bạn chế biến</gen_ingredients_label>
+	<gen_ingredients_note>Ví dụ: những thứ do sự kiện ngẫu nhiên gửi đến, mua từ thương nhân, nhặt từ xác của những người không phải thực dân, v.v. Sẽ không thêm nguyên liệu ghê tởm như thịt côn trùng hoặc thịt người. Khi bật tùy chọn này, trò chơi sẽ trở nên khác biệt hoàn toàn</gen_ingredients_note>
+	<add_to_que_label>Thêm nhiệm vụ trước đó vào hàng đợi</add_to_que_label>
+	<add_to_que_note>Như vậy, các nhân vật sẽ tiếp tục công việc ban đầu sau khi "làm việc thông minh", nhưng đôi khi nếu công việc ban đầu bị người khác chiếm giữ, họ sẽ bị bối rối</add_to_que_note>
+	<hauling_over_bills_label>Các nhân vật sẽ chuyển một đống nguyên liệu khi làm danh sách</hauling_over_bills_label>
+	<hauling_over_bills_note>Khi các nhân vật làm một danh sách, nếu có thể, họ sẽ ưu tiên chuyển một đống nguyên liệu thay vì từng món một</hauling_over_bills_note>
+	<fulfill_needs_head>Đáp ứng nhu cầu</fulfill_needs_head>
+	<drugs_use_potential_mood_label>Các nhân vật sẽ xem xét giá trị tâm trạng tiềm năng khi tuân theo các kế hoạch nghiện có ngưỡng tâm trạng</drugs_use_potential_mood_label>
+	<drugs_use_potential_mood_note>Nếu "giá trị tâm trạng tiềm năng" (tức là giá trị mục tiêu của tâm trạng đang thay đổi) cao hơn chỉ số tâm trạng được thiết lập trong kế hoạch nghiện, các nhân vật sẽ không sử dụng chất gây nghiện. Điều này có thể ngăn các nhân vật sử dụng chất gây nghiện trong những trường hợp không cần thiết</drugs_use_potential_mood_note>
+	<miscellaneous_head>Khác</miscellaneous_head>
+	<extended_recipe_label>Công thức có thể hiển thị đầy đủ danh sách nguyên liệu</extended_recipe_label>
+	<extended_recipe_note>Thay vì chỉ hiển thị "nguyên liệu" mơ hồ</extended_recipe_note>
+	<advanced_head>Thông minh nâng cao</advanced_head>
+	<advanced_inbetween_cleaning_label>Các nhân vật sẽ dọn dẹp phòng sau khi chuyển đồ và trước khi chế biến</advanced_inbetween_cleaning_label>
+	<advanced_inbetween_cleaning_note>Chức năng trong "làm việc thông minh" trước đó chỉ cho phép họ dọn dẹp phòng trước khi chuyển đồ</advanced_inbetween_cleaning_note>
+	<advanced_haul_all_ings_label>Các nhân vật sẽ chuyển tất cả nguyên liệu cần thiết đến nơi chế biến trước khi bắt đầu</advanced_haul_all_ings_label>
+	<advanced_haul_all_ings_note>Các nhân vật sẽ đặt tất cả nguyên liệu cần thiết lên người mình, rồi cùng nhau mang đến nơi chế biến để thực hiện</advanced_haul_all_ings_note>
+	<prefer_spoiling_ingredients_label>Các nhân vật sẽ ưu tiên sử dụng những thứ sắp hỏng</prefer_spoiling_ingredients_label>
+	<prefer_spoiling_ingredients_note>Bao gồm việc chọn nguyên liệu nấu ăn, thực phẩm, thảo dược, v.v. Cảnh báo: Nếu số lượng trong phạm vi chọn quá nhiều, tùy chọn này có thể gây lag</prefer_spoiling_ingredients_note>
+	<UnloadThing>Thả đồ</UnloadThing>
+	<UnloadThingCancel>Hủy bỏ thả đồ</UnloadThingCancel>
+	<manual_unload_label>Thêm nút đánh dấu vào hàng hóa của thực dân để chuyển chúng vào kho.</manual_unload_label>
+	<manual_unload_note>Nếu khu vực lưu trữ không có kho chứa đồ đã đánh dấu, thực dân sẽ thả đồ bên cạnh mình.</manual_unload_note>
+	<put_back_to_inv_label>Đặt lại đồ vào người khi bị gián đoạn</put_back_to_inv_label>
+	<put_back_to_inv_note>Khi các nhân vật cầm đồ trên tay để làm gì đó và bị gián đoạn, họ sẽ đặt đồ trở lại người mình</put_back_to_inv_note>
+	<pick_proper_amount_label>Các nhân vật sẽ không còn lấy quá nhiều đồ ngọt để ăn nữa</pick_proper_amount_label>
+	<pick_proper_amount_note>Không còn tình trạng bỏ rơi chocolate khắp nơi nữa</pick_proper_amount_note>
+	<Category>Phân loại</Category>
+	<fun_police_label>Nếu các nhân vật dậy sớm trong khoảng thời gian ngủ đã được quy định, họ sẽ đi thỏa mãn nhu cầu giải trí của mình</fun_police_label>
+	<fun_police_note>Trên cơ sở đó, các nhân vật chỉ sẽ đi thỏa mãn nhu cầu giải trí khi mức độ giải trí thấp hơn 80%, thay vì luôn cố gắng giữ mức độ giải trí trên 95%</fun_police_note>
+	<numbers_head>Ngưỡng dung thứ ô uế (0=không kiểm soát)</numbers_head>
+	<op_clean_number_label>Dọn dẹp trước khi làm việc</op_clean_number_label>
+	<adv_clean_number_label>Dọn dẹp trước khi làm danh sách</adv_clean_number_label>
+	<doc_clean_number_label>Dọn dẹp sau khi chăm sóc</doc_clean_number_label>
+	<skip_snow_clean_label>Khi trời có tuyết hoặc mưa, các nhân vật sẽ bị cấm dọn dẹp tuyết trong khu vực.</skip_snow_clean_label>
+	<skip_snow_clean_note>Tùy chọn này nhằm ngăn chặn việc dọn dẹp trong thời tiết xấu như mưa lớn hoặc tuyết lớn</skip_snow_clean_note>
+	<prefer_spoiling_meals_label>Các nhân vật ưu tiên ăn thực phẩm sắp hỏng</prefer_spoiling_meals_label>
+	<prefer_spoiling_meals_note>Cảnh báo: Nếu số lượng trong phạm vi chọn quá nhiều, tùy chọn này có thể gây lag</prefer_spoiling_meals_note>
+	<allow_feeding_with_plants_label>Các nhân vật sẽ ưu tiên sử dụng cỏ khô để cho ăn và huấn luyện động vật.</allow_feeding_with_plants_label>
+	<allow_feeding_with_plants_note>Động vật có xu hướng thích thức ăn không phải của con người.</allow_feeding_with_plants_note>
+	<give_sick_joy_drugs_label>Các nhân vật có xu hướng cho bệnh nhân sử dụng các chất gây nghiện xã hội hoặc thực phẩm nâng cao giá trị giải trí được phép trong kế hoạch thuốc</give_sick_joy_drugs_label>
+	<give_sick_joy_drugs_note>Bạn chỉ cần nói cho họ một thanh socola là đủ rồi, cần gì phải nói nhiều?</give_sick_joy_drugs_note>
+	<social_relax_economy_label>Thay đổi cách các nhân vật sử dụng chất gây nghiện trong thư giãn xã hội để tránh "lãng phí thời gian tốt đẹp"</social_relax_economy_label>
+	<social_relax_economy_note>Nói chung, các nhân vật sẽ ngồi không từ 1-2 giờ trước khi thực sự sử dụng chất gây nghiện, điều này lãng phí hiệu quả của chất gây nghiện</social_relax_economy_note>
+	<advanced_cleaning_ingest_label>Các nhân vật có xu hướng dọn dẹp xung quanh bàn trước khi ăn hoặc thư giãn xã hội</advanced_cleaning_ingest_label>
+	<advanced_cleaning_ingest_note>Các nhân vật sẽ dọn dẹp xung quanh bàn trước khi ngồi xuống</advanced_cleaning_ingest_note>
+	<mood_regen_label>Nếu điều kiện cho phép, tâm trạng của các nhân vật sẽ từ từ tiến về 50% khi ngủ</mood_regen_label>
+	<mood_regen_note>"Còn nhiều ngày phía trước"</mood_regen_note>
+	<safe_wander_label>Các nhân vật sẽ cố gắng tránh ảnh hưởng của thời tiết xấu khi đi lang thang</safe_wander_label>
+	<safe_wander_note>Chẳng nhẽ bạn không thể tránh xa sương mù độc hại sao?</safe_wander_note>
+	<pathing_head>Điều chỉnh đường đi</pathing_head>
+	<polite_wander_label>Tránh để sinh vật đồng minh đi lang thang vào phòng ngủ và nhà giam</polite_wander_label>
+	<polite_wander_note>Hành động này không chỉ bất lịch sự mà còn nguy hiểm</polite_wander_note>
+	<ingest_any_drugs_label>Có thể trực tiếp sử dụng thuốc trong hàng hóa</ingest_any_drugs_label>
+	<ingest_any_drugs_note>Nếu món đồ đó có thể ăn được, nó sẽ không rơi xuống đất mà sẽ được sử dụng ngay lập tức</ingest_any_drugs_note>
+	<DoCleanCompToggleLabel>Dọn dẹp</DoCleanCompToggleLabel>
+	<DoCleanCompToggleDescActive>Các nhân vật sẽ dọn dẹp khu vực xung quanh bàn làm việc trước khi ngồi xuống</DoCleanCompToggleDescActive>
+	<DoCleanCompToggleDescInactive>Không dọn dẹp khu vực xung quanh bàn làm việc trước khi ngồi xuống</DoCleanCompToggleDescInactive>
+	<advanced_inbetween_cleaning_gizmo_label>Nhấp vào bàn làm việc để hiển thị nút dọn dẹp/không dọn dẹp</advanced_inbetween_cleaning_gizmo_label>
+	<advanced_inbetween_cleaning_gizmo_note>Có thể vô hiệu hóa việc dọn dẹp đã thiết lập xung quanh bàn làm việc</advanced_inbetween_cleaning_gizmo_note>
+	<meditation_economy_label>Các nhân vật sẽ thiền bao nhiêu tùy theo nhu cầu</meditation_economy_label>
+	<meditation_economy_note>Trừ khi có nhiệm vụ thiền, các nhân vật sẽ ngừng thiền nếu tâm trí của họ đầy và họ không thấy thiền là nguồn vui tốt (tức là đầy hoặc chán)</meditation_economy_note>
+	<advanced_respect_capacity_label>-- các nhân vật sẽ không vượt quá dung lượng kho chứa</advanced_respect_capacity_label>
+	<advanced_respect_capacity_note>Vì lý do hòa nhập hoặc bất kỳ lý do nào khác</advanced_respect_capacity_note>
+	<optimal_patching_label>Vá lỗi tối ưu</optimal_patching_label>
+	<optimal_patching_note>Khi tùy chọn này tắt, tất cả các tùy chọn sẽ kích hoạt ngay lập tức sau khi chuyển đổi chúng, nhưng có thể ảnh hưởng đến hiệu suất ngay cả khi chúng đã tắt. Khi tùy chọn này bật, các tùy chọn sẽ yêu cầu bạn khởi động lại trò chơi khi thay đổi, nhưng các bản vá cần thiết cho những tùy chọn này sẽ không xảy ra, loại bỏ tác động hiệu suất thừa khi trò chơi khởi động với những tùy chọn này đã tắt</optimal_patching_note>
+	<optimal_patching_attention_label>CHÚ Ý: Vá lỗi tối ưu không áp dụng đúng cách nếu không khởi động lại trò chơi!</optimal_patching_attention_label>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DesignatorAllow.label>Lệnh: Đánh dấu cho phép</DesignatorAllow.label>
+<DesignatorForbid.label>Lệnh: Đánh dấu cấm</DesignatorForbid.label>
+<DesignatorAllowAll.label>Lệnh: Cho phép toàn bản đồ</DesignatorAllowAll.label>
+<DesignatorSelectSimilar.label>Lệnh: Chọn tương tự</DesignatorSelectSimilar.label>
+<DesignatorHaulUrgently.label>Lệnh: Vận chuyển khẩn cấp</DesignatorHaulUrgently.label>
+<DesignatorFinishOff.label>Lệnh: Giết đơn vị</DesignatorFinishOff.label>
+<ToolContextMenuAction.label>Công cụ hiện tại: Hành động menu chuột phải.</ToolContextMenuAction.label>
+</LanguageData>

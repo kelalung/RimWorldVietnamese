@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GU_RR_NoMountedHunting_Title>Cấm săn bắn khi cưỡi</GU_RR_NoMountedHunting_Title>
+	<GU_RR_NoMountedHunting_Description>Cấm săn bắn khi cưỡi, khi sử dụng mở rộng chiến đấu, khuyên bạn nên bật nó lên, nếu không động vật có thể bị thương.</GU_RR_NoMountedHunting_Description>
+	<GU_RR_AutomountDisabledByDefault_Title>Tự động cưỡi mặc định bị tắt</GU_RR_AutomountDisabledByDefault_Title>
+	<GU_RR_AutomountDisabledByDefault_Description>Động vật mới nhận sẽ không tự động cưỡi.</GU_RR_AutomountDisabledByDefault_Description>
+	<GU_RR_DisableSlavePawnColumn_Title>Vô hiệu hóa cột quyền của nô lệ</GU_RR_DisableSlavePawnColumn_Title>
+	<GU_RR_DisableSlavePawnColumn_Description>Vô hiệu hóa cột trong tab động vật để kiểm soát xem có cho phép nô lệ tự động cưỡi hay không. Cần khởi động lại trò chơi.</GU_RR_DisableSlavePawnColumn_Description>
+	<GU_RR_MinAutoMountDistance_Title>Khoảng cách cưỡi tối thiểu (Giá trị tối thiểu: {0} Giá trị tối đa: {1} Giá trị mặc định: {2} Giá trị hiện tại: {3})</GU_RR_MinAutoMountDistance_Title>
+	<GU_RR_MinAutoMountDistance_Description>Nếu khoảng cách vượt quá ngưỡng này, người nhỏ sẽ tìm một thú cưỡi để hoàn thành công việc của họ. Khoảng cách công việc sẽ tính đến nhiều bước, chẳng hạn như nhặt đồ và mang đến kho.</GU_RR_MinAutoMountDistance_Description>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Title>Khoảng cách tối đa từ động vật (Giá trị tối thiểu: {0} Giá trị tối đa: {1} Giá trị mặc định: {2} Giá trị hiện tại: {3})</GU_RR_MinAutoMountDistanceFromAnimal_Title>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Description>Nếu khoảng cách giữa người nhỏ và thú cưỡi nhỏ hơn ngưỡng này, họ sẽ xem xét cưỡi lên nó.</GU_RR_MinAutoMountDistanceFromAnimal_Description>
+	<GU_RR_AutoHitchDistance_Title>Ngưỡng buộc tự động (Giá trị tối thiểu: {0} Giá trị tối đa: {1} Giá trị mặc định: {2} Giá trị hiện tại: {3})</GU_RR_AutoHitchDistance_Title>
+	<GU_RR_AutoHitchDistance_Description>Người nhỏ sẽ cố gắng đặt thú cưỡi ở vị trí chỉ định trước. Nếu điểm cưỡi gần nhất đến đích của họ xa hơn ngưỡng này, họ sẽ chọn tự động buộc thú cưỡi của mình tại một vị trí tạm thời.</GU_RR_AutoHitchDistance_Description>
+	<GU_RR_InjuredThreshold_Title>Ngưỡng sức khỏe động vật (Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GU_RR_InjuredThreshold_Title>
+	<GU_RR_InjuredThreshold_Description>Khi sức khỏe của động vật thấp hơn ngưỡng này, chúng sẽ không thể bị cưỡi.</GU_RR_InjuredThreshold_Description>
+	<GU_RR_Designator_GU_DropAnimal_Expand_Label>Điểm cưỡi</GU_RR_Designator_GU_DropAnimal_Expand_Label>
+	<GU_RR_Designator_GU_DropAnimal_Expand_Description>Người nhỏ sẽ tránh cưỡi thú ở khu vực bị cấm. Nếu đích của họ nằm trong khu vực cấm, họ sẽ sử dụng điểm cưỡi gần đó. Nếu điểm được đánh dấu quá xa, họ sẽ tự động buộc và tạo một vị trí tạm thời gần đó.</GU_RR_Designator_GU_DropAnimal_Expand_Description>
+	<GU_RR_Designator_GU_DropAnimal_Clear_Label>Xóa điểm cưỡi</GU_RR_Designator_GU_DropAnimal_Clear_Label>
+	<GU_RR_Designator_GU_DropAnimal_Clear_Description>Xóa điểm cưỡi đã chỉ định, có thể xóa nhiều điểm bằng cách kéo chuột.</GU_RR_Designator_GU_DropAnimal_Clear_Description>
+	<GU_RR_Designator_GU_NoMount_Clear_Label>Xóa khu vực cấm cưỡi</GU_RR_Designator_GU_NoMount_Clear_Label>
+	<GU_RR_Designator_GU_NoMount_Clear_Description>Xóa khu vực cấm cưỡi.</GU_RR_Designator_GU_NoMount_Clear_Description>
+	<GU_RR_Designator_GU_NoMount_Expand_Label>Thêm khu vực cấm cưỡi</GU_RR_Designator_GU_NoMount_Expand_Label>
+	<GU_RR_Designator_GU_NoMount_Expand_Description>Người nhỏ sẽ tránh cưỡi thú ở khu vực bị cấm. Nếu đích của họ nằm trong khu vực cấm, họ sẽ sử dụng điểm cưỡi gần đó. Nếu điểm được đánh dấu quá xa, họ sẽ tự động buộc và tạo một vị trí tạm thời gần đó.</GU_RR_Designator_GU_NoMount_Expand_Description>
+	<GU_RR_NoDropAnimal_Label>Không có điểm cưỡi</GU_RR_NoDropAnimal_Label>
+	<GU_RR_NoDropAnimal_Description>Đã chỉ định một khu vực cấm cưỡi, nhưng không có điểm cưỡi nào.</GU_RR_NoDropAnimal_Description>
+	<GU_RR_NotReachable_DropAnimal_Message>Người thuộc địa không thể đến điểm cưỡi {0}.</GU_RR_NotReachable_DropAnimal_Message>
+	<GU_RR_Gizmo_LeaveRider_Label>Tháo người cưỡi</GU_RR_Gizmo_LeaveRider_Label>
+	<GU_RR_Gizmo_LeaveRider_Description>Ra lệnh cho động vật ngừng chờ người cưỡi.</GU_RR_Gizmo_LeaveRider_Description>
+	<GU_RR_WaitForRiderTimer_Title>Chờ bộ đếm thời gian của người cưỡi (Tối thiểu: {0} Tối đa: {1} Mặc định: {2} Hiện tại: {3} giờ)</GU_RR_WaitForRiderTimer_Title>
+	<GU_RR_WaitForRiderTimer_Description>Khi người cưỡi ngựa xuống ngựa, nhưng có thể cần ngựa để quay về, đây là thời gian con vật sẽ đợi. Lưu ý, một con vật sẽ rời đi sớm vì những trường hợp khẩn cấp, chẳng hạn như chết đói.</GU_RR_WaitForRiderTimer_Description>
+</LanguageData>

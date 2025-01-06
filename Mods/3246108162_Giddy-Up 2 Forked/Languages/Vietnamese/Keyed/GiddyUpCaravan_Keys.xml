@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GU_Car_NotReachable_DropAnimal_NPC_Message>Khách không thể đến điểm cưỡi của khách, hãy đảm bảo tất cả các điểm cưỡi của khách đều có thể đến được.</GU_Car_NotReachable_DropAnimal_NPC_Message>
+	<GU_Car_visitorMountChance_Title>Tỷ lệ cưỡi của khách (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GU_Car_visitorMountChance_Title>
+	<GU_Car_visitorMountChance_Description>Tỷ lệ khách cưỡi động vật.</GU_Car_visitorMountChance_Description>
+	<GU_Car_visitorMountChanceTribal_Title>Tỷ lệ cưỡi của khách bộ lạc (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GU_Car_visitorMountChanceTribal_Title>
+	<GU_Car_visitorMountChanceTribal_Description>Tỷ lệ khách bộ lạc cưỡi động vật.</GU_Car_visitorMountChanceTribal_Description>
+	<GU_Car_GiveCaravanSpeed_Title>Cung cấp tăng tốc độ cưỡi cho đoàn xe</GU_Car_GiveCaravanSpeed_Title>
+	<GU_Car_GiveCaravanSpeed_Description>Mặc định, chỉ một số động vật nhất định có thể cung cấp tăng tốc độ cưỡi cho đoàn xe. Bật tùy chọn này để cho phép các động vật khác cũng có thể cung cấp tăng tốc độ cưỡi, điều này phụ thuộc vào kích thước, tốc độ di chuyển, độ hoang dã và giá trị thị trường của chúng.</GU_Car_GiveCaravanSpeed_Description>
+	<GU_Car_RidePackAnimals_Title>Cho phép đoàn thương mại cưỡi động vật gánh hàng</GU_Car_RidePackAnimals_Title>
+	<GU_Car_RidePackAnimals_Description>Đoàn thương mại có thể cưỡi động vật gánh hàng của họ vào bản đồ. Vô hiệu hóa tùy chọn này có thể giải quyết xung đột với một số mod.</GU_Car_RidePackAnimals_Description>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>Xóa điểm cưỡi của khách</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>Xóa điểm cưỡi của khách đã chỉ định.</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>Điểm cưỡi của khách</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>Đặt điểm dừng cho thú cưỡi của khách. Khi đoàn thương mại hoặc khách đến, họ sẽ tạm thời để thú cưỡi của họ tại điểm cưỡi của khách gần nhất. Thú cưỡi sẽ ở gần điểm dừng cho đến khi người cưỡi trở lại.</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>
+	<GU_Car_No_Rider>Không có người cưỡi</GU_Car_No_Rider>
+	<GU_Car_Set_Rider>Đặt người cưỡi</GU_Car_Set_Rider>
+	<GU_Car_NotInModOptions>Động vật chưa được thiết lập là có thể cưỡi</GU_Car_NotInModOptions>
+	<GU_Car_NotFullyGrown>Động vật chưa trưởng thành</GU_Car_NotFullyGrown>
+	<GU_Car_NeedsObedience>Cần được huấn luyện</GU_Car_NeedsObedience>
+	<GU_Car_AnimalNotSelected>Chưa chọn</GU_Car_AnimalNotSelected>
+	<GU_Car_PawnNotSelected>Chưa chọn thuộc địa</GU_Car_PawnNotSelected>
+</LanguageData>

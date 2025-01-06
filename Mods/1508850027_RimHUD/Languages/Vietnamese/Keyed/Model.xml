@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Model.Bio.Title>Tiêu đề: {0}</RimHUD.Model.Bio.Title>
+<RimHUD.Model.Bio.Faction>Phe: {0}</RimHUD.Model.Bio.Faction>
+<RimHUD.Model.Bio.Ideoligion>Ý thức hệ: {0}</RimHUD.Model.Bio.Ideoligion>
+<RimHUD.Model.Bio.Lifestage>Giai đoạn sống: {0}</RimHUD.Model.Bio.Lifestage>
+<RimHUD.Model.Bio.Master>Chủ: {0}</RimHUD.Model.Bio.Master>
+<RimHUD.Model.Bio.Diet>Chế độ ăn: {0}</RimHUD.Model.Bio.Diet>
+<RimHUD.Model.Bio.Trainability>Khả năng huấn luyện: {0}</RimHUD.Model.Bio.Trainability>
+<RimHUD.Model.Bio.Wildness>Hoang dã: {0}</RimHUD.Model.Bio.Wildness>
+<RimHUD.Model.Bio.Petness>Thú cưng: {0}</RimHUD.Model.Bio.Petness>
+
+<RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+<RimHUD.Model.OfFaction>của {0}</RimHUD.Model.OfFaction>
+
+<RimHUD.Model.Faction.Wild>hoang dã</RimHUD.Model.Faction.Wild>
+<RimHUD.Model.Faction.Allied>liên minh</RimHUD.Model.Faction.Allied>
+<RimHUD.Model.Faction.Enemy>kẻ thù</RimHUD.Model.Faction.Enemy>
+<RimHUD.Model.Faction.Hostile>thù địch</RimHUD.Model.Faction.Hostile>
+<RimHUD.Model.Faction.Independent>độc lập</RimHUD.Model.Faction.Independent>
+<RimHUD.Model.Faction.Prisoner>tù nhân</RimHUD.Model.Faction.Prisoner>
+<RimHUD.Model.Faction.Slave>nô lệ</RimHUD.Model.Faction.Slave>
+
+<RimHUD.Model.Creature.Wild>sinh vật</RimHUD.Model.Creature.Wild>
+<RimHUD.Model.Creature.Tame>động vật</RimHUD.Model.Creature.Tame>
+<RimHUD.Model.Creature.Stray>đi lạc</RimHUD.Model.Creature.Stray>
+<RimHUD.Model.Creature.Pet>thú cưng</RimHUD.Model.Creature.Pet>
+<RimHUD.Model.Creature.ExoticPet>thú cưng kỳ lạ</RimHUD.Model.Creature.ExoticPet>
+<RimHUD.Model.Creature.Predator>sát thủ</RimHUD.Model.Creature.Predator>
+<RimHUD.Model.Creature.Hunt>động vật săn mồi</RimHUD.Model.Creature.Hunt>
+<RimHUD.Model.Creature.Pack>động vật bầy đàn</RimHUD.Model.Creature.Pack>
+<RimHUD.Model.Creature.Farm>động vật trang trại</RimHUD.Model.Creature.Farm>
+<RimHUD.Model.Creature.Herd>động vật đàn</RimHUD.Model.Creature.Herd>
+<RimHUD.Model.Creature.Insect>côn trùng</RimHUD.Model.Creature.Insect>
+<RimHUD.Model.Creature.Mechanoid>máy móc</RimHUD.Model.Creature.Mechanoid>
+<RimHUD.Model.Creature.Unit>đơn vị</RimHUD.Model.Creature.Unit>
+<RimHUD.Model.Creature.Entity>thực thể</RimHUD.Model.Creature.Entity>
+
+<RimHUD.Model.GenderRaceAndAge>{0} tuổi {1}</RimHUD.Model.GenderRaceAndAge>
+<RimHUD.Model.Age.Birthday>(Sinh nhật hôm nay)</RimHUD.Model.Age.Birthday>
+<RimHUD.Model.Age.Day>và một ngày</RimHUD.Model.Age.Day>
+<RimHUD.Model.Age.Days>và {0} ngày</RimHUD.Model.Age.Days>
+
+<RimHUD.Model.Health.Dead>Chết</RimHUD.Model.Health.Dead>
+<RimHUD.Model.Health.Incapacitated>Không có khả năng</RimHUD.Model.Health.Incapacitated>
+<RimHUD.Model.Health.Bleed>Chảy máu trong {0}</RimHUD.Model.Health.Bleed>
+<RimHUD.Model.Health.Tend>{0} cần chăm sóc</RimHUD.Model.Health.Tend>
+<RimHUD.Model.Health.TendPlural>{0} tình trạng cần chăm sóc</RimHUD.Model.Health.TendPlural>
+<RimHUD.Model.Health.Threat>Có {0} đe dọa đến tính mạng</RimHUD.Model.Health.Threat>
+<RimHUD.Model.Health.ThreatPlural>Có {0} tình trạng đe dọa đến tính mạng</RimHUD.Model.Health.ThreatPlural>
+<RimHUD.Model.Health.Affected>Bị ảnh hưởng bởi {0}</RimHUD.Model.Health.Affected>
+<RimHUD.Model.Health.AffectedTwo>Bị ảnh hưởng bởi {0} và 1 tình trạng khác</RimHUD.Model.Health.AffectedTwo>
+<RimHUD.Model.Health.AffectedPlural>Bị ảnh hưởng bởi {0} và {1} tình trạng khác</RimHUD.Model.Health.AffectedPlural>
+<RimHUD.Model.Health.Stable>Trong tình trạng sức khỏe ổn định</RimHUD.Model.Health.Stable>
+
+<RimHUD.Model.Health.MedicalCare>Thay đổi mức độ chăm sóc y tế cho {0} này.\n\nMức độ hiện tại: {1}</RimHUD.Model.Health.MedicalCare>
+
+<RimHUD.Model.Mood.ExtremeBreakImminent>Cảm thấy trầm cảm</RimHUD.Model.Mood.ExtremeBreakImminent>
+<RimHUD.Model.Mood.MajorBreakImminent>Cảm thấy không vui</RimHUD.Model.Mood.MajorBreakImminent>
+<RimHUD.Model.Mood.MinorBreakImminent>Cảm thấy căng thẳng</RimHUD.Model.Mood.MinorBreakImminent>
+<RimHUD.Model.Mood.Happy>Cảm thấy hạnh phúc</RimHUD.Model.Mood.Happy>
+<RimHUD.Model.Mood.Content>Cảm thấy hài lòng</RimHUD.Model.Mood.Content>
+<RimHUD.Model.Mood.Indifferent>Cảm thấy thờ ơ</RimHUD.Model.Mood.Indifferent>
+
+<RimHUD.Model.Info.Activity>Hoạt động: {0}</RimHUD.Model.Info.Activity>
+<RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+<RimHUD.Model.Info.Activity.WorkType>Loại công việc: {0}</RimHUD.Model.Info.Activity.WorkType>
+<RimHUD.Model.Info.Activity.RelevantSkills>Kỹ năng liên quan: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
+<RimHUD.Model.Info.Attacking>Đang tấn công {0}</RimHUD.Model.Info.Attacking>
+<RimHUD.Model.Info.Queued>Đang xếp hàng: {0}</RimHUD.Model.Info.Queued>
+<RimHUD.Model.Info.Equipped>Đã trang bị: {0}</RimHUD.Model.Info.Equipped>
+<RimHUD.Model.Info.Carrying>Đang mang: {0}</RimHUD.Model.Info.Carrying>
+
+<RimHUD.Model.Selector.OutfitFormat>Trang phục: {0}</RimHUD.Model.Selector.OutfitFormat>
+<RimHUD.Model.Selector.FoodFormat>Thực phẩm: {0}</RimHUD.Model.Selector.FoodFormat>
+<RimHUD.Model.Selector.TimetableFormat>Lịch trình: {0}</RimHUD.Model.Selector.TimetableFormat>
+<RimHUD.Model.Selector.SetTimeAssignment>Đặt giờ {0} thành {1}</RimHUD.Model.Selector.SetTimeAssignment>
+<RimHUD.Model.Selector.AreaFormat>Khu vực: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>Quản lý...</RimHUD.Model.Selector.Manage>
+
+  <RimHUD.Model.Skill.PassionIndicator>★</RimHUD.Model.Skill.PassionIndicator>
+</LanguageData>

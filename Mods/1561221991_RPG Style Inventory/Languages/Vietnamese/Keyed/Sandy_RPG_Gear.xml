@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SandyMassCarried>Tải trọng hiện tại</SandyMassCarried>
+	<SandyMassValue>{0}/{1} kg</SandyMassValue>
+	<Sandy_ViewList>Hiển thị danh sách</Sandy_ViewList>
+	<Sandy_Head>Đầu</Sandy_Head>
+	<Sandy_TorsoMiddle>Thân giữa</Sandy_TorsoMiddle>
+	<Sandy_TorsoOnSkin>Thân trên da</Sandy_TorsoOnSkin>
+	<Sandy_TorsoShell>Thân vỏ</Sandy_TorsoShell>
+	<Sandy_Belt>Thắt lưng</Sandy_Belt>
+	<Sandy_Pants>Quần trên da</Sandy_Pants>
+	<RPG_Inventory_Width>Tab Gear - Chiều rộng</RPG_Inventory_Width>
+	<RPG_Inventory_Height>Tab Gear - Chiều cao</RPG_Inventory_Height>
+	<RPG_Style_Inventory_Title>Kho đồ kiểu RPG</RPG_Style_Inventory_Title>
+	<RPG_Style_Inventory_ArmorHarmony>Phòng thủ ma thuật</RPG_Style_Inventory_ArmorHarmony>
+	<RPG_Inventory_Color_Setting>CÀI ĐẶT MÀU CHẤT LƯỢNG</RPG_Inventory_Color_Setting>
+	<RPG_Inventory_Color_Selector>Chọn</RPG_Inventory_Color_Selector>
+	<RPG_Inventory_Legendary>Huyền thoại</RPG_Inventory_Legendary>
+	<RPG_Inventory_Masterwork>Tác phẩm xuất sắc</RPG_Inventory_Masterwork>
+	<RPG_Inventory_Excellent>Xuất sắc</RPG_Inventory_Excellent>
+	<RPG_Inventory_Good>Tốt</RPG_Inventory_Good>
+	<RPG_Inventory_Normal>Bình thường</RPG_Inventory_Normal>
+	<RPG_Inventory_Poor>Kém</RPG_Inventory_Poor>
+	<RPG_Inventory_Awful>Kinh khủng</RPG_Inventory_Awful>
+</LanguageData>

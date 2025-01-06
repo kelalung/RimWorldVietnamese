@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NL_FA_Core_GeneralSettings>Cài đặt chung</NL_FA_Core_GeneralSettings>
+	<NL_FA_Force_No-Cache>Bỏ qua xử lý bộ nhớ cache hình ảnh nhân vật v1.3</NL_FA_Force_No-Cache>
+	<NL_FA_Force_No-Cache_Hint>Khi có xung đột với các chức năng tương đương khác, hãy vô hiệu hóa chức năng này.</NL_FA_Force_No-Cache_Hint>
+	<NL_FA_Enable_Facial_Animation_in_Portraits>Bật hoạt ảnh khuôn mặt trong chân dung</NL_FA_Enable_Facial_Animation_in_Portraits>
+	<NL_FA_Enable_Facial_Animation_in_Portraits_Hint>Nếu trò chơi của bạn bị lag, hãy tăng khoảng thời gian cập nhật hoặc vô hiệu hóa chức năng này.</NL_FA_Enable_Facial_Animation_in_Portraits_Hint>
+	<NL_FA_Update_Interval>Khoảng thời gian cập nhật: {0} lần</NL_FA_Update_Interval>
+	<NL_FA_Draw_Settings>Cài đặt vẽ</NL_FA_Draw_Settings>
+	<NL_FA_Switch_Left_And_Right_Eyes>Chuyển đổi mắt trái và phải</NL_FA_Switch_Left_And_Right_Eyes>
+	<NL_FA_Switch_Left_And_Right_Eyes_Hint>Sửa lỗi đổi chỗ sẹo mắt trái và phải.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
+	<NL_FA_Disable_Eye_Attachment>Ẩn đồ họa gốc chồng lên mắt</NL_FA_Disable_Eye_Attachment>
+	<NL_FA_Disable_Eye_Attachment_Hint>Ẩn đồ họa che mắt FA.</NL_FA_Disable_Eye_Attachment_Hint>
+	<NL_FA_Draw_the_eyebrows_above_the_hat>Vẽ lông mày ở trên mũ.</NL_FA_Draw_the_eyebrows_above_the_hat>
+	<NL_FA_Draw_the_eyebrows_above_the_hat_Hint>Vẽ lông mày ở trên mũ.</NL_FA_Draw_the_eyebrows_above_the_hat_Hint>
+	<NL_FA_Core_GeneSettings>Cài đặt phần gene</NL_FA_Core_GeneSettings>
+	<NL_FA_Draw_the_gene_parts>Vẽ các phần gene (thí nghiệm)</NL_FA_Draw_the_gene_parts>
+	<NL_FA_Draw_the_gene_parts_Hint>Bản tạm thời. Có thể thay đổi thông số kỹ thuật.</NL_FA_Draw_the_gene_parts_Hint>
+	<NL_FA_Draw_the_Headbone_parts>Các phần xương đầu</NL_FA_Draw_the_Headbone_parts>
+	<NL_FA_Draw_the_Headbone_parts_Hint>Bản tạm thời. Có thể thay đổi thông số kỹ thuật.</NL_FA_Draw_the_Headbone_parts_Hint>
+	<NL_FA_Draw_the_Ears_parts>Các phần tai</NL_FA_Draw_the_Ears_parts>
+	<NL_FA_Draw_the_Ears_parts_Hint>Bản tạm thời. Có thể thay đổi thông số kỹ thuật.</NL_FA_Draw_the_Ears_parts_Hint>
+	<NL_FA_Draw_the_Eyes_parts>Các phần mắt</NL_FA_Draw_the_Eyes_parts>
+	<NL_FA_Draw_the_Eyes_parts_Hint>Bản tạm thời. Có thể thay đổi thông số kỹ thuật.</NL_FA_Draw_the_Eyes_parts_Hint>
+	<NL_FA_Draw_the_Nose_parts>Các phần mũi</NL_FA_Draw_the_Nose_parts>
+	<NL_FA_Draw_the_Nose_parts_Hint>Bản tạm thời. Có thể thay đổi thông số kỹ thuật.</NL_FA_Draw_the_Nose_parts_Hint>
+	<NL_FA_Core_RaceSettings>Cài đặt chủng tộc và dị chủng</NL_FA_Core_RaceSettings>
+	<NL_FA_Core_RaceSettings_Hint>Dành cho người dùng muốn vô hiệu hóa một số chức năng FA.</NL_FA_Core_RaceSettings_Hint>
+	<NL_FA_Core_RaceSelector>Chọn chủng tộc</NL_FA_Core_RaceSelector>
+	<NL_FA_Core_RaceSelector_Hint>Khi vô hiệu hóa, biểu cảm khuôn mặt sẽ không được áp dụng cho sự kết hợp giữa chủng tộc và dị chủng.</NL_FA_Core_RaceSelector_Hint>
+	<NL_FA_Animation_Settings>Cài đặt hoạt ảnh</NL_FA_Animation_Settings>
+	<NL_FA_Enable_Male_Drawing>Bật hoạt ảnh khuôn mặt cho nhân vật nam</NL_FA_Enable_Male_Drawing>
+	<NL_FA_Enable_Male_Drawing_Hint>Nếu tắt tùy chọn này, nhân vật nam sẽ sử dụng khuôn mặt gốc.</NL_FA_Enable_Male_Drawing_Hint>
+	<NL_FA_Enable_Female_Drawing>Bật hoạt ảnh khuôn mặt cho nhân vật nữ</NL_FA_Enable_Female_Drawing>
+	<NL_FA_Enable_Female_Drawing_Hint>Nếu tắt tùy chọn này, nhân vật nữ sẽ sử dụng khuôn mặt gốc.</NL_FA_Enable_Female_Drawing_Hint>
+	<NL_FA_Enable_Neither_Drawing>Bật hoạt ảnh khuôn mặt cho nhân vật không có giới tính</NL_FA_Enable_Neither_Drawing>
+	<NL_FA_Enable_Neither_Drawing_Hint>Nếu tắt tùy chọn này, nhân vật không có giới tính sẽ sử dụng khuôn mặt gốc.</NL_FA_Enable_Neither_Drawing_Hint>
+	<NL_FA_Enable_Facial_Animation_For_All_Pawns>Bật hoạt ảnh khuôn mặt cho tất cả nhân vật</NL_FA_Enable_Facial_Animation_For_All_Pawns>
+	<NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>Khi tắt, sẽ ngừng áp dụng tất cả hoạt ảnh khuôn mặt. Giảm tải tính toán đáng kể. Dành cho người chơi chỉ thích thay đổi phần khuôn mặt.</NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>
+	<NL_FA_Enable_Facial_Animation_For_Non_Colonists>Bật biểu cảm cho các nhân vật không phải thực dân</NL_FA_Enable_Facial_Animation_For_Non_Colonists>
+	<NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>Khi tắt, ngoài thực dân, khuôn mặt của các nhân vật khác sẽ không thay đổi. Giảm tải tính toán.</NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>
+	<NL_FA_Remove_Eye_Hediff_Graphic>Không hiển thị thương tích mắt và mắt giả</NL_FA_Remove_Eye_Hediff_Graphic>
+	<NL_FA_Remove_Eye_Hediff_Graphic_Hint>Khi bật, sẹo mắt và mắt sinh học, mắt công nghệ cao sẽ không hiển thị bất kỳ đồ họa nào.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
+	<NL_FA_Ignore_beard_mesh_and_offset>Sửa lỗi vị trí offset của râu (thí nghiệm)</NL_FA_Ignore_beard_mesh_and_offset>
+	<NL_FA_Ignore_beard_mesh_and_offset_Hint>Khi bật, sẽ bỏ qua kích thước và offset đồ họa được định nghĩa bởi râu khi vẽ.</NL_FA_Ignore_beard_mesh_and_offset_Hint>
+	<NL_FA_Ignore_hair_mesh>Sửa lỗi vị trí offset của tóc (thí nghiệm)</NL_FA_Ignore_hair_mesh>
+	<NL_FA_Ignore_hair_mesh_Hint>Khi bật, sự thay đổi kích thước tóc do hình dạng đầu gây ra sẽ bị bỏ qua khi vẽ.</NL_FA_Ignore_hair_mesh_Hint>
+	<NL_FA_Odd_Eye_Probability>Xác suất tạo ra mắt màu khác: {0} %</NL_FA_Odd_Eye_Probability>
+	<NL_FA_Enable_MainTab>Hiển thị tab tùy chọn khuôn mặt hoạt hình</NL_FA_Enable_MainTab>
+	<NL_FA_Enable_MainTab_Hint>Khi tắt, tab khuôn mặt hoạt hình trên tùy chọn chính sẽ bị ẩn</NL_FA_Enable_MainTab_Hint>
+	<NL_FA_UI_Head_Label>Đầu</NL_FA_UI_Head_Label>
+	<NL_FA_UI_Brow_Label>Lông mày</NL_FA_UI_Brow_Label>
+	<NL_FA_UI_Lid_Label>Mí mắt</NL_FA_UI_Lid_Label>
+	<NL_FA_UI_Eyeball_Label>Mắt</NL_FA_UI_Eyeball_Label>
+	<NL_FA_UI_Mouth_Label>Miệng</NL_FA_UI_Mouth_Label>
+	<NL_FA_UI_Skin_Label>Da</NL_FA_UI_Skin_Label>
+	<NL_FA_UI_HairType_Label>Kiểu tóc</NL_FA_UI_HairType_Label>
+	<NL_FA_UI_BodyType_Label>Hình thể</NL_FA_UI_BodyType_Label>
+	<NL_FA_UI_HeadType_Label>Hình dạng đầu</NL_FA_UI_HeadType_Label>
+	<NL_FA_UI_AnimationController_Label>Bộ điều khiển hoạt ảnh khuôn mặt</NL_FA_UI_AnimationController_Label>
+	<NL_FA_UI_Support_Label>Hỗ trợ</NL_FA_UI_Support_Label>
+	<NL_FA_UI_Not_Support_Label>Không hỗ trợ</NL_FA_UI_Not_Support_Label>
+	<NL_FA_UI_Status_Simulation_Label>Mô phỏng trạng thái</NL_FA_UI_Status_Simulation_Label>
+	<NL_FA_Enable_dark_skin_shader>Bật sửa lỗi đỏ cho làn da tối màu.</NL_FA_Enable_dark_skin_shader>
+	<NL_FA_Enable_dark_skin_shader_Hint>Xử lý màu da gốc có vấn đề khiến da tối màu trông có vẻ đỏ. Bằng cách bật tùy chọn này, xử lý da tối màu sẽ được thay đổi để giống như xử lý cho dị chủng. Cần phải tải lại.</NL_FA_Enable_dark_skin_shader_Hint>
+	<NL_FA_dark_skin_threshold>Ngưỡng độ sáng: {0}%</NL_FA_dark_skin_threshold>
+</LanguageData>

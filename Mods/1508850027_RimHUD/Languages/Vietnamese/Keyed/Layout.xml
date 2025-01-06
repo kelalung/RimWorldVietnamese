@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RimHUD.Layout.UserPreset>Người dùng</RimHUD.Layout.UserPreset>
+	<RimHUD.Layout.IntegratedPreset>Tích hợp</RimHUD.Layout.IntegratedPreset>
+	<RimHUD.Layout.Root>Cây gốc</RimHUD.Layout.Root>
+	<RimHUD.Layout.VStack>Ngăn xếp dọc</RimHUD.Layout.VStack>
+	<RimHUD.Layout.VStackFilled>Ngăn xếp dọc (đầy)</RimHUD.Layout.VStackFilled>
+	<RimHUD.Layout.HStack>Ngăn xếp ngang</RimHUD.Layout.HStack>
+	<RimHUD.Layout.HStackFilled>Ngăn xếp ngang (đầy)</RimHUD.Layout.HStackFilled>
+	<RimHUD.Layout.Panel>Bảng</RimHUD.Layout.Panel>
+	<RimHUD.Layout.PanelFilled>Bảng (đầy)</RimHUD.Layout.PanelFilled>
+	<RimHUD.Layout.Row>Hàng</RimHUD.Layout.Row>
+	<RimHUD.Layout.ContainerFilled>Đầy</RimHUD.Layout.ContainerFilled>
+	<RimHUD.Layout.Blank>Trống</RimHUD.Layout.Blank>
+	<RimHUD.Layout.Separator>Đường phân cách</RimHUD.Layout.Separator>
+	<RimHUD.Layout.NameHeader>Tên làm tiêu đề</RimHUD.Layout.NameHeader>
+	<RimHUD.Layout.Outfit>Chọn trang phục</RimHUD.Layout.Outfit>
+	<RimHUD.Layout.Food>Chọn thực phẩm</RimHUD.Layout.Food>
+	<RimHUD.Layout.Rules>Chọn quy tắc</RimHUD.Layout.Rules>
+	<RimHUD.Layout.Timetable>Chọn thời gian biểu</RimHUD.Layout.Timetable>
+	<RimHUD.Layout.Area>Chọn khu vực</RimHUD.Layout.Area>
+	<RimHUD.Layout.RelationKindAndFaction>Quan hệ, loại và phe</RimHUD.Layout.RelationKindAndFaction>
+	<RimHUD.Layout.GenderRaceAndAge>Giới tính, chủng tộc và tuổi tác</RimHUD.Layout.GenderRaceAndAge>
+	<RimHUD.Layout.SimpleGenderRaceAndAge>Giới tính, chủng tộc và tuổi tác đơn giản</RimHUD.Layout.SimpleGenderRaceAndAge>
+	<RimHUD.Layout.Health>Thanh sức khỏe</RimHUD.Layout.Health>
+	<RimHUD.Layout.HealthCondition>Điều kiện sức khỏe</RimHUD.Layout.HealthCondition>
+	<RimHUD.Layout.MentalCondition>Điều kiện tâm lý</RimHUD.Layout.MentalCondition>
+	<RimHUD.Layout.Stat>{0} chỉ số</RimHUD.Layout.Stat>
+	<RimHUD.Layout.Record>{0} bản ghi</RimHUD.Layout.Record>
+	<RimHUD.Layout.NeedMood>Thanh tâm trạng</RimHUD.Layout.NeedMood>
+	<RimHUD.Layout.NeedFood>Thanh thực phẩm</RimHUD.Layout.NeedFood>
+	<RimHUD.Layout.NeedSleep>Thanh ngủ</RimHUD.Layout.NeedSleep>
+	<RimHUD.Layout.NeedEnergy>Thanh năng lượng</RimHUD.Layout.NeedEnergy>
+	<RimHUD.Layout.NeedRecreation>Thanh giải trí</RimHUD.Layout.NeedRecreation>
+	<RimHUD.Layout.NeedSuppression>Thanh đàn áp</RimHUD.Layout.NeedSuppression>
+	<RimHUD.Layout.Need>{0} thanh</RimHUD.Layout.Need>
+	<RimHUD.Layout.SkillShooting>Kỹ năng bắn súng</RimHUD.Layout.SkillShooting>
+	<RimHUD.Layout.SkillMelee>Kỹ năng cận chiến</RimHUD.Layout.SkillMelee>
+	<RimHUD.Layout.SkillConstruction>Kỹ năng xây dựng</RimHUD.Layout.SkillConstruction>
+	<RimHUD.Layout.SkillMining>Kỹ năng khai thác</RimHUD.Layout.SkillMining>
+	<RimHUD.Layout.SkillCooking>Kỹ năng nấu ăn</RimHUD.Layout.SkillCooking>
+	<RimHUD.Layout.SkillPlants>Kỹ năng trồng cây</RimHUD.Layout.SkillPlants>
+	<RimHUD.Layout.SkillAnimals>Kỹ năng động vật</RimHUD.Layout.SkillAnimals>
+	<RimHUD.Layout.SkillCrafting>Kỹ năng chế tác</RimHUD.Layout.SkillCrafting>
+	<RimHUD.Layout.SkillArtistic>Kỹ năng nghệ thuật</RimHUD.Layout.SkillArtistic>
+	<RimHUD.Layout.SkillMedicine>Kỹ năng y tế</RimHUD.Layout.SkillMedicine>
+	<RimHUD.Layout.SkillSocial>Kỹ năng xã hội</RimHUD.Layout.SkillSocial>
+	<RimHUD.Layout.SkillIntellectual>Kỹ năng trí tuệ</RimHUD.Layout.SkillIntellectual>
+	<RimHUD.Layout.Skill>{0} kỹ năng</RimHUD.Layout.Skill>
+	<RimHUD.Layout.TrainingTameness>Huấn luyện thuần hóa</RimHUD.Layout.TrainingTameness>
+	<RimHUD.Layout.TrainingObedience>Huấn luyện vâng lời</RimHUD.Layout.TrainingObedience>
+	<RimHUD.Layout.TrainingRelease>Huấn luyện thả tự do</RimHUD.Layout.TrainingRelease>
+	<RimHUD.Layout.TrainingRescue>Huấn luyện cứu hộ</RimHUD.Layout.TrainingRescue>
+	<RimHUD.Layout.TrainingHaul>Huấn luyện kéo</RimHUD.Layout.TrainingHaul>
+	<RimHUD.Layout.Training>{0} huấn luyện</RimHUD.Layout.Training>
+	<RimHUD.Layout.Master>Chủ</RimHUD.Layout.Master>
+	<RimHUD.Layout.Activity>Hoạt động</RimHUD.Layout.Activity>
+	<RimHUD.Layout.Queued>Đang xếp hàng</RimHUD.Layout.Queued>
+	<RimHUD.Layout.Equipped>Đã trang bị</RimHUD.Layout.Equipped>
+	<RimHUD.Layout.Carrying>Đang mang</RimHUD.Layout.Carrying>
+	<RimHUD.Layout.CompInfo>Thông tin thêm</RimHUD.Layout.CompInfo>
+	<RimHUD.Layout.PrisonerInfo>Thông tin tù nhân</RimHUD.Layout.PrisonerInfo>
+	<RimHUD.Layout.Target.PlayerHumanlike>Người chơi giống người</RimHUD.Layout.Target.PlayerHumanlike>
+	<RimHUD.Layout.Target.OtherHumanlike>Người khác giống người</RimHUD.Layout.Target.OtherHumanlike>
+	<RimHUD.Layout.Target.PlayerCreature>Thực thể người chơi</RimHUD.Layout.Target.PlayerCreature>
+	<RimHUD.Layout.Target.OtherCreature>Thực thể khác</RimHUD.Layout.Target.OtherCreature>
+	<RimHUD.Layout.BarColorStyle.LowToMain>Màu từ Thấp đến Chính (Mặc định)</RimHUD.Layout.BarColorStyle.LowToMain>
+	<RimHUD.Layout.BarColorStyle.LowOnly>Chỉ màu Thấp</RimHUD.Layout.BarColorStyle.LowOnly>
+	<RimHUD.Layout.BarColorStyle.MainToLow>Màu từ Chính đến Thấp</RimHUD.Layout.BarColorStyle.MainToLow>
+	<RimHUD.Layout.BarColorStyle.MainOnly>Chỉ màu Chính</RimHUD.Layout.BarColorStyle.MainOnly>
+</LanguageData>

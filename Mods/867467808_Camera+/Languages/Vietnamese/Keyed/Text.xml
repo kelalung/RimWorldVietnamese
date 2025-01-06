@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<CameraPlus3>Chào mừng bạn đến với phiên bản mới của Camera+! Khám phá các tùy chọn hình dạng tùy chỉnh nâng cao trong menu cài đặt để cải thiện trải nghiệm của bạn.</CameraPlus3>
+	<Zoom>Phóng to</Zoom>
+	<ZoomedInPercent>Tỷ lệ phóng to tối đa</ZoomedInPercent>
+	<ZoomedOutPercent>Tỷ lệ thu nhỏ tối đa</ZoomedOutPercent>
+	<ForZoomedInPercent>Tỷ lệ phóng to cao nhất</ForZoomedInPercent>
+	<ForZoomedOutPercent>Tỷ lệ thu nhỏ thấp nhất</ForZoomedOutPercent>
+	<Exponentiality>Tốc độ phóng to theo cấp số nhân</Exponentiality>
+	<SoundNearness>Kéo gần âm thanh từ xa</SoundNearness>
+	<HotKeys>Phím tắt</HotKeys>
+	<RulesStart>Quy tắc (dành cho trò chơi mới)</RulesStart>
+	<RulesGame>Quy tắc (theo lưu trò chơi)</RulesGame>
+	<SettingsKey>Cài đặt Camera+</SettingsKey>
+	<LoadModifier>Tải chế độ xem</LoadModifier>
+	<SaveModifier>Lưu chế độ xem</SaveModifier>
+	<DollyPercentLabel>Tốc độ cuộn</DollyPercentLabel>
+	<ScreenEdgeDollyFrictionLabel>Hệ số ma sát cuộn biên</ScreenEdgeDollyFrictionLabel>
+	<HideNamesWhenZoomedOut>Ẩn nhãn khi thu nhỏ</HideNamesWhenZoomedOut>
+	<Pixel>Điểm ảnh</Pixel>
+	<HidePawnLabelBelow>Ẩn nhãn quân cờ dưới đây:</HidePawnLabelBelow>
+	<HideThingLabelBelow>Ẩn nhãn chồng chất dưới đây:</HideThingLabelBelow>
+	<HideDeadPawnsBelow>Ẩn quân cờ đã chết dưới đây:</HideDeadPawnsBelow>
+	<ShowMarkerBelow>Hiển thị dưới đây như một đánh dấu:</ShowMarkerBelow>
+	<DotStyle>Phong cách điểm {0}</DotStyle>
+	<VanillaDefault>Mặc định gốc</VanillaDefault>
+	<ClassicDots>Điểm Camera+</ClassicDots>
+	<BetterSilhouettes>Hình dáng Camera+</BetterSilhouettes>
+	<Animals>Động vật</Animals>
+	<IncludeAnimals>Động vật có cùng đánh dấu</IncludeAnimals>
+	<AnimalsDifferent>Động vật có đánh dấu khác nhau</AnimalsDifferent>
+	<HideAnimals>Động vật không có đánh dấu</HideAnimals>
+	<IncludeNotTamedAnimals>Bao gồm động vật chưa thuần hóa</IncludeNotTamedAnimals>
+	<ZoomToMouse>Phóng to đến chuột</ZoomToMouse>
+	<DisableCameraShake>Vô hiệu hóa rung camera</DisableCameraShake>
+	<MouseRevealsLabels>Chuột hiển thị nhãn {0}</MouseRevealsLabels>
+	<EdgeIndicators>Chỉ thị biên {0}</EdgeIndicators>
+	<KeyLeftShift>Shift trái</KeyLeftShift>
+	<KeyLeftAlt>Alt trái</KeyLeftAlt>
+	<KeyLeftControl>Ctrl trái</KeyLeftControl>
+	<KeyLeftCommand>Cmd trái</KeyLeftCommand>
+	<KeyLeftWindows>Win trái</KeyLeftWindows>
+	<KeyRightShift>Shift phải</KeyRightShift>
+	<KeyRightAlt>Alt phải</KeyRightAlt>
+	<KeyRightControl>Ctrl phải</KeyRightControl>
+	<KeyRightCommand>Cmd phải</KeyRightCommand>
+	<KeyRightWindows>Win phải</KeyRightWindows>
+	<DotSilhouetteSize>Kích thước điểm/hình dáng</DotSilhouetteSize>
+	<EdgeDotSize>Kích thước điểm biên</EdgeDotSize>
+	<EdgeDistanceFactor>Khoảng cách biên</EdgeDistanceFactor>
+	<OutlineSize>Chiều rộng hình dáng</OutlineSize>
+	<Outline>Hình dáng</Outline>
+	<Fill>Điền</Fill>
+	<Selected>Đã chọn</Selected>
+	<NewCondition>Thêm điều kiện mới</NewCondition>
+	<LoadCustomization>Tải cài đặt tùy chỉnh</LoadCustomization>
+	<SaveCustomization>Lưu cài đặt tùy chỉnh</SaveCustomization>
+	<Opposite>Đối diện</Opposite>
+	<Duplicate>Nhân bản</Duplicate>
+	<TagCategoryType>Loại</TagCategoryType>
+	<TagCategoryAttribute>Thuộc tính</TagCategoryAttribute>
+	<TagCategoryText>Tên gọi</TagCategoryText>
+	<ColumnConditions>Quy tắc phong cách điểm</ColumnConditions>
+	<ColumnMode>Chế độ</ColumnMode>
+	<ColumnColors>Màu sắc</ColumnColors>
+	<ColumnMap>Bản đồ</ColumnMap>
+	<ColumnEdge>Biên</ColumnEdge>
+	<ColumnMouseReveal>Hiển thị chuột</ColumnMouseReveal>
+	<ColumnShowBelow>Hiển thị dưới đây</ColumnShowBelow>
+	<ColumnSize>Kích thước</ColumnSize>
+	<ColumnOutline>Hình dáng</ColumnOutline>
+	<OverwriteRuleSingular>(Bị {0} quy tắc ghi đè)</OverwriteRuleSingular>
+	<OverwriteRulePlural>(Bị {0} quy tắc ghi đè)</OverwriteRulePlural>
+</LanguageData>

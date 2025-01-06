@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BM_MinHandlingLevel_Title>Cấp độ thuần hóa tối thiểu cần thiết để cưỡi (Giá trị tối thiểu: {0} Giá trị tối đa: {1} Giá trị mặc định: {2} Giá trị hiện tại: {3})</BM_MinHandlingLevel_Title>
+	<BM_MinHandlingLevel_Description>Chỉ có những kẻ thù và khách có cấp độ thuần hóa đạt yêu cầu mới có thể cưỡi thú.</BM_MinHandlingLevel_Description>
+	<BM_InBiomeWeight_Title>Tỷ lệ kẻ thù cưỡi động vật trong sinh cảnh hiện tại (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</BM_InBiomeWeight_Title>
+	<BM_InBiomeWeight_Description>Động vật mà kẻ thù cưỡi có nguồn gốc từ sinh cảnh hiện tại.</BM_InBiomeWeight_Description>
+	<BM_OutBiomeWeight_Title>Tỷ lệ kẻ thù cưỡi động vật ở bất kỳ sinh cảnh nào (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</BM_OutBiomeWeight_Title>
+	<BM_OutBiomeWeight_Description>Động vật mà kẻ thù cưỡi có nguồn gốc từ bất kỳ sinh cảnh nào.</BM_OutBiomeWeight_Description>
+	<BM_NonWildWeight_Title>Tỷ lệ cưỡi động vật đã thuần hóa (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</BM_NonWildWeight_Title>
+	<BM_NonWildWeight_Description>Động vật mà kẻ thù cưỡi có nguồn gốc từ danh sách “động vật không hoang dã” được định nghĩa trong “giới hạn phe”.</BM_NonWildWeight_Description>
+	<BM_EnemyMountChance_Title>Tỷ lệ cưỡi của kẻ thù (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</BM_EnemyMountChance_Title>
+	<BM_EnemyMountChance_Description>Tỷ lệ kẻ thù cưỡi trong cuộc tấn công.</BM_EnemyMountChance_Description>
+	<BM_EnemyMountChanceTribal_Title>Tỷ lệ cưỡi của kẻ thù bộ lạc (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</BM_EnemyMountChanceTribal_Title>
+	<BM_EnemyMountChanceTribal_Description>Tỷ lệ kẻ thù bộ lạc cưỡi trong cuộc tấn công.</BM_EnemyMountChanceTribal_Description>
+	<BM_SizeOk>Có thể cưỡi</BM_SizeOk>
+	<BM_SizeNotOk>Không thể cưỡi</BM_SizeNotOk>
+	<BM_DrawFront>Hình ảnh động vật ở phía trước</BM_DrawFront>
+	<BM_DrawBack>Hình ảnh người nhỏ ở phía trước</BM_DrawBack>
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GUC_StatPart_Mounted>Đã cưỡi</GUC_StatPart_Mounted>
+	<GUC_StatPart_MountMoveSpeed>Tốc độ di chuyển của thú cưỡi</GUC_StatPart_MountMoveSpeed>
+	<GUC_StatPart_HandlingMultiplier>Hệ số kỹ năng thuần hóa của người cưỡi</GUC_StatPart_HandlingMultiplier>
+	<GUC_StatPart_HandlingSkill>Kỹ năng thuần hóa của người cưỡi</GUC_StatPart_HandlingSkill>
+	<GUC_StatPart_SkillReq>Yêu cầu kỹ năng thuần hóa</GUC_StatPart_SkillReq>
+	<GUC_StatPart_LevelsAbove>Cấp độ vượt quá yêu cầu kỹ năng</GUC_StatPart_LevelsAbove>
+	<GUC_StatPart_HandlingMovementImpact>Tác động về tốc độ ở mỗi cấp</GUC_StatPart_HandlingMovementImpact>
+	<GUC_StatPart_MountTypeMultiplier>Hệ số loại thú cưỡi</GUC_StatPart_MountTypeMultiplier>
+	<GUC_HandlingAccuracyImpact_Title>Tác động của kỹ năng thuần hóa đến độ chính xác bắn ở mỗi cấp (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GUC_HandlingAccuracyImpact_Title>
+	<GUC_HandlingAccuracyImpact_Description>Nếu kỹ năng thuần hóa của người nhỏ thấp hơn mức cần thiết của động vật, mỗi cấp sẽ bị phạt tương ứng, ngược lại, mỗi cấp sẽ nhận phần thưởng tương ứng.</GUC_HandlingAccuracyImpact_Description>
+	<GUC_HandlingMovementImpact_Title>Tác động của kỹ năng thuần hóa đến tốc độ di chuyển ở mỗi cấp (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GUC_HandlingMovementImpact_Title>
+	<GUC_HandlingMovementImpact_Description>Nếu kỹ năng thuần hóa của người nhỏ thấp hơn mức cần thiết của động vật, mỗi cấp sẽ bị phạt tương ứng, ngược lại, mỗi cấp sẽ nhận phần thưởng tương ứng.</GUC_HandlingMovementImpact_Description>
+	<GUC_AccuracyPenalty_Title>Hình phạt về độ chính xác bắn khi cưỡi (Giá trị tối thiểu: {0}% Giá trị tối đa: {1}% Giá trị mặc định: {2}% Giá trị hiện tại: {3}%)</GUC_AccuracyPenalty_Title>
+	<GUC_AccuracyPenalty_Description>Hình phạt về độ chính xác bắn khi người nhỏ cưỡi.</GUC_AccuracyPenalty_Description>
+	<GUC_BodySizeFilter_Title>Lọc theo kích thước cơ thể (Giá trị tối thiểu: {0} Giá trị tối đa: {1} Giá trị mặc định: {2} Giá trị hiện tại: {3})</GUC_BodySizeFilter_Title>
+	<GUC_BodySizeFilter_Description>Lọc động vật có thể cưỡi theo kích thước cơ thể.</GUC_BodySizeFilter_Description>
+	<GUC_CannotMount>Không thể cưỡi: </GUC_CannotMount>
+	<GUC_NotInModOptions>Động vật chưa được thiết lập là có thể cưỡi</GUC_NotInModOptions>
+	<GUC_AnimalBusy>Động vật đang bận</GUC_AnimalBusy>
+	<GUC_NotFullyGrown>Động vật chưa trưởng thành</GUC_NotFullyGrown>
+	<GUC_NeedsObedience>Động vật cần được huấn luyện</GUC_NeedsObedience>
+	<GUC_IsPoorCondition>Động vật sức khỏe kém</GUC_IsPoorCondition>
+	<GUC_IsRoped>Động vật đang bị kéo</GUC_IsRoped>
+	<GUC_Mount>Cưỡi</GUC_Mount>
+	<GUC_Mount_GodMode>Cưỡi (chế độ thần)</GUC_Mount_GodMode>
+	<GUC_Dismount>Ngừng cưỡi và buộc lại</GUC_Dismount>
+	<GUC_DismountWithoutHitching>Ngừng cưỡi</GUC_DismountWithoutHitching>
+	<GUC_SwitchMount>Thay đổi thú cưỡi</GUC_SwitchMount>
+	<GUC_Mountable_Tab>Động vật có thể cưỡi</GUC_Mountable_Tab>
+	<GUC_DrawBehavior_Tab>Hành vi vẽ</GUC_DrawBehavior_Tab>
+	<GUC_DrawBehavior_Description>Bất kỳ động vật nào được chọn sẽ chuyển đổi hành vi hiển thị của nó: vẽ trước người nhỏ.</GUC_DrawBehavior_Description>
+	<GUC_Core_Tab>Core</GUC_Core_Tab>
+	<GUC_RnR_Tab>Cưỡi và Lăn</GUC_RnR_Tab>
+	<GUC_BattleMounts_Tab>Thú cưỡi chiến đấu</GUC_BattleMounts_Tab>
+	<GUC_Caravans_Tab>Đoàn xe</GUC_Caravans_Tab>
+	<GU_Enable_RnR>Bật mô-đun Cưỡi và Lăn</GU_Enable_RnR>
+	<GU_Enable_RnR_Description>Vô hiệu hóa mô-đun này sẽ xóa các chức năng liên quan đến việc người nhỏ sử dụng thú cưỡi để di chuyển trên bản đồ vì tiện lợi hoặc công việc. Thay đổi cài đặt này cần khởi động lại.</GU_Enable_RnR_Description>
+	<GU_Enable_BattleMounts>Bật mô-đun Thú cưỡi chiến đấu</GU_Enable_BattleMounts>
+	<GU_Enable_BattleMounts_Description>Vô hiệu hóa mô-đun này sẽ xóa các chức năng liên quan đến việc người nhỏ (bao gồm cả thuộc địa và kẻ thù) sử dụng động vật làm thú cưỡi chiến đấu. Thay đổi cài đặt này cần khởi động lại.</GU_Enable_BattleMounts_Description>
+	<GU_Enable_Caravans>Bật mô-đun Đoàn xe</GU_Enable_Caravans>
+	<GU_Enable_Caravans_Description>Vô hiệu hóa mô-đun này sẽ xóa các chức năng liên quan đến việc người nhỏ (bao gồm cả thuộc địa và khách) cưỡi động vật khi ra vào bản đồ. Thay đổi cài đặt này cần khởi động lại.</GU_Enable_Caravans_Description>
+<GU_Reset_Cache>Đặt lại bộ nhớ đệm độ lệch</GU_Reset_Cache>
+<GU_Car_TooYoung>Tuổi quá nhỏ</GU_Car_TooYoung>
+<GU_IncompatibleEquipment>Thiết bị không tương thích</GU_IncompatibleEquipment>
+<GU_CannotRide>Người cưỡi không thể cưỡi</GU_CannotRide>
+<GUC_TooHeavy>Quá nặng</GUC_TooHeavy>
+</LanguageData>

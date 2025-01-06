@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SS_EventSpeed>Tốc độ sự kiện</SS_EventSpeed>
+	<EventSpeedLabel>Thay đổi tốc độ sự kiện</EventSpeedLabel>
+	<SS_Slow>Chậm (nửa tốc độ bình thường)</SS_Slow>
+	<SS_Normal>Bình thường</SS_Normal>
+	<SS_Fast>Nhanh (gấp đôi tốc độ bình thường)</SS_Fast>
+	<SS_Half>Nửa tốc độ hiện tại</SS_Half>
+	<SS_Ignore>Bỏ qua (không giảm tốc độ)</SS_Ignore>
+	<SS_normalSpeed>Tốc độ bình thường (tốc độ 1)</SS_normalSpeed>
+	<SS_normalSpeedTooltip>Hệ số cho tốc độ bình thường. Mặc định là 1, tương đương với 60 tick mỗi giây.</SS_normalSpeedTooltip>
+	<SS_fastSpeed>Tốc độ nhanh (tốc độ 2)</SS_fastSpeed>
+	<SS_fastSpeedTooltip>Hệ số cho tốc độ nhanh. Mặc định là 3, tương đương với 180 tick mỗi giây.</SS_fastSpeedTooltip>
+	<SS_superfastSpeed>Tốc độ siêu nhanh (tốc độ 3)</SS_superfastSpeed>
+	<SS_superfastSpeedTooltip>Hệ số cho tốc độ siêu nhanh. Mặc định là 6, tương đương với 360 tick mỗi giây.</SS_superfastSpeedTooltip>
+	<SS_ultrafastSpeed>Tốc độ cực nhanh (tốc độ 4)</SS_ultrafastSpeed>
+	<SS_ultrafastSpeedTooltip>Hệ số cho tốc độ cực nhanh. Mặc định là 15, tương đương với 900 tick mỗi giây. Hãy nhớ rằng đây không phải là phép màu. Nếu máy tính của bạn có thể xử lý 8000 tick mỗi giây, nó sẽ làm như vậy. Nếu không, nó sẽ bị giới hạn.</SS_ultrafastSpeedTooltip>
+	<SS_Reset>Đặt lại</SS_Reset>
+</LanguageData>

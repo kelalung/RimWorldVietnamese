@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AllowDesignator.label>Đánh dấu cho phép</AllowDesignator.label>
+	<AllowDesignator.description>Cho phép những người định cư tương tác với tất cả các vật phẩm trong khu vực đã chọn. Nhấn và kéo để sử dụng.</AllowDesignator.description>
+	<ForbidDesignator.label>Đánh dấu cấm</ForbidDesignator.label>
+	<ForbidDesignator.description>Cấm những người định cư tương tác với tất cả các vật phẩm trong khu vực đã chọn. Nhấn và kéo để sử dụng.</ForbidDesignator.description>
+	<AllowAllDesignator.label>Cho phép toàn bản đồ</AllowAllDesignator.label>
+	<AllowAllDesignator.description>Đánh dấu tất cả các vật phẩm bị cấm trên bản đồ là cho phép tương tác. Nhấn để kích hoạt. Giữ Ctrl/Option để bao gồm các công trình. Giữ Shift để bao gồm xác chết và xác thối.</AllowAllDesignator.description>
+	<SelectSimilarDesignator.label>Chọn tương tự</SelectSimilarDesignator.label>
+	<SelectSimilarDesignator.description>Chọn những vật phẩm tương tự với vật phẩm đã chọn. Giữ Shift để chọn thêm các vật phẩm. Giữ Alt để bỏ qua giới hạn số lượng chọn.</SelectSimilarDesignator.description>
+	<HaulUrgentlyDesignator.label>Vận chuyển khẩn cấp</HaulUrgentlyDesignator.label>
+	<HaulUrgentlyDesignator.description>Đánh dấu vật phẩm là ưu tiên vận chuyển hàng đầu, những người định cư sẽ hoãn lại các công việc khác cho đến khi vận chuyển xong. Có thể thiết lập trong thẻ công việc. Giữ Shift để ngắt công việc hiện tại của người định cư.</HaulUrgentlyDesignator.description>
+	<FinishOffDesignator.label>Giết đơn vị</FinishOffDesignator.label>
+	<FinishOffDesignator.description>Giết nhanh chóng và không đau đớn các đơn vị đã ngã. Giữ Shift để bao gồm những người định cư và đồng minh.</FinishOffDesignator.description>
+</LanguageData>

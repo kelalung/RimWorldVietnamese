@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Allow_area_success>Đã thiết lập cho phép {0} vật phẩm.</Allow_area_success>
+	<Allow_area_failure>Không tìm thấy vật phẩm bị cấm.</Allow_area_failure>
+	<Forbid_area_success>Đã thiết lập cấm {0} vật phẩm.</Forbid_area_success>
+	<Forbid_area_failure>Không tìm thấy vật phẩm chưa bị cấm.</Forbid_area_failure>
+	<Allow_all_success>Đã thiết lập cho phép toàn bộ bản đồ {0} vật phẩm.</Allow_all_success>
+	<Allow_all_failure>Không tìm thấy vật phẩm bị cấm.</Allow_all_failure>
+	<Mass_Select_success>Đã chọn {0} {1} trên toàn bản đồ.</Mass_Select_success>
+	<setting_showTool_label>Hiển thị công cụ: {0}</setting_showTool_label>
+	<setting_showTool_desc>Khi bật, công cụ đánh dấu này sẽ hiển thị trong menu xây dựng.</setting_showTool_desc>
+	<setting_globalHotkeys_label>Sử dụng phím tắt toàn cầu</setting_globalHotkeys_label>
+	<setting_globalHotkeys_desc>Khi bật, nhấn phím tắt tương ứng sẽ chọn công cụ tương ứng bất cứ lúc nào.\nCó thể sửa đổi phím tắt tương ứng trong 「Tùy chọn」&gt;「Cài đặt phím」.</setting_globalHotkeys_desc>
+	<setting_selectionLimit_label>Giới hạn số lượng vật phẩm được chọn</setting_selectionLimit_label>
+	<setting_selectionLimit_desc>Công cụ 「Chọn tương tự」 có giới hạn số lượng vật phẩm có thể chọn cùng lúc. Cài đặt quá cao có thể khiến trò chơi bị lag khi chọn vật phẩm.</setting_selectionLimit_desc>
+	<setting_contextWatermark_label>Watermark menu chuột phải</setting_contextWatermark_label>
+	<setting_contextWatermark_desc>Khi bật, sẽ hiển thị watermark cho công cụ cho phép (AllowTool) trong menu chuột phải của công cụ.</setting_contextWatermark_desc>
+	<setting_contextOverlay_label>Biểu tượng công cụ chuột phải</setting_contextOverlay_label>
+	<setting_contextOverlay_desc>Khi bật, sẽ hiển thị một biểu tượng nhỏ trên các công cụ có menu chuột phải.</setting_contextOverlay_desc>
+	<setting_extendedContextHotkey_label>Phím tắt mở rộng cho menu chuột phải</setting_extendedContextHotkey_label>
+	<setting_extendedContextHotkey_desc>Khi không chọn công cụ, phím tắt cho menu chuột phải sẽ mở menu chuột phải của công cụ đầu tiên có thể nhìn thấy khi chọn vật phẩm.</setting_extendedContextHotkey_desc>
+	<setting_reverseDesignatorPick_label>Chọn công cụ từ các vật phẩm đã chọn</setting_reverseDesignatorPick_label>
+	<setting_reverseDesignatorPick_desc>Khi có vật phẩm được chọn, giữ phím Shift và nhấp vào một công cụ có thể thay thế lệnh đã đánh dấu.</setting_reverseDesignatorPick_desc>
+	<setting_finishOffUnforbids_label>“Giết đơn vị” không cấm tương tác</setting_finishOffUnforbids_label>
+	<setting_finishOffUnforbids_desc>Khi bật, các xác và vật phẩm rơi ra khi sinh vật bị giết sẽ tự động cho phép vận chuyển.</setting_finishOffUnforbids_desc>
+	<setting_providerPrefix>Bật: {0}</setting_providerPrefix>
+	<setting_provider_desc>Khi bật, sẽ thêm một menu chuột phải có thể ảnh hưởng đến toàn bộ bản đồ cho công cụ.</setting_provider_desc>
+	<setting_showToggles_btn>▼ Hiển thị cài đặt ▼</setting_showToggles_btn>
+	<setting_showToolToggles_label>Bật hoặc tắt công cụ</setting_showToolToggles_label>
+	<setting_showProviderToggles_label>Bật hoặc tắt menu chuột phải</setting_showProviderToggles_label>
+	<setting_showReverseToggles_label>Công cụ áp dụng cho các vật phẩm đã chọn</setting_showReverseToggles_label>
+	<setting_reverseDesignator_desc>Khi bật, các công cụ hỗ trợ sẽ hiển thị trên các vật phẩm đã chọn. Chỉ có hiệu lực sau khi tải lưu hoặc tạo trò chơi.</setting_reverseDesignator_desc>
+	<setting_haulUrgentlyWorktype_label>Hiển thị loại công việc “Vận chuyển+”</setting_haulUrgentlyWorktype_label>
+	<setting_haulUrgentlyWorktype_desc>Khi bật, sẽ hiển thị loại công việc “Vận chuyển khẩn cấp” trong thẻ công việc.\nCài đặt này phải khởi động lại trò chơi mới có hiệu lực.</setting_haulUrgentlyWorktype_desc>
+	<setting_finishOffWorktype_label>Hiển thị loại công việc “Giết”</setting_finishOffWorktype_label>
+	<setting_finishOffWorktype_desc>Khi bật, sẽ hiển thị loại công việc “Giết đơn vị” trong thẻ công việc.\nCài đặt này phải khởi động lại trò chơi mới có hiệu lực.</setting_finishOffWorktype_desc>
+	<setting_finishOffSkill_label>Yêu cầu kỹ năng “Giết đơn vị”</setting_finishOffSkill_label>
+	<setting_finishOffSkill_desc>Công cụ “Giết đơn vị” yêu cầu người thực hiện có kỹ năng chiến đấu đủ cao.</setting_finishOffSkill_desc>
+	<setting_replaceIcons_label>Thay thế biểu tượng cấm/cho phép</setting_replaceIcons_label>
+	<setting_replaceIcons_desc>Thay thế biểu tượng công cụ cấm và cho phép bằng biểu tượng rõ ràng hơn.\nCần khởi động lại trò chơi để cài đặt này có hiệu lực.</setting_replaceIcons_desc>
+	<setting_partyHunt_label>Công cụ săn mời</setting_partyHunt_label>
+	<setting_partyHunt_desc>Khi bật, sẽ hiển thị nút “Săn mời” cho những người định cư được mời</setting_partyHunt_desc>
+	<setting_partyHuntFinish_label>Giết động vật đã ngã</setting_partyHuntFinish_label>
+	<setting_partyHuntDesignated_label>Chỉ săn động vật được chỉ định</setting_partyHuntDesignated_label>
+	<setting_partyHuntUnforbid_label>Unforbid prey</setting_partyHuntUnforbid_label>
+	<setting_storageSpaceAlert_label>Cảnh báo không gian lưu trữ</setting_storageSpaceAlert_label>
+	<setting_storageSpaceAlert_desc>Khi có vật phẩm được đánh dấu là vận chuyển khẩn cấp nhưng không có chỗ để lưu trữ, bạn sẽ nhận được thông báo cảnh báo.</setting_storageSpaceAlert_desc>
+	<SelectSimilar_cursor_needConstraint>Nhấp để đánh dấu vật phẩm</SelectSimilar_cursor_needConstraint>
+	<SelectSimilar_cursor_nowSelecting>Kéo để chỉ chọn: {0}</SelectSimilar_cursor_nowSelecting>
+	<SelectSimilar_cursor_limit>Đã đạt giới hạn số lượng chọn</SelectSimilar_cursor_limit>
+	<SelectSimilar_numMoreTypes>（Còn {0} loại）</SelectSimilar_numMoreTypes>
+	<Haul_urgently_success>Đã đánh dấu {0} vật phẩm là vận chuyển khẩn cấp.</Haul_urgently_success>
+	<Haul_urgently_failure>Không có vật phẩm nào cần vận chuyển.</Haul_urgently_failure>
+	<Harvest_fully_grown_success>{0} cây hoàn toàn trưởng thành đã được đánh dấu để thu hoạch.</Harvest_fully_grown_success>
+	<Harvest_fully_grown_failure>Không tìm thấy cây hoàn toàn trưởng thành nào mới.</Harvest_fully_grown_failure>
+	<StripMine_win_horizontalSpacing>Khoảng cách ngang</StripMine_win_horizontalSpacing>
+	<StripMine_win_verticalSpacing>Khoảng cách dọc</StripMine_win_verticalSpacing>
+	<StripMine_win_showWindow>Hiển thị cửa sổ này</StripMine_win_showWindow>
+	<StripMine_win_showWindow_tip>Tắt để tự động sử dụng các cài đặt này lần sau.\nGiữ phím Shift để hiển thị cửa sổ này lần nữa.</StripMine_win_showWindow_tip>
+	<StripMine_win_variableOffset>Offset lưới biến thiên</StripMine_win_variableOffset>
+	<StripMine_win_variableOffset_tip>Khi bật, lưới sẽ mở rộng từ điểm bắt đầu của lựa chọn. Nếu không, các đường lưới sẽ luôn đi qua cùng một ô, bất kể lựa chọn bắt đầu từ đâu.</StripMine_win_variableOffset_tip>
+	<StripMine_cursor_autoApply>Áp dụng ngay lập tức</StripMine_cursor_autoApply>
+	<Alert_noStorage_label>Không có không gian lưu trữ</Alert_noStorage_label>
+	<Alert_noStorage_desc>Các vật phẩm được đánh dấu là vận chuyển khẩn cấp không có chỗ để lưu trữ:\n{0}\n\nHủy bỏ chỉ định hoặc giải phóng một số không gian lưu trữ.\nCó thể tắt trong tùy chọn &gt; Cài đặt Mod.</Alert_noStorage_desc>
+	<Finish_off_skillRequired>Yêu cầu kỹ năng chiến đấu của người định cư đạt {0} cấp trở lên để sử dụng.</Finish_off_skillRequired>
+	<Finish_off_pawnSkillRequired>Yêu cầu kỹ năng chiến đấu {0} cấp</Finish_off_pawnSkillRequired>
+	<Finish_off_success>Đã đánh dấu {0} mục tiêu.</Finish_off_success>
+	<Finish_off_failure>Không tìm thấy đơn vị nào hợp lệ đã ngã.</Finish_off_failure>
+	<Finish_off_floatMenu>Giết {0}</Finish_off_floatMenu>
+	<Finish_off_floatMenu_reason_friendly>Bạn bè, giữ phím Shift</Finish_off_floatMenu_reason_friendly>
+<!--	<HarvestFullyGrown_cursorTip>Chỉ chọn cây hoàn toàn trưởng thành</HarvestFullyGrown_cursorTip>-->
+<!--	<ChopFullyGrown_cursorTip>Chỉ chọn cây hoàn toàn trưởng thành</ChopFullyGrown_cursorTip>-->
+	<!--<RearmUrgently_cursorTip>Chọn đặt lại bẫy khẩn cấp</RearmUrgently_cursorTip>-->
+	<Designator_context_similar>Chọn các vật phẩm tương tự trên bản đồ.</Designator_context_similar>
+	<Designator_context_similar_succ>Đã chọn {0} vật phẩm tương tự trên bản đồ.</Designator_context_similar_succ>
+	<Designator_context_similar_part>Đã chọn {0} trong số {1} vật phẩm tương tự trên bản đồ.</Designator_context_similar_part>
+	<Designator_context_similar_fail>Phải chọn một vật phẩm nào đó trước khi chọn vật phẩm tương tự.</Designator_context_similar_fail>
+	<Designator_context_similar_visible>Chọn các vật phẩm tương tự trong khu vực có thể nhìn thấy</Designator_context_similar_visible>
+	<Designator_context_similar_visible_succ>Đã chọn {0} vật phẩm tương tự có thể nhìn thấy.</Designator_context_similar_visible_succ>
+	<Designator_context_similar_visible_part>Đã chọn {0} vật phẩm tương tự gần nhất có thể nhìn thấy trong số {1}.</Designator_context_similar_visible_part>
+	<Designator_context_similar_home>Chọn các vật phẩm tương tự trong khu vực sinh sống</Designator_context_similar_home>
+	<Designator_context_similar_home_succ>Đã chọn {0} vật phẩm tương tự trong khu vực sinh sống.</Designator_context_similar_home_succ>
+	<Designator_context_similar_home_part>Đã chọn {0} vật phẩm tương tự gần nhất trong số {1} trong khu vực sinh sống.</Designator_context_similar_home_part>
+	<Designator_context_urgent>Vận chuyển khẩn cấp tất cả các vật phẩm.</Designator_context_urgent>
+	<Designator_context_urgent_visible>Vận chuyển khẩn cấp các vật phẩm có thể nhìn thấy.</Designator_context_urgent_visible>
+	<Designator_context_urgent_all>Vận chuyển khẩn cấp tất cả các vật phẩm trên bản đồ.</Designator_context_urgent_all>
+	<Designator_context_urgent_succ>Đã đánh dấu {0} vật phẩm là vận chuyển khẩn cấp.</Designator_context_urgent_succ>
+	<Designator_context_urgent_visible_succ>Đã đánh dấu {0} vật phẩm có thể nhìn thấy là vận chuyển khẩn cấp.</Designator_context_urgent_visible_succ>
+	<Designator_context_urgent_fail>Không còn vật phẩm nào khác có thể vận chuyển.</Designator_context_urgent_fail>
+	<Designator_context_strip>Tháo bỏ tất cả các kẻ thù.</Designator_context_strip>
+	<Designator_context_strip_succ>Đã đánh dấu {0} xác chết để tháo bỏ.</Designator_context_strip_succ>
+	<Designator_context_strip_fail>Không có xác chết nào có thể tháo bỏ.</Designator_context_strip_fail>
+<!--	<Designator_context_rearm>Đặt lại bẫy khẩn cấp</Designator_context_rearm>
+	<Designator_context_rearmAll>Đặt lại tất cả bẫy khẩn cấp</Designator_context_rearmAll>
+	<Designator_context_rearmAll_succ>Đã chỉ định {0} bẫy để đặt lại khẩn cấp.</Designator_context_rearmAll_succ>
+	<Designator_context_rearmAll_fail>Hiện không có bẫy nào cần đặt lại.</Designator_context_rearmAll_fail>-->
+	<Designator_context_harvest>Thu hoạch tất cả cây cối.</Designator_context_harvest>
+	<Designator_context_harvest_home>Thu hoạch cây cối trong khu vực sinh sống</Designator_context_harvest_home>
+	<Designator_context_harvest_succ>Đã đánh dấu {0} cây để thu hoạch.</Designator_context_harvest_succ>
+	<Designator_context_harvest_fail>Không còn cây nào khác có thể thu hoạch.</Designator_context_harvest_fail>
+	<Designator_context_haul>Vận chuyển tất cả vật phẩm.</Designator_context_haul>
+	<Designator_context_haul_succ>Đã đánh dấu {0} vật phẩm mới để vận chuyển.</Designator_context_haul_succ>
+	<Designator_context_haul_fail>Không còn vật phẩm nào khác có thể vận chuyển.</Designator_context_haul_fail>
+	<Designator_context_chop>Chặt tất cả cây cối.</Designator_context_chop>
+	<Designator_context_chop_home>Chặt tất cả cây cối trong khu vực sinh sống.</Designator_context_chop_home>
+	<Designator_context_chop_succ>Đã đánh dấu {0} cây để chặt.</Designator_context_chop_succ>
+	<Designator_context_chop_fail>Khu vực này không còn cây nào khác có thể thu hoạch.</Designator_context_chop_fail>
+	<Designator_context_hunt>Săn tất cả động vật.</Designator_context_hunt>
+	<Designator_context_hunt_succ>Đã đánh dấu {0} động vật để săn.</Designator_context_hunt_succ>
+	<Designator_context_hunt_fail>Khu vực này hiện không còn động vật nào khác có thể săn.</Designator_context_hunt_fail>
+	<Designator_context_mine>Khai thác khoáng sản liên kết.</Designator_context_mine>
+	<Designator_context_mine_succ>Đã đánh dấu {0} khối khoáng sản bổ sung để khai thác.</Designator_context_mine_succ>
+	<Designator_context_mine_fail>Sử dụng lệnh này để đánh dấu khai thác hơn một khối khoáng sản.</Designator_context_mine_fail>
+	<Designator_context_mine_selectStripMine>Chọn công cụ "Strip mine"</Designator_context_mine_selectStripMine>
+	<Designator_context_cancel_build>Hủy bỏ tất cả bản vẽ xây dựng.</Designator_context_cancel_build>
+	<Designator_context_cancel_build_succ>Đã xóa {0} bản vẽ xây dựng.</Designator_context_cancel_build_succ>
+	<Designator_context_cancel_build_fail>Không còn bản vẽ nào khác có thể xóa.</Designator_context_cancel_build_fail>
+	<Designator_context_cancel_desig>Hủy bỏ tất cả lệnh trên bản đồ.</Designator_context_cancel_desig>
+	<Designator_context_cancel_desig_msg>Đã xóa {0} lệnh vật phẩm và {1} lệnh địa hình trên bản đồ.</Designator_context_cancel_desig_msg>
+	<Designator_context_cancel_selected>Hủy bỏ tất cả loại này</Designator_context_cancel_selected>
+	<Designator_context_cancel_selected_succ>Đã hủy bỏ {0} lệnh trên {1} vật phẩm.</Designator_context_cancel_selected_succ>
+	<Designator_context_cancel_selected_fail>Chọn một lệnh để hủy bỏ tất cả lệnh loại đó.</Designator_context_cancel_selected_fail>
+	<Designator_context_finish>Giết tất cả đơn vị đã ngã</Designator_context_finish>
+	<Designator_context_finish_succ>Đã đánh dấu {0} đơn vị để giết.</Designator_context_finish_succ>
+	<Designator_context_finish_allies>Đã đánh dấu {0} đơn vị để giết, bao gồm cả đồng minh.</Designator_context_finish_allies>
+	<Designator_context_finish_fail>Không tìm thấy đơn vị nào hợp lệ đã ngã.</Designator_context_finish_fail>
+	<Designator_context_cut>Cắt bỏ tất cả cây cối bị nhiễm bệnh héo.</Designator_context_cut>
+	<Designator_context_cut_succ>Đã cắt bỏ {0} cây bị nhiễm bệnh héo đã chỉ định.</Designator_context_cut_succ>
+	<Designator_context_cut_fail>Không còn cây nào khác bị nhiễm bệnh héo cần cắt bỏ.</Designator_context_cut_fail>
+	<Designator_context_harvest_fullgrown>Thu hoạch cây hoàn toàn trưởng thành trên bản đồ</Designator_context_harvest_fullgrown>
+	<Designator_context_harvest_home_fullgrown>Thu hoạch cây hoàn toàn trưởng thành trong khu vực sinh sống</Designator_context_harvest_home_fullgrown>
+	<Designator_context_harvest_fullgrown_succ>{0} cây hoàn toàn trưởng thành đã được chỉ định để thu hoạch.</Designator_context_harvest_fullgrown_succ>
+	<Designator_context_harvest_fullgrown_fail>Không tìm thấy cây hoàn toàn trưởng thành nào mới để thu hoạch.</Designator_context_harvest_fullgrown_fail>
+	<Designator_context_allow_visible>Cho phép tất cả các vật phẩm có thể nhìn thấy</Designator_context_allow_visible>
+	<Designator_context_allow_visible_succ>Đã cho phép {0} vật phẩm có thể nhìn thấy.</Designator_context_allow_visible_succ>
+	<Designator_context_allow_visible_fail>Không tìm thấy vật phẩm bị cấm nào có thể nhìn thấy để cho phép.</Designator_context_allow_visible_fail>
+	<Designator_context_forbid_visible>Cấm tất cả các vật phẩm có thể nhìn thấy</Designator_context_forbid_visible>
+	<Designator_context_forbid_visible_succ>Đã cấm {0} vật phẩm có thể nhìn thấy.</Designator_context_forbid_visible_succ>
+<!--	<Designator_context_harvestFullyGrown>Chỉ thu hoạch cây hoàn toàn trưởng thành</Designator_context_harvestFullyGrown>
+	<Designator_context_chopFullyGrown>Chỉ chặt cây hoàn toàn trưởng thành</Designator_context_chopFullyGrown>
+	<Designator_context_fullyGrown_desc>Cây chưa hoàn toàn trưởng thành sẽ sản xuất ít tài nguyên hơn.</Designator_context_fullyGrown_desc>-->
+	<Designator_context_forbid_visible_fail>Không tìm thấy vật phẩm nào có thể nhìn thấy để cấm.</Designator_context_forbid_visible_fail>
+	<PartyHuntToggle_label>Săn mời</PartyHuntToggle_label>
+	<PartyHuntToggle_desc>Khi bật, những người định cư được mời sẽ tự động bắn vào động vật hoang dã. Nhấp chuột phải để thay đổi cài đặt.\nĐược thêm bởi Mod 「Cho phép một lần nhấn」.</PartyHuntToggle_desc>
+	<!--<Designator_context_rearm_succ>Đã đánh dấu {0} bẫy để đặt lại.</Designator_context_rearm_succ>
+	<Designator_context_rearm_fail>Hiện không có bẫy nào cần đặt lại.</Designator_context_rearm_fail>-->
+</LanguageData>

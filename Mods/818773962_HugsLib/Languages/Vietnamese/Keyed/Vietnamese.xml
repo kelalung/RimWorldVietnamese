@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HugsLib_settings_btn>Tùy chọn Mod</HugsLib_settings_btn>
+	<HugsLib_settings_windowTitle>Tùy chọn Mod</HugsLib_settings_windowTitle>
+	<HugsLib_settings_resetValue>Đặt lại về giá trị mặc định</HugsLib_settings_resetValue>
+	<HugsLib_settings_resetAll>Đặt lại tất cả</HugsLib_settings_resetAll>
+	<HugsLib_settings_resetAll_prompt>Bạn có chắc chắn muốn đặt lại tất cả tùy chọn về giá trị mặc định không?</HugsLib_settings_resetAll_prompt>
+	<HugsLib_settings_noSettings>Không có Mod nào được tải với tùy chọn có thể thiết lập.</HugsLib_settings_noSettings>
+<!--	<HugsLib_ownSettingsName>Khác</HugsLib_ownSettingsName>-->
+	<HugsLib_settings_resetMod>Đặt lại cài đặt {0} về mặc định</HugsLib_settings_resetMod>
+	<HugsLib_settings_resetMod_prompt>Đặt lại tất cả cài đặt {0} về giá trị ban đầu?</HugsLib_settings_resetMod_prompt>
+	<HugsLib_settings_resetIncludeHidden>Bao gồm cài đặt ẩn ({0})</HugsLib_settings_resetIncludeHidden>
+	<HugsLib_settings_hiddenSettingsHeader>Cài đặt mod ẩn:</HugsLib_settings_hiddenSettingsHeader>
+	<HugsLib_settings_resetSuccessMessage>Cài đặt {0} đã được đặt lại.</HugsLib_settings_resetSuccessMessage>
+	<HugsLib_setting_showNews_label>Hiển thị thông tin cập nhật Mod</HugsLib_setting_showNews_label>
+	<HugsLib_setting_showNews_desc>Cho phép các Mod mới cài đặt và nâng cấp hiển thị cửa sổ thông báo về các tính năng và cập nhật khi khởi động trò chơi.</HugsLib_setting_showNews_desc>
+	<HugsLib_setting_allNews_label>Hiển thị tất cả thông tin cập nhật Mod</HugsLib_setting_allNews_label>
+	<HugsLib_setting_allNews_desc>Hiển thị tất cả thông tin cập nhật Mod có sẵn, bao gồm cả các thông tin cập nhật đã hiển thị trước đó.</HugsLib_setting_allNews_desc>
+	<HugsLib_setting_allNews_button>Hiển thị cập nhật</HugsLib_setting_allNews_button>
+	<HugsLib_setting_allNews_fail>Không có thông tin cập nhật nào có thể hiển thị trong các Mod đã bật.</HugsLib_setting_allNews_fail>
+	<HugsLib_setting_unnamed_mod>(Mod không có tên)</HugsLib_setting_unnamed_mod>
+	<HugsLib_setting_show_settings>Hiển thị cài đặt</HugsLib_setting_show_settings>
+	<HugsLib_setting_mod_name_title>Cài đặt Mod {0}</HugsLib_setting_mod_name_title>
+	<HugsLib_setting_expand_mod>Mở rộng</HugsLib_setting_expand_mod>
+	<HugsLib_setting_collapse_mod>Đóng lại</HugsLib_setting_collapse_mod>
+	<HugsLib_setting_quickstartSettings_label>Cấu hình khởi động nhanh</HugsLib_setting_quickstartSettings_label>
+	<HugsLib_setting_logPublisherSettings_label>Cài đặt nhà xuất bản nhật ký</HugsLib_setting_logPublisherSettings_label>
+	<HugsLib_setting_ignoredUpdateNews_label>Các nhà cung cấp tin tức cập nhật Mod bị bỏ qua</HugsLib_setting_ignoredUpdateNews_label>
+	<HugsLib_features_title>Tính năng mới của Mod</HugsLib_features_title>
+	<HugsLib_features_description>Dưới đây là thông tin cập nhật của các Mod mới cài đặt, bao gồm các tính năng mới và cải tiến cho trò chơi.\nBạn có thể tắt cửa sổ bật lên này trong 「Tùy chọn」 &gt; 「Tùy chọn Mod」.</HugsLib_features_description>
+	<HugsLib_features_update>{0} v{1}</HugsLib_features_update>
+	<HugsLib_features_link>Liên kết trang web</HugsLib_features_link>
+	<HugsLib_features_linkDesc>Mở liên kết này trong trình duyệt của bạn để tìm hiểu thêm về bản cập nhật này.\nĐịa chỉ: {0}</HugsLib_features_linkDesc>
+	<HugsLib_features_ignoreTooltip>Thông báo về các cập nhật trong tương lai từ mod này</HugsLib_features_ignoreTooltip>
+	<HugsLib_features_confirmIgnoreTitle>Xác nhận</HugsLib_features_confirmIgnoreTitle>
+	<HugsLib_features_confirmIgnore>Bỏ qua tin tức cập nhật trong tương lai từ {0}?\n\nCó thể được bật lại trong Tùy chọn Mod &gt; Tất cả tin tức cập nhật mod</HugsLib_features_confirmIgnore>
+	<HugsLib_features_filterBtn>Lọc theo mod</HugsLib_features_filterBtn>
+	<HugsLib_features_filterStatus>Bộ lọc hiện tại: {0}</HugsLib_features_filterStatus>
+	<HugsLib_features_filterAllMods>Tất cả mod</HugsLib_features_filterAllMods>
+	<HugsLib_features_filterDropdownEntry>{0} ({1} tin tức{2})</HugsLib_features_filterDropdownEntry>
+	<HugsLib_features_filterIgnoredModSuffix>, đã bỏ qua</HugsLib_features_filterIgnoredModSuffix>
+	<HugsLib_copiedToClipboard>Đã sao chép vào clipboard.</HugsLib_copiedToClipboard>
+	<HugsLib_logs_copy>Sao chép</HugsLib_logs_copy>
+	<HugsLib_logs_shareBtn>Xuất bản nhật ký</HugsLib_logs_shareBtn>
+	<HugsLib_logs_shareConfirmTitle>Xác nhận</HugsLib_logs_shareConfirmTitle>
+	<HugsLib_logs_shareConfirmMessage>Bạn có chắc chắn muốn tải lên nhật ký trò chơi không?\n\nĐiều này sẽ tải lên nhật ký trò chơi lên máy chủ công cộng để bạn có thể chia sẻ với người khác. Giúp người khác hoặc tác giả Mod hỗ trợ bạn giải quyết các vấn đề liên quan đến trò chơi và Mod mà bạn gặp phải.\n\nCác thông tin cá nhân khác sẽ không được chia sẻ.</HugsLib_logs_shareConfirmMessage>
+	<HugsLib_logs_publisherTitle>Xuất bản nhật ký trò chơi</HugsLib_logs_publisherTitle>
+	<HugsLib_logs_uploading>Đang tải lên {0}</HugsLib_logs_uploading>
+	<HugsLib_logs_shortening>Đang lấy URL {0}</HugsLib_logs_shortening>
+	<HugsLib_logs_uploaded>Đã tải lên xong!</HugsLib_logs_uploaded>
+	<HugsLib_logs_uploadError>Lỗi tải lên: {0}</HugsLib_logs_uploadError>
+	<HugsLib_logs_abortBtn>Hủy bỏ</HugsLib_logs_abortBtn>
+	<HugsLib_logs_retryBtn>Thử lại</HugsLib_logs_retryBtn>
+	<HugsLib_logs_browseBtn>Mở trong trình duyệt</HugsLib_logs_browseBtn>
+	<HugsLib_logs_useRecommendedSettings>Sử dụng cài đặt được khuyến nghị</HugsLib_logs_useRecommendedSettings>
+	<HugsLib_logs_shortUrls>Sử dụng rút gọn URL</HugsLib_logs_shortUrls>
+	<HugsLib_logs_shortUrls_tip>Tạo một liên kết ngắn hơn khi tải lên. Không khuyến nghị trên Steam - liên kết ngắn sẽ tự động bị xóa.</HugsLib_logs_shortUrls_tip>
+	<HugsLib_logs_platformInfo>Bao gồm thông tin nền tảng</HugsLib_logs_platformInfo>
+	<HugsLib_logs_platformInfo_tip>Bao gồm thông tin về CPU, bộ nhớ và card đồ họa của bạn trong nhật ký.</HugsLib_logs_platformInfo_tip>
+	<HugsLib_logs_unlimitedLogSize>Cho phép kích thước nhật ký không giới hạn</HugsLib_logs_unlimitedLogSize>
+	<HugsLib_logs_unlimitedLogSize_tip>Khi tắt, kích thước nhật ký bị giới hạn ở 10K dòng để ngăn chặn các nhật ký quá dài gây ra vấn đề.</HugsLib_logs_unlimitedLogSize_tip>
+	<HugsLib_logs_github_token>Token truy cập GitHub</HugsLib_logs_github_token>
+	<HugsLib_logs_github_token_tip>Công bố nhật ký lên tài khoản GitHub của bạn khi đã thiết lập. Dán token từ GitHub > Cài đặt > Cài đặt nhà phát triển > Token truy cập cá nhân. Để trống để công bố lên tài khoản HugsLib công cộng.\n\nNhật ký được công bố lên tài khoản của bạn chỉ có thể được xem bởi người khác thông qua liên kết.</HugsLib_logs_github_token_tip>
+	<HugsLib_logs_toClipboardBtn>Đến clipboard</HugsLib_logs_toClipboardBtn>
+	<HugsLib_logs_uploadBtn>Tải lên</HugsLib_logs_uploadBtn>
+	<HugsLib_logs_filesBtn>Tệp</HugsLib_logs_filesBtn>
+	<HugsLib_logs_openLogFile>Mở tệp nhật ký</HugsLib_logs_openLogFile>
+	<HugsLib_logs_openSaveDir>Mở thư mục lưu trữ</HugsLib_logs_openSaveDir>
+	<HugsLib_logs_openModsDir>Mở thư mục Mod</HugsLib_logs_openModsDir>
+	<HugsLib_restart_language_text>Ngôn ngữ trò chơi đã thay đổi. Trò chơi sẽ tự động khởi động lại.</HugsLib_restart_language_text>
+	<HugsLib_loadOrderWarning_title>Cảnh báo thứ tự Mod không đúng</HugsLib_loadOrderWarning_title>
+	<HugsLib_loadOrderWarning_text>&lt;b&gt;Mod HugsLib&lt;/b&gt; nên được xếp sau &lt;b&gt;Core&lt;/b&gt; để tránh gây ra vấn đề.\nVui lòng điều chỉnh thứ tự Mod của bạn trong menu Mod và khởi động lại trò chơi.</HugsLib_loadOrderWarning_text>
+	<HugsLib_updateRequired_title>Cần cập nhật thư viện</HugsLib_updateRequired_title>
+	<HugsLib_updateRequired_text>&lt;b&gt;{0}&lt;/b&gt; yêu cầu phiên bản &lt;b&gt;{1}&lt;/b&gt; của &lt;b&gt;thư viện HugsLib&lt;/b&gt; để hoạt động bình thường.\n\nBạn có muốn cập nhật ngay bây giờ không?</HugsLib_updateRequired_text>
+	<HugsLib_updateRequired_updateBtn>Cập nhật ngay</HugsLib_updateRequired_updateBtn>
+	<test_enumSetting_DefaultValue>Giá trị mặc định</test_enumSetting_DefaultValue>
+	<test_enumSetting_ValueOne>Giá trị mặc định một</test_enumSetting_ValueOne>
+	<test_enumSetting_ValueTwo>Giá trị mặc định hai</test_enumSetting_ValueTwo>
+</LanguageData>

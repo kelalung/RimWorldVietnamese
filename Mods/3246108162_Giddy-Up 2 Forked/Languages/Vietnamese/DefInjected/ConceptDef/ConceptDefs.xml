@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<GUC_Animal_Handling.label>Giddy-up: Kỹ năng thuần hóa thú</GUC_Animal_Handling.label>
+	<GUC_Animal_Handling.helpText>Kỹ năng thuần hóa thú của người nhỏ sẽ ảnh hưởng đến hiệu suất sử dụng thú cưỡi. Nếu trình độ kỹ năng thấp hơn mức cần thiết để thuần hóa động vật, mỗi cấp sẽ bị phạt về tốc độ di chuyển (2%) và độ chính xác (0.5%). Nếu trình độ kỹ năng cao hơn mức cần thiết để thuần hóa động vật, sẽ nhận được phần thưởng tương ứng. Phần thưởng/phạt ở mỗi cấp có thể được cấu hình trong tùy chọn MOD.</GUC_Animal_Handling.helpText>
+	<BM_Mounting.label>Giddy-up!: Cách cưỡi thú</BM_Mounting.label>
+	<BM_Mounting.helpText>Để cưỡi thú tham gia chiến đấu, hãy triệu hồi một người nhỏ, sau đó nhấp chuột phải vào động vật đã được thuần hóa, nhấn 'Cưỡi'.</BM_Mounting.helpText>
+	<BM_Enemy_Mounting.label>Giddy-up!: Thú cưỡi của kẻ thù</BM_Enemy_Mounting.label>
+	<BM_Enemy_Mounting.helpText>Kẻ thù cũng có thể cưỡi động vật. Tỷ lệ họ sử dụng thú cưỡi, cũng như nơi họ nhận được thú cưỡi (động vật hoang dã trong sinh cảnh của bạn, động vật hoang dã trong bất kỳ sinh cảnh nào, hoặc động vật không hoang dã), có thể được cấu hình trong tùy chọn MOD. Những người nhỏ bên kẻ thù có kỹ năng thuần hóa thú cao có nhiều khả năng sử dụng thú cưỡi hiếm.</BM_Enemy_Mounting.helpText>
+</LanguageData>

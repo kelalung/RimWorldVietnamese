@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Accessories.label>Linh kiện</Accessories.label>
+	<Shield.label>Tấm thuẫn</Shield.label>
+	<Underwear.label>Nội y</Underwear.label>
+	<UnderwearTop.label>Trên nội y áo</UnderwearTop.label>
+	<VFEC_OuterShell.label>Ngoại tầng</VFEC_OuterShell.label>
+	<OnSkin_A.label>Thiếp thân_A</OnSkin_A.label>
+	<Middle_A.label>Trung tầng_A</Middle_A.label>
+	<Shell_A.label>Ngoại tầng_A</Shell_A.label>
+	<Belt_A.label>Đai lưng_A</Belt_A.label>
+	<Overhead_A.label>Đầu đội_A</Overhead_A.label>
+</LanguageData>

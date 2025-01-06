@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Fluffy.Blueprints.DefaultBlueprintName>Bản vẽ</Fluffy.Blueprints.DefaultBlueprintName>
+	<Fluffy.Blueprints.NameAlreadyTaken>「{0}」 đã tồn tại. Vui lòng không sử dụng cùng một tên.</Fluffy.Blueprints.NameAlreadyTaken>
+	<Fluffy.Blueprints.InvalidBlueprintName>「{0}」là tên không hợp lệ.\nVui lòng sử dụng các ký tự chữ cái và số, dấu gạch dưới (a-Z, _). Không được sử dụng khoảng trắng.</Fluffy.Blueprints.InvalidBlueprintName>
+	<Fluffy.Blueprints.LoadFromXML>Nhập bản vẽ「{0}」</Fluffy.Blueprints.LoadFromXML>
+	<Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>Không thể tạo bản vẽ, không chọn bất kỳ đối tượng nào.</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+	<Fluffy.Blueprint.Cost>Tổng chi phí vật liệu:</Fluffy.Blueprint.Cost>
+	<Fluffy.Blueprints.Remove>Xóa bản vẽ</Fluffy.Blueprints.Remove>
+	<Fluffy.Blueprints.SaveToXML>Xuất bản vẽ</Fluffy.Blueprints.SaveToXML>
+	<Fluffy.Blueprints.RemoveAndDeleteXML>Xóa bản vẽ hoặc xóa bản vẽ đã xuất.</Fluffy.Blueprints.RemoveAndDeleteXML>
+	<Fluffy.Blueprints.Rename>Đổi tên bản vẽ</Fluffy.Blueprints.Rename>
+	<Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>Đã tồn tại bản vẽ có tên là 「{0}」.\nVui lòng chọn tên khác.</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+	<Fluffy.Blueprints.Create>Tạo</Fluffy.Blueprints.Create>
+	<!--<Fluffy.Blueprints.CreateFromSelectionHelp>Tạo một bản vẽ mới từ các tòa nhà hiện đang được chọn.</Fluffy.Blueprints.CreateFromSelectionHelp>-->
+	<Fluffy.Blueprints.CreateFromSelection>Create blueprint</Fluffy.Blueprints.CreateFromSelection>
+	<Fluffy.Blueprints.CreateHelp>Nhấn chuột trái để tạo bản vẽ mới.\nNhấn chuột phải để xuất bản vẽ.</Fluffy.Blueprints.CreateHelp>
+	<Fluffy.Blueprints.NoStoredBlueprints>Không tìm thấy bản vẽ đã xuất, hoặc tất cả các bản vẽ đã được tải.</Fluffy.Blueprints.NoStoredBlueprints>
+	<Fluffy.Blueprints.NothingAvailableInBlueprint>Tất cả các mục trong {0} không thể được xây dựng dưới công nghệ hiện tại.</Fluffy.Blueprints.NothingAvailableInBlueprint>
+	<Fluffy.Blueprints.XNotAvailableInBlueprint>Các mục trong {0} không thể được xây dựng dưới công nghệ hiện tại: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
+	<Fluffy.Blueprints.UnFlippable.HasInteractionCell>{0} không thể được xoay và có một điểm tương tác. Lật nó có thể dẫn đến vị trí không hợp lệ.</Fluffy.Blueprints.UnFlippable.HasInteractionCell>
+	<Fluffy.Blueprints.UnRotatable.HasInteractionCell>{0} không thể được xoay và có một điểm tương tác. Xoay nó có thể dẫn đến vị trí không hợp lệ.</Fluffy.Blueprints.UnRotatable.HasInteractionCell>
+	<Fluffy.Blueprints.UnRotatable.NonSquare>{0} không thể được xoay và không phải là hình vuông. Xoay bản vẽ sẽ dẫn đến vị trí không hợp lệ của {0}.</Fluffy.Blueprints.UnRotatable.NonSquare>
+	<Fluffy.Blueprints.Plural>{0}s</Fluffy.Blueprints.Plural>
+	<!-- copy command -->
+	<Fluffy.Blueprints.Copy>Sao chép</Fluffy.Blueprints.Copy>
+	<Fluffy.Blueprints.CopyHelp>Tạo một bản vẽ tạm thời từ các đối tượng đã chọn.\n\nNhấp chuột phải: Tạo một bản vẽ vĩnh viễn từ các tòa nhà hiện đang được chọn.</Fluffy.Blueprints.CopyHelp>
+	<!-- Options -->
+	<Fluffy.Blueprints>Bản vẽ</Fluffy.Blueprints>
+	<Fluffy.Blueprints.CopyKey>Cài đặt phím sao chép</Fluffy.Blueprints.CopyKey>
+</LanguageData>
